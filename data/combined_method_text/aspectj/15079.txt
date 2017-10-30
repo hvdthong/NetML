@@ -1,0 +1,13 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+control flow graph
+control flow graph controlflowgraph method gen methodgen method gen
+subroutin subroutin method gen
+exceptionhandl except handler exceptionhandl method gen
+instruct handl instructionhandl instructionhandl method gen instruct list getinstructionlist instruct handl getinstructionhandl
+instructionhandl length
+instruct context instructioncontext put instructionhandl instruct context impl instructioncontextimpl instructionhandl
+method gen method gen

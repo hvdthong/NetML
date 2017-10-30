@@ -1,0 +1,12 @@
+junit-frames.xsl included with ant does not properly deal with stack traces
+Latest version of junit xslt style sheet does not properly replace stack trace 
+carriage returns with <br> tags (looks like it just removes the carriage 
+returns). 
+
+Ths bug was introduced in v1.17 of src/etc/junit-frames.xsl. According to the 
+checkin comments for 1.17, the change was necessary to avoid stack overflow 
+issues.
+
+To workaround the problem I extracted the latest junit-frames.xsl and reverted 
+the br-replace function (to rev 1.16). Using this as a custom style sheet for 
+junitreport worked.

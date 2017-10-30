@@ -1,0 +1,29 @@
+org aspectj ajdt ajc
+icommand adapt aspectj compil
+thread safe
+ajdt command ajdtcommand command icommand
+creat build configur argument
+error report handler
+parser detect directli
+parser grab error stream
+emit superclass
+configur test
+case error
+sourc locat context locat error
+build config ajbuildconfig gen build config genbuildconfig string arg count messag handler countingmessagehandl handler
+build arg parser buildargpars parser build arg parser buildargpars handler
+build config ajbuildconfig config parser gen build config genbuildconfig arg
+sourc locat isourceloc locat
+config config file getconfigfil
+locat sourc locat sourceloc config config file getconfigfil
+string messag parser messag getothermessag
+messag
+messag imessag kind kind infer kind inferkind messag
+messag imessag messag messag kind locat
+handler handl messag handlemessag
+messag config configerror
+null messag
+imessag kind kind inferkind messag
+imessag messag messag kind null locat
+handler handlemessag
+config

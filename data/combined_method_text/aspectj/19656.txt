@@ -1,0 +1,21 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return iter field type order
+check jvm spec 2ed mean order
+field current class
+recur direct superinterfac
+recur superclass
+hashset interfac visit spiral
+land
+iter field getfield
+iter filter dup filter dupfilt iter dup filter dupfilt
+iter getter type getter typegett iter getter
+iter object
+dup filter dupfilt filter
+resolv type resolvedtyp direct supertyp getdirectsupertyp
+iter getter field getter fieldgett iter getter
+iter object
+iter arrai resolv type resolvedtyp declar field getdeclaredfield
+iter map mapov
+iter recur type getter typegett
+field getter fieldgett

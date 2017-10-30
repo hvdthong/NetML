@@ -1,0 +1,13 @@
+construct solver iter count accuraci
+param maxim iter count defaultmaximaliterationcount maximum number iter
+param absolut accuraci defaultabsoluteaccuraci maximum absolut error
+org apach common math analysi minim
+minim
+absolut accuraci defaultabsoluteaccuraci
+univari real minim impl univariaterealminimizerimpl
+provid implement function gener
+absolut accuraci defaultabsoluteaccuraci valid
+version revis date
+univari real minim impl univariaterealminimizerimpl maxim iter count defaultmaximaliterationcount
+illeg argument except illegalargumentexcept
+maxim iter count defaultmaximaliterationcount absolut accuraci defaultabsoluteaccuraci

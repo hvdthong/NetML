@@ -1,0 +1,29 @@
+small integr span
+org apach common math3 od
+success step end integr
+param dot0 ydot0 initi deriv state
+param dot ydot placehold put deriv
+handl implement link
+order differenti equat secondorderdifferentialequ
+dot ydot
+dot0 ydot0
+repres order integr
+version
+param target time integr
+param initi time
+integr order differenti equat secondorderdifferentialequ equat
+order integr secondorderintegr od integr odeintegr
+differenti equat
+math illeg state except mathillegalstateexcept math illeg argument except mathillegalargumentexcept
+object
+set smaller thant code code backward integr
+math illeg state except mathillegalstateexcept integr perform integr
+param equat differenti equat integr
+math illeg argument except mathillegalargumentexcept integr paramet wrong typic
+param initi state vector
+class devot solv order differenti
+param placehold put state vector
+vector
+state vector time object dot0 ydot0
+integr differenti equat time
+equat implement problem

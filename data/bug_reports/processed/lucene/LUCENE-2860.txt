@@ -1,0 +1,3 @@
+segmentinfo sizeinbytes ignore includedocstore caching
+noticed segmentinfos sizeinbytes cache potentially buggy account includedocstores call false sizeinbytes include store files true vice versa sizeinbytes compute store files
+fix add test case demonstrating bug

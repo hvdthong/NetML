@@ -1,0 +1,23 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+call path chang trigger full build
+clean increment build
+remov result build removeallresultsoflastbuild
+remov binarysourcefil classesfromnam
+iter iter input class file sourc inputclassfilesbysourc valu iter iter hasnext
+list cf list iter
+iter iter cf iter iter hasnext
+class file classfil class file classfil iter
+delet file system deletefromfilesystem
+iter iter class classesfromnam valu iter iter hasnext
+file file iter
+class file classfil delet file system deletefromfilesystem
+iter iter resourc iter iter hasnext
+string resourc string iter
+list output dir outputdir output locat getoutputloc build config buildconfig
+iter iter output dir outputdir iter iter hasnext
+file dir file iter
+file file dir resourc
+exist
+delet

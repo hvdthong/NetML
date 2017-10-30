@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree data
+
+
+extens link dataset xydataset interv
+interv defin note valu defin
+parent requir fall interv
+support thing bar plot
+numer ax
+
+interv dataset intervalxydataset dataset xydataset
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return lower bound interv primit
+seri item
+
+param seri seri index base
+param item item index base
+
+lower bound interv
+
+start getstarti
+
+start getstartyvalu seri item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

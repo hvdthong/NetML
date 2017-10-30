@@ -1,0 +1,27 @@
+author stephen colebourn
+field util fieldutil verifi bound verifyvaluebound month min max imax
+dom thisdom max dom maxdom
+year thisyear chronolog ichronolog year getyear instant
+basic month year date time field basicmonthofyeardatetimefield imprecis date time field imprecisedatetimefield
+month
+month depend
+author brian neill o'neil
+chronolog ichronolog milli dai getmillisofdai instant
+illeg argument except illegalargumentexcept month invalid
+param instant time instant milli updat
+param month month updat time
+set month compon time instant
+quietli forc dom nearest sane
+max dom maxdom chronolog ichronolog dai year month getdaysinyearmonth year thisyear month
+month total dai
+refactor month year date time field gjmonthofyeardatetimefield
+dom thisdom chronolog ichronolog dai month getdayofmonth instant year thisyear
+org joda time chrono
+dai month coerc nearest
+set instant month
+chronolog ichronolog year month dai milli getyearmonthdaymilli year thisyear month dom thisdom
+return newli calcul milli
+author gui allard
+updat time instant
+sane
+time calcul month year compon time

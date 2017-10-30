@@ -1,0 +1,4 @@
+org aspectj weaver
+abstract refer type deleg abstractreferencetypedeleg refer type deleg referencetypedeleg
+expos weaver isexposedtoweav
+expos weaver exposedtoweav

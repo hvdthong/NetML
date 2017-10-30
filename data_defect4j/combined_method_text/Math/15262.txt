@@ -1,0 +1,55 @@
+add xmean subtract xold scalar multipli scalarmultipli math sqrt mueff sigma
+inform refer link
+updat evolut path updateevolutionpath real matrix realmatrix zmean real matrix realmatrix xold
+version
+implement translat adapt matlab version
+link number larg except numberistoolargeexcept thrown
+org apach common math3 optim direct
+appli deriv base method quasi newton bfg
+quasi newton method cma learn appli variabl metric
+math sqrt mueff
+multivari function multivariatefunct goal type goaltyp optim method
+link base abstract multivari simpl bound optim baseabstractmultivariatesimpleboundsoptim optim
+param xold xmean matrix previou gener
+linear convex smooth global function minim
+scalar multipli scalarmultipli add
+href http www lri hansen cmaesintro html introduct cma
+chi chin dimens
+conjug gradient fail due rug search landscap nois local
+direct search method nelder mead faster
+href http www lri hansen cmae matlab code
+badli condit problem observ advantag cma compar
+hsig
+math sqrt mueff sigma
+deprec remov
+simpl constraint boundari care
+cma evolut strategi cma reliabl stochast optim method
+current offspr
+add xmean subtract xold scalar multipli scalarmultipli
+math math function evalu difficult problem complet
+implement activ covari matrix adapt evolut strategi cma
+cmae optim cmaesoptim
+differ upper lower bound overflow
+param zmean weight row matrix gaussian random number gener
+gener smooth object function cma roughli ten time
+underli search space unlik quasi newton method
+scalar multipli scalarmultipli
+slower bfg count object function evalu gradient provid
+math sqrt math pow iter
+optima outlier object function
+reliabl cma
+normp frobeniu norm getfrobeniusnorm
+reliabl term find good close optim solut
+hsig flag indic small correct
+math math math math
+convent evolut strategi
+function evalu
+multipli zmean scalar multipli scalarmultipli
+updat evolut path
+optim singl run expect roughli
+math math variabl deriv free simplex
+cma algorithm implement modul code cmae version
+cma suit separ
+href http wikipedia org wiki cma wikipedia
+cma estim gradient make consider
+hsig normp

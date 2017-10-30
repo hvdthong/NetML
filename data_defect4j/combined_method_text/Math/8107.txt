@@ -1,0 +1,53 @@
+pass file comput min max
+href http nedwww ipac caltech level5 march02 silverman silver2 html
+gener uniformli distribut
+divid interv subinterv bin
+random
+stat getmean ob bin
+upper bound upperbound
+select subinterv belong
+strong gener random valu distribut strong
+start uniformli distribut random number
+stat standard deviat getstandarddevi ob
+strong usag note strong
+random data randomdata uniform nextuniform
+math random
+stat getmean stat standard deviat getstandarddevi
+summari statist summarystatist stat bin stat binstat
+load
+summari statist summarystatist stat summari statist summarystatist bin stat binstat
+math runtim except mathruntimeexcept bin select
+version
+input file plain text file valid numer
+version revis date
+math runtim except mathruntimeexcept creat illeg state except createillegalstateexcept distribut load
+strong digest input file strong
+pass data file comput bin count univari
+runtim except runtimeexcept bin select
+illeg state except illegalstateexcept distribut load
+getnextvalu illeg state except illegalstateexcept
+length bin' subinterv proport count
+math illeg state except mathillegalstateexcept local format localizedformat distribut load
+entri line
+code bin count bincount code set good rule thumb
+gener random distribut
+org apach common math random
+getnextvalu math illeg state except mathillegalstateexcept
+random data randomdata gaussian nextgaussian
+implement code empir distribut empiricaldistribut code implement
+stat getn
+empir distribut impl empiricaldistributionimpl serializ empir distribut empiricaldistribut
+divid rang min max code bin count bincount code bin
+math runtim except mathruntimeexcept creat illeg state except createillegalstateexcept local format localizedformat distribut load
+set bin count approxim length input file divid
+select bin gener gaussian bin
+bin count bincount
+math illeg state except mathillegalstateexcept distribut load
+statist std dev bin
+fast math fastmath random
+amount
+math illeg state except mathillegalstateexcept local format localizedformat bin select
+math runtim except mathruntimeexcept local format localizedformat bin select
+gener random gaussian
+variabl kernel method gaussian smooth
+bin std dev std dev bin

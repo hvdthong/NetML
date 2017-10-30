@@ -1,0 +1,5 @@
+src/main/org/apache/tools/ant/taskdefs/XmlProperty_execute_void
+src/main/org/apache/tools/ant/taskdefs/XmlProperty_init_void
+src/main/org/apache/tools/ant/taskdefs/XmlProperty_setIncludeSemanticAttribute-boolean_void
+src/main/org/apache/tools/ant/taskdefs/XmlProperty_setRootDirectory-File_void
+src/main/org/apache/tools/ant/taskdefs/XmlProperty_setSemanticAttributes-boolean_void

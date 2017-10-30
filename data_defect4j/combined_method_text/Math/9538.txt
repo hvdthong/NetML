@@ -1,0 +1,9 @@
+link math
+power ispoweroftwo
+org apach common math util
+param number test
+arithmet relat addit built function
+version
+argument power
+arithmet util arithmeticutil
+return argument power

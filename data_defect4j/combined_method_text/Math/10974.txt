@@ -1,0 +1,18 @@
+param ep toler
+quaternion hamilton' hypercomplex number
+org apach common math3 complex
+quaternion serializ
+precis equal getq1 ep
+equal quaternion
+instanc guarante immut
+precis equal getq3 ep
+precis equal getq0 ep
+check instanc equal quaternion
+href http mathworld wolfram quaternion html
+version
+allow absolut error
+toler
+param quaternion compar current quaternion
+code compon equal
+ep
+precis equal getq2 ep

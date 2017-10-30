@@ -1,0 +1,10 @@
+org apach lucen index
+segment term posit segmenttermposit
+overrid
+seek term info terminfo term term except ioexcept
+seek term
+lazi skip pointer lazyskippoint prox pointer proxpoint
+lazi skip prox count lazyskipproxcount
+prox count proxcount
+payload length payloadlength
+load payload needtoloadpayload

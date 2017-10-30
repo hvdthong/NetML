@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+weav normal type munger weavenormaltypemung resolv type resolvedtyp type ontyp
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process type munger process type munger type ontyp getnam
+type ontyp raw type israwtyp type ontyp parameter type isparameterizedtyp type ontyp type ontyp gener type getgenerictyp
+iter type munger list typemungerlist iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+late munger islatemung match type ontyp
+type ontyp add inter type munger addintertypemung
+compil weav context compilationandweavingcontext leav phase leavingphas tok

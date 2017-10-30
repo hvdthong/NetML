@@ -1,0 +1,21 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+claus perclaus kind determin claus determineperclaus type declar typedeclar type declar typedeclar string claus
+claus start startswith perthi
+claus perclaus perobject
+claus start startswith pertarget
+claus perclaus perobject
+claus start startswith percflow
+claus perclaus percflow
+claus start startswith percflowbelow
+claus perclaus percflow
+claus start startswith pertypewithin
+claus perclaus pertypewithin
+claus start startswith issingleton
+claus perclaus singleton
+eclips world eclipseworld show messag showmessag messag imessag abort
+determin perclaus claus
+eclips sourc locat eclipsesourceloc type declar typedeclar compil result compilationresult type declar typedeclar sourc start sourcestart type declar typedeclar sourc end sourceend
+claus perclaus singleton return perclaus singleton fallback strategi avoid npe

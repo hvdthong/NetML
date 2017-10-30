@@ -1,0 +1,31 @@
+code decompos ludecompos code recomput decomposit
+solut invers
+decomposit support linear system
+data ref getdataref
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+data modifi refer underli arrai obtain
+strong strong make fresh copi underli data
+org apach common math linear
+invers
+dimension arrai entri
+version
+version revis date
+discard explicitli invok
+base code entri getentri code
+method
+store entri
+decomposit perform need support oper
+decomposit cach reus subsequ call
+link real matrix realmatrix matrix element index
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+solv
+data
+implement link real matrix realmatrix code arrai
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+return element row column matrix
+refer underli data arrai
+href http www math gatech bourbaki math2601 web note 2num pdf
+return refer underli data arrai

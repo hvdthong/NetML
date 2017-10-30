@@ -1,0 +1,32 @@
+generics itds class generic enclosing class
+ajc crashes nullpointerexception intertype declaration
+modify class enclosing outer class generic
+class outer
+class
+
+class generic outer
+class
+
+aspect injector
+int outer outer works
+int outer works
+int generic outer outer works
+int generic outer crashes
+
+home user sgelin3 dev java ajc bug bug java error internal compiler error
+java lang nullpointerexception
+
+org aspectj ajdt internal compiler lookup eclipsefactory frombinding eclipsefactory java
+
+org aspectj ajdt internal compiler ast intertypefielddeclaration build intertypefielddeclaration java
+
+org aspectj ajdt internal compiler ast aspectdeclaration buildintertypeandperclause aspectdeclaration java
+
+org aspectj ajdt internal compiler lookup ajlookupenvironment buildintertypeandperclause ajlookupenvironment java
+
+org aspectj ajdt internal compiler lookup ajlookupenvironment completetypebindings ajlookupenvironment java
+
+org aspectj org eclipse jdt internal compiler compiler begintocompile compiler java
+
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+

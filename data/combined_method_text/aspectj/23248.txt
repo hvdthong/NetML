@@ -1,0 +1,11 @@
+org aspectj weaver tool
+abstract trace abstracttrac trace
+string format messag formatmessag string kind string text throwabl
+string buffer stringbuff messag string buffer stringbuff
+date date
+messag append format date formatd append
+messag append thread current thread currentthread getnam append
+messag append kind append
+messag append text
+messag append append format obj formatobj
+messag string tostr

@@ -1,0 +1,33 @@
+version
+param start row startrow initi row index
+return link real matrix chang visitor realmatrixchangingvisitor end end
+start row startrow end row endrow start column startcolumn end column endcolumn
+number small except numberistoosmallexcept code end row endrow start row startrow
+code end column endcolumn start column startcolumn
+indic valid
+walk column order walkincolumnord real matrix chang visitor realmatrixchangingvisitor visitor
+walk optim order walkinoptimizedord real matrix chang visitor realmatrixchangingvisitor
+walk column order walkincolumnord real matrix preserv visitor realmatrixpreservingvisitor
+param start column startcolumn initi column index
+param end column endcolumn final column index
+rang except outofrangeexcept indic valid
+walk row order walkinroword real matrix preserv visitor realmatrixpreservingvisitor
+walk row order walkinroword real matrix chang visitor realmatrixchangingvisitor
+visit possibl chang matrix entri column order
+end row endrow start column startcolumn end column endcolumn
+matrix element index base code entri getentri code
+param visitor visitor process matrix entri
+walk column order walkincolumnord real matrix chang visitor realmatrixchangingvisitor visitor start row startrow
+walk column order walkincolumnord real matrix chang visitor realmatrixchangingvisitor
+walk
+param end row endrow final row index inclus
+walk optim order walkinoptimizedord real matrix preserv visitor realmatrixpreservingvisitor
+org apach common math3 linear
+column
+rang except outofrangeexcept number small except numberistoosmallexcept
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+real matrix realmatrix matrix anymatrix
+interfac defin real valu matrix basic algebra oper
+column order start upper left iter element
+column top bottom topmost element

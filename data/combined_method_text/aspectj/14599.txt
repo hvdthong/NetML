@@ -1,0 +1,6 @@
+org aspectj apach bcel gener annot
+enum element gen enumelementvaluegen element gen elementvaluegen
+string enum string getenumvaluestr
+constant utf8 constantutf8 constant pool getconstantpool constant getconst idx valueidx byte getbyt
+constantstr cu8 constantstr getconstantpool getconst valueidx
+return constantutf8 getconstantpool getconst cu8 getstringindex getbyt

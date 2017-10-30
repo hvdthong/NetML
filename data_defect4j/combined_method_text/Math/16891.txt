@@ -1,0 +1,17 @@
+transform integ vector integ vector integ transform
+version
+power
+org apach common math3 transform
+transform transform type transformtyp type
+inherit doc inheritdoc
+addit transform real vector hadamard transform
+type transform type transformtyp forward
+transform input vector output vector
+invers transform integ vector ration
+vector
+invert directli due scale factor lead ration result
+fast hadamard transform fasthadamardtransform real transform realtransform serializ
+transform util transformutil scale arrai scalearrai fht length
+fht
+implement href http www archiv chipcent dsp dsp000517 dsp000517f1 html fast hadamard transform fht
+math illeg argument except mathillegalargumentexcept length data arrai

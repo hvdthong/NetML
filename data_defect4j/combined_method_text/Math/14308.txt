@@ -1,0 +1,34 @@
+org apach common math3 od
+jacobian matric jacobianmatric
+efod
+defin set link secondari equat secondaryequ secondari equat
+efod set secondari state setsecondaryst index matric data matricesdata
+link paramet jacobian provid parameterjacobianprovid
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+system arraycopi row matric data matricesdata state dim statedim
+link order differenti equat firstorderdifferentialequ
+version
+parameter od parameterizedod
+order comput jacobian matric respect paramet
+link parameter od parameterizedod
+dimens mismatch except dimensionmismatchexcept
+primari od set paramet jacobian provid set
+store matrix row major order singl dimens arrai
+set initi main state jacobian setinitialmainstatejacobian dydy0
+set initi jacobian matrix respect state
+param dydy0 initi jacobian matrix state
+row dydy0
+comput jacobian matric respect initi state vector
+intend pack link expand state od expandablestatefulod
+conjunct primari set od
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+state dim statedim
+except dimens mismatch except dimensionmismatchexcept matrix dimens incorrect
+method call initi jacobian
+check dimens
+link main state jacobian provid mainstatejacobianprovid
+matrix respect state set ident
+check dimens checkdimens state dim statedim dydy0
+order differenti equat firstorderdifferentialequ

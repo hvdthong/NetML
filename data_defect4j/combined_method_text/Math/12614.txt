@@ -1,0 +1,7 @@
+simpl contain point segment
+org apach common math3 geometri euclidean threed
+start
+version
+segment
+start point segment
+vector3 vector3d start getstart

@@ -1,0 +1,8 @@
+org apach lucen search
+wrap spanfilt result cach purpos
+filter simpli filter wrap class add cach
+cach span filter cachingspanfilt span filter spanfilt
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+span filter result spanfilterresult result cach result getcachedresult context reader
+result result doc set getdocidset

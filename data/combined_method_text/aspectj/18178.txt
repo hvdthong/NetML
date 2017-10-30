@@ -1,0 +1,17 @@
+org aspectj util
+lang util langutil
+init file java
+string classpath
+string main class mainclass
+string arg
+lang util langutil throw iax null throwiaxifnul java java
+lang util langutil throw iax null throwiaxifnul main class mainclass mainclass
+lang util langutil throw iax null throwiaxifnul arg arg
+arrai list arraylist cmd arrai list arraylist
+cmd add java absolut path getabsolutepath
+cmd add classpath
+cmd add classpath
+cmd add main class mainclass
+lang util langutil empti isempti arg
+cmd add addal arrai list aslist arg
+init string cmd arrai toarrai string main class mainclass

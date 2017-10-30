@@ -1,0 +1,36 @@
+org aspectj tool ajdoc
+implement ajdoc style
+job serv evolv lightweight ajdoc implement
+make properli extend javadoc implement
+author mik kersten
+main config
+call javadoc calljavadoc file signatur file signaturefil except ioexcept
+system println call javadoc
+string javadocarg
+packag mode packagemod
+num extra arg numextraarg
+author standard doclet switch authorstandarddocletswitch num extra arg numextraarg
+version standard doclet switch versionstandarddocletswitch num extra arg numextraarg
+javadocarg string num extra arg numextraarg option size packag list packagelist size
+file list filelist size
+javadocarg sourcepath
+javadocarg output work dir outputworkingdir
+arg index argindex
+author standard doclet switch authorstandarddocletswitch
+javadocarg arg index argindex author
+arg index argindex
+version standard doclet switch versionstandarddocletswitch
+javadocarg arg index argindex version
+javadocarg getsourcepathasstr
+option size
+javadocarg num extra arg numextraarg string option element elementat
+packag list packagelist size
+javadocarg num extra arg numextraarg option size string packag list packagelist element elementat
+file list filelist size
+javadocarg num extra arg numextraarg option size packag list packagelist size string file list filelist element elementat
+javadocarg string option size signatur file signaturefil length
+option size
+javadocarg string option element elementat
+signatur file signaturefil length
+javadocarg option size structur util structureutil translat path translateajpathnam signatur file signaturefil canon path getcanonicalpath
+javadoc runner javadocrunn call javadoc calljavadoc javadocarg

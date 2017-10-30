@@ -1,0 +1,15 @@
+row row row dimens getrowdimens
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+param row row index check
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+check row index valid
+rang except outofrangeexcept local format localizedformat row index
+version
+check row index checkrowindex row rang except outofrangeexcept
+check row index checkrowindex row
+param type field element
+row row dimens getrowdimens
+rang except outofrangeexcept code index valid

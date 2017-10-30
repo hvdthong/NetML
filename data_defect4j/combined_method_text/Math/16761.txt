@@ -1,0 +1,30 @@
+pre
+note add initi unitari column column 1'
+load sampl data overrid previou data
+matrix xmatrix array2 row real matrix array2drowrealmatrix aug xaug
+aug xaug
+abstract multipl linear regress abstractmultiplelinearregress
+code code pre
+var nvar length
+version
+intercept nointercept
+org apach common math3 stat regress
+system arraycopi aug xaug var nvar
+param rectangular arrai repres sampl
+input code code arrai row sampl
+aug xaug length var nvar
+code set sampl data setxsampledata code result model independ
+length var nvar
+observ column independ variabl
+variabl observ
+abstract base implement multipl linear regress multiplelinearregress
+sampl data newxsampledata
+matrix xmatrix array2 row real matrix array2drowrealmatrix
+augment design matrix initi unitari column
+dimens mismatch except dimensionmismatchexcept length var nvar
+length
+data except nodataexcept empti
+model includ intercept term
+data except nodataexcept
+dimens mismatch except dimensionmismatchexcept rectangular
+null argument except nullargumentexcept

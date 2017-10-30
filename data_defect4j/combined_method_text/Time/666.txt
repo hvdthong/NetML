@@ -1,0 +1,33 @@
+author stephen colebourn
+set
+chronolog set intern utc time zone
+copi local date time localdatetim field chang
+text
+add subtract
+repres local datetim intern
+dai year dayofyear milli dai millisofdai
+local date time localdatetim thread safe immut provid chronolog
+code hour dai hourofdai code
+numer
+local date time localdatetim unmodifi datetim repres
+calcul local date time localdatetim perform link chronolog
+maximum minimum valu
+local date time localdatetim round half floor copi roundhalffloorcopi
+techniqu access method
+calcul
+field fact queri
+field
+local date time localdatetim link readabl partial readableparti
+individu field queri wai
+intern local date time localdatetim singl millisecond base
+local date time localdatetim favor floor halfwai
+method focu kei field year month year monthofyear
+local date time localdatetim
+datetim time zone
+round nearest unit field copi
+standard chronolog class suppli thread safe immut
+instant iinstant local milli withlocalmilli field ifield round half floor roundhalffloor instant iinstant local milli getlocalmilli
+code hour dai gethourofdai code
+expos applic
+org joda time
+round

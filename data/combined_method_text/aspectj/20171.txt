@@ -1,0 +1,6 @@
+org aspectj weaver ast
+annot hasannot test
+equal object
+annot hasannot
+annot hasannot annot hasannot
+equal ann type anntyp equal ann type anntyp

@@ -1,0 +1,48 @@
+org aspectj org eclips jdt core dom
+intern ast visitor serial ast quick dirti fashion
+reason result string necessarili legal
+java code legal java code necessarili string
+correspond ast useless purpos
+fine gener debug print string
+usag
+code
+pre
+naiveastflatten naiveastflatten
+node accept
+string result getresult
+pre
+code
+call code reset code method clear previou result reus
+exist instanc
+naiv ast flatten ajnaiveastflatten ast visitor ajastvisitor
+visit enum declar enumdeclar node
+node javadoc getjavadoc
+node javadoc getjavadoc accept
+print indent printind
+print modifi printmodifi node modifi
+buffer append enum buffer append enum nl
+node getnam accept
+buffer append buffer append nl
+node super interfac type superinterfacetyp empti isempti
+buffer append implement buffer append implement nl
+iter node super interfac type superinterfacetyp iter hasnext
+type type
+accept
+hasnext
+buffer append buffer append nl
+buffer append buffer append nl
+buffer append buffer append nl
+iter node enum constant enumconst iter hasnext
+enum constant declar enumconstantdeclar enum constant declar enumconstantdeclar
+accept
+enum constant declar includ punctuat
+hasnext
+enum constant declar separ comma
+buffer append buffer append nl
+node bodi declar bodydeclar empti isempti
+buffer append buffer append nl
+iter node bodi declar bodydeclar iter hasnext
+bodi declar bodydeclar bodi declar bodydeclar
+accept
+bodi declar includ trail punctuat
+buffer append buffer append nl

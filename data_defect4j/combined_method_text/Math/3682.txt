@@ -1,0 +1,23 @@
+method implement link entri getentri access
+inherit doc inheritdoc
+row row dimens getrowdimens
+column column column column
+abstract real matrix abstractrealmatrix
+newvalu visitor visit row column oldvalu
+org apach common math linear
+walk column order walkincolumnord real matrix chang visitor realmatrixchangingvisitor visitor
+visitor end
+version
+version revis date
+row row row row
+oldvalu entri getentri row column
+visitor visit row column entri getentri row column
+column column dimens getcolumndimens
+set entri setentri row column newvalu
+walk column order walkincolumnord real matrix preserv visitor realmatrixpreservingvisitor visitor
+matrix visitor except matrixvisitorexcept
+abstract real matrix abstractrealmatrix real matrix realmatrix
+matrix element deriv provid faster implement
+abstract real matrix abstractrealmatrix real matrix realmatrix serializ
+basic implement real matrix realmatrix method underli storag
+visitor start row column row column

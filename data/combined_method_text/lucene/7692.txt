@@ -1,0 +1,11 @@
+org apach lucen search
+contain filter boolean composit filter
+filter alloc logic construct
+result filter bitset construct
+filter ord
+result filter notd filter
+result filter andd filter
+boolean filter booleanfilt filter
+doc set iter docidsetiter disi getdisi arrai list arraylist filter filter index reader context readercontext info
+except ioexcept
+filter index doc set getdocidset info iter

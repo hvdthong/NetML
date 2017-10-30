@@ -1,0 +1,28 @@
+version
+decomposit solver decompositionsolv solver
+threshold
+covari matrix
+org apach common math3 fit leastsquar
+covari matrix optim paramet
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+solver invers getinvers data getdata
+real matrix realmatrix jtj transpos multipli
+trigger except
+result comput consid meaningless
+param optim concret optim
+org apach common math3 linear singular matrix except singularmatrixexcept
+code code matrix code
+param param model paramet
+set jacobian
+real matrix realmatrix comput weight jacobian computeweightedjacobian param
+code threshold paramet caller
+covari matrix comput singular problem
+jacobian matrix
+param threshold singular threshold
+comput covari matrix
+base implement squar optim
+method error estim
+note oper involv invers
+decomposit qrdecomposit jtj threshold solver getsolv
+comput transpos
+comput covari computecovari param

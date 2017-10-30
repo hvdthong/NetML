@@ -1,0 +1,27 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+object format obj formatobj object obj
+class safe implement tostr
+obj
+obj string
+obj number
+obj boolean
+obj except
+obj charact
+obj class
+obj file
+obj string buffer stringbuff
+obj url
+obj
+class provid altern implement tostr
+obj traceabl
+traceabl traceabl obj
+trace string totracestr
+classnam hashcod
+obj class getclass getnam integ hex string tohexstr system ident hash code identityhashcod obj
+object hashcod overrid thow except
+except
+obj class getclass getnam ffffffff

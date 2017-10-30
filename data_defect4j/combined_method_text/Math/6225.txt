@@ -1,0 +1,27 @@
+pre
+euler integr eulerintegr
+interpol comput dens output insid
+current time
+step comput interpol equat consist
+linear interpol step
+theta previou time step current time step
+org apach common math od
+euler step interpol eulerstepinterpol
+interpol state interpolatedst length
+deriv except derivativeexcept
+deriv class perform interpol
+version revis date
+comput interpol state computeinterpolatedst theta
+deriv comput step
+underli user function trigger
+version euler step interpol eulerstepinterpol java 39z luc
+integr scheme
+deriv except derivativeexcept except propag caller
+main process method implement
+param theta normal interpol abscissa step
+theta belong evalu
+interpol state interpolatedst current state currentst minu theta oneminusthetah dot ydotk
+comput state interpol time
+theta theta
+param minu theta oneminusthetah time gap interpol time
+minu theta oneminusthetah

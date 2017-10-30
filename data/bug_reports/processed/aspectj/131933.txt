@@ -1,0 +1,30 @@
+grotty classcastexception referring pointcut generic type
+import java util list
+public aspect slide71
+generictype string foo
+generictype mylist foo
+generictype foo
+
+class generictype
+public pointcut foo execution
+
+programs mylist type
+java lang classcastexception
+org aspectj weaver patterns typepattern resolveexacttype typepattern java
+org aspectj weaver patterns referencepointcut resolvebindings referencepointcut java
+org aspectj weaver patterns pointcut resolve pointcut java
+org aspectj ajdt internal compiler ast pointcutdesignator finishresolvetypes pointcutdesignator java
+org aspectj ajdt internal compiler ast advicedeclaration resolvestatements advicedeclaration java
+org aspectj org eclipse jdt internal compiler ast abstractmethoddeclaration resolve abstractmethoddeclaration java
+org aspectj org eclipse jdt internal compiler ast typedeclaration resolve typedeclaration java
+org aspectj ajdt internal compiler ast aspectdeclaration resolve aspectdeclaration java
+org aspectj org eclipse jdt internal compiler ast typedeclaration resolve typedeclaration java
+org aspectj org eclipse jdt internal compiler ast compilationunitdeclaration resolve compilationunitdeclaration java
+org aspectj org eclipse jdt internal compiler compiler process compiler java
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager incrementalbuild ajbuildmanager java
+org aspectj ajde internal compileradapter compile compileradapter java
+org aspectj ajde internal aspectjbuildmanager compilerthread run aspectjbuildmanager java
+classcastexception thrown org aspectj weaver patterns wildtypepattern

@@ -1,0 +1,16 @@
+org aspectj apach bcel gener
+icmplt branch int comparison succe
+pre stack value1 value2 pre
+version icmplt java aclement exp
+author href mailto marku dahm berlin dahm
+icmplt icmplt instruct ifinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack consum visitstackconsum
+visit branch instruct visitbranchinstruct
+visit instruct visitifinstruct
+visit icmplt visitif icmplt

@@ -1,0 +1,13 @@
+author stephen colebourn
+param durat durat add mean add
+param scalar direct amount add neg
+typic chang field
+add durat instant time add
+add readabl durat readabledur durat scalar
+arithmet except arithmeticexcept result exce capac instant
+implement mutabl
+express datetim millisecond t00 01t00 00z
+read writabl instant readwritableinst readabl instant readableinst
+org joda time
+provid advanc method
+defin instant datetim continuum queri modifi

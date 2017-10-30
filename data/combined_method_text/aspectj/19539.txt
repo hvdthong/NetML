@@ -1,0 +1,7 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+assign isassignablefrom resolv type resolvedtyp
+arrai isarrai
+compon type getcomponenttyp primit type isprimitivetyp
+equal
+compon type getcomponenttyp resolv world assign isassignablefrom compon type getcomponenttyp resolv world

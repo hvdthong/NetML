@@ -1,0 +1,7 @@
+org aspectj weaver
+repres type variabl bound
+type variabl typevari
+type variabl typevari string anam unresolv type unresolvedtyp upper bound anupperbound
+unresolv type unresolvedtyp addit interfac bound someadditionalinterfacebound unresolv type unresolvedtyp lower bound alowerbound
+anam upper bound anupperbound addit interfac bound someadditionalinterfacebound
+lower bound lowerbound lower bound alowerbound

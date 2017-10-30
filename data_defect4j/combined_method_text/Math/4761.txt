@@ -1,0 +1,19 @@
+pre
+style
+org apach common math linear
+type field element vector
+vector return method fluent api
+vector element wise perform oper ad scalar
+field field getfield
+param type field element
+return element vector
+version creat vector hold result chang instanc
+code map xxx mapxxxtoself code version instanc store
+real vector realvector result map add mapaddtoself map tan maptantoself map squar mapsquaretoself
+appli function element turn code map xxx mapxxx code
+code map xxx mapxxx code code map xxx mapxxxtoself code method oper
+field vector fieldvector field element fieldel
+interfac defin field valu vector basic algebra oper
+version revis date
+vector element index base code entri getentri code
+result instanc chang method case result

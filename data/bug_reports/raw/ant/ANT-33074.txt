@@ -1,0 +1,16 @@
+condition task should support optional value for false
+It would be convenient to have the condition task take an additional "otherwise"
+value for the property if the condition evaluates to false.  Not supplying this
+woulg give the current behaviour, i.e. not setting the property.  
+
+The workaround is simple enough:  use the condition task to set if true, and a
+subsequent property task to set if it hasn't been set yet (condition was false.)
+
+It would be both more elegant and clear with something like 
+
+<condition property="prop1" value="true" otherwise="false">
+    <some supported condition>
+</condition>
+
+The code change is simple.  The documentation changes are a little more
+substantial.  (I tested the former, but haven't investigated the latter.)

@@ -1,0 +1,36 @@
+code
+data mdata data
+data outdata row col sum
+array2 row real matrix array2drowrealmatrix data outdata
+copi element column col
+postmultipli matrix code
+sum
+param matrix postmultipli
+array2 row real matrix array2drowrealmatrix multipli array2 row real matrix array2drowrealmatrix
+version
+col mcol row mrow data mdata row mrow col
+row row row nrow row
+sum data row datarow col mcol
+matrix util matrixutil check multipl compat checkmultiplicationcompat
+data row datarow data row
+dimens mismatch except dimensionmismatchexcept
+store entri
+multipli
+data outdata row nrow col ncol
+row mrow row mrow sum nsum row mrow
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+dimens mismatch except dimensionmismatchexcept number column
+code column dimens columndimens row dimens rowdimens
+contigu memori
+col ncol column dimens getcolumndimens
+matrix equal number row code
+implement link real matrix realmatrix code arrai
+org apach common math3 linear
+return result postmultipli code code
+col col col ncol col
+col mcol sum nsum
+row nrow row dimens getrowdimens
+sum nsum column dimens getcolumndimens
+safeti check
+sum nsum
+hold column

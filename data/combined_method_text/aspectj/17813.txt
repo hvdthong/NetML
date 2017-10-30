@@ -1,0 +1,29 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+setup command line filter
+staticli defin environ variabl
+code org aspectj tool ant taskdef ajctask command editor code
+code classnam code paramet
+param classnam string fulli qualifi class
+reachabl object' class loader
+implement icommandeditor
+public argument constructor
+throw buildexcept unabl creat instanc classnam
+set command editor class setcommandeditorclass string class classnam public void setcommandeditorclass string classnam skip ant interfac
+class mclass class fornam class classnam
+set command editor setcommandeditor command editor icommandeditor mclass instanc newinst
+throwabl
+string unabl instanti command editor class classnam
+build except buildexcept

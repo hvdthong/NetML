@@ -1,0 +1,42 @@
+pre
+rel tol reltol compon
+param vec absolut toler vecabsolutetoler allow absolut error
+algorithm perform integr stepsiz control
+step reject attempt made
+scal absolut toler scalabsolutetoler
+org apach common math od
+switch handler switcheshandl switch function handler switchingfunctionshandl
+param max step maxstep maxim step posit backward
+min step minstep min step minstep
+integr step smaller
+param vec rel toler vecrelativetoler allow rel error
+compon user scalar valu ab tol abstol
+state vector dimens step accept
+step handler
+vec absolut toler vecabsolutetoler
+sqrt sum err est errest threshold
+set step handler
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+version revis date
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+vec rel toler vecrelativetoler
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+reset intern state resetinternalst
+param min step minstep minim step posit backward
+initi step initialstep
+mean user integr step
+vec rel toler vecrelativetoler vec rel toler vecrelativetoler
+handler dummi step handler dummystephandl instanc getinst
+max step maxstep max step maxstep
+estim error
+adapt stepsiz integr adaptivestepsizeintegr min step minstep max step maxstep
+stepsiz
+integr
+vec absolut toler vecabsolutetoler vec absolut toler vecabsolutetoler
+scal rel toler scalrelativetoler
+build integr stepsiz bound
+ab tol abstol absolut toler compon

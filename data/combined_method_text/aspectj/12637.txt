@@ -1,0 +1,24 @@
+org aspectj apach bcel classfil
+class repres tabl line number debug
+purpos attribut code attribut
+pair pc line number
+version linenumbert java aclement exp
+author href mailto marku dahm berlin dahm
+code
+asc feb06 made unpack lazi
+line number tabl linenumbert attribut
+return string represent
+string string tostr
+unpack
+string buffer stringbuff buf string buffer stringbuff
+string buffer stringbuff line string buffer stringbuff
+line number tabl length
+line append line number tabl string tostr
+line number tabl length
+line append
+line length
+line append
+buf append line
+line set length setlength
+buf append line
+buf string tostr

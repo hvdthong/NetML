@@ -1,0 +1,54 @@
+pattern languag format
+durat milli durationmilli
+durat length
+author href mailto sbailliez apach org stephan bailliez
+year
+string durat format durat formatdur durat milli durationmilli dai 'h' hour 'm' minut 's' seconds'
+suppress lead element suppressleadingzeroel
+month
+second
+tmp length durat length
+tabl border
+tabl
+format pattern month larger
+seri tweak special case requir
+suppress trail element suppresstrailingzeroel
+strip space
+millisecond
+author apach softwar foundat
+durat trim
+string tmp string util stringutil replac replaceonc durat dai
+org apach common lang3 time
+durat string util stringutil replac replaceonc durat minut minut
+format text dai hour minut second
+version
+trickeri replic
+durat format util constant tabl describ token
+durat string util stringutil replac replaceonc durat dai dai
+format elaps time plurial correct string
+durat format util durationformatutil
+param suppress trail element suppresstrailingzeroel suppress trail element
+durat tmp
+durat durat
+dai
+durat string util stringutil replac replaceonc tmp dai
+author href mailto ggregori seagullsw gari gregori
+method format durat dai lower field
+handl plural
+durat string util stringutil replac replaceonc durat hour hour
+temporari marker front regexp
+charact durat element
+durat durat substr
+param suppress lead element suppressleadingzeroel suppress lead element
+tmp string util stringutil replac replaceonc durat hour
+author apach ant date util dateutil
+string tmp string util stringutil replac replaceonc durat second
+method gener replac format method
+hour
+param durat milli durationmilli elaps time report millisecond
+author href mailto stefan bodewig epost stefan bodewig
+tmp string util stringutil replac replaceonc durat minut
+durat string util stringutil replac replaceonc durat second
+string format durat word formatdurationword
+minut
+durat string util stringutil replac replaceonc tmp second

@@ -1,0 +1,38 @@
+org aspectj util
+lang util langutil
+start run process pipe asynchron
+return thread start null unabl start thread
+result code getthrown code
+thread start
+init
+illeg state except illegalstateexcept initi
+start
+illeg state except illegalstateexcept start
+start
+process runtim runtim getruntim exec command
+except ioexcept
+stop integ min min
+err stream errstream file util fileutil pipe process error stream geterrorstream system err
+err snoop errsnoop
+err stream errstream set snoop setsnoop err snoop errsnoop
+stream outstream file util fileutil pipe process input stream getinputstream system
+snoop outsnoop
+stream outstream set snoop setsnoop snoop outsnoop
+stream instream file util fileutil pipe system process output stream getoutputstream
+start thread process pipe err
+runnabl process runner processrunn runnabl
+run
+throwabl thrown
+result integ min min
+pipe thread children
+thread err stream errstream start
+thread stream outstream start
+thread stream instream start
+process wait waitfor
+result process exit exitvalu
+throwabl
+thrown
+stop thrown result
+thread result thread process runner processrunn label
+result start
+result

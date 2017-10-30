@@ -1,0 +1,11 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+pointcutdesign call 'body'
+author ajh02
+object perobject pointcut design pointcutdesign
+list properti descriptor propertydescriptor api level apilevel
+list properti list propertylist arrai list arraylist
+creat properti list createpropertylist refer pointcut referencepointcut properti list propertylist
+add properti addproperti bodi properti bodi properti properti list propertylist
+reap properti list reappropertylist properti list propertylist

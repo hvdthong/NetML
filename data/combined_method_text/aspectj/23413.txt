@@ -1,0 +1,34 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+weav requestor iweaverequestor requestor getrequestor
+weav requestor iweaverequestor
+accept result acceptresult unwoven class file unwovenclassfil result
+woven class wovenclass
+woven class wovenclass result
+string result class getclassnam
+dump shoulddump replac
+dump result byte getbyt
+class gener weaver closur advic
+string class classnam result class getclassnam
+gener class generatedclass put class classnam result
+gener class generatedclass put woven class wovenclass class getclassnam result
+gener class handler generatedclasshandl accept class acceptclass class classnam result byte getbyt
+process reweav state processingreweavablest
+ad type munger addingtypemung
+weav aspect weavingaspect
+weav class weavingclass
+weav complet weavecomplet
+resolv type resolvedtyp reset primit resetprimit
+deleg current class delegateforcurrentclass deleg current class delegateforcurrentclass weav complet weavingcomplet
+resolv type resolvedtyp reset primit resetprimit
+bcelworld discardtyp typebeingprocess getresolvedtypex work progress

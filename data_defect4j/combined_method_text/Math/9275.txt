@@ -1,0 +1,21 @@
+pre
+estim gl
+var omega
+overrid
+real matrix realmatrix calcul residu calculateresidu
+org apach common math stat regress
+gl multipl linear regress glsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress
+row dimens getrowdimens column dimens getcolumndimens
+residu dot product dotproduct omega invers getomegainvers oper residu
+omega omega 1x'omega
+version revis date
+real vector realvector residu calcul residu calculateresidu
+calcul varianc calculateyvari
+varianc
+omega
+sse trace gettrac row dimens getrowdimens column dimens getcolumndimens
+gl assum gener covari matrix omega error
+gl implement multipl linear regress
+real matrix realmatrix sse transpos multipli omega invers getomegainvers multipli
+real matrix realmatrix sse transpos multipli omega invers multipli
+calcul varianc gl

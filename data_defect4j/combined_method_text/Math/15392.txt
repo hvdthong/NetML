@@ -1,0 +1,33 @@
+overrid
+xxx convers gener argument
+set setup
+row equal dimens
+org apach common math3 optim gener
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+jacobian evalu jacobianevalu
+handl boilerpl method threshold set
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+weight matrix sqrt weightmatrixsqrt squar root squareroot weight getweight
+effici convert return object function getobjectivefunct
+version
+construct jacobian matrix function argument method
+inherit doc inheritdoc
+store squar problem characterist
+abstract squar optim abstractleastsquaresoptim
+time
+link org apach common math3 optim target target
+reset counter
+xxx strictli anymor
+arrai share method
+point start point getstartpoint
+row target gettarget length
+deprec remov
+function util functionutil multivari differenti vector function tomultivariatedifferentiablevectorfunct differenti multivari vector function differentiablemultivariatevectorfunct object function getobjectivefunct
+base multivari differenti vector function multivariatedifferentiablevectorfunct
+squar root weight matrix
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number
+col point length

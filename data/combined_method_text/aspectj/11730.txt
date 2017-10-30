@@ -1,0 +1,29 @@
+org aspectj ajdt intern compil problem
+extend problem report support compil side implement declar soft
+overrid error report implement abstract method
+account inter type declar pointcut declar
+job directli sourcetypebind classscop class
+author jim hugunin
+problem report ajproblemreport problem report problemreport
+inherit method reduc visibl inheritedmethodreducesvis sourc type bind sourcetypebind type method bind methodbind concret method concretemethod method bind methodbind abstract method abstractmethod
+implement method public inter type declar error
+resolv type resolvedtyp type ontypex
+type anonym supertyp
+type anonym type isanonymoustyp
+type ontypex factori eclips fromeclips type
+hmmm itd interfac 'instantiated' anonym type
+sort method
+worri interfac superclass
+type ontypex factori eclips fromeclips type superclass ontypex factori fromeclips type superclass abstractmethod declaringclass
+iter type ontypex inter type munger includ super getintertypemungersincludingsup iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+resolv member resolvedmemb sig signatur getsignatur
+modifi abstract isabstract sig modifi getmodifi
+resolv type resolvedtyp
+match
+ajc member maker ajcmembermak inter method intermethod
+sig
+aspect type getaspecttyp
+sig declar type getdeclaringtyp resolv factori world getworld interfac isinterfac
+factori make resolv member makeresolvedmemb concret method concretemethod
+inherit method reduc visibl inheritedmethodreducesvis type concret method concretemethod abstract method abstractmethod

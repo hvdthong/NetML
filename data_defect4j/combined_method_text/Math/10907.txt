@@ -1,0 +1,11 @@
+format number
+replac 'j' number format real
+org apach common math3 complex
+format complex number cartesian format 'i'
+format complex string buffer stringbuff field posit fieldposit string tostr
+string format doubl
+version
+param doubl object format
+method call link format object string buffer stringbuff field posit fieldposit
+complex format complexformat
+imaginari part configur

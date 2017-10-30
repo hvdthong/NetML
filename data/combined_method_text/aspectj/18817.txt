@@ -1,0 +1,10 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+set dump exit setdumponexit string condit
+iter messag imessag kind iter hasnext
+messag imessag kind kind messag imessag kind
+kind string tostr equal condit
+set dump exit setdumponexit kind

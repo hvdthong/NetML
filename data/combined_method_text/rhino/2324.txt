@@ -1,0 +1,51 @@
+org mozilla javascript
+class implement javascript parser
+base sourc file jspars jspars
+jsref packag
+tokenstream
+author mike mccabe
+author brendan eich
+parser
+defin symbol definesymbol decl type decltyp ignor block ignorenotinblock string
+node scope defin scope definingscop current scope currentscop defin scope getdefiningscop
+node scope symbol symbol defin scope definingscop
+defin scope definingscop symbol getsymbol
+error
+symbol symbol decl type decltyp token const
+decl type decltyp token const
+error
+decl type decltyp
+token
+symbol defin scope definingscop current scope currentscop
+error symbol decl type decltyp token
+current scope type currentscopetyp current scope currentscop type gettyp
+ignor block ignorenotinblock
+current scope type currentscopetyp token loop
+current scope type currentscopetyp token
+add error adderror msg decl block
+current scope currentscop put symbol putsymbol
+node scope symbol decl type decltyp
+token var
+token const
+token function
+symbol
+symbol decl type decltyp token var
+add strict warn addstrictwarn msg var redecl
+symbol decl type decltyp token
+add strict warn addstrictwarn msg var hide arg
+current script currentscriptorfn put symbol putsymbol
+node scope symbol decl type decltyp
+token
+symbol
+duplic paramet paramet hide
+ahead add pararamet
+add warn addwarn msg dup parm
+current script currentscriptorfn put symbol putsymbol
+node scope symbol decl type decltyp
+kit code bug codebug
+error
+add error adderror symbol decl type decltyp token const msg const redecl
+symbol decl type decltyp token msg redecl
+symbol decl type decltyp token var msg var redecl
+symbol decl type decltyp token function msg redecl
+msg parm redecl

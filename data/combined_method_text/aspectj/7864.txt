@@ -1,0 +1,68 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron
+weav inter type declar weaveintertypedeclar sourc type bind sourcetypebind sourc type sourcetyp collect type munger typemung collect declar parent declarepar skip inner skipinn
+resolv type resolvedtypex type ontyp factori eclips fromeclips sourc type sourcetyp
+weaver state info weaverstateinfo info type ontyp weaver state getweaverst
+info info style isoldstyl
+collect munger
+type ontyp weaver state getweaverst type munger gettypemung type ontyp
+system println ontyp munger munger
+iter munger iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+eclips type munger eclipsetypemung munger factori make eclips type munger makeeclipsetypemung
+munger mung sourc type sourcetyp
+type ontyp interfac isinterfac
+munger munger getmung access topmost implementor needsaccesstotopmostimplementor
+type ontyp world getworld crosscut member set getcrosscuttingmembersset aspect containsaspect munger aspect type getaspecttyp
+danger interfac dangerousinterfac put type ontyp
+implementor type ontyp woven
+munger aspect type getaspecttyp
+system println dangerousinterfac dangerousinterfac
+iter danger interfac dangerousinterfac entri set entryset iter hasnext
+map entri entri map entri
+resolv type resolvedtypex interfac type interfacetyp resolv type resolvedtypex entri kei getkei
+type ontyp topmost implementor istopmostimplementor interfac type interfacetyp
+factori show messag showmessag messag imessag error
+type ontyp entri getvalu
+type ontyp sourc locat getsourceloc
+style warn needoldstylewarn info info style isoldstyl
+type ontyp clear inter type munger clearintertypemung
+iter declar parent declarepar iter hasnext
+declar parent dodeclarepar declar parent declarepar sourc type sourcetyp
+iter type munger typemung iter hasnext
+eclips type munger eclipsetypemung munger eclips type munger eclipsetypemung
+munger match type ontyp
+style warn needoldstylewarn
+factori show messag showmessag messag imessag warn
+class type ontyp recompil ajc result
+type ontyp sourc locat getsourceloc
+style warn needoldstylewarn
+type ontyp add inter type munger addintertypemung munger
+todo andi weav time
+weav time type munger rememb
+complat time
+sourc locat put flag resolvedtypemung
+record type munger set rememb sourc locat
+flag set fals set true
+work version aspectj attribut
+weav time invok addrelationship
+asmrelationshipprovid bceltypemung
+resolv type munger resolvedtypemung persist sourc locat persistsourceloc resolvedtypemung persistsourceloc front bloodi
+asm inter type relationship provid asmintertyperelationshipprovid default getdefault add relationship addrelationship type ontyp munger
+ontyp checkintertypemung
+type ontyp check inter type munger checkintertypemung
+iter type ontyp inter type munger getintertypemung iter hasnext
+eclips type munger eclipsetypemung munger eclips type munger eclipsetypemung
+system println appli munger string sourcetyp sourcenam
+munger mung sourc type sourcetyp
+skip inner skipinn
+refer bind referencebind member type membertyp sourc type sourcetyp member type membertyp
+length member type membertyp length length
+member type membertyp sourc type bind sourcetypebind
+weav inter type declar weaveintertypedeclar sourc type bind sourcetypebind member type membertyp type munger typemung declar parent declarepar

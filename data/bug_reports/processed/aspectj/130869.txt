@@ -1,0 +1,11 @@
+pointcut resolution fails type variables
+bleeding edge aspect design generic aspect form
+public abstract aspect myaspect extends bar
+declare warning somepc match
+
+bar defined
+public abstract aspect bar
+public abstract pointcut somepc
+
+enables unbelievably cool
+fail unsurprisingly compiling generic aspect find pointcut somepc upper bound searching pointcut type variable

@@ -1,0 +1,49 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+report result possibl increment compil run
+deleg reporthandl
+print summari count error warn system err error
+system warn
+warn silent ignor messag fail
+clear handler messag return true xxx fals
+implement ignor pass paramet
+clear holder report
+assumpt messag handl print
+ignor unsupportedoperationexcept holder clearmessag
+param pass true result command
+param holder imessagehold messag command
+reportcommandresult imessagehold
+return fals process abort
+report pass messag holder imessagehold holder
+fail lastfail holder num messag nummessag messag imessag fail
+result fail lastfail
+runnabl runner complet runner completionrunn
+runner
+runner run
+holder handler ourhandl
+error lasterror holder num messag nummessag messag imessag error
+warn holder num messag nummessag messag imessag warn
+string buffer stringbuff string buffer stringbuff
+append label appendnlabel fail abort fail lastfail
+append label appendnlabel error error lasterror
+append label appendnlabel warn warn
+length
+print stream printstream error lasterror fail lastfail
+system err
+system
+println println xxx wrote class file messag eol
+println string tostr
+result

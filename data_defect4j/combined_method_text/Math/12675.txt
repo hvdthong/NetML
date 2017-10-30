@@ -1,0 +1,9 @@
+inherit doc inheritdoc
+org apach common math3 geometri euclidean threed
+vector dimension space
+instanc guarante immut
+fast math fastmath sqrt
+version
+norm getnorm
+cancel problem straightforward formula
+vector3 vector3d serializ vector euclidean3 euclidean3d

@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi closur initializeforaroundclosur
+initi arg var initializeargvar
+target hastarget initi target var initializetargetvar
+hasthi initi var initializethisvar
+system println initi thisvar thisvar

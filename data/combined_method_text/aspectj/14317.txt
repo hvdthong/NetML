@@ -1,0 +1,21 @@
+org aspectj apach bcel gener
+select abstract super class lookupswitch tableswitch instruct
+version select java aclement exp
+author href mailto marku dahm berlin dahm
+lookupswitch
+tableswitch
+instructionlist
+select branch instruct branchinstruct
+param target
+param target
+updat target updatetarget instruct handl instructionhandl instruct handl instructionhandl
+target
+target
+target
+set target settarget
+target length
+target
+target
+set target settarget
+target
+class gen except classgenexcept target

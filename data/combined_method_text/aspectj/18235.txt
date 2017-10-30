@@ -1,0 +1,7 @@
+org aspectj util
+lang util langutil
+shorthand fals throw illegalargumentexcept
+throw illegalargumentexcept messag test fals
+throw iax fals throwiaxiffals test string messag
+test
+illeg argument except illegalargumentexcept messag

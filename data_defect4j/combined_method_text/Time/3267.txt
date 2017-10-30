@@ -1,0 +1,10 @@
+author stephen colebourn
+durat field repres field fix unit length
+unit milli getunitmilli
+unit size field millisecond
+unit milli iunitmilli
+return amount millisecond unit field
+org joda time field
+author brian neill o'neil
+precis durat field precisedurationfield base durat field basedurationfield
+precis durat field precisedurationfield thread safe immut

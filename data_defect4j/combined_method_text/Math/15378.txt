@@ -1,0 +1,32 @@
+estim standard deviat optim paramet
+row equal dimens
+org apach common math3 optim gener
+comput estim standard deviat paramet
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+handl boilerpl method threshold set
+covari matrix
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+cov comput covari computecovari param covari singular threshold covariancesingularitythreshold
+version
+sig
+construct jacobian matrix function argument method
+org apach common math3 linear singular matrix except singularmatrixexcept
+optim code paramet code
+abstract squar optim abstractleastsquaresoptim
+param param model paramet
+link org apach common math3 optim target target
+covari matrix comput
+param covari singular threshold covariancesingularitythreshold singular threshold
+deprec remov
+covari singular threshold covariancesingularitythreshold
+sig fast math fastmath sqrt cov
+link comput covari computecovari comput covari computecovari
+return valu squar root diagon coeffici
+covari matrix code sqrt code
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number
+comput sigma computesigma param
+param length

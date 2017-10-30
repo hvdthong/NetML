@@ -1,0 +1,13 @@
+param checker converg checker
+checker max evalu maxevalu
+version
+org apach common math optim gener
+checker
+boiler plate code deal gradient evalu
+abstract scalar differenti optim abstractscalardifferentiableoptim converg checker convergencecheck real point pair realpointvaluepair checker
+max evalu maxevalu
+differenti function
+abstract scalar differenti optim abstractscalardifferentiableoptim
+version revis date
+param max evalu maxevalu maximum number function evalu
+base implement optim multivari scalar

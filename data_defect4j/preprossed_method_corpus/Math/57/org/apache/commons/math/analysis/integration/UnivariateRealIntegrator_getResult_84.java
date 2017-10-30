@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi integr
+
+
+
+
+
+
+interfac univari real integr algorithm
+
+version revis date
+
+
+univari real integr univariaterealintegr converg algorithm convergingalgorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+result run integr
+
+result
+illeg state except illegalstateexcept result
+result comput attempt fail
+
+result getresult illeg state except illegalstateexcept
+

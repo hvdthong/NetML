@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+annot annotationx annot getannot
+ensur annot unpack ensureannotationsunpack
+annot

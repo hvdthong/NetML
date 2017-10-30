@@ -1,0 +1,12 @@
+simpl constructor
+org apach common math optim fit
+param ordin measur
+simpl contain weight observ point
+link curv fitter curvefitt curv fit
+param abscissa measur
+weight weight
+instanc guarante immut
+weight observ point weightedobservedpoint serializ
+version revis date
+weight observ point weightedobservedpoint weight
+param weight weight measur fit process

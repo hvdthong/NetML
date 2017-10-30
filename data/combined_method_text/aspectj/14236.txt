@@ -1,0 +1,18 @@
+org aspectj apach bcel gener
+wrapper class push oper implement bipush
+ldc xconst instruct
+version push java aclement exp
+author href mailto marku dahm berlin dahm
+push
+param constant pool
+param push
+push constant pool gen constantpoolgen number
+integ short byte
+instruct push int intvalu instruct
+doubl
+instruct push doubl doublevalu instruct
+float
+instruct push float floatvalu instruct
+long
+instruct push long longvalu instruct
+class gen except classgenexcept

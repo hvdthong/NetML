@@ -1,0 +1,13 @@
+org aspectj weaver
+constructor type munger newconstructortypemung resolv type munger resolvedtypemung
+constructor type munger newconstructortypemung
+resolv member resolvedmemb signatur
+resolv member resolvedmemb synthet constructor syntheticconstructor
+resolv member resolvedmemb explicit constructor explicitconstructor
+set super method call supermethodscal
+list type variabl alias typevariablealias
+constructor signatur
+synthet constructor syntheticconstructor synthet constructor syntheticconstructor
+type variabl alias typevariablealias type variabl alias typevariablealias
+explicit constructor explicitconstructor explicit constructor explicitconstructor
+set super method call setsupermethodscal super method call supermethodscal

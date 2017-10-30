@@ -1,0 +1,24 @@
+org aspectj ajd swing
+author mik kersten
+build progress panel buildprogresspanel panel jpanel
+init jbinit except
+set layout setlayout border layout1 borderlayout1
+cancel button set font setfont java awt font dialog
+cancel button set text settext cancel
+cancel button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+cancel button action perform cancel button actionperform
+progress label set font setfont java awt font dialog
+progress label set text settext
+panel2 jpanel2 set prefer size setpreferreds dimens
+panel2 jpanel2 set layout setlayout border layout3 borderlayout3
+config file label configfil label set font setfont java awt font dialog
+config file label configfil label set text settext
+compil progress bar compil progressbar set prefer size setpreferreds dimens
+add cancel panel border layout borderlayout south
+cancel panel add cancel button
+add panel2 jpanel2 border layout borderlayout center
+panel2 jpanel2 add config file label configfil label border layout borderlayout north
+panel2 jpanel2 add progress label border layout borderlayout south
+panel2 jpanel2 add panel1 jpanel1 border layout borderlayout center
+panel1 jpanel1 add compil progress bar compil progressbar

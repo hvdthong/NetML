@@ -1,0 +1,15 @@
+pre
+adjust squar statist
+global fit info globalfitinfo adjrsq idx
+adjust squar getadjustedrsquar
+adj ssr ssto
+observ number paramet estim includ intercept
+org apach common math3 stat regress
+ssto total sum squar number
+code link squar getrsquar code
+version
+ssr sum squar residu
+regress result regressionresult serializ
+return adjust squar statist defin formula pre
+result multipl linear regress model fit
+regress estim intercept term return pre

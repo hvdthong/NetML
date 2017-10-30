@@ -1,0 +1,13 @@
+overrid
+arrai real vector arrayrealvector real vector realvector serializ
+org apach common math3 linear
+param expect dimens
+inconsist vector size
+dimens mismatch except dimensionmismatchexcept
+dimens mismatch except dimensionmismatchexcept data length
+version
+check instanc dimens equal expect
+check vector dimens checkvectordimens
+link real vector realvector arrai
+data length
+dimens mismatch except dimensionmismatchexcept dimens

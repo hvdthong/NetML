@@ -1,0 +1,30 @@
+return chosen current interv
+evalu target targeti
+comput newton coeffici divid differ
+delta
+delta start
+param refer point abscissa interpol
+param end end index point exclus
+href http mathworld wolfram brent method brentsmethod html brent algorithm
+param target targeti target
+note arrai modifi comput
+end
+guess guessx target targeti
+user invert quadrat
+version
+user link allow solut allowedsolut
+target targeti
+start end
+end start
+guess evalu polynomi target targeti
+respect origin brent algorithm
+guess order invers polynomi interpol
+modif
+guess root nan point share
+maxim order invert polynomi root search
+built consid point
+bracket nth order brent solver bracketingnthorderbrentsolv
+param refer point ordin interpol
+param start start index point inclus
+interv bracket root
+org apach common math analysi solver

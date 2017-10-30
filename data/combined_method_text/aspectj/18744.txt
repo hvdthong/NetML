@@ -1,0 +1,13 @@
+org aspectj weaver
+hold member invas effect
+compil unit member gather
+world weav place
+import compil process gather
+inter type declar weav stage unsurprisingli
+member concret
+author jim hugunin
+crosscut member crosscuttingmemb
+crosscut member crosscuttingmemb resolv type resolvedtyp aspect inaspect concret need shouldconcretizeifneed
+aspect inaspect aspect inaspect
+world aspect inaspect world getworld
+concret need shouldconcretizeifneed concret need shouldconcretizeifneed

@@ -1,0 +1,13 @@
+param point belong plane
+org apach common math geometri euclidean threed
+repres plane dimension space
+except math arithmet except matharithmeticexcept point constitut plane
+code
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+subtract cross product crossproduct subtract
+vector3 vector3d cross product crossproduct subtract subtract
+build plane point
+plane orient direct
+plane vector3 vector3d vector3 vector3d vector3 vector3d
+except illeg argument except illegalargumentexcept point constitut plane

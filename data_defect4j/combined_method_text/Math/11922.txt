@@ -1,0 +1,17 @@
+param param point object function evalu
+org apach common math3 fit leastsquar
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+model param
+increment evalu count incrementevaluationcount
+exceed
+comput object computeobjectivevalu param
+version
+object function point
+param optim concret optim
+base implement squar optim
+maxim number evalu model vector function
+method error estim
+evalu counter limit
+org apach common math3 except evalu except toomanyevaluationsexcept
+method call subclass enforc
+comput object function

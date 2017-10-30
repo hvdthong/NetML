@@ -1,0 +1,15 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+clear cach clearcach
+shadow munger shadowmung
+type munger typemung
+late type munger latetypemung
+declar soft declaresoft
+declar parent declarepar
+declar annot field declareannotationonfield
+declar annot method declareannotationonmethod
+declar annot type declareannotationontyp
+declar domin declaredomin

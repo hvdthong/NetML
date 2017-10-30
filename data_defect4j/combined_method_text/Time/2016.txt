@@ -1,0 +1,14 @@
+author stephen colebourn
+base durat basedur
+param durat length durat
+link readabl durat readabledur
+set milli setmilli durat
+set length durat millisecond
+data code code durat millisecond field
+base durat basedur implement readabl durat readabledur store
+org joda time base
+kind durat object referenc
+author brian neill o'neil
+milli imilli durat
+gener directli api user
+base durat basedur subclass mutabl thread safe

@@ -1,0 +1,10 @@
+pattern
+ifpointcut
+resolv
+pointcut pointcut
+bind
+org
+resolvebindingsfromrtti
+rtti
+weaver
+aspectj

@@ -1,0 +1,9 @@
+hyperplan simpl point orient
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+revert revertself
+instanc guarante immut
+revert instanc
+version
+repres orient hyperplan
+direct direct
+org apach common math geometri euclidean on

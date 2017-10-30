@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil ast
+declar annot declar declareannotationdeclar declar declar declaredeclar
+analys code analysecod class scope classscop class scope classscop
+initi flow context initializationflowcontext initi context initializationcontext flow info flowinfo flow info flowinfo
+analys code analysecod class scope classscop initi context initializationcontext flow info flowinfo
+bit annot resolv type resolvedtyp annot tag bit getannotationtagbit
+bit tag bit tagbit annot target annotationtarget
+annot store method declar type
+confirm annot target type earlier check
+found problem annot target method
+report store method case
+declar annot declareannot kind declar annot declareannot declar decl declaredecl kind getkind
+equal declar annot declareannot type type
+bit tag bit tagbit annot method annotationformethod
+class scope classscop problem report problemreport disallow target annot disallowedtargetforannot annot
+equal declar annot declareannot field field
+bit tag bit tagbit annot method annotationformethod
+class scope classscop problem report problemreport disallow target annot disallowedtargetforannot annot

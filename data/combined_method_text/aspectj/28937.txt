@@ -1,0 +1,38 @@
+set set
+tokensourc tokensourc tokensourc tokensourc tokensourc
+map
+parser
+make
+maybeeatadjac maybeeatadjac
+index index index index index index
+pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern
+fix
+setindex setindex setindex setindex
+adjac adjac
+ret ret ret ret ret ret ret ret ret ret ret ret ret
+aspectj
+start start start
+startindex startindex startindex startindex startindex
+valu valu valu valu valu valu valu
+maybeeat maybeeat maybeeat maybeeat maybeeat
+type type type type type type type type type type type type type type type type type type type
+singl singl singl singl
+getindex
+maybeparsesingleannotationpattern
+sourc sourc sourc
+typepattern typepattern typepattern typepattern
+annotationtypepattern annotationtypepattern
+pars pars pars pars pars pars pars
+org
+parseannotationvalu parseannotationvalu
+eat eat eat eat eat eat eat eat eat eat eat
+wildannotationtypepattern wildannotationtypepattern wildannotationtypepattern wildannotationtypepattern wildannotationtypepattern wildannotationtypepattern
+parsesingletypepattern parsesingletypepattern
+patternpars
+notannotationtypepattern notannotationtypepattern notannotationtypepattern
+annot annot annot annot annot annot annot annot annot annot annot annot annot annot
+token token token token
+wild wild wild wild wild wild
+weaver
+parsetypepattern parsetypepattern
+lalr

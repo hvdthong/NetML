@@ -1,0 +1,11 @@
+org apach common math geometri euclidean threed
+version
+instanc modifi instanc creat
+polyhedron set polyhedronsset appli transform applytransform rotat transform rotationtransform center rotat
+instanc repres rotat region
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+rotat region point
+param rotat vectori rotat oper
+repres region set polyhedron
+param center rotat center
+polyhedron set polyhedronsset rotat vector3 vector3d center rotat rotat

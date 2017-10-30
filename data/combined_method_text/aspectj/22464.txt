@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+pattern parser patternpars
+declar pars soft parsesoft
+type pattern typepattern pars type pattern parsetypepattern
+eat
+pointcut pointcut pars pointcut parsepointcut
+declar soft declaresoft pointcut

@@ -1,0 +1,36 @@
+overrid
+link set varianc impl setvarianceimpl storeless univari statist storelessunivariatestatist actual paramet
+precis equal includ equalsincludingnan stat getmean getmean
+state comput statist configur setter
+implement varianc overridden call
+precis equal includ equalsincludingnan stat min getmin min getmin
+method implement link storeless univari statist storelessunivariatestatist
+precis equal includ equalsincludingnan stat geometr getgeometricmean geometr getgeometricmean
+param object object test equal
+object summari statist summarystatist
+stream
+precis equal includ equalsincludingnan stat sum getsum sum getsum
+code summari statist summarystatist code instanc statist
+precis equal includ equalsincludingnan stat getn getn
+version
+equal object object
+object equal
+note thread safe
+precis equal includ equalsincludingnan stat sumsq getsumsq sumsq getsumsq
+precis equal includ equalsincludingnan stat varianc getvari varianc getvari
+summari statist summarystatist stat summari statist summarystatist object
+memori comput statist larg data
+provid implement
+return iff code object code
+summari statist summarystatist statist summari statisticalsummari serializ
+link storeless univari statist storelessunivariatestatist instanc maintain summari
+object
+org apach common math3 stat descript
+precis equal includ equalsincludingnan stat max getmax max getmax
+call configur common math
+link add addvalu add addvalu method data valu store
+valu
+configur complet code add addvalu code
+comput summari statist stream data valu ad
+link synchron summari statist synchronizedsummarystatist concurr access multipl
+thread requir

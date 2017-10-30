@@ -1,0 +1,13 @@
+org aspectj ajdt intern compil lookup
+privileg handler privilegedhandl privileg handler iprivilegedhandl
+check weav access checkweaveaccess unresolv type unresolvedtyp type typex ast node astnod locat
+world world aspect inaspect factori world getworld
+lint kind check world lint getlint type expos weaver typenotexposedtoweav
+check enabl isen
+world resolv type typex expos weaver isexposedtoweav
+sourc locat isourceloc loc
+locat
+loc eclips sourc locat eclipsesourceloc aspect inaspect compil result compilationresult
+locat sourc start sourcestart locat sourc end sourceend
+check signal type typex getnam need privileg access
+loc

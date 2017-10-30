@@ -1,0 +1,4 @@
+org aspectj weaver
+int map intmap
+set concret aspect setconcreteaspect resolv type resolvedtyp concret aspect concreteaspect
+concret aspect concreteaspect concret aspect concreteaspect

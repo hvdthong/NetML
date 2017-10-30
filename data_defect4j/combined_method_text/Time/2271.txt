@@ -1,0 +1,11 @@
+author stephen colebourn
+basic dai year date time field basicdayofyeardatetimefield precis durat date time field precisedurationdatetimefield
+org joda time chrono
+author gui allard
+restrict constructor
+basic dai year date time field basicdayofyeardatetimefield basic chronolog basicchronolog chronolog durat field durationfield dai
+chronolog ichronolog chronolog
+author brian neill o'neil
+date time field type datetimefieldtyp dai year dayofyear dai
+refactor dai year date time field gjdayofyeardatetimefield
+time calcul dai year compon time

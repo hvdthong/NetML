@@ -1,0 +1,10 @@
+org apach lucen index
+documentswrit merg post
+multipl threadstat creat segment
+freq prox field merg state freqproxfieldmergest
+freq prox field merg state freqproxfieldmergest freq prox term writer field freqproxtermswriterperfield field
+field field
+char pool charpool field thread perthread term hash thread termshashperthread char pool charpool
+num post numpost field term hash field termshashperfield num post numpost
+term termid field term hash field termshashperfield sort post sortpost
+post freq prox post arrai freqproxpostingsarrai field term hash field termshashperfield post arrai postingsarrai

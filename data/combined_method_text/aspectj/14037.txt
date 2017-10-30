@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+lreturn return long method
+pre stack word1 word2 empti pre
+version lreturn java aclement exp
+author href mailto marku dahm berlin dahm
+lreturn return instruct returninstruct
+lreturn
+org aspectj apach bcel constant lreturn

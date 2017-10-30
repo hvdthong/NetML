@@ -1,0 +1,54 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+match init matchinit lazi method gen lazymethodgen list shadow accumul shadowaccumul
+bcel shadow bcelshadow enclos shadow enclosingshadow
+xxx enclos join point wrong thing ignorem
+instruct handl instructionhandl super call superorthiscal find super call findsuperorthiscal
+walk bodi thing wrong constructor thingi
+super call superorthiscal
+enclos shadow enclosingshadow bcel shadow bcelshadow make constructor execut makeconstructorexecut world super call superorthiscal
+effect signatur geteffectivesignatur
+enclos shadow enclosingshadow set match signatur setmatchingsignatur effect signatur geteffectivesignatur effect signatur geteffectivesignatur
+walk bodi
+super call beforesuperorthiscal
+weav bodi shouldweavebodi
+match bodi shadow canmatchbodyshadow
+instruct handl instructionhandl bodi getbodi start getstart
+getnext
+super call superorthiscal
+super call beforesuperorthiscal
+match super call beforesuperorthiscal enclos shadow enclosingshadow shadow accumul shadowaccumul
+match canmatch shadow constructor execut constructorexecut
+match enclos shadow enclosingshadow shadow accumul shadowaccumul
+xxx pre init interfac
+add interfac init
+super call superorthiscal call isthiscal super call superorthiscal
+instruct handl instructionhandl curr enclos shadow enclosingshadow rang getrang start getstart
+iter ad super initi list addedsuperinitializersaslist iter hasnext
+ifac init list ifaceinitlist ifac init list ifaceinitlist
+member ifac init sig ifaceinitsig ajc member maker ajcmembermak interfac constructor interfaceconstructor type ontyp
+bcel shadow bcelshadow init shadow initshadow
+bcel shadow bcelshadow make ifac initi makeifaceiniti world ifac init sig ifaceinitsig
+insert code place
+instruct list instructionlist init gen init instruct geninitinstruct list
+match init shadow initshadow shadow accumul shadowaccumul init empti isempti
+init shadow initshadow init ifac initi initifaceiniti curr
+init shadow initshadow rang getrang insert init rang outsidebefor
+add initi code
+instruct list instructionlist init gen init instruct geninitinstruct ad initi addedthisiniti
+enclos shadow enclosingshadow rang getrang insert init rang outsidebefor
+inlin constructor
+group partit constructor group member
+call call group inlin
+constructor
+group initi match futur work
+ad initi addediniti
+match
+bcel shadow bcelshadow make unfinish initi makeunfinishediniti world
+initi shadow initializationshadow
+ad initi addediniti
+match
+bcel shadow bcelshadow make unfinish preiniti makeunfinishedpreiniti world
+initi shadow initializationshadow
+match shadow matchedshadow shadow accumul shadowaccumul
+ad initi addediniti shadow accumul shadowaccumul empti isempti

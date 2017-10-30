@@ -1,0 +1,9 @@
+org apach tool ant filter
+wrap string inputstream
+author magesh umasankar
+string input stream stringinputstream
+close stringread
+except ioexcept origin stringread fail close
+close except ioexcept
+close
+slack

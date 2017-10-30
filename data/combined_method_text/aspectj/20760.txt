@@ -1,0 +1,53 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+add aspect weaver
+type resolv support dot static class dollar
+param aspectnam
+return aspect
+resolv type resolvedtyp add librari aspect addlibraryaspect string aspect aspectnam
+trace trace enabl istraceen trace enter addlibraryaspect aspect aspectnam
+resolv
+unresolv type unresolvedtyp unresolv unresolvedt unresolv type unresolvedtyp fornam aspect aspectnam
+unresolv unresolvedt set modifi deleg setneedsmodifiabledeleg
+resolv type resolvedtyp type world resolv unresolv unresolvedt
+type miss ismiss
+fallback class lookup mechan
+string fix fixednam aspect aspectnam
+dot hasdot fix fixednam index lastindexof
+dot hasdot
+system println bcelweav addlibraryaspect fixednam
+fix char fixednamechar fix fixednam char arrai tochararrai
+fix char fixednamechar dot hasdot
+fix fixednam string fix char fixednamechar
+dot hasdot fix fixednam index lastindexof
+unresolv type unresolvedtyp unresolv type unresolvedtyp fornam fix fixednam
+set modifi deleg setneedsmodifiabledeleg
+type world resolv
+type miss ismiss
+system println type type aspectnam
+type aspect isaspect
+bug ensur unwoven aspect
+weaver state info weaverstateinfo wsi type weaver state getweaverst
+wsi wsi reweav isreweav
+bcel object type bcelobjecttyp class type classtyp class type getclasstyp type getnam
+java class javaclass woven java class wovenjavaclass class type classtyp java class getjavaclass
+java class javaclass unwoven java class unwovenjavaclass util make java class makejavaclass woven java class wovenjavaclass file getfilenam
+wsi unwoven class file data getunwovenclassfiledata woven java class wovenjavaclass byte getbyt
+world store class storeclass unwoven java class unwovenjavaclass
+class type classtyp set java class setjavaclass unwoven java class unwovenjavaclass
+classtyp setjavaclass util makejavaclass classtyp getjavaclass getfilenam wsi getunwovenclassfiledata classtyp getjavaclass getbyt
+todo reach lot time type flag reweav aspect weaverst
+ltw pbly increment build
+xcut set xcutset add replac aspect addorreplaceaspect type
+trace trace enabl istraceen trace exit addlibraryaspect type
+type superclass getsuperclass aspect isaspect
+supertyp includ itd user includ aspect aop xml
+pick give unusu behaviour bug
+chang pick super aspect aop xml give
+predict behaviour user suppli problem
+addit overrid
+add librari aspect addlibraryaspect type superclass getsuperclass getnam
+type
+fixm warn aspect aop xml
+runtim except runtimeexcept runtim except runtimeexcept regist aspect type getnam aspect aspectnam
+trace trace enabl istraceen trace exit addlibraryaspect

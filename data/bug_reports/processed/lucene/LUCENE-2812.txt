@@ -1,0 +1,2 @@
+indexreader indexexists returns true index present
+open writer dir preparecommit finish commit indexreader indexexists incorrectly returns true checks segments file present successfully read

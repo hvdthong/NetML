@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math distribut
+
+
+
+
+
+
+
+
+
+
+
+implement link binomi distribut binomialdistribut
+
+version revis date
+
+binomi distribut impl binomialdistributionimpl abstract integ distribut abstractintegerdistribut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+distribut code method return largest
+code code
+code integ max
+
+param desir probabl
+largest code code
+math except mathexcept invers cumul probabl
+comput due converg numer error
+rang except outofrangeexcept code code
+
+overrid
+invers cumul probabl inversecumulativeprob
+math except mathexcept
+handl extrem valu explicitli
+
+
+
+
+integ max
+
+
+bisect impl
+invers cumul probabl inversecumulativeprob
+
+

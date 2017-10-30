@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart annot
+
+
+
+
+
+
+
+
+
+support annot ad
+link plot xyplot
+
+annot xyannot
+
+
+draw annot
+
+param graphic devic
+param plot plot
+param data area dataarea data area
+param domain axi domainaxi domain axi
+param rang axi rangeaxi rang axi
+param render index rendererindex render index
+param info option info object popul
+entiti inform
+
+draw graphics2 graphics2d plot xyplot plot rectangle2 rectangle2d data area dataarea
+axi valueaxi domain axi domainaxi axi valueaxi rang axi rangeaxi
+render index rendererindex
+plot render info plotrenderinginfo info
+
+

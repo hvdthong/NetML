@@ -1,0 +1,45 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+fill declar member filldeclaredmemb
+list declar pointcut declaredpointcut arrai list arraylist
+list declar method declaredmethod arrai list arraylist
+list declar field declaredfield arrai list arraylist
+bind method bind method import side effect call make bind complet
+abstract method declar abstractmethoddeclar method declar method
+method
+len method length len
+abstract method declar abstractmethoddeclar amd method
+amd amd ignor investig ignorefurtherinvestig
+amd pointcut declar pointcutdeclar
+pointcut declar pointcutdeclar pointcut declar pointcutdeclar amd
+resolv pointcut definit resolvedpointcutdefinit make resolv pointcut definit makeresolvedpointcutdefinit factori
+declar pointcut declaredpointcut add
+amd inter type declar intertypedeclar
+handl separ pass
+amd declar declar declaredeclar
+amd declar annot declar declareannotationdeclar amd instanceof declareannotationdeclar surfac annot ajc method
+handl separ pass
+amd advic declar advicedeclar
+compil weav
+amd annot annot style pointcut isannotationstylepointcut amd annot
+pointcut defin annot
+resolv pointcut definit resolvedpointcutdefinit make resolv pointcut definit makeresolvedpointcutdefinit amd
+declar pointcut declaredpointcut add
+amd bind amd bind valid bind isvalidbind
+resolv member resolvedmemb member factori make resolv member makeresolvedmemb amd bind
+unit
+member set sourc context setsourcecontext eclips sourc context eclipsesourcecontext unit compil result compilationresult amd bind sourc start sourcestart
+member set posit setposit amd bind sourc start sourcestart amd bind sourc end sourceend
+declar method declaredmethod add member
+field bind fieldbind field bind field
+len field length len
+field bind fieldbind field
+declar field declaredfield add factori make resolv member makeresolvedmemb
+declar pointcut declaredpointcut resolv pointcut definit resolvedpointcutdefinit
+declar pointcut declaredpointcut arrai toarrai resolv pointcut definit resolvedpointcutdefinit declar pointcut declaredpointcut size
+declar method declaredmethod resolv member resolvedmemb
+declar method declaredmethod arrai toarrai resolv member resolvedmemb declar method declaredmethod size
+declar field declaredfield resolv member resolvedmemb
+declar field declaredfield arrai toarrai resolv member resolvedmemb declar field declaredfield size

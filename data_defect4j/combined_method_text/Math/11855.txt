@@ -1,0 +1,30 @@
+code
+org apach common math3 fit
+real function code code code
+weight observ point weightedobservedpoint ob observ
+point len
+link fit collect method obtain paramet
+paramet
+valu minim object function
+problem setup choic optim algorithm
+fit specif function deleg subclass
+sum
+squar problem
+version
+len observ size
+fit curv remain close set
+param function fit
+theoret valu function theoreticalvaluesfunct parametr univari function parametricunivariatefunct
+boilerpl code call
+code observ point code code
+algorithm perform fit find paramet
+independ variabl code code
+base common code fit parametr univari
+pre code
+collect weight observ point weightedobservedpoint observ
+code pre
+param optim optim fit
+param observ observ
+abstract curv fitter abstractcurvefitt optim abstract optim abstractoptim point vector pair pointvectorvaluepair optim
+point ob getx
+fitter find optim valu paramet

@@ -1,0 +1,5 @@
+org aspectj apach bcel gener annot
+simpl element gen simpleelementvaluegen element gen elementvaluegen
+return immut variant
+element elementvalu element getelementvalu
+simpl element simpleelementvalu type idx gen cpgen constant pool getconstantpool

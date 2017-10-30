@@ -1,0 +1,87 @@
+org aspectj apach bcel classfil
+abstract super class attribut object
+constantvalu sourcefil code
+exceptiont linenumbert
+localvariablet innerclass
+synthet attribut support
+unknown attribut stand standard attribut
+version attribut java aclement exp
+author href mailto marku dahm berlin dahm
+constantvalu
+sourcefil
+code
+unknown
+exceptiont
+linenumbert
+localvariablet
+innerclass
+synthet
+deprec
+signatur
+attribut cloneabl node serializ
+attribut read attribut readattribut data input stream datainputstream file
+constant pool constantpool constant pool
+except ioexcept class format except classformatexcept
+constant utf8 constantutf8
+string
+index
+length
+tag constant attr unknown attr unknown byte tag constant attr unknown unknown attribut
+class constant pool 'name index' indirect
+index file read unsign short readunsignedshort
+constant utf8 constantutf8 constant pool constant getconst index
+constant constant utf8 constant utf8
+byte getbyt
+length data byte
+length file read int readint
+compar string find attribut
+constant attribut attribut
+equal constant attribut name attribut name
+tag tag found
+call proper constructor depend tag'
+tag
+constant attr unknown attr unknown
+attribut reader attributeread attribut reader attributeread reader
+creat attribut createattribut index length file constant pool
+unknown index length file constant pool
+constant attr constant attr constant
+constant constantvalu index length file constant pool
+constant attr sourc file attr sourc file
+sourc file sourcefil index length file constant pool
+constant attr code attr code
+code index length file constant pool
+constant attr except attr except
+except tabl exceptiont index length file constant pool
+constant attr line number tabl attr line number tabl
+line number tabl linenumbert index length file constant pool
+constant attr local variabl tabl attr local variabl tabl
+local variabl tabl localvariablet index length file constant pool
+constant attr class attr class
+class innerclass index length file constant pool
+constant attr synthet attr synthet
+synthet index length file constant pool
+constant attr deprec attr deprec
+deprec index length file constant pool
+constant attr pmg attr pmg
+pmg class pmgclass index length file constant pool
+constant attr signatur attr signatur
+signatur index length file constant pool
+constant attr stack map attr stack map
+stack map stackmap index length file constant pool
+j5support
+constant attr runtim visibl annot attr runtim visibl annot
+runtim visibl annot runtimevisibleannot index length file constant pool
+constant attr runtim invis annot attr runtim invis annot
+runtim invis annot runtimeinvisibleannot index length file constant pool
+constant attr runtim visibl paramet annot attr runtim visibl paramet annot
+runtim visibl paramet annot runtimevisibleparameterannot index length file constant pool
+constant attr runtim invis paramet annot attr runtim invis paramet annot
+runtim invis paramet annot runtimeinvisibleparameterannot index length file constant pool
+constant attr annot default attr annot default
+annot default annotationdefault index length file constant pool
+constant attr local variabl type tabl attr local variabl type tabl
+local variabl type tabl localvariabletypet index length file constant pool
+constant attr enclos method attr enclos method
+enclos method enclosingmethod index length file constant pool
+default reach
+illeg state except illegalstateexcept ooop default case reach

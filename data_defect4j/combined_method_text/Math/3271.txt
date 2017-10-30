@@ -1,0 +1,33 @@
+line fast math fastmath fast math fastmath atan2 sin rsin co rco
+inv co rco inv sin rsin
+inherit doc inheritdoc
+line hyperplan euclidean2 euclidean2d embed euclidean2 euclidean2d euclidean1 euclidean1d
+orient line defin prolong line
+unambigu identifi left half plane half
+angular direct trigonometr orient
+line appli hyperplan euclidean2 euclidean2d hyperplan
+half plane set point posit offset
+plane identifi interior exterior
+version
+line point plane uniqu identifi
+plane suffici select specif point
+orient half plane side
+line line line hyperplan
+offset roffset c1x line co c1y line sin c11 line origin offset originoffset
+simpl local properti part line
+inv fast math fastmath sqrt sin rsin sin rsin co rco co rco
+abscissa line offset
+co rco cxx line co cxy line sin
+sin rsin cyx line co cyi line sin
+repres orient line plane
+coordin line set point offset
+segment point past point point
+orthogon vector orient left half plane half
+left half plane set point neg offset
+line complet defin refer frame
+defin part polygon boundari
+org apach common math geometri euclidean twod
+line orthogon project origin refer frame
+line unit vector line direct
+inv offset roffset
+plane defin coordin process

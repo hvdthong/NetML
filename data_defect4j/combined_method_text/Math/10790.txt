@@ -1,0 +1,14 @@
+org apach common math3 analysi solver
+bracket except nobracketingexcept
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+inherit doc inheritdoc
+solv dosolv
+initi
+provid implement function gener
+perform comput
+evalu except toomanyevaluationsexcept
+setup max eval maxev min max start startvalu
+solv max eval maxev func min max start startvalu

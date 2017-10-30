@@ -1,0 +1,7 @@
+org aspectj weaver
+type typex annot element annotatedel
+string base getbasenam
+string getnam
+parameter isparameter
+raw type israwtyp
+substr index indexof

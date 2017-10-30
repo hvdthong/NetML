@@ -1,0 +1,21 @@
+org apach lucen search
+implement wildcard search queri support wildcard code code
+match charact sequenc includ empti code code
+match singl charact note queri slow
+iter term order prevent extrem slow wildcardqueri
+wildcard term start wildcard code code
+code code
+queri link
+multitermqueri constant score auto rewrit default
+rewrit method
+wildcardtermenum
+wildcard queri wildcardqueri multi term queri multitermqueri
+overrid
+queri rewrit index reader indexread reader except ioexcept
+term prefix termisprefix
+multi term queri multitermqueri rewritten prefix queri prefixqueri term creat term createterm term text
+substr term text index indexof
+rewritten set boost setboost boost getboost
+rewritten set rewrit method setrewritemethod rewrit method getrewritemethod
+rewritten
+rewrit reader

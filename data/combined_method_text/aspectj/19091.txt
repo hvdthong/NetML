@@ -1,0 +1,4 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+member impl memberimpl monitor exit monitorexit
+member impl memberimpl monitorexit unresolv type unresolvedtyp object modifi static resolv type resolvedtyp void unlock unresolv type unresolvedtyp arrai object arrai object

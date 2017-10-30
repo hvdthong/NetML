@@ -1,0 +1,21 @@
+area polygon size getsiz
+set size setsiz doubl posit infin
+scale scale
+version
+repres region set polyhedron
+plane plane plane facet hyperplan gethyperplan
+scale area vector3 vector3d dot product dotproduct facet facetb plane normal getnorm
+doubl infinit isinfinit area
+add contribut addcontribut hyperplan subhyperplan euclidean3 euclidean3d facet revers
+param facet boundari facet
+scale area facet facetb dot product dotproduct plane normal getnorm
+add contribut boundari facet
+set barycent setbarycent vector3 vector3d vector3 vector3d barycent getbarycent scale facet facetb
+param revers facet insid side
+org apach common math geometri euclidean threed
+set size setsiz size getsiz scale
+revers
+vector3 vector3d facet facetb plane space tospac polygon barycent getbarycent
+region euclidean2 euclidean2d polygon plane subplan facet remain region getremainingregion
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+set barycent setbarycent vector3 vector3d nan

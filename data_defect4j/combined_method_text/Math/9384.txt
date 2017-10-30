@@ -1,0 +1,10 @@
+ad regress model updat
+getn
+entir data set load memori observ
+estim regress statist calcul
+regress model allow dynam updat data
+return number observ ad regress model
+version
+org apach common math stat regress
+updat multipl linear regress updatingmultiplelinearregress
+number observ

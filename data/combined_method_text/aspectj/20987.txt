@@ -1,0 +1,37 @@
+org aspectj weaver bcel
+lazi lazi lazi
+unpack underli class thing
+method annot accumul
+written add underli methodgen
+thing slightli repres aspect
+lazi class gen lazyclassgen
+instruct list instructionlist initi tjp initializealltjp
+instruct list instructionlist list instruct list instructionlist
+instruct factori instructionfactori fact factori getfactori
+make factori
+list append fact creat createnew factori type factorytyp
+list append instruct factori instructionfactori creat dup createdup
+list append push constant pool gen getconstantpoolgen file getfilenam
+load current class object
+xxx check work correctli inner anonym
+list append push constant pool gen getconstantpoolgen class getclassnam
+xxx worri fact theorect throw
+classnotfoundexcept
+list append fact creat invok createinvok java lang class fornam class type classtyp
+type type string constant invokestat
+list append fact creat invok createinvok factori type factorytyp class getclassnam init
+type void type type string class type classtyp
+constant invokespeci
+list append instruct factori instructionfactori creat store createstor factori type factorytyp
+list entri arrai list arraylist tjp field tjpfield entri set entryset
+collect sort entri compar
+compar object object
+map entri map entri
+map entri map entri
+field getvalu
+getnam
+compar compareto field getvalu getnam
+iter entri iter hasnext
+map entri entri map entri
+initi tjp initializetjp fact list field entri getvalu bcel shadow bcelshadow entri kei getkei
+list

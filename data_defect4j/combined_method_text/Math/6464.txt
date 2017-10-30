@@ -1,0 +1,50 @@
+pre
+a21
+param vec absolut toler vecabsolutetoler allow absolut error
+arrai
+comput directli error comput estim
+method embed explicit rung kutta method
+fsal fsal
+org apach common math od
+step reject error estim phase
+param max step maxstep maxim step posit backward
+safeti
+compar
+set coeffici allow estim error butcher
+integr step smaller
+build rung kutta integr butcher arrai
+param extern weight high order method butcher arrai
+a31 a32
+vec absolut toler vecabsolutetoler
+param time step butcher arrai
+param vec rel toler vecrelativetoler allow rel error
+as1 as2 ass
+exp order getord
+rung kutta fehlberg integr rungekuttafehlbergintegr fsal
+set valu algorithm control paramet
+integr ordinari differenti equat
+min step minstep max step maxstep vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler
+fact arrai defin b'j
+version rung kutta fehlberg integr rungekuttafehlbergintegr java 39z luc
+method evalu method
+common part rung kutta fehlberg
+prototyp prototyp
+vec rel toler vecrelativetoler
+param prototyp prototyp step interpol
+set max growth setmaxgrowth
+asi
+b'1 b'2 b' b'
+param min step minstep minim step posit backward
+min step minstep max step maxstep
+stage behaviour success step
+evalu save fsal method
+evalu reus step cost
+param intern weight butcher arrai empti row
+method qualifi fsal
+rung kutta step interpol rungekuttastepinterpol prototyp
+integr
+step step
+rung kutta fehlberg integr rungekuttafehlbergintegr
+set min reduct setminreduct
+param fsal method fsal
+method mean evalu deriv

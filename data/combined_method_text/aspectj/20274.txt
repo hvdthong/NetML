@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+shadow munger shadowmung concret resolv type resolvedtyp type fromtyp world world claus perclaus claus
+suppress lint warn suppresslintwarn world
+shadow munger shadowmung ret concret type fromtyp world claus
+clear lint suppress clearlintsuppress world suppress lint kind suppressedlintkind
+finder iffind ifind finder iffind
+ret pointcut getpointcut accept ifind
+guard test hasguardtest ifind hasif kind getkind advic kind advicekind
+isaround kind getkind advic kind advicekind
+extra paramet flag getextraparameterflag join point thisjoinpoint
+isaround guard test hasguardtest world lint getlint guard lazi tjp noguardforlazytjp enabl isen
+build tjp lazili suitabl test
+record advic bug
+world lint getlint guard lazi tjp noguardforlazytjp signal sourc locat getsourceloc
+ret

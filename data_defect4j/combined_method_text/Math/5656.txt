@@ -1,0 +1,11 @@
+overrid
+org apach common math linear
+param type field element
+inherit doc inheritdoc
+version revis date sun apr
+spars matrix implement base open address map
+field matrix fieldmatrix copi
+version
+spars field matrix sparsefieldmatrix
+version revis date
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix

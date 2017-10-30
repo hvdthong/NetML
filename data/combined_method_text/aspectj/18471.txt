@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb init failur field initfailurecausefield unresolv type unresolvedtyp declar type declaringtyp
+resolv member impl resolvedmemberimpl
+member field
+declar type declaringtyp
+privat static privat static
+mangler namemangl initfailurecaus field initfailurecaus field
+unresolv type unresolvedtyp throwabl signatur getsignatur

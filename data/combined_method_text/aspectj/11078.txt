@@ -1,0 +1,57 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+check spec checkspec class scope classscop scope
+ignor investig ignorefurtherinvestig
+domin pattern dominatespattern
+scope problem report problemreport signal error signalerror
+domin pattern dominatespattern start getstart domin pattern dominatespattern end getend
+domin chang 'declar preced
+string domin pattern dominatespattern string tostr
+bodi aspect
+abstract isabstract
+method bind methodbind method bind method
+len method length len
+method bind methodbind method
+constructor isconstructor
+make constructor aspect invis uncal
+xxx work aspect sourc
+method method bind methodbind bind
+canbeseenbi
+invoc site invocationsit invoc site invocationsit
+scope scope
+paramet paramet length
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+argument constructor allow concret aspect
+check aspect declar gener abstract aspect type param
+type paramet typeparamet type paramet typeparamet length
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+abstract aspect type paramet
+enclos type enclosingtyp
+modifi static isstat modifi
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+aspect static
+ignor investig ignorefurtherinvestig
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+resolv type resolvedtyp type mytyp type typex
+mytyp null system err println bad mytyp
+resolv type resolvedtyp super type supertyp type mytyp superclass getsuperclass
+serializ cloneabl xserializableaspect
+world serializ aspect isxserializableaspect
+world world getworld core type getcoretyp unresolv type unresolvedtyp serializ assign isassignablefrom type mytyp
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+aspect implement serializ
+ignor investig ignorefurtherinvestig
+world world getworld core type getcoretyp unresolv type unresolvedtyp cloneabl assign isassignablefrom type mytyp
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+aspect implement cloneabl
+ignor investig ignorefurtherinvestig
+super type supertyp aspect isaspect
+super type supertyp abstract isabstract
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+extend concret aspect
+ignor investig ignorefurtherinvestig
+super type gener check fulli parameter
+super type supertyp raw type israwtyp
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+gener super aspect fulli parameter extend claus
+ignor investig ignorefurtherinvestig

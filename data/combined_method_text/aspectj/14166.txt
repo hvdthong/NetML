@@ -1,0 +1,63 @@
+org aspectj apach bcel gener
+templat class build method defin except
+handler ad thrown except local variabl attribut
+localvariabletable' linenumbertable' attribut set
+automat code stripattribut
+gener code insert nop oper
+removenops' method rid
+result method object obtain getmethod method
+version methodgen java aclement exp
+author href mailto marku dahm berlin dahm
+author href http www vmeng beard patrick beard setmaxstack
+instructionlist
+method
+method gen methodgen field gen method gen fieldgenormethodgen
+comput stack usag instruct list perform control flow analysi
+return maximum stack depth method
+max stack getmaxstack constant pool gen constantpoolgen instruct list instructionlist code except gen codeexceptiongen
+branch stack branchstack branch target branchtarget branch stack branchstack
+initi popul branch stack except
+handler necessarili branch
+explicitli case stack depth
+except object
+length
+instruct handl instructionhandl handler handler gethandlerpc
+handler
+branch target branchtarget push handler
+stack depth stackdepth max stack depth maxstackdepth
+instruct handl instructionhandl start getstart
+instruct instruct instruct getinstruct
+opcod instruct opcod getopcod
+delta instruct produc stack producestack instruct consum stack consumestack
+stack depth stackdepth delta
+stack depth stackdepth max stack depth maxstackdepth
+max stack depth maxstackdepth stack depth stackdepth
+choos instruct base current branch
+instruct branch instruct branchinstruct
+branch instruct branchinstruct branch branch instruct branchinstruct instruct
+instruct select
+explor select' target default target handl
+select select select branch
+instruct handl instructionhandl target select target gettarget
+target length
+branch target branchtarget push target stack depth stackdepth
+fall
+branch instruct ifinstruct
+instruct back
+push instruct stack depth reduc
+opcod constant jsr opcod constant jsr jsr
+branch target branchtarget push getnext stack depth stackdepth
+branch target branch push branch stack
+condit branch fall case select
+jsr jsr return instruct
+branch target branchtarget push branch target gettarget stack depth stackdepth
+check instruct termin method
+opcod constant athrow opcod constant ret
+opcod constant ireturn opcod constant return
+normal case instruct
+getnext
+instruct defer branch explor
+branch target branchtarget branch target branchtarget pop
+target
+stack depth stackdepth stack depth stackdepth
+max stack depth maxstackdepth

@@ -1,0 +1,25 @@
+compiler crashes processing annotations
+upgraded latest ajdt version build 20060322082516
+aspectj version 20060320075953
+compiler crashed rebulding project work fine
+march 16th version retrying 'clean' build produced
+crash
+java lang nullpointerexception
+org aspectj weaver annotationx ensureattargetinitialized annotationx java
+org aspectj weaver annotationx specifiestarget annotationx java
+org aspectj weaver bcel bcelweaver verifytargetisok bcelweaver java
+org aspectj weaver bcel bcelweaver applydeclareattype bcelweaver java
+org aspectj weaver bcel bcelweaver weaveparenttypemungers bcelweaver java
+org aspectj weaver bcel bcelweaver weaveparentsfor bcelweaver java
+org aspectj weaver bcel bcelweaver weaveparentsfor bcelweaver java
+org aspectj weaver bcel bcelweaver weave bcelweaver java
+org aspectj ajdt internal compiler ajcompileradapter weave ajcompileradapter java
+org aspectj ajdt internal compiler ajcompileradapter aftercompiling ajcompileradapter java
+org aspectj ajdt internal compiler compileradapter ajc afterreturning org aspectj ajdt internal compiler compileradapter f9cc9ca0 compileradapter
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbuildmanager java
+org aspectj ajde internal compileradapter compile compileradapter java
+org aspectj ajde internal aspectjbuildmanager compilerthread run aspectjbuildmanager java
+nullpointerexception thrown null

@@ -1,0 +1,32 @@
+org apach lucen search
+construct filter doc match term ad class
+unlik rangefilt filter multipl term necessarili
+sequenc collect primari kei databas queri result
+choic categori label pick end user filter faster
+equival queri booleanqueri termqueri
+term filter termsfilt filter
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+index reader indexread reader context reader
+open bit set openbitset result open bit set openbitset reader max doc maxdoc
+field field reader field
+byte ref bytesref byte ref bytesref
+bit del doc deldoc reader delet doc getdeleteddoc
+field
+string field lastfield
+term term termsc
+term enum termsenum term enum termsenum
+doc enum docsenum doc
+iter term iter term iter iter hasnext
+term term iter
+term field field lastfield
+term termsc field term term field
+term enum termsenum term termsc iter
+field lastfield term field
+term
+copi term byte
+term enum termsenum seek term enum termsenum seek statu seekstatu found
+doc term enum termsenum doc del doc deldoc doc
+doc doc nextdoc doc enum docsenum doc doc
+result set doc doc docid
+result

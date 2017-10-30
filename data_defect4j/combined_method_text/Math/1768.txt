@@ -1,0 +1,13 @@
+overrid
+param point densiti comput
+math exp
+return probabl densiti point
+implement link exponenti distribut exponentialdistribut
+inherit doc inheritdoc
+densiti
+pdf point
+version
+exponenti distribut impl exponentialdistributionimpl abstract continu distribut abstractcontinuousdistribut
+version revis date
+org apach common math distribut
+fast math fastmath exp

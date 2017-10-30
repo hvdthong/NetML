@@ -1,0 +1,32 @@
+org aspectj apach bcel classfil
+class repres chunk java byte code contain
+method instanti
+attribut readattribut method code
+attribut inform operand stack local
+variabl byte code except handl
+method
+attribut attribut linenumbert
+debug purpos localvariablet
+inform local variabl
+version code java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+codeexcept
+linenumbert
+localvariablet
+code attribut
+dump code attribut file stream binari format
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+dump file
+file write short writeshort max stack
+file write short writeshort max local
+file write int writeint code length
+file write code code length
+file write short writeshort except tabl length
+except tabl length
+except tabl dump file
+file write short writeshort attribut count
+attribut count
+attribut dump file

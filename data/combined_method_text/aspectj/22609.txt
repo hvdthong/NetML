@@ -1,0 +1,35 @@
+org aspectj weaver pattern
+pointcut evalu expens compar pointcutevaluationexpensecompar compar
+score getscor pointcut
+match kind couldmatchkind shadow shadow kind bit shadow kind bit match match
+pointcut withinpointcut
+annot pointcut withinannotationpointcut atwithin
+kind pointcut kindedpointcut
+kind pointcut kindedpointcut kind pointcut kindedpointcut
+shadow kind kind kind getkind
+kind shadow advic execut adviceexecut
+adviceexecut
+kind shadow constructor call constructorcal kind shadow method call methodcal
+call
+kind shadow constructor execut constructorexecut kind shadow method execut methodexecut
+kind shadow initi kind shadow pre initi preiniti
+ex init preinit ex init preinit
+kind shadow except handler exceptionhandl
+handler
+kind shadow field fieldget kind shadow field set fieldset
+set set
+kind shadow static initi staticiniti
+staticinit
+annot pointcut annotationpointcut annot
+arg pointcut argspointcut arg
+arg annot pointcut argsannotationpointcut arg arg
+cflow pointcut cflowpointcut cflow
+handler pointcut handlerpointcut handler
+pointcut ifpointcut
+target pointcut thisortargetpointcut target target
+target annot pointcut thisortargetannotationpointcut target target
+withincod pointcut withincodepointcut withincod
+code annot pointcut withincodeannotationpointcut atwithincod
+pointcut notpointcut score getscor pointcut notpointcut negat pointcut getnegatedpointcut
+pointcut andpointcut score getscor pointcut andpointcut left getleft
+pointcut orpointcut score getscor pointcut orpointcut left getleft

@@ -1,0 +1,23 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+defin class defineclass class loader classload loader string byte
+trace trace enabl istraceen trace enter defineclass object loader byte
+object clazz
+debug gener class
+todo protect domain optim
+method defin class defineclass class loader classload declar method getdeclaredmethod
+defineclass class string
+byte class getclass
+defin class defineclass set access setaccess
+clazz defin class defineclass invok loader object byte
+integ integ byte length
+invoc target except invocationtargetexcept
+target except gettargetexcept linkag error linkageerror
+warn defin gener class fail target except gettargetexcept
+defin ajcmighthaveaspect interfac aspect reweav
+todo maw
+warn defin gener class fail target except gettargetexcept
+except
+warn defin gener class fail
+trace trace enabl istraceen trace exit defineclass clazz

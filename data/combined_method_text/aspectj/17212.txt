@@ -1,0 +1,11 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+note
+typepattern put
+author ajh02
+type pertypewithin pointcut design pointcutdesign
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+ajh02 todo add type thingi
+default implement flag error
+intern set child properti internalgetsetchildproperti properti child

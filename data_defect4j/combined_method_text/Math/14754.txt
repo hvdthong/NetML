@@ -1,0 +1,57 @@
+pre
+num artifici variabl numartificialvari num object function getnumobjectivefunct rh
+restrict neg restricttononneg
+extra decis variabl neg valu
+constraint size
+real matrix realmatrix creat tableau createtableau maxim
+matrix set entri setentri index zindex index zindex maxim
+initi object function row
+matrix set entri setentri artifici variabl offset getartificialvariableoffset artifici var artificialvar
+decis variabl coeffici
+linear constraint linearconstraint constraint constraint
+phase object function
+matrix
+array2 row real matrix array2drowrealmatrix matrix array2 row real matrix array2drowrealmatrix height width
+matrix set entri setentri row slack variabl offset getslackvariableoffset slack var slackvar excess
+maxim constant term getconstantterm constant term getconstantterm
+slack variabl
+constraint relationship getrelationship relationship geq
+version
+amp decis variabl
+copi arrai copyarrai object coeffici objectivecoeffici arrai toarrai matrix data ref getdataref index zindex
+row num object function getnumobjectivefunct
+rh hand side
+constraint relationship getrelationship relationship
+rh
+invert coeffici sum getinvertedcoefficientsum object coeffici objectivecoeffici
+maxim coeffici getcoeffici map multipli mapmultipli coeffici getcoeffici
+initi constraint row
+num object function getnumobjectivefunct
+matrix set entri setentri index zindex width
+matrix set row vector setrowvector matrix row vector getrowvector subtract matrix row vector getrowvector row
+artifici variabl
+real vector realvector object coeffici objectivecoeffici
+creat matrix correct size
+creat tableau
+matrix set entri setentri index zindex slack variabl offset getslackvariableoffset
+matrix set entri setentri row slack variabl offset getslackvariableoffset slack var slackvar slack
+invert coeffici sum getinvertedcoefficientsum constraint coeffici getcoeffici
+param maxim goal maxim object function
+artifici var artificialvar
+matrix set entri setentri
+matrix set entri setentri row slack variabl offset getslackvariableoffset
+copi arrai copyarrai constraint coeffici getcoeffici arrai toarrai matrix data ref getdataref row
+version simplex tableau simplextableau java 14z
+simplex tableau simplextableau serializ
+phase object
+matrix set entri setentri row artifici variabl offset getartificialvariableoffset artifici var artificialvar
+amp slack surplu variabl
+constraint
+index zindex num object function getnumobjectivefunct
+tableau simplex method
+org apach common math3 optim linear
+slack var slackvar
+matrix set entri setentri row width constraint getvalu
+height constraint size num object function getnumobjectivefunct
+width num decis variabl numdecisionvari num slack variabl numslackvari
+constraint relationship getrelationship relationship leq

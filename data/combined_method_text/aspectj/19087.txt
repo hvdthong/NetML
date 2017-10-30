@@ -1,0 +1,5 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+member impl memberimpl method unresolv type unresolvedtyp declar mod string string signatur
+object pair signatur type signaturetotyp signatur
+method declar mod unresolv type unresolvedtyp pair unresolv type unresolvedtyp pair

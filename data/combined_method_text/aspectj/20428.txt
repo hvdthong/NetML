@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+string attribut name getattributenam includ onlyincludeajon
+attribut method attribut getattribut
+list name arrai list arraylist
+string str string length
+length
+includ onlyincludeajon getnam start startswith attribut ajattribut attribut prefix attributeprefix
+name add getnam
+string name arrai toarrai string

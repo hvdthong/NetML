@@ -1,0 +1,10 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+output file provid outputfilenameprovid project iproject
+output locat outputloc java core javacor creat output locat getoutputloc
+java model except javamodelexcept
+output locat outputloc path
+aspect core aspectjcor plugin getplugin log getlog log statu getstatu

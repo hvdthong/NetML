@@ -1,0 +1,12 @@
+org aspectj apach bcel gener
+breakpoint jvm depend default
+version breakpoint java aclement exp
+author href mailto marku dahm berlin dahm
+breakpoint instruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit breakpoint visitbreakpoint

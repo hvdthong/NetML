@@ -1,0 +1,37 @@
+parser
+parsedesignatorpointcut
+parencount parencount parencount parencount parencount
+design design design
+org
+nexttoken
+append append append
+pattern pattern
+pointcutbodi pointcutbodi pointcutbodi pointcutbodi pointcutbodi
+contextbasedmatch
+eat eat eat
+buffer buffer
+pointcut pointcut pointcut pointcut pointcut pointcut pointcut pointcut pointcut pointcut
+handler handler handler handler
+paren paren paren paren paren
+maybeeat maybeeat
+pcd pcd
+pcdhandler pcdhandler
+stringbuff stringbuff
+string string string string
+pcexpr pcexpr
+matcher
+bodi bodi bodi bodi bodi
+base base
+pars pars
+world
+aspectj
+count count count count count
+patternpars
+expr expr
+token
+getstr
+context
+tostr
+weaver
+pointcutdesignatorhandlerbasedpointcut
+pointcutdesignatorhandl

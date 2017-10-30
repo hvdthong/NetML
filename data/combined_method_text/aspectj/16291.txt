@@ -1,0 +1,22 @@
+org aspectj intern tool ant taskdef
+check version sourc file build version
+ensur tag file reflect
+version uptod versionuptod task
+detect version correct java sourc
+param versionsourc
+param buildvers
+return boolean
+version samevers file version sourc versionsourc string build version buildvers
+xxx build load scan
+file reader fileread file reader fileread
+file reader fileread file reader fileread version sourc versionsourc
+buffer reader bufferedread reader buffer reader bufferedread file reader fileread
+string line
+line reader read line readlin
+loc line index indexof static final string text
+loc
+line index indexof build version buildvers loc
+except ioexcept
+file reader fileread
+file reader fileread close
+except ioexcept

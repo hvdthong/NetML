@@ -1,0 +1,126 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+split provid text arrai separ
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+safe substr extract
+check string text
+abbrevi string ellipsi
+code code split whitespac
+index set string
+compar string report differ
+substr extract rel string
+string
+param str string pars code code
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+code code safe
+author arun mammen thoma
+split worker splitwork str separ char separatorchar
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+separ includ return string arrai
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+string split preserv token splitpreservealltoken string str string separ char separatorchar
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+preserv token includ empti token creat adjac
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+check string end suffix safe
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+code code input string return code code
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+control split str token strtoken
+compar string safe
+code string util stringutil code
+symbol code input includ code
+levenstein distanc levensteindist
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+author holger krauth
+code input code
+code code
+code safe
+arrai pars string code code string input
+param str string pars code
+containsonli containsnon containsani
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+author href mailto jon latchkei jon steven
+empti isempti blank isblank
+code code input code code
+author phil steitz
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+string util stringutil split preserv token splitpreservealltoken abc def abc def
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+separ altern string token stringtoken
+code split whitespac
+equal
+code null pointer except nullpointerexcept consid bug
+string util stringutil split preserv token splitpreservealltoken
+code input string return code
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+code separ char separatorchar split whitespac
+code string util stringutil
+param separ char separatorchar charact delimit
+string util stringutil
+append miss appendifmiss
+thread safe threadsaf
+adjac separ treat separ empti token
+check charact string
+arrai pars string code string input
+prepend miss prependifmiss
+string split preserv token splitpreservealltoken string str separ char separatorchar
+symbol code code input includ code code

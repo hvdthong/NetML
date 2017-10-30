@@ -1,0 +1,12 @@
+Primitive number not wrapped when used as paramter of apply
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.4) Gecko/2008111317 Ubuntu/8.04 (hardy) Firefox/3.0.4
+Build Identifier: 
+
+In interpreted mode, primitive numbers are stored in the dblStack and should be wrapped when they are used as parameters of the apply method
+
+Reproducible: Always
+
+Steps to Reproduce:
+1.
+2.
+3.

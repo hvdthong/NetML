@@ -1,0 +1,9 @@
+org aspectj weaver
+advic shadow munger shadowmung
+advic make cflow entri makepercflowentri world world pointcut entri isbelow
+member stack field stackfield resolv type resolvedtyp aspect inaspect list cflow entri innercflowentri
+advic ret world creat advic munger createadvicemung isbelow advic kind advicekind cflow entri percflowbelowentri advic kind advicekind cflow entri percflowentri
+entri stack field stackfield entri
+ret cflow entri innercflowentri cflow entri innercflowentri
+ret concret aspect concreteaspect aspect inaspect
+ret

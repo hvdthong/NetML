@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+refer pointcut referencepointcut pointcut
+write data output stream dataoutputstream except ioexcept
+xxx ignor ontyp
+write byte writebyt pointcut refer
+type ontyp
+write boolean writeboolean
+type ontyp write
+write boolean writeboolean
+write utf writeutf
+argument write
+write locat writeloc

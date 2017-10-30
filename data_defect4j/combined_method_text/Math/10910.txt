@@ -1,0 +1,11 @@
+replac 'j' number format real
+org apach common math3 complex
+format complex number cartesian format 'i'
+complex format local
+local local getavailablelocal
+number format numberformat local getavailablelocal
+set local complex format
+version
+complex format complexformat
+set link number format numberformat set
+imaginari part configur

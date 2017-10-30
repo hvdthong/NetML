@@ -1,0 +1,37 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read declareerror declarewarn
+param runtimeannot
+param struct
+return true found
+handl declar error warn annot handledeclareerrororwarningannot runtim annot runtimeannot runtim annot runtimeannot attribut field struct ajattributefieldstruct struct
+annot error annot getannot runtim annot runtimeannot ajc member maker ajcmembermak declareerror annot declareerror annot
+error haserror
+error
+element pair elementnamevaluepair declar error declareerror annot element getannotationel error
+declar error declareerror
+string desc string desc equal struct field signatur getsignatur struct field constant getconstantvalu
+report error reporterror declareerror string constant field struct
+pointcut pars pointcut parsepointcut declar error declareerror getvalu stringifi stringifyvalu struct
+error haserror haserror fals pars pointcut
+declar error warn declareerrororwarn deow declar error warn declareerrororwarn struct field constant getconstantvalu string tostr
+set declar error warn locat setdeclareerrororwarningloc deow struct
+struct attribut ajattribut add attribut ajattribut declar attribut declareattribut deow
+error haserror
+annot warn annot getannot runtim annot runtimeannot ajc member maker ajcmembermak declarewarn annot declarewarn annot
+warn haswarn
+warn
+element pair elementnamevaluepair declar warn declarewarn annot element getannotationel warn
+declar warn declarewarn
+string desc string desc equal struct field signatur getsignatur struct field constant getconstantvalu
+report error reporterror declarewarn string constant field struct
+pointcut pars pointcut parsepointcut declar warn declarewarn getvalu stringifi stringifyvalu struct
+warn haswarn haswarn fals pars pointcut
+declar error warn declareerrororwarn deow declar error warn declareerrororwarn struct field constant getconstantvalu string tostr
+set declar error warn locat setdeclareerrororwarningloc deow struct
+struct attribut ajattribut add attribut ajattribut declar attribut declareattribut deow
+warn haswarn
+error haserror warn haswarn

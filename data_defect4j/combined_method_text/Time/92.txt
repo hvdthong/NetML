@@ -1,0 +1,47 @@
+author stephen colebourn
+set
+text
+intern standard compat modern gregorian calendar
+param week amount week subtract neg
+add subtract
+date midnight datemidnight defin date time compon fix midnight
+date midnight datemidnight subtract minu week minusweek
+code dai month dayofmonth code
+time zone midnight local utc time zone
+maximum minimum valu
+techniqu access method
+date midnight datemidnight minu week minusweek week
+field
+milli withmilli instant
+millisecond instant convert date time field
+deprec time midnight exist time zone
+chronolog code iso chronolog isochronolog code agre
+code dai month getdayofmonth code
+datetim instanc immut unaffect method call
+instant chronolog getchronolog week subtract milli getmilli week
+week
+repres dai link interv
+individu field queri wai
+numer
+link date time datetim repres full date time
+dai
+datetim minu increas week
+chronolog intern chronolog determin
+daylight save time forward shift skip midnight hour
+import emphasis repres time midnight
+date midnight datemidnight thread safe immut provid chronolog
+date midnight datemidnight subtract minu period week
+standard chronolog class suppli thread safe immut
+return copi date minu number week
+date midnight datemidnight
+note midnight defin start dai
+link date time datetim time start dai withtimeatstartofdai instant
+pre
+line ident effect
+date midnight datemidnight subtract field ad withfieldad durat field type durationfieldtyp week
+link local date locald repres date time zone
+start dai
+org joda time
+link local date locald suitabl
+round
+repres dai millisecond instant midnight

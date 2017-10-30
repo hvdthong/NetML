@@ -1,0 +1,39 @@
+pre
+param arrai repres sampl
+note add initi unitari column column 1'
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+array2 row real matrix array2drowrealmatrix
+local format localizedformat null allow
+org apach common math stat regress
+load sampl data overrid previou data
+aug xaug
+abstract multipl linear regress abstractmultiplelinearregress
+local format localizedformat row length
+model includ intercept term
+var nvar length
+load sampl data overrid previou sampl
+version
+intercept nointercept
+version revis date
+system arraycopi aug xaug var nvar
+code code pre
+param rectangular arrai repres sampl
+input code code arrai row sampl
+illeg argument except illegalargumentexcept empti rectangular
+array2 row real matrix array2drowrealmatrix aug xaug
+aug xaug length var nvar
+code set sampl data setxsampledata code result model independ
+real matrix impl realmatriximpl
+length var nvar
+observ column independ variabl
+variabl observ
+abstract base implement multipl linear regress multiplelinearregress
+sampl data newxsampledata
+augment design matrix initi unitari column
+local format localizedformat data
+dimens mismatch except dimensionmismatchexcept length var nvar
+length
+data except nodataexcept empti
+data except nodataexcept
+dimens mismatch except dimensionmismatchexcept rectangular
+null argument except nullargumentexcept

@@ -1,0 +1,8 @@
+solv linear problem phase simplex method
+version revis date
+default epsilon default ulp
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+build simplex solver set
+org apach common math optim linear
+simplex solver simplexsolv
+default epsilon

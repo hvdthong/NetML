@@ -1,0 +1,19 @@
+pre
+solver factori solverfactori factori univari real solver factori univariaterealsolverfactori instanc newinst
+univari real solver univariaterealsolv bisect solver newbisectionsolv
+brent' method
+solver
+bisect
+creat link univari real solver univariaterealsolv
+concret factori extend solver instanc
+return code default solver newdefaultsolv code
+solver implement algorithm support
+univari real solver factori univariaterealsolverfactori
+solver implement bisect method
+secant method
+abstract factori creat link univari real solver univariaterealsolv instanc
+brent solver brentsolv solver factori brent solver newbrentsolv
+version revis date
+common usag pre
+creat brent solver
+org apach common math analysi solver

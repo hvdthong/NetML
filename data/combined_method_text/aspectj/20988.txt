@@ -1,0 +1,149 @@
+org aspectj weaver bcel
+lazi lazi lazi
+unpack underli class thing
+method annot accumul
+written add underli methodgen
+thing slightli repres aspect
+lazi class gen lazyclassgen
+initi tjp initializetjp instruct factori instructionfactori fact instruct list instructionlist list
+field field bcel shadow bcelshadow shadow
+member sig shadow signatur getsignatur
+resolvedmemb mem shadow getsignatur resolv shadow getworld
+load factori
+list append instruct factori instructionfactori creat load createload factori type factorytyp
+load kind
+list append push constant pool gen getconstantpoolgen shadow kind getkind getnam
+creat signatur
+list append instruct factori instructionfactori creat load createload factori type factorytyp
+world target aspect runtime12 istargettingaspectjruntime12 world istargettingaspectjruntime12 tag supporting12 optim factori method
+list append push constant pool gen getconstantpoolgen sig signatur string getsignaturestr shadow world getworld
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string
+constant invokevirtu
+sig kind getkind equal member method
+bcel world bcelworld shadow world getworld
+method push part signatur
+list append push constant pool gen getconstantpoolgen make string makestr sig modifi getmodifi
+list append push constant pool gen getconstantpoolgen sig getnam
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet type getparametertyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet name getparameternam
+list append push constant pool gen getconstantpoolgen make string makestr sig except getexcept
+list append push constant pool gen getconstantpoolgen make string makestr sig return type getreturntyp
+gener call variant makemethodsig take string
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string type string type string type string type string type string type string
+constant invokevirtu
+sig kind getkind equal member monitorent
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string
+constant invokevirtu
+sig kind getkind equal member monitorexit
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string
+constant invokevirtu
+sig kind getkind equal member handler
+bcel world bcelworld shadow world getworld
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet type getparametertyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet name getparameternam
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string type string type string
+constant invokevirtu
+sig kind getkind equal member constructor
+bcel world bcelworld shadow world getworld
+joinpoint arrai construct enabl isjoinpointarrayconstructionen sig declar type getdeclaringtyp arrai isarrai
+magic
+list append push constant pool gen getconstantpoolgen make string makestr modifi public
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet type getparametertyp
+list append push constant pool gen getconstantpoolgen list append push getconstantpoolgen makestr sig getparameternam
+list append push constant pool gen getconstantpoolgen list append push getconstantpoolgen makestr sig getexcept
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string type string type string type string type string
+constant invokevirtu
+list append push constant pool gen getconstantpoolgen make string makestr sig modifi getmodifi
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet type getparametertyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet name getparameternam
+list append push constant pool gen getconstantpoolgen make string makestr sig except getexcept
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string type string type string type string type string
+constant invokevirtu
+sig kind getkind equal member field
+bcel world bcelworld shadow world getworld
+list append push constant pool gen getconstantpoolgen make string makestr sig modifi getmodifi
+list append push constant pool gen getconstantpoolgen sig getnam
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append push constant pool gen getconstantpoolgen make string makestr sig return type getreturntyp
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string type string type string type string
+constant invokevirtu
+sig kind getkind equal member advic
+bcel world bcelworld shadow world getworld
+list append push constant pool gen getconstantpoolgen make string makestr sig modifi getmodifi
+list append push constant pool gen getconstantpoolgen sig getnam
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet type getparametertyp
+list append push constant pool gen getconstantpoolgen make string makestr sig paramet name getparameternam
+list append push constant pool gen getconstantpoolgen make string makestr sig except getexcept
+list append push constant pool gen getconstantpoolgen make string makestr sig return type getreturntyp
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string type string type string type string type string type string type string
+constant invokevirtu
+sig kind getkind equal member static initi static initi
+bcel world bcelworld shadow world getworld
+list append push constant pool gen getconstantpoolgen make string makestr sig modifi getmodifi
+list append push constant pool gen getconstantpoolgen make string makestr sig declar type getdeclaringtyp
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string type string
+constant invokevirtu
+list append push constant pool gen getconstantpoolgen sig signatur string getsignaturestr shadow world getworld
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+sig signatur maker getsignaturemakernam
+object type objecttyp sig signatur type getsignaturetyp
+type type string
+constant invokevirtu
+xxx load sourc locat shadow
+list append util creat constant createconst fact shadow sourc line getsourcelin
+string factori method factorymethod
+world target aspect runtime12 istargettingaspectjruntime12 world istargettingaspectjruntime12 tag supporting12 makeesjp
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+makesjp static tjp type statictjptyp
+type type string sig type sigtyp type int
+constant invokevirtu
+put field
+list append fact creat field access createfieldaccess class getclassnam field getnam static tjp type statictjptyp constant putstat
+static tjp type statictjptyp equal field type gettyp
+factori method factorymethod makesjp
+enclos static tjp type enclosingstatictjptyp equal field type gettyp
+factori method factorymethod makeesjp
+error happen
+list append fact creat invok createinvok factori type factorytyp class getclassnam
+factori method factorymethod field type gettyp
+type type string sig type sigtyp type int
+constant invokevirtu
+put field
+list append fact creat field access createfieldaccess class getclassnam field getnam field type gettyp constant putstat

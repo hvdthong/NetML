@@ -1,0 +1,19 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+param input string target input
+set target settarget string input
+string ignor cmd add option addopt target target input target input input
+ignor
+ignor ignor

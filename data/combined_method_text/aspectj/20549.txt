@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+visit field static depend field
+param fieldget
+visit field fieldgeton field fieldget
+member field field fieldget field getfield
+instruct insert util creat creategeton fact field field fieldget declar type getdeclaringtyp

@@ -1,0 +1,110 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung field mungenewfield bcel class weaver bcelclassweav weaver field type munger newfieldtypemung munger
+munger init method getinitmethod aspect type aspecttyp resolvedmemb initmethod munger getinitmethod aspecttyp
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+resolv member resolvedmemb field munger signatur getsignatur
+resolv type resolvedtyp type ontyp weaver world getworld resolv field declar type getdeclaringtyp munger sourc locat getsourceloc
+type ontyp raw type israwtyp type ontyp type ontyp gener type getgenerictyp
+interfac oninterfac type ontyp interfac isinterfac
+type ontyp annot isannot
+signal error signalerror weaver messag weavermessag itdf annot allow itdf annot allow weaver type ontyp
+type ontyp enum isenum
+signal error signalerror weaver messag weavermessag itdf enum allow itdf enum allow weaver type ontyp
+resolv member resolvedmemb inter method bodi intermethodbodi munger init method getinitmethod aspect type aspecttyp
+annot annotationx annot real member annotationsonrealmemb
+pr98901
+copi annot discov real member aspect
+hold
+weaver world getworld java5 mode isinjava5mod
+line method aspecttyp getdeclaredmethod
+resolv type resolvedtyp tolookon aspect type aspecttyp
+aspect type aspecttyp raw type israwtyp tolookon aspect type aspecttyp gener type getgenerictyp
+resolv member resolvedmemb real member realmemb real member itd aspect getrealmemberforitdfromaspect tolookon inter method bodi intermethodbodi
+real member realmemb except bcexcept find itd init member
+inter method bodi intermethodbodi aspect aspect type aspecttyp
+annot real member annotationsonrealmemb real member realmemb annot getannot
+type ontyp equal gen type gettyp
+interfac oninterfac
+resolv member resolvedmemb itdfield getter itdfieldgett ajc member maker ajcmembermak inter field interfac getter interfieldinterfacegett field type ontyp aspect type aspecttyp
+lazi method gen lazymethodgen make method gen makemethodgen gen itdfield getter itdfieldgett
+gen add method gen addmethodgen
+lazi method gen lazymethodgen mg1 make method gen makemethodgen gen
+ajc member maker ajcmembermak inter field interfac setter interfieldinterfacesett field type ontyp aspect type aspecttyp
+gen add method gen addmethodgen mg1
+weaver add initi addiniti
+field gen fieldgen make field gen makefieldgen gen
+ajc member maker ajcmembermak inter field class field interfieldclassfield field aspect type aspecttyp
+annot real member annotationsonrealmemb
+annot real member annotationsonrealmemb length
+annot annotationx annot annotationx annot real member annotationsonrealmemb
+annot annot annotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen weaver lazi class gen getlazyclassgen constant pool gen getconstantpoolgen
+add annot addannot
+gen add field addfield field getfield sourc locat getsourceloc
+interfac oninterfac gen type gettyp topmost implementor istopmostimplementor type ontyp
+wew static static interfac
+field static isstat runtim except runtimeexcept unimpl
+weaver add initi addiniti
+system err println impl bodi gen gettyp munger
+type field type fieldtyp bcel world bcelworld make bcel type makebceltyp field type gettyp
+field gen fieldgen make field gen makefieldgen gen ajc member maker ajcmembermak inter field interfac field interfieldinterfacefield field type ontyp aspect type aspecttyp
+annot real member annotationsonrealmemb
+annot real member annotationsonrealmemb length
+annot annotationx annot annotationx annot real member annotationsonrealmemb
+annot annot annotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen weaver lazi class gen getlazyclassgen constant pool gen getconstantpoolgen
+add annot addannot
+gen add field addfield field getfield sourc locat getsourceloc
+shadow munger add init method constructor
+weaver getshadowmung add makeinitcallshadowmung initmethod
+resolv member resolvedmemb itdfield getter itdfieldgett ajc member maker ajcmembermak inter field interfac getter interfieldinterfacegett field gen type gettyp aspect type aspecttyp resolvedmemb itdfieldgett ajcmembermak interfieldinterfacegett field gen gettyp ontyp aspecttyp
+lazi method gen lazymethodgen make method gen makemethodgen gen itdfield getter itdfieldgett
+instruct list instructionlist instruct list instructionlist
+instruct factori instructionfactori fact gen factori getfactori
+field static isstat
+append fact creat field access createfieldaccess
+gen class getclassnam
+getnam
+field type fieldtyp constant getstat
+append instruct constant instructionconst aload
+append fact creat field access createfieldaccess
+gen class getclassnam
+getnam
+field type fieldtyp constant getfield
+append instruct factori instructionfactori creat return createreturn field type fieldtyp
+bodi getbodi insert
+gen add method gen addmethodgen
+check bridg method field getter setter
+munger declar signatur getdeclaredsignatur munger getdeclaredsignatur null munger parameter form origin munger
+resolv member resolvedmemb bridg tobridgeto munger declar signatur getdeclaredsignatur parameter parameterizedwith munger signatur getsignatur declar type getdeclaringtyp resolv world getworld munger type variabl alias gettypevariablealias
+needsbridg
+bridg tobridgeto return type getreturntyp erasur signatur geterasuresignatur equal munger signatur getsignatur return type getreturntyp erasur signatur geterasuresignatur needsbridg
+bridg tobridgeto needsbridg
+resolv member resolvedmemb bridg getter bridginggett ajc member maker ajcmembermak inter field interfac getter interfieldinterfacegett bridg tobridgeto gen type gettyp aspect type aspecttyp
+creat bridg method itdf createbridgemethodforitdf weaver gen itdfield getter itdfieldgett bridg getter bridginggett
+resolv member resolvedmemb itdfield setter itdfieldsett ajc member maker ajcmembermak inter field interfac setter interfieldinterfacesett field gen type gettyp aspect type aspecttyp
+lazi method gen lazymethodgen mg1 make method gen makemethodgen gen itdfield setter itdfieldsett
+instruct list instructionlist il1 instruct list instructionlist
+field static isstat
+il1 append instruct factori instructionfactori creat load createload field type fieldtyp
+il1 append fact creat field access createfieldaccess
+gen class getclassnam
+getnam
+field type fieldtyp constant putstat
+il1 append instruct constant instructionconst aload
+il1 append instruct factori instructionfactori creat load createload field type fieldtyp
+il1 append fact creat field access createfieldaccess
+gen class getclassnam
+getnam
+field type fieldtyp constant putfield
+il1 append instruct factori instructionfactori creat return createreturn type void
+mg1 bodi getbodi insert il1
+gen add method gen addmethodgen mg1
+munger declar signatur getdeclaredsignatur
+resolv member resolvedmemb bridg tobridgeto munger declar signatur getdeclaredsignatur parameter parameterizedwith munger signatur getsignatur declar type getdeclaringtyp resolv world getworld munger type variabl alias gettypevariablealias
+needsbridg
+bridg tobridgeto return type getreturntyp erasur signatur geterasuresignatur equal munger signatur getsignatur return type getreturntyp erasur signatur geterasuresignatur needsbridg
+bridg tobridgeto needsbridg
+resolv member resolvedmemb bridg setter bridgingsett ajc member maker ajcmembermak inter field interfac setter interfieldinterfacesett bridg tobridgeto gen type gettyp aspect type aspecttyp
+creat bridg method itdf createbridgemethodforitdf weaver gen itdfield setter itdfieldsett bridg setter bridgingsett

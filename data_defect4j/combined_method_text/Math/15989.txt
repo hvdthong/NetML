@@ -1,0 +1,17 @@
+math illeg argument except mathillegalargumentexcept arrai
+stat util statutil method comput statist base data
+version
+math illeg argument except mathillegalargumentexcept
+link org apach common math3 stat descript summari sum log sumoflog
+param valu input arrai
+sum log evalu valu
+throw code illeg argument except illegalargumentexcept code arrai
+return sum natur log entri input arrai
+sum log sumlog valu
+stat util statutil
+store arrai
+arrai empti
+org apach common math3 stat
+code doubl nan code arrai empti
+illeg argument except illegalargumentexcept arrai
+sum natur log valu doubl nan

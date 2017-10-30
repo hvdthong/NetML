@@ -1,0 +1,8 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+signatur join point member signatur
+iter join point signatur getjoinpointsignatur world world inaworld
+join point signatur joinpointsignatur
+join point signatur joinpointsignatur join point signatur iter joinpointsignatureiter world inaworld
+join point signatur joinpointsignatur reset
+join point signatur joinpointsignatur

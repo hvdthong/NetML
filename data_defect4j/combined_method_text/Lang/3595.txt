@@ -1,0 +1,31 @@
+author tetsuya kaneuchi
+param osnam
+decid oper system match
+osnam start startswith prefix osnameprefix
+helper code java lang system
+system properti read due secur restrict field set
+param prefix osnameprefix
+messag written code system err code
+author michael beck
+author apach softwar foundat
+author rafal krupinski
+system util systemutil
+author base code lucen
+author gari gregori
+param prefix osnameprefix prefix expect
+version
+osnam
+author href mailto sdownei panix steve downei
+helper code java lang system code
+author base code avalon excalibur
+match determin
+thread safe threadsaf
+org apach common lang3
+match isosnamematch string osnam string prefix osnameprefix
+actual
+system properti read due secur restrict field set code code
+method support unit test invoc
+author jason gritman
+code messag written code system err
+prefix expect
+param osnam actual

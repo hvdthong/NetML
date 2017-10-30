@@ -1,0 +1,72 @@
+org aspectj weaver pattern
+patternpars creat wildtypepattern type pattern pointcut
+express directli turn typepattern
+resolvebind work turn type
+pattern match exacttypepattern
+wildtypepattern
+process pan gener parameter pattern
+genericswildtypepatternresolvingtestcas
+foo foo exist gener
+parser creat wildtypepattern namepattern foo
+resolvebind resolv foo foo raw
+return exacttypepattern lfoo
+foo string foo exist string meet bound
+parser creat wildtypepattern namepattern foo typeparamet wtp string
+resolvebind resolv typeparamet exacttypepattern string
+resolv foo foo
+return exacttypepattern pfoo string parameter
+foo str foo exist take bound
+parser creat wildtypepattern namepattern foo typeparamet wtp str
+resolvebind resolv typeparamet wtp str
+resolv foo foo
+return wildtypepattern foo typeparamet wtp str isgener fals
+string
+parser creat wildtypepattern namepattern typeparamet wtp string
+resolvebind resolv typeparamet etp string
+return wildtypepattern typeparamet etp string isgener fals
+foo
+foo extend number
+foo extend number
+foo super number
+wild type pattern wildtypepattern type pattern typepattern
+param targettypenam
+return
+match matchesexactlybynam string target type targettypenam anonym isanonym nest isnest
+deal paramet match separ
+target type targettypenam index indexof
+target type targettypenam target type targettypenam substr target type targettypenam index indexof
+deal bound match separ
+target type targettypenam start startswith gener wildcard charact gener wildcard charact
+target type targettypenam gener wildcard charact gener wildcard charact
+xxx hack
+match knownmatch import prefix importedprefix
+match innermatchesexactli target type targettypenam anonym isanonym nest isnest
+pattern star isnamepatternstar
+match dimens match
+num dimens target type numdimensionsintargettyp
+dim
+index
+index target type targettypenam index indexof
+num dimens target type numdimensionsintargettyp
+target type targettypenam target type targettypenam substr index
+num dimens target type numdimensionsintargettyp dim
+pattern length match exact match
+longer match prefix sort
+pattern namepattern length
+anonym isanonym
+rule pattern match anonym type
+len match knownmatch length len
+match knownmatch equal target type targettypenam
+len match knownmatch length len
+string prefix knownprefix match knownmatch
+target type targettypenam start startswith prefix knownprefix
+po index dot dollar lastindexofdotordollar match knownmatch
+match innermatchesexactli target type targettypenam substr po anonym isanonym nest isnest
+prefix match strip prefix check rest match
+assum prefix dot end
+len import prefix importedprefix length len
+string prefix import prefix importedprefix
+system err println prefix match prefix targettypenam
+target type targettypenam start startswith prefix
+match innermatchesexactli target type targettypenam substr prefix length anonym isanonym nest isnest
+match innermatchesexactli target type targettypenam anonym isanonym nest isnest

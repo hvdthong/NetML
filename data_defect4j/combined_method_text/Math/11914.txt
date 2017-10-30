@@ -1,0 +1,14 @@
+add point sampl
+call method equival call
+list tolist
+param observ code fit
+link abstract curv fitter abstractcurvefitt curv fit algorithm
+simpl contain weight observ point
+org apach common math3 fit
+add weight observ point weightedobservedpoint
+weight observ point weightedobservedpoint serializ
+add
+version
+code add
+param abscissa point
+code close

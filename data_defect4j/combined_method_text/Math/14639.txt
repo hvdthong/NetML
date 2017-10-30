@@ -1,0 +1,12 @@
+param pair type point pair return optim
+turn start point avoid trap
+clear
+wrap optim order time
+org apach common math3 optim
+version
+user
+local extremum global
+base multi start multivari optim basemultistartmultivariateoptim pair
+algorithm
+base multi start optim multivari function
+method call order clear store optima

@@ -1,0 +1,9 @@
+org apach common math optim fit
+weight getweight
+weight
+simpl contain weight observ point
+link curv fitter curvefitt curv fit
+weight measur fit process
+instanc guarante immut
+weight observ point weightedobservedpoint serializ
+version revis date

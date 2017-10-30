@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+suppress lint warn suppresslintwarn world world inworld
+suppress lint kind suppressedlintkind
+signatur bcel method bcelmethod
+suppress lint kind suppressedlintkind util suppress warn getsuppressedwarn signatur annot getannot world inworld lint getlint
+suppress lint kind suppressedlintkind collect empti list empti list
+world inworld lint getlint suppress kind suppresskind suppress lint kind suppressedlintkind

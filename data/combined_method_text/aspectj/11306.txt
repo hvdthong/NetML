@@ -1,0 +1,19 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+proce visitor proceedvisitor ast visitor astvisitor
+remov unus extra argument removeunusedextraargu
+extra argument flag extraargumentflag
+comput join point param computejoinpointparam
+method bind methodbind bind method bind
+index bind paramet length
+static enclos needsstaticenclos
+extra argument flag extraargumentflag advic enclos join point static part thisenclosingjoinpointstaticpart
+remov paramet removeparamet index
+dynam needsdynam
+extra argument flag extraargumentflag advic join point thisjoinpoint
+remov paramet removeparamet index
+static needsstat
+extra argument flag extraargumentflag advic join point static part thisjoinpointstaticpart
+remov paramet removeparamet index
+extra argument flag extraargumentflag

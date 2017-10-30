@@ -1,0 +1,11 @@
+org apach common math geometri euclidean threed
+repres plane dimension space
+instanc modifi instanc creat
+plane
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+param translat translat appli
+make frame transform desir
+translat plane amount
+plane translat vector3 vector3d translat
+plane plane plane origin add translat

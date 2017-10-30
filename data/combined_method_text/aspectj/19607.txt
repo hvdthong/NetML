@@ -1,0 +1,10 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+accumul parameter super type accumulateparameterizedsupertyp resolv type resolvedtyp type fortyp list parameter type list parameterizedtypelist
+type fortyp parameter type isparameterizedtyp
+parameter type list parameterizedtypelist add type fortyp
+type fortyp superclass getsuperclass
+accumul parameter super type accumulateparameterizedsupertyp type fortyp superclass getsuperclass parameter type list parameterizedtypelist
+resolv type resolvedtyp interfac type fortyp declar interfac getdeclaredinterfac
+interfac length
+accumul parameter super type accumulateparameterizedsupertyp interfac parameter type list parameterizedtypelist

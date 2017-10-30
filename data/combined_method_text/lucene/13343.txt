@@ -1,0 +1,7 @@
+org apach lucen index
+term vector term writer field termvectorstermswriterperfield term hash consum field termshashconsumerperfield
+overrid
+parallel post arrai parallelpostingsarrai resiz size newsiz
+term vector post arrai termvectorspostingsarrai arrai newarrai term vector post arrai termvectorspostingsarrai size newsiz
+copi arrai newarrai
+arrai newarrai

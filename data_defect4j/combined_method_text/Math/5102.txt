@@ -1,0 +1,12 @@
+overrid
+open map real vector openmaprealvector spars real vector sparserealvector
+org apach common math linear
+inherit doc inheritdoc
+check vector dimens checkvectordimens dimens getdimens
+link open int doubl hash map openinttodoublehashmap back store
+real vector realvector subtract real vector realvector
+link real vector realvector
+open map real vector openmaprealvector
+version
+subtract
+subtract open map real vector openmaprealvector

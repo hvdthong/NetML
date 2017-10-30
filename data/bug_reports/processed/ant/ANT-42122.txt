@@ -1,0 +1,42 @@
+zipfileset src zip copies wrong file permission
+ant apparently external file attributes field zip file entry
+specifically top bits file permission confirm
+pkzip specification http www info zip org pub infozip doc
+unzip implementations notably
+solaris bin unzip standard practice
+apparently zip program creates zip files
+attributes confirm program created zip file
+external file attributes set platform bit set
+file permission stored zip file
+zip file source zipfileset zip
+zip file
+zip destfile foo zip
+zipfileset src bar zip
+zip
+attempt copy entries ant internally call
+zipresource setentry
+private void setentry zipentry
+null
+setexists false
+return
+
+setname getname
+setexists true
+setlastmodified gettime
+setdirectory isdirectory
+setsize getsize
+setmode getunixmode
+
+problematic bit setmode getunixmode wrote
+zip file declares platform unix mode set
+getunixmode returns ant calls setmode method assuming
+explicitly set
+public void setmode int mode
+checkattributesallowed
+mode mode
+modeset true
+
+eventually entries created foo zip permission
+code changed
+getplatform platform unix
+setmode getunixmode

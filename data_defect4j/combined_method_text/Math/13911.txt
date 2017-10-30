@@ -1,0 +1,15 @@
+match row dimens code
+code
+org apach common math3 linear
+return row vector result premultipli vector code
+matrix element index base code entri getentri code
+return row vector result premultipli vector code code
+return element row column matrix
+version
+dimens mismatch except dimensionmismatchexcept dimens code
+illeg argument except illegalargumentexcept row dimens rowdimens size
+interfac defin real valu matrix basic algebra oper
+real vector realvector pre multipli premultipli real vector realvector
+param row vector premultipli
+real vector realvector pre multipli premultipli real vector realvector dimens mismatch except dimensionmismatchexcept
+real matrix realmatrix matrix anymatrix

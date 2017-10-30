@@ -1,0 +1,24 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+visit annot hasannot annot hasannot
+java
+foo class isannotationpres annotationclass
+bytecod
+load var stack
+invokevirtu java lang object getclass ljava lang class
+ldc annotationclass
+invokevirtu java lang class isannotationpres ljava lang class
+instruct list instructionlist instruct list instructionlist
+member class getclass member impl memberimpl method unresolv type unresolvedtyp object getclass ljava lang class
+append util creat invok createinvok fact world class getclass
+aload annotationclass
+string annot hasannot annot type getannotationtyp getnam
+append fact creat constant createconst object type objecttyp annot hasannot annot type getannotationtyp getnam
+int annclassindex fact getconstantpool addclass hasannot getannotationtyp getsignatur
+append ldc annclassindex
+member annot present isannotationpres member impl memberimpl method unresolv type unresolvedtyp fornam java lang class
+isannotationpres ljava lang class
+append util creat invok createinvok fact world annot present isannotationpres
+append creat jump base boolean stack createjumpbasedonbooleanonstack
+instruct insert
+annot hasannot var getvar accept

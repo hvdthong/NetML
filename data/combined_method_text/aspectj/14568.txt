@@ -1,0 +1,8 @@
+org aspectj apach bcel gener annot
+class element gen classelementvaluegen element gen elementvaluegen
+class element gen classelementvaluegen class element classelementvalu constant pool gen constantpoolgen cpool copi pool entri copypoolentri
+class cpool
+copi pool entri copypoolentri
+idx cpool addclass getclassstr
+idx cpool add utf8 addutf8 class string getclassstr
+idx index getindex

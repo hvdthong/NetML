@@ -1,0 +1,8 @@
+report basic multivari statist
+real matrix realmatrix covari getcovari
+statist multivari summari statisticalmultivariatesummari
+org apach common math3 stat descript
+version
+return covari valu
+ad zero matrix singl set
+covari multivari sampl

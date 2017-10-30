@@ -1,0 +1,3 @@
+raminputstream hits false eof seek eof seek back readbytes
+testlazyloadthreadsafety fails hudson possibly issue ramdirectory
+hack lucene testcase return directory seed pass

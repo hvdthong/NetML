@@ -1,0 +1,208 @@
+ldc ldc ldc ldc ldc ldc
+code code code
+serializ
+imul imul
+daload daload
+aload aload aload aload aload aload aload
+setopcod
+lookupswitch lookupswitch
+fsub fsub
+find
+ddiv ddiv
+lxor lxor
+ldiv ldiv
+readinstruct
+apach
+except except except except except except
+param
+gen gen gen gen
+marku
+init
+aclement
+fadd fadd
+input
+fdiv fdiv
+local
+aastor aastor
+ladd ladd
+return return return return return
+string
+dup2 dup2 dup2 dup2 dup2 dup2 dup2 dup2 dup2 dup2
+read read read read read read read
+dstore dstore dstore dstore dstore dstore dstore
+dneg dneg
+lconst lconst lconst
+lload lload lload lload lload lload lload
+initi initi
+pop2 pop2
+arraylength arraylength
+bcel
+lastor lastor
+nop nop
+aspectj
+astor astor astor astor astor astor astor
+dload dload dload dload dload dload dload
+instanceof instanceof
+isub isub
+newarrai newarrai
+fstore fstore fstore fstore fstore fstore fstore
+aconst aconst aconst aconst
+iinc iinc iinc
+href
+ifl ifl
+saload saload
+d2f d2f
+set set
+ixor ixor
+l2d l2d
+fastor fastor
+l2i l2i
+invokestat invokestat
+lstore lstore lstore lstore lstore lstore lstore
+iconst iconst iconst iconst iconst iconst iconst iconst iconst
+iadd iadd
+variabl
+athrow athrow
+fload fload fload fload fload fload fload
+ishr ishr
+invokeinterfac invokeinterfac
+initfromfil initfromfil
+ret ret ret
+mailto
+version
+ishl ishl
+bytesequ
+caload caload
+dreturn dreturn
+object object object object
+dahm dahm
+goto goto goto goto goto goto
+frem frem
+sipush sipush
+iaload iaload
+monitorexit monitorexit
+drem drem
+fcmpl fcmpl
+invokevirtu invokevirtu
+byte byte byte byte byte byte byte byte byte byte byte byte
+super
+ifn ifn
+obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj obj
+fconst fconst fconst fconst
+dastor dastor
+f2i f2i
+lushr lushr
+dcmpg dcmpg
+irem irem
+gener
+dcmpl dcmpl
+tableswitch tableswitch
+lrem lrem
+ldc2 ldc2 ldc2 ldc2
+iand iand
+checkcast checkcast
+instanti
+offset
+pop pop
+lshl lshl
+fmul fmul
+lshr lshr
+instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct
+dconst dconst dconst
+immut
+opcod opcod opcod opcod opcod opcod opcod opcod opcod opcod opcod opcod opcod opcod
+classgenexcept classgenexcept classgenexcept classgenexcept
+predefin
+ifgt ifgt
+icmplt icmplt icmplt icmplt
+java java
+stream
+fcmpg fcmpg
+l2f l2f
+ineg ineg
+empti
+clazz
+lor lor
+dup dup dup dup dup dup dup dup dup dup
+faload faload
+lsub lsub
+swap swap
+bastor bastor
+areturn areturn
+appropi appropi
+acmpn acmpn acmpn acmpn
+ioexcept
+illeg illeg
+berlin
+laload laload
+icmpeq icmpeq icmpeq icmpeq
+wide wide wide wide wide wide wide wide wide
+ifnonnul ifnonnul
+bipush bipush
+tostr
+f2d f2d
+abstract
+fneg fneg
+ifnul ifnul
+cloneabl
+aaload aaload
+localvariableinstruct
+lcmp lcmp
+lmul lmul
+constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant
+iastor iastor
+iflt iflt
+getfield getfield
+dmul dmul
+anewarrai anewarrai
+file file file
+null null null null
+unsign unsign
+dsub dsub
+ifeq ifeq
+castor castor
+baload baload
+author
+ifg ifg
+lneg lneg
+idiv idiv
+f2l f2l
+d2i d2i
+freturn freturn
+icmpl icmpl icmpl icmpl
+d2l d2l
+putstat putstat
+icmpn icmpn icmpn icmpn
+sastor sastor
+iload iload iload iload iload iload iload
+invokespeci invokespeci
+icmpg icmpg icmpg icmpg
+readunsignedbyt readunsignedbyt
+monitorent monitorent
+acmpeq acmpeq acmpeq acmpeq
+instructionlist
+sequenc
+org
+i2 i2
+ior ior
+hand
+class class class class class class class
+detect
+iushr iushr
+jsr jsr jsr jsr jsr jsr
+instructionconst instructionconst instructionconst
+icmpgt icmpgt icmpgt icmpgt
+getstat getstat
+land land
+ireturn ireturn
+putfield putfield
+dadd dadd
+multianewarrai multianewarrai
+i2l i2l
+exp
+istor istor istor istor istor istor istor
+lreturn lreturn
+i2b i2b
+i2c i2c
+i2d i2d
+i2f i2f

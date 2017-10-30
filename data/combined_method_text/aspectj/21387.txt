@@ -1,0 +1,25 @@
+org aspectj weaver loadtim definit
+fixm doc concret aspect
+author href mailto alex gnilux dot alexandr vasseur
+document parser documentpars default handler defaulthandl
+definit pars url url except
+input stream inputstream
+document parser documentpars parser document parser documentpars
+xml reader xmlreader xml reader xmlreader xml reader getxmlread
+xml reader xmlreader set content handler setcontenthandl parser
+xml reader xmlreader set error handler seterrorhandl parser
+xml reader xmlreader set featur setfeatur http xml org sax featur valid
+sax except saxexcept
+fine parser valid
+xml reader xmlreader set featur setfeatur http xml org sax featur extern gener entiti
+sax except saxexcept
+fine parser valid
+xml reader xmlreader set featur setfeatur http xml org sax featur extern paramet entiti
+sax except saxexcept
+fine parser valid
+xml reader xmlreader set entiti resolv setentityresolv parser
+url open stream openstream
+xml reader xmlreader pars input sourc inputsourc
+parser definit
+close
+throwabl

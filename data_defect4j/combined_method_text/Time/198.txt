@@ -1,0 +1,20 @@
+author stephen colebourn
+dai type
+field type defin type field hour dai hourofdai
+access relat link durat field type durationfieldtyp
+chronolog
+compar code code
+requir creat field quarter year quarterofyear
+return actual calcul engin link field getfield chronolog
+subclass implement equal hash code hashcod
+directli enabl calcul provid
+identifi field year minut hour minuteofhour chronolog neutral
+creat subclass code date time field type datetimefieldtyp code defin field type
+org joda time
+instanc code date time field type datetimefieldtyp code singleton
+link field getfield chronolog method return actual calcul engin
+date time field type datetimefieldtyp constant
+author brian neill o'neil
+dai field type
+date time field type datetimefieldtyp serializ
+date time field type datetimefieldtyp dai secondofdai

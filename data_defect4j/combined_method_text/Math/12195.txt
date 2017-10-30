@@ -1,0 +1,51 @@
+point crossov polici iter random crossov point
+param chromosom
+parameter chromosom length
+org apach common math3 genet
+fix length chromosom newfixedlengthchromosom child2 rep child2rep
+arrai list arraylist child1 rep child1rep
+select part parent copi
+arrai list arraylist child2 rep child2rep arrai list arraylist length getlength
+remain point remainingpoint crossov point crossoverpoint
+pair chromosom result crossov
+arrai list arraylist child1 rep child1rep arrai list arraylist length getlength
+denot crossov point
+helper link crossov chromosom chromosom perform actual crossov
+crossov index crossoverindex index lastindex random int nextint length index lastindex remain point remainingpoint
+index lastindex crossov index crossoverindex
+children
+arrai list arraylist tmp
+tmp
+index lastindex length
+add parent1 rep parent1rep
+swap children segment
+crossov point crossoverpoint remain point remainingpoint
+child part copi crosswis
+random gener randomgener random genet algorithm geneticalgorithm random gener getrandomgener
+dimens mismatch except dimensionmismatchexcept length chromosom
+index lastindex
+polici work link abstract list chromosom abstractlistchromosom
+version
+number larg except numberistoolargeexcept crossov point crossoverpoint length
+param gener type link abstract list chromosom abstractlistchromosom crossov
+point crossov npointcrossov crossov polici crossoverpolici
+number larg except numberistoolargeexcept number crossov point crossoverpoint larg
+add parent2 rep parent2rep
+length length getlength
+chromosom pair chromosomepair fix length chromosom newfixedlengthchromosom child1 rep child1rep
+chromosom pair chromosomepair mate abstract list chromosom abstractlistchromosom
+number larg except numberistoolargeexcept number crossov point crossoverpoint larg actual chromosom
+list parent1 rep parent1rep represent getrepresent
+pre
+arrai list arraylist child2 rep child2rep
+copi segment
+dimens mismatch except dimensionmismatchexcept number larg except numberistoolargeexcept
+dimens mismatch except dimensionmismatchexcept length getlength length
+crossov point crossoverpoint length
+copi current segment
+arrai represent parent
+list parent2 rep parent2rep represent getrepresent
+abstract list chromosom abstractlistchromosom
+select crossov point random
+point crossov
+actual chromosom

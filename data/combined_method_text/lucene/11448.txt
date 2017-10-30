@@ -1,0 +1,36 @@
+set set
+process
+reinit
+accept
+docfieldconsumerperthread
+stringvalu stringvalu
+append
+index
+setempti
+end end
+start start
+termattribut
+invert invert
+apach
+empti
+field field
+startoffset startoffset
+lucen
+document
+docfieldconsum
+attribut attribut
+consum
+string string string
+buffer
+invertedtermsconsum
+settermbuff
+offset offset offset offset offset offset
+setoffset
+org
+term term term
+thread thread
+doc doc
+endoffset endoffset
+offsetattribut
+separ
+docinverterperthread

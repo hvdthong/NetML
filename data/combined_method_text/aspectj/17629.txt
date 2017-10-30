@@ -1,0 +1,24 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+delai filesystem check return quit set
+file check delai filecheckdelai
+final thread thread thread currentthread
+target time targettim system current time milli currenttimemilli delai
+long curtim
+target time targettim system current time milli currenttimemilli
+quit
+thread sleep thread sleep delta quit check
+interrupt except interruptedexcept

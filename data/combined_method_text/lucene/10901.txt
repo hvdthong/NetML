@@ -1,0 +1,23 @@
+org apach lucen analysi tokenattribut
+term text token
+term attribut impl termattributeimpl attribut impl attributeimpl term attribut termattribut cloneabl serializ
+grow termbuff size newsiz preserv
+exist content note oper chang
+content term buffer
+link settermbuff char int int
+link settermbuff string
+link settermbuff string int int
+optim combin resiz set termbuff
+param newsiz minimum size termbuff
+return newli creat termbuff length newsiz
+resiz term buffer resizetermbuff size newsiz
+term buffer termbuff
+buffer min buffer size
+term buffer termbuff arrai util arrayutil overs size newsiz min buffer size min buffer size min buffer size min buffer size size newsiz ram usag estim ramusageestim num byte char num byte char
+term buffer termbuff length size newsiz
+big creat arrai slight
+alloc preserv content
+char buffer newcharbuff arrai util arrayutil overs size newsiz ram usag estim ramusageestim num byte char num byte char
+system arraycopi term buffer termbuff char buffer newcharbuff term buffer termbuff length
+term buffer termbuff char buffer newcharbuff
+term buffer termbuff

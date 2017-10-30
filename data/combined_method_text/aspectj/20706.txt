@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+equal object
+bcel type munger bceltypemung
+bcel type munger bceltypemung bcel type munger bceltypemung
+munger getmung munger getmung munger getmung equal munger getmung
+aspect type getaspecttyp aspect type getaspecttyp aspect type getaspecttyp equal aspect type getaspecttyp
+asm manag asmmanag default getdefault handl provid gethandleprovid depend locat dependsonloc
+sourc locat getsourceloc sourc locat getsourceloc sourc locat getsourceloc equal sourc locat getsourceloc getsourceloc null getsourceloc null getsourceloc equal getsourceloc true pr134471 remov handl improv independ locat

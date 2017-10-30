@@ -1,0 +1,11 @@
+asin
+comput arc sine argument
+mathemat routin link dfp
+constant defin link dfp field dfpfield
+atan divid geton subtract multipli sqrt
+version
+version revis date
+dfp asin dfp
+param number arc sine desir
+dfp math dfpmath
+org apach common math dfp

@@ -1,0 +1,40 @@
+pre
+vector element wise perform oper ad scalar
+interfac defin real valu vector basic algebra oper
+version creat vector hold result chang instanc
+param function function appli entri
+param function appli success entri
+code map xxx mapxxx code code map xxx mapxxxtoself code method oper
+iter entri iter hasnext
+vector element index base code entri getentri code
+vector element index base code entri getentri
+style
+code code map code map maptoself method oper
+set setvalu function getvalu
+org apach common math linear
+real vector realvector map maptoself univari real function univariaterealfunct function
+code map maptoself version instanc store
+entri vector modifi place method
+iter entri function spars iter sparseiter iter
+return element vector
+real vector realvector result map add mapaddtoself map maptoself tan map maptoself power
+version
+code map xxx mapxxxtoself code version instanc store
+refer vector
+org apach common math except math user except mathuserexcept
+function
+appli function element turn code map
+appli function element turn code map xxx mapxxx code
+version revis date
+real vector realvector
+act implement
+real vector realvector result map add mapaddtoself map tan maptantoself map squar mapsquaretoself
+result instanc chang method case result
+hasnext
+entri
+vector return method allow fluent api
+vector
+class defin real valu vector basic algebra oper
+vector return method fluent api
+real vector realvector map maptoself univari real function univariaterealfunct function function evalu except functionevaluationexcept
+function evalu except functionevaluationexcept function applic entri

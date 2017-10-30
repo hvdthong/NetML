@@ -1,0 +1,8 @@
+patch fixcrlf preservelastmodifi
+boolean preservelastmodifi attribut behav similar copi
+ad fixcrlf
+case
+fixcrlf srcdir badeol destdir fixedeol preservelastmodifi true
+ftp depend
+fixcrlf gener file current timestamp
+mean ftp depend check transfer

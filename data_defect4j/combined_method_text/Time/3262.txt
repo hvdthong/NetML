@@ -1,0 +1,9 @@
+author stephen colebourn
+durat field repres field fix unit length
+add instant
+org joda time field
+addit field util fieldutil safe multipli safemultipli unit milli iunitmilli
+author brian neill o'neil
+field util fieldutil safe add safeadd instant addit
+precis durat field precisedurationfield base durat field basedurationfield
+precis durat field precisedurationfield thread safe immut

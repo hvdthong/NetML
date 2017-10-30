@@ -1,0 +1,45 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read perclaus return null failur issu messag
+param perclausestr pertarget
+param struct pars claus
+return perclaus instanc
+claus perclaus pars claus pointcut parseperclausepointcut string claus string perclausestr attribut struct ajattributestruct struct
+string pointcut string pointcutstr
+pointcut pointcut
+type pattern typepattern type pattern typepattern
+claus perclaus claus perclaus
+claus string perclausestr start startswith claus perclaus kind annot prefix kindannotationprefix percflow getnam
+pointcut string pointcutstr claus perclaus kind annot prefix kindannotationprefix percflow extract pointcut extractpointcut claus string perclausestr
+pointcut pars pointcut parsepointcut pointcut string pointcutstr struct
+claus perclaus cflow percflow pointcut
+claus string perclausestr start startswith claus perclaus kind annot prefix kindannotationprefix percflowbelow getnam
+pointcut string pointcutstr claus perclaus kind annot prefix kindannotationprefix percflowbelow extract pointcut extractpointcut claus string perclausestr
+pointcut pars pointcut parsepointcut pointcut string pointcutstr struct
+claus perclaus cflow percflow pointcut
+claus string perclausestr start startswith claus perclaus kind annot prefix kindannotationprefix pertarget getnam
+pointcut string pointcutstr claus perclaus kind annot prefix kindannotationprefix pertarget extract pointcut extractpointcut claus string perclausestr
+pointcut pars pointcut parsepointcut pointcut string pointcutstr struct
+claus perclaus object perobject pointcut
+claus string perclausestr start startswith claus perclaus kind annot prefix kindannotationprefix perthi getnam
+pointcut string pointcutstr claus perclaus kind annot prefix kindannotationprefix perthi extract pointcut extractpointcut claus string perclausestr
+pointcut pars pointcut parsepointcut pointcut string pointcutstr struct
+claus perclaus object perobject pointcut
+claus string perclausestr start startswith claus perclaus kind annot prefix kindannotationprefix pertypewithin getnam
+pointcut string pointcutstr claus perclaus kind annot prefix kindannotationprefix pertypewithin extract pointcut extractpointcut claus string perclausestr
+type pattern typepattern pars type pattern parsetypepattern pointcut string pointcutstr struct
+claus perclaus type pertypewithin type pattern typepattern
+claus string perclausestr equal ignor case equalsignorecas claus perclaus singleton getnam
+claus perclaus singleton persingleton
+pars perclaus fallback singleton issu error
+report error reporterror aspect claus read claus string perclausestr struct
+claus perclaus singleton equal claus perclaus kind getkind
+claus perclaus pertypewithin equal claus perclaus kind getkind
+pointcut
+pars pointcut
+claus perclaus pertypewithin equal claus perclaus kind getkind type pattern typepattern
+pars type pattern
+claus perclaus

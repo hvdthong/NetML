@@ -1,0 +1,9 @@
+line sublin vector2 vector2d start vector2 vector2d end
+repres hyperplan link line
+version
+line sublin abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d
+param start start point
+creat line endpoint
+org apach common math geometri euclidean twod
+param end end point
+line start end build interv set buildintervalset start end

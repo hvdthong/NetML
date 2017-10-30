@@ -1,0 +1,25 @@
+org aspectj apach bcel gener annot
+simpl element gen simpleelementvaluegen element gen elementvaluegen
+boolean control copi info 'old' constant pool
+'new' ctor annot
+copi file
+simpl element gen simpleelementvaluegen simpl element simpleelementvalu constant pool gen constantpoolgen cpool copi pool entri copypoolentri
+element type getelementvaluetyp cpool
+copi pool entri copypoolentri
+j5assert assert stringifyvalu
+cpool getconst simpleelementvaluevalu getindex
+idx index getindex
+element type getelementvaluetyp
+string idx cpool add utf8 addutf8 string getvaluestr
+primit int primit int idx cpool add integ addinteg int getvalueint
+primit byte primit byte idx cpool add integ addinteg byte getvaluebyt
+primit char primit char idx cpool add integ addinteg char getvaluechar
+primit long primit long idx cpool add long addlong long getvaluelong
+primit float primit float idx cpool add float addfloat float getvaluefloat
+primit doubl primit doubl idx cpool add doubl adddoubl doubl getvaluedoubl
+primit boolean primit boolean
+boolean getvalueboolean idx cpool add integ addinteg
+idx cpool add integ addinteg
+primit short primit short idx cpool add integ addinteg short getvalueshort
+runtim except runtimeexcept simpleelementvaluegen class
+copi type type

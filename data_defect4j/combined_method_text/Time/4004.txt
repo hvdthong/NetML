@@ -1,0 +1,21 @@
+author stephen colebourn
+factori class
+param stop stopat stop count enter number count
+period format periodformat
+author brian neill o'neil
+period printer periodprint
+param period period
+count field print countfieldstoprint readabl period readableperiod period stop stopat local local
+factori class creat link period formatt periodformatt
+amount field print
+print
+org joda time format
+link period format periodformat
+applic user rare directli
+intern print textual represent time period
+link iso period format isoperiodformat
+period formatt builder periodformatterbuild
+period formatt periodformatt
+link period formatt builder periodformatterbuild
+return amount field period printer
+param local local

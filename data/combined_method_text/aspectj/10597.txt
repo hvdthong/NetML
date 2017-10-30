@@ -1,0 +1,16 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+structur view node istructureviewnod build custom tree buildcustomtre global structur view globalstructureview view hierarchi ihierarchi model
+program element iprogramel root node rootnod model root getroot
+structur view node istructureviewnod tree node treenod node factori nodefactori creat node createnod root node rootnod
+list root node rootnod arrai list arraylist
+root getroot root node rootnod root node rootnod view global view properti getglobalviewproperti hierarchi gethierarchi
+iter root node rootnod iter hasnext
+view global view properti getglobalviewproperti hierarchi gethierarchi equal structur view properti structureviewproperti hierarchi crosscut
+tree node treenod add crosscut children getcrosscuttingchildren program element iprogramel
+view global view properti getglobalviewproperti hierarchi gethierarchi equal structur view properti structureviewproperti hierarchi inherit
+tree node treenod add inherit children getinheritancechildren
+program element iprogramel
+view view properti getviewproperti relat getrel
+tree node treenod

@@ -1,0 +1,28 @@
+data row outdatarow data outdata row
+data row outdatarow col sum
+link field matrix fieldmatrix matrix element index
+column dimens columndimens row dimens rowdimens
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+sum sum add data row datarow multipli data col
+field matrix impl fieldmatriximpl data outdata
+org apach common math linear
+data outdata build arrai buildarrai field getfield row nrow col ncol
+param matrix postmultipli
+version revis date
+safeti check
+base code entri getentri code
+row nrow row dimens getrowdimens
+field matrix impl fieldmatriximpl field element fieldel abstract field matrix abstractfieldmatrix serializ
+param type field element
+field matrix impl fieldmatriximpl multipli field matrix impl fieldmatriximpl
+row row row nrow row
+col ncol column dimens getcolumndimens
+check multipl compat checkmultiplicationcompat
+return result postmultipli code code
+col col col ncol col
+return element row column matrix
+data row datarow data row
+sum nsum column dimens getcolumndimens
+sum nsum
+illeg argument except illegalargumentexcept
+sum field getfield getzero

@@ -1,0 +1,21 @@
+interfac defin field valu matrix basic algebra oper
+walk optim order walkinoptimizedord field matrix preserv visitor fieldmatrixpreservingvisitor
+walk
+field matrix fieldmatrix field element fieldel matrix anymatrix
+row
+return link field matrix preserv visitor fieldmatrixpreservingvisitor end end
+walk row order walkinroword field matrix chang visitor fieldmatrixchangingvisitor
+walk column order walkincolumnord field matrix chang visitor fieldmatrixchangingvisitor
+version
+walk row order walkinroword field matrix preserv visitor fieldmatrixpreservingvisitor
+param type field element
+matrix element index base code entri getentri code
+param visitor visitor process matrix entri
+walk row order walkinroword field matrix preserv visitor fieldmatrixpreservingvisitor visitor
+walk column order walkincolumnord field matrix preserv visitor fieldmatrixpreservingvisitor
+visit chang matrix entri row order
+row left leftmost element
+org apach common math3 linear
+row order start upper left iter element
+return element row column matrix
+walk optim order walkinoptimizedord field matrix chang visitor fieldmatrixchangingvisitor

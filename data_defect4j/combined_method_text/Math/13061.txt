@@ -1,0 +1,18 @@
+column column column column
+row row dimens getrowdimens
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+walk column order walkincolumnord field matrix chang visitor fieldmatrixchangingvisitor visitor
+oldvalu entri getentri row column
+column column dimens getcolumndimens
+visitor end
+version
+param type field element
+visitor start row column row column
+newvalu visitor visit row column oldvalu
+set entri setentri row column newvalu
+row row row row

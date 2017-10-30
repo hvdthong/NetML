@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+set java class setjavaclass java class javaclass newclass
+java class javaclass newclass
+reset state resetst
+initi javaclass initializefromjavaclass

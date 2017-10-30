@@ -1,0 +1,14 @@
+org aspectj ajd
+author mik kersten
+structur view manag structureviewmanag
+param sourcefilepath full path sourc file
+param properti null default properti
+return return view intanc
+file structur view filestructureview creat view sourc file createviewforsourcefil string sourc file path sourcefilepath structur view properti structureviewproperti properti
+ajd default getdefault log event logev creat view file sourc file path sourcefilepath
+properti properti default view properti default view properti
+file structur view filestructureview view file structur view filestructureview properti
+view set sourc file setsourcefil sourc file path sourcefilepath
+tree view builder treeviewbuild build view buildview view asm manag asmmanag default getdefault hierarchi gethierarchi
+structur view structureview add view
+view

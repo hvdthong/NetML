@@ -1,0 +1,91 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+weav cflow entri weavecflowentri bcel advic bceladvic munger member cflow field cflowfield
+isper munger kind getkind advic kind advicekind cflow entri percflowbelowentri
+munger kind getkind advic kind advicekind cflow entri percflowentri
+type object arrai type objectarraytyp arrai type arraytyp type object
+instruct factori instructionfactori fact factori getfactori
+bcel var bcelvar test result testresult gen temp var gentempvar resolv type resolvedtyp boolean
+instruct list instructionlist entri instruct entryinstruct instruct list instructionlist
+instruct list instructionlist entri success instruct entrysuccessinstruct instruct list instructionlist
+munger dynam test hasdynamictest
+entri instruct entryinstruct append util creat constant createconst fact
+test result testresult append store appendstor entri instruct entryinstruct fact
+entri success instruct entrysuccessinstruct append util creat constant createconst fact
+test result testresult append store appendstor entri success instruct entrysuccessinstruct fact
+isper
+entri success instruct entrysuccessinstruct append
+fact creat invok createinvok munger concret aspect getconcreteaspect getnam
+mangler namemangl percflow push method percflow push method
+type void
+type
+constant invokestat
+bcel var bcelvar cflow state var cflowstatevar munger expos state bcel var getexposedstateasbcelvar
+cflow state var cflowstatevar length
+manag counter let make
+cflow field cflowfield type gettyp getnam end endswith cflowcount
+runtim except runtimeexcept incorrectli attempt counter oper stack cflow
+entri success instruct entrysuccessinstruct append
+util creat createget fact cflow field cflowfield
+arrayvar appendload entrysuccessinstruct fact
+entri success instruct entrysuccessinstruct append fact creat invok createinvok mangler namemangl cflow counter type cflow counter type type void type constant invokevirtu
+bcel var bcelvar arrai var arrayvar gen temp var gentempvar unresolv type unresolvedtyp objectarrai
+alen cflow state var cflowstatevar length
+entri success instruct entrysuccessinstruct append util creat constant createconst fact alen
+entri success instruct entrysuccessinstruct append
+instruct fact creat arrai createnewarrai type object
+arrai var arrayvar append store appendstor entri success instruct entrysuccessinstruct fact
+alen
+arrai var arrayvar append convert arrai store appendconvertablearraystor
+entri success instruct entrysuccessinstruct
+fact
+cflow state var cflowstatevar
+entri success instruct entrysuccessinstruct append
+util creat createget fact cflow field cflowfield
+arrai var arrayvar append load appendload entri success instruct entrysuccessinstruct fact
+entri success instruct entrysuccessinstruct append
+fact creat invok createinvok mangler namemangl cflow stack type cflow stack type push type void
+type object arrai type objectarraytyp
+constant invokevirtu
+instruct list instructionlist test instruct testinstruct
+munger test instruct gettestinstruct entri success instruct entrysuccessinstruct start getstart
+rang real start getrealstart
+entri success instruct entrysuccessinstruct start getstart
+entri instruct entryinstruct append test instruct testinstruct
+entri instruct entryinstruct append entri success instruct entrysuccessinstruct
+weav weaveaft bcel advic bceladvic
+instruct list instructionlist advic instruct getadviceinstruct
+bcel shadow bcelshadow
+bcel var bcelvar extra arg var extraargvar
+instruct handl instructionhandl advic ifnoadvic
+instruct list instructionlist exit instruct exitinstruct instruct list instructionlist
+munger dynam test hasdynamictest
+test result testresult append load appendload exit instruct exitinstruct fact
+exit instruct exitinstruct append
+instruct factori instructionfactori creat branch instruct createbranchinstruct
+constant ifeq
+advic ifnoadvic
+exit instruct exitinstruct append util creat createget fact cflow field cflowfield
+munger kind getkind advic kind advicekind cflow entri percflowentri
+munger kind getkind advic kind advicekind cflow entri percflowbelowentri
+munger expos state bcel var getexposedstateasbcelvar length
+exit instruct exitinstruct
+append
+fact
+creat invok createinvok
+mangler namemangl cflow counter type cflow counter type
+dec
+type void
+type
+constant invokevirtu
+exit instruct exitinstruct
+append
+fact
+creat invok createinvok
+mangler namemangl cflow stack type cflow stack type
+pop
+type void
+type
+constant invokevirtu
+exit instruct exitinstruct
+rang insert entri instruct entryinstruct rang insid insidebefor

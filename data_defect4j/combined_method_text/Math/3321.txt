@@ -1,0 +1,6 @@
+repres region set polygon
+version
+polygon set polygonsset
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+org apach common math geometri euclidean twod
+build polygon set repres real line

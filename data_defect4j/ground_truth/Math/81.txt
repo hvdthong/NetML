@@ -1,0 +1,3 @@
+org/apache/commons/math/linear/EigenDecompositionImpl_computeGershgorinCircles_void
+org/apache/commons/math/linear/EigenDecompositionImpl_processGeneralBlock-int_void
+org/apache/commons/math/linear/EigenDecompositionImpl_computeShiftIncrement-int-int-int_void

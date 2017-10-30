@@ -1,0 +1,30 @@
+repres point time irrespect
+author stephen colebourn
+factor chronolog time zone
+note code perform check
+date time datetim milli getmilli iso chronolog isochronolog instanc getinst
+instant repres exact point time line
+method definit preserv compat earlier version
+object date time datetim iso chronolog isochronolog zone
+joda time
+intern hold piec data instant millisecond
+method return date time datetim object zone
+instant thread safe immut
+instant sameinst dt1 equal isequ dt2
+java epoch t00 01t00 00z
+limit precis millisecond code instant code
+instant repres time zone
+instant sameinst dt1 instant toinstant equal dt2 instant toinstant
+call method zone 'retain'
+instant compar code date time datetim code
+date time datetim milli
+mutabl date time mutabledatetim retain time zone differ
+expect zone
+pre
+instant
+date time datetim date time todatetim
+instant standard implement fulli immut instant time
+code instant code implement link readabl instant readableinst
+org joda time
+differ similarli name method date time datetim date midnight datemidnight
+object irrespect chronolog time zone

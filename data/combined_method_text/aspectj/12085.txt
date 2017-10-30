@@ -1,0 +1,7 @@
+org aspectj ajdt intern core builder
+author mik kersten
+emac structur model manag emacsstructuremodelmanag
+print string string
+writer write string
+except ioexcept ioe
+ioe print stack trace printstacktrac

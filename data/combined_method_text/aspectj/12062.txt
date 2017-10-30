@@ -1,0 +1,11 @@
+org aspectj ajdt intern core builder
+eclips adapt util eclipseadapterutil
+extract sourc locat file start end line context
+column extract correctli
+return isourceloc correct file line column
+sourc locat isourceloc make sourc locat makesourceloc compil unit icompilationunit unit problem iproblem problem
+line problem sourc line number getsourcelinenumb
+file file file string problem origin file getoriginatingfilenam
+string context make locat context makelocationcontext unit problem
+xxx column wrong recover makelocationcontext
+sourc locat sourceloc file line line context

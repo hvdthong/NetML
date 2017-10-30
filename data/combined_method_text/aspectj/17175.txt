@@ -1,0 +1,16 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+pointcutdesign call 'left'
+pointcutdesign call 'right'
+author ajh02
+pointcut orpointcut pointcut design pointcutdesign
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+properti left properti left properti
+left getleft
+set left setleft pointcut design pointcutdesign child
+properti properti properti
+getright
+set setright pointcut design pointcutdesign child
+default implement flag error
+intern set child properti internalgetsetchildproperti properti child

@@ -1,0 +1,95 @@
+link solv place solveinplac real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+link solv place solveinplac real linear oper reallinearoper real vector realvector real vector realvector
+link adjoint oper except nonselfadjointoperatorexcept linear oper
+href http www stanford group sol softwar symmlq ps75 pdf
+count iter user requir check symmetri
+event iter linear solver event iterativelinearsolverev
+middot xhat residu rhat bhat ahat
+definit adjoint work iter
+precondit
+state refin
+comput middot solv middot
+solut transform system rhat current estim
+paig1975 paig saunder
+present context iter understood evalu
+word number iter requir reach converg
+present definit iter count differ adopt
+implement symmlq iter linear solver propos
+number iter symmlq slightli work iter
+matrix vector product middot initi phase
+solut spars indefinit system linear equat siam
+set
+newli creat event
+context except context
+kei code vector2 point offend vector
+comput vector approxim unnorm eigenvector
+middot middot
+event
+entail matrix vector product initi phase
+return creat event
+ident check requir
+iter linear solver event iterativelinearsolverev creat event createev state state
+larg base fortran code michael saunder
+version
+middot accuraci
+slightli shift
+refer
+xhat bhat ahat middot shift middot
+href paig1975 paig saunder implement
+initi phase good approxim
+conjug gradient prefer requir
+middot bhat middot solut
+code paramet
+precondition symmetr link except context exceptioncontext
+method invers iter rayleigh quotient iter
+link real linear oper reallinearoper vector oper
+real vector realvector solut getsolut
+middot middot xhat middot ahat middot
+real vector realvector real vector realvector unmodifi real vector unmodifiablerealvector state
+iter linear solver event iterativelinearsolverev event
+stop criterion implement iter stop rhat
+org apach common math linear
+provid posit definit precondition middot
+initguess initi guess solut
+creat event fire solut process unmodifi
+linear oper shift middot posit
+real vector realvector hand side vector getrighthandsidevector
+journal numer analysi
+kei code vector1 point offend vector
+residu delta user toler
+account
+standard link dimens mismatch except dimensionmismatchexcept
+iter count
+paig saunder
+precondit reduc number iter requir solver
+middot xhat middot shift middot middot
+product account iter count
+overrid
+link solv real linear oper reallinearoper real vector realvector real vector realvector
+stopcrit default stop criterion
+kei code vector point offend vector
+system form middot solv effici symmlq
+precondition posit definit relev kei
+symm symmlq
+shift scalar shift suitabl chosen
+delta ahat xhat xhat current estim
+requir posit definit definit method
+link solv real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+href http www stanford group sol softwar symmlq f77
+symmlq design solv system linear equat middot
+link except context exceptioncontext
+link posit definit oper except nonpositivedefiniteoperatorexcept thrown
+origin fotran code initi phase
+real vector realvector arrai real vector arrayrealvector
+view rh vector current estim solut
+kei code oper point offend linear oper
+param state refer current state algorithm
+middot
+approxim shift middot sens
+state dimens getdimens
+time adjoint linear oper defin
+symmlq design solv system shift middot middot
+inform
+implicitli solv system equat middot shift middot
+middot middot middot
+consid initi guess set

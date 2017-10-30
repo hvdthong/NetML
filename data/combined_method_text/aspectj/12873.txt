@@ -1,0 +1,20 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+fillup char length charact char fill' justifi left
+param str string format
+param length length desir string
+param left justifi format left
+param fill fill charact
+return format string
+string fillup string str length left justifi fill
+len length str length
+buf len len
+buf length
+buf fill
+left justifi
+str string buf
+string buf str

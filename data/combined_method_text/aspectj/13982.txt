@@ -1,0 +1,17 @@
+org aspectj apach bcel gener
+l2i convert long int
+pre stack word1 word2 result pre
+version l2i java aclement exp
+author href mailto marku dahm berlin dahm
+l2i convers instruct conversioninstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit type instruct visittypedinstruct
+visit stack produc visitstackproduc
+visit stack consum visitstackconsum
+visit convers instruct visitconversioninstruct
+visit visitl2i

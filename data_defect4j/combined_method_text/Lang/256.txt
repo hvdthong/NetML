@@ -1,0 +1,19 @@
+contigu rang charact option negat
+obj char rang charrang
+obj
+author stephen colebourn
+author henri yandel
+char rang charrang serializ
+rang charact defin
+instanc immut
+author gari gregori
+equal
+compar char rang charrang object return repres
+overrid
+version
+equal object obj
+author chri feldhack
+start start end end negat negat
+param obj object compar
+char rang charrang char rang charrang obj
+org apach common lang

@@ -1,0 +1,10 @@
+overrid
+org apach common math od nonstiff
+inherit doc inheritdoc
+repres interpol step
+version
+higham hall54 integr highamhall54integr
+higham hall54 step interpol highamhall54stepinterpol
+version revis date
+od integr higham hall integr
+step interpol stepinterpol copi docopi

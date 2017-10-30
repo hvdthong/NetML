@@ -1,0 +1,8 @@
+org apach common math geometri euclidean threed
+version
+translat transform translationtransform vector3 vector3d translat
+translat translat
+param translat translat vector
+build translat transform
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron

@@ -1,0 +1,50 @@
+dimens
+current simplex move vertex
+previou current simplex converg checker
+check paramet checkparamet
+lower bound getlowerbound
+simplex base direct search optim
+null argument except nullargumentexcept initi simplex pass
+deriv comput approxim
+optim simpl bound optim
+upper bound getupperbound
+function unpredict discontinu difficult complex
+simplex updat procedur link nelder mead simplex neldermeadsimplex
+link multi direct simplex multidirectionalsimplex pass
+provid start point optim
+math unsupport oper except mathunsupportedoperationexcept bound pass
+multivari function penalti adapt multivariatefunctionpenaltyadapt
+math unsupport oper except mathunsupportedoperationexcept local format localizedformat constraint
+direct search method object function valu
+version
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+multivari function map adapt multivariatefunctionmappingadapt
+number paramet chang simplex initi
+comput deriv imposs noisi
+converg check provid worst point
+set point dimens updat algorithm
+link optim optim data optimizationdata optim method
+object function valu vertic simplex
+function wrap adapt
+direct search method
+optimum desir found case
+link org apach common math3 optim nonlinear scalar multivari function map adapt multivariatefunctionmappingadapt
+step
+code optim method
+simplex
+null argument except nullargumentexcept
+link org apach common math3 optim nonlinear scalar multivari function penalti adapt multivariatefunctionpenaltyadapt
+call code optim start configur
+call link optim optim data optimizationdata optim
+org apach common math3 optim nonlinear scalar noderiv
+link cmae optim cmaesoptim link bobyqa optim bobyqaoptim object
+simplex optim implement directli support constrain
+simplex base direct search method base comparison
+deriv paper margaret wright
+bad point desir case
+dedic algorithm
+comput cost case optimum
+search method scorn respect
+simplex optim simplexoptim multivari optim multivariateoptim
+code optim method call solv problem
+href http bell lab doc direct

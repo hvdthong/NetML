@@ -1,0 +1,39 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+load cach aop xml properti classload visibl rule
+param weaver
+param loader
+list pars definit parsedefinit class loader classload loader
+trace trace enabl istraceen trace enter parsedefinit loader
+list definit arrai list arraylist
+info regist classload class loader getclassloadernam loader
+todo underoptim pars xml
+todo dev mode need tbd daj5 def
+loader equal class loader classload system class loader getsystemclassload
+string file system properti getproperti aj5 def
+file
+info daj5 def file
+definit add document parser documentpars pars file file url tourl
+string resourc path resourcepath system properti getproperti org aspectj weaver loadtim configur aop xml aop xml
+trace trace enabl istraceen trace event parsedefinit resourc path resourcepath
+string token stringtoken string token stringtoken resourc path resourcepath
+token hasmoretoken
+enumer xml weav context weavingcontext resourc getresourc token nexttoken
+system println registerdefinit found aop xml xml hasmoreel loader loader
+set seenbefor hash set hashset
+xml element hasmoreel
+url xml url xml element nextel
+trace trace enabl istraceen trace event parsedefinit xml
+seenbefor xml
+info configur weav context weavingcontext file getfil xml
+definit add document parser documentpars pars xml
+seenbefor add xml
+warn ignor duplic definit xml
+definit empti isempti
+info configur found disabl weaver class loader class loader getclassloadernam loader
+except
+definit clear
+warn pars definit fail
+trace trace enabl istraceen trace exit parsedefinit definit
+definit

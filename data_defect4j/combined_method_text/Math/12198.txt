@@ -1,0 +1,28 @@
+pre
+parameter chromosom length
+consecut slice parent fill remain gene
+inherit doc inheritdoc
+order crossov oper
+copi slice child mark gene parent
+href http www rubicit tutori genet algorithm geneticalgorithm crossov oper crossoveroper order1 crossov oper order1crossoveroper aspx
+org apach common math3 genet
+dimens mismatch except dimensionmismatchexcept math illeg argument except mathillegalargumentexcept
+polici work link abstract list chromosom abstractlistchromosom
+dimens mismatch except dimensionmismatchexcept length chromosom
+order crossov ox1 build offspr order chromosom copi
+order crossov orderedcrossov crossov polici crossoverpolici
+version
+chromosom pair chromosomepair crossov chromosom chromosom
+param gener type link abstract list chromosom abstractlistchromosom crossov
+polici work appli rule
+start side slice copi gene parent
+child mark
+parent
+math illeg argument except mathillegalargumentexcept local format localizedformat invalid fix length chromosom
+instanc link abstract list chromosom abstractlistchromosom
+select random slice consecut gene parent
+abstract list chromosom abstractlistchromosom abstract list chromosom abstractlistchromosom
+math illeg argument except mathillegalargumentexcept iff chromosom
+random sublist index underlin
+mate abstract list chromosom abstractlistchromosom abstract list chromosom abstractlistchromosom
+suppress warn suppresswarn uncheck

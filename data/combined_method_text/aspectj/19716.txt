@@ -1,0 +1,11 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return null found
+resolv member resolvedmemb lookup member lookupmemb member iter
+hasnext
+resolv member resolvedmemb resolv member resolvedmemb
+match
+back gener member hasbackinggenericmemb getnam equal getnam hasbackinggenericmemb getnam equal getnam worth check method parameter method pr137496
+match back gener member getbackinggenericmemb
+return null resolvedmemb miss
+throw bcexcept find

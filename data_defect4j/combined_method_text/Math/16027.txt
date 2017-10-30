@@ -1,0 +1,64 @@
+min dist squar mindistsquar
+param point point choos initi center
+point
+param number center choos
+point list pointlist element result set resultset
+add data point center point chosen
+track minimum distanc squar element
+mean choos initi center
+link org apach common math3 cluster mean cluster kmeanspluspluscluster
+initi element point result set resultset point firstpoint
+dist sum distsqsum min dist squar mindistsquar
+point list pointlist point index nextpointindex
+result set resultset add cluster point firstpoint
+initi center
+num point numpoint point list pointlist size
+point index firstpointindex point consid
+choos center uniformli random data point
+org apach common math3 stat cluster
+distanc distancefrom point list pointlist
+easi
+break loop prevent
+list point list pointlist collect unmodifi list unmodifiablelist arrai list arraylist point
+sum
+convert list index access make unmodifi remov item
+point index firstpointindex
+mark
+distanc center
+version
+param type point cluster
+result set resultset add cluster
+result set resultset size
+infinit loop
+sum squar min distanc stop
+point firstpoint distanc distancefrom point list pointlist
+point index firstpointindex random int nextint num point numpoint
+element point list pointlist longer
+num point numpoint
+sum squar distanc point point list pointlist
+result list initi center
+updat element min dist squar mindistsquar comput
+point firstpoint point list pointlist point index firstpointindex
+number point list
+param random random gener
+random doubl nextdoubl dist sum distsqsum
+sum min dist squar mindistsquar
+screw logic method
+index point ad result set resultset
+dist sum distsqsum
+set element arrai
+cluster algorithm base david arthur sergei vassilvitski mean algorithm
+mean cluster kmeanspluspluscluster cluster
+set point found previou
+deprec remov
+choos initi center chooseinitialcent collect point random random
+result set resultset
+min dist squar mindistsquar num point numpoint
+list cluster result set resultset arrai list arraylist cluster
+href http wikipedia org wiki mean mean wikipedia
+cluster list cluster
+loop distanc extrem small pick
+found
+probabl proport
+worri point
+point index nextpointindex

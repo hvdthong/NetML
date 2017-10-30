@@ -1,0 +1,8 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+map member parameter map getajmemberparameterizationmap
+map map mymap member parameter map getmemberparameterizationmap
+map mymap size
+extend parameter aspect
+superclass getsuperclass superclass getsuperclass member parameter map getajmemberparameterizationmap
+map mymap

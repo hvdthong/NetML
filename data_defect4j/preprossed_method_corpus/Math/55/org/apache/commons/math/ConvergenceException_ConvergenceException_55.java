@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math
+
+
+
+
+
+error thrown numer comput perform
+numer result fail converg finit
+
+version revis date
+
+converg except convergenceexcept math except mathexcept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+creat except root
+param except error caus except thrown
+
+converg except convergenceexcept throwabl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

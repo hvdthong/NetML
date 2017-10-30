@@ -1,0 +1,9 @@
+org apach common math3 fit leastsquar
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+model function' jacobian
+jacobian
+version
+param optim concret optim
+base implement squar optim
+multivari matrix function multivariatematrixfunct jacobian getjacobian
+method error estim

@@ -1,0 +1,36 @@
+org aspectj intern tool ant taskdef
+instal ajinstal match task matchingtask
+execut build except buildexcept
+instal class jar installerclassjar
+build except buildexcept installerclassjar attribut set
+instal class jar installerclassjar read canread
+instal class jar installerclassjar path getpath end endswith jar
+build except buildexcept readabl jar instal class jar installerclassjar
+installerclassdir null
+throw buildexcept installerclassdir attribut set
+installerclassdir exist
+throw buildexcept directori installerclassdir installerclassdir
+base dir basedir
+build except buildexcept basedir attribut set
+base dir basedir exist
+build except buildexcept basedir exist
+directori scanner directoryscann directori scanner getdirectoryscann base dir basedir
+string file includ file getincludedfil
+string dir includ directori getincludeddirectori
+log build instal zip file zipfil absolut path getabsolutepath
+zip output stream zipoutputstream zout
+zout zip output stream zipoutputstream file output stream fileoutputstream zip file zipfil
+compress docompress
+zout set method setmethod zip output stream zipoutputstream deflat
+zout set method setmethod zip output stream zipoutputstream store
+init zip output stream initzipoutputstream zout
+write dir writedir zout dir
+write file writefil zout file
+finish zip output stream finishzipoutputstream zout finishzipoutputstream zout delet temp dir
+except ioexcept ioe
+string msg problem creat archiv type archivetyp ioe messag getmessag
+build except buildexcept msg ioe locat
+zout
+close
+zout close
+except ioexcept

@@ -1,0 +1,37 @@
+param nordsieck vector nordsieckvector refer integr matrix hold
+bewar arrai refer integr
+scale scalingh step size stepsiz
+scale array2 row real matrix array2drowrealmatrix nordsieck
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+interpol equat base taylor seri formula
+refer time referencetim time
+nordsieck nordsieck vector nordsieckvector
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+set interpol time setinterpolatedtim interpol time getinterpolatedtim
+scale deriv
+reiniti refer time referencetim scale scalingh
+reiniti time step size stepsiz
+param scale refer integr arrai hold
+param scale scalingh step size scale nordsieck arrai
+param time time arrai defin
+version
+param refer time referencetim time arrai defin
+scale deriv scaledderiv
+interpol integr nordsieck represent
+param scale deriv scaledderiv refer integr arrai hold
+org apach common math od sampl
+scale scale
+scale scalingh scale scalingh
+refer time referencetim refer time referencetim
+interpol comput dens output current point
+make state deriv depend arrai
+array2 row real matrix array2drowrealmatrix nordsieck vector nordsieckvector
+version revis date
+param step size stepsiz step size scale nordsieck arrai
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+param nordsieck refer integr matrix hold
+scale scale deriv scaledderiv
+nordsieck vector
+reiniti instanc
+arrai order ensur proper updat copi
+nordsieck nordsieck

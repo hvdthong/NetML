@@ -1,0 +1,37 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+match invok instruct matchinvokeinstruct lazi method gen lazymethodgen
+instruct handl instructionhandl
+invok instruct invokeinstruct invok
+bcel shadow bcelshadow enclos shadow enclosingshadow
+list shadow accumul shadowaccumul
+string method methodnam invok getnam cpg
+method methodnam start startswith mangler namemangl prefix
+member sig jpsig
+world make join point signatur method invoc makejoinpointsignatureformethodinvoc clazz invok
+resolv member resolvedmemb declar sig declaredsig sig jpsig resolv world
+system err println method declaredsig declaredsig
+declar sig declaredsig
+declar sig declaredsig kind getkind member field
+shadow kind kind
+sig jpsig return type getreturntyp equal resolv type resolvedtyp void
+kind shadow field set fieldset
+kind shadow field fieldget
+match canmatch shadow field fieldget match canmatch shadow field set fieldset
+match bcel shadow bcelshadow make shadow method call makeshadowformethodcal world enclos shadow enclosingshadow
+kind declar sig declaredsig
+shadow accumul shadowaccumul
+attribut ajattribut effect signatur attribut effectivesignatureattribut effect sig effectivesig
+declar sig declaredsig effect signatur geteffectivesignatur
+effect sig effectivesig
+system err println call inter type member effectivesig
+effect sig effectivesig weav bodi isweavebodi
+resolv member resolvedmemb effect sig effectivesig effect signatur geteffectivesignatur
+fix annot resolv member fixannotationsforresolvedmemb declar sig declaredsig fixannotationsforresolvedmemb declaredsig abracadabra
+match canmatch effect sig effectivesig shadow kind getshadowkind
+match bcel shadow bcelshadow make shadow method call makeshadowformethodcal world enclos shadow enclosingshadow
+effect sig effectivesig shadow kind getshadowkind shadow accumul shadowaccumul
+match canmatch shadow method call methodcal
+match
+bcel shadow bcelshadow make method call makemethodcal world enclos shadow enclosingshadow
+shadow accumul shadowaccumul

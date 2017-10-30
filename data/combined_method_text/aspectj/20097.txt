@@ -1,0 +1,14 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+member resolut achiev resolv declar type
+member resolv declar type
+resolv member resolvedmemb resolv member member
+resolv type resolvedtyp declar member declar type getdeclaringtyp resolv
+declar raw type israwtyp declar declar gener type getgenerictyp
+resolv member resolvedmemb ret
+member kind getkind member field
+ret declar lookup field lookupfield member
+ret declar lookup method lookupmethod member
+ret ret
+declar lookup synthet member lookupsyntheticmemb member

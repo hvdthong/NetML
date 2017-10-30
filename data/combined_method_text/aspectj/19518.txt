@@ -1,0 +1,9 @@
+org aspectj weaver
+resolv pointcut definit resolvedpointcutdefinit resolv member impl resolvedmemberimpl
+resolv pointcut definit resolvedpointcutdefinit
+unresolv type unresolvedtyp declar type declaringtyp
+modifi
+string
+unresolv type unresolvedtyp paramet type parametertyp
+pointcut pointcut
+declar type declaringtyp modifi paramet type parametertyp resolv type resolvedtyp void pointcut

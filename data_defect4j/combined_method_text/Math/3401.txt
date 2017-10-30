@@ -1,0 +1,8 @@
+abstract region independ geometri type dimens
+inherit doc inheritdoc
+param type space
+abstract region abstractregion space space region
+version
+abstract region abstractregion copi copyself
+build buildnew tree copi copyself
+org apach common math geometri partit

@@ -1,0 +1,94 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+instruct list instructionlist advic arg setup getadviceargsetup
+bcel shadow bcelshadow shadow
+bcel var bcelvar extra var extravar
+instruct list instructionlist closur instanti closureinstanti
+instruct factori instructionfactori fact shadow factori getfactori
+bcel world bcelworld world shadow world getworld
+instruct list instructionlist instruct list instructionlist
+targetaspectfield null
+append fact createfieldaccess
+targetaspectfield getdeclaringtyp getnam
+targetaspectfield getnam
+bcelworld makebceltyp targetaspectfield gettyp
+constant getstat
+system err println bceladvic exposedst
+expos state exposedst aspect instanc getaspectinst
+append bcel render bcelrender render expr renderexpr fact world expos state exposedst aspect instanc getaspectinst
+pr121385
+declar aspect getdeclaringaspect resolv world annot style aspect isannotationstyleaspect
+annot style aspect isannotationstyleaspect concret aspect getconcreteaspect concret aspect getconcreteaspect annot style aspect isannotationstyleaspect
+previou closur previousisclosur
+len expos state exposedst size len
+expos state exposedst erron var iserroneousvar exposedst iserroneousvar continu erron var error msg report
+bcel var bcelvar bcel var bcelvar expos state exposedst
+aspect regular bind handl
+annot style aspect isannotationstyleaspect
+ataj aspect handl implicit bind xxjoinpoint
+getkind advicekind
+previousisclosur true
+append closureinstanti
+lorg aspectj lang proceedingjoinpoint equal signatur getsignatur paramet type getparametertyp signatur getsignatur
+make deal closur arg
+kind getkind advic kind advicekind
+previou closur previousisclosur
+concret aspect getconcreteaspect world getworld messag handler getmessagehandl handl messag handlemessag
+messag
+proceedingjoinpoint allow advic
+arg string tostr
+sourc locat getsourceloc
+avoid verifi error pass null
+append instruct constant instructionconst aconst null aconst null
+previou closur previousisclosur
+append instruct constant instructionconst dup
+previou closur previousisclosur
+append closur instanti closureinstanti copi
+lorg aspectj lang joinpoint staticpart equal signatur getsignatur paramet type getparametertyp signatur getsignatur
+previou closur previousisclosur
+extra paramet flag getextraparameterflag join point static part thisjoinpointstaticpart
+shadow join point static part bcel var getthisjoinpointstaticpartbcelvar append load appendload fact
+lorg aspectj lang joinpoint equal signatur getsignatur paramet type getparametertyp signatur getsignatur
+previou closur previousisclosur
+extra paramet flag getextraparameterflag join point thisjoinpoint
+append shadow load join point loadthisjoinpoint
+lorg aspectj lang joinpoint enclosingstaticpart equal signatur getsignatur paramet type getparametertyp signatur getsignatur
+previou closur previousisclosur
+extra paramet flag getextraparameterflag enclos join point static part thisenclosingjoinpointstaticpart
+shadow enclos join point static part bcel var getthisenclosingjoinpointstaticpartbcelvar append load appendload fact
+extra paramet hasextraparamet
+previou closur previousisclosur
+extra var extravar append load convert appendloadandconvert
+fact
+extra paramet type getextraparametertyp resolv world
+previou closur previousisclosur
+concret aspect getconcreteaspect world getworld messag handler getmessagehandl handl messag handlemessag
+messag
+proceedingjoinpoint allow advic
+arg string tostr
+sourc locat getsourceloc
+avoid verifi error pass null
+append instruct constant instructionconst aconst null aconst null
+unresolv type unresolvedtyp desir desiredti bind paramet type getbindingparametertyp
+append load convert appendloadandconvert fact desir desiredti resolv world
+ataj code style aspect handl extraflag usual
+middl formal bind end rock solid order
+annot style aspect isannotationstyleaspect
+kind getkind advic kind advicekind
+append closur instanti closureinstanti
+extra paramet hasextraparamet
+extra var extravar append load convert appendloadandconvert
+fact
+extra paramet type getextraparametertyp resolv world
+handl thisjoinpoint paramet
+order paramet
+org aspectj ajdt intern compil ast advicedeclar
+extra paramet flag getextraparameterflag join point static part thisjoinpointstaticpart
+shadow join point static part bcel var getthisjoinpointstaticpartbcelvar append load appendload fact
+extra paramet flag getextraparameterflag join point thisjoinpoint
+append shadow load join point loadthisjoinpoint
+extra paramet flag getextraparameterflag enclos join point static part thisenclosingjoinpointstaticpart
+shadow enclos join point static part bcel var getthisenclosingjoinpointstaticpartbcelvar append load appendload fact

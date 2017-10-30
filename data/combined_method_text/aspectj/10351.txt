@@ -1,0 +1,14 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+string format collect formatcollect collect option
+option default
+option empti isempti
+string buffer stringbuff format option formattedopt string buffer stringbuff
+iter option iter
+hasnext
+string string tostr
+format option formattedopt length format option formattedopt append
+format option formattedopt append
+format option formattedopt string tostr

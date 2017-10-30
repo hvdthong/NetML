@@ -1,0 +1,19 @@
+org aspectj util
+lang util langutil
+gen classpath
+param bootclasspath
+param classpath
+param classesdir
+param outputjar
+return string combin classpath element
+string make classpath makeclasspath public static string makeclasspath xxx dumb implement
+string bootclasspath
+string classpath
+string class dir classesdir
+string output jar outputjar
+string buffer stringbuff string buffer stringbuff
+add empti addifnotempti bootclasspath file path separ pathsepar
+add empti addifnotempti classpath file path separ pathsepar
+add empti addifnotempti class dir classesdir file path separ pathsepar
+add empti addifnotempti output jar outputjar file path separ pathsepar
+string tostr

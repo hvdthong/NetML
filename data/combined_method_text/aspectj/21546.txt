@@ -1,0 +1,40 @@
+org aspectj weaver pattern
+annot foo annot foo
+match join point subject join point
+annot match annotationtypepattern
+join point kind subject
+method call target method
+method execut method
+constructor call constructor
+constructor execut constructor
+target field
+set target field
+adviceexecut advic
+initi constructor
+preiniti constructor
+staticiniti type initi
+handler declar type handl except
+annot pointcut annotationpointcut bind pointcut namebindingpointcut
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+annot type pattern annotationtypepattern bind annot type pattern bindingannotationtypepattern
+bind annot type pattern bindingannotationtypepattern btp bind annot type pattern bindingannotationtypepattern annot type pattern annotationtypepattern
+unresolv type unresolvedtyp annot type annotationtyp btp annot type getannotationtyp
+var var shadow kind annot var getkindedannotationvar annot type annotationtyp
+point var null reason happen fail
+bind annot design pointcut expos annot
+execut annot foo execut foo
+annot provid
+provid pr138223
+indecipher reason case
+uncom bit code collect diagnost
+var null throw bcexcept imposs annot annotationtyp
+shadow shadow shadow getsourceloc
+pointcut getsourceloc
+var
+match intern matchintern shadow true alwaystru
+liter true
+liter fals
+state set btp formal index getformalindex var
+match intern matchintern shadow true alwaystru
+liter true
+liter fals

@@ -1,0 +1,23 @@
+author stephen colebourn
+arithmet except arithmeticexcept result repres
+check subandcheck
+integ max
+param minuend
+integ min
+arithmet except arithmeticexcept overflow add
+version
+author tim brien o'brien
+fraction number compar
+immut interoper method accept
+author scott ananian
+fraction number compar fraction
+author travi reeder
+fraction number serializ compar
+org apach common lang math
+code number code
+differ code code
+author pete gieser
+subtract integ check overflow
+code fraction code code number code implement
+store fraction accur
+param subtrahend

@@ -1,0 +1,11 @@
+org apach common math linear
+param max iter maxiter maximum number iter
+iter linear solver iterativelinearsolv max iter maxiter
+middot residu defin
+defin iter solver linear system
+manag iter manag iterationmanag max iter maxiter
+middot linear oper linear system
+version
+iter linear solver iterativelinearsolv
+creat instanc iter manag
+hand side vector current estim solut

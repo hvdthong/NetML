@@ -1,0 +1,19 @@
+org apach lucen search vectorhighlight
+highlight implement
+fast vector highlight fastvectorhighlight
+return fragment
+param fieldqueri link fieldqueri object
+param reader link indexread index
+param docid document highlight
+param fieldnam field document highlight
+param fragchars length number char fragment
+param pretag pre tag highlight term
+param posttag post tag highlight term
+param encod encod gener encod text
+return fragment snippet string
+throw ioexcept
+string fragment getbestfrag field queri fieldqueri field queri fieldqueri index reader indexread reader doc docid
+string field fieldnam frag char size fragchars string pre tag pretag string post tag posttag
+encod encod except ioexcept
+field frag list fieldfraglist field frag list fieldfraglist field frag list getfieldfraglist field queri fieldqueri reader doc docid field fieldnam frag char size fragchars
+fragment builder fragmentsbuild creat fragment createfrag reader doc docid field fieldnam field frag list fieldfraglist pre tag pretag post tag posttag encod

@@ -1,0 +1,10 @@
+org aspectj apach bcel gener annot
+arrai element gen arrayelementvaluegen element gen elementvaluegen
+param
+param cpool
+arrai element gen arrayelementvaluegen arrai element arrayelementvalu constant pool gen constantpoolgen cpool copi pool entri copypoolentri
+arrai cpool
+evalu arrai list arraylist
+element elementvalu element valu arrai getelementvaluesarrai
+length
+evalu add element gen elementvaluegen copi cpool copi pool entri copypoolentri

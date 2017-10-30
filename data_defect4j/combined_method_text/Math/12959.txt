@@ -1,0 +1,15 @@
+org apach common math3 geometri partit
+instanc empti
+hyperplan cut hyperplan closer tree root
+empti isempti
+repres remain part hyperplan
+link bsp tree bsptree bsp tree intersect cut
+hyperplan hyperplan chop hyperplan
+intersect remain part convex region object
+check instanc empti
+hyperplan obtain part link
+version
+param type embed space
+part chop
+hyperplan convex region split chop
+hyperplan subhyperplan space

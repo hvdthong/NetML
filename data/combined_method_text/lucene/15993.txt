@@ -1,0 +1,22 @@
+org apach lucen search
+wrapper link multitermqueri expos
+function link filter
+code multitermquerywrapperfilt code design
+subclass provid filter
+counterpart link multitermqueri subclass
+link termrangefilt link prefixfilt extend
+code multitermquerywrapperfilt code
+class function
+link multitermqueri constant score filter rewrit
+abstract
+multi term queri wrapper filter multitermquerywrapperfilt multi term queri multitermqueri filter
+return docidset document permit search
+result
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+reader field
+field exist
+fill openbitset
+system println iter termcount termcount term
+enumer term tobytesstr
+system println termcount termcount

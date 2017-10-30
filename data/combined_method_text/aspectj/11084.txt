@@ -1,0 +1,28 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener inlin accessor generateinlineaccessor class file classfil class file classfil inlin access field bind inlineaccessfieldbind access field accessfield resolv member resolvedmemb field
+field bind fieldbind field bind fieldbind factori make field bind makefieldbind field
+gener method generatemethod class file classfil access field accessfield reader
+make effect signatur attribut makeeffectivesignatureattribut field shadow field fieldget
+bodi gener bodygener
+gener code stream codestream code stream codestream
+bodi start
+field static isstat
+code stream codestream getstat field bind fieldbind
+code stream codestream aload
+code stream codestream getfield field bind fieldbind
+ast util astutil gener return generatereturn access field accessfield reader return type returntyp code stream codestream
+bodi end
+gener method generatemethod class file classfil access field accessfield writer
+make effect signatur attribut makeeffectivesignatureattribut field shadow field set fieldset
+bodi gener bodygener
+gener code stream codestream code stream codestream
+bodi start
+field static isstat
+code stream codestream load field bind fieldbind type
+code stream codestream putstat field bind fieldbind
+code stream codestream aload
+code stream codestream load field bind fieldbind type
+code stream codestream putfield field bind fieldbind
+code stream codestream return
+bodi end

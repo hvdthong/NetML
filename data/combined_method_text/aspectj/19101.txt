@@ -1,0 +1,11 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+return signaturesofparamtyp unlik typestosignatur
+includ return type deal paramet type
+string type signatur typestosignatur unresolv type unresolvedtyp param type paramtyp
+string buffer stringbuff buf string buffer stringbuff
+buf append
+param type paramtyp length
+buf append param type paramtyp signatur getsignatur
+buf append
+buf string tostr

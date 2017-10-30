@@ -1,0 +1,7 @@
+org aspectj apach bcel gener annot
+annot gen annotationgen
+list copi valu copyvalu list constant pool gen constantpoolgen cpool copi pool entri copypoolentri
+list arrai list arraylist
+iter iter iter iter hasnext
+element pair elementnamevaluepair nvp element pair elementnamevaluepair iter
+add element pair gen elementnamevaluepairgen nvp cpool copi pool entri copypoolentri

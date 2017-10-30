@@ -1,0 +1,14 @@
+chromosom directli transfer
+param elit rate elitismr
+org apach common math genet
+chromosom list
+chromosom directli copi gener
+popul chromosom elit percentac
+elitist list popul elitisticlistpopul popul limit populationlimit elit rate elitismr
+param popul limit populationlimit maxim size popul
+elitist list popul elitisticlistpopul list popul listpopul
+version revis date
+popul limit populationlimit
+creat list popul listpopul instanc initi
+gener
+elit rate elitismr elit rate elitismr

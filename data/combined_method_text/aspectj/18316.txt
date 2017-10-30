@@ -1,0 +1,11 @@
+org aspectj util
+load class file file dir url jar
+util class loader utilclassload url class loader urlclassload
+util class loader utilclassload url url file dir
+url
+lang util langutil throw iax assign throwiaxifnotassign dir file dir
+url debug string urlsfordebugstr url
+arrai list arraylist dcopi arrai list arraylist
+lang util langutil empti isempti dir
+dcopi add addal arrai list aslist dir
+dir collect unmodifi list unmodifiablelist dcopi

@@ -1,0 +1,11 @@
+overrid
+optima add optimum
+multi start optim vector model function
+inherit doc inheritdoc
+store point vector pair pointvectorvaluepair optimum
+org apach common math3 optim nonlinear vector
+wrap optim order time
+turn start point avoid trap
+version
+local extremum global
+multi start multivari vector optim multistartmultivariatevectoroptim

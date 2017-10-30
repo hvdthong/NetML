@@ -1,0 +1,24 @@
+symmetr matrix except nonsymmetricmatrixexcept rel toler relativetoler
+symmetr matrix except nonsymmetricmatrixexcept matrix symmetr
+row matrix row dimens getrowdimens
+row
+fast math fastmath ab mij mji
+rel toler relativetoler
+matrix symmetr
+version
+check matrix symmetr rel toler
+row matrix column dimens getcolumndimens
+param matrix matrix check
+fast math fastmath max fast math fastmath ab mij fast math fastmath ab mji rel toler relativetoler
+symmetr intern issymmetricintern real matrix realmatrix matrix
+collect method oper matric
+matrix util matrixutil
+rais except raiseexcept
+squar matrix except nonsquarematrixexcept row matrix column dimens getcolumndimens
+param rais except raiseexcept code except rais
+squar matrix except nonsquarematrixexcept matrix squar
+org apach common math3 linear
+code code matrix symmetr
+mij matrix entri getentri
+param rel toler relativetoler toler symmetri check
+mji matrix entri getentri

@@ -1,0 +1,21 @@
+org aspectj weaver pattern
+type pertypewithin claus perclaus
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+member ptw field ptwfield ajc member maker ajcmembermak type field pertypewithinfield shadow enclos type getenclosingtyp aspect inaspect
+expr instanc myinstanc
+expr make call expr makecallexpr ajc member maker ajcmembermak type local aspect pertypewithinlocalaspectof shadow enclos type getenclosingtyp aspect inaspect expr makecallexpr ajcmembermak pertypewithinlocalaspectof shadow getenclosingtyp inaspect shadow getenclosingtyp
+expr aspect inaspect
+state set aspect instanc setaspectinst instanc myinstanc
+work point
+expr myinstanc expr makefieldget ptwfield shadow getenclosingtyp resolv shadow getiworld inaspect
+state setaspectinst myinstanc
+return test makefieldgetcal ptwfield null expr
+cflowfield cflowcounterisvalidmethod expr
+perobject variant
+expr myinstanc
+expr makecallexpr ajcmembermak pertypewithinaspectofmethod inaspect
+expr getvar shadow inaspect
+state setaspectinst myinstanc
+return test makecal ajcmembermak pertypewithinhasaspectmethod inaspect
+expr getvar shadow
+match shadow true alwaystru liter true liter fals

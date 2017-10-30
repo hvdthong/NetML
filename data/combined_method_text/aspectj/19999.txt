@@ -1,0 +1,26 @@
+org aspectj weaver
+weaverstateinfo repres type process weaver determin type
+previous treat reweav allow
+format data stream
+byte kind untouch woven extend extend extra bit set 'reweavable' 'reweav compress bit'
+short typemungercount type munger affect type
+unresolvedtyp resolvedtypemung type munger
+reweav
+short number aspect touch type previous woven
+string fulli qualifi type
+int length class file data unwovenclassfil
+byte class file data compress reweav compress bit set
+weaver state info weaverstateinfo
+appli diff applydiff woven class file wovenclassfil diff
+length common lengthincommon read int readint diff
+woven class file unwovenclassfil diff length length common lengthincommon
+copi byte wovenclassfil
+system arraycopi woven class file wovenclassfil woven class file unwovenclassfil
+copi constant pool count diff
+woven class file unwovenclassfil diff
+woven class file unwovenclassfil diff
+copi run wovenclassfil
+system arraycopi woven class file wovenclassfil woven class file unwovenclassfil length common lengthincommon
+copi stuff run diff
+system arraycopi diff woven class file unwovenclassfil length common lengthincommon diff length
+woven class file unwovenclassfil

@@ -1,0 +1,12 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+return control flow execut chain built
+execut frame arraylist ing code repres
+surround controlflowgraph
+string execut chain getexecutionchain
+string string tostr
+execut predecessor executionpredecessor size
+execut predecessor executionpredecessor

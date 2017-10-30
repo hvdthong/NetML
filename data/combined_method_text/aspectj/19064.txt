@@ -1,0 +1,12 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+string paramet signatur getparametersignatur
+param signatur paramsignatur param signatur paramsignatur
+string buffer stringbuff string buffer stringbuff
+append
+paramet type parametertyp length
+unresolv type unresolvedtyp paramet type parametertyp
+append signatur getsignatur
+append
+param signatur paramsignatur string tostr
+param signatur paramsignatur

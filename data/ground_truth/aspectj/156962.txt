@@ -1,0 +1,5 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelField_ensureAnnotationTypesRetrieved_void
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelMethod_ensureAnnotationTypesRetrieved_void
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/HasMemberTypePattern_hasField-ResolvedType_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/HasMemberTypePattern_hasMethod-ResolvedType_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/HasMemberTypePattern_matchesExactly-ResolvedType_boolean

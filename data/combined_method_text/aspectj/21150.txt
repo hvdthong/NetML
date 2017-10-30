@@ -1,0 +1,126 @@
+org aspectj weaver bcel
+shadow rang shadowrang rang
+extract instruct extractinstructionsinto lazi method gen lazymethodgen fresh method freshmethod int map intmap remap add return addreturn
+lazi method gen lazymethodgen assert good bodi assertgoodbodi bodi getbodi string tostr
+fresh method freshmethod assert good bodi assertgoodbodi
+instruct list instructionlist fresh bodi freshbodi fresh method freshmethod bodi getbodi
+instruct handl instructionhandl oldih start getnext oldih end oldih oldih getnext
+copi instruct
+instruct oldi oldih instruct getinstruct
+instruct fresh freshi oldi rangeinstruct oldi util copi instruct copyinstruct oldi
+add instruct list
+instruct handl instructionhandl fresh freshih
+fresh freshi branch instruct branchinstruct
+target instruct
+updat target point copi copi
+branch instruct branchinstruct branch oldbranch branch instruct branchinstruct oldi
+branch instruct branchinstruct fresh branch freshbranch branch instruct branchinstruct fresh freshi
+instruct handl instructionhandl target oldtarget branch oldbranch target gettarget
+target oldtarget remov target removetarget branch oldbranch
+target oldtarget add target addtarget fresh branch freshbranch
+fresh branch freshbranch select
+select select oldselect select oldi
+select fresh select freshselect select fresh freshi
+instruct handl instructionhandl target oldtarget fresh select freshselect target gettarget
+target oldtarget length
+target oldtarget remov target removetarget select oldselect
+target oldtarget add target addtarget fresh select freshselect
+fresh freshih fresh bodi freshbodi append fresh branch freshbranch
+fresh freshih fresh bodi freshbodi append fresh freshi
+sourc target
+sourc target
+process target removetarget sourc target addtarget sourcecopi
+sourc
+sourcecopi target
+process sourcecopi updatetarget target targetcopi
+sourc target
+sourcecopi targetcopi
+target sourc
+target sourc
+process sourc updatetarget target targetcopi
+target
+targetcopi sourc
+process targetcopi removetarget sourc targetcopi addtarget sourcecopi
+target sourc
+targetcopi sourcecopi
+deal instruction' target updat point
+instruct updatetarget goal
+make remov target gui successfulli
+delet
+instruct target instructiontarget sourc oldih target gettarget
+sourc
+sourc length
+instruct target instructiontarget sourc sourc
+sourc local variabl tag localvariabletag
+shadow kind kind kind getkind
+kind shadow advic execut adviceexecut
+kind shadow constructor execut constructorexecut
+kind shadow method execut methodexecut
+kind shadow pre initi preiniti
+kind shadow initi
+kind shadow static initi staticiniti
+extract block
+sourc updat target updatetarget oldih fresh freshih
+xxx destroi local variabl info
+call join point big deal
+sourc updat target updatetarget oldih
+sourc rang
+except shadow move
+rang sourc updat target updatetarget oldih fresh freshih fresh bodi freshbodi
+line number share
+branch copi
+sourc updat target updatetarget oldih fresh freshih
+instruct ignor
+rest loop time pass
+delet
+deal local variabl instruct point remap
+frame locat updat instruction' index
+compact expans alloc local variabl modifi remap
+handl xxx safe thing alloc local variabl
+doubl wide case locat found hold doubl wide
+fresh freshi local variabl instruct localvariableinstruct fresh freshi ret
+index instruct indexedinstruct index indexedi index instruct indexedinstruct fresh freshi
+index oldindex index indexedi index getindex
+fresh index freshindex
+remap kei haskei index oldindex
+fresh index freshindex fresh method freshmethod alloc local allocateloc
+remap put index oldindex fresh index freshindex
+fresh index freshindex remap index oldindex
+index indexedi set index setindex fresh index freshindex
+system err println copi oldih getinstruct tostr freshmethod getenclosingclass getconstantpoolgen getconstantpool
+freshih getinstruct tostr freshmethod getenclosingclass getconstantpoolgen getconstantpool
+updat variabl slot alter result
+remap
+instruct handl instructionhandl newih fresh bodi freshbodi start getstart newih fresh bodi freshbodi end getend newih newih getnext
+instruct target instructiontarget sourc newih target gettarget
+sourc
+sourc length
+sourc local variabl tag localvariabletag
+local variabl tag localvariabletag lvt local variabl tag localvariabletag sourc
+lvt remap isremap remap kei haskei lvt slot getslot
+lvt updat slot updateslot remap lvt slot getslot
+copi instruct
+delet instruct care damn
+target targetlostexcept check stuff
+instruct handl instructionhandl oldih start getnext oldih end
+instruct handl instructionhandl oldih getnext
+bodi delet oldih
+oldih
+target lost except targetlostexcept
+except bcexcept target lost
+add return warrant
+instruct handl instructionhandl ret
+add return addreturn
+pull
+ret fresh bodi freshbodi append
+instruct factori instructionfactori creat return createreturn fresh method freshmethod return type getreturntyp
+remap target end handl rang return
+instruct target instructiontarget end target gettarget
+null case test paranoia
+length
+instruct target instructiontarget
+add return addreturn
+except bcexcept rang target ad return
+updat target updatetarget end ret
+lazi method gen lazymethodgen assert good bodi assertgoodbodi bodi getbodi string tostr
+fresh method freshmethod assert good bodi assertgoodbodi

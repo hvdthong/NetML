@@ -1,0 +1,23 @@
+pre
+org apach common math3 fit
+find max findmaxi weight observ point weightedobservedpoint point
+max idx maxyidx
+ob add
+optim valu return order
+org apach common math3 analysi function gaussian parametr gaussian
+fit point link
+weight observ point weightedobservedpoint ob weight observ point weightedobservedpoint
+version
+function
+normal
+usag
+find index point point largest
+param point point search
+link start point withstartpoint initi guess valu pass
+gaussian curv fitter gaussiancurvefitt abstract curv fitter abstractcurvefitt levenberg marquardt optim levenbergmarquardtoptim
+paramet gaussian curv fitter gaussiancurvefitt creat fit ob
+point geti point max idx maxyidx geti
+index point arrai
+point length
+sigma
+order

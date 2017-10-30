@@ -1,0 +1,6 @@
+org aspectj ajd javaopt
+class handl set java option
+java option map requir icompilerconfigur getjavaoptionsmap
+java build option javabuildopt
+map java build option map getjavabuildoptionsmap
+java build option javabuildopt

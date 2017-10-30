@@ -1,0 +1,27 @@
+org aspectj ajd
+author mik kersten
+structur view manag structureviewmanag
+highlight node structur view node repres code
+granular visibl view parent highlight
+sourcelin
+navig action navigationact program element iprogramel node record histori recordhistori
+node
+ajd default getdefault log event logev navig node node recordhistori record histori recordhistori
+record histori recordhistori histori model historymodel navig node navigatetonod node
+default file view defaultfileview node sourc locat getsourceloc
+string file path newfilepath node sourc locat getsourceloc sourc file getsourcefil absolut path getabsolutepath
+default file view defaultfileview sourc file getsourcefil
+default file view defaultfileview sourc file getsourcefil equal file path newfilepath
+default file view defaultfileview set sourc file setsourcefil file path newfilepath
+tree view builder treeviewbuild build view buildview default file view defaultfileview asm manag asmmanag default getdefault hierarchi gethierarchi
+iter structur view structureview iter hasnext
+structur view structureview view structur view structureview
+view global structur view globalstructureview record histori recordhistori default file view defaultfileview
+node kind getkind equal program element iprogramel kind code
+program element iprogramel parent node parentnod program element iprogramel node parent getpar
+parent node parentnod
+structur view node istructureviewnod curr node currnod view find view node findcorrespondingviewnod parent node parentnod
+line offset lineoffset node sourc locat getsourceloc line getlin parent node parentnod sourc locat getsourceloc line getlin
+curr node currnod view set activ node setactivenod curr node currnod line offset lineoffset
+structur view node istructureviewnod curr node currnod view find view node findcorrespondingviewnod node
+curr node currnod view set activ node setactivenod curr node currnod

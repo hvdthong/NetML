@@ -1,0 +1,13 @@
+org aspectj weaver
+asm relationship provid asmrelationshipprovid
+program element iprogramel find member class findmemberinclass
+program element iprogramel class node classnod
+member member
+class node classnod classnod null return null xxx remov check
+iter class node classnod children getchildren iter hasnext
+program element iprogramel node program element iprogramel
+member getnam equal node bytecod getbytecodenam
+member signatur getsignatur equal node bytecod signatur getbytecodesignatur
+node
+find member put class
+class node classnod

@@ -1,0 +1,25 @@
+overrid
+data target
+check paramet checkparamet
+scan list requir option optim data
+character problem
+base regist data
+pars optim data parseoptimizationdata opt data optdata
+link target
+version
+base multivari vector function optim
+optim data optimizationdata data opt data optdata
+link model function modelfunct
+org apach common math3 optim nonlinear vector
+weight matrix weightmatrix weight data weight getweight
+link weight
+check input consist
+data weight
+param opt data optdata optim data data look
+target target data target gettarget
+pars optim data parseoptimizationdata optim data optimizationdata opt data optdata
+data model function modelfunct
+provid argument list
+multivari vector optim multivariatevectoroptim
+model model function modelfunct data model function getmodelfunct
+exist valu set previou call reus

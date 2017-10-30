@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+inlin constructor inlineselfconstructor list method gen methodgen
+inlin inlinedsometh
+iter method gen methodgen iter hasnext
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+getnam equal init
+instruct handl instructionhandl find super call findsuperorthiscal
+call isthiscal
+lazi method gen lazymethodgen donor call method getcalledmethod
+inlin method inlinemethod donor
+inlin inlinedsometh
+inlin inlinedsometh

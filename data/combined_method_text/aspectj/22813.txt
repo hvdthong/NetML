@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+equal object
+type pattern list typepatternlist
+type pattern list typepatternlist type pattern list typepatternlist
+len type pattern typepattern length
+len type pattern typepattern length
+len
+type pattern typepattern equal type pattern typepattern

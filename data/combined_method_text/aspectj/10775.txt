@@ -1,0 +1,13 @@
+org aspectj ajd swing
+dialog box open ajc compil system displai
+progress bar
+author mik kersten
+default build progress monitor defaultbuildprogressmonitor thread build progress monitor ibuildprogressmonitor
+default build progress monitor defaultbuildprogressmonitor frame parent
+dialog dialog jdialog parent progress head progress head
+progress dialog progressdialog build progress panel buildprogresspanel
+dialog set content pane setcontentpan progress dialog progressdialog
+dialog set size setsiz
+dialog set locat rel setlocationrelativeto parent
+method error nosuchmethoderror nsme
+run

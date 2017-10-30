@@ -1,0 +1,14 @@
+data entri getentri index
+field vector impl fieldvectorimpl field element fieldel field vector fieldvector serializ
+link field vector fieldvector link field element fieldel arrai
+org apach common math linear
+class cast except classcastexcept cce
+param type field element
+inherit doc inheritdoc
+set index field vector impl fieldvectorimpl
+index index dimens getdimens
+check index checkindex index dimens getdimens
+set vector setsubvector index field vector fieldvector
+version revis date
+check index checkindex index
+index bound except indexoutofboundsexcept

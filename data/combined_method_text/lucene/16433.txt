@@ -1,0 +1,12 @@
+org apach lucen search
+filter restrict search result rang term
+valu field
+filter match document term fall
+suppli rang link
+string compareto string code collat code provid intend
+numer rang link numericrangefilt
+construct larg number rang filter rang
+field link fieldcacherangefilt significantli perform
+term rang filter termrangefilt multi term queri wrapper filter multitermquerywrapperfilt term rang queri termrangequeri
+return field filter
+string field getfield queri field getfield

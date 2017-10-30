@@ -1,0 +1,14 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+return match
+param parent
+param kind null
+return null found
+program element iprogramel find element signatur findelementforsignatur program element iprogramel parent program element iprogramel kind kind string signatur
+iter parent children getchildren iter hasnext
+program element iprogramel node program element iprogramel
+node kind getkind kind signatur equal node signatur string tosignaturestr
+node
+program element iprogramel child search childsearch find element signatur findelementforsignatur node kind signatur
+child search childsearch child search childsearch

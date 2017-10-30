@@ -1,0 +1,21 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+gen bytecod info genbytecodeinfo method declar methoddeclar method declar methoddeclar program element iprogramel node penod
+method declar methoddeclar bind
+eclips factori eclipsefactori factori lookup environ ajlookupenviron method declar methoddeclar scope environ factori
+member member factori make resolv member makeresolvedmemb method declar methoddeclar bind
+node penod set bytecod setbytecodenam member getnam
+node penod set bytecod signatur setbytecodesignatur member signatur getsignatur
+except bcexcept bce catch bcexcept bce bad type
+bce print stack trace printstacktrac
+null pointer except nullpointerexcept npe
+npe print stack trace printstacktrac
+program element iprogramel stack peek add child addchild node penod

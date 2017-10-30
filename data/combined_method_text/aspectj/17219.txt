@@ -1,0 +1,26 @@
+org aspectj org eclips jdt core dom
+pointcutdeclar dom ast node
+option pointcut design call 'designator'
+singlevariabledeclar list call 'parameters'
+javadoc
+modifi
+note
+properti paramet list
+methoddeclar
+author ajh02
+pointcut declar pointcutdeclar bodi declar bodydeclar
+ast node astnod clone0 ast target
+pointcut declar pointcutdeclar result pointcut declar pointcutdeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+ast api level apilevel ast jls2 intern jls2 intern
+result intern set modifi internalsetmodifi modifi getmodifi
+ast api level apilevel ast jls3
+result modifi add addal ast node astnod copi subtre copysubtre target modifi
+result set setnam simpl simplenam getnam clone target
+design getdesign
+result set design setdesign pointcut design pointcutdesign design getdesign clone target
+result paramet add addal
+ast node astnod copi subtre copysubtre target paramet
+result

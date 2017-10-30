@@ -1,0 +1,13 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+intermedi result requestor iintermediateresultsrequestor interim result requestor getinterimresultrequestor
+intermedi result requestor iintermediateresultsrequestor
+accept result acceptresult interim compil result interimcompilationresult result
+progress listen progresslisten
+compil count compiledcount
+progress listen progresslisten set progress setprogress compil count compiledcount sourc file count sourcefilecount
+progress listen progresslisten set text settext compil result file filenam
+state note result noteresult result
+progress listen progresslisten progress listen progresslisten cancel request iscancelledrequest
+abort compil abortcompil
+oper cancel except operationcanceledexcept compil cancel request

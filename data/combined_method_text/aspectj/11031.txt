@@ -1,0 +1,25 @@
+org aspectj ajdt intern compil ast
+walk bodi advic
+make member access public member
+convert access method need ensur
+make simpler modular inlin bodi
+constructor handl requir access
+target type org eclips jdt intern compil ast allocationexpress
+requir fix issu
+author jim hugunin
+access inlin visitor accessforinlinevisitor ast visitor astvisitor
+field bind fieldbind access field getaccessiblefield field bind fieldbind bind type bind typebind receiv type receivertyp
+system err println check field bind
+bind bind valid bind isvalidbind bind
+make public makepubl receiv type receivertyp
+public ispubl bind bind
+bind privileg field bind privilegedfieldbind bind
+bind inter type field bind intertypefieldbind bind
+bind privat ispriv bind declar class declaringclass aspect inaspect bind
+bind modifi ast util astutil make packag visibl makepackagevis bind modifi
+resolv member resolvedmemb world make resolv member makeresolvedmemb bind receiv type receivertyp
+aspect inaspect access inlin accessforinlin kei containskei field bind fieldbind aspect inaspect access inlin accessforinlin
+field bind fieldbind ret inlin access field bind inlineaccessfieldbind aspect inaspect bind
+system err println made accessor ret
+aspect inaspect access inlin accessforinlin put ret
+ret

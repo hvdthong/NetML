@@ -1,0 +1,11 @@
+model function modelfunct multivari vector function multivariatevectorfunct
+model function modelfunct optim data optimizationdata
+org apach common math3 optim nonlinear vector
+optim provid move
+model
+deprec class interfac deprec
+version
+model vector function optim
+link org apach common math3 fit leastsquar
+math
+param model function optim

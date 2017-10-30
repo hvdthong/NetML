@@ -1,0 +1,17 @@
+set size setsiz doubl posit infin
+org apach common math geometri euclidean threed
+version
+polyhedron set finit
+inherit doc inheritdoc
+surround infinit insid
+polyhedron set finit appli remain scale factor
+overrid
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+set barycent setbarycent vector3 vector3d size getsiz vector3 vector3d barycent getbarycent
+set barycent setbarycent vector3 vector3d nan
+repres region set polyhedron
+size getsiz
+comput contribut boundari facet
+set size setsiz size getsiz
+comput geometr properti computegeometricalproperti
+tree gettre visit facet contribut visitor facetscontributionvisitor

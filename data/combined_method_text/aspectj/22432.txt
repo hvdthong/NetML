@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+pattern parser patternpars
+declar annot declareannot pars declar type parsedeclareattyp
+type pattern allowhastypepattern
+type pattern typepattern pars type pattern parsetypepattern
+type pattern allowhastypepattern
+declar annot declareannot declar annot declareannot type type

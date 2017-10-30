@@ -1,0 +1,11 @@
+org apach common math stat infer
+test impl ttestimpl distribut tdistribut
+set distribut setdistribut
+infer statist
+common math link org apach common math distribut distribut tdistribut
+implement test statist defin link test ttest
+implement estim exact valu
+param distribut comput infer statist
+test impl ttestimpl test ttest
+creat test instanc distribut comput
+version revis date

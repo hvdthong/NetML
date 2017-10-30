@@ -1,0 +1,9 @@
+org aspectj ajd swing
+author mik kersten
+browser view browserview panel jpanel
+todo rid method make gui design gener code work properli
+fix button border fixbuttonbord
+back button set border setbord border factori borderfactori creat empti border createemptybord
+forward button set border setbord border factori borderfactori creat empti border createemptybord
+zoom file button zoomtofil button set border setbord border factori borderfactori creat empti border createemptybord
+split view button splitview button set border setbord border factori borderfactori creat matt border createmattebord color blue

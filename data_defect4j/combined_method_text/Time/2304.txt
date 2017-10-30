@@ -1,0 +1,14 @@
+author stephen colebourn
+param leap month leapmonth month year leap
+basic month year date time field basicmonthofyeardatetimefield basic chronolog basicchronolog chronolog leap month leapmonth
+org joda time chrono
+basic month year date time field basicmonthofyeardatetimefield imprecis date time field imprecisedatetimefield
+author gui allard
+restrict constructor
+chronolog ichronolog chronolog
+leap month ileapmonth leap month leapmonth
+author brian neill o'neil
+date time field type datetimefieldtyp month year monthofyear chronolog averag milli month getaveragemillispermonth
+max imax chronolog ichronolog max month getmaxmonth
+time calcul month year compon time
+refactor month year date time field gjmonthofyeardatetimefield

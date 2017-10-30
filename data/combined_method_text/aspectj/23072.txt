@@ -1,0 +1,24 @@
+org aspectj weaver reflect
+author colyer
+creat reflectionbasedreferencetypedeleg
+level run reflect avoid depend
+code base
+reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori
+gener signatur inform provid genericsignatureinformationprovid creat gener signatur provid creategenericsignatureprovid world world inworld
+lang util langutil is15 greater is15vmorgreat
+class provid class providerclass class fornam org aspectj weaver reflect java15genericsignatureinformationprovid
+constructor con provid class providerclass constructor getconstructor class world
+gener signatur inform provid genericsignatureinformationprovid ret gener signatur inform provid genericsignatureinformationprovid con instanc newinst object world inworld
+ret
+class found except classnotfoundexcept cnf cnfex
+drop creat provid
+throw illegalstateexcept attempt creat java gener signatur provid org aspectj weaver reflect java15genericsignatureinformationprovid found classpath
+method except nosuchmethodexcept nsm nsmex
+illeg state except illegalstateexcept attempt creat java gener signatur provid nsm nsmex occur
+instanti except instantiationexcept in insex
+illeg state except illegalstateexcept attempt creat java gener signatur provid in insex occur
+invoc target except invocationtargetexcept inv invex
+illeg state except illegalstateexcept attempt creat java gener signatur provid inv invex occur
+illeg access except illegalaccessexcept ill acc illacc
+illeg state except illegalstateexcept attempt creat java gener signatur provid ill acc illacc occur
+java14 gener signatur inform provid java14genericsignatureinformationprovid

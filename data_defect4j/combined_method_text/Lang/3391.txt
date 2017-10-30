@@ -1,0 +1,138 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+param search str searchstr string search
+char sequenc charsequ search search str searchstr
+code char sequenc charsequ code
+remov lead trail whitespac
+str search str searchstr
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+param str string check
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+space space charact code
+param search str searchstr char sequenc charsequ search
+author arun mammen thoma
+string util stringutil index indexofani
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+code search arrai entri search
+check string end suffix safe
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+index indexofani string str string search str searchstr
+code length search arrai code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+ret integ max ret
+split join
+tmp
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+arrai code code str
+trim strip
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+chang signatur index indexofani string string index indexofani char sequenc charsequ char sequenc charsequ
+substr substringbefor substr substringaft substr substringbetween
+string' max valu eth valueth index
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+code code
+empti length string code code
+string util stringutil index indexofani zzabyycdxx zab abi
+safe substr extract
+search str searchstr length
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+search
+tmp str index indexof search
+number need chang string
+symbol code input includ code
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+index indexofani char sequenc charsequ str char sequenc charsequ search str searchstr
+code code search arrai entri search
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code code length search arrai code code
+code string util stringutil code defin word relat
+arrai code code code str code
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+index search str searchstr str match
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+code code safe
+ret integ max
+method link string index indexof string
+remov part string
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+find index set potenti substr
+pre
+author michael davei
+substr left mid
+tmp index found
+code input code
+code null pointer except nullpointerexcept consid bug
+param str char sequenc charsequ check
+code code return
+chomp chop
+author apach softwar foundat
+index found
+string charact
+java lang string
+author gari gregori
+ret integ max index found ret
+safe index check
+code string util stringutil
+string util stringutil index indexofani zzabyycdxx
+code safe
+string search search str searchstr
+string util stringutil
+thread safe threadsaf
+tmp char sequenc util charsequenceutil index indexof str search
+check charact string
+tmp ret
+code code string code code
+symbol code code input includ code code
+ret tmp

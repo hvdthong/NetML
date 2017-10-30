@@ -1,0 +1,10 @@
+org apach lucen index
+segment term enum segmenttermenum term enum termenum cloneabl
+optim scan alloc term
+return number invoc
+scan scanto term term except ioexcept
+scan buffer scanbuff set term
+count
+scan buffer scanbuff compar compareto term buffer termbuff
+count
+count

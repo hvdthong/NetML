@@ -1,0 +1,10 @@
+visit matrix entri
+real matrix preserv visitor realmatrixpreservingvisitor
+interfac defin visitor matrix entri
+org apach common math3 linear
+param current entri
+default real matrix preserv visitor defaultrealmatrixpreservingvisitor
+version
+visit row column
+param column column index entri
+param row row index entri

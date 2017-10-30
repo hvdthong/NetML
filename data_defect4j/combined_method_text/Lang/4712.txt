@@ -1,0 +1,14 @@
+lang
+link formatt basic control format
+version
+format represent
+code formatt
+org apach common lang3 text
+code formatt primarili concern numer precis
+formatt util formattableutil
+result string
+param formatt instanc convert string
+string format simplest format formatt
+string string tostr formatt formatt
+pad design generalis altern format
+util work code formatt

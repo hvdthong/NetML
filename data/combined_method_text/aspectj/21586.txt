@@ -1,0 +1,5 @@
+org aspectj weaver pattern
+type pattern anytypepattern type pattern typepattern
+org aspectj weaver pattern typepattern matchesinstanceof ityp
+fuzzi boolean fuzzyboolean match instanceof matchesinstanceof resolv type resolvedtyp type
+fuzzi boolean fuzzyboolean

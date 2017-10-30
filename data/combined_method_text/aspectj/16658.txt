@@ -1,0 +1,231 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+type convert type converttyp type refer typerefer type refer typerefer
+type refer typerefer wildcard
+wildcard wildcard wildcard type refer typerefer
+wildcard type wildcardtyp wildcard type wildcardtyp wildcard type wildcardtyp ast
+wildcard bound
+type bound convert type converttyp wildcard bound
+wildcard type wildcardtyp set bound setbound bound wildcard kind wildcard extend
+start wildcard sourc start sourcestart
+wildcard type wildcardtyp set sourc rang setsourcerang start bound start posit getstartposit bound length getlength start
+start wildcard sourc start sourcestart
+end wildcard sourc end sourceend
+wildcard type wildcardtyp set sourc rang setsourcerang start end start
+resolv bind resolvebind
+record node recordnod wildcard type wildcardtyp type refer typerefer
+wildcard type wildcardtyp
+type type
+sourc start sourcestart
+length
+dimens type refer typerefer dimens
+type refer typerefer org aspectj org eclips jdt intern compil ast singl type refer singletyperefer
+arraytyperefer singletyperefer
+org aspectj org eclips jdt intern compil ast singl type refer singletyperefer type refer typerefer type gettypenam
+sourc start sourcestart type refer typerefer sourc start sourcestart
+length type refer typerefer sourc end sourceend type refer typerefer sourc start sourcestart
+find arrai type primit type
+primit type isprimitivetyp
+end retriev end element type posit retrieveendofelementtypenameposit sourc start sourcestart sourc start sourcestart length
+end
+end sourc start sourcestart length
+primit type primitivetyp primit type primitivetyp primit type primitivetyp ast
+primit type primitivetyp set primit type code setprimitivetypecod primit type code getprimitivetypecod
+primit type primitivetyp set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+type primit type primitivetyp
+type refer typerefer parameter singl type refer parameterizedsingletyperefer
+parameter singl type refer parameterizedsingletyperefer parameter singl type refer parameterizedsingletyperefer parameter singl type refer parameterizedsingletyperefer type refer typerefer
+simpl simplenam simpl simplenam simpl simplenam ast
+simpl simplenam intern set identifi internalsetidentifi string
+end retriev end element type posit retrieveendofelementtypenameposit sourc start sourcestart sourc start sourcestart length
+end
+end sourc start sourcestart length
+simpl simplenam set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+ast api level apilevel
+ast jls2 intern jls2 intern
+simpl type simpletyp simpl type simpletyp simpl type simpletyp ast
+simpl type simpletyp set setnam simpl simplenam
+simpl type simpletyp set flag setflag simpl type simpletyp flag getflag ast node astnod malform
+simpl type simpletyp set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+type simpl type simpletyp
+resolv bind resolvebind
+record node recordnod simpl simplenam type refer typerefer
+ast jls3
+simpl type simpletyp simpl type simpletyp ast
+simpl type simpletyp set setnam simpl simplenam
+simpl type simpletyp set sourc rang setsourcerang simpl simplenam start posit getstartposit simpl simplenam length getlength
+parameter type parameterizedtyp parameter type parameterizedtyp parameter type parameterizedtyp ast
+parameter type parameterizedtyp set type settyp simpl type simpletyp
+type parameter type parameterizedtyp
+type refer typerefer type argument typeargu parameter singl type refer parameterizedsingletyperefer type argument typeargu
+type argument typeargu
+type type2
+max type argument typeargu length max
+type2 convert type converttyp type argument typeargu
+parameter type parameterizedtyp type type argument typeargu add type2
+end type2 start posit getstartposit type2 length getlength
+end retriev close angl bracket posit retrieveclosinganglebracketposit end
+type set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+type set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+resolv bind resolvebind
+record node recordnod simpl simplenam type refer typerefer
+record node recordnod simpl type simpletyp type refer typerefer
+simpl simplenam simpl simplenam simpl simplenam ast
+simpl simplenam intern set identifi internalsetidentifi string
+search start posit brace order set proper length
+http dev eclips org bug show bug cgi
+end retriev end element type posit retrieveendofelementtypenameposit sourc start sourcestart sourc start sourcestart length
+end
+end sourc start sourcestart length
+simpl simplenam set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+simpl type simpletyp simpl type simpletyp simpl type simpletyp ast
+simpl type simpletyp set setnam simpl simplenam
+type simpl type simpletyp
+type set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+type simpl type simpletyp
+resolv bind resolvebind
+record node recordnod simpl simplenam type refer typerefer
+dimens
+type ast arrai type newarraytyp type dimens
+type set sourc rang setsourcerang sourc start sourcestart length
+arrai type arraytyp subarrai type subarraytyp arrai type arraytyp type
+index dimens
+index
+subarrai type subarraytyp arrai type arraytyp subarrai type subarraytyp compon type getcomponenttyp
+end retriev proper bracket posit retrieveproperrightbracketposit index sourc start sourcestart
+subarrai type subarraytyp set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+index
+resolv bind resolvebind
+store kei type
+complet record completerecord arrai type arraytyp type type refer typerefer
+type refer typerefer parameter qualifi type refer parameterizedqualifiedtyperefer
+parameter qualifi type refer parameterizedqualifiedtyperefer parameter qualifi type refer parameterizedqualifiedtyperefer parameter qualifi type refer parameterizedqualifiedtyperefer type refer typerefer
+token parameter qualifi type refer parameterizedqualifiedtyperefer token
+type refer typerefer type argument typeargu parameter qualifi type refer parameterizedqualifiedtyperefer type argument typeargu
+posit parameter qualifi type refer parameterizedqualifiedtyperefer sourc posit sourceposit
+sourc start sourcestart posit
+ast api level apilevel
+ast jls2 intern jls2 intern
+org aspectj org eclips jdt intern compil ast qualifi type refer qualifiedtyperefer type refer typerefer type gettypenam
+length namelength length
+sourc start sourcestart posit
+length posit length namelength sourc start sourcestart
+qualifi qualifiednam set qualifi sourc rang setqualifiednamenameandsourcerang posit type refer typerefer
+simpl type simpletyp simpl type simpletyp simpl type simpletyp ast
+simpl type simpletyp set setnam qualifi qualifiednam
+simpl type simpletyp set sourc rang setsourcerang sourc start sourcestart length
+type simpl type simpletyp
+ast jls3
+type argument typeargu
+number enclos type numberofenclosingtyp
+start index startingindex
+end index endingindex
+max type argument typeargu length max
+type argument typeargu
+number enclos type numberofenclosingtyp
+number enclos type numberofenclosingtyp
+end index endingindex
+end index endingindex start index startingindex
+simpl simplenam simpl simplenam simpl simplenam ast
+simpl simplenam intern set identifi internalsetidentifi string token start index startingindex
+record pend scope resolut recordpendingnamescoperesolut simpl simplenam
+start posit start index startingindex
+end posit start index startingindex
+simpl simplenam set sourc rang setsourcerang start end start
+simpl simplenam index
+simpl simplenam
+resolv bind resolvebind
+record node recordnod simpl simplenam type refer typerefer
+set qualifi sourc rang setqualifiednamenameandsourcerang token posit end index endingindex type refer typerefer
+simpl type simpletyp simpl type simpletyp simpl type simpletyp ast
+simpl type simpletyp set setnam
+start posit start index startingindex
+end posit end index endingindex
+simpl type simpletyp set sourc rang setsourcerang start end start
+parameter type parameterizedtyp parameter type parameterizedtyp parameter type parameterizedtyp ast
+parameter type parameterizedtyp set type settyp simpl type simpletyp
+resolv bind resolvebind
+record node recordnod simpl type simpletyp type refer typerefer
+record node recordnod parameter type parameterizedtyp type refer typerefer
+start simpl type simpletyp start posit getstartposit
+end start simpl type simpletyp length getlength
+max type argument typeargu end index endingindex length max
+type type2 convert type converttyp type argument typeargu end index endingindex
+parameter type parameterizedtyp type argument typeargu add type2
+end type2 start posit getstartposit type2 length getlength
+index enclos type indexofenclosingtyp
+parameter type parameterizedtyp index index enclos type indexofenclosingtyp
+end retriev close angl bracket posit retrieveclosinganglebracketposit end
+length end
+parameter type parameterizedtyp set sourc rang setsourcerang start end start
+start index startingindex end index endingindex
+type current type currenttyp parameter type parameterizedtyp
+start index startingindex type argument typeargu length
+simpl simplenam simpl simplenam simpl simplenam ast
+simpl simplenam intern set identifi internalsetidentifi string token start index startingindex
+simpl simplenam index start index startingindex
+start posit start index startingindex
+end posit start index startingindex
+simpl simplenam set sourc rang setsourcerang start end start
+record pend scope resolut recordpendingnamescoperesolut simpl simplenam
+qualifi type qualifiedtyp qualifi type qualifiedtyp qualifi type qualifiedtyp ast
+qualifi type qualifiedtyp set qualifi setqualifi current type currenttyp
+qualifi type qualifiedtyp set setnam simpl simplenam
+resolv bind resolvebind
+record node recordnod simpl simplenam type refer typerefer
+record node recordnod qualifi type qualifiedtyp type refer typerefer
+start current type currenttyp start posit getstartposit
+end simpl simplenam start posit getstartposit simpl simplenam length getlength
+qualifi type qualifiedtyp set sourc rang setsourcerang start end start
+index enclos type indexofenclosingtyp
+type argument typeargu start index startingindex
+qualifi type qualifiedtyp index index enclos type indexofenclosingtyp
+parameter type parameterizedtyp parameter type2 parameterizedtype2 parameter type parameterizedtyp ast
+parameter type2 parameterizedtype2 set type settyp qualifi type qualifiedtyp
+parameter type2 parameterizedtype2 index index enclos type indexofenclosingtyp
+resolv bind resolvebind
+record node recordnod parameter type2 parameterizedtype2 type refer typerefer
+max type argument typeargu start index startingindex length max
+type type2 convert type converttyp type argument typeargu start index startingindex
+parameter type2 parameterizedtype2 type argument typeargu add type2
+end type2 start posit getstartposit type2 length getlength
+end retriev close angl bracket posit retrieveclosinganglebracketposit end
+length end
+parameter type2 parameterizedtype2 set sourc rang setsourcerang start end start
+current type currenttyp parameter type2 parameterizedtype2
+current type currenttyp qualifi type qualifiedtyp
+qualifi type qualifiedtyp index index enclos type indexofenclosingtyp
+start index startingindex
+resolv bind resolvebind
+record node recordnod current type currenttyp type refer typerefer
+type current type currenttyp
+length sourc start sourcestart
+org aspectj org eclips jdt intern compil ast qualifi type refer qualifiedtyperefer type refer typerefer type gettypenam
+length namelength length
+posit org aspectj org eclips jdt intern compil ast qualifi type refer qualifiedtyperefer type refer typerefer sourc posit sourceposit
+sourc start sourcestart posit
+length posit length namelength sourc start sourcestart
+qualifi qualifiednam set qualifi sourc rang setqualifiednamenameandsourcerang posit type refer typerefer
+simpl type simpletyp simpl type simpletyp simpl type simpletyp ast
+simpl type simpletyp set setnam qualifi qualifiednam
+type simpl type simpletyp
+type set sourc rang setsourcerang sourc start sourcestart length
+dimens
+type ast arrai type newarraytyp type dimens
+resolv bind resolvebind
+complet record completerecord arrai type arraytyp type type refer typerefer
+end retriev end dimens posit retrieveendofdimensionsposit sourc start sourcestart length compil unit sourc length compilationunitsourcelength
+end
+type set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+type set sourc rang setsourcerang sourc start sourcestart length
+arrai type arraytyp subarrai type subarraytyp arrai type arraytyp type
+index dimens
+index
+subarrai type subarraytyp arrai type arraytyp subarrai type subarraytyp compon type getcomponenttyp
+end retriev proper bracket posit retrieveproperrightbracketposit index sourc start sourcestart
+subarrai type subarraytyp set sourc rang setsourcerang sourc start sourcestart end sourc start sourcestart
+index
+resolv bind resolvebind
+record node recordnod type type refer typerefer
+type

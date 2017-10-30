@@ -1,0 +1,15 @@
+ad regress model updat
+param seri observ depend variabl
+entir data set load memori observ
+estim regress statist calcul
+regress model allow dynam updat data
+rectangular
+param seri observ independ variabl
+length
+version
+add seri observ regress model length
+add observ addobserv
+model specif except modelspecificationexcept code rectangular match
+org apach common math stat regress
+length code suffici data estim model
+updat multipl linear regress updatingmultiplelinearregress

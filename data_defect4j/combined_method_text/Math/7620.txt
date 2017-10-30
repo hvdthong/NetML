@@ -1,0 +1,25 @@
+guess paramet
+org apach common math optim fit
+fwhm fwhmx2 interpol interpolatexati point max idx maxyidx half halfi
+fwhm approx fwhmapprox
+point
+guess paramet arrai code code
+fwhm approx fwhmapprox fwhm fwhmx2 fwhm fwhmx1
+min idx minyidx find min findmini point
+rang except outofrangeexcept
+link parametr gaussian function parametricgaussianfunct base observ
+param
+param point max idx maxyidx geti
+fwhm approx fwhmapprox point point length getx point getx
+version revis date
+param point max idx maxyidx getx
+param point min idx minyidx geti
+guess paramet base observ point
+arrai sort point creat weight observ point compar createweightedobservedpointcompar
+gaussian paramet guesser gaussianparametersguess
+param fwhm approx fwhmapprox math sqrt math log
+fwhm fwhmx1 interpol interpolatexati point max idx maxyidx half halfi
+param point observ point base guess
+basic guess basicguess weight observ point weightedobservedpoint point
+max idx maxyidx find max findmaxi point
+half halfi param param param

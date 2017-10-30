@@ -1,0 +1,15 @@
+pre
+calcul error varianc calculateerrorvari
+matrix
+abstract multipl linear regress abstractmultiplelinearregress
+real vector realvector residu calcul residu calculateresidu
+row column dimens design
+matrix xmatrix row dimens getrowdimens matrix xmatrix column dimens getcolumndimens
+calcul varianc error term
+version
+formula pre
+org apach common math3 stat regress
+residu dot product dotproduct residu
+error varianc estim
+var middot
+abstract base implement multipl linear regress multiplelinearregress

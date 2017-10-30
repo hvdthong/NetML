@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+pattern parser patternpars
+return
+exact annot type pattern exactannotationtypepattern pars simpl annot parsesimpleannotationnam
+eaten
+exact annot type pattern exactannotationtypepattern
+string buffer stringbuff annot annotationnam string buffer stringbuff
+annot annotationnam append pars identifi parseidentifi
+eat maybeeat
+annot annotationnam append
+annot annotationnam append pars identifi parseidentifi
+unresolv type unresolvedtyp type unresolv type unresolvedtyp fornam annot annotationnam string tostr
+exact annot type pattern exactannotationtypepattern type

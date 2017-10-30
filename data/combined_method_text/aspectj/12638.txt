@@ -1,0 +1,22 @@
+org aspectj apach bcel classfil
+class repres tabl line number debug
+purpos attribut code attribut
+pair pc line number
+version linenumbert java aclement exp
+author href mailto marku dahm berlin dahm
+code
+asc feb06 made unpack lazi
+line number tabl linenumbert attribut
+unpack
+pack state isinpackedst
+byte arrai input stream bytearrayinputstream byte arrai input stream bytearrayinputstream data
+data input stream datainputstream di data input stream datainputstream
+line number tabl length di read unsign short readunsignedshort
+line number tabl line number linenumb line number tabl length
+line number tabl length
+line number tabl line number linenumb di
+di close
+data data null throw
+except ioexcept
+runtim except runtimeexcept unpack linenumbert attribut fail
+pack state isinpackedst

@@ -1,0 +1,20 @@
+org apach common math3 fraction
+param numer
+arithmet except arithmeticexcept
+creat code big fraction bigfract code instanc part fraction
+numer
+numer 'three sevenths'
+represent ration number overflow
+big fraction bigfract
+denomin code code
+denomin 'three sevenths'
+big fraction bigfract reduc fraction getreducedfract numer
+version
+reduc
+normal
+fraction instanc numer denomin
+big fraction bigfract numer denomin
+immut
+neg sign resolv numer
+denomin
+param denomin

@@ -1,0 +1,6 @@
+org aspectj apach bcel gener annot
+annot gen annotationgen
+string type signatur gettypesignatur
+constantclass constantclass cpool getconst typeindex
+constant utf8 constantutf8 utf8 constant utf8 constantutf8 cpool constant getconst type index typeindex constantutf8 utf8 constantutf8 cpool getconst typeindex getnameindex
+utf8 byte getbyt

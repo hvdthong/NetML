@@ -1,0 +1,8 @@
+org aspectj tool ajbrows
+respons control editor
+todo remov coupl code basiceditor code
+author mik kersten
+editor manag editormanag
+notifi current file chang notifycurrentfilechang string file path filepath
+iter editor listen editorlisten iter hasnext
+editor listen editorlisten current file chang currentfilechang file path filepath

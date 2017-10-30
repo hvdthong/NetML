@@ -1,0 +1,32 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+param buildfresh true forc full build fals
+build dobuild build fresh buildfresh
+build fresh buildfresh
+build fresh buildfresh updat asm manag inform updateasmmanagerinform
+start notifi startnotifi
+record option pass compil
+handl messag handlemessag messag format option string getformattedoptionsstr messag imessag info
+compil weav context compilationandweavingcontext reset
+build config ajbuildconfig build config buildconfig gen build config genajbuildconfig
+build config buildconfig
+build fresh buildfresh
+build manag ajbuildmanag batch build batchbuild build config buildconfig msg handler adapt msghandleradapt
+build manag ajbuildmanag increment build incrementalbuild build config buildconfig msg handler adapt msghandleradapt
+increment state manag incrementalstatemanag record success build recordsuccessfulbuild compil getid build manag ajbuildmanag state getstat
+config parser configpars pars except parseexcept
+handl messag handlemessag messag config file entri invalid file file getfil path getpath
+line number line getlin messag imessag warn
+abort except abortexcept
+messag imessag messag messag getimessag
+messag
+handl messag handlemessag messag lang util langutil unqualifi class unqualifiedclassnam thrown
+messag getmessag messag imessag error
+handl messag handlemessag messag messag messag getmessag
+compil weav context compilationandweavingcontext current context getcurrentcontext messag imessag error
+throwabl
+handl messag handlemessag messag compil error lang util langutil unqualifi class unqualifiedclassnam thrown
+messag getmessag messag imessag abort
+compil build progress monitor getbuildprogressmonitor finish build manag ajbuildmanag full build wasfullbuild

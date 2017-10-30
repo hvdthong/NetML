@@ -1,0 +1,58 @@
+version nelder mead neldermead java 39z luc
+cost costc cost costr
+largest xlargest simplex point getpoint
+point
+centroid scale
+except cost except costexcept function evalu
+cost except costexcept
+replac worst point replaceworstpoint point cost pair pointcostpair cost cost
+smallest xsmallest sigma smallest xsmallest
+interest cost
+cost cost cost costr
+centroid rho centroid largest xlargest
+multi direct multidirect
+nelder mead neldermead
+accept reflect point
+dismiss worst point index
+scale
+smallest xsmallest simplex point
+cost costr largest
+comput centroid vertic
+cost costc evalu cost evaluatecost
+simplex point getpoint
+cost costr evalu cost evaluatecost
+largest secondlargest simplex cost
+smallest cost costr cost costr largest secondlargest
+centroid
+simplex point dimens
+version revis date
+iter simplex iteratesimplex
+simplex length
+simplex point
+smallest simplex cost getcost
+nelder mead direct search method
+largest simplex cost getcost
+centroid khi centroid
+smallest xsmallest simplex point getpoint
+comput reflect point
+cost cost evalu cost evaluatecost
+centroid gamma centroid
+centroid gamma centroid largest xlargest
+accept expans point
+smallest simplex cost
+perform shrink
+comput expans point
+simplex point cost pair pointcostpair doubl nan
+accept contract point
+evalu simplex evaluatesimplex
+replac worst point replaceworstpoint point cost pair pointcostpair cost costr
+largest xlargest simplex point
+cost costc largest
+org apach common math optim
+comput simplex algorithm
+largest secondlargest simplex cost getcost
+perform insid contract
+replac worst point replaceworstpoint point cost pair pointcostpair cost costc
+perform contract
+cost costr smallest
+largest simplex cost

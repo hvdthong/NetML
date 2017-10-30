@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+posit implement positionandimpl list initi shadow initializationshadow
+iter initi shadow initializationshadow iter hasnext
+bcel shadow bcelshadow bcel shadow bcelshadow
+posit initi shadow positioninitializationshadow
+getenclosingmethod print
+implement

@@ -1,0 +1,7 @@
+IOException while closing TarOutputStream twice
+When TarOutputStream is closed twice, it throws an exception because closing the
+stream involve writing to the stream, and there is no check if the stream is
+already closed.
+
+All streams in the Java base libraries can be closed twice, and
+file:///home/oysteigi/inn/docs/api/index.html says it explicitly.

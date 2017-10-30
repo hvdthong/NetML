@@ -1,0 +1,1 @@
+dateutils issamelocaltime work correct found bug dateutils class method issamelocaltime calendar calendar getinstance settimeinmillis 1297364400000l calendar calendar getinstance settimeinmillis 1297321200000l assert assertfalse dateutils issamelocaltime method compares cal1 calendar hour cal2 calendar hour cal1 calendar hour day cal2 calendar hour day

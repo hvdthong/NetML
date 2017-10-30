@@ -1,0 +1,25 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+set lint mode setlintmod string lint mode lintmod
+lint mode lintmod lint mode lintmod
+string lint lintvalu
+ajlint ignor ajlint ignor equal lint mode lintmod
+lint lintvalu compil option ajcompileropt ignor
+ajlint warn ajlint warn equal lint mode lintmod
+lint lintvalu compil option ajcompileropt warn
+ajlint error ajlint error equal lint mode lintmod
+lint lintvalu compil option ajcompileropt error
+lint lintvalu
+map lint option lintopt hash map hashmap
+lint option lintopt put compil option ajcompileropt option report invalid absolut type option reportinvalidabsolutetypenam lint lintvalu
+lint option lintopt put compil option ajcompileropt option report invalid wildcard type option reportinvalidwildcardtypenam lint lintvalu
+lint option lintopt put compil option ajcompileropt option report unresolv member option reportunresolvablememb lint lintvalu
+lint option lintopt put compil option ajcompileropt option report type expos weaver option reporttypenotexposedtoweav lint lintvalu
+lint option lintopt put compil option ajcompileropt option report shadow structur option reportshadownotinstructur lint lintvalu
+lint option lintopt put compil option ajcompileropt option report unmatch super type call option reportunmatchedsupertypeincal lint lintvalu
+lint option lintopt put compil option ajcompileropt option report implement lazi tjp option reportcannotimplementlazytjp lint lintvalu
+lint option lintopt put compil option ajcompileropt option report serial version uid field option reportneedserialversionuidfield lint lintvalu
+lint option lintopt put compil option ajcompileropt option report incompat serial version option reportincompatibleserialvers lint lintvalu
+option set lint option lintopt

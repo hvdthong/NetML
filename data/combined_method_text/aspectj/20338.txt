@@ -1,0 +1,47 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+resolvedmemb discov real annot
+resolvedmemb content effect signatur
+attribut time annot store directli
+resolvedmemb
+param sig pretend 'int somesuch itd thing
+param declaredsig real sig 'blah ajc xxx'
+fix annot resolv member fixannotationsforresolvedmemb resolv member resolvedmemb resolv member resolvedmemb declar sig declaredsig
+unresolv type unresolvedtyp member host type memberhosttyp declar sig declaredsig declar type getdeclaringtyp
+resolv type resolvedtyp annot resolv type resolvedtyp map annot maptoannot
+string method methodnam declar sig declaredsig getnam
+fixm asc shouldnt reli string name
+annot
+kind getkind member field
+method methodnam start startswith ajc inlineaccessfield
+resolv member resolvedmemb resolv dooberri resolveddooberri world resolv
+annot resolv dooberri resolveddooberri annot type getannotationtyp
+resolv member resolvedmemb realth ajc member maker ajcmembermak inter field initi interfieldiniti member host type memberhosttyp
+resolv member resolvedmemb resolv dooberri resolveddooberri world resolv realth
+annot resolv dooberri resolveddooberri annot type getannotationtyp
+kind getkind member method abstract isabstract
+method methodnam start startswith ajc inlineaccessmethod method methodnam start startswith ajc superdispatch
+resolv member resolvedmemb resolv dooberri resolveddooberri world resolv declar sig declaredsig
+annot resolv dooberri resolveddooberri annot type getannotationtyp
+resolv member resolvedmemb realth ajc member maker ajcmembermak inter method dispatch intermethoddispatch resolv world member host type memberhosttyp resolv world
+resolvedmemb resolveddooberri world resolv realth
+resolv member resolvedmemb real member therealmemb find resolv member name findresolvedmembernam member host type memberhosttyp resolv world realth getnam
+amc temp guard
+real member therealmemb
+unsupport oper except unsupportedoperationexcept limit find itd member type variabl argument upper bound
+annot real member therealmemb annot type getannotationtyp
+kind getkind member constructor
+resolv member resolvedmemb real thing realth ajc member maker ajcmembermak post introduc constructor postintroducedconstructor member host type memberhosttyp resolv world declar type getdeclaringtyp paramet type getparametertyp
+resolv member resolvedmemb resolv dooberri resolveddooberri world resolv real thing realth
+amc temp guard
+resolv dooberri resolveddooberri
+unsupport oper except unsupportedoperationexcept limit find itd member type variabl argument upper bound
+annot resolv dooberri resolveddooberri annot type getannotationtyp
+annot
+annot resolv type resolvedtyp
+map annot maptoannot put annot
+set annot type setannotationtyp annot
+unsupport oper except unsupportedoperationexcept
+throwabl
+fixm asc remov catch test confirm stuff
+except bcexcept unexpectedli bang search annot

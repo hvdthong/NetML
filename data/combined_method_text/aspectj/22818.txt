@@ -1,0 +1,17 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+fuzzi boolean fuzzyboolean star instar type pattern typepattern pattern resolv type resolvedtyp target
+left pleft left tleft
+star left starsleft type pattern typepattern match kind matchkind kind
+invari pleft run star find real char pattern
+type pattern typepattern pattern char patternchar pattern
+pattern char patternchar type pattern typepattern ellipsi
+star left starsleft
+pattern char patternchar pattern
+invari tleft target length
+left pleft left tleft fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean pattern char patternchar match target kind
+true maybetru
+fuzzi boolean fuzzyboolean star outofstar pattern target left pleft left tleft star left starsleft kind
+true maybetru
+left tleft

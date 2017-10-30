@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+weav object entri weaveperobjectentri bcel advic bceladvic munger bcel var bcelvar var onvar
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist entri instruct entryinstruct instruct list instructionlist
+instruct list instructionlist entri success instruct entrysuccessinstruct instruct list instructionlist
+var onvar append load appendload entri success instruct entrysuccessinstruct fact
+entri success instruct entrysuccessinstruct append
+util creat invok createinvok fact world
+ajc member maker ajcmembermak object bind perobjectbind munger concret aspect getconcreteaspect
+instruct list instructionlist test instruct testinstruct
+munger test instruct gettestinstruct entri success instruct entrysuccessinstruct start getstart
+rang real start getrealstart
+entri success instruct entrysuccessinstruct start getstart
+entri instruct entryinstruct append test instruct testinstruct
+entri instruct entryinstruct append entri success instruct entrysuccessinstruct
+rang insert entri instruct entryinstruct rang insid insidebefor

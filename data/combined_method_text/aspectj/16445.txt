@@ -1,0 +1,45 @@
+org aspectj intern tool build
+sampl util sampleutil
+read packag statement file determin
+packag path file
+param path file seek packag
+return javafil compon path
+java file javafil java file getjavafil file path
+path
+illeg argument except illegalargumentexcept null path
+string result path path getpath replac
+string packag
+string java path javapath
+string prefix
+throwabl thrown
+result end endswith java result end endswith
+file reader fileread reader
+reader file reader fileread path
+buffer reader bufferedread buffer reader bufferedread reader
+string line
+line read line readlin
+loc line index indexof packag
+loc
+end line index indexof
+loc
+string untermin packag statement
+error line path
+packag line substr loc end
+trim
+replac
+loc line index indexof import
+loc
+except ioexcept
+thrown
+reader
+reader close
+except ioexcept
+ignor
+thrown
+java path javapath packag path getnam
+loc result index indexof java path javapath
+loc
+string expect suffix java path javapath
+error result
+prefix result substr loc
+java file javafil path java path javapath prefix thrown

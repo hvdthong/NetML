@@ -1,0 +1,9 @@
+param dim common dimens domain codomain
+precondition typic fall categori
+defin link real linear oper reallinearoper invert
+org apach common math linear
+dim dim
+version
+invert real linear oper invertiblereallinearoper real linear oper reallinearoper
+invert real linear oper invertiblereallinearoper dim
+creat instanc dimens

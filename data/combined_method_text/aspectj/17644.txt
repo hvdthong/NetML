@@ -1,0 +1,19 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+main
+control command control commandcontrol
+command commandnam reflect factori reflectionfactori eclips
+handler ourhandl messag handler messagehandl

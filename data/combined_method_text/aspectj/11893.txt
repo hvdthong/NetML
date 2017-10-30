@@ -1,0 +1,32 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+write resourc writeresourc string filenam content file src locat srclocat except ioexcept
+state resourc hasresourc filenam
+messag imessag msg messag duplic resourc filenam
+messag imessag warn
+sourc locat sourceloc src locat srclocat
+handler handl messag handlemessag msg
+filenam equal build config buildconfig outxml getoutxmlnam
+ignor outxml ignoreoutxml
+messag imessag msg messag outxml outxmlfil option resourc exist filenam
+messag imessag warn
+sourc locat sourceloc src locat srclocat
+handler handl messag handlemessag msg
+zo
+zip entri zipentri entri newentri zip entri zipentri filenam zipentri newentri zipentri filenam compress scheme
+zo put entri putnextentri entri newentri
+zo write content
+zo close entri closeentri
+file dest dir destdir build config buildconfig output dir getoutputdir
+build config buildconfig compil result destin manag getcompilationresultdestinationmanag
+dest dir destdir build config buildconfig compil result destin manag getcompilationresultdestinationmanag output locat resourc getoutputlocationforresourc src locat srclocat
+output stream outputstream fo
+file util fileutil make output stream makeoutputstream file dest dir destdir filenam
+fo write content
+fo close
+file found except filenotfoundexcept fnfe
+messag imessag msg messag unabl copi resourc output folder filenam reason fnfe messag getmessag
+messag imessag error
+sourc locat sourceloc src locat srclocat
+handler handl messag handlemessag msg
+state record resourc recordresourc filenam

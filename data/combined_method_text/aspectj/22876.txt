@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+author colyer
+list type variabl specif
+type variabl pattern list typevariablepatternlist pattern node patternnod
+object travers pattern node visitor patternnodevisitor visitor object data
+object ret accept visitor data
+pattern length
+pattern travers visitor ret
+ret

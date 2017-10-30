@@ -1,0 +1,60 @@
+overrid
+append buffer outbuff min getmin min
+ad
+comput statist stream tupl construct
+buffer outbuff append getn
+append buffer outbuff min getmin min separ suffix
+append buffer outbuff max getmax max
+input tupl code add addvalu code call
+append buffer outbuff sum log getsumlog sum logarithm separ suffix
+append buffer outbuff geometr getgeometricmean geometr separ suffix
+link add addvalu add tupl code xxx getxxx code
+statist data rang consist element
+code sum getsum code element arrai valu
+org apach common math stat descript
+summari statist valu
+paramet method implement
+method xxx statist arrai code code
+call link set impl setmeanimpl storeless univari statist storelessunivariatestatist actual
+string string tostr
+memori comput statist larg
+tupl stream
+gener text report displai
+comput summari statist stream tupl ad
+version
+version revis date
+link storeless univari statist storelessunivariatestatist configur
+note thread safe
+common math provid implement
+multivari statist multivariatestatist instanc dimens
+append buffer outbuff getmean
+implement overridden
+string line feed displai statist
+append buffer outbuff sum log getsumlog sum logarithm
+append buffer outbuff sum getsumsq sum squar
+buffer outbuff append covari covari getcovari string tostr
+version revis date dim févr
+complet code add addvalu code call configur
+append buffer outbuff geometr getgeometricmean geometr
+link storeless univari statist storelessunivariatestatist instanc maintain
+multivari summari statist multivariatesummarystatist
+link add addvalu add addvalu method data valu store
+summari state comput statist configur setter
+append buffer outbuff max getmax max separ suffix
+buffer outbuff string tostr
+string separ
+buffer outbuff append getn suffix
+buffer outbuff append covari covari getcovari string tostr suffix
+buffer outbuff append multivari summari statist multivariatesummarystatist
+string suffix system properti getproperti line separ
+valu code code arrai element
+append buffer outbuff sum getsumsq sum squar separ suffix
+append buffer outbuff getmean separ suffix
+append buffer outbuff standard deviat getstandarddevi standard deviat
+buffer outbuff append multivari summari statist multivariatesummarystatist suffix
+actual paramet
+append buffer outbuff standard deviat getstandarddevi standard deviat separ suffix
+string buffer stringbuff buffer outbuff string buffer stringbuff
+string builder stringbuild buffer outbuff string builder stringbuild
+link synchron multivari summari statist synchronizedmultivariatesummarystatist concurr access multipl
+thread requir

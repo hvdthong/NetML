@@ -1,0 +1,9 @@
+SignJar.isSigned checks for alias instead of sigfile
+If one specifies a "sigfile" that differs from the "alias", the method isSigned(File) in class SignJar yields wrong results. It ignores the sigfile and always uses alias for the signature filename.
+
+The bug still exists in nightly build 20080410224908.
+
+Possible bug fix: in the method SignJar.isSigned(File), the line
+   return IsSigned.isSigned(file, alias);
+should be replaced by
+   return IsSigned.isSigned(file, sigfile != null ? sigfile : alias);

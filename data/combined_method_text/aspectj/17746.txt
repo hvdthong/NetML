@@ -1,0 +1,12 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+set code nocom code flag
+param nocom true turn flag
+ajc2 nocom
+set nocom setnocom nocom
+nocom nocom

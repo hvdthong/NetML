@@ -1,0 +1,10 @@
+deprec remov
+param checker converg checker
+abstract differenti optim abstractdifferentiableoptim
+abstract differenti optim abstractdifferentiableoptim converg checker convergencecheck point pair pointvaluepair checker
+org apach common math3 optim gener
+boiler plate code deal gradient evalu
+checker
+version
+differenti function
+base implement optim multivari scalar

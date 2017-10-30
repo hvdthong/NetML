@@ -1,0 +1,8 @@
+param arrai arrai oper
+math arrai matharrai
+org apach common math3 util
+result oper
+arrai util
+oper entir arrai
+version
+evalu arrai

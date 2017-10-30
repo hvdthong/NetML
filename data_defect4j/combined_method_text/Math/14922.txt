@@ -1,0 +1,15 @@
+khi gamma
+org apach common math3 optim nonlinear scalar noderiv
+gamma gamma
+multi direct simplex multidirectionalsimplex step
+version
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+neg
+param khi expans coeffici
+step
+multi direct direct search method
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+khi khi
+param step step canon ax repres box edg
+build multi direct simplex coeffici

@@ -1,0 +1,7 @@
+org aspectj intern tool ant taskdef
+instal ajinstal match task matchingtask
+copi copi task getcopytask
+copi copi project creat task createtask copi
+log project createtask copi fail direct project msg verbos msg verbos
+copi
+set project setproject project getproject

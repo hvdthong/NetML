@@ -1,0 +1,16 @@
+exceed
+param func type function solv
+version
+solver
+root
+solv dosolv
+bracket except nobracketingexcept initi search interv bracket
+evalu except toomanyevaluationsexcept maxim number evalu
+method implement actual optim algorithm deriv
+evalu except toomanyevaluationsexcept bracket except nobracketingexcept
+provid implement function gener
+version revis date wed nov
+org apach common math analysi solver
+class
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+root solver requir

@@ -1,0 +1,15 @@
+org aspectj ajd intern
+user prefer store userpreferencesstor user prefer adapt userpreferencesadapt
+save properti saveproperti
+persist
+file output stream fileoutputstream
+string path
+path properti file path getpropertiesfilepath
+file output stream fileoutputstream path
+properti store ajd set
+except ioexcept ioe
+messag msg messag error write properti path messag imessag error ioe
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+close
+except ioexcept
+ignor

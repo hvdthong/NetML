@@ -1,0 +1,21 @@
+vector2 vector2d end doubl infinit isinfinit upper getupp
+add contribut addcontribut hyperplan subhyperplan euclidean2 euclidean2d revers
+line line line hyperplan gethyperplan
+vector2 vector2d line space tospac vector1 vector1d lower getlow
+list interv interv interv set intervalsset ab abssub remain region getremainingregion list aslist
+vector2 vector2d start doubl infinit isinfinit lower getlow
+sort insert compar segment comparableseg end start line revers getrevers
+interv interv
+version
+repres region set polygon
+vector2 vector2d line space tospac vector1 vector1d upper getupp
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+param boundari facet
+abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d
+add contribut boundari facet
+param revers facet insid side
+revers
+org apach common math geometri euclidean twod
+sort insert compar segment comparableseg start end line
+suppress warn suppresswarn uncheck
+abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d ab abssub

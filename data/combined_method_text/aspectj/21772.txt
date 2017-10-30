@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+type
+match resolv type resolvedtyp type typex
+type pattern typepattern match static matchesstat type typex
+type typex world getworld lint getlint type expos weaver typenotexposedtoweav enabl isen
+type typex expos weaver isexposedtoweav
+type typex world getworld lint getlint type expos weaver typenotexposedtoweav signal type typex getnam sourc locat getsourceloc

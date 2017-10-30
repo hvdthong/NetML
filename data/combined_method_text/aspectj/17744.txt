@@ -1,0 +1,14 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+overrid javac setexclud string set code haveexclud code
+code true code
+param exclud comma separ list exclud
+org apach tool taskdef javac setexclud java lang string
+set exclud setexclud string exclud
+exclud haveexclud
+set exclud setexclud exclud

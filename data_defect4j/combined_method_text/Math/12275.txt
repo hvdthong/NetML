@@ -1,0 +1,8 @@
+interv set intervalsset
+interv
+barycent interv
+barycent getbarycent
+lower upper
+version
+org apach common math3 geometri euclidean on
+repres interv

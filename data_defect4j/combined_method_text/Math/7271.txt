@@ -1,0 +1,18 @@
+param dimens simplex
+link abstract simplex abstractsimplex constructor set step
+version
+creat hypercub step createhypercubestep side length sidelength
+simplex concept
+build hypercub simplex side length
+org apach common math optim direct
+intend conjunct link simplex optim simplexoptim
+side length sidelength
+link abstract simplex abstractsimplex link abstract simplex abstractsimplex
+creat data structur act method
+version revis date
+simplex optim simplexoptim
+user call link build build method order
+abstract simplex abstractsimplex
+build configur unit hypercub
+initi configur simplex set constructor
+param side length sidelength length side hypercub

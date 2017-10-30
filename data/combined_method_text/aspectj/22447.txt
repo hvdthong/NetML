@@ -1,0 +1,26 @@
+org aspectj weaver pattern
+pattern parser patternpars
+cover 'lock 'unlock pointcut
+kind pointcut kindedpointcut pars monitor pointcut parsemonitorpointcut string kind
+eat
+type pattern typepattern type type pattern typepattern
+eat
+kind equal lock
+kind pointcut kindedpointcut shadow synchron lock synchronizationlock
+signatur pattern signaturepattern member monitorent modifi pattern modifierspattern
+type pattern typepattern
+type pattern typepattern
+type
+pattern namepattern
+type pattern list typepatternlist
+throw pattern throwspattern
+annot type pattern annotationtypepattern
+kind pointcut kindedpointcut shadow synchron unlock synchronizationunlock
+signatur pattern signaturepattern member monitorent modifi pattern modifierspattern
+type pattern typepattern
+type pattern typepattern
+type
+pattern namepattern
+type pattern list typepatternlist
+throw pattern throwspattern
+annot type pattern annotationtypepattern

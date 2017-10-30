@@ -1,0 +1,6 @@
+org aspectj ajd core
+interfac configur requir
+compil perform build
+compil configur icompilerconfigur
+return list file includ build
+list project sourc file getprojectsourcefil public list string getprojectsourcefil

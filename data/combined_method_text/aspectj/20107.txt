@@ -1,0 +1,14 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+unresolv gener wildcard repres unresolvedtyp resolv version boundedreferencetyp
+refer type referencetyp resolv gener wildcard resolvegenericwildcardfor unresolv type unresolvedtyp type atyp
+bound refer type boundedreferencetyp ret
+fixm asc doesnt account addit interfac bound super serializ
+type atyp extend isextend
+refer type referencetyp upper bound upperbound refer type referencetyp resolv type atyp upper bound getupperbound
+ret bound refer type boundedreferencetyp upper bound upperbound
+type atyp super issup
+refer type referencetyp lower bound lowerbound refer type referencetyp resolv type atyp lower bound getlowerbound
+ret bound refer type boundedreferencetyp lower bound lowerbound
+ret

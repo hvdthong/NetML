@@ -1,0 +1,9 @@
+weight getweight
+weight
+simpl contain weight observ point
+link curv fitter curvefitt curv fit
+org apach common math3 fit
+instanc guarante immut
+weight observ point weightedobservedpoint serializ
+weight measur fit process
+version weight observ point weightedobservedpoint java 14z

@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+type super constructor paramet type getsuperconstructorparametertyp
+assert getkind preiniti
+instruct handl instructionhandl super call handl supercallhandl rang getrang end getend getnext
+invok instruct invokeinstruct super call instruct supercallinstruct
+invok instruct invokeinstruct super call handl supercallhandl instruct getinstruct
+super call instruct supercallinstruct argument type getargumenttyp
+enclos class getenclosingclass constant pool gen getconstantpoolgen

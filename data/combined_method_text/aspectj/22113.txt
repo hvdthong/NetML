@@ -1,0 +1,54 @@
+org aspectj weaver pattern
+kind pointcut kindedpointcut pointcut
+warn confus sig warnonconfusingsig shadow shadow
+process
+shadow world getiworld lint getlint unmatch super type call unmatchedsupertypeincal enabl isen
+warn declar error warn
+munger checker
+world world shadow world getiworld
+warn need declar type
+unresolv type unresolvedtyp exact declar type exactdeclaringtyp signatur declar type getdeclaringtyp exact type getexacttyp
+resolv type resolvedtyp shadow declar type shadowdeclaringtyp
+shadow signatur getsignatur declar type getdeclaringtyp resolv world
+signatur declar type getdeclaringtyp star isstar
+resolv type resolvedtyp miss ismiss exact declar type exactdeclaringtyp
+exact declar type exactdeclaringtyp resolv world miss ismiss
+warn need match type declar type
+shadow declar type shadowdeclaringtyp assign isassignablefrom exact declar type exactdeclaringtyp resolv world
+method declar type visibl
+exact declar type warn need
+resolv member resolvedmemb shadow signatur getsignatur resolv world
+null case binari weav class call method class
+class incompat method exist target class anymor
+report
+shadow modifi shadowmodifi modifi getmodifi
+resolv type resolvedtyp
+visibl isvis
+shadow modifi shadowmodifi
+shadow declar type shadowdeclaringtyp
+exact declar type exactdeclaringtyp resolv world
+signatur return type getreturntyp match static matchesstat shadow signatur getsignatur return type getreturntyp resolv world
+covari issu
+reason match type pattern pointcut car match
+return type specif declar shadow fastcar getcar
+xxx put xlint case
+pr60015 report warn declar type object 'this' interfac
+exact declar type exactdeclaringtyp resolv world interfac isinterfac shadow declar type shadowdeclaringtyp equal world resolv java lang object
+signatur pattern signaturepattern confus pattern nonconfusingpattern
+signatur pattern signaturepattern
+signatur kind getkind
+signatur modifi getmodifi
+signatur return type getreturntyp
+type pattern typepattern
+signatur getnam
+signatur paramet type getparametertyp
+signatur throw pattern getthrowspattern
+signatur annot pattern getannotationpattern
+confus pattern nonconfusingpattern
+match shadow signatur getsignatur shadow world getiworld
+shadow world getiworld lint getlint unmatch super type call unmatchedsupertypeincal signal
+string
+shadow signatur getsignatur declar type getdeclaringtyp string tostr
+signatur declar type getdeclaringtyp string tostr
+sourc locat getsourceloc
+sourc locat isourceloc shadow sourc locat getsourceloc

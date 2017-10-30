@@ -1,0 +1,13 @@
+overrid
+precondition
+org apach common math linear
+inherit doc inheritdoc
+jacobi precondition jacobiprecondition real linear oper reallinearoper
+matrix precondition
+version
+diag dimens getdimens
+diag hellip
+standard jacobi diagon precondition
+jacobi precondition jacobiprecondition
+column dimens getcolumndimens
+link creat real linear oper reallinearoper return invers

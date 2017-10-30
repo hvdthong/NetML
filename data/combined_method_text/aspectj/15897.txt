@@ -1,0 +1,17 @@
+org aspectj bridg
+handl messag log abort
+implement defin messag log
+handler abort process
+messag costli construct client queri
+link isignor imessag kind
+avoid construct messag
+client pass messag imessagehandl
+interfer abort catch abortexcept
+requir logic messag handler
+messag handler imessagehandl
+handl messag report throw abortexcept
+param messag imessag handl null
+return true messag handl handler
+throw illegalargumentexcept messag null
+throw abortexcept depend handler logic
+handl messag handlemessag messag imessag messag abort except abortexcept

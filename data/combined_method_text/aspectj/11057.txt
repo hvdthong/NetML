@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+string buffer stringbuff print bodi printbodi indent string buffer stringbuff output
+output append
+pointcut design pointcutdesign
+output append pointcut design pointcutdesign string tostr
+print bodi printbodi indent output

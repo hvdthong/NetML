@@ -1,0 +1,13 @@
+base implement optim multivari necessarili
+param max evalu maxevalu maximum number evalu
+param checker converg checker
+differenti scalar function
+param max iter maxiter maximum number iter
+org apach common math optim gener
+param converg checker convergencecheck converg checker
+max evalu maxevalu
+version revis date
+checker max iter maxiter max evalu maxevalu
+abstract scalar optim abstractscalaroptim real converg checker realconvergencecheck checker
+max iter maxiter
+abstract scalar optim abstractscalaroptim

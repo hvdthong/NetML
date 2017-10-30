@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener cflow ajc clinit method generatepercflowajcclinitmethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak ajc pre clinit method ajcpreclinitmethod aspect type aspecttyp
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+instruct list instructionlist method bodi getbodi
+append factori creat createnew ajc member maker ajcmembermak cflow stack type cflow stack type getnam
+append instruct constant instructionconst dup
+append factori creat invok createinvok ajc member maker ajcmembermak cflow stack type cflow stack type getnam init type void type arg arg constant invokespeci
+append util creat set createset factori ajc member maker ajcmembermak cflow field percflowfield aspect type aspecttyp
+append instruct factori instructionfactori creat return createreturn type void
+patch clinit deleg ajc preclinit begin
+lazi method gen lazymethodgen clinit class gen classgen static initi getstaticiniti
+instruct list instructionlist
+append factori creat invok createinvok aspect type aspecttyp getnam mangler namemangl ajc pre clinit ajc pre clinit type void type arg arg constant invokestat
+clinit bodi getbodi insert

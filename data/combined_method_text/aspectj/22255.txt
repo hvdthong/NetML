@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+left
+bind formal explicitli forbidden composit languag
+author erik hilsdal
+author jim hugunin
+type pattern ortypepattern type pattern typepattern
+object travers pattern node visitor patternnodevisitor visitor object data
+object ret accept visitor data
+left travers visitor ret
+travers visitor ret
+ret

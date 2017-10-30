@@ -1,0 +1,14 @@
+org aspectj ajd intern
+read write build configur lst file
+author mik kersten
+lst build config file updat lstbuildconfigfileupdat
+sort write duplic
+param filecont full path repres file entri
+write config file writeconfigfil string file path filepath list file content filecont
+set content set contentsset tree set treeset file content filecont
+string buffer stringbuff file content filecontentssb string buffer stringbuff
+iter content set contentsset iter
+hasnext
+file content filecontentssb append string tostr
+file content filecontentssb append
+write file writefil file content filecontentssb string tostr file path filepath

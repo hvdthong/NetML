@@ -1,0 +1,6 @@
+org/apache/commons/lang/StringEscapeUtils_escapeJava-String_String
+org/apache/commons/lang/StringEscapeUtils_escapeJava-Writer-String_void
+org/apache/commons/lang/StringEscapeUtils_escapeJavaScript-String_String
+org/apache/commons/lang/StringEscapeUtils_escapeJavaScript-Writer-String_void
+org/apache/commons/lang/StringEscapeUtils_escapeJavaStyleString-String-boolean_String
+org/apache/commons/lang/StringEscapeUtils_escapeJavaStyleString-Writer-String-boolean_void

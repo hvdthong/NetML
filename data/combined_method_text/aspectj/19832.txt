@@ -1,0 +1,23 @@
+org aspectj weaver
+simpl annot simpleannotationvalu annot annotationvalu
+string stringifi
+kind valuekind
+case 'b' byte
+byte string tostr byte thebyt
+case 'c' char
+charact char thechar string tostr
+case 'd' doubl
+doubl string tostr doubl thedoubl
+case 'f' float
+float string tostr float thefloat
+case 'i' int
+integ string tostr int theint
+case 'j' long
+long string tostr long thelong
+case 's' short
+short string tostr short theshort
+case 'z' boolean
+boolean boolean theboolean string tostr
+case 's' string
+string thestr
+except bcexcept understand kind kind valuekind

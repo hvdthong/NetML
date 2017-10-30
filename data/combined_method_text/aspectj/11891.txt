@@ -1,0 +1,15 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+write manifest writemanifest except ioexcept
+manifest manifest weaver getweav manifest getmanifest
+manifest zo
+file output dir outputdir build config buildconfig output dir getoutputdir
+build config buildconfig compil result destin manag getcompilationresultdestinationmanag
+manifest written jar inpath
+write manifest defaultoutputloc
+class inpath
+output dir outputdir build config buildconfig compil result destin manag getcompilationresultdestinationmanag default output locat getdefaultoutputloc
+output dir outputdir
+output stream outputstream fo file util fileutil make output stream makeoutputstream file output dir outputdir manifest manifest
+manifest write fo
+fo close

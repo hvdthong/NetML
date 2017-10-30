@@ -1,0 +1,12 @@
+org aspectj org eclips jdt core dom
+aspectdeclar dom ast node
+ajtypedeclar
+astnod call 'perclause'
+boolean call 'privileged'
+author ajh02
+aspect declar aspectdeclar type declar ajtypedeclar
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+properti perclaus properti perclaus properti
+claus getperclaus
+set claus setperclaus ast node astnod child
+intern set child properti internalgetsetchildproperti properti child

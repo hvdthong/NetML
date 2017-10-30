@@ -1,0 +1,15 @@
+org aspectj util
+file util fileutil
+flatten file string
+param file file path flatten null
+param infix string infix null treat file pathsepar
+string flatten string path string infix
+infix
+infix file path separ pathsepar
+string buffer stringbuff result string buffer stringbuff
+path length
+string path path
+path
+result append infix
+result append path
+result string tostr

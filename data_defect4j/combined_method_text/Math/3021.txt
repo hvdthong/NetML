@@ -1,0 +1,25 @@
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+tree cover real line
+orient point orientedpoint vector1 vector1d upper hyperplan wholehyperplan
+repres region set interv
+build insid tree repres singl interv
+doubl infinit isinfinit lower lower
+orient point orientedpoint vector1 vector1d lower hyperplan wholehyperplan
+built tree
+tree bound side
+param lower lower bound interv lesser equal
+version
+tree open posit infin side
+bsp tree bsptree euclidean1 euclidean1d boolean fals
+code lower code doubl posit infin
+tree open neg infin side
+bsp tree bsptree euclidean1 euclidean1d upper cut uppercut
+bsp tree bsptree euclidean1 euclidean1d boolean true
+hyperplan subhyperplan euclidean1 euclidean1d upper cut uppercut
+bsp tree bsptree euclidean1 euclidean1d lower cut lowercut
+code upper code doubl neg infin
+hyperplan subhyperplan euclidean1 euclidean1d lower cut lowercut
+doubl infinit isinfinit upper upper
+param upper upper bound interv greater equal
+org apach common math geometri euclidean on
+bsp tree bsptree euclidean1 euclidean1d build tree buildtre lower upper

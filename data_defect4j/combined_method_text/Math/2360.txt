@@ -1,0 +1,17 @@
+param arg argument
+param specif specif context pattern
+construct except specif context argument
+specif
+error thrown numer comput perform
+numer result fail converg finit
+converg except convergenceexcept localiz pattern
+object arg
+local format localizedformat converg fail
+converg except convergenceexcept localiz specif
+converg except convergenceexcept math illeg state except mathillegalstateexcept
+param pattern messag pattern provid specif context
+error
+version revis date
+add messag addmessag pattern arg
+arg
+org apach common math except

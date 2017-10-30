@@ -1,0 +1,14 @@
+org aspectj apach bcel util
+util class implement typesaf set javaclass object
+javaclass equal method class
+comparison
+version classset java aclement exp
+author href mailto marku dahm berlin dahm
+classstack
+class set classset java serializ
+add java class javaclass clazz
+result
+map kei containskei clazz class getclassnam
+result
+map put clazz class getclassnam clazz
+result

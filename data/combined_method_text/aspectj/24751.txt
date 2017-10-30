@@ -1,0 +1,22 @@
+org aspectj weaver
+member compar annot element annotatedel
+return object pair typex typex repres return type
+argument type pars jvm bytecod signatur method
+return nice static type pair object
+blockquot pre
+typex signaturetotyp equal type forsignatur
+typex signaturetotyp
+equal typex forsignatur string
+pre blockquot
+param signatur jvm bytecod method signatur string break
+return pair typex typex repres return type paramet type
+string type signatur typestosignatur type typex return type returntyp type typex param type paramtyp raw type userawtyp
+string buffer stringbuff buf string buffer stringbuff
+buf append
+len param type paramtyp length len
+param type paramtyp parameter isparameter raw type userawtyp buf append param type paramtyp raw type signatur getrawtypesignatur
+buf append param type paramtyp signatur getsignatur
+buf append
+return type returntyp parameter isparameter raw type userawtyp buf append return type returntyp raw type signatur getrawtypesignatur
+buf append return type returntyp signatur getsignatur
+buf string tostr

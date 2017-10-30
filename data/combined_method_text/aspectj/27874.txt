@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+annot foo annot foo
+match join point subject join point
+annot match annotationtypepattern
+join point kind subject
+method call target method
+method execut method
+constructor call constructor
+constructor execut constructor
+target field
+set target field
+adviceexecut advic
+initi constructor
+preiniti constructor
+staticiniti type initi
+handler declar type handl except
+annot pointcut annotationpointcut bind pointcut namebindingpointcut
+resolv member resolvedmemb find method findmethod resolv type resolvedtypex aspect type aspecttyp resolv member resolvedmemb ajc method ajcmethod
+resolv member resolvedmemb dec method decmethod aspect type aspecttyp declar method getdeclaredmethod
+dec method decmethod length
+resolv member resolvedmemb member dec method decmethod
+member equal ajc method ajcmethod member

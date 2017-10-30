@@ -1,0 +1,32 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+check pointcut declar checkpointcutdeclar
+resolv member resolvedmemb pointcut declar pointcut getdeclaredpointcut
+error sawerror
+len pointcut length len
+pointcut abstract isabstract
+aspect isaspect
+eclips world eclipseworld show messag showmessag messag imessag error
+abstract pointcut allow aspect pointcut getnam
+pointcut sourc locat getsourceloc
+error sawerror
+bind abstract isabstract
+eclips world eclipseworld show messag showmessag messag imessag error
+abstract pointcut concret aspect pointcut
+pointcut sourc locat getsourceloc
+error sawerror
+len
+pointcut getnam equal pointcut getnam
+eclips world eclipseworld show messag showmessag messag imessag error
+duplic pointcut pointcut getnam
+pointcut sourc locat getsourceloc pointcut sourc locat getsourceloc
+error sawerror
+check inherit pointcut handl
+error sawerror aspect isaspect
+find pointcut overrid super check overrid legal
+signatur greater equal visibl
+find inherit abstract pointcut make concret concret
+find inherit pointcut make conflict
+resolv type getresolvedtypex expos pointcut getexposedpointcut getresolvedtypex getexposedpointcut odd construct

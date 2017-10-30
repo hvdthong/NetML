@@ -1,0 +1,22 @@
+org aspectj ajdt intern compil ast
+author colyer
+creat aspectj annot ataspectjvisitor
+aspect annot factori ataspectjannotationfactori
+annot creat declar error warn annot createdeclareerrororwarningannot string pointcut express pointcutexpress string messag error iserror po
+type typenam org aspectj intern lang annot declar error warn declareerrororwarn
+posit type typenam length
+posit length posit po
+type refer typerefer ann type anntyp qualifi type refer qualifiedtyperefer type typenam posit
+normal annot normalannot ann normal annot normalannot ann type anntyp po
+express pcut expr pcutexpr string liter stringliter pointcut express pointcutexpress char arrai tochararrai po po
+express msg expr msgexpr string liter stringliter messag char arrai tochararrai po po
+express error expr iserrorexpr
+error iserror
+error expr iserrorexpr true liter trueliter po po
+error expr iserrorexpr fals liter falseliter po po
+member pair membervaluepair mvp member pair membervaluepair
+mvp member pair membervaluepair pointcut char arrai tochararrai po po pcut expr pcutexpr
+mvp member pair membervaluepair messag char arrai tochararrai po po msg expr msgexpr
+mvp member pair membervaluepair iserror char arrai tochararrai po po error expr iserrorexpr
+ann member pair membervaluepair mvp
+ann

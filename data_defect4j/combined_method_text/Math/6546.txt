@@ -1,0 +1,38 @@
+pre
+theta belong
+current time
+order rung kutta integr
+step comput interpol equat consist
+eighth step interpol threeeighthesstepinterpol
+coeff4 theta theta2 fourtheta2
+interpol state interpolatedst current state currentst
+theta previou time step current time step
+org apach common math od
+interpol comput dens output insid
+step interpol fourth
+deriv except derivativeexcept
+theta2 fourtheta2 theta theta
+coeff1 theta theta2 fourtheta2
+theta theta theta
+deriv class perform interpol
+evalu deriv comput
+coeff3 theta
+eighth integr threeeighthesintegr
+theta
+comput interpol state computeinterpolatedst theta
+underli user function trigger
+interpol state interpolatedst length
+version revis date
+integr scheme
+deriv except derivativeexcept except propag caller
+main process method implement
+param theta normal interpol abscissa step
+step
+comput state interpol time
+coeff1 dot ydotk coeff2 dot ydotk
+theta theta
+coeff3 dot ydotk coeff4 dot ydotk
+param minu theta oneminusthetah time gap interpol time
+coeff2 theta theta2 fourtheta2
+minu theta oneminusthetah
+version eighth step interpol threeeighthesstepinterpol java 39z luc

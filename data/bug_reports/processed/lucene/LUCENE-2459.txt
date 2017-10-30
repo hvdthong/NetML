@@ -1,0 +1,2 @@
+filterindexreader work correctly post flex segmentmerger
+indexwriter addindexes indexreader internally segmentmerger add data input index readers segmentmerger post flex api bypasses pre flex termenum termpositions api filterindexreader implements result filtering applied

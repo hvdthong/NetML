@@ -1,0 +1,20 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot pointcut withinannotationpointcut bind pointcut namebindingpointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+resolv type resolvedtyp enclos type enclosingtyp shadow world getiworld resolv shadow enclos type getenclosingtyp
+enclos type enclosingtyp miss ismiss
+shadow world getiworld lint getlint find type cantfindtyp signal
+string weaver messag weavermessag format weaver messag weavermessag find type withinpcd find type withinpcd
+shadow enclos type getenclosingtyp getnam
+shadow sourc locat getsourceloc
+sourc locat isourceloc sourc locat getsourceloc
+imessag msg messag
+weavermessag format weavermessag find type withinpcd
+shadow getenclosingtyp getnam
+shadow getsourceloc true isourceloc getsourceloc
+shadow getiworld getmessagehandl handlemessag msg
+annot type pattern annotationtypepattern resolv shadow world getiworld
+annot type pattern annotationtypepattern match enclos type enclosingtyp

@@ -1,0 +1,88 @@
+org aspectj weaver bcel
+access method field public bodi advic replac
+invoc wrapper call advic inlin
+munger aspect inlin wrapper compil time
+specif state logic munger ala itd call set pointcut match
+wrap member effectivesignatur attribut
+author href mailto alex gnilux dot alexandr vasseur
+bcel access inlin munger bcelaccessforinlinemung bcel type munger bceltypemung
+prepar advic flag inlin
+param aroundadvic
+open advic openaroundadvic lazi method gen lazymethodgen advic aroundadvic
+instruct handl instructionhandl curr advic aroundadvic bodi getbodi start getstart
+instruct handl instructionhandl end advic aroundadvic bodi getbodi end getend
+constant pool gen constantpoolgen cpg advic aroundadvic enclos class getenclosingclass constant pool gen getconstantpoolgen
+instruct factori instructionfactori factori advic aroundadvic enclos class getenclosingclass factori getfactori
+realiz inlin realizedcannotinlin
+curr end
+realiz inlin realizedcannotinlin
+inlin advic futher handl
+instruct handl instructionhandl curr getnext
+instruct inst curr instruct getinstruct
+open method call
+inst invok instruct invokeinstruct
+invok instruct invokeinstruct invok invok instruct invokeinstruct inst
+resolv type resolvedtyp calle aspect gen aspectgen world getworld resolv unresolv type unresolvedtyp fornam invok class getclassnam cpg
+method list declar super call alik
+list method calle method iter getmethodswithoutiter
+iter iter method iter iter hasnext
+resolv member resolvedmemb resolv member resolvedmemb resolv member resolvedmemb iter
+invok getnam cpg equal resolv member resolvedmemb getnam
+invok signatur getsignatur cpg equal resolv member resolvedmemb signatur getsignatur
+resolv member resolvedmemb public ispubl
+init equal invok getnam cpg
+skip open privat constructor
+occur aspect privat type
+complex handl dup invokespeci
+advic aroundadvic set inlin setcaninlin
+realiz inlin realizedcannotinlin
+specif handl super foo call foo public
+resolv type resolvedtyp member type membertyp aspect gen aspectgen world getworld resolv resolv member resolvedmemb declar type getdeclaringtyp
+aspect type aspecttyp equal member type membertyp
+member type membertyp assign isassignablefrom aspect type aspecttyp
+test
+aspecttyp getsuperclass null
+aspecttyp getsuperclass getnam equal resolvedmemb getdeclaringtyp getnam
+resolv member resolvedmemb accessor creat inlin accessor super dispatch createorgetinlineaccessorforsuperdispatch resolv member resolvedmemb
+invok instruct invokeinstruct inst newinst factori creat invok createinvok
+aspect type aspecttyp getnam
+accessor getnam
+bcel world bcelworld make bcel type makebceltyp accessor return type getreturntyp
+bcel world bcelworld make bcel type makebceltyp accessor paramet type getparametertyp
+constant invokevirtu
+curr set instruct setinstruct inst newinst
+resolv member resolvedmemb accessor creat inlin accessor method createorgetinlineaccessorformethod resolv member resolvedmemb
+invok instruct invokeinstruct inst newinst factori creat invok createinvok
+aspect type aspecttyp getnam
+accessor getnam
+bcel world bcelworld make bcel type makebceltyp accessor return type getreturntyp
+bcel world bcelworld make bcel type makebceltyp accessor paramet type getparametertyp
+constant invokestat
+curr set instruct setinstruct inst newinst
+break found match calle member swap instruct accessor
+inst field instruct fieldinstruct
+field instruct fieldinstruct invok field instruct fieldinstruct inst
+resolv type resolvedtyp calle aspect gen aspectgen world getworld resolv unresolv type unresolvedtyp fornam invok class getclassnam cpg
+calle declar java field getdeclaredjavafield length
+resolv member resolvedmemb resolv member resolvedmemb calle declar java field getdeclaredjavafield
+invok getnam cpg equal resolv member resolvedmemb getnam
+invok signatur getsignatur cpg equal resolv member resolvedmemb signatur getsignatur
+resolv member resolvedmemb public ispubl
+resolv member resolvedmemb accessor
+inst getfield inst getstat
+accessor creat inlin accessor field createorgetinlineaccessorforfieldget resolv member resolvedmemb
+accessor creat inlin accessor field set createorgetinlineaccessorforfieldset resolv member resolvedmemb
+invok instruct invokeinstruct inst newinst factori creat invok createinvok
+aspect type aspecttyp getnam
+accessor getnam
+bcel world bcelworld make bcel type makebceltyp accessor return type getreturntyp
+bcel world bcelworld make bcel type makebceltyp accessor paramet type getparametertyp
+constant invokestat
+curr set instruct setinstruct inst newinst
+break found match calle member swap instruct accessor
+curr
+reason inlin advic
+advic inlin defauilt
+make set inlin true analysi
+realiz inlin realizedcannotinlin
+advic aroundadvic set inlin setcaninlin

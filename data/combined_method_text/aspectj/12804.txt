@@ -1,0 +1,28 @@
+org aspectj apach bcel classfil
+class repres stack map entri record type
+local variabl stack item byte code offset
+cldc specif
+version stackmapentri java aclement exp
+author href mailto marku dahm berlin dahm
+stackmap
+stackmaptyp
+stack map entri stackmapentri cloneabl
+return string represent
+string string tostr
+string buffer stringbuff buf string buffer stringbuff offset byte code offset
+number local
+buf append local
+number local
+buf append type local
+number local
+buf append
+buf append
+number stack item
+buf append stack item
+number stack item
+buf append type stack item
+number stack item
+buf append
+buf append
+buf append
+buf string tostr

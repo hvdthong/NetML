@@ -1,0 +1,10 @@
+param dimens size vector
+org apach common math linear
+spars real vector sparserealvector dimens
+virtual size virtuals dimens
+spars real vector sparserealvector real vector realvector
+construct dimens length vector zero
+entri open int doubl hash map openinttodoublehashmap
+dimens default toler
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date

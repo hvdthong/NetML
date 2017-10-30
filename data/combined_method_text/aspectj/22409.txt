@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+pattern parser patternpars
+annot type pattern annotationtypepattern pars annot pattern maybeparseannotationpattern
+annot type pattern annotationtypepattern ret annot type pattern annotationtypepattern
+annot type pattern annotationtypepattern pattern nextpattern
+pattern nextpattern pars singl annot pattern maybeparsesingleannotationpattern
+ret annot type pattern annotationtypepattern
+ret pattern nextpattern
+ret annot type pattern andannotationtypepattern ret pattern nextpattern
+ret

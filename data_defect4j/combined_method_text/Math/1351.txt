@@ -1,0 +1,29 @@
+return chosen current interv
+param allow solut allowedsolut kind solut root find algorithm
+allow number evalu exceed
+solver requir bracket handl
+org apach common math dfp
+href http mathworld wolfram brent method brentsmethod html brent algorithm
+org apach common math except math illeg argument except mathillegalargumentexcept
+dfp solv max eval maxev univari dfp function univariatedfpfunct
+solv max eval maxev min max min add max divid allow solut allowedsolut
+user invert quadrat
+version
+param max eval maxev maximum number evalu
+user link allow solut allowedsolut
+solv interv
+function
+solver requir interv bracket singl root
+endpoint root
+bracket nth order brent solver dfp bracketingnthorderbrentsolverdfp
+modif
+param function solv
+maxim order invert polynomi root search
+org apach common math except evalu except toomanyevaluationsexcept
+accept solut
+dfp min dfp max allow solut allowedsolut allow solut allowedsolut
+param max upper bound interv
+param min lower bound interv
+argument satisfi requir solver
+respect origin brent algorithm
+interv bracket root

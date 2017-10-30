@@ -1,0 +1,74 @@
+org aspectj weaver pattern
+refer pointcut referencepointcut pointcut
+pointcut concretize1 resolv type resolvedtyp search start searchstart resolv type resolvedtyp declar type declaringtyp int map intmap bind
+concret
+thread currentthread dumpstack
+search start searchstart world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil error weaver messag weavermessag format weaver messag weavermessag circular pointcut circular pointcut
+sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+concret
+resolv pointcut definit resolvedpointcutdefinit pointcut dec pointcutdec
+type ontyp
+search start searchstart type ontyp resolv search start searchstart world getworld
+search start searchstart miss ismiss
+pointcut make match makematchesnoth pointcut concret
+type ontyp type variabl refer istypevariablerefer
+replac type bind type variabl
+declar type
+declar type declaringtyp parameter type isparameterizedtyp
+type variabl typevari tv declar type declaringtyp gener type getgenerictyp type variabl gettypevari
+string type variabl typevariablenam type variabl refer typevariablerefer type ontyp type variabl gettypevari getnam
+tv length
+tv getnam equal type variabl typevariablenam
+resolv type resolvedtyp real type realontyp declar type declaringtyp type paramet gettypeparamet resolv declar type declaringtyp world getworld
+type ontyp real type realontyp
+search start searchstart real type realontyp
+declar type declaringtyp declar type declaringtyp search start searchstart
+pointcut dec pointcutdec declar type declaringtyp find pointcut findpointcut
+found match pointcut foundmatchingpointcut pointcut dec pointcutdec pointcut dec pointcutdec privat ispriv
+found match pointcut foundmatchingpointcut
+pointcut dec pointcutdec search start searchstart find pointcut findpointcut
+pointcut dec pointcutdec
+search start searchstart world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil error weaver messag weavermessag format weaver messag weavermessag find pointcut find pointcut search start searchstart getnam
+sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+pointcut dec pointcutdec abstract isabstract
+thread currentthread dumpstack
+shadow munger shadowmung enclos advic enclosingadvic bind enclos advic getenclosingadvic
+search start searchstart world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag abstract pointcut abstract pointcut pointcut dec pointcutdec
+sourc locat getsourceloc
+enclos advic enclosingadvic enclos advic enclosingadvic sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+system err println start searchstart
+resolv type resolvedtyp paramet type parametertyp search start searchstart world getworld resolv pointcut dec pointcutdec paramet type getparametertyp
+type pattern list typepatternlist argument argument resolv refer resolverefer bind
+int map intmap bind newbind int map intmap
+len argument size len
+type pattern typepattern argument
+type pattern typepattern
+allow bind pointcut subtyp type safe
+check referencepointcut resolvebind check
+parent ad decp
+bind type pattern bindingtypepattern
+bind newbind put bind type pattern bindingtypepattern formal index getformalindex
+search start searchstart parameter type isparameterizedtyp
+build type map map type variabl name gener type
+type paramet present
+type variabl map typevariablemap hash map hashmap
+resolv type resolvedtyp underli gener type underlyinggenerictyp search start searchstart gener type getgenerictyp
+type variabl typevari var tvar underli gener type underlyinggenerictyp type variabl gettypevari
+resolv type resolvedtyp type param typeparam search start searchstart resolv type paramet getresolvedtypeparamet
+var tvar length
+type variabl map typevariablemap put var tvar getnam type param typeparam
+bind newbind copi context copycontext bind
+bind newbind push enclos definit pushenclosingdefinit pointcut dec pointcutdec
+pointcut ret pointcut dec pointcutdec pointcut getpointcut
+type variabl map typevariablemap parameter hasbeenparameter
+ret ret parameter parameterizewith type variabl map typevariablemap search start searchstart world getworld
+ret parameter hasbeenparameter
+ret concret search start searchstart declar type declaringtyp bind newbind
+bind newbind pop enclos definitit popenclosingdefinitit
+concret

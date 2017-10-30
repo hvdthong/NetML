@@ -1,0 +1,19 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener cflow ajc clinit method generatepercflowajcclinitmethod
+class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil world make method bind makemethodbind ajc member maker ajcmembermak ajc pre clinit method ajcpreclinitmethod
+world bind frombind bind
+bodi gener bodygener
+gener code stream codestream code stream codestream
+bodi start
+code stream codestream world make type bind maketypebind ajc member maker ajcmembermak cflow stack type cflow stack type
+code stream codestream dup
+code stream codestream invokespeci world make method bind call makemethodbindingforcal ajc member maker ajcmembermak cflow stack init cflowstackinit
+code stream codestream putstat
+world make field bind makefieldbind
+ajc member maker ajcmembermak cflow field percflowfield
+type typex
+code stream codestream return
+bodi end

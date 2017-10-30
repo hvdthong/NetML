@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+return readabl represent method
+method tostr suitabl
+param method
+return readabl represent method
+string method string methodtostr method method
+string buffer stringbuff string buffer stringbuff
+append method getnam
+append method signatur getsignatur
+string tostr

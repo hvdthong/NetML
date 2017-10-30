@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+token itoken posit ihasposit
+treat liter
+kind string
+return null liter
+string liter kind getliteralkind

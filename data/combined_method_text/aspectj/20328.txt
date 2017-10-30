@@ -1,0 +1,36 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+method recurs type method overrid pass
+return method overridden null found
+resolv member resolvedmemb check overrid checkforoverrid resolv type resolvedtyp type check typetocheck string mname string mparam string mrettyp mmod string mpkg unresolv type unresolvedtyp method param arrai methodparamsarrai
+type check typetocheck
+type check typetocheck miss resolv type signatur missingresolvedtypewithknownsignatur typetocheck instanceof missingresolvedtypewithknownsignatur return null
+type check typetocheck world getworld debug bridg code fordebug bridgingcod system err println bridg check overrid mname type check typetocheck
+string packag packagenam type check typetocheck packag getpackagenam
+packag packagenam packag packagenam
+packag insamepackag packag packagenam equal mpkg boolean insamepackag packagenam equal mpkg visibl rule
+resolv member resolvedmemb method type check typetocheck declar method getdeclaredmethod
+method length
+resolv member resolvedmemb method overridden methodthatmightbegettingoverridden method resolvedmemb methodthatmightbegettingoverridden method method check
+resolv member resolvedmemb overrid isoverrid overrid isoverrid type check typetocheck method overridden methodthatmightbegettingoverridden mname mrettyp mmod packag insamepackag method param arrai methodparamsarrai
+overrid isoverrid overrid isoverrid
+list type check typetocheck inter type munger getintertypemung
+iter iter iter iter hasnext
+object iter
+fixm asc bceltypemung eclipsetypemung worri
+bcel type munger bceltypemung
+bcel type munger bceltypemung element bcel type munger bceltypemung
+element munger getmung method type munger newmethodtypemung
+type check typetocheck world getworld debug bridg code fordebug bridgingcod system err println itd candid element
+resolv member resolvedmemb method amethod element signatur getsignatur
+resolv member resolvedmemb overrid isoverrid overrid isoverrid type check typetocheck method amethod mname mrettyp mmod packag insamepackag method param arrai methodparamsarrai
+overrid isoverrid overrid isoverrid
+type check typetocheck equal unresolv type unresolvedtyp object
+resolv type resolvedtyp superclass type check typetocheck superclass getsuperclass
+resolv member resolvedmemb overridden method overriddenmethod check overrid checkforoverrid superclass mname mparam mrettyp mmod mpkg method param arrai methodparamsarrai
+overridden method overriddenmethod overridden method overriddenmethod
+resolv type resolvedtyp interfac type check typetocheck declar interfac getdeclaredinterfac
+interfac length
+resolv type resolvedtyp interfac aninterfac interfac
+overridden method overriddenmethod check overrid checkforoverrid interfac aninterfac mname mparam mrettyp mmod mpkg method param arrai methodparamsarrai
+overridden method overriddenmethod overridden method overriddenmethod

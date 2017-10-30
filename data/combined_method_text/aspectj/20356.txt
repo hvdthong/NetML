@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+visibl modifi method class
+packag decid overrid
+return true overrid 'hides' relationship
+visibl overrid isvisibilityoverrid method mod methodmod resolv member resolvedmemb inherit method inheritedmethod packag insamepackag
+inherit method inheritedmethod static isstat
+method mod methodmod inherit method inheritedmethod modifi getmodifi
+inherit method inheritedmethod privat ispriv
+packag visibl ispackagevis inherit method inheritedmethod privat ispriv inherit method inheritedmethod protect isprotect
+inherit method inheritedmethod public ispubl
+packag visibl ispackagevis packag insamepackag

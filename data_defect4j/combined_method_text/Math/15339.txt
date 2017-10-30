@@ -1,0 +1,20 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+pre
+point geti point max idx maxyidx geti
+find index point point largest
+gaussian fitter gaussianfitt curv fitter curvefitt
+index point arrai
+fit point link
+usag
+paramet fitter fit
+find max findmaxi weight observ point weightedobservedpoint point
+point length
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+version
+param point point search
+org apach common math3 optim fit
+max idx maxyidx
+deprec remov
+levenberg marquardt optim levenbergmarquardtoptim
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+fitter add observ point addobservedpoint

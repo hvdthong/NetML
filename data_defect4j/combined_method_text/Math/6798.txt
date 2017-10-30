@@ -1,0 +1,145 @@
+set equat setequ equat
+abstract step interpol abstractstepinterpol interpol
+inherit doc inheritdoc
+method embed explicit rung kutta method
+stepsiz control step
+hnew initi step initializestep equat forward order getord scale
+manag step accept stepaccept step nextstep
+rki reiniti equat tmp ytmp dot ydotk forward
+step reject error estim phase
+scale vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler fast math fastmath ab
+interpol store time storetim step start stepstart
+step laststep
+hnew filter step filterstep scale scaledh forward nextislast
+fast math fastmath max min reduct minreduct safeti fast math fastmath pow error exp
+accept step
+factor
+dot ydotk length
+comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+discret event handl
+stop time stoptim
+equat comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+dot ydotk stage
+interpol shift
+handler handl step handlestep interpol step laststep
+fsal
+step size stepsiz filter step filterstep step size stepsiz forward
+reject step attempt reduc error stepsiz control
+step handler stephandl handler step handler stephandl
+combin event manag combinedeventsmanag manag add end time checker addendtimecheck event handler manag eventshandlersmanag
+b'1 b'2 b' b'
+evalu save fsal method
+hnew manag event time geteventtim step start stepstart
+reset step safe
+method qualifi fsal
+stage length
+factor math min max growth maxgrowth
+dot ydotk stage length
+nextt step start stepstart scale scaledh
+equat comput deriv computederiv step start stepstart dot ydotk
+step laststep manag stop
+step start stepstart step nextstep
+code fail handl
+safeti math pow error exp
+hnew filter step filterstep step size stepsiz factor forward
+compar
+safeti fast math fastmath pow error exp
+step start stepstart
+scale vec absolut toler vecabsolutetoler
+a31 a32
+version revis date
+rki reiniti tmp ytmp dot ydotk forward
+step accept
+fast math fastmath min max growth maxgrowth
+system arraycopi tmp ytmp length
+rung kutta step interpol rungekuttastepinterpol rki rung kutta step interpol rungekuttastepinterpol prototyp copi
+stop time stoptim step start stepstart
+set integr control object
+small due limit accuraci
+tmp ytmp step size stepsiz sum
+reset evalu resetevalu
+set interpol share integr arrai
+interpol store time storetim step nextstep
+reset intern state resetinternalst
+fast math fastmath max min reduct minreduct
+asi
+stage
+evalu reus step cost
+scale scaledh step size stepsiz factor
+system arraycopi dot ydotk stage dot ydotk length
+loop loop
+length
+provid step data step handler
+time firsttim fsal
+step nextstep step start stepstart step size stepsiz
+overrid
+hnew
+common part embed rung kutta
+arrai
+fast math fastmath ab fast math fastmath ulp step start stepstart
+math max min reduct minreduct
+manag reset step start stepstart step laststep
+estim error end step
+step start stepstart dot ydotk tmp ytmp dot ydotk
+set artifici size step copi state
+reject step match time
+vec absolut toler vecabsolutetoler
+forward
+deriv except derivativeexcept integr except integratorexcept
+manag event time geteventtim step start stepstart
+as1 as2 ass
+arrai fill scale scal absolut toler scalabsolutetoler
+scale scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler fast math fastmath ab
+estim state end step
+creat intern work arrai
+math ab math ulp step start stepstart
+method evalu method
+save evalu step
+tmp ytmp length
+event occur integr start reduc step
+integr order differenti equat firstorderdifferentialequ equat
+step size stepsiz hnew
+invalid deriv recomput
+scale main set dimens mainsetdimens
+error estim error estimateerror dot ydotk tmp ytmp step size stepsiz
+stage behaviour success step
+requir dens output requiresdenseoutput event handler manag eventshandlersmanag empti isempti
+reject step lead small step accept
+interpol rki
+main integr loop
+step step
+error
+math max min reduct minreduct safeti math pow error exp
+comput deriv computederiv step start stepstart dot ydotk
+loop
+manag evalu step evaluatestep interpol
+pre
+a21
+org apach common math od nonstiff
+nextislast forward nextt nextt
+interpol store time storetim
+step size stepsiz
+rare case step size stepsiz
+comput directli error comput estim
+interpol store time storetim step start stepstart step size stepsiz
+simpli truncat step reject current comput
+scale scal absolut toler scalabsolutetoler
+embed rung kutta integr embeddedrungekuttaintegr
+sum dot ydotk
+set coeffici allow estim error butcher
+fact arrai defin b'j
+system arraycopi length
+event handler trigger
+interpol dummi step interpol dummystepinterpol tmp ytmp forward
+interpol dummi step interpol dummystepinterpol tmp ytmp dot ydotk stage forward
+saniti check sanitycheck equat
+integr ordinari differenti equat
+handler reset
+scale
+math min max growth maxgrowth
+time firsttim
+java util arrai fill scale scal absolut toler scalabsolutetoler
+loop comput state truncat step
+factor fast math fastmath min max growth maxgrowth
+scale length
+method mean evalu deriv

@@ -1,0 +1,11 @@
+org aspectj weaver tool
+result pointcutexpress match shadow method execut
+handler constructor call
+shadow match shadowmatch
+return result match join point shadow
+target arg
+param thisobject object bound join point
+param targetobject object bound target join point
+param arg argument join point
+return
+join point match joinpointmatch match join point matchesjoinpoint object object thisobject object target object targetobject object arg

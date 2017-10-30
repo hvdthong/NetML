@@ -1,0 +1,9 @@
+author apach softwar foundat
+version
+str matcher strmatcher
+portion match
+org apach common lang3 text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+constructor
+complet factori method

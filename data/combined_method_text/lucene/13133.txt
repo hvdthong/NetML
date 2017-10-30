@@ -1,0 +1,4 @@
+org apach lucen index
+segment write state segmentwritest
+string segment file segmentfilenam string ext
+segment segmentnam ext

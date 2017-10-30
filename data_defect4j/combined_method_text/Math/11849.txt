@@ -1,0 +1,15 @@
+defin measur model link kalman filter kalmanfilt
+correct step implement modifi measur nois
+iter step
+modifi measur nois depend current
+kalman filter kalmanfilt correct
+link kalman filter kalmanfilt correct step implement
+measur model measurementmodel
+measur nois matrix
+depend current iter step
+org apach common math3 filter
+version
+kalman filter kalmanfilt correct org apach common math3 linear real vector realvector
+return measur nois matrix method call link kalman filter kalmanfilt
+return measur nois matrix method call
+real matrix realmatrix measur nois getmeasurementnois

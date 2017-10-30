@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+list class file getallclassfil except ioexcept
+ensur open ensureopen
+list ret arrai list arraylist
+enumer zip file zipfil entri element hasmoreel
+zip entri zipentri entri zip entri zipentri element nextel
+string entri getnam
+class extens hasclassextens ret add zip entri class file zipentryclassfil entri
+ret isempti close
+ret

@@ -1,0 +1,33 @@
+org apach tool ant taskdef option clearcas
+perform clearcas lock command
+attribut interpret
+tabl border
+attribut
+valu
+requir
+replac
+specifi replac exist lock
+nuser
+specifi user modifi object
+obsolet
+specifi object mark obsolet
+comment
+specifi popul comment field
+pname
+specifi object pathnam lock
+objselect
+specifi object lock
+tabl
+author sean kane base work curti white
+lock cclock clear case clearcas
+pname command
+param cmd command line string
+pname flag append
+objselect command getobjselectcommand commandlin cmd
+objselect getobjselect
+make separ command space
+insert flag treat
+window filenam space enclos doubl
+quot break clearcas
+cmd creat argument createargu set setvalu flag objselect flag objselect
+cmd creat argument createargu set setvalu pname getpnam

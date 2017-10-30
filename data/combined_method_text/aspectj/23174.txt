@@ -1,0 +1,10 @@
+org aspectj weaver reflect
+author colyer
+reflect shadow reflectionshadow shadow
+shadow make handler shadow makehandlershadow world world inworld class except type exceptiontyp class type withintyp match context matchingcontext context withcontext
+kind kind shadow except handler exceptionhandl
+shadow enclos shadow enclosingshadow make static initi shadow makestaticinitializationshadow world inworld type withintyp context withcontext
+member signatur reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori creat handler member createhandlermemb except type exceptiontyp type withintyp world inworld
+resolv member resolvedmemb enclos member enclosingmemb reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori creat static init member createstaticinitmemb type withintyp world inworld
+resolv type resolvedtyp enclos type enclosingtyp enclos member enclosingmemb declar type getdeclaringtyp resolv world inworld
+reflect shadow reflectionshadow world inworld kind signatur enclos shadow enclosingshadow enclos type enclosingtyp enclos member enclosingmemb context withcontext

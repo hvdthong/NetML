@@ -1,0 +1,8 @@
+org apach common math3 optim nonlinear vector
+weight matrix
+real matrix realmatrix weight getweight
+version
+weight matrix weightmatrix copi
+multivari vector optim multivariatevectoroptim
+base multivari vector function optim
+weight matrix observ

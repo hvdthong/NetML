@@ -1,0 +1,10 @@
+overrid
+org apach common math linear
+inherit doc inheritdoc
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+spars matrix implement base open address map
+check column index checkcolumnindex column
+check row index checkrowindex row
+version revis date
+entri comput kei computekei row column
+entri getentri row column matrix index except matrixindexexcept

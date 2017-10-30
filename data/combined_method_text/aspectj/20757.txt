@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+add class file directori outdir class file
+directori subdirectori consid resourc copi
+list add directori content adddirectorycont file file infil file dir outdir except ioexcept
+list ad class file addedclassfil arrai list arraylist
+list file isnt directori
+file file file util fileutil list file listfil file infil file filter filefilt
+accept file
+accept directori isdirectori
+accept
+file add real class file resourc
+file length
+ad class file addedclassfil add add class file addclassfil file file infil dir outdir
+ad class file addedclassfil

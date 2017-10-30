@@ -1,0 +1,92 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read declarepar
+param runtimeannot
+param struct
+return true found
+handl declar parent annot handledeclareparentsannot runtim annot runtimeannot runtim annot runtimeannot attribut field struct ajattributefieldstruct struct privat static boolean handledeclareparentsannot runtimeannot runtimeannot ajattributefieldstruct struct resolvedpointcutdefinit preresolvedpointcut
+annot decp annot getannot runtim annot runtimeannot ajc member maker ajcmembermak declarepar annot declarepar annot
+decp
+element pair elementnamevaluepair decp pattern nvp decppatternnvp annot element getannotationel decp
+string decp pattern decppattern decp pattern nvp decppatternnvp getvalu stringifi stringifyvalu
+decp pattern decppattern
+type pattern typepattern type pattern typepattern pars type pattern parsetypepattern decp pattern decppattern struct
+resolv type resolvedtyp field type fieldtyp unresolv type unresolvedtyp signatur forsignatur struct field signatur getsignatur resolv struct enclos type enclosingtyp world getworld
+field type fieldtyp interfac isinterfac
+type pattern typepattern parent pars type pattern parsetypepattern field type fieldtyp getnam struct
+formal bind formalbind bind org aspectj weaver pattern formal bind formalbind
+scope iscop bind bind scope bindingscop struct enclos type enclosingtyp struct context bind
+add declar implement
+list parent arrai list arraylist parent add parent
+declar parent declarepar declar parent declarepar type pattern typepattern parent
+resolv bind resolv bind resolv parent child part decp
+resolv methoddelegatemung
+colour chang wildtypepattern 'anywithannotationtypepattern' resolut
+type pattern typepattern type pattern typepattern resolv bind resolvebind bind bind
+todo kick isourceloc struct bfield getsourceloc
+setloc getdeclaringtyp getsourcecontext getdeclaringtyp getsourceloc getoffset getdeclaringtyp getsourceloc getoffset
+set locat setloc struct context setloc struct context ideal
+struct attribut ajattribut add attribut ajattribut declar attribut declareattribut
+defaultimpl xxx class implement
+string default impl class defaultimplclassnam
+element pair elementnamevaluepair default impl nvp defaultimplnvp annot element getannotationel decp defaultimpl
+default impl nvp defaultimplnvp
+class element classelementvalu default impl defaultimpl class element classelementvalu default impl nvp defaultimplnvp getvalu
+default impl class defaultimplclassnam unresolv type unresolvedtyp signatur forsignatur default impl defaultimpl class string getclassstr getnam
+default impl class defaultimplclassnam equal org aspectj lang annot declarepar
+default impl class defaultimplclassnam
+check public arg ctor
+resolv type resolvedtyp impl struct enclos type enclosingtyp world getworld resolv
+default impl class defaultimplclassnam
+resolv member resolvedmemb impl declar method getdeclaredmethod
+ctor arg hasnoctororanoargon
+length
+resolv member resolvedmemb resolv member resolvedmemb
+resolv member resolvedmemb getnam equal init
+ctor arg hasnoctororanoargon
+resolv member resolvedmemb paramet type getparametertyp length
+resolv member resolvedmemb public ispubl
+ctor arg hasnoctororanoargon
+ctor arg hasnoctororanoargon
+ctor arg hasnoctororanoargon
+report error reporterror declarepar defaultimpl
+default impl class defaultimplclassnam
+public arg constructor struct
+field type fieldtyp assign isassignablefrom impl
+report error reporterror declarepar defaultimpl default impl class defaultimplclassnam implement interfac field type fieldtyp string tostr struct
+iter field interfac hierarchi object
+method hasatleastonemethod
+resolv member resolvedmemb method resolv member resolvedmemb field type fieldtyp method iter getmethodswithoutiter arrai toarrai resolv member resolvedmemb
+method length
+resolv member resolvedmemb method resolv member resolvedmemb method
+method abstract isabstract
+move detect weav time target doesnt implement method
+defaultimplclassnam null
+marker interfac default impl provid
+reporterror declarepar marker interfac defaultimpl provid struct
+return fals
+method hasatleastonemethod
+method deleg type munger methoddelegatetypemung mdtm
+method deleg type munger methoddelegatetypemung
+method
+struct enclos type enclosingtyp
+default impl class defaultimplclassnam
+type pattern typepattern
+mdtm set sourc locat setsourceloc struct enclos type enclosingtyp sourc locat getsourceloc
+struct attribut ajattribut add attribut ajattribut type munger typemung mdtm
+successful bcel type munger
+field host mixin target type
+method hasatleastonemethod default impl class defaultimplclassnam
+struct attribut ajattribut add
+attribut ajattribut type munger typemung
+method deleg type munger methoddelegatetypemung field host type munger fieldhosttypemung
+ajc member maker ajcmembermak itd declar parent field itdatdeclareparentsfield
+null prototyp
+field type fieldtyp
+struct enclos type enclosingtyp
+struct enclos type enclosingtyp
+type pattern typepattern
+report error reporterror declarepar field type interfac struct

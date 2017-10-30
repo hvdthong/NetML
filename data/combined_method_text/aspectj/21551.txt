@@ -1,0 +1,47 @@
+org aspectj weaver pattern
+annot foo annot foo
+match join point subject join point
+annot match annotationtypepattern
+join point kind subject
+method call target method
+method execut method
+constructor call constructor
+constructor execut constructor
+target field
+set target field
+adviceexecut advic
+initi constructor
+preiniti constructor
+staticiniti type initi
+handler declar type handl except
+annot pointcut annotationpointcut bind pointcut namebindingpointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+annot element annotatedel match tomatchagainst
+member member shadow signatur getsignatur
+resolv member resolvedmemb member rmember member resolv shadow world getiworld
+member rmember
+member getnam start startswith mangler namemangl prefix
+fuzzi boolean fuzzyboolean
+shadow world getiworld lint getlint unresolv member unresolvablememb signal member string tostr sourc locat getsourceloc
+fuzzi boolean fuzzyboolean
+shadow kind kind shadow kind getkind
+kind shadow static initi staticiniti
+match tomatchagainst member rmember declar type getdeclaringtyp resolv shadow world getiworld
+kind shadow except handler exceptionhandl
+match tomatchagainst member rmember paramet type getparametertyp resolv shadow world getiworld
+match tomatchagainst member rmember
+fixm asc rid bit logic altogeth shame itd field effect sig attribut
+fixm asc perf cach result discov member real annot
+member rmember annot isannotatedelsewher
+kind shadow field fieldget kind shadow field set fieldset
+list munger member rmember declar type getdeclaringtyp resolv shadow world getiworld inter type munger getintertypemung list munger rmember getdeclaringtyp resolv shadow getiworld getintertypemung fixm asc includ super getintertypemungersincludingsup
+iter iter munger iter iter hasnext
+bcel type munger bceltypemung type munger typemung bcel type munger bceltypemung iter
+type munger typemung munger getmung field type munger newfieldtypemung
+resolv member resolvedmemb fakerm type munger typemung signatur getsignatur
+fakerm equal member
+resolv member resolvedmemb ajc method ajcmethod ajc member maker ajcmembermak inter field initi interfieldiniti fakerm type munger typemung aspect type getaspecttyp
+resolv member resolvedmemb rmm find method findmethod type munger typemung aspect type getaspecttyp ajc method ajcmethod
+match tomatchagainst rmm
+annot type pattern annotationtypepattern resolv shadow world getiworld
+annot type pattern annotationtypepattern match match tomatchagainst

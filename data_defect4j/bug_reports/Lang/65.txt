@@ -1,0 +1,1 @@
+lang dateutils truncate method buggy dealing dst switching hours truncate mdt hour mst hour input hour truncate mdt date oct31 01mdt date 1099206000000l date result dateutils truncate oct31 01mdt calendar hour day assertequals oct31 01mdt result

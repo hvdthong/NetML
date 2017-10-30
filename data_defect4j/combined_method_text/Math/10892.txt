@@ -1,0 +1,16 @@
+org apach common math3 analysi solver
+verifi interv verifyinterv lower initi
+code initi upper
+param upper upper endpoint
+upper
+number larg except numberistoolargeexcept code lower initi
+param lower lower endpoint
+verifi interv verifyinterv initi upper
+util routin link univari solver univariatesolv object
+version
+univari solver util univariatesolverutil
+param initi initi
+number larg except numberistoolargeexcept
+check code lower initi upper
+initi
+verifi sequenc verifysequ lower

@@ -1,0 +1,10 @@
+add instant
+scale durat field durationfield unit milli larger
+scale scalar iscalar
+org joda time field
+wrap field getwrappedfield add instant scale
+magnitud
+scale durat field scaleddurationfield thread safe immut
+scale durat field scaleddurationfield decor durat field decorateddurationfield
+author brian neill o'neil
+precis durat field precisedurationfield

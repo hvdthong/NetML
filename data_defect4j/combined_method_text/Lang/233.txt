@@ -1,0 +1,18 @@
+author stephen colebourn
+oper primit boolean object
+param falsevalu code code
+author matthew hawthorn
+convert convers valu
+pre
+boolean util booleanutil integ tointeg
+author gari gregori
+boolean util booleanutil
+handl code code input gracefulli
+version
+integ tointeg bool truevalu falsevalu
+except thrown code code input
+param truevalu code code
+param bool convert
+bool truevalu falsevalu
+method document behaviour detail
+org apach common lang

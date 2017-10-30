@@ -1,0 +1,14 @@
+org aspectj ajd swing
+author mik kersten
+structur tree manag structuretreemanag
+highlight node highlightnod swing tree view node swingtreeviewnod parent program element iprogramel node
+parent child count getchildcount
+swing tree view node swingtreeviewnod curr node currnod swing tree view node swingtreeviewnod parent child getchildat
+program element iprogramel node snode program element iprogramel curr node currnod structur node getstructurenod
+node snode node snode equal node curr node currnod kind getkind structur view node istructureviewnod kind link
+tree path treepath path tree path treepath curr node currnod path getpath
+structur tree structuretre set select path setselectionpath path
+curr row currrow structur tree structuretre row path getrowforpath path
+structur tree structuretre expand row expandrow curr row currrow
+structur tree structuretre scroll row visibl scrollrowtovis curr row currrow
+highlight node highlightnod curr node currnod node

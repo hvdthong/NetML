@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+sourc locat isourceloc make sourc locat makesourceloc posit ihasposit locat
+sourc context sourcecontext make sourc locat makesourceloc locat

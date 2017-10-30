@@ -1,0 +1,33 @@
+method implement link entri getentri access
+data except nodataexcept local format localizedformat row
+inherit doc inheritdoc
+row nrow matrix submatrix length
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept local format localizedformat column
+matrix index except matrixindexexcept
+set entri setentri row column matrix submatrix
+basic implement link field matrix fieldmatrix method underli storag
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept matrix row
+org apach common math linear
+abstract field matrix abstractfieldmatrix field element fieldel field matrix fieldmatrix
+col ncol matrix submatrix length
+check row index checkrowindex row nrow row
+dimens mismatch except dimensionmismatchexcept col ncol matrix submatrix length
+version revis date
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept matrix column
+abstract field matrix abstractfieldmatrix field element fieldel
+param type field element
+check row index checkrowindex row
+col ncol
+check column index checkcolumnindex col ncol column
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept local format localizedformat row
+set matrix setsubmatrix matrix submatrix row column
+matrix submatrix
+matrix element deriv provid faster implement
+local format localizedformat row length
+check column index checkcolumnindex column
+row length length
+row nrow
+data except nodataexcept local format localizedformat column
+matrix submatrix length col ncol
+null argument except nullargumentexcept

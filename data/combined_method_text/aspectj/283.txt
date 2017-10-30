@@ -1,0 +1,38 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+gener ajbuildconfig compil configur
+ajdecorebuildmanag
+return null invalid configur
+ajbuildconfig
+build config ajbuildconfig gen build config genajbuildconfig
+file config file configfil file compil getid
+string arg
+config file configfil exist config file configfil file isfil
+arg string config file configfil absolut path getabsolutepath
+list compil compil configur getcompilerconfigur project sourc file getprojectsourcefil
+arg string size
+counter
+iter iter iter iter hasnext
+string element string iter
+arg counter element
+counter
+count messag handler countingmessagehandl handler count messag handler countingmessagehandl make count messag handler makecountingmessagehandl
+msg handler adapt msghandleradapt
+build arg parser buildargpars parser build arg parser buildargpars handler
+build config ajbuildconfig config build config ajbuildconfig
+parser popul build config populatebuildconfig config arg config file configfil
+configur compil option configurecompileropt config
+sourc locat isourceloc locat
+config config file getconfigfil
+locat sourc locat sourceloc config config file getconfigfil
+string messag parser messag getothermessag
+messag
+messag imessag messag messag messag imessag error locat
+handler handl messag handlemessag
+forc model gener ajd
+config set gener model mode setgeneratemodelmod
+increment mode ajd
+config set increment mode setincrementalmod
+config

@@ -1,0 +1,22 @@
+goal goal type goaltyp
+inherit doc inheritdoc
+constraint constraint
+real point pair realpointvaluepair optim linear object function linearobjectivefunct
+optim except optimizationexcept
+neg nonneg restrict neg restricttononneg
+abstract linear optim abstractlinearoptim linear optim linearoptim
+goal type goaltyp goal type goaltyp restrict neg restricttononneg
+version revis date
+set iter counter
+function
+restrict neg restricttononneg restrict neg restricttononneg
+solv problem
+store linear problem characterist
+org apach common math optim linear
+base implement linear optim
+optim dooptim
+base handl boilerpl method threshold
+iter
+goal type goaltyp goal type goaltyp
+collect linear constraint linearconstraint constraint
+linear constraint linearconstraint constraint

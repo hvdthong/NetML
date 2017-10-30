@@ -1,0 +1,13 @@
+[PATCH] Add ability to set the request method when using the <http/> condition
+Currently, the <http/> condition does an unconditional GET of a URL to
+determine if it is available. This is generally not a problem unless you
+need to check whether a large document is available. Then you have to 
+download the whole thing.
+
+The attached patch adds the ability to specify the HTTP request method when
+checking a URL. This allows the use of an HTTP "HEAD" request to check to see 
+if a document is available without downloading the whole document.
+
+The patch is against the Ant HEAD branch as of this date and include a minor 
+documentation change as well as the addition of a simple unit test for the
+updated <http/> condition.

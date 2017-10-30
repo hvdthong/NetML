@@ -1,0 +1,15 @@
+org aspectj weaver
+field type munger newfieldtypemung resolv type munger resolvedtypemung
+resolv member resolvedmemb match synthet member getmatchingsyntheticmemb member member resolv type resolvedtyp aspect type aspecttyp
+give field method expect
+resolv type resolvedtyp type ontyp aspect type aspecttyp world getworld resolv signatur getsignatur declar type getdeclaringtyp
+type ontyp raw type israwtyp type ontyp type ontyp gener type getgenerictyp
+resolv member resolvedmemb ret ajc member maker ajcmembermak inter field dispatch interfieldgetdispatch signatur getsignatur aspect type aspecttyp
+resolv type resolvedtyp match ret member signatur getsignatur
+ret ajc member maker ajcmembermak inter field set dispatch interfieldsetdispatch signatur getsignatur aspect type aspecttyp
+resolv type resolvedtyp match ret member signatur getsignatur
+ret ajc member maker ajcmembermak inter field interfac getter interfieldinterfacegett signatur getsignatur type ontyp aspect type aspecttyp
+resolv type resolvedtyp match ret member signatur getsignatur
+ret ajc member maker ajcmembermak inter field interfac setter interfieldinterfacesett signatur getsignatur type ontyp aspect type aspecttyp
+resolv type resolvedtyp match ret member signatur getsignatur
+match synthet member getmatchingsyntheticmemb member aspect type aspecttyp

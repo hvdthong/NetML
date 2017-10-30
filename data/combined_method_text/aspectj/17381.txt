@@ -1,0 +1,9 @@
+org aspectj runtim reflect
+factori
+field signatur fieldsignatur make field sig makefieldsig string modifi string string declar type declaringtyp string field type fieldtyp
+modifi int modifiersasint integ pars int parseint modifi
+class declar type class declaringtypeclass make class makeclass declar type declaringtyp lookup class loader lookupclassload
+class field type class fieldtypeclass make class makeclass field type fieldtyp lookup class loader lookupclassload
+field signatur impl fieldsignatureimpl ret field signatur impl fieldsignatureimpl modifi int modifiersasint declar type class declaringtypeclass field type class fieldtypeclass
+ret set lookup class loader setlookupclassload lookup class loader lookupclassload
+ret

@@ -1,0 +1,13 @@
+calcul perform link chronolog
+link readabl partial readableparti getvalu calcul result
+author stephen colebourn
+method link readabl partial readableparti size
+subclass implement
+chronolog set utc time zone calcul
+abstract partial abstractparti
+link abstract partial abstractparti field getfield chronolog
+org joda time base
+constructor
+abstract partial abstractparti subclass mutabl thread safe
+abstract partial abstractparti standard base implement method
+readabl partial readableparti

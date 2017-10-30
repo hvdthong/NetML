@@ -1,0 +1,67 @@
+org apach lucen search
+queri match document sequenc term
+phrasequeri built querypars input code york code
+queri combin term queri link booleanqueri
+phrase queri phrasequeri queri
+overrid
+explan explain reader context readercontext context doc
+except ioexcept
+explan result explan
+result set descript setdescript weight queri getqueri doc product
+string builder stringbuild doc freq docfreq string builder stringbuild
+string builder stringbuild queri string builder stringbuild
+queri append
+doc freq docfreq append idf exp idfexp explain
+term size
+queri append
+term term term
+queri append term text
+queri append
+explan idf expl idfexpl
+explan idf idf field doc freq docfreq
+explain queri weight
+explan queri expl queryexpl explan
+queri expl queryexpl set descript setdescript queryweight queri getqueri product
+explan boost expl boostexpl explan boost getboost boost
+boost getboost
+queri expl queryexpl add detail adddetail boost expl boostexpl
+queri expl queryexpl add detail adddetail idf expl idfexpl
+explan queri norm expl querynormexpl explan queri norm querynorm querynorm
+queri expl queryexpl add detail adddetail queri norm expl querynormexpl
+queri expl queryexpl set setvalu boost expl boostexpl getvalu
+idf expl idfexpl getvalu
+queri norm expl querynormexpl getvalu
+result add detail adddetail queri expl queryexpl
+explain field weight
+explan field expl fieldexpl explan
+field expl fieldexpl set descript setdescript fieldweight field queri doc
+product
+scorer scorer scorer context
+scorer
+explan match doc
+explan explan tfexplan explan
+scorer advanc doc
+phrase freq phrasefreq
+doc
+phrase freq phrasefreq scorer freq
+phrase freq phrasefreq
+explan tfexplan set setvalu similar phrase freq phrasefreq
+explan tfexplan set descript setdescript phrasefreq phrase freq phrasefreq
+field expl fieldexpl add detail adddetail explan tfexplan
+field expl fieldexpl add detail adddetail idf expl idfexpl
+explan field norm expl fieldnormexpl explan
+field norm fieldnorm context reader norm field
+field norm fieldnorm
+field norm fieldnorm similar decod norm decodenormvalu field norm fieldnorm doc
+field norm expl fieldnormexpl set setvalu field norm fieldnorm
+field norm expl fieldnormexpl set descript setdescript fieldnorm field field doc doc
+field expl fieldexpl add detail adddetail field norm expl fieldnormexpl
+field expl fieldexpl set setvalu explan tfexplan getvalu
+idf expl idfexpl getvalu
+field norm expl fieldnormexpl getvalu
+result add detail adddetail field expl fieldexpl
+combin
+result set setvalu queri expl queryexpl getvalu field expl fieldexpl getvalu
+queri expl queryexpl getvalu
+field expl fieldexpl
+result

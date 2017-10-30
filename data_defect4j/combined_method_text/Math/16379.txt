@@ -1,0 +1,14 @@
+input arrai
+base implement statist
+evalu valu begin length math illeg argument except mathillegalargumentexcept
+param valu input arrai
+evalu valu begin length
+math illeg argument except mathillegalargumentexcept valu indic invalid
+org apach common math3 stat descript
+param length number element includ
+version
+statist appli includ arrai entri
+univari statist univariatestatist
+param begin index element includ
+return result evalu statist entri
+univari statist univariatestatist math arrai matharrai function

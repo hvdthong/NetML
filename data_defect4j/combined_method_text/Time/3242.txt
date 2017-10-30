@@ -1,0 +1,13 @@
+illeg argument except illegalargumentexcept larg small
+set amount offset unit time instant
+param instant time instant milli updat
+set instant
+org joda time field
+gener offset adjust datetim field
+updat time instant
+field util fieldutil verifi bound verifyvaluebound min imin max imax
+author brian neill o'neil
+set instant offset ioffset
+offset date time field offsetdatetimefield thread safe immut
+param unit set
+offset date time field offsetdatetimefield decor date time field decorateddatetimefield

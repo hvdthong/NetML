@@ -1,0 +1,23 @@
+org apach common math3 geometri euclidean threed
+min ymin max ymax
+min zmin max zmax
+polyhedron set polyhedronsset min xmin max xmax
+param min zmin low bound direct
+param max xmax high bound direct
+version
+repres region set polyhedron
+plane vector3 vector3d min zmin vector3 vector3d minu
+plane vector3 vector3d max xmax vector3 vector3d
+plane vector3 vector3d min xmin vector3 vector3d minu
+param min xmin low bound direct
+region factori regionfactori euclidean3 euclidean3d build convex buildconvex
+plane vector3 vector3d max zmax vector3 vector3d tree gettre
+plane vector3 vector3d min ymin vector3 vector3d minu
+param max ymax high bound direct
+param min ymin low bound direct
+suppress warn suppresswarn uncheck
+plane vector3 vector3d max ymax vector3 vector3d
+build boundari buildboundari min xmin max xmax min ymin max ymax min zmin max zmax
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+build parallellepiped box
+param max zmax high bound direct

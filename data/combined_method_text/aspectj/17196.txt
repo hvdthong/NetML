@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+percflow dom ast node
+pointcutdesign
+pointcutdesign call 'body'
+author ajh02
+cflow percflow pointcut design pointcutdesign
+tree size treesiz
+mem size memsiz
+bodi bodi getbodi tree size treesiz

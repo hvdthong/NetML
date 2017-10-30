@@ -1,0 +1,11 @@
+real matrix chang visitor realmatrixchangingvisitor
+visit matrix entri
+interfac defin visitor matrix entri
+org apach common math3 linear
+param current entri
+version
+default real matrix chang visitor defaultrealmatrixchangingvisitor
+visit row column
+param column column index entri
+param row row index entri
+set entri

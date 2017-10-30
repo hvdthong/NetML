@@ -1,0 +1,45 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+overrid javac scandir check depend
+org apach tool ant taskdef javac scandir
+scan dir scandir file src dir srcdir file dest dir destdir string file
+list file newfil arrai list arraylist
+add file list argfil includ
+list includ newinclud arrai list arraylist
+list argument newargu arrai list arraylist
+argfil
+iter iter argfil iter
+iter hasnext
+file argfil argfil iter file getfil
+expand argfil expandargfil argfil includ newinclud argument newargu
+includ argfil
+set includ one' found newinclud
+read file directori scanner
+includ haveinclud exclud haveexclud argfil
+log set includ project msg verbos msg verbos
+set includ setinclud
+file getdirectoryscann srcdir getincludedfil
+add java file compilelist
+file length
+file file newfil file src dir srcdir file
+file newfil
+file newfil exist
+file newfil getnam end endswith java
+file newfil add file newfil
+add includ file
+iter iter includ newinclud iter
+iter hasnext
+file newfil add file iter
+behavior found javac
+file size newfiles file newfil size
+file size newfiles
+file compil list newcompilelist file compil list compilelist length file size newfiles
+system arraycopi compil list compilelist compil list newcompilelist compil list compilelist length
+system arraycopi file newfil arrai toarrai compil list newcompilelist
+compil list compilelist length file size newfiles
+compil list compilelist compil list newcompilelist

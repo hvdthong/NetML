@@ -1,0 +1,51 @@
+author stephen colebourn
+set
+text
+intern standard compat modern gregorian calendar
+time zone chang result round dai
+link local date locald repres date time zone
+add subtract
+date midnight datemidnight defin date time compon fix midnight
+code dai month dayofmonth code
+param chronolog newchronolog chronolog
+time zone midnight local utc time zone
+maximum minimum valu
+techniqu access method
+chang time zone
+return copi date chronolog potenti
+field
+chronolog newchronolog chronolog getchronolog date midnight datemidnight milli getmilli chronolog newchronolog
+copi instant chronolog
+date midnight datemidnight chronolog withchronolog chronolog chronolog newchronolog
+millisecond instant convert date time field
+chronolog similar chronolog
+chronolog code iso chronolog isochronolog code agre
+code dai month getdayofmonth code
+date midnight datemidnight round millisecond midnight
+repres dai link interv
+individu field queri wai
+chang dai unexpect wai
+time zone dai chang occur
+numer
+link date time datetim repres full date time
+dai
+retain dai chang pari london chang dai
+avoid unusu effect link zone retain field withzoneretainfield date time zone datetimezon
+chronolog intern chronolog determin
+pari previou dai london
+import emphasis repres time midnight
+date midnight datemidnight thread safe immut provid chronolog
+standard chronolog class suppli thread safe immut
+deprec time midnight exist time zone
+date midnight datemidnight
+note midnight defin start dai
+link date time datetim time start dai withtimeatstartofdai instant
+method creat date midnight datemidnight midnight millisecond
+chang time zone london pari
+daylight save time forward shift skip midnight hour
+start dai
+org joda time
+link local date locald suitabl
+round
+repres dai millisecond instant midnight
+midnight london dai pari midnight

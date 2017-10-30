@@ -1,0 +1,43 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+conveni method run ajc collect string list messag
+reflect invok
+list collect paramet suppli parent class loader
+string messag form command line messag
+param arg string arg pass compil
+param usesystemexit true error return system exit err
+param fail list sink string failur wors messag
+param error list sink string error messag
+param warn list sink string warn messag
+param info list sink string info messag
+return number messag report level error
+throw uncheck except compil
+bare main baremain
+string arg
+system exit usesystemexit
+list fail
+list error
+list warn
+list info
+main main main
+messag handler messagehandl holder messag handler messagehandl
+main set holder sethold holder
+main run main runmain arg system exit usesystemexit
+read messag readmessag holder messag imessag fail fail
+read messag readmessag holder messag imessag error error
+read messag readmessag holder messag imessag warn warn
+read messag readmessag holder messag imessag info info
+holder num messag nummessag messag imessag error

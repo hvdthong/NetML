@@ -1,0 +1,11 @@
+overrid
+implement return code code
+link iter linear solver event iterativelinearsolverev
+org apach common math linear
+inherit doc inheritdoc
+residu providesresidu
+version
+default iter linear solver event defaultiterativelinearsolverev iter linear solver event iterativelinearsolverev
+code code
+residu vector code construct time
+concret implement

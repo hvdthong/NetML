@@ -1,0 +1,92 @@
+org aspectj weaver loadtim
+gener bytecod concret aspect
+concret aspect aspectj code gener build aop xml definit registr
+perform type mung perclaus aspectof artifact directli wait
+weaver middl configur
+author href mailto alex gnilux dot alexandr vasseur
+concret aspect code gen concreteaspectcodegen
+build bytecod concret aspect
+return concret aspect bytecod
+byte getbyt
+valid isvalid
+runtim except runtimeexcept valid
+todo abstract bcel
+aspect inherit claus parent
+declarepreced
+public class xxxname extend xxxextend
+pointcut xxxexpress
+public void xxxname
+aspect public class
+lazi class gen lazyclassgen lazi class gen lazyclassgen
+concret aspect concreteaspect replac
+parent java lang object parent getnam replac
+null todo point aop xml defin jsr
+modifi public constant acc super acc super
+empti string empti string
+world
+annot gen annotationgen annot gen annotationgen
+object type objecttyp org aspectj lang annot aspect
+collect empti list empti list
+constant pool gen getconstantpoolgen
+add annot addannot annot getannot
+concret aspect concreteaspect preced
+simpl element gen simpleelementvaluegen svg simpl element gen simpleelementvaluegen
+element gen elementvaluegen string
+constant pool gen getconstantpoolgen
+concret aspect concreteaspect preced
+list elem arrai list arraylist
+elem add element pair gen elementnamevaluepairgen svg constant pool gen getconstantpoolgen
+annot gen annotationgen agprec annot gen annotationgen
+object type objecttyp org aspectj lang annot declarepreced
+elem
+constant pool gen getconstantpoolgen
+add annot addannot agprec annot getannot
+default constructor
+lazi method gen lazymethodgen init lazi method gen lazymethodgen
+modifi public
+type void
+init
+empti type empti type
+empti string empti string
+instruct list instructionlist cbodi init bodi getbodi
+cbodi append instruct constant instructionconst aload
+cbodi append factori getfactori creat invok createinvok
+parent java lang object parent getnam replac
+init
+type void
+empti type empti type
+constant invokespeci
+cbodi append instruct constant instructionconst return
+add method gen addmethodgen init
+iter concret aspect concreteaspect pointcut iter hasnext
+definit pointcut abstract abstractpc definit pointcut
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+modifi public modifi public todo respect visibl open
+type void
+abstract abstractpc
+empti type empti type
+empti string empti string
+simpl element gen simpleelementvaluegen svg simpl element gen simpleelementvaluegen
+element gen elementvaluegen string
+constant pool gen getconstantpoolgen
+abstract abstractpc express
+list elem arrai list arraylist
+elem add element pair gen elementnamevaluepairgen svg constant pool gen getconstantpoolgen
+annot gen annotationgen mag annot gen annotationgen
+object type objecttyp org aspectj lang annot pointcut
+elem
+constant pool gen getconstantpoolgen
+annot annotationx max annot annotationx mag annot getannot world
+add annot addannot max
+instruct list instructionlist bodi bodi getbodi
+bodi append instruct constant instructionconst return
+add method gen addmethodgen
+handl perclaus
+refer type referencetyp refer type referencetyp resolv type resolvedtyp fornam concret aspect concreteaspect signatur getsignatur world
+bcel claus aspect adder bcelperclauseaspectadd claus munger perclausemung bcel claus aspect adder bcelperclauseaspectadd claus perclaus kind getkind
+claus munger perclausemung forc mung forcemung
+todo unsaf cast
+regist fresh class world repositori exist classpath
+java class javaclass java class getjavaclass bcel world bcelworld world
+bcel world bcelworld world add sourc object type addsourceobjecttyp
+byte getbyt

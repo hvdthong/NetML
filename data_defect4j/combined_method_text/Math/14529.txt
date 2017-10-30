@@ -1,0 +1,32 @@
+overrid
+theta belong
+inherit doc inheritdoc
+step comput interpol equat consist
+interpol comput dens output insid
+interpol state interpolatedst length
+midpoint integr midpointintegr
+refer point step end
+dot2 ydot2 dot ydotk
+previou state previousst theta
+coeff dot2 coeffdot2 theta
+interpol state interpolatedst previou state previousst coeff1 dot1 ydot1 coeff2 dot2 ydot2
+evalu deriv comput
+version
+interpol state interpolatedst current state currentst coeff1 dot1 ydot1 coeff2 dot2 ydot2
+interpol deriv interpolatedderiv coeff dot1 coeffdot1 dot1 ydot1 coeff dot2 coeffdot2 dot2 ydot2
+coeff1 theta minu theta oneminusthetah
+refer point step start
+rung kutta integr
+integr scheme
+step interpol order
+org apach common math3 od nonstiff
+step
+coeff1 minu theta oneminusthetah theta
+comput interpol state deriv computeinterpolatedstateandderiv theta
+coeff dot1 coeffdot1 coeff dot2 coeffdot2
+midpoint step interpol midpointstepinterpol
+coeff2 minu theta oneminusthetah theta
+dot1 ydot1 dot ydotk
+theta theta theta theta
+minu theta oneminusthetah
+coeff2 theta theta

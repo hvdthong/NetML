@@ -1,0 +1,38 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+find aspectjtool jar task system classpath
+accept code aspectj tool jar code
+support build system maven style
+name
+code aspectj tool jar code
+note search task classpath
+entri system classpath load
+correct specif
+return readabl file aspectjtool jar null found
+file find aspectjtool jar findaspectjtoolsjar
+file result
+class loader classload loader ajc task ajctask class loader getclassload
+loader ant class loader antclassload
+ant class loader antclassload task loader taskload ant class loader antclassload loader
+string task loader taskload classpath getclasspath
+string cp lang util langutil split classpath splitclasspath
+cp length result
+result aspectjtoolsjar isaspectjtoolsjar cp
+result
+path classpath path system classpath systemclasspath
+string path classpath list
+path length result
+result aspectjtoolsjar isaspectjtoolsjar path
+result result absolut file getabsolutefil

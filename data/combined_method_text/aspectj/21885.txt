@@ -1,0 +1,25 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+annot type pattern annotationtypepattern read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+exact annot type pattern exactannotationtypepattern ret
+version read byte readbyt
+version version
+except bcexcept exactannotationtypepattern written newer version aspectj
+bind pattern isbindingpattern read boolean readboolean
+bind pattern isbindingpattern
+ret exact annot type pattern exactannotationtypepattern read utf readutf
+ret exact annot type pattern exactannotationtypepattern unresolv type unresolvedtyp read
+ret read locat readloc context
+major version getmajorvers weaver version info weaverversioninfo weaver version major aj160 weaver version major aj160
+read boolean readboolean ret set paramet annot match setforparameterannotationmatch
+major version getmajorvers weaver version info weaverversioninfo weaver version major aj160 weaver version major aj160m2
+annot count annotationvaluecount read int readint
+annot count annotationvaluecount
+map valu avalu hash map hashmap
+annot count annotationvaluecount
+string kei read utf readutf
+string val read utf readutf
+valu avalu put kei val
+ret annot valu annotationvalu valu avalu
+ret

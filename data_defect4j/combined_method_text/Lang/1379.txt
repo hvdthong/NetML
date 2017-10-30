@@ -1,0 +1,9 @@
+author href mailto dlr finemaltcod daniel rall
+deleg messag getmessag
+string messag getmessag
+nestabl error nestableerror error nestabl
+base error except
+inherit doc inheritdoc
+org apach common lang except
+version
+org apach common lang except nestabl except nestableexcept

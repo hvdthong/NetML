@@ -1,0 +1,22 @@
+interfac defin field valu matrix basic algebra oper
+row column select valid
+matrix data
+field matrix fieldmatrix field element fieldel matrix anymatrix
+code select column selectedcolumn empti
+data except nodataexcept code select row selectedrow
+null argument except nullargumentexcept code select row selectedrow
+row column
+submatrix row column
+version
+rang except outofrangeexcept row column select valid
+code select column selectedcolumn code
+param type field element
+field matrix fieldmatrix matrix getsubmatrix select row selectedrow select column selectedcolumn
+param select row selectedrow arrai row indic
+count
+param select column selectedcolumn arrai column indic
+org apach common math3 linear
+data except nodataexcept null argument except nullargumentexcept rang except outofrangeexcept
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+matrix element index base code entri getentri code

@@ -1,0 +1,18 @@
+arrai length
+code fval xval yval
+bivari function bivariatefunct interpol xval yval
+interfac repres bivari real interpol function
+org apach common math except data except nodataexcept
+org apach common math except dimens mismatch except dimensionmismatchexcept
+increas order
+comput interpol function dataset
+version
+param yval coordin interpol point sort
+arrai length inconsist
+function interpol dataset
+param fval valu interpol point grid knot
+bivari grid interpol bivariategridinterpol
+fval
+org apach common math analysi interpol
+sampl point regular grid
+param xval coordin interpol point sort

@@ -1,0 +1,22 @@
+param po
+end
+quot
+support implement format pars format format
+meta format support metaformatsupport format
+author matt benson
+start
+version
+org apach common lang text
+depth quot
+po index getindex sourc length po
+sourc charat po index getindex
+seek format element end seekformatelementend string sourc pars posit parseposit po
+param po current pars posit
+param sourc string
+extend messag format extendedmessageformat
+link extend messag format extendedmessageformat
+meta format metaformat support
+depth
+find end subformat
+param sourc
+specif support interoper extend messag format extendedmessageformat

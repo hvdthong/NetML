@@ -1,0 +1,20 @@
+valu size
+size period size
+readabl period readableperiod period start instant startinst end instant endinst
+param end instant endinst start instant interv queri
+org joda time chrono
+param period period instant
+base chronolog basechronolog
+valu period interv
+class util method defin field unsupport
+base chronolog basechronolog skeleton implement chronolog
+valu
+durat field durationfield field period field type getfieldtyp field getfield
+valu period extract interv
+author brian neill o'neil
+param start instant startinst start instant interv queri
+start instant startinst end instant endinst
+start instant startinst field add start instant startinst
+field differ getdiffer end instant endinst start instant startinst
+base chronolog basechronolog thread safe immut subclass
+size

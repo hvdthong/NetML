@@ -1,0 +1,17 @@
+org aspectj apach bcel gener
+abstract super class java byte code
+version instruct java aclement exp
+author href mailto marku dahm berlin dahm
+instruct cloneabl serializ
+string class classnam opcod
+string constant opcod name opcod name opcod upper case touppercas
+iconst shorten iconst iconst
+implement directli
+len length
+ch1 char charat len ch2 char charat len
+ch1 ch2 ch2
+substr len
+equal iconst equal iconst special case
+iconst
+string index bound except stringindexoutofboundsexcept system err println
+org aspectj apach bcel gener

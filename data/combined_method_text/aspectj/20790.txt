@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+set batch weav setisbatchweav
+batch weav isbatchweav

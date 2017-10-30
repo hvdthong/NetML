@@ -1,0 +1,12 @@
+author stephen colebourn
+set field instant hour dai hourofdai
+param type field type obtain date time field type datetimefieldtyp
+implement mutabl
+express datetim millisecond t00 01t00 00z
+read writabl instant readwritableinst readabl instant readableinst
+set date time field type datetimefieldtyp type
+org joda time
+provid advanc method
+defin instant datetim continuum queri modifi
+illeg argument except illegalargumentexcept invalid
+param set field

@@ -1,0 +1,11 @@
+org aspectj weaver
+checker shadow munger shadowmung
+shadow munger shadowmung parameter parameterizewith resolv type resolvedtyp declar type declaringtyp map type variabl map typevariablemap
+checker ret checker
+pointcut getpointcut parameter parameterizewith type variabl map typevariablemap declar type declaringtyp world getworld
+start getstart
+end getend
+sourc context sourcecontext
+ret msg msg
+ret error iserror error iserror
+ret

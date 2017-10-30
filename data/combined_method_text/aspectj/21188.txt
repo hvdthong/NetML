@@ -1,0 +1,69 @@
+org aspectj weaver bcel
+util
+append convers appendconvers
+instruct list instructionlist
+instruct factori instructionfactori fact
+resolv type resolvedtyp type fromtyp
+resolv type resolvedtyp type totyp
+type totyp convert isconvertablefrom type fromtyp
+type fromtyp convert isconvertablefrom type totyp
+except bcexcept convert type fromtyp type totyp
+xxx test simpler brain hurt work
+type totyp world getworld java5 mode isinjava5mod
+type totyp convers needsnoconversionfrom type fromtyp
+type totyp convers needsnoconversionfrom type fromtyp type totyp primit type isprimitivetyp type fromtyp primit type isprimitivetyp
+type totyp equal resolv type resolvedtyp void
+assert fromtyp equal unresolvedtyp object
+append instruct factori instructionfactori creat pop createpop type fromtyp size getsiz
+type fromtyp equal resolv type resolvedtyp void
+assert totyp equal unresolvedtyp object
+append instruct factori instructionfactori creat null createnul type object
+type fromtyp equal unresolv type unresolvedtyp object
+type bcel world bcelworld make bcel type makebceltyp type totyp
+type totyp primit type isprimitivetyp
+string type totyp string tostr
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type type object
+constant invokestat
+append fact creat check cast createcheckcast refer type referencetyp
+type totyp equal unresolv type unresolvedtyp object
+assert fromtyp isprimit
+type bcel world bcelworld make bcel type makebceltyp type fromtyp
+string type fromtyp string tostr object
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type object
+type
+constant invokestat
+type totyp world getworld java5 mode isinjava5mod valid box validbox type totyp signatur getsignatur type fromtyp signatur getsignatur
+xxx optim java box code call
+type bcel world bcelworld make bcel type makebceltyp type fromtyp
+type bcel world bcelworld make bcel type makebceltyp type totyp
+string string valid box validbox type totyp signatur getsignatur type fromtyp signatur getsignatur
+type totyp primit type isprimitivetyp
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type type object
+constant invokestat
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type object
+type
+constant invokestat
+append fact creat check cast createcheckcast refer type referencetyp
+type fromtyp primit type isprimitivetyp
+assert totyp isprimit
+type bcel world bcelworld make bcel type makebceltyp type fromtyp
+type bcel world bcelworld make bcel type makebceltyp type totyp
+append fact creat cast createcast
+runtim except runtimeexcept
+append fact creat cast createcast type int
+append fact creat cast createcast type int
+type bcel world bcelworld make bcel type makebceltyp type totyp
+assert fromtyp isprimit totyp isprimit
+append fact creat check cast createcheckcast refer type referencetyp

@@ -1,0 +1,59 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+lazi class gen lazyclassgen weav unwoven class file unwovenclassfil class file classfil bcel object type bcelobjecttyp class type classtyp dump except ioexcept
+class type classtyp synthet issynthet classtyp issynthet touch synthet class
+dump dump unchang dumpunchang class file classfil
+list shadow munger shadowmung fast match fastmatch shadow munger list shadowmungerlist class type classtyp resolv type getresolvedtypex
+list type munger typemung class type classtyp resolv type getresolvedtypex inter type munger getintertypemung
+class type classtyp resolv type getresolvedtypex check inter type munger checkintertypemung
+decid actual weav class
+weav mightneedtoweav
+shadow munger shadowmung size
+type munger typemung size
+class type classtyp aspect isaspect
+world declar annot method getdeclareannotationonmethod size
+world declar annot field getdeclareannotationonfield size
+bridg method hierarchi affect itd
+bridg method mightneedbridgemethod
+world java5 mode isinjava5mod
+class type classtyp interfac isinterfac
+class type classtyp resolv type getresolvedtypex inter type munger includ super getintertypemungersincludingsup size
+lazi class gen lazyclassgen clazz
+weav mightneedtoweav bridg method mightneedbridgemethod
+clazz class type classtyp lazi class gen getlazyclassgen
+system err println lazi gen clazz clazz getweaverst
+chang ischang
+weav mightneedtoweav
+chang ischang bcel class weaver bcelclassweav weav world clazz shadow munger shadowmung type munger typemung late type munger list latetypemungerlist
+bridg method mightneedbridgemethod
+chang ischang bcel class weaver bcelclassweav calcul requir bridg method calculateanyrequiredbridgemethod world clazz chang ischang
+chang ischang
+dump dump class file classfil clazz
+clazz
+runtim except runtimeexcept
+string class debug info classdebuginfo
+class debug info classdebuginfo clazz long string tolongstr
+except
+recov crash whilst produc debug string
+class debug info classdebuginfo clazz class getclassnam
+string messag text messagetext troubl class debug info classdebuginfo
+world getworld messag handler getmessagehandl handl messag handlemessag
+messag messag text messagetext messag imessag abort
+error
+string class debug info classdebuginfo
+class debug info classdebuginfo clazz long string tolongstr
+except
+recov crash whilst produc debug string
+class debug info classdebuginfo clazz class getclassnam
+string messag text messagetext troubl class debug info classdebuginfo
+world getworld messag handler getmessagehandl handl messag handlemessag
+messag messag text messagetext messag imessag abort
+odd return behavior happi
+dump
+dump unchang dumpunchang class file classfil
+clazz
+ataj class weav earli gener class
+attach support ltw perx aspectof support bcelperclauseaspectadd
+aggress defin aspect mayhaveaspect interfac
+clazz clazz child class getchildclass world empti isempti
+clazz

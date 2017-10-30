@@ -1,0 +1,20 @@
+refer point step end
+theta theta
+overrid
+theta belong
+refer point step start
+order rung kutta integr
+inherit doc inheritdoc
+step interpol classic fourth
+step comput interpol equat consist
+integr scheme
+org apach common math3 od nonstiff
+evalu deriv comput
+step
+version
+theta theta theta
+interpol comput dens output insid
+classic rung kutta integr classicalrungekuttaintegr
+theta
+step interpol stepinterpol copi docopi
+classic rung kutta step interpol classicalrungekuttastepinterpol

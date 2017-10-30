@@ -1,0 +1,15 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+resolv class scope classscop upper scope upperscop
+ignor investig ignorefurtherinvestig
+scope setup scopesetup
+inter type scope intertypescop inter type scope intertypescop upper scope upperscop type bind ontypebind type variabl alias typevariablealias
+scope parent inter type scope intertypescop
+scope static isstat modifi static isstat declar modifi declaredmodifi
+scope setup scopesetup
+fix super call interfac context fixsupercallsforinterfacecontext upper scope upperscop
+ignor investig ignorefurtherinvestig
+resolv class scope classscop scope parent super resolv classscop scope parent newpar
+fix super call bodi fixsupercallsinbodi

@@ -1,0 +1,131 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+normal additon code link trim string code remov control charact
+levenshtein distanc levenshteindist
+end string
+remov lead trail whitespac
+trim string
+append suffix end string present
+code link trim string code remov lead trail whitespac
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+java' regexp pattern defin whitespac x0b
+index set string
+compar string report differ
+x0b vertic tab
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+space space charact code
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+param str sourc string normal whitespac
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+href http www org rec xml product x20
+normal addition code link trim string code remov control charact
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+href http www org xpath function normal space http www org xpath function normal space
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+pattern
+prepend prefix start string present
+abbrevi
+version
+method give sampl code explain oper
+refer
+trim strip
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+x20 space
+protect input string
+author holger krauth
+equal
+code code
+empti length string code code
+modifi string whitespac normal code string input
+safe substr extract
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+differ java' whitespac includ vertic tab form feed function
+symbol code input includ code
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+org apach common lang3
+side effect code handl
+form feed
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+code code safe
+string normal space normalizespac string str
+function return argument string whitespac normal
+remov part string
+str
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+similar
+author michael davei
+substr left mid
+code input code
+code null pointer except nullpointerexcept consid bug
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+replac sequenc whitespac charact singl space
+code string util stringutil
+code safe
+string util stringutil
+thread safe threadsaf
+whitespac pattern matcher trim str replac replaceal space
+whitespac block matcher trim str replac replaceal
+check charact string
+space
+modifi string whitespac normal code code string input
+append miss appendifmiss
+prepend miss prependifmiss
+xml whitespac charact allow
+symbol code code input includ code code
+href http www org xpath function normal space http www org xpath function normal

@@ -1,0 +1,10 @@
+simpl constructor
+repres hyperplan link line
+region euclidean1 euclidean1d remain region remainingregion
+line sublin hyperplan euclidean2 euclidean2d hyperplan
+line sublin abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d
+version
+param hyperplan underli hyperplan
+param remain region remainingregion remain region hyperplan
+hyperplan remain region remainingregion
+org apach common math3 geometri euclidean twod

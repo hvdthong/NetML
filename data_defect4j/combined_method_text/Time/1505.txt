@@ -1,0 +1,12 @@
+author stephen colebourn
+defin durat time queri modifi datetim field
+param milli number milli
+read writabl period readwritableperiod readabl period readableperiod
+implement mutabl
+add milli number milli period
+arithmet except arithmeticexcept addit exce capac period
+org joda time
+provid advanc method
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support
+add milli addmilli milli

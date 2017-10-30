@@ -1,0 +1,10 @@
+org aspectj weaver reflect
+author colyer
+implement shadowmatch reflect base world
+shadow match impl shadowmatchimpl shadow match shadowmatch
+visit
+left match leftmatch
+runtim test evalu runtimetestevalu left getleft object thisobject target object targetobject arg match context matchcontext match
+left match leftmatch
+match
+match runtim test evalu runtimetestevalu getright object thisobject target object targetobject arg match context matchcontext match

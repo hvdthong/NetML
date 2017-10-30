@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+exact type pattern exacttypepattern type pattern typepattern
+string string tostr
+string buffer stringbuff buff string buffer stringbuff
+annot pattern annotationpattern annot type pattern annotationtypepattern
+buff append
+buff append annot pattern annotationpattern string tostr
+buff append
+string type string typestr type string tostr
+var arg isvararg type string typestr type string typestr substr type string typestr index lastindexof
+buff append type string typestr
+includ subtyp includesubtyp buff append
+var arg isvararg buff append
+annot pattern annotationpattern annot type pattern annotationtypepattern
+buff append
+buff string tostr

@@ -1,0 +1,18 @@
+overrid
+matrix index except matrixindexexcept
+org apach common math linear
+param type field element
+inherit doc inheritdoc
+version revis date sun apr
+spars matrix implement base open address map
+entri kei add increment
+entri remov kei
+field getfield getzero equal
+version
+check column index checkcolumnindex column
+check row index checkrowindex row
+version revis date
+kei comput kei computekei row column
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+add entri addtoentri row column increment
+entri put kei

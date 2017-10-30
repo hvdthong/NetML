@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+coerceabl iscoerceablefrom resolv type resolvedtyp
+primit type isprimitivetyp
+index primit index

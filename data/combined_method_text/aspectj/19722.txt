@@ -1,0 +1,6 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+jvm spec 2ed
+doesnt check itd
+resolv member resolvedmemb lookup method lookupmethod member
+lookup member lookupmemb method getmethod

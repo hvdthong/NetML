@@ -1,0 +1,40 @@
+row equal dimens link target
+param opt data optdata optim data addit document
+inherit doc inheritdoc
+pars optim data parseoptimizationdata opt data optdata
+overrid
+differenti function
+number column equal dimens
+argument inconsist dimens
+link target
+dimens mismatch except dimensionmismatchexcept initi guess target weight
+link model function jacobian modelfunctionjacobian
+retriev set
+optim provid move
+deprec class interfac deprec
+version
+link org apach common math3 optim max eval maxev
+evalu except toomanyevaluationsexcept maxim number
+multivari optim multivariateoptim method regist data
+link org apach common math3 fit leastsquar
+math
+dimens mismatch except dimensionmismatchexcept
+link model function modelfunct
+jacobian multivari vector optim jacobianmultivariatevectoroptim
+assum row jacobian matrix iter model
+org apach common math3 optim nonlinear vector
+set base perform comput
+link multivari vector optim multivariatevectoroptim optim optim data optimizationdata
+point vector pair pointvectorvaluepair optim optim data optimizationdata opt data optdata
+link weight
+link multivari optim multivariateoptim pars optim data parseoptimizationdata optim data optimizationdata
+param opt data optdata optim data data look
+boiler plate code deal jacobian evalu
+optim opt data optdata
+link org apach common math3 optim simpl bound simplebound
+link org apach common math3 optim initi guess initialguess
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+function column iter paramet number
+evalu exceed
+base implement optim multivari vector
+evalu except toomanyevaluationsexcept

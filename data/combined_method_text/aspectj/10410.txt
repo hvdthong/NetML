@@ -1,0 +1,20 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+add file dir tree addfilestodirtre build config model buildconfigmodel model list config file configfil list bad entri badentri
+iter config file configfil iter hasnext
+string path string
+path start startswith
+file file file path
+build config node buildconfignod node build config node buildconfignod file getnam build config node buildconfignod kind file java file java path
+build config node buildconfignod path uppath model node path getnodeforpath file parent file getparentfil path getpath
+path uppath model root getroot
+path uppath build config node buildconfignod file parent file getparentfil path getpath build config node buildconfignod kind directori file parent file getparentfil absolut path getabsolutepath
+model root getroot add child addchild path uppath
+node set activ setact
+path uppath add child addchild node
+file path absolut isabsolut
+string file path getnam
+build config node buildconfignod exist node existingnod model node path getnodeforpath path
+exist node existingnod set activ setact
+bad entri badentri add rel path omit path

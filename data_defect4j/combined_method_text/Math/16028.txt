@@ -1,0 +1,45 @@
+num trial numtrial max iter trial maxiterationspertri
+varianc sum variancesum varianc sum bestvariancesum
+varianc stat varianc
+cluster
+link org apach common math3 cluster mean cluster kmeanspluspluscluster
+converg except convergenceexcept empti cluster encount
+math illeg argument except mathillegalargumentexcept converg except convergenceexcept
+varianc sum variancesum stat result getresult
+trial run neg maximum
+math illeg argument except mathillegalargumentexcept data point number
+org apach common math3 stat cluster
+run mean cluster algorithm
+comput distanc varianc current cluster
+found rememb
+math illeg argument except mathillegalargumentexcept
+version
+param type point cluster
+stat increment point distanc distancefrom center
+varianc sum variancesum
+param max iter trial maxiterationspertri maximum number iter run algorithm
+varianc sum bestvariancesum varianc sum variancesum
+point cluster point getpoint
+cluster list found
+param number cluster split data
+found cluster list
+cluster trial
+list cluster cluster collect point
+comput cluster list
+cluster point getpoint empti isempti
+center cluster center getcent
+comput varianc current list
+cluster algorithm base david arthur sergei vassilvitski mean algorithm
+mean cluster kmeanspluspluscluster cluster
+list cluster cluster cluster point max iter trial maxiterationspertri
+list cluster
+deprec remov
+cluster cluster cluster
+varianc sum bestvariancesum doubl posit infin
+param point point cluster
+param num trial numtrial number trial run
+num trial numtrial
+href http wikipedia org wiki mean mean wikipedia
+list cluster point
+link empti strategi emptystrategi set code error
+cluster larger number data point

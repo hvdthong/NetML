@@ -1,0 +1,11 @@
+parsefloat fails number exponent
+user agent mozilla x11 linux x86 gecko ubuntu jaunty firefox
+build identifier
+parsefloat incorrectly returns nan strings
+789e
+789efgh
+789e
+789e
+789e
+recognized beginning exponent valid exponent ecma spec
+reproducible

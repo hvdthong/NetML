@@ -1,0 +1,76 @@
+org aspectj weaver
+shadow munger concret
+call fast match
+shadow munger shadow
+match call
+match return true shadow munger special shadow
+modifi state
+implement call
+shadow munger shadowmung partial order partialord partial compar partialcompar posit ihasposit
+creat hierarchi binari aspect
+creat hierarchi createhierarchi
+binari isbinari
+program element iprogramel sourc file node sourcefilenod asm manag asmmanag default getdefault hierarchi gethierarchi find element sourc line findelementforsourcelin sourc locat getsourceloc
+call findelementforsourcelin isourceloc return file node
+find node hierarchi sourceloc
+return find
+continu fault model
+sourc file node sourcefilenod kind getkind equal program element iprogramel kind file java file java
+resolv type resolvedtyp aspect declar type getdeclaringtyp
+creat class file node
+program element iprogramel class file node classfilenod program element programel
+sourc file node sourcefilenod getnam binari
+program element iprogramel kind class
+binari sourc locat getbinarysourceloc aspect sourc locat getsourceloc
+creat packag ip exist
+program element iprogramel root asm manag asmmanag default getdefault hierarchi gethierarchi root getroot
+aspect packag getpackagenam
+check exist node
+program element iprogramel pkg node pkgnode asm manag asmmanag default getdefault hierarchi gethierarchi find element label findelementforlabel
+root program element iprogramel kind packag aspect packag getpackagenam
+note packag sourc locat
+pkg node pkgnode
+pkg node pkgnode program element programel
+aspect packag getpackagenam
+program element iprogramel kind packag
+arrai list arraylist
+root add child addchild pkg node pkgnode
+pkg node pkgnode add child addchild class file node classfilenod
+add handl classfilenod
+gener correctli inform
+parent node
+pkg node pkgnode add child addchild class file node classfilenod
+iter iter pkg node pkgnode children getchildren iter iter hasnext
+program element iprogramel element program element iprogramel iter
+element equal class file node classfilenod
+element handl identifi gethandleidentifi equal
+class file node classfilenod handl identifi gethandleidentifi
+ad classfil
+ad structur aspect
+pkg node pkgnode remov child removechild class file node classfilenod
+add handl classfilenod
+gener correctli inform
+parent node
+root add child addchild class file node classfilenod
+iter iter root children getchildren iter iter hasnext
+program element iprogramel element program element iprogramel iter
+element equal class file node classfilenod
+element handl identifi gethandleidentifi equal
+class file node classfilenod handl identifi gethandleidentifi
+ad sourcefil
+ad structur aspect
+root remov child removechild class file node classfilenod
+add creat empti import declar ip
+class file node classfilenod add child addchild program element programel
+import declar
+program element iprogramel kind import refer import refer
+add creat aspect ip
+program element iprogramel aspect node aspectnod program element programel
+aspect simpl getsimplenam
+program element iprogramel kind aspect
+binari sourc locat getbinarysourceloc aspect sourc locat getsourceloc
+aspect modifi getmodifi
+class file node classfilenod add child addchild aspect node aspectnod
+add child node addchildnod aspect node aspectnod aspect declar pointcut getdeclaredpointcut
+add child node addchildnod aspect node aspectnod aspect declar advic getdeclaredadvic
+add child node addchildnod aspect node aspectnod aspect declar getdeclar

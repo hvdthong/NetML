@@ -1,0 +1,33 @@
+org apach lucen search
+queri match document match boolean combin
+queri link termqueri link phrasequeri
+booleanqueri
+boolean queri booleanqueri queri iter boolean claus booleanclaus
+overrid
+scorer scorer atom reader context atomicreadercontext context score doc order scoredocsinord top scorer topscor
+except ioexcept
+list scorer requir arrai list arraylist scorer
+list scorer prohibit arrai list arraylist scorer
+list scorer option arrai list arraylist scorer
+iter boolean claus booleanclaus iter citer claus iter
+weight weight
+boolean claus booleanclaus iter citer
+scorer scorer subscor scorer context
+scorer subscor
+requir isrequir
+requir isrequir
+requir add scorer subscor
+prohibit isprohibit
+prohibit add scorer subscor
+option add scorer subscor
+check return booleanscor
+score doc order scoredocsinord top scorer topscor requir size prohibit size
+boolean scorer booleanscor disabl coord disablecoord similar min match minnrshouldmatch option prohibit max coord maxcoord
+requir size option size
+requir option claus
+option size min match minnrshouldmatch
+req scorer req scorer
+option scorer option scorer
+document match queri
+return booleanscorer2
+boolean scorer2 booleanscorer2 disabl coord disablecoord similar min match minnrshouldmatch requir prohibit option max coord maxcoord

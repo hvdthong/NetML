@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+pattern parser patternpars
+signatur pattern signaturepattern pars field signatur pattern parsefieldsignaturepattern
+start po startpo token sourc tokensourc peek start getstart
+typepatternlist followm typepatternlist
+annot type pattern annotationtypepattern annot pattern annotationpattern pars annot pattern maybeparseannotationpattern
+modifi pattern modifierspattern modifi pars modifi pattern parsemodifierspattern
+type pattern typepattern return type returntyp pars type pattern parsetypepattern
+type pattern typepattern declar type declaringtyp pars type pattern parsetypepattern
+pattern namepattern
+system err println pars field declaringtyp tostr
+eat maybeeat
+pars pattern parsenamepattern
+extract trytoextractnam declar type declaringtyp
+parser except parserexcept pattern token sourc tokensourc peek
+declar type declaringtyp string tostr equal
+declar type declaringtyp type pattern typepattern
+signatur pattern signaturepattern ret signatur pattern signaturepattern member field modifi return type returntyp
+declar type declaringtyp type pattern list typepatternlist throw pattern throwspattern annot pattern annotationpattern
+end po endpo token sourc tokensourc peek end getend
+ret set locat setloc sourc context sourcecontext start po startpo end po endpo
+ret

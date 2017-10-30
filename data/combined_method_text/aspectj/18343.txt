@@ -1,0 +1,12 @@
+org aspectj weaver
+kind advic aspectj
+author erik hilsdal
+author jim hugunin
+advic kind advicekind type safe enum typesafeenum
+advic kind advicekind string kind stringtokind string
+equal getnam
+equal getnam
+equal throw afterthrow getnam throw afterthrow
+equal return afterreturn getnam return afterreturn
+equal getnam
+illeg argument except illegalargumentexcept unknown kind

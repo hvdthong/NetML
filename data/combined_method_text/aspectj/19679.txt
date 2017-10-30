@@ -1,0 +1,8 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv type resolvedtyp topmost implementor gettopmostimplementor resolv type resolvedtyp interfac type interfacetyp
+interfac isinterfac
+interfac type interfacetyp assign isassignablefrom
+check super class implementor
+resolv type resolvedtyp higher type highertyp superclass getsuperclass topmost implementor gettopmostimplementor interfac type interfacetyp
+higher type highertyp higher type highertyp

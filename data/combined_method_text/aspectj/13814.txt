@@ -1,0 +1,25 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+creat field instruct
+param class access class
+param referenc field
+param type type field
+param kind access getfield putfield getstat putstat
+constant
+field instruct fieldinstruct creat field access createfieldaccess string class string type type kind
+index
+string signatur type signatur getsignatur
+index add fieldref addfieldref class signatur
+kind
+constant getfield getfield index
+constant putfield putfield index
+constant getstat getstat index
+constant putstat putstat index
+runtim except runtimeexcept oop unknown getfield kind kind

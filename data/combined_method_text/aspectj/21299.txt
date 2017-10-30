@@ -1,0 +1,45 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+initi class loader classload class loader classload weav context iweavingcontext context
+initi
+success
+trace trace enabl istraceen trace enter initi object class loader classload context
+weav context weavingcontext context
+weav context weavingcontext
+weav context weavingcontext default weav context defaultweavingcontext class loader classload
+creat messag handler createmessagehandl
+gener class handler generatedclasshandl gener class handler generatedclasshandl
+callback defin closur jvm
+param
+param byte
+accept class acceptclass string byte
+dump shoulddump replac
+dump byte
+throwabl throwabl
+throwabl print stack trace printstacktrac
+defin class defineclass class loader classload byte defineclass classload byte lazili hook
+list definit weav context weavingcontext definit getdefinit class loader classload
+definit empti isempti
+disabl disabl todo maw need ensur messag flush
+trace trace enabl istraceen trace exit initi definit
+bcel world bcelworld ltw world ltwworld
+class loader classload weav context weavingcontext classload weavingcontext todo world work term context remov loader
+messag handler getmessagehandl cross refer handler icrossreferencehandl
+add cross refer addcrossrefer sourc locat isourceloc sourc locat isourceloc relationship irelationship kind kind runtim test runtimetest
+tool
+weaver bcel weaver bcelweav bcel world bcelworld
+regist definit
+success regist definit registerdefinit weaver class loader classload definit
+success
+ad aspect
+weaver prepar weav prepareforweav
+enabl enabl todo maw need ensur messag flush
+success weav defin concet aspect weaveanddefineconceteaspect
+success
+enabl
+disabl
+bcel world bcelworld
+weaver
+initi
+trace trace enabl istraceen trace exit initi enabl isen

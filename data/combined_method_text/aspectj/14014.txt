@@ -1,0 +1,11 @@
+org aspectj apach bcel gener
+ldc push item constant pool
+pre stack item pre
+version ldc java aclement exp
+author href mailto marku dahm berlin dahm
+ldc instruct cpinstruct
+read need data index file
+init file initfromfil byte sequenc bytesequ byte wide
+except ioexcept
+length
+index byte read unsign byte readunsignedbyt

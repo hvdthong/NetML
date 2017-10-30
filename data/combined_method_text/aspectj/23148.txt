@@ -1,0 +1,11 @@
+org aspectj weaver reflect
+author colyer
+reflect shadow reflectionshadow shadow
+reflect shadow reflectionshadow world world kind kind member signatur shadow enclos shadow enclosingshadow resolv type resolvedtyp enclos type enclosingtyp resolv member resolvedmemb enclos member enclosingmemb match context matchingcontext context withcontext
+kind signatur enclos shadow enclosingshadow
+world world
+enclos type enclosingtyp enclos type enclosingtyp
+enclos member enclosingmemb enclos member enclosingmemb
+match context matchcontext context withcontext
+world reflect world ireflectionworld
+annot finder annotationfind reflect world ireflectionworld world annot finder getannotationfind

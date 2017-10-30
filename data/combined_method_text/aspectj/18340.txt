@@ -1,0 +1,9 @@
+org aspectj weaver
+kind advic aspectj
+author erik hilsdal
+author jim hugunin
+advic kind advicekind type safe enum typesafeenum
+entri isperentri
+cflow entri percflowentri cflow entri percflowbelowentri
+entri perthisentri target entri pertargetentri
+type entri pertypewithinentri pertypewithinentri ptwimpl ptw case

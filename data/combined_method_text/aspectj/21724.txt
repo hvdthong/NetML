@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+concret cflow pointcut concretecflowpointcut pointcut
+slot
+formal index formalindex
+resolv type resolvedtyp formal type formaltyp
+arrai index arrayindex
+formal index formalindex formal index formalindex
+formal type formaltyp formal type formaltyp
+arrai index arrayindex arrai index arrayindex

@@ -1,0 +1,56 @@
+spline ysplinex interpol spinterpol interpol xval
+inherit doc inheritdoc
+xval length yval length fval length
+xval length
+dfdy len xlen len ylen
+line len ylen construct spline
+data except nodataexcept dimens mismatch except dimensionmismatchexcept
+respect variabl gener arrai
+creat interpol spline
+math arrai matharrai check order checkord yval
+xval xval yval yval
+gener bicub interpol function
+dfdx xval
+cross partial deriv
+polynomi spline function polynomialsplinefunct spline ysplinex polynomi spline function polynomialsplinefunct len ylen
+line len xlen construct spline
+org apach common math3 analysi interpol
+index nextindex len xlen
+fval
+xval yval
+len ylen
+version
+respect variabl
+dfdx len xlen len ylen
+monoton sequenc except nonmonotonicsequenceexcept number small except numberistoosmallexcept
+len xlen
+dfdy yval
+univari function univariatefunct spline xsplinei deriv
+dimens mismatch except dimensionmismatchexcept
+d2fdxdy fval fval
+spline xsplinei interpol spinterpol interpol yval fval
+index nextindex len ylen
+math arrai matharrai check order checkord xval
+yval
+polynomi spline function polynomialsplinefunct spline xsplinei polynomi spline function polynomialsplinefunct len xlen
+len ylen len xlen
+dfdx dfdy d2fdxdy
+dimens mismatch except dimensionmismatchexcept xval length fval length
+d2fdxdy len xlen len ylen
+monoton sequenc except nonmonotonicsequenceexcept
+fval length len ylen
+dimens mismatch except dimensionmismatchexcept fval length len ylen
+fval fval
+univari function univariatefunct spline ysplinex deriv
+partial deriv respect grid knot
+bicub spline interpol bicubicsplineinterpol
+previou index previousindex
+bicub spline interpol function bicubicsplineinterpolatingfunct interpol xval
+len xlen xval length
+bicub spline interpol function bicubicsplineinterpolatingfunct xval yval fval
+len ylen yval length
+yval length
+xval length fval length
+data except nodataexcept
+spline interpol splineinterpol interpol spinterpol spline interpol splineinterpol
+sampl index coordin subarrai variabl

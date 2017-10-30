@@ -1,0 +1,28 @@
+step forward
+phase phi code co omega phi code
+harmon fitter harmonicfitt curv fitter curvefitt
+estim guess phase
+harmon fit simpl curv fit
+fsmean omega current currenti sine current prime currentyprim cosin
+current currenti observ geti
+fcmean omega current currenti cosin current prime currentyprim sine
+phi fast math fastmath atan2 fsmean fcmean
+initi mean
+previou previousi current currenti
+version
+guess phi guessphi
+current prime currentyprim current currenti previou previousi current currentx previou previousx
+sine fast math fastmath sin omega omegax
+harmon fitter harmonicfitt curv fitter curvefitt harmon oscil harmonicoscil parametr
+omega omegax omega current currentx
+class curv fit special sinusoid
+previou previousx current currentx
+base integr
+observ length
+current currentx observ getx
+estim coeffici amplitud pulsat omega
+cosin fast math fastmath co omega omegax
+fsmean
+search squar estim initi rough guess
+org apach common math3 optim fit
+fcmean

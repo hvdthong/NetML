@@ -1,0 +1,31 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+build claus buildperclaus class scope classscop scope
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+claus perclaus
+claus perclaus kind kind lookup claus kind lookupperclausekind bind superclass
+kind
+claus perclaus singleton persingleton
+claus perclaus super perfromsup kind
+aspect attribut aspectattribut attribut ajattribut aspect claus perclaus
+ignor investig ignorefurtherinvestig ignorefurtherinvestig return
+abstract isabstract
+claus perclaus kind getkind claus perclaus singleton
+aspect method aspectofmethod ajc member maker ajcmembermak singleton aspect method persingletonaspectofmethod type typex
+aspect method hasaspectmethod ajc member maker ajcmembermak singleton aspect method persingletonhasaspectmethod type typex
+claus perclaus kind getkind claus perclaus percflow
+aspect method aspectofmethod ajc member maker ajcmembermak cflow aspect method percflowaspectofmethod type typex
+aspect method hasaspectmethod ajc member maker ajcmembermak cflow aspect method percflowhasaspectmethod type typex
+claus perclaus kind getkind claus perclaus perobject
+aspect method aspectofmethod ajc member maker ajcmembermak object aspect method perobjectaspectofmethod type typex
+aspect method hasaspectmethod ajc member maker ajcmembermak object aspect method perobjecthasaspectmethod type typex
+claus perclaus kind getkind claus perclaus pertypewithin
+ptwimpl variant aspectof hasaspect
+aspect method aspectofmethod ajc member maker ajcmembermak type aspect method pertypewithinaspectofmethod type typex world world getworld java5 mode isinjava5mod
+aspect method hasaspectmethod ajc member maker ajcmembermak type aspect method pertypewithinhasaspectmethod type typex world world getworld java5 mode isinjava5mod
+ptw type method ptwgetwithintypenamemethod ajc member maker ajcmembermak type type method pertypewithingetwithintypenamemethod type typex world world getworld java5 mode isinjava5mod
+bind add method addmethod world make method bind makemethodbind ptw type method ptwgetwithintypenamemethod
+runtim except runtimeexcept bad claus claus perclaus
+bind add method addmethod world make method bind makemethodbind aspect method aspectofmethod
+bind add method addmethod world make method bind makemethodbind aspect method hasaspectmethod
+resolv claus resolveperclaus resolveperclaus xxx error check

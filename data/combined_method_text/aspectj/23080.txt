@@ -1,0 +1,12 @@
+org aspectj weaver reflect
+author colyer
+creat reflectionbasedreferencetypedeleg
+level run reflect avoid depend
+code base
+reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori
+resolv type resolvedtyp resolv type world resolvetypeinworld class class aclass world world aworld
+class repres arrai return class signatur arrai type hum
+string class classnam class aclass getnam
+class aclass arrai isarrai
+world aworld resolv unresolv type unresolvedtyp signatur forsignatur class classnam replac
+world aworld resolv class classnam

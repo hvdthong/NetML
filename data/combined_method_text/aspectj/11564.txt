@@ -1,0 +1,7 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+resolv type resolvedtyp outer class getouterclass
+declar enclos type enclosingtyp
+eclips world eclipseworld eclips fromeclips declar enclos type enclosingtyp bind

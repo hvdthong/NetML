@@ -1,0 +1,11 @@
+param point densiti comput
+deprec densiti
+return probabl densiti point
+implement link exponenti distribut exponentialdistribut
+math exp getmean getmean
+pdf point
+densiti doubl
+exponenti distribut impl exponentialdistributionimpl abstract continu distribut abstractcontinuousdistribut
+version revis date
+densiti doublevalu
+org apach common math distribut

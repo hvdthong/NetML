@@ -1,0 +1,11 @@
+org aspectj ajd swing
+dialog box open ajc compil system displai
+progress bar
+author mik kersten
+default build progress monitor defaultbuildprogressmonitor thread build progress monitor ibuildprogressmonitor
+start progress monitor
+begin
+progress dialog progressdialog set progress bar val setprogressbarv
+progress dialog progressdialog set progress text setprogresstext start build
+dialog set locat rel setlocationrelativeto ajd default getdefault root frame getrootfram
+dialog set visibl setvis

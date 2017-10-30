@@ -1,0 +1,8 @@
+org aspectj weaver
+shadow
+declar except isdeclaredexcept
+resolv type resolvedtyp resolv type resolvedtypex
+member member
+resolv type resolvedtyp exc world getiworld resolv member except getexcept world getiworld
+len exc length len
+exc assign isassignablefrom resolv type resolvedtypex

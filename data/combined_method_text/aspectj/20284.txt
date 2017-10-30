@@ -1,0 +1,85 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+implement implementon shadow
+match hasmatchedatleastonc
+bcel shadow bcelshadow shadow bcel shadow bcelshadow
+remov unnecessari except compil option set
+error warn piec advic throw except
+bug expand includ compil warn
+moment deal 'declar except thrown'
+shadow world getworld ignor unus declar thrown except isignoringunuseddeclaredthrownexcept
+thrown except getthrownexcept empti isempti
+member member shadow signatur getsignatur
+member bcel method bcelmethod
+remov unnecessari problem removeunnecessaryproblem bcel method bcelmethod member
+bcel method bcelmethod member declar line number getdeclarationlinenumb
+call shadow line number
+declar method type
+remov problem compilationresult
+held current type' eclipsesourcecontext
+enclos shadow
+resolv member resolvedmemb resolv member resolvedmemb shadow signatur getsignatur resolv shadow world getworld
+resolv member resolvedmemb bcel method bcelmethod
+shadow enclos shadow getenclosingshadow bcel shadow bcelshadow
+member enclos member enclosingmemb shadow enclos shadow getenclosingshadow signatur getsignatur
+enclos member enclosingmemb bcel method bcelmethod
+remov unnecessari problem removeunnecessaryproblem bcel method bcelmethod enclos member enclosingmemb
+bcel method bcelmethod resolv member resolvedmemb declar line number getdeclarationlinenumb
+shadow world getiworld joinpoint synchron enabl isjoinpointsynchronizationen
+shadow kind getkind shadow method execut methodexecut
+signatur getsignatur modifi getmodifi modifi synchron
+shadow world getiworld lint getlint advis synchron method advisingsynchronizedmethod signal string shadow string tostr shadow sourc locat getsourceloc sourc locat isourceloc sourc locat getsourceloc
+fixm logic comment fix bug
+callback perobject ajc mighthaveaspect postmung
+getconcreteaspect null
+getconcreteaspect getperclaus null
+perclaus perobject equal getconcreteaspect getperclaus getkind
+final perobject claus
+getconcreteaspect getperclaus instanceof perfromsup
+claus perobject perfromsup getconcreteaspect getperclaus lookupconcreteperclaus getconcreteaspect
+claus perobject getconcreteaspect getperclaus
+claus isthi
+perobjectinterfacetypemung registerasadvisedbi getthisvar gettyp getconcreteaspect
+perobjectinterfacetypemung registerasadvisedbi gettargetvar gettyp getconcreteaspect
+kind getkind advic kind advicekind
+shadow weav weavebefor
+kind getkind advic kind advicekind return afterreturn
+shadow weav return weaveafterreturn
+kind getkind advic kind advicekind throw afterthrow
+unresolv type unresolvedtyp catch type catchtyp
+extra paramet hasextraparamet
+extra paramet type getextraparametertyp
+unresolv type unresolvedtyp throwabl
+shadow weav throw weaveafterthrow catch type catchtyp
+kind getkind advic kind advicekind
+shadow weav weaveaft
+kind getkind advic kind advicekind
+note regular ltw aspect load class affectet
+mean long aspect ltw woven state unknown
+caninlin return fals
+forc inlin test class aspect fqnaspect class clinit target class
+fixm ajc compil aspect code style aspect woven state
+aspect belong parent classload case aspect inlin
+danger chang aspect compil ajc
+weav limite ltw prepar inlin
+solut flag aspect annot prepar queri
+inlin caninlin
+shadow weav closur weavearoundclosur dynam test hasdynamictest
+shadow weav inlin weavearoundinlin dynam test hasdynamictest
+kind getkind advic kind advicekind inter initi interiniti
+shadow weav return weaveafterreturn
+kind getkind cflow iscflow
+shadow weav cflow entri weavecflowentri signatur getsignatur
+kind getkind advic kind advicekind entri perthisentri
+shadow weav object entri weaveperobjectentri bcel var bcelvar shadow var getthisvar
+kind getkind advic kind advicekind target entri pertargetentri
+shadow weav object entri weaveperobjectentri bcel var bcelvar shadow target var gettargetvar
+kind getkind advic kind advicekind soften
+shadow weav soften weavesoften exact type pattern exacttypepattern except type exceptiontyp type gettyp
+kind getkind advic kind advicekind type entri pertypewithinentri
+ptwimpl entri ptw static initi type match ptw type pattern
+shadow weav type aspect initi weavepertypewithinaspectiniti shadow enclos type getenclosingtyp
+except bcexcept unimpl kind kind getkind

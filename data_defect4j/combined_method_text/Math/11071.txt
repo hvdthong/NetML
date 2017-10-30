@@ -1,0 +1,16 @@
+param number arc cosin desir
+org apach common math3 dfp
+mathemat routin link dfp
+dfp aco dfp
+constant defin link dfp field dfpfield
+lessthan getzero
+aco
+comput arc cosin argument
+result field getfield getpi subtract result
+version
+dfp copysign geton absolut
+dfp result
+instanc newinst result
+neg
+result atan geton subtract multipli sqrt divid
+dfp math dfpmath

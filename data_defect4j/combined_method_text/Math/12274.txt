@@ -1,0 +1,16 @@
+param point point check
+interv set intervalsset
+interv
+locat boundari
+belong boundari
+locat check point checkpoint point toler
+check point respect interv
+version
+point lower toler point upper toler
+locat insid
+org apach common math3 geometri euclidean on
+locat insid link locat link locat boundari
+code repres point statu link
+param toler toler point consid
+repres interv
+locat

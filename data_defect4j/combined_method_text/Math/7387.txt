@@ -1,0 +1,15 @@
+link org apach common math optim simpl scalar checker simplescalarvaluecheck
+interv possibl infinit direct
+set iter evalu count
+base abstract scalar optim baseabstractscalaroptim base abstract scalar optim baseabstractscalaroptim
+allow number evalu set link integ max
+base abstract simpl bound scalar optim baseabstractsimpleboundsscalaroptim
+base handl boiler plate method threshold
+org apach common math optim direct
+simpl constructor set
+version
+base implement optim multivari scalar function
+param func type object function optim
+base abstract simpl bound scalar optim baseabstractsimpleboundsscalaroptim func multivari real function multivariaterealfunct
+converg checker set
+subject simpl bound valid rang paramet interv

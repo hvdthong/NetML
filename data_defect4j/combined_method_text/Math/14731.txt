@@ -1,0 +1,7 @@
+function
+org apach common math3 optim linear
+version
+optim type
+linear optim linearoptim
+base implement linear optim
+linear object function linearobjectivefunct function getfunct

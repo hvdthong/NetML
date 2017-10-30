@@ -1,0 +1,21 @@
+org apach lucen search
+expert code scorer code document match code term code
+term scorer termscor scorer
+construct code termscor code
+param weight
+weight code term code queri
+param
+iter document match code term code
+param similar
+code similar code implement score
+comput
+param norm
+field norm document field code term code
+term scorer termscor weight weight term doc termdoc similar similar norm
+similar
+weight weight
+term doc termdoc
+norm norm
+weight weightvalu weight getvalu
+score cach size score cach size
+score cach scorecach similar getsimilar weight weightvalu

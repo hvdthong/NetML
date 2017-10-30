@@ -1,0 +1,13 @@
+org apach lucen search
+constrain search result match match provid
+queri posit inform document match
+cost extra space compar querywrapperfilt
+ad cost store link querywrapperfilt
+posit inform match document store
+filter cach link org apach lucen search cachingspanfilt wrapper
+cach
+span queri filter spanqueryfilt span filter spanfilt
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+span filter result spanfilterresult result bit span bitspan context reader
+result doc set getdocidset

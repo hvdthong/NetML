@@ -1,0 +1,12 @@
+author apach softwar foundat
+version
+str matcher strmatcher
+portion match
+tab matcher
+return matcher match tab charact
+org apach common lang3 text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+matcher tab
+str matcher strmatcher tab matcher tabmatch
+complet factori method

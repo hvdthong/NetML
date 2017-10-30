@@ -1,0 +1,10 @@
+overrid
+org apach common math3 stat cluster
+string string tostr
+simpl implement link cluster point coordin
+link org apach common math3 cluster doubl point doublepoint
+version
+deprec remov
+euclidean doubl point euclideandoublepoint cluster euclidean doubl point euclideandoublepoint serializ
+inherit doc inheritdoc
+arrai string tostr point

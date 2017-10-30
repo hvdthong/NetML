@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+lazi resolv pointcut definit lazyresolvedpointcutdefinit resolv type resolvedtypex declar type declaringtyp modifi string
+type typex paramet type parametertyp type typex return type returntyp
+pointcut pointcut scope iscop bind
+declar type declaringtyp modifi paramet type parametertyp return type returntyp
+pointcut unresolv pointcutunresolv pointcut
+bind bind

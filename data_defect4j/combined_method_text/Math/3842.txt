@@ -1,0 +1,76 @@
+col ncol length
+code decompos ludecompos code recomput decomposit
+solut invers
+version
+creat real matrix realmatrix input arrai underli
+data except nodataexcept local format localizedformat row
+row dimens rowdimens column dimens columndimens
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+array2 row real matrix array2drowrealmatrix
+decomposit support linear system
+null pointer except nullpointerexcept code code
+copi copyin
+strong usag note strong
+dimens mismatch except dimensionmismatchexcept length col ncol
+param copi arrai copyarrai code input arrai copi
+implement real matrix realmatrix arrai store entri
+param copi arrai copyarrai input arrai copi
+data modifi refer underli arrai obtain
+dimens mismatch except dimensionmismatchexcept code rectangular
+local format localizedformat row length col ncol length
+array2 row real matrix array2drowrealmatrix copi arrai copyarrai
+org apach common math linear
+param data matrix
+illeg argument except illegalargumentexcept null pointer except nullpointerexcept
+row length messag col ncol length
+local format localizedformat row
+invers
+data arrai
+param row dimens rowdimens number row matrix
+set code code prevent copi improv
+version revis date
+discard explicitli invok
+real matrix realmatrix directli code copi arrai copyarrai
+column messag
+base code entri getentri code
+method
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept matrix column
+decomposit perform need support oper
+referenc
+row nrow length
+data row dimens rowdimens column dimens columndimens
+decomposit cach reus subsequ call
+row length empti
+perform arrai built data copi
+link real matrix realmatrix matrix element index
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+row messag
+col ncol
+solv
+null argument except nullargumentexcept code code
+data
+local format localizedformat column
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept matrix row
+data except nodataexcept row column
+param column dimens columndimens number column matrix
+null pointer except nullpointerexcept
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+data except nodataexcept local format localizedformat column
+set code prevent copi improv
+length col ncol
+arrai built special order embed
+return element row column matrix
+array2 row real matrix array2drowrealmatrix row dimens rowdimens column dimens columndimens
+real matrix realmatrix directli code copi arrai copyarrai code
+illeg argument except illegalargumentexcept code code rectangular
+href http www math gatech bourbaki math2601 web note 2num pdf
+illeg argument except illegalargumentexcept row column dimens
+row length length
+row nrow
+creat real matrix realmatrix suppli row column dimens
+posit
+copi arrai copyarrai
+illeg argument except illegalargumentexcept
+null argument except nullargumentexcept

@@ -1,0 +1,13 @@
+number independ variabl model
+model specif except modelspecificationexcept length code equal
+param independ variabl form design matrix
+add observ addobserv model specif except modelspecificationexcept
+entir data set load memori observ
+param depend respons variabl
+estim regress statist calcul
+regress model allow dynam updat data
+version
+org apach common math3 stat regress
+add observ regress model
+ad regress model updat
+updat multipl linear regress updatingmultiplelinearregress

@@ -1,0 +1,7 @@
+report basic multivari statist
+return dimens data
+statist multivari summari statisticalmultivariatesummari
+org apach common math3 stat descript
+version
+dimens getdimens
+dimens data

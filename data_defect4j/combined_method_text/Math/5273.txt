@@ -1,0 +1,19 @@
+real matrix realmatrix row matrix getrowmatrix row
+real matrix realmatrix
+version
+org apach common math linear
+param row row fetch
+interfac defin real valu matrix basic algebra oper
+matrix element index base code entri getentri code
+row matrix
+org apach common math except rang except outofrangeexcept
+return element row column matrix
+row index invalid
+real matrix realmatrix row matrix getrowmatrix row matrix index except matrixindexexcept
+real matrix realmatrix matrix anymatrix
+row matrix row indic start
+return entri row number code row code
+version revis date
+real matrix realmatrix serializ
+matrix index except matrixindexexcept row index invalid
+geet entri row index

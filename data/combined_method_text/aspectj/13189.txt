@@ -1,0 +1,110 @@
+org aspectj apach bcel gener
+templat class build java class initi
+exist java class file
+javaclass
+version classgen java aclement exp
+author href mailto marku dahm berlin dahm
+upgrad andi clement 9th mar calcul suid
+class gen classgen access flag accessflag cloneabl
+calcul serialversionuid class
+suid getsuid
+field field field getfield
+method method method getmethod
+byte arrai output stream bytearrayoutputstream bao byte arrai output stream bytearrayoutputstream
+data output stream dataoutputstream do data output stream dataoutputstream bao
+classnam
+do write utf writeutf class getclassnam
+classmodifi acc public acc final acc interfac acc abstract
+classmod
+classmod public ispubl constant acc public acc public
+classmod final isfin constant acc final acc final
+classmod interfac isinterfac constant acc interfac acc interfac
+abstract isabstract
+interfac abstract set method
+interfac isinterfac
+method length classmod constant acc abstract acc abstract
+classmod constant acc abstract acc abstract
+do write int writeint classmod
+order list interfac
+list list arrai list arraylist
+string name interfac name getinterfacenam
+name
+arrai sort name
+name length do write utf writeutf name
+order list field ignor privat static privat transient field
+relev modifi acc public acc privat
+acc protect acc static acc final acc volatil
+acc transient
+list clear
+field length
+field field field
+field privat ispriv field static isstat
+field privat ispriv field transient istransi list add field
+collect sort list field compar fieldcompar
+relev flag relevantflag constant acc public acc public constant acc privat acc privat constant acc protect acc protect
+constant acc static acc static constant acc final acc final constant acc volatil acc volatil constant acc transient acc transient
+iter iter list iter iter hasnext
+field field iter
+do write utf writeutf getnam
+do write int writeint relev flag relevantflag modifi getmodifi
+do write utf writeutf type gettyp signatur getsignatur
+front method process discov clinit init ordinari method interest
+list clear list clear method
+list ctor arrai list arraylist
+clinit hasclinit
+method length
+method method
+initi couldbeiniti getnam char charat
+initi couldbeiniti getnam equal clinit
+clinit hasclinit
+initi couldbeiniti getnam equal init
+privat ispriv ctor add
+privat ispriv list add
+collect sort ctor constructor compar constructorcompar
+collect sort list method compar methodcompar
+class initi exist write
+method clinit
+modifi method java lang reflect modifi static written bit integ
+descriptor method
+clinit hasclinit
+do write utf writeutf clinit
+do write int writeint modifi static
+do write utf writeutf
+method constructor
+acc public acc privat acc protect acc static acc final acc synchron
+acc nativ acc abstract acc strict
+relev flag relevantflag
+constant acc public acc public constant acc privat acc privat constant acc protect acc protect
+constant acc static acc static constant acc final acc final constant acc synchron acc synchron
+constant acc nativ acc nativ constant acc abstract acc abstract constant acc strict acc strict
+sort privat constructor
+iter iter ctor iter iter hasnext
+method method iter
+do write utf writeutf getnam do writeutf getnam init
+do write int writeint relev flag relevantflag modifi getmodifi
+do write utf writeutf signatur getsignatur replac
+sort privat method
+iter iter list iter iter hasnext
+method method iter
+do write utf writeutf getnam
+do write int writeint relev flag relevantflag modifi getmodifi
+do write utf writeutf signatur getsignatur replac
+do flush
+do close
+bao byte arrai tobytearrai
+messag digest messagedigest messag digest messagedigest instanc getinst sha
+result digest
+suid
+po result length result length int po result length result length byte
+po
+suid suid result po
+definetli everytim
+long suid long sha 0xff long sha 0xff
+long sha 0xff long sha 0xff
+long sha 0xff long sha 0xff
+long sha 0xff long sha 0xff
+suid
+except
+system err println unabl calcul suid class getclassnam
+print stack trace printstacktrac
+runtim except runtimeexcept unabl calcul suid class getclassnam string tostr

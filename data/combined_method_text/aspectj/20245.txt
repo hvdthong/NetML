@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+helper test empti string
+param
+return true empti null
+null empti isnullorempti string
+length

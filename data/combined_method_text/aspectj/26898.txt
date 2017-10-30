@@ -1,0 +1,57 @@
+aspect
+sjptype sjptype sjptype sjptype
+point point point point
+thisjoinpointstaticpartvar thisjoinpointstaticpartvar thisjoinpointstaticpartvar
+enclosingstaticpart
+supporting12
+tag
+static static static static
+isenclosingjp isenclosingjp isenclosingjp isenclosingjp
+bcelvar
+org org org org
+istargettingaspectjruntime12 istargettingaspectjruntime12
+xxxxjpstaticpart
+unresolv unresolv unresolv
+munger
+param
+aspectj aspectj aspectj aspectj
+field field field field field
+runtime12
+bcelfieldref
+var var var var var var
+getclassnam
+ref
+getnam
+staticpart staticpart
+unresolvedtyp unresolvedtyp unresolvedtyp
+return
+bcelshadow
+warnonaddedstaticiniti
+xxx
+resolvedtyp
+getthisjoinpointstaticpartbcelvar
+fornam fornam fornam
+tjp
+part part part part
+enclos enclos enclos enclos enclos enclos
+typex typex
+bcel bcel bcel bcel bcel
+enclosingjpstaticpart
+world world world world world
+shadow shadow
+getenclosingclass getenclosingclass getenclosingclass
+true
+class class class
+getsourceloc
+lang lang lang
+join join join join
+target
+type type type type type type type type type type type type
+sjp sjp sjp sjp
+joinpoint joinpoint joinpoint
+resolv
+getcoretyp getcoretyp getcoretyp
+gettjpfield
+weaver
+core core core
+jpsp

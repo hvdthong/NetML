@@ -1,0 +1,604 @@
+compiler error generics arrays
+report info set message erroreous class understand errors compiler parse erroneous file bug direction
+set
+eclipse sdk
+version
+build m20060629
+ajdt
+eclipse aspectj development tools
+version 200608141223
+aspectj version 200608210848
+bug dump compiler inside eclipse
+java lang unsupportedoperationexception
+org aspectj weaver unresolvedtype parameterize unresolvedtype java
+org aspectj weaver resolvedmemberimpl parameterize resolvedmemberimpl java
+org aspectj weaver resolvedmemberimpl parameterize resolvedmemberimpl java
+org aspectj weaver resolvedmemberimpl parameterizedwith resolvedmemberimpl java
+org aspectj weaver resolvedmemberimpl parameterizedwith resolvedmemberimpl java
+org aspectj weaver referencetype getdeclaredmethods referencetype java
+org aspectj weaver resolvedtype resolvedtype java
+org aspectj weaver iterators hasnext iterators java
+org aspectj weaver iterators hasnext iterators java
+org aspectj weaver iterators hasnext iterators java
+org aspectj weaver resolvedtype lookupmember resolvedtype java
+org aspectj weaver resolvedtype lookupmethod resolvedtype java
+org aspectj weaver world resolve world java
+org aspectj weaver memberimpl resolve memberimpl java
+org aspectj weaver joinpointsignatureiterator addsignaturesuptofirstdefiningmember joinpointsignatureiterator java
+org aspectj weaver joinpointsignatureiterator init joinpointsignatureiterator java
+org aspectj weaver memberimpl getjoinpointsignatures memberimpl java
+org aspectj weaver patterns signaturepattern matches signaturepattern java
+org aspectj weaver patterns kindedpointcut matchinternal kindedpointcut java
+org aspectj weaver patterns pointcut match pointcut java
+org aspectj weaver patterns andpointcut matchinternal andpointcut java
+org aspectj weaver patterns pointcut match pointcut java
+org aspectj weaver shadowmunger match shadowmunger java
+org aspectj weaver advice match advice java
+org aspectj weaver bcel bceladvice match bceladvice java
+org aspectj weaver bcel bcelclassweaver match bcelclassweaver java
+org aspectj weaver bcel bcelclassweaver matchinvokeinstruction bcelclassweaver java
+org aspectj weaver bcel bcelclassweaver match bcelclassweaver java
+org aspectj weaver bcel bcelclassweaver match bcelclassweaver java
+org aspectj weaver bcel bcelclassweaver weave bcelclassweaver java
+org aspectj weaver bcel bcelclassweaver weave bcelclassweaver java
+org aspectj weaver bcel bcelweaver weave bcelweaver java
+org aspectj weaver bcel bcelweaver weavewithoutdump bcelweaver java
+org aspectj weaver bcel bcelweaver weaveandnotify bcelweaver java
+org aspectj weaver bcel bcelweaver weave bcelweaver java
+org aspectj ajdt internal compiler ajpipeliningcompileradapter weavequeuedentries ajpipeliningcompileradapter java
+org aspectj ajdt internal compiler ajpipeliningcompileradapter queueforweaving ajpipeliningcompileradapter java
+org aspectj ajdt internal compiler ajpipeliningcompileradapter afterprocessing ajpipeliningcompileradapter java
+org aspectj ajdt internal compiler compileradapter ajc org aspectj ajdt internal compiler compileradapter 6b855184 compileradapter
+org aspectj org eclipse jdt internal compiler compiler process compiler java
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbuildmanager java
+org aspectj ajde internal compileradapter compile compileradapter java
+org aspectj ajde internal aspectjbuildmanager compilerthread run aspectjbuildmanager java
+trouble
+public class wec lib util test syncvaluetest extends junit framework testcase
+private wec lib util test syncvaluetest syncinteger
+private wec lib util test syncvaluetest syncinteger
+private wec lib util test syncvaluetest syncinteger
+private wec lib util test syncvaluetest syncinteger
+private wec lib util test syncvaluetest syncinteger
+public void init
+aload lcom wec lib util test syncvaluetest line
+invokespecial junit framework testcase init
+constructor execution void wec lib util test syncvaluetest init
+aload lcom wec lib util test syncvaluetest line
+wec lib util test syncvaluetest syncinteger
+dup
+aload lcom wec lib util test syncvaluetest
+iconst
+invokespecial wec lib util test syncvaluetest syncinteger init lcom wec lib util test syncvaluetest
+putfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aload lcom wec lib util test syncvaluetest line
+wec lib util test syncvaluetest syncinteger
+dup
+aload lcom wec lib util test syncvaluetest
+iconst
+invokespecial wec lib util test syncvaluetest syncinteger init lcom wec lib util test syncvaluetest
+putfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aload lcom wec lib util test syncvaluetest line
+wec lib util test syncvaluetest syncinteger
+dup
+aload lcom wec lib util test syncvaluetest
+iconst
+invokespecial wec lib util test syncvaluetest syncinteger init lcom wec lib util test syncvaluetest
+putfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aload lcom wec lib util test syncvaluetest line
+wec lib util test syncvaluetest syncinteger
+dup
+aload lcom wec lib util test syncvaluetest
+iconst
+invokespecial wec lib util test syncvaluetest syncinteger init lcom wec lib util test syncvaluetest
+putfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aload lcom wec lib util test syncvaluetest line
+wec lib util test syncvaluetest syncinteger
+dup
+aload lcom wec lib util test syncvaluetest
+iconst
+invokespecial wec lib util test syncvaluetest syncinteger init lcom wec lib util test syncvaluetest
+putfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+return line
+constructor execution void wec lib util test syncvaluetest init
+end public void init
+public void testsyncvaluegroup org aspectj weaver methoddeclarationlinenumber
+
+method execution void wec lib util test syncvaluetest testsyncvaluegroup
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+anewarray wec lib util syncvaluegroup
+dup
+iconst
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aastore
+method call void wec lib util test syncvaluetest syncinteger link wec lib util syncvaluegroup
+invokevirtual wec lib util test syncvaluetest syncinteger link lcom wec lib util syncvaluegroup
+method call void wec lib util test syncvaluetest syncinteger link wec lib util syncvaluegroup
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+acmpne
+iconst
+goto
+iconst
+invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne
+iconst
+goto
+iconst
+invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne
+iconst
+goto
+iconst
+invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+anewarray wec lib util syncvaluegroup
+dup
+iconst
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aastore
+invokevirtual wec lib util test syncvaluetest syncinteger link lcom wec lib util syncvaluegroup
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne
+iconst
+goto
+iconst
+invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne
+iconst
+goto
+iconst
+invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l10
+iconst
+goto l11
+l10 iconst
+l11 invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l12
+iconst
+goto l13
+l12 iconst
+l13 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l14
+iconst
+goto l15
+l14 iconst
+l15 invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l16
+iconst
+goto l17
+l16 iconst
+l17 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l18
+iconst
+goto l19
+l18 iconst
+l19 invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+anewarray wec lib util syncvaluegroup
+dup
+iconst
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aastore
+invokevirtual wec lib util test syncvaluetest syncinteger link lcom wec lib util syncvaluegroup
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+acmpne l20
+iconst
+goto l21
+l20 iconst
+l21 invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+anewarray wec lib util syncvaluegroup
+dup
+iconst
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aastore
+invokevirtual wec lib util test syncvaluetest syncinteger link lcom wec lib util syncvaluegroup
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l22
+iconst
+goto l23
+l22 iconst
+l23 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l24
+iconst
+goto l25
+l24 iconst
+l25 invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+bipush
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+bipush line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l26
+iconst
+goto l27
+l26 iconst
+l27 invokestatic wec lib util test syncvaluetest asserttrue
+bipush line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l28
+iconst
+goto l29
+l28 iconst
+l29 invokestatic wec lib util test syncvaluetest asserttrue
+bipush line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l30
+iconst
+goto l31
+l30 iconst
+l31 invokestatic wec lib util test syncvaluetest asserttrue
+bipush line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l32
+iconst
+goto l33
+l32 iconst
+l33 invokestatic wec lib util test syncvaluetest asserttrue
+bipush line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l34
+iconst
+goto l35
+l34 iconst
+l35 invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger unlink
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l36
+iconst
+goto l37
+l36 iconst
+l37 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l38
+iconst
+goto l39
+l38 iconst
+l39 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l40
+iconst
+goto l41
+l40 iconst
+l41 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l42
+iconst
+goto l43
+l42 iconst
+l43 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l44
+iconst
+goto l45
+l44 iconst
+l45 invokestatic wec lib util test syncvaluetest asserttrue
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger unlink
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+anewarray wec lib util syncvaluegroup
+dup
+iconst
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+aastore
+invokevirtual wec lib util test syncvaluetest syncinteger link lcom wec lib util syncvaluegroup
+aload lcom wec lib util test syncvaluetest line
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+iconst
+invokestatic java lang integer valueof ljava lang integer
+invokevirtual wec lib util test syncvaluetest syncinteger setvalue ljava lang object
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l46
+iconst
+goto l47
+l46 iconst
+l47 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l48
+iconst
+goto l49
+l48 iconst
+l49 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l50
+iconst
+goto l51
+l50 iconst
+l51 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l52
+iconst
+goto l53
+l52 iconst
+l53 invokestatic wec lib util test syncvaluetest asserttrue
+iconst line
+aload lcom wec lib util test syncvaluetest
+getfield wec lib util test syncvaluetest lcom wec lib util test syncvaluetest syncinteger
+invokevirtual wec lib util test syncvaluetest syncinteger getvalue ljava lang object
+checkcast java lang integer
+invokevirtual java lang integer intvalue
+icmpne l54
+iconst
+goto l55
+l54 iconst
+l55 invokestatic wec lib util test syncvaluetest asserttrue
+return line
+method execution void wec lib util test syncvaluetest testsyncvaluegroup
+end public void testsyncvaluegroup
+end public class wec lib util test syncvaluetest
+weaving classes
+weaving
+batch building buildconfig workspace metadata plugins org eclipse ajdt core anser2 generated lst files
+class
+package wec lib util test
+import static wec ide constants unchecked
+import junit framework testcase
+import org junit test
+import wec lib util syncvaluegroup
+import wec scrum tests
+
+class tests syncvaluegroup utility class
+
+tests classes
+syncvaluegroup class
+suppresswarnings nls
+public class syncvaluetest extends testcase
+class syncinteger extends syncvaluegroup integer
+public syncinteger int val
+super integer val
+
+public void valuechanged
+
+
+private syncinteger syncinteger
+private syncinteger syncinteger
+private syncinteger syncinteger
+private syncinteger syncinteger
+private syncinteger syncinteger
+
+ensures syncvaluegroup replicates values
+calls valuechange
+
+suppresswarnings unchecked
+test
+public void testsyncvaluegroup
+link tests
+link
+asserttrue getvalue getvalue
+asserttrue getvalue
+setvalue
+asserttrue getvalue
+link
+asserttrue getvalue
+setvalue
+asserttrue getvalue
+asserttrue getvalue
+setvalue
+asserttrue getvalue
+asserttrue getvalue
+setvalue
+asserttrue getvalue
+asserttrue getvalue
+link
+asserttrue getvalue getvalue
+join loops
+link
+asserttrue getvalue
+asserttrue getvalue
+setvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+unlink tests
+unlink
+setvalue
+setvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+unlink
+link
+setvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+asserttrue getvalue
+
+

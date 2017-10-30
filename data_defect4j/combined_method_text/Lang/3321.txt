@@ -1,0 +1,148 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+empti isempti blank isblank
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+string newlin code code string input
+safe substr extract
+quot code quot quot code quot
+check string text
+abbrevi string ellipsi
+close match perl chomp
+index set string
+compar string report differ
+substr extract rel string
+string
+idx lastidx
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+string util stringutil chomp abc rabc abc rabc
+search string replac string
+code code safe
+param str string chomp
+remov end removeend str separ
+char util charutil
+code str leav
+author arun mammen thoma
+char util charutil char util charutil
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+string trail separ code string input
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+author phil steitz
+replac overlai
+str substr idx lastidx
+empti length string code
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+remov newlin end string
+abbrevi
+version
+method give sampl code explain oper
+str charat idx lastidx char util charutil
+trim strip
+remov delet
+compar string safe
+code string util stringutil code
+symbol code input includ code
+org apach common lang3
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+leav newlin quot code quot
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+string util stringutil chomp foobar bar foo
+author holger krauth
+code input code
+deprec featur remov lang link string util stringutil remov end removeend string string
+code code
+code safe
+containsonli containsnon containsani
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+remov code separ end
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+empti
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+param str string chomp newlin
+string util stringutil chomp foo foooo foo
+author href mailto jon latchkei jon steven
+string util stringutil chomp abc abc
+code code input code code
+string util stringutil chomp foo foo
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+empti isempti str
+string chomp string str string separ
+code string util stringutil code handl code code input string quietli
+remov part string
+str
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+deprec
+previou behavior link substr substringbeforelast string string
+equal
+str charat
+code null pointer except nullpointerexcept consid bug
+idx lastidx str length
+code code return
+chomp chop
+author apach softwar foundat
+str charat idx lastidx
+string charact
+java lang string
+author gari gregori
+string util stringutil chomp foo foo foo
+param separ separ string
+safe index check
+note method chang version
+quot code code quot quot code code quot
+code string util stringutil
+note method chang
+string util stringutil
+append miss appendifmiss
+thread safe threadsaf
+leav newlin quot code code quot
+string util stringutil chomp
+check charact string
+method link string end endswith string
+string newlin code string input
+string util stringutil chomp foobar baz foobar
+string chomp string str
+prepend miss prependifmiss
+str length
+symbol code code input includ code code

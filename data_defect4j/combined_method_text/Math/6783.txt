@@ -1,0 +1,35 @@
+overrid
+org apach common math od nonstiff
+final dofin
+inherit doc inheritdoc
+integr comput deriv computederiv previou time previoustim c14 tmp ytmp dot ydotklast
+equat comput deriv computederiv previou time previoustim c15 tmp ytmp dot ydotklast
+od integr dormand princ integr
+integr comput deriv computederiv previou time previoustim c16 tmp ytmp dot ydotklast
+deriv except derivativeexcept
+current state currentst
+k16
+k15
+k14
+math user except mathuserexcept
+integr comput deriv computederiv c16 tmp ytmp dot ydotklast
+version
+equat comput deriv computederiv previou time previoustim c14 tmp ytmp dot ydotklast
+version revis date
+k14 dot ydotk k14 dot ydotk k14 dot ydotk
+equat comput deriv computederiv previou time previoustim c16 tmp ytmp dot ydotklast
+k15 dot ydotk k15 dot ydotk k15 dot ydotk
+final uniniti instanc
+integr comput deriv computederiv c15 tmp ytmp dot ydotklast
+k16 dot ydotk k16 dot ydotk k16 dot ydotk
+k15 dot ydotklast
+k16 dot ydotklast k16 dot ydotklast
+current state currentst length
+tmp ytmp current state currentst length
+dormand prince853 step interpol dormandprince853stepinterpol
+integr comput deriv computederiv c14 tmp ytmp dot ydotklast
+tmp ytmp current state currentst
+dormand prince853 integr dormandprince853integr
+repres interpol step
+global previou time getglobalprevioustim
+integr comput deriv computederiv previou time previoustim c15 tmp ytmp dot ydotklast

@@ -1,0 +1,17 @@
+version revis date lun juin
+implement href http mathworld wolfram brent method brentsmethod html
+link univari real solver impl univariaterealsolverimpl solv univari real function univariaterealfunct
+construct solver function
+brent algorithm find zero real univari function
+brent solver brentsolv
+link solv univari real function univariaterealfunct
+brent solver brentsolv univari real function univariaterealfunct
+deprec
+function continu necessarili smooth
+default maximum iter default absolut accuraci
+deprec function solv pass argument
+param function solv
+construct solver
+org apach common math analysi solver
+method
+brent solver brentsolv univari real solver impl univariaterealsolverimpl

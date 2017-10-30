@@ -1,0 +1,15 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+dump shoulddump string class classnam
+dump weav ask
+dump dumpbefor
+avoid resolvedtyp need
+dump type pattern dumptypepattern empti isempti
+todo optim classnam startwith
+resolv type resolvedtyp class info classinfo weaver world getworld resolv unresolv type unresolvedtyp fornam class classnam
+dump
+iter iter dump type pattern dumptypepattern iter iter hasnext
+type pattern typepattern type pattern typepattern type pattern typepattern iter
+type pattern typepattern match static matchesstat class info classinfo
+dump match

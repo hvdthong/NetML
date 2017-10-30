@@ -1,0 +1,52 @@
+param hand side equat time
+method find exact linear solut solut
+entri getentri entri getentri
+matrix util matrixutil creat real matrix createrealmatrix
+org apach common math linear decomposit
+except illeg argument except illegalargumentexcept matric dimens match
+except invalid matrix except invalidmatrixexcept decompos matrix singular
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+author christof voemel univers california berkelei usa fortran version
+data vdata
+dlasq2 dlazq3 dlazq4 dlasq5 dlasq6
+comput real real eigenvalu realeigenvalu impli matrix return
+link getd diagon imaginari valu return link
+href http www utexa user inderjit paper thesi pdf
+real eigenvalu realeigenvalu length
+algorithm symmetr tridiagon eigenvalu eigenvector
+upper part matrix part diagon access
+real matrix realmatrix solv real matrix realmatrix
+author jim demmel univers california berkelei usa fortran version
+support strong symmetr strong matric
+imag eigenvalu getimageigenvalu link imag eigenvalu getimageigenvalu
+version revis date
+eigen decomposit impl eigendecompositionimpl eigen decomposit eigendecomposit
+col ncolb
+matric
+singular matrix except singularmatrixexcept
+row dimens getrowdimens column dimens getcolumndimens
+data vdata data ref getdataref
+object
+eigen decomposit matrix set matric
+calcul eigen decomposit strong symmetr strong matrix
+row dimens getrowdimens
+illeg argument except illegalargumentexcept invalid matrix except invalidmatrixexcept
+dqd algorithm posit case lapack routin dlarr
+author beresford parlett univers california berkelei usa fortran version
+comput requir link eigenvector geteigenvector
+matrix minim norm time
+problem beresford parlett osni marqu paper
+real eigenvalu realeigenvalu
+author osni marqu lbnl nersc usa fortran version
+call link real matrix realmatrix argument implement
+link getv link getvt link solver getsolv method call
+eigenvalu comput matrix decompos eigenvector
+author inderjit dhillon univers texa austin usa fortran version
+href http www netlib org lapack lawnspdf lawn155 pdf implement
+singular isnonsingular
+time
+solv linear equat time symmetr matric
+implement base inderjit singh dhillon thesi
+real vector impl realvectorimpl eigenvector
+dimens mismatch expect
+col ncolb column dimens getcolumndimens

@@ -1,0 +1,15 @@
+rotat appli applyto
+org apach common math geometri euclidean threed
+plane rotat appli applyto
+repres plane dimension space
+rotat plane point
+vector3 vector3d delta origin subtract center
+plane
+plane plane plane center add rotat appli applyto delta
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+param rotat vectori rotat oper
+plane rotat vector3 vector3d center rotat rotat
+instanc modifi instanc creat
+make frame transform desir
+param center rotat center

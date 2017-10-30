@@ -1,0 +1,27 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass static part java virtual
+machin specif 2nd edit
+detail inform found verifi
+method' document
+version pass3averifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3a verifi pass3averifi pass verifi passverifi
+check constraint operand instruct satisfi
+visit invokestat visitinvokestat invokestat
+invokestat loadclass class referenc method declar
+resolv verifi
+invokestat invokeinstruct argument return type resolv verifi
+allow method name
+string classnam class getclassnam cpg
+java class javaclass repositori lookup class lookupclass classnam
+method method getmethod
+method
+length
+getnam equal method getmethodnam cpg
+type return type getreturntyp signatur getsignatur equal return type getreturntyp cpg
+objarrayequ type argument type getargumenttyp signatur getsignatur argument type getargumenttyp cpg
+constraint violat constraintviol referenc method method getmethodnam cpg expect signatur found class class getclassnam nativ verifi possibl method declar superclass implement interfac java virtual machin specif edit
+static isstat isstat impli abstract verifi pass
+constraint violat constraintviol referenc method method getmethodnam cpg acc static unset

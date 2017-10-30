@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel cflow stack field adder bcelcflowstackfieldadd bcel type munger bceltypemung
+match resolv type resolvedtyp type ontyp
+type ontyp equal cflow stack field cflowstackfield declar type getdeclaringtyp

@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org joda time chrono
+
+
+
+
+
+
+
+
+
+dai week date time field gjdayofweekdatetimefield time calcul
+dai week compon time
+
+
+author gui allard
+author stephen colebourn
+author brian neill o'neil
+
+dai week date time field gjdayofweekdatetimefield precis durat date time field precisedurationdatetimefield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+abbrevi textual time instant
+
+param field fieldvalu field queri
+param local local
+dai week mon' 'mon'
+
+string short text getasshorttext field fieldvalu local local
+local symbol gjlocalesymbol local forlocal local dai week short text dayofweekvaluetoshorttext field fieldvalu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+annot hasannot unresolv type unresolvedtyp type oftyp
+ensur annot retriev ensureannotationsretriev
+iter iter annot type annotationtyp iter iter hasnext
+resolv type resolvedtyp type atyp resolv type resolvedtyp iter
+type atyp equal type oftyp

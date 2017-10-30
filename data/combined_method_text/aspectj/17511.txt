@@ -1,0 +1,8 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+reset editor reseteditor
+browser manag browsermanag default getdefault root frame getrootfram set size setsiz browser manag browsermanag default getdefault root frame getrootfram width getwidth browser manag browsermanag default getdefault root frame getrootfram height getheight
+browser manag browsermanag default getdefault root frame getrootfram layout dolayout
+browser manag browsermanag default getdefault root frame getrootfram repaint

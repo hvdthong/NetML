@@ -1,0 +1,7 @@
+org aspectj util
+file util fileutil
+return zip jar suffix
+zip suffix length zipsuffixlength string path
+path path length
+string test path substr path length lower case tolowercas
+zip equal test jar equal test

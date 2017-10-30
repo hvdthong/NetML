@@ -1,0 +1,15 @@
+chromosom compar chromosom fit
+individu popul chromosom compar base fit
+search popul chromosom repres solut
+chromosom immut fit immut
+param popul popul search
+version
+find updat fit
+fit chromosom samechromosom fit getfit
+org apach common math3 genet
+search fit updat searchforfitnessupd popul popul
+chromosom samechromosom
+updat fit
+search popul chromosom repres solut find
+cach
+chromosom chromosom samechromosom find chromosom findsamechromosom popul

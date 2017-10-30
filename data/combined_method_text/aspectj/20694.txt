@@ -1,0 +1,28 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+add need super call method addneededsupercallmethod
+bcel class weaver bcelclassweav weaver
+resolv type resolvedtyp type ontyp
+set need super call neededsupercal
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+iter iter need super call neededsupercal iter iter hasnext
+resolv member resolvedmemb super method supermethod resolv member resolvedmemb iter
+weaver add dispatch target adddispatchtarget super method supermethod
+system err println super type supermethod getdeclaringtyp gen gettyp
+super issup super method supermethod declar type getdeclaringtyp equal gen type gettyp
+string dispatch dispatchnam
+super issup
+dispatch dispatchnam
+mangler namemangl super dispatch method superdispatchmethod type ontyp super method supermethod getnam
+dispatch dispatchnam
+mangler namemangl protect dispatch method protecteddispatchmethod
+type ontyp
+super method supermethod getnam
+lazi method gen lazymethodgen dispatch
+make dispatch makedispatch
+gen
+dispatch dispatchnam
+super method supermethod
+weaver world getworld
+super issup
+weaver add lazi method gen addlazymethodgen dispatch

@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+bcel object type bcelobjecttyp build bcel deleg buildbceldeleg refer type referencetyp resolv type resolvedtypex java class javaclass expos weaver exposedtoweav
+bcel object type bcelobjecttyp ret bcel object type bcelobjecttyp resolv type resolvedtypex expos weaver exposedtoweav
+ret

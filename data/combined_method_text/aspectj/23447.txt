@@ -1,0 +1,26 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+weav shouldweavenam string
+weav special type weavingspecialtyp initi
+weav special type weavingspecialtyp initi
+initi
+properti weaver world getworld extra configur getextraconfigur
+properti getproperti world xset weav java packag xsetweav java packag fals equal ignor case equalsignorecas true
+weav special type weavingspecialtyp weav java packag weav java packag
+properti getproperti world xset weav javax packag xsetweav javax packag fals equal ignor case equalsignorecas true
+weav special type weavingspecialtyp weav javax packag weav javax packag
+start startswith org aspectj
+start startswith java weav special type weavingspecialtyp weav java packag weav java packag
+start startswith javax weav special type weavingspecialtyp weav javax packag weav javax packag
+startswith proxi jdk proxi fixm proxi ataspect proxy0 java5 proxi
+start startswith sun reflect startswith sun reflect jdk reflect

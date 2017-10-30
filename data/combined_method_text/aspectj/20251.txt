@@ -1,0 +1,126 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+extract class level annot turn ajattribut
+param javaclass
+param type
+param context
+param msghandler
+return list ajattribut
+list read aj5 class attribut readaj5classattribut java class javaclass java class javaclass refer type referencetyp type sourc context isourcecontext context messag handler imessagehandl msg handler msghandler code style aspect iscodestyleaspect
+pointcut containspointcut
+fixm featur limit kick implement
+ignor class ignorethisclass java class javaclass class getclassnam char charat java class javaclass class getclassnam start startswith org aspectj lang annot
+ignor class ignorethisclass empti list empti list
+annot class refer containsannotationclassrefer
+constant cpool java class javaclass constant pool getconstantpool constant pool getconstantpool
+cpool length
+constant constant cpool
+constant constant tag gettag constant constant utf8 constant utf8
+string constant constantvalu constant utf8 constantutf8 constant byte getbyt
+constant constantvalu length constant constantvalu char charat
+constant constantvalu start startswith lorg aspectj lang annot
+annot class refer containsannotationclassrefer
+lorg aspectj lang annot declareannot equal constant constantvalu
+msg handler msghandler handl messag handlemessag
+messag
+found declareannot current releas support type getnam
+messag imessag warn
+type sourc locat getsourceloc
+lorg aspectj lang annot pointcut equal constant constantvalu
+pointcut containspointcut
+annot class refer containsannotationclassrefer empti list empti list
+throwabl
+attribut struct ajattributestruct struct attribut struct ajattributestruct type context msg handler msghandler
+attribut attribut java class javaclass attribut getattribut
+aspect annot hasataspectannot
+preced annot hasatprecedenceannot
+attribut length
+attribut attribut attribut
+accept attribut acceptattribut attribut
+runtim annot runtimeannot rv runtim annot runtimeannot attribut
+attribut occur happen jsr175
+code style aspect iscodestyleaspect java class javaclass interfac isinterfac
+aspect annot hasataspectannot handl aspect annot handleaspectannot rv struct
+todo put iscodestyleaspect enabl mix style
+preced annot hasatprecedenceannot handl preced annot handleprecedenceannot rv struct
+runtimevis bytecod attribut
+basic semant check
+preced annot hasatprecedenceannot aspect annot hasataspectannot
+msg handler msghandler handl messag handlemessag
+messag
+found declarepreced aspect type type getnam
+messag imessag warn
+type sourc locat getsourceloc
+bypass read
+empti list empti list
+block detect pointcut aspect type optim purpos
+aspect annot hasataspectannot pointcut containspointcut
+empti list empti list
+fixm turn ajcmighthaveaspect
+hasataspectannot type isinterfac
+msghandler handlemessag
+messag
+found aspect interfac type type getnam
+imessag warn
+null
+type getsourceloc
+bypass read
+return empti list
+semant check aspect public
+fixm enforc
+hasataspectannot javaclass ispubl
+msghandler handlemessag
+messag
+found aspect annot public class javaclass getclassnam
+imessag error
+null
+type getsourceloc
+return empti list
+code style pointcut class attribut
+gather pointcut method level annot extract time
+order resolv pointcut refer
+super class pointcut refer grammar
+java class javaclass method getmethod length
+method method java class javaclass method getmethod
+method getnam start startswith mangler namemangl prefix method getnam startswith namemangl prefix continu dealt ajc
+fixm alex optim method struct recreat advic extract
+attribut method struct ajattributemethodstruct mstruct
+process pointcut processedpointcut
+attribut mattribut method attribut getattribut
+mattribut length
+attribut mattribut mattribut
+accept attribut acceptattribut mattribut
+mstruct mstruct attribut method struct ajattributemethodstruct method type context msg handler msghandler mstruct null mstruct ajattributemethodstruct method null type context msghandler fixm avasm
+process pointcut processedpointcut handl pointcut annot handlepointcutannot runtim annot runtimeannot mattribut mstruct
+runtimevis bytecod attribut
+process pointcut processedpointcut
+fixm asc check ad multipl version test pass
+struct attribut ajattribut add attribut ajattribut weaver version info weaverversioninfo
+struct attribut ajattribut add addal mstruct attribut ajattribut
+code style declar error warn implement parent field attribut
+java class javaclass field getfield length
+field field java class javaclass field getfield
+field getnam start startswith mangler namemangl prefix field getnam startswith namemangl prefix continu dealt ajc
+fixm alex optim method struct recreat advic extract
+attribut field struct ajattributefieldstruct fstruct attribut field struct ajattributefieldstruct field type context msg handler msghandler
+attribut fattribut field attribut getattribut
+fattribut length
+attribut fattribut fattribut
+accept attribut acceptattribut fattribut
+runtim annot runtimeannot frv runtim annot runtimeannot fattribut
+handl declar error warn annot handledeclareerrororwarningannot frv fstruct
+handl declar parent annot handledeclareparentsannot frv fstruct
+semant check aspect remov previou block bypass advanc
+type annot style aspect isannotationstyleaspect
+msg handler msghandler handl messag handlemessag
+messag
+found aspectj annot aspect type type getnam
+messag imessag warn
+type sourc locat getsourceloc
+ahead
+runtimevis bytecod attribut
+struct attribut ajattribut add addal fstruct attribut ajattribut
+struct attribut ajattribut

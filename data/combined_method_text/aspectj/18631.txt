@@ -1,0 +1,7 @@
+org aspectj weaver
+asm relationship provid asmrelationshipprovid
+program element iprogramel lookup member lookupmemb hierarchi ihierarchi model member member
+unresolv type unresolvedtyp declar type declaringtyp member declar type getdeclaringtyp
+program element iprogramel class node classnod
+model find element type findelementfortyp declar type declaringtyp packag getpackagenam declar type declaringtyp class getclassnam
+find member class findmemberinclass class node classnod member

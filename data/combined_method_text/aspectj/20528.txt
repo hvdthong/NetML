@@ -1,0 +1,34 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener instanc method generatepertwgetinstancemethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak type instanc pertypewithingetinst aspect type aspecttyp
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+instruct list instructionlist method bodi getbodi
+instruct handl instructionhandl start trystart append instruct constant instructionconst aload
+append push factori constant pool getconstantpool mangler namemangl type local aspect pertypewithinlocalaspectof aspect type aspecttyp
+append instruct constant instructionconst aconst null aconst null append instructionconst aconst null class getdeclaredmethod
+append factori creat invok createinvok
+java lang class
+getdeclaredmethod
+type type gettyp ljava lang reflect method
+type type type gettyp ljava lang string type type gettyp ljava lang class
+constant invokevirtu
+append instruct constant instructionconst aconst null aconst null append instructionconst aconst null object invok static method
+append instruct constant instructionconst aconst null aconst null append instructionconst aconst null object invok arg
+append factori creat invok createinvok
+java lang reflect method
+invok
+type object
+type type type gettyp ljava lang object type type gettyp ljava lang object
+constant invokevirtu
+append factori creat check cast createcheckcast refer type referencetyp bcel world bcelworld make bcel type makebceltyp aspect type aspecttyp
+append instruct constant instructionconst areturn
+instruct handl instructionhandl handler append instruct constant instructionconst astor
+append instruct constant instructionconst aconst null aconst null
+append instruct constant instructionconst areturn
+method add except handler addexceptionhandl
+start trystart handler prev getprev handler object type objecttyp java lang except

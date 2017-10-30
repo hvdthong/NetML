@@ -1,0 +1,4 @@
+org aspectj ajdt intern compil lookup
+inter type scope intertypescop class scope classscop
+sourc type bind sourcetypebind invoc type invocationtyp
+parent enclos sourc type enclosingsourcetyp

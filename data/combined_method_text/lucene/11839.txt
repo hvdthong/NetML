@@ -1,0 +1,8 @@
+org apach lucen index
+freq prox term writer field freqproxtermswriterperfield term hash consum field termshashconsumerperfield compar freq prox term writer field freqproxtermswriterperfield
+copi freq prox post arrai freqproxpostingsarrai arrai fromarrai freq prox post arrai freqproxpostingsarrai arrai toarrai
+copi arrai fromarrai arrai toarrai
+system arraycopi arrai fromarrai doc freq docfreq arrai toarrai doc freq docfreq arrai fromarrai doc freq docfreq length
+system arraycopi arrai fromarrai doc lastdocid arrai toarrai doc lastdocid arrai fromarrai doc lastdocid length
+system arraycopi arrai fromarrai doc code lastdoccod arrai toarrai doc code lastdoccod arrai fromarrai doc code lastdoccod length
+system arraycopi arrai fromarrai posit lastposit arrai toarrai posit lastposit arrai fromarrai posit lastposit length

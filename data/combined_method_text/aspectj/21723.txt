@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+cflow pointcut cflowpointcut pointcut
+write data output stream dataoutputstream except ioexcept
+write byte writebyt pointcut cflow
+entri write
+write boolean writeboolean isbelow
+file util fileutil write int arrai writeintarrai free var freevar
+write locat writeloc

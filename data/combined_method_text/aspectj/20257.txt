@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+set pointcut bind ignor unbound issu implicitli bind
+xxxjoinpoint advic
+param pointcut
+param bind
+set ignor unbound bind name setignoreunboundbindingnam pointcut pointcut formal bind formalbind bind
+regist implicitbind unbound
+todo fail bad
+list ignor arrai list arraylist
+bind length
+formal bind formalbind formal bind formalbind bind
+formal bind formalbind formal bind formalbind implicit formal bind implicitformalbind
+ignor add formal bind formalbind getnam
+pointcut ignor unbound bind name ignoreunboundbindingfornam string ignor arrai toarrai string ignor size

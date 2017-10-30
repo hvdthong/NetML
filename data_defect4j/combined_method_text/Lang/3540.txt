@@ -1,0 +1,98 @@
+author href mailto hp intermeta hen schmiedehausen
+str prefix
+oper link java lang string
+author href mailto apach org korthof
+remov lead trail whitespac
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+param str string check
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+str region match regionmatch ignor case ignorecas prefix prefix length
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+code code string start prefix
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+prefix length str length
+trim strip
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+code code
+empti length string code code
+safe substr extract
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+differ
+org apach common lang3
+count match countmatch
+start startswith string str string prefix ignor case ignorecas
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+param prefix prefix find
+code string util stringutil code defin word relat
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+java lang string start startswith string
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+code code safe
+remov part string
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+author michael davei
+check string start prefix option insensit
+substr left mid
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+string util stringutil
+insensit
+thread safe threadsaf
+check charact string
+param ignor case ignorecas inid compar ignor
+symbol code code input includ code code

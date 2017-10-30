@@ -1,0 +1,6 @@
+org aspectj apach bcel gener annot
+class element gen classelementvaluegen element gen elementvaluegen
+class element gen classelementvaluegen object type objecttyp constant pool gen constantpoolgen cpool
+element gen elementvaluegen class cpool
+idx cpool addclass
+idx cpool add utf8 addutf8 signatur getsignatur

@@ -1,0 +1,20 @@
+author stephen colebourn
+param hour amount hour add neg
+type safe repres number hour applic
+code hour gethour code basic mathemat oper provid
+period number hour
+immut time period repres number hour
+return instanc number hour ad
+hour base singl field period basesinglefieldperiod
+hour
+code divid dividedbi code
+arithmet except arithmeticexcept result overflow
+code code code minu code code multipli multipliedbi code
+org joda time
+instanc immut unaffect method call
+hour hour field util fieldutil safe add safeadd getvalu hour
+hour hour
+code hour code immut period store hour
+store year month minut
+number hour set constructor queri
+code hour code thread safe immut

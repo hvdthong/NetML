@@ -1,0 +1,13 @@
+distribut distribut
+param seed seed
+inherit doc inheritdoc
+base integ valu discret distribut default
+abstract integ distribut abstractintegerdistribut
+rese random gener gener sampl
+version
+random data randomdata seed rese seed
+implement provid method vari
+version revis date
+org apach common math distribut
+rese random gener reseedrandomgener seed
+abstract integ distribut abstractintegerdistribut abstract distribut abstractdistribut

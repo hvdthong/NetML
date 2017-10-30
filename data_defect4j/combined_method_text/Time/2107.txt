@@ -1,0 +1,14 @@
+author stephen colebourn
+period code period type periodtyp standard code
+kind period object referenc
+period period toperiod
+link readabl period readableperiod
+manag singl durat field dai minut
+base singl field period basesinglefieldperiod implement readabl period readableperiod
+code period code repres number dai
+base singl field period basesinglefieldperiod subclass mutabl thread safe
+org joda time base
+base singl field period basesinglefieldperiod
+period immut code period code object
+gener directli api user
+period field withfield

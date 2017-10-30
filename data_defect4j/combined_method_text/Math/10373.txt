@@ -1,0 +1,23 @@
+version
+point
+inherit doc inheritdoc
+comput deriv
+extract jacobian
+deriv structur derivativestructur dsy dsx
+class repres jacobian multivari vector function
+row iter model function column iter paramet
+dsy length
+set paramet
+dsx deriv structur derivativestructur point length point
+order point length
+order
+dsy partial deriv getpartialderiv order
+number row equal dimens underli function vector
+deriv structur derivativestructur dsx deriv structur derivativestructur point length
+underli function
+jacobian function jacobianfunct multivari matrix function multivariatematrixfunct
+number column equal number free paramet
+point length
+org apach common math3 analysi differenti
+dsy length point length
+illeg argument except illegalargumentexcept

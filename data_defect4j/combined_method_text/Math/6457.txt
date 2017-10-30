@@ -1,0 +1,12 @@
+param dot ydot placehold arrai put time deriv state vector
+inherit doc inheritdoc
+current time deriv state vector underli fode
+wrapper enabl link order differenti equat firstorderdifferentialequ basic simpl
+param arrai current state vector
+comput deriv computederiv dot ydot
+version
+od instanc process link jacobian matric jacobianmatric
+parameter wrapper parameterizedwrapp parameter od parameterizedod
+org apach common math od
+fode comput deriv computederiv dot ydot
+param current independ time variabl

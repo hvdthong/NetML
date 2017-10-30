@@ -1,0 +1,8 @@
+org apach common math geometri euclidean threed
+version
+inherit doc inheritdoc
+vector3 vector3d center rotat appli applyto delta
+vector3 vector3d delta vector3 vector3d point subtract center
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron
+vector3 vector3d appli vector euclidean3 euclidean3d point

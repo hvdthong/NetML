@@ -1,0 +1,20 @@
+author apach softwar foundat
+author apach ant date util dateutil
+format date milli pattern
+author href mailto ggregori seagullsw gari gregori
+format perform thread safe
+author href mailto sbailliez apach org stephan bailliez
+overrid previous call calendar clear call lang
+note jdk bug call calendar
+org apach common lang3 time
+date time format util constant
+format date time specif pattern
+author href mailto stefan bodewig epost stefan bodewig
+version
+param pattern pattern format date
+param milli date format express millisecond
+string format milli string pattern
+format perform
+date format util dateformatutil
+format date
+link org apach common lang3 time fast date format fastdateformat

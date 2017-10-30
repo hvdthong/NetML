@@ -1,0 +1,19 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+object visit wild type pattern wildtypepattern node object data
+node annot pattern getannotationpattern annot type pattern annotationtypepattern
+append
+node annot pattern getannotationpattern accept data
+append
+pattern namepattern pattern namepattern node pattern getnamepattern
+pattern namepattern length
+pattern namepattern
+append append fixm error prone nullnamepattern
+append
+pattern namepattern accept data
+node includ subtyp isincludesubtyp append
+node var arg isvararg append
+node annot pattern getannotationpattern annot type pattern annotationtypepattern
+append

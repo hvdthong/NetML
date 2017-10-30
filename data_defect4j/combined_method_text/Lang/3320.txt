@@ -1,0 +1,131 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+safe substr extract
+prepend prefix start string present
+abbrevi string ellipsi
+close match perl chomp
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+string util stringutil chomp foobar baz foobar
+code code safe
+param str string chomp
+remov end removeend str separ
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+code str leav
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+string trail separ code string input
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+str substr str length separ length
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+compar string safe
+code string util stringutil code
+remov code separ code end
+symbol code input includ code
+org apach common lang3
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+string util stringutil chomp foobar bar foo
+author holger krauth
+code input code
+deprec featur remov lang link string util stringutil remov end removeend string string
+code code
+code safe
+containsonli containsnon containsani
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+check string text
+remov code separ end
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+str end endswith separ
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+author chri hyzer
+string util stringutil chomp foo foo foo
+check string start prefix safe
+author reuben sivan
+author chou
+string trail separ code code string input
+code string util stringutil code defin word relat
+string util stringutil chomp foo foooo foo
+author href mailto jon latchkei jon steven
+empti isempti blank isblank
+code code input code code
+string util stringutil chomp foo foo
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+string chomp string str string separ
+remov part string
+str
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+empti isempti str separ
+deprec
+previou behavior link substr substringbeforelast string string
+equal
+code null pointer except nullpointerexcept consid bug
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+code str code leav
+author gari gregori
+param separ separ string
+safe index check
+note method chang version
+code string util stringutil
+string util stringutil
+thread safe threadsaf
+string util stringutil chomp
+check charact string
+symbol code code input includ code code
+search string replac string
+append miss appendifmiss
+prepend miss prependifmiss
+method link string end endswith string

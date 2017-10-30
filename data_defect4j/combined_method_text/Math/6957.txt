@@ -1,0 +1,12 @@
+org apach common math od sampl
+arrai fill interpol deriv interpolatedderiv
+arrai fill interpol state interpolatedst
+inherit doc inheritdoc
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+start row startrow end row endrow start column startcolumn end column endcolumn
+interpol comput dens output current point
+interpol equat base taylor seri formula
+version revis date
+adam integr adamsintegr
+start row column
+interpol integr nordsieck represent

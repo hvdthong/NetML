@@ -1,0 +1,18 @@
+implement partial pivot
+org apach common math linear
+build solver decompos matrix
+lup decomposit matrix consist matric
+version revis date
+param entri decomposit
+singular singular
+calcul lup decomposit squar matrix
+satisfi lup lower triangular
+solver pivot singular
+shown presenc matrix decomposit
+time
+upper triangular permut matrix matric
+param pivot pivot permut decomposit
+satisfi lower triangular
+pivot pivot
+decomposit impl ludecompositionimpl decomposit ludecomposit
+param singular singular indic

@@ -1,0 +1,16 @@
+org aspectj util
+lang util langutil
+ineffici replac instanc sought replac
+string replac string string sought string replac
+lang util langutil empti isempti lang util langutil empti isempti sought
+string buffer stringbuff result string buffer stringbuff
+len sought length
+start
+loc
+loc index indexof sought start
+result append substr start loc
+lang util langutil empti isempti replac
+result append replac
+start loc len
+result append substr start
+result string tostr

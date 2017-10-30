@@ -1,0 +1,46 @@
+gener field problem gener field
+gui
+download develop 20051029200407
+issu open
+
+java code
+
+public class test1
+set integ intsset
+public set integ foo
+return intsset
+
+
+public class test2
+set doubl dset
+public set doubl foo
+return dset
+
+
+aspect
+
+public privileg aspect testaspect
+pointcut gettingmembercollect test
+target
+public set number
+testaspect
+set test gettingmembercollect
+set proce
+return
+
+
+replac access member set
+deriv number problem advic strict
+return exact type member error earlier
+incompat return type appli field java util set
+mprv secsph test intsset
+incompat return type appli field java util set
+mprv secsph test dset
+declar advic work fine
+declar advic
+set extend number test gettingmembercollect
+set proce
+return
+
+
+misha

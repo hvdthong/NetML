@@ -1,0 +1,13 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+org joda time chrono
+author gui allard
+local symbol gjlocalesymbol local forlocal local halfdai text halfdayvaluetotext field fieldvalu
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+string text getastext field fieldvalu local local
+reflect intent defin

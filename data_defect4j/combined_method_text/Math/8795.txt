@@ -1,0 +1,10 @@
+suppli weight
+param valu input arrai
+weight evalu weightedevalu
+param weight arrai weight
+evalu valu weight
+weight evalu statist
+weight statist appli input arrai
+version revis date
+org apach common math stat descript
+return result evalu statist input arrai

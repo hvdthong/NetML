@@ -1,0 +1,14 @@
+calling tosource parsed script array undefined elements returns smaller array sample attached
+user agent mozilla windows windows gecko firefox
+build 20110902133716
+steps reproduce
+string source
+parser parser parser
+astroot astroot parser parse stringreader source null
+system println astroot tosource
+actual results
+output
+
+expected results
+output
+

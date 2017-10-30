@@ -1,0 +1,12 @@
+org apach lucen index
+term buffer termbuff cloneabl
+set term term
+term
+reset
+string term text termtext term text
+term len termlen term text termtext length
+text set length setlength term len termlen
+term text termtext char getchar term len termlen text result
+dirti
+field term field
+term term

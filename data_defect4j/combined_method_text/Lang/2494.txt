@@ -1,0 +1,17 @@
+author stephen colebourn
+author apach ant date util dateutil
+version
+author href mailto sbailliez apach org stephan bailliez
+format date
+format date time specif pattern utc time zone
+param pattern pattern format date
+date time format util constant
+author href mailto ggregori seagullsw gari gregori
+author href mailto stefan bodewig epost stefan bodewig
+org apach common lang time
+format perform
+param milli date format express millisecond
+date format util dateformatutil
+link org apach common lang time fast date format fastdateformat
+format date milli pattern date util dateutil utc time zone
+string format utc formatutc milli string pattern

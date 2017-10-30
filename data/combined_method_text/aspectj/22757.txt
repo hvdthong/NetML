@@ -1,0 +1,26 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+target annot pointcut thisortargetannotationpointcut bind pointcut namebindingpointcut
+guard hasannot test determin runtim
+typeannotationaccessvar place mean place
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+match couldmatch shadow liter fals
+match alwaysmatch match shadow true alwaystru
+var var isthi shadow var getthisvar shadow target var gettargetvar
+var ann var annvar
+annot bound
+unresolv type unresolvedtyp annot type annotationtyp annot type pattern annotationtypepattern annot type annotationtyp
+annot type pattern annotationtypepattern bind annot type pattern bindingannotationtypepattern
+bind annot type pattern bindingannotationtypepattern btp bind annot type pattern bindingannotationtypepattern annot type pattern annotationtypepattern
+annot type annotationtyp btp annot type annotationtyp
+ann var annvar isthi shadow annot var getthisannotationvar annot type annotationtyp
+shadow target annot var gettargetannotationvar annot type annotationtyp
+ann var annvar
+runtim except runtimeexcept imposs
+state set btp formal index getformalindex ann var annvar
+match alwaysmatch ann var annvar alwaysmatch annvar null chang check verifi 'generic' annvar
+liter true
+resolv type resolvedtyp type rtype annot type annotationtyp resolv shadow world getiworld
+test make annot makehasannot var type rtype

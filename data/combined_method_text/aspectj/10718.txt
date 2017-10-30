@@ -1,0 +1,44 @@
+org aspectj ajd swing
+author mik kersten
+browser view tree listen browserviewtreelisten tree select listen treeselectionlisten mous listen mouselisten
+todo code ispopuptrigg code
+work reason check mous button
+click
+show popup maybeshowpopup mous event mouseev
+modifi getmodifi input event inputev button3 mask button3 mask tree select count getselectioncount
+treepath selectionpath tree getselectionpath
+list signatur arrai list arraylist
+int selectionpath length
+iprogramel currnod iprogramel swingtreeviewnod selectionpath getlastpathcompon getuserobject
+currnod instanceof linknod currnod instanceof iprogramel
+signatur add currnod
+popup menu jpopupmenu popup popup menu jpopupmenu
+menu item jmenuitem show sourc item showsourcesitem menu item jmenuitem displai sourc ajd default getdefault icon registri geticonregistri structur swing icon getstructureswingicon program element iprogramel kind code
+show sourc item showsourcesitem set font setfont java awt font dialog
+show sourc item showsourcesitem add action listen addactionlisten abstract action abstractact
+serial version uid serialversionuid
+action perform actionperform action event actionev
+ajdeuimanag getdefault getviewmanag showsourcesnod signatur
+browserviewmanag
+public void showsourcesnod java util list node
+iter node iter hasnext
+programelementnod currnod null
+iprogramel iprogramel iprogramel
+iprogramel instanceof linknod
+currnod linknod iprogramel getprogramelementnod
+currnod programelementnod iprogramel
+isourceloc sourceloc currnod getsourceloc
+null sourceloc
+ajd getdefault geteditormanag addviewforsourcelin
+sourceloc getsourcefil getabsolutepath
+sourceloc getlin
+popup add show sourc item showsourcesitem
+popup add separ addsepar
+menu item jmenuitem gener pcd generatepcd menu item jmenuitem pointcut wizard alpha ajd default getdefault icon registri geticonregistri structur swing icon getstructureswingicon program element iprogramel kind pointcut
+gener pcd generatepcd set font setfont java awt font dialog
+gener pcd generatepcd add action listen addactionlisten abstract action abstractact
+serial version uid serialversionuid
+action perform actionperform action event actionev
+ajd default getdefault view manag getviewmanag extract insert signatur extractandinsertsignatur signatur
+popup add gener pcd generatepcd
+popup show compon getcompon getx geti

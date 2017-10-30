@@ -1,0 +1,10 @@
+org aspectj org eclips jdt core dom
+defaultpointcut dom ast node
+class stub delet concret subclass
+exist type pointcut aspectj
+author ajh02
+default pointcut defaultpointcut pointcut design pointcutdesign
+accept0 ast visitor astvisitor visitor
+visitor ast visitor ajastvisitor
+visit children visitchildren ast visitor ajastvisitor visitor visit
+ast visitor ajastvisitor visitor end visit endvisit

@@ -1,0 +1,8 @@
+overrid
+org apach common math linear
+inherit doc inheritdoc
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+spars real matrix sparserealmatrix
+spars matrix implement base open address map
+real matrix realmatrix copi
+version revis date

@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil ast
+repres method call method name code proce code
+code resolvedtyp code determin bodi
+code code advic receiv bare proce call
+treat
+messagesend
+author jim hugunin
+proce messag send messagesend
+proce messag send messagesend parent
+receiv parent receiv
+selector parent selector
+argument parent argument
+bind parent bind
+codegen bind codegenbind parent codegen bind codegenbind
+synthet accessor syntheticaccessor parent synthet accessor syntheticaccessor
+expect type expectedtyp parent expect type expectedtyp
+sourc posit namesourceposit parent sourc posit namesourceposit
+actual receiv type actualreceivertyp parent actual receiv type actualreceivertyp
+qualifyingtyp parent qualifyingtyp
+cast valuecast parent cast valuecast
+type argument typeargu parent type argument typeargu
+gener type argument generictypeargu parent gener type argument generictypeargu
+sourc start sourcestart parent sourc start sourcestart
+sourc end sourceend parent sourc end sourceend

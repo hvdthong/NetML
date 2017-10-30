@@ -1,0 +1,10 @@
+org aspectj weaver
+lint
+set properti setfromproperti file file
+trace trace enabl istraceen trace enter setfromproperti file
+input stream inputstream file input stream fileinputstream file
+set properti setfromproperti
+except ioexcept ioe
+messag util messageutil error world messag handler getmessagehandl
+weaver messag weavermessag format weaver messag weavermessag xlint load error xlint load error file path getpath ioe messag getmessag
+trace trace enabl istraceen trace exit setfromproperti

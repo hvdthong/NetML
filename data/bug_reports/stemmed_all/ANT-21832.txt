@@ -1,0 +1,8 @@
+sync task ignor destin file
+fileset sourc file directori exclud sync
+ignor file directori
+destin
+subdirectori xdoc destin directori
+lot file sourc directori xdoc
+sync xdoc delet ignor xdoc synchron
+

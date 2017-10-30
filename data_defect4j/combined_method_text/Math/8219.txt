@@ -1,0 +1,23 @@
+param sigma standard deviat distribut
+code sigma
+href http www itl nist gov div898 handbook eda section3 eda3661 htm
+random data randomdata
+standard deviat sigma
+strong precondit strong
+version
+gener random
+version revis date
+random gaussian distribut
+normal gaussian distribut
+org apach common math except strictli posit except notstrictlypositiveexcept
+strong definit strong
+code sigma code illeg argument except illegalargumentexcept
+gener random normal gaussian distribut
+normal distribut
+random data randomdata serializ
+thrown
+param distribut
+standard deviat
+org apach common math random
+random data gener util
+gaussian nextgaussian sigma

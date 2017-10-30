@@ -1,0 +1,6 @@
+org apach lucen index
+segment term posit segmenttermposit
+overrid
+skip doc skippingdoc except ioexcept
+rememb skip document lazili
+lazi skip prox count lazyskipproxcount freq

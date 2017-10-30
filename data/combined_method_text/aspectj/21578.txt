@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+type pattern anytypepattern type pattern typepattern
+constructor ellipsistypepattern
+param includesubtyp
+type pattern anytypepattern
+type pattern list typepatternlist

@@ -1,0 +1,14 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+prune empti dir pruneemptydir build config node buildconfignod node
+list node remov nodestoremov arrai list arraylist
+iter node children getchildren iter hasnext
+build config node buildconfignod curr node currnod build config node buildconfignod
+valid children hasvalidchildren prune empti dir pruneemptydir curr node currnod
+curr node currnod valid resourc isvalidresourc valid children hasvalidchildren
+node remov nodestoremov add curr node currnod
+iter node remov nodestoremov iter hasnext
+build config node buildconfignod curr node currnod build config node buildconfignod
+node remov child removechild curr node currnod
+node children getchildren size

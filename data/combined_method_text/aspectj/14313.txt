@@ -1,0 +1,15 @@
+org aspectj apach bcel gener
+select abstract super class lookupswitch tableswitch instruct
+version select java aclement exp
+author href mailto marku dahm berlin dahm
+lookupswitch
+tableswitch
+instructionlist
+select branch instruct branchinstruct
+read need data index file
+init file initfromfil byte sequenc bytesequ byte wide except ioexcept
+pad byte index getindex pad byte getindex comput number pad byte
+pad
+byte read byte readbyt
+default branch target common case tableswitch lookupswitch
+index byte read int readint

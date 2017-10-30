@@ -1,0 +1,11 @@
+arrai real vector arrayrealvector real vector realvector serializ
+arrai real vector arrayrealvector
+org apach common math3 linear
+param vector put back vector
+construct vector append vector vector
+system arraycopi data
+param vector put front vector
+version
+link real vector realvector arrai
+length
+data

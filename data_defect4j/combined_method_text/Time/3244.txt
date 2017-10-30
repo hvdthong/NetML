@@ -1,0 +1,21 @@
+author stephen colebourn
+wrap wrappedvalu field util fieldutil wrap getwrappedvalu
+thisvalu amount minimum getminimumvalu maximum getmaximumvalu
+add compon time instant wrap
+param amount amount unit add neg
+author brian neill o'neil
+add wrap field addwrapfield instant amount
+precis date time field precisedatetimefield precis durat date time field precisedurationdatetimefield
+imprecis date time field imprecisedatetimefield
+date time field datetimefield defin date time field datetimefield compos
+org joda time field
+compon
+precis datetim field compos precis durat field
+imprecis link imprecis date time field imprecisedatetimefield
+instant wrap wrappedvalu thisvalu unit milli getunitmilli
+thisvalu instant
+param instant millisecond t00 01t00 00z add
+updat time instant
+copi code set avoid repeat call
+precis durat time dai field durat field
+precis date time field precisedatetimefield thread safe immut

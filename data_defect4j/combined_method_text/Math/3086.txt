@@ -1,0 +1,7 @@
+org apach common math geometri euclidean threed
+euclidean2 euclidean2d instanc getinst
+inherit doc inheritdoc
+dimension space
+version
+euclidean2 euclidean2d space getsubspac
+euclidean3 euclidean3d serializ space

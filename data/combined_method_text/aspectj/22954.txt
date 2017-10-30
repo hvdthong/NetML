@@ -1,0 +1,60 @@
+org aspectj weaver pattern
+patternpars creat wildtypepattern type pattern pointcut
+express directli turn typepattern
+resolvebind work turn type
+pattern match exacttypepattern
+wildtypepattern
+process pan gener parameter pattern
+genericswildtypepatternresolvingtestcas
+foo foo exist gener
+parser creat wildtypepattern namepattern foo
+resolvebind resolv foo foo raw
+return exacttypepattern lfoo
+foo string foo exist string meet bound
+parser creat wildtypepattern namepattern foo typeparamet wtp string
+resolvebind resolv typeparamet exacttypepattern string
+resolv foo foo
+return exacttypepattern pfoo string parameter
+foo str foo exist take bound
+parser creat wildtypepattern namepattern foo typeparamet wtp str
+resolvebind resolv typeparamet wtp str
+resolv foo foo
+return wildtypepattern foo typeparamet wtp str isgener fals
+string
+parser creat wildtypepattern namepattern typeparamet wtp string
+resolvebind resolv typeparamet etp string
+return wildtypepattern typeparamet etp string isgener fals
+foo
+foo extend number
+foo extend number
+foo super number
+wild type pattern wildtypepattern type pattern typepattern
+type pattern typepattern read type pattern150 readtypepattern150 version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+version read byte readbyt
+version version
+except bcexcept wildtypepattern written recent version aspectj read
+len read short readshort
+pattern namepattern pattern namepattern pattern namepattern len
+len
+pattern namepattern pattern namepattern read
+includ subtyp includesubtyp read boolean readboolean
+dim read int readint
+var arg vararg read boolean readboolean
+type pattern list typepatternlist type param typeparam type pattern list typepatternlist read context
+wild type pattern wildtypepattern ret wild type pattern wildtypepattern pattern namepattern includ subtyp includesubtyp dim var arg vararg type param typeparam
+ret match knownmatch file util fileutil read string arrai readstringarrai
+ret import prefix importedprefix file util fileutil read string arrai readstringarrai
+ret read locat readloc context
+ret set annot type pattern setannotationtypepattern annot type pattern annotationtypepattern read context
+gener info
+ret gener isgener read boolean readboolean
+read boolean readboolean
+ret upper bound upperbound type pattern typepattern read context
+read boolean readboolean
+ret lower bound lowerbound type pattern typepattern read context
+num bound numifbound read int readint
+num bound numifbound
+ret addit interfac bound additionalinterfacebound type pattern typepattern num bound numifbound
+num bound numifbound
+ret addit interfac bound additionalinterfacebound type pattern typepattern read context
+ret

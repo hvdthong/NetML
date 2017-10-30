@@ -1,0 +1,16 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+list output locat getoutputloc build config ajbuildconfig config privat list file getoutputloc ajbuildconfig config
+list output loc outputloc arrai list arraylist
+config output dir getoutputdir
+output loc outputloc add config output dir getoutputdir canon file getcanonicalfil
+except ioexcept
+config compil result destin manag getcompilationresultdestinationmanag
+list dir config compil result destin manag getcompilationresultdestinationmanag output locat getalloutputloc
+iter iter dir iter iter hasnext
+file file iter
+output loc outputloc canon file getcanonicalfil
+output loc outputloc add canon file getcanonicalfil
+except ioexcept
+output loc outputloc

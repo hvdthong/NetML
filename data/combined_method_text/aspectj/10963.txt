@@ -1,0 +1,74 @@
+org aspectj ajdt intern compil
+adapt standard jdt compil add aspectj specif behaviour
+version implement pipelin file compil
+woven immedi unlik ajcompileradapt compil
+weav small note aspect
+weav place weav pipelin 'stalled'
+aspect compil
+basic strategi
+diet pars input sourc file
+implement itd match
+enabl determin aspect
+sort input file aspect
+note file aspect
+aspect mark pipelin 'stalled'
+repeat
+compil file
+compil aspect
+put file weav pend queue
+unstal 'pipeline'
+pipelin stall
+weav pend file
+complex aris
+xterminateaftercompil stage
+compil woven
+compil loop differ pipelin
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajlookupenviron completetypebind
+ajlookupenviron completetypebind
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+bcelweav prepareforweav
+bcelweav prepareforweav
+woven class classon temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+woven class classtwo temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+compil weav mix
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajlookupenviron completetypebind
+ajlookupenviron completetypebind
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+ajcompileradapt weav
+bcelweav prepareforweav
+bcelweav prepareforweav
+woven class classon temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+ajcompileradapt weav
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+woven class classtwo temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+pipelin compil adapt ajpipeliningcompileradapt abstract compil adapt abstractcompileradapt
+return true compil unit declar aspect declar code style
+annot style inspect multipl type compil
+unit declar type
+aspect containsanaspect compil unit declar compilationunitdeclar cud
+type declar typedeclar type decl typedecl cud type
+type decl typedecl
+type decl typedecl length int typedecl length loop top level type file
+type declar typedeclar declar type decl typedecl
+aspect isaspect declar
+declar member type membertyp
+type declar typedeclar member type membertyp declar member type membertyp
+member type membertyp length int membertyp length loop type
+aspect containsanaspect member type membertyp

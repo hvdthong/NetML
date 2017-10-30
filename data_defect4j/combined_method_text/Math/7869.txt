@@ -1,0 +1,41 @@
+pre
+param restrict neg restricttononneg restrict variabl neg valu
+restrict neg restricttononneg
+param constraint linear constraint
+extra decis variabl neg valu
+constraint constraint
+constraint type count getconstrainttypecount relationship geq
+param goal type goaltyp type optim goal link goal type goaltyp maxim
+simplex tableau simplextableau linear object function linearobjectivefunct
+tableau real matrix impl realmatriximpl creat tableau createtableau goal type goaltyp goal type goaltyp maxim
+constraint goal type goaltyp restrict neg restricttononneg epsilon default ulp
+num slack variabl numslackvari constraint type count getconstrainttypecount relationship leq
+phase object function
+goal type goaltyp goal type goaltyp restrict neg restricttononneg
+param epsilon amount error accept check optim
+param linear object function
+initi column label initializecolumnlabel
+tableau creat tableau createtableau goal type goaltyp goal type goaltyp maxim
+num artifici variabl numartificialvari constraint type count getconstrainttypecount relationship
+amp decis variabl
+version revis date
+rh hand side
+rh
+num decis variabl numdecisionvari coeffici getcoeffici dimens getdimens
+restrict neg restricttononneg restrict neg restricttononneg
+artifici variabl
+epsilon
+num decis variabl numdecisionvari num variabl getnumvari restrict neg restricttononneg
+initi
+org apach common math optim linear
+epsilon epsilon
+build tableau linear problem
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+constraint normal constraint normalizeconstraint constraint
+tableau simplex method
+param epsilon amount error accept float point comparison
+collect linear constraint linearconstraint constraint
+link goal type goaltyp minim

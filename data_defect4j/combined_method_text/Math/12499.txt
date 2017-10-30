@@ -1,0 +1,10 @@
+overrid
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+string string tostr
+param type field element
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+instanc guarante immut
+version
+vector3 format vector3dformat instanc getinst format vector3 tovector3d
+string represent vector

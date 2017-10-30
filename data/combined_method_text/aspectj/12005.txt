@@ -1,0 +1,18 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+end line getendlin ast node astnod
+abstract variabl declar abstractvariabledeclar end line getendlin abstract variabl declar abstractvariabledeclar
+abstract method declar abstractmethoddeclar end line getendlin abstract method declar abstractmethoddeclar
+type declar typedeclar end line getendlin type declar typedeclar
+util line number getlinenumb sourc end sourceend linesep linesep length
+return problemhandl searchlinenumb linesep
+currcompilationresult lineseparatorposit
+sourceend

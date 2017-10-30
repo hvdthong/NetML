@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+ldc push item constant pool wide index
+pre stack item word1 item word2 pre
+version ldc java aclement exp
+author href mailto marku dahm berlin dahm
+ldc ldc ldc
+ldc ldc index
+index

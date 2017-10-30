@@ -1,0 +1,22 @@
+batchtest does not work well with custom formatter
+I am trying to use a custom formatter for tests that are run by the batchtest
+
+        <junit fork="yes" errorProperty="test.failed" 
+failureProperty="test.failed" forkmode="once">
+            <classpath refid="test.classpath"/>
+            <jvmarg value="-Djava.awt.headless=true"/>
+            <formatter classname="my.Formatter" extension=".xml"/>
+            <batchtest todir="${test.data.dir}" unless="testcase">
+                <fileset dir="${test.class.dir}">
+                    <include name="**/*Test.class"/>
+                </fileset>
+            </batchtest>
+        </junit>
+
+For some misterious reason, the extension specified in the formatter does not 
+get used. All generated test files end with "null" instead of ".xml"
+
+If i replace the batchtest tag with a single test tag, the correct extension is 
+used :
+
+            <test name="my.Test" todir="${test.data.dir}"/>

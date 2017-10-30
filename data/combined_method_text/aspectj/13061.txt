@@ -1,0 +1,16 @@
+org aspectj apach bcel gener
+aconst null push null refer
+pre stack null pre
+version aconst null java aclement exp
+author href mailto marku dahm berlin dahm
+aconst null aconst null instruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack produc visitstackproduc
+visit push instruct visitpushinstruct
+visit type instruct visittypedinstruct
+visit aconst null visitaconst null

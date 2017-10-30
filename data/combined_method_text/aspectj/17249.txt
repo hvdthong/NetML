@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+referencepointcut dom ast node
+note
+paramet list method invok
+author ajh02
+refer pointcut referencepointcut pointcut design pointcutdesign
+tree size treesiz
+mem size memsiz
+pointcut pointcutnam getnam tree size treesiz

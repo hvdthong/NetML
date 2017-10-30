@@ -1,0 +1,9 @@
+Add (non ECMA) property "stack" to NativeError
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.18) Gecko/2010021501 Ubuntu/9.04 (jaunty) Firefox/3.0.18
+Build Identifier: 
+
+NativeError already has two interesting non ECMA properties: lineNumber and fileName. It would be useful to have property stack as well as done in different browsers.
+
+Additionally, the information returned by RhinoException.getScriptStackTrace vary depending on the optimization level used. In interpreted mode in contains the function name whereas it is not the case in compiled mode.
+
+Reproducible: Always

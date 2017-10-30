@@ -1,0 +1,20 @@
+design extens extract field
+date time field datetimefield
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+param instant millisecond t00 01t00 00z set
+updat millisecond
+illeg argument except illegalargumentexcept text invalid
+set millisecond suppli human readabl text
+author gui allard
+set field make field invalid field
+defin calcul engin date time field
+chang closest 28th 29th februari
+org joda time
+author brian neill o'neil
+chang current date 31st januari
+month set februari dai invalid dai
+set instant string text
+param text text set
+millisecond number standard implement provid assist

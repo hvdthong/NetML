@@ -1,0 +1,17 @@
+org aspectj weaver
+store annot member ensur resolv unpack lazili
+set annot unpack discard ensur annot
+ad 'addannot call public accessor
+method 'hasannot getannot getannotationtypes'
+author andycl
+annot member holder annotationsformemberhold
+ensur annot unpack ensureannotationsunpack
+annot type correct annotationtypescorrect
+annot
+annot type annotationtyp resolv type resolvedtyp
+annot type annotationtyp resolv type resolvedtyp annot size
+po
+iter iter annot iter iter hasnext
+annot annotationaj element annot annotationaj iter
+annot type annotationtyp po world resolv unresolv type unresolvedtyp signatur forsignatur element type signatur gettypesignatur
+annot type correct annotationtypescorrect

@@ -1,0 +1,5 @@
+src/java/org/apache/lucene/index/MultiDocsAndPositionsEnum_reset-EnumWithSlice[]-int_MultiDocsAndPositionsEnum
+src/java/org/apache/lucene/index/MultiDocsEnum_reset-EnumWithSlice[]-int_MultiDocsEnum
+src/java/org/apache/lucene/index/MultiTermsEnum_docsAndPositions-Bits-DocsAndPositionsEnum_DocsAndPositionsEnum
+src/java/org/apache/lucene/index/MultiTermsEnum_docs-Bits-DocsEnum_DocsEnum
+src/java/org/apache/lucene/index/MultiTermsEnum$TermsEnumWithSlice_reset-TermsEnum-BytesRef_void

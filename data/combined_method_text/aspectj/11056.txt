@@ -1,0 +1,35 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+post pars postpars type declar typedeclar type dec typedec
+aspect declar aspectdeclar aspect decl aspectdecl aspect declar aspectdeclar type dec typedec
+advic sequenc number type advicesequencenumberintyp aspect decl aspectdecl advic counter advicecount
+string buffer stringbuff stringifi pointcut stringifiedpointcut string buffer stringbuff
+pointcut design pointcutdesign print stringifi pointcut stringifiedpointcut
+selector
+mangler namemangl advic advicenam
+eclips factori eclipsefactori getnam type dec typedec bind replac
+kind
+advic sequenc number type advicesequencenumberintyp
+stringifi pointcut stringifiedpointcut string tostr hash code hashcod char arrai tochararrai
+argument
+base argument count baseargumentcount argument length
+kind advic kind advicekind
+extra argument extraargu make final argument makefinalargu ajc aroundclosur
+type constant ajtypeconst closur type getaroundclosuretyp
+ad argument addedargu
+extra argument extraargu
+ad argument addedargu
+argument extend argument length extendargumentslength argument ad argument addedargu
+index base argument count baseargumentcount
+extra argument extraargu
+argument index extra argument extraargu
+argument index make final argument makefinalargu thisjoinpointstaticpart type constant ajtypeconst join point static part type getjoinpointstaticparttyp
+argument index make final argument makefinalargu thisjoinpoint type constant ajtypeconst join point type getjoinpointtyp
+argument index make final argument makefinalargu thisenclosingjoinpointstaticpart type constant ajtypeconst join point static part type getjoinpointstaticparttyp
+pointcut design pointcutdesign error iserror
+ignor investig ignorefurtherinvestig
+pointcut design pointcutdesign post pars postpars type dec typedec

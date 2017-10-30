@@ -1,0 +1,27 @@
+row equal dimens
+org apach common math3 optim gener
+dec squar root getsquareroot
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+handl boilerpl method threshold set
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+sqrt sqrtm set entri setentri fast math fastmath sqrt entri getentri
+diagon matrix diagonalmatrix
+comput squar root weight matrix
+version
+construct jacobian matrix function argument method
+dim row dimens getrowdimens
+abstract squar optim abstractleastsquaresoptim
+sqrt sqrtm
+link org apach common math3 optim target target
+real matrix realmatrix squar root squareroot real matrix realmatrix
+deprec remov
+dim
+param symmetr posit definit weight matrix
+real matrix realmatrix sqrt sqrtm diagon matrix diagonalmatrix dim
+eigen decomposit eigendecomposit dec eigen decomposit eigendecomposit
+squar root weight matrix
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number

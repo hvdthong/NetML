@@ -1,0 +1,21 @@
+org aspectj ajdt intern compil lookup
+privileg handler privilegedhandl privileg handler iprivilegedhandl
+method bind methodbind privileg access method getprivilegedaccessmethod method bind methodbind base method basemethod ast node astnod locat
+base method basemethod access method alwaysneedsaccessmethod base method basemethod
+resolv member resolvedmemb kei
+base method basemethod parameter method bind parameterizedmethodbind
+kei aspect inaspect factori make resolv member makeresolvedmemb parameter method bind parameterizedmethodbind base method basemethod origin
+kei aspect inaspect factori make resolv member makeresolvedmemb base method basemethod
+accessor kei containskei kei method bind methodbind accessor kei
+method bind methodbind ret
+base method basemethod constructor isconstructor
+ret method bind methodbind base method basemethod base method basemethod declar class declaringclass
+ret modifi ast util astutil make public makepubl ret modifi
+base method basemethod modifi ret modifi
+ret aspect inaspect factori make method bind makemethodbind
+ajc member maker ajcmembermak privileg access method method privilegedaccessmethodformethod aspect inaspect type typex kei
+check weav access checkweaveaccess kei declar type getdeclaringtyp locat
+system err println ret
+thread dumpstack
+accessor put kei ret
+ret

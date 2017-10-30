@@ -1,0 +1,33 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+helper method configur build option read command line
+option standard option text entri set
+unset valu config
+configur standard option configurenonstandardopt build config ajbuildconfig config
+string std option nonstdopt compil compil configur getcompilerconfigur standard option getnonstandardopt
+lang util langutil empti isempti std option nonstdopt
+break string string arrai standard option
+option includ assum quot
+accident treat pair option need xlint prop file option
+list token arrai list arraylist
+ind std option nonstdopt index indexof
+ind2 std option nonstdopt index indexof ind
+ind ind2 ind ind2 dont token doubl quot
+string pre std option nonstdopt substr ind
+string quot std option nonstdopt substr ind ind2
+string post std option nonstdopt substr ind2 std option nonstdopt length
+token add addal token string tokenizestr pre
+token add quot
+token add addal token string tokenizestr post
+token add addal token string tokenizestr std option nonstdopt
+string arg string token arrai toarrai string
+set standard option altern build config
+lose set
+count messag handler countingmessagehandl counter
+count messag handler countingmessagehandl make count messag handler makecountingmessagehandl msg handler adapt msghandleradapt
+build config ajbuildconfig alt config altconfig ajdt command ajdtcommand gen build config genbuildconfig arg counter
+counter error haserror
+copi global local set
+config instal global installglob alt config altconfig

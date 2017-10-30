@@ -1,0 +1,8 @@
+org aspectj util
+file util fileutil
+return content file byte
+read byte arrai readasbytearrai file file except ioexcept
+file input stream fileinputstream file input stream fileinputstream file
+ret file util fileutil read byte arrai readasbytearrai
+close
+ret

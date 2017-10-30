@@ -1,0 +1,5 @@
+src/main/org/apache/tools/ant/taskdefs/Checksum_addToIncludeFileMap-File_void
+src/main/org/apache/tools/ant/taskdefs/Checksum_decodeHex-char[]_byte[]
+src/main/org/apache/tools/ant/taskdefs/Checksum_execute_void
+src/main/org/apache/tools/ant/taskdefs/Checksum_generateChecksums_boolean
+src/main/org/apache/tools/ant/taskdefs/Checksum_validateAndExecute_boolean

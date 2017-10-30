@@ -1,0 +1,16 @@
+code
+param vector oper
+interfac defin field valu matrix basic algebra oper
+org apach common math3 linear
+param type field element
+field vector fieldvector oper field vector fieldvector dimens mismatch except dimensionmismatchexcept
+matrix element index base code entri getentri code
+code matrix equal size vector code
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+version
+return result multipli vector code code
+field vector fieldvector oper field vector fieldvector
+return result multipli vector code
+dimens mismatch except dimensionmismatchexcept number column
+illeg argument except illegalargumentexcept column dimens columndimens size

@@ -1,0 +1,18 @@
+abstract region independ geometri type dimens
+code boolean true code boolean fals
+build region insid bsp tree
+code boolean attribut repres insid statu
+intern node repres boundari
+param type space
+link tree gettre tree gettre method
+abstract region abstractregion space space region
+leaf node bsp tree
+tree tree
+abstract region abstractregion bsp tree bsptree tree
+version
+recommend predefin constant
+param tree insid bsp tree repres region
+tree intern node
+cell order avoid build small object
+org apach common math geometri partit
+cell insid cell

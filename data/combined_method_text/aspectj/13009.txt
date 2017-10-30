@@ -1,0 +1,6 @@
+org aspectj apach bcel classfil annot
+runtim invis annot runtimeinvisibleannot runtim annot runtimeannot
+runtim invis annot runtimeinvisibleannot idx nameidx len
+data input stream datainputstream di constant pool constantpool cpool except ioexcept
+idx nameidx len cpool
+read annot readannot di cpool

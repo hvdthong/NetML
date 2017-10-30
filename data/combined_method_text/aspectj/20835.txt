@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+packag restrict list isnotonpackagerestrictedlist string
+packag restrict fast deleg packagerestrictionsforfastdeleg
+properti extra configur getextraconfigur
+string packag restrict possiblepackagerestrict properti getproperti fastdelegaterestrict
+packag restrict possiblepackagerestrict
+packag restrict fast deleg packagerestrictionsforfastdeleg
+packag restrict fast deleg packagerestrictionsforfastdeleg
+packag prefix restrict list packageprefixrestrictionlist arrai list arraylist
+string token stringtoken string token stringtoken packag restrict possiblepackagerestrict
+token hasmoretoken
+packag prefix restrict list packageprefixrestrictionlist add token nexttoken
+packag restrict fast deleg packagerestrictionsforfastdeleg
+packag restrict fast deleg packagerestrictionsforfastdeleg
+iter iter packag prefix restrict list packageprefixrestrictionlist iter iter hasnext
+string element string iter
+start startswith element
+system err println creat fast deleg

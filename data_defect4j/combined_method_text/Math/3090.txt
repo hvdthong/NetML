@@ -1,0 +1,22 @@
+closest origin abscissa increas line
+direct
+vector3 vector3d closest point closestpoint line line
+line embed euclidean3 euclidean3d euclidean1 euclidean1d
+express point line
+repres line dimension space
+co direct dot product dotproduct line direct
+version
+param line line check instanc
+vector3 vector3d delta0 line subtract
+delta0 dot product dotproduct direct
+coordin line point abscissa
+point instanc closest line
+delta0 dot product dotproduct line direct
+line parallel
+org apach common math geometri euclidean threed
+orthogon project origin line equival
+math util mathutil epsilon
+vector3 vector3d co direct
+co co
+comput point instanc closest line
+orient line intrins abscissa

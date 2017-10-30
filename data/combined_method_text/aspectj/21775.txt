@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+resolv scope iscop scope
+scope world getworld java5 mode isinjava5mod
+string msg
+kind type type msg weaver messag weavermessag declar attyp support java5 level declar attyp support java5 level
+kind method method msg weaver messag weavermessag declar atmethod support java5 level declar atmethod support java5 level
+kind field field msg weaver messag weavermessag declar atfield support java5 level declar atfield support java5 level
+kind constructor constructor msg weaver messag weavermessag declar atcon support java5 level declar atcon support java5 level
+scope messag messag util messageutil error weaver messag weavermessag format msg
+sourc locat getsourceloc
+type pattern typepattern
+type pattern typepattern type pattern typepattern resolv bind resolvebind scope bind
+sig pattern sigpattern
+sig pattern sigpattern sig pattern sigpattern resolv bind resolvebind scope bind
+aspect containingaspect scope enclos type getenclosingtyp

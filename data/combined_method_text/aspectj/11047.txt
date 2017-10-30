@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+check set modifi checkandsetmodifi modifi class scope classscop scope
+modifi modifi public
+modifi modifi strict modifi public modifi strict
+tag error tagashavingerror
+scope problem report problemreport signal error signalerror declar sourc start declarationsourcestart sourc start sourcestart illeg modifi advic strictfp allow
+modifi public

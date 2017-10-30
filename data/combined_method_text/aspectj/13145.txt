@@ -1,0 +1,13 @@
+org aspectj apach bcel gener
+checkcast check object type
+pre stack objectref objectref pre
+version checkcast java aclement exp
+author href mailto marku dahm berlin dahm
+checkcast instruct cpinstruct
+return except instruct
+class except getexcept
+class class except constant exceptionconst exc class interfac resolut exc class interfac resolut length
+system arraycopi except constant exceptionconst exc class interfac resolut exc class interfac resolut
+except constant exceptionconst exc class interfac resolut exc class interfac resolut length
+except constant exceptionconst exc class interfac resolut exc class interfac resolut length
+except constant exceptionconst class cast except class cast except

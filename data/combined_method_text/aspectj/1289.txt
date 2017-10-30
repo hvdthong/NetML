@@ -1,0 +1,19 @@
+org aspectj tool ajdoc
+implement ajdoc style
+job serv evolv lightweight ajdoc implement
+make properli extend javadoc implement
+author mik kersten
+main config
+call ajc callajc file input file inputfil
+ajc option ajcopt add element addel noexit
+ajc option ajcopt add element addel xjavadocsinmodel ajcopt addel xjavadocsinmodel todo wrong option forc model gen
+ajc option ajcopt add element addel
+ajc option ajcopt add element addel root dir rootdir absolut path getabsolutepath
+string arg compil argstocompil string ajc option ajcopt size input file inputfil length
+ajc option ajcopt size
+arg compil argstocompil string ajc option ajcopt element elementat
+input file inputfil length
+arg compil argstocompil input file inputfil absolut path getabsolutepath
+system println file ajc inputfil getabsolutepath
+system println call ajc
+compil wrapper compilerwrapp main arg compil argstocompil

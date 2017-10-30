@@ -1,0 +1,16 @@
+org aspectj ajd javaopt
+option panel displai java compil warn option
+user add ajd getoptionsfram
+java compil warn option panel javacompilerwarningsoptionspanel option panel optionspanel
+creat warn content createwarningcont
+creat warn entri createwarningsentri method constructor java option javaopt warn method constructor warn method constructor
+creat warn entri createwarningsentri method overriden packag visibl java option javaopt warn overrid packag default method warn overrid packag default method
+creat warn entri createwarningsentri deprec api' java option javaopt warn deprec warn deprec
+creat warn entri createwarningsentri hidden catch block java option javaopt warn hidden catch block warn hidden catch block
+creat warn entri createwarningsentri unus local privat member java option javaopt warn unus local warn unus local
+creat warn entri createwarningsentri paramet read java option javaopt warn unus paramet warn unus paramet
+creat warn entri createwarningsentri unus import java option javaopt warn unus import warn unus import
+creat warn entri createwarningsentri synthet access java option javaopt warn synthet access warn synthet access
+creat warn entri createwarningsentri assert identifi java option javaopt warn assert idenitifi warn assert idenitifi
+creat warn entri createwarningsentri extern string java option javaopt warn nl warn nl
+warn panel warningspanel add warn box warningsbox

@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+putstat put static field class
+pre stack pre
+pre stack word1 word2 pre
+version putstat java aclement exp
+author href mailto marku dahm berlin dahm
+putstat field instruct fieldinstruct
+putstat index
+constant putstat index

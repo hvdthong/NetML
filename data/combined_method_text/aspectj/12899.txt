@@ -1,0 +1,27 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+replac occur str
+param str string permut
+param string replac
+param replac string
+return string object
+string replac string str string string
+index index
+string buffer stringbuff buf string buffer stringbuff
+index str index indexof
+index
+index
+replac
+index str index indexof index
+buf append str substr index index buf append str substr index index append prefix
+buf append buf append append replac
+index index length index index length skip 'old' length char
+buf append str substr index buf append str substr index append rest string
+str buf string tostr
+string index bound except stringindexoutofboundsexcept
+system err println
+str

@@ -1,0 +1,12 @@
+Implement Map interface in ScriptableObject
+User-Agent:       Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9) Gecko/2008052906 Firefox/3.0
+Build Identifier: 
+
+It would be quite useful if ScriptableObject implemented at least a minimal version of the Map interface - containsKey, get, put, remove at a minimum, but also perhaps a read-only version of the various set views of the object.  This would allow accessing a NativeObject much more cleanly than having to know about the Scriptable Interface etc, and it could be accessed by the many classes that already can deal with java Maps.  In terms of general behaviour, this is much more useful than having ScriptableObject be implemented in terms of a HashMap, and should not cause any performance degredation.
+
+Reproducible: Always
+
+Steps to Reproduce:
+1.
+2.
+3.

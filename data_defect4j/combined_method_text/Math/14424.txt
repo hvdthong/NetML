@@ -1,0 +1,74 @@
+pre
+adam moulton method fact due adam implicit
+smaller
+deriv let defin
+param min step minstep minim step sign irrelev
+comput formula exact
+param vec absolut toler vecabsolutetoler allow absolut error
+omit index notat clariti definit
+repres correct state
+build adam moulton integr order error control paramet
+implicit adam moulton integr ordinari
+vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler
+defin scale deriv step
+taylor seri formula show index offset
+predict nordsieck vector step comput nordsieck vector step
+integr direct forward backward step
+step adam moulton method order
+extend method order support adapt stepsiz
+greatli simplifi step interpol interpol appli
+5y' 8y'
+result taylor seri formula
+simplifi step occur discret event truncat
+param max step maxstep maxim step sign irrelev
+sum
+y''' deriv
+implement detail
+number previou step comput
+degre polynomi
+version
+comput method comput
+step trigger
+higher degre scale deriv step
+row shift matrix lower left part ident matrix
+classic represent nordsieck vector transform
+param vec rel toler vecrelativetoler allow rel error
+vec absolut toler vecabsolutetoler
+implement nordsieck vector
+deriv
+min step minstep max step maxstep
+differenti equat
+y'' deriv
+vector time matrix built
+formula estim
+org apach common math3 od nonstiff
+param step nstep number step method exclud comput
+vec rel toler vecrelativetoler
+depend precomput
+9y' 19y' 5y'
+nordsieck vector advantag
+taylor seri formula
+plusmn
+method step nstep step nstep min step minstep max step maxstep
+adam moulton integr adamsmoultonintegr step nstep
+omit index notat clariti
+estim comput comput
+adapt stepsiz implement error control
+adam moulton method written
+estim formula depend
+term
+vector matrix depend state
+multistep od solver implement variat classic
+upper repres
+predict state lower
+except illeg argument except illegalargumentexcept order
+classic represent deriv
+defin
+definit classic represent previou
+adam moulton integr adamsmoultonintegr adam integr adamsintegr
+classic implement fix step size state vector
+previou formula valu comput transform
+predict vector correct vector comput
+deriv step need
+illeg argument except illegalargumentexcept
+step simpl combin step

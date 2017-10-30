@@ -1,0 +1,12 @@
+param checker converg checker
+param pair type point pair return optim
+specif
+base implement optim multivari function
+boiler plate code initi guess bound
+org apach common math3 optim
+version
+user
+base multivari optim basemultivariateoptim pair
+algorithm
+base multivari optim basemultivariateoptim converg checker convergencecheck pair checker
+checker

@@ -1,0 +1,4 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+resolv type resolvedtyp paramet annot type getparameterannotationtyp
+unsupport oper except unsupportedoperationexcept resolv member call getparameterannotationtyp result

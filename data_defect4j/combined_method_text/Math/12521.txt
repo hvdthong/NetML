@@ -1,0 +1,9 @@
+project polyhedron set plane
+outlin extractor outlineextractor
+version
+polygon set polygonsset project getproject
+extractor link polygon set polygonsset polyhedron set outlin
+org apach common math3 geometri euclidean threed
+project
+polyhedron set project plane
+extract outlin link polygon set polygonsset

@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+equal object
+signatur pattern signaturepattern
+signatur pattern signaturepattern signatur pattern signaturepattern
+kind equal kind
+modifi equal modifi
+return type returntyp equal return type returntyp
+declar type declaringtyp equal declar type declaringtyp
+equal
+paramet type parametertyp equal paramet type parametertyp
+throw pattern throwspattern equal throw pattern throwspattern
+annot pattern annotationpattern equal annot pattern annotationpattern

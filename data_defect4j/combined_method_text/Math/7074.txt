@@ -1,0 +1,16 @@
+org apach common math optim simpl scalar checker simplescalarvaluecheck
+org apach common math optim simpl real point checker simplerealpointcheck
+param iter current iter
+user provid implement
+org apach common math optim
+param pair type point object pair
+converg
+specifi check optim algorithm
+param point data check converg
+decid converg reach problem depend issu
+check optim algorithm converg
+version revis date
+converg iter pair point
+converg checker convergencecheck pair
+optim algorithm stop search problem hand
+code algorithm consid converg

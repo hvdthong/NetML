@@ -1,0 +1,13 @@
+code norm toler
+quaternion hamilton' hypercomplex number
+code
+org apach common math3 complex
+quaternion serializ
+check instanc unit quaternion
+param ep toler absolut error
+instanc guarante immut
+href http mathworld wolfram quaternion html
+version
+unit quaternion isunitquaternion ep
+toler
+precis equal norm getnorm ep

@@ -1,0 +1,16 @@
+org aspectj apach bcel gener annot
+simpl element gen simpleelementvaluegen element gen elementvaluegen
+dump data output stream dataoutputstream do except ioexcept
+do write byte writebyt type do writebyt type kind
+type
+primit int primit int
+primit byte primit byte
+primit char primit char
+primit float primit float
+primit long primit long
+primit boolean primit boolean
+primit short primit short
+primit doubl primit doubl
+string
+do write short writeshort idx
+runtim except runtimeexcept simpleelementvaluegen doesnt write type type

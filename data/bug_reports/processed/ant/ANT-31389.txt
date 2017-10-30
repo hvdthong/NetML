@@ -1,0 +1,27 @@
+incorrect error text invalid javac task presetdef
+build xml faulty error message
+reproduction
+made preset definition javac task
+made normal target preset definition javac
+task illegal tag
+running ant error message error preset
+definition javac task line number message good
+build xml
+
+project default target
+presetdef mytask
+javac srcdir
+presetdef
+target target
+javac srcdir invalidtag
+target
+project
+
+ant output
+
+buildfile build xml
+target
+build failed
+tmp build xml mytask type support invalidtag attribute
+total time
+

@@ -1,0 +1,22 @@
+method implement link entri getentri access
+inherit doc inheritdoc
+copi entri
+null argument except nullargumentexcept rang except outofrangeexcept
+basic implement link field matrix fieldmatrix method underli storag
+destin length select column selectedcolumn length
+check matrix index checksubmatrixindex select row selectedrow select column selectedcolumn
+version
+safeti check
+destin destinationi destin
+copi matrix copysubmatrix select row selectedrow select column selectedcolumn destin
+abstract field matrix abstractfieldmatrix field element fieldel
+param type field element
+select column selectedcolumn length
+select row selectedrow length
+org apach common math3 linear
+matrix element deriv provid faster implement
+matrix dimens mismatch except matrixdimensionmismatchexcept destin length
+destin length
+destin destinationi entri getentri select row selectedrow select column selectedcolumn
+matrix dimens mismatch except matrixdimensionmismatchexcept data except nodataexcept
+destin length select row selectedrow length

@@ -1,0 +1,9 @@
+method implement link entri getentri access
+org apach common math3 linear
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+version
+abstract real matrix abstractrealmatrix
+strictli posit except notstrictlypositiveexcept
+basic implement real matrix realmatrix method underli storag
+real matrix realmatrix creat matrix creatematrix row dimens rowdimens column dimens columndimens

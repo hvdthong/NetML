@@ -1,0 +1,23 @@
+author stephen colebourn
+data code period type periodtyp code code code
+org joda time base
+param type set field period support mean standard
+author brian neill o'neil
+type ityp type
+valu ivalu chrono durat
+chrono date time util datetimeutil chronolog getchronolog chrono
+base period baseperiod implement readabl period readableperiod store
+param chrono chronolog mean iso
+field precis
+base period baseperiod subclass mutabl thread safe
+suitabl durat dai
+param durat durat millisecond
+base period baseperiod durat period type periodtyp type chronolog chrono
+kind period object referenc
+base period baseperiod
+link readabl period readableperiod
+creat period millisecond durat
+illeg argument except illegalargumentexcept period type invalid
+largest precis field larg
+type check period type checkperiodtyp type
+gener directli api user

@@ -1,0 +1,6 @@
+src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask_doValidate-File_void
+src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask_execute_void
+src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask$ValidatorErrorHandler_getFailure_boolean
+src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask$ValidatorErrorHandler_getMessage-SAXParseException_String
+src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask_initValidator_void
+src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask_setFeature-String-boolean_void

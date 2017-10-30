@@ -1,0 +1,21 @@
+org aspectj runtim reflect
+factori
+join point joinpoint static part staticpart make enc sjp makeencsjp member member
+signatur sig
+string kind
+member method
+method method method member
+sig method signatur impl methodsignatureimpl method modifi getmodifi method getnam
+method declar class getdeclaringclass method paramet type getparametertyp
+string method paramet type getparametertyp length
+method except type getexceptiontyp method return type getreturntyp
+kind join point joinpoint method execut method execut
+member constructor
+constructor con constructor member
+sig constructor signatur impl constructorsignatureimpl con modifi getmodifi con declar class getdeclaringclass
+con paramet type getparametertyp
+string con paramet type getparametertyp length
+con except type getexceptiontyp
+kind join point joinpoint constructor execut constructor execut
+illeg argument except illegalargumentexcept member method constructor
+join point impl joinpointimpl enclos static part impl enclosingstaticpartimpl kind sig

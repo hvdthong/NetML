@@ -1,0 +1,27 @@
+org aspectj weaver bcel
+bcel attribut bcelattribut
+process arrai bcel attribut prefix org aspectj weaver return
+list aspectj attribut identifi unpack 'ajattribute' object
+list read attribut readajattribut string classnam attribut sourc context isourcecontext context
+world attribut ajattribut weaver version info weaverversioninfo version
+list arrai list arraylist
+pass version
+list pass forsecondpass arrai list arraylist
+length
+attribut
+unknown
+unknown unknown
+string getnam
+char charat charat 'o' 'o'rg aspectj
+start startswith attribut ajattribut attribut prefix attributeprefix
+end endswith weaver version info weaverversioninfo attribut attributenam
+version attribut ajattribut weaver version info weaverversioninfo attribut ajattribut read version byte getbyt context
+version major version getmajorvers weaver version info weaverversioninfo current weaver major version getcurrentweavermajorvers
+except bcexcept unabl continu version aspectj support class built weaver version
+weaver version info weaverversioninfo current version string tocurrentversionstr class classnam version version string tostr
+pass forsecondpass add
+pass forsecondpass size
+unknown unknown pass forsecondpass
+string getnam
+attribut ajattribut attr attribut ajattribut read version byte getbyt context
+attr add attr

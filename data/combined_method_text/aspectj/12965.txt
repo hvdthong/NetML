@@ -1,0 +1,13 @@
+org aspectj apach bcel classfil annot
+annot immut object annotationgen mutabl variant basic list
+pair
+annot
+annot read data input stream datainputstream di constant pool constantpool cpool runtim visibl isruntimevis except ioexcept
+annot annot cpool
+type index typeindex di read unsign short readunsignedshort
+elem pair count elemvaluepaircount di read unsign short readunsignedshort
+elem pair count elemvaluepaircount
+nidx di read unsign short readunsignedshort
+add element pair addelementnamevaluepair
+element pair elementnamevaluepair nidx element elementvalu read element readelementvalu di cpool cpool
+runtim visibl isruntimevis runtim visibl isruntimevis

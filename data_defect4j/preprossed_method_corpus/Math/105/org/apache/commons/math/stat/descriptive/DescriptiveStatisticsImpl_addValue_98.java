@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript
+
+
+
+
+
+
+default implement
+link org apach common math stat descript descript statist descriptivestatist
+
+version revis date
+
+descript statist impl descriptivestatisticsimpl descript statist descriptivestatist serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript descript statist descriptivestatist add addvalu
+
+add addvalu
+window size windows infinit window
+getn window size windows
+eda add element roll addelementrol
+getn window size windows
+eda add element addel
+
+
+eda add element addel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

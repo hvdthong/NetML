@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+bind annot type pattern bindingannotationtypepattern exact annot type pattern exactannotationtypepattern bind pattern bindingpattern
+annot type pattern annotationtypepattern remap advic formal remapadviceform int map intmap bind
+bind kei haskei formal index formalindex
+exact annot type pattern exactannotationtypepattern annot type annotationtyp
+formal index newformalindex bind formal index formalindex
+bind annot type pattern bindingannotationtypepattern annot type annotationtyp formal index newformalindex

@@ -1,0 +1,11 @@
+param dimens size vector
+construct dimens length vector zero toler
+org apach common math linear
+spars real vector sparserealvector dimens epsilon
+param epsilon toler consid
+virtual size virtuals dimens
+epsilon epsilon
+spars real vector sparserealvector real vector realvector
+entri open int doubl hash map openinttodoublehashmap
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date

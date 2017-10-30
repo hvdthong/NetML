@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+xxx erik discuss hierarchi fieldref
+extend var conveni design
+static refer
+bcel cflow access var bcelcflowaccessvar bcel var bcelvar
+instruct list instructionlist creat load instruct createloadinstruct resolv type resolvedtyp type totyp instruct factori instructionfactori fact
+instruct list instructionlist instruct list instructionlist
+append util creat createget fact stack field stackfield
+append util creat constant createconst fact index
+append
+fact creat invok createinvok
+mangler namemangl cflow stack type cflow stack type
+type object type type int
+constant invokevirtu
+append util creat convers createconvers fact type object bcel world bcelworld make bcel type makebceltyp type totyp

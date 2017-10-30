@@ -1,0 +1,8 @@
+org mozilla javascript tool shell
+simpl shell consol simpleshellconsol shell consol shellconsol
+overrid
+string read line readlin string prompt except ioexcept
+prompt
+write prompt
+flush
+reader read line readlin

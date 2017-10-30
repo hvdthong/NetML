@@ -1,0 +1,34 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+return file readabl jar aspectj tool null
+file aspectjtoolsjar isaspectjtoolsjar string path
+path
+string prefix aspectj
+string infix tool
+string alt infix altinfix tool
+string suffix jar
+prefix length prefixlength final int prefixlength prefix length
+min length minlength
+prefixlength infix length suffix length
+path end endswith suffix
+loc path index lastindexof prefix
+loc loc min length minlength path length
+string rest path substr loc prefix length prefixlength
+rest index indexof file path separ pathsepar
+rest start startswith infix
+rest start startswith alt infix altinfix
+file result file path
+result read canread result file isfil
+result

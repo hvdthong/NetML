@@ -1,0 +1,17 @@
+org mozilla javascript
+class implement javascript parser
+base spidermonkei sourc file jspars jspars
+jsref packag
+parser gener link astroot pars tree repres sourc
+code tree rewrit permit stage pars tree
+faith represent sourc frontend process tool
+id
+parser implement intend reus pars
+finish throw illegalstateexcept invok
+tokenstream
+author mike mccabe
+author brendan eich
+parser
+string current sourc substr getcurrentsourcesubstr
+sourc string getsourcestr substr
+token beg tokenbeg token beg tokenbeg token length gettokenlength

@@ -1,0 +1,24 @@
+org aspectj weaver bcel
+repres access annot element relat 'kinded' pointcut
+depend kind pointcut element field method
+kind annot access var kindedannotationaccessvar bcel var bcelvar
+build arrai buildarrai instruct list instructionlist instruct factori instructionfactori fact type arrai element type arrayelementtyp type arrai entri arrayentri dim
+append fact creat constant createconst integ arrai entri arrayentri arrai entri arrayentri length
+append fact creat arrai createnewarrai arrai element type arrayelementtyp dim
+arrai entri arrayentri
+arrai entri arrayentri length
+append instruct factori instructionfactori creat dup createdup
+append fact creat constant createconst integ
+arrai entri arrayentri type gettyp
+constant arrai arrai
+append fact creat constant createconst object type objecttyp arrai entri arrayentri signatur getsignatur
+constant boolean boolean append fact creat static creategetstat java lang boolean type arrai element type arrayelementtyp
+constant byte byte append fact creat static creategetstat java lang byte type arrai element type arrayelementtyp
+constant char char append fact creat static creategetstat java lang charact type arrai element type arrayelementtyp
+constant int int append fact creat static creategetstat java lang integ type arrai element type arrayelementtyp
+constant long long append fact creat static creategetstat java lang long type arrai element type arrayelementtyp
+constant doubl doubl append fact creat static creategetstat java lang doubl type arrai element type arrayelementtyp
+constant float float append fact creat static creategetstat java lang float type arrai element type arrayelementtyp
+constant short short append fact creat static creategetstat java lang short type arrai element type arrayelementtyp
+append fact creat constant createconst arrai entri arrayentri
+append instruct constant instructionconst aastor

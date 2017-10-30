@@ -1,0 +1,12 @@
+org aspectj apach bcel
+repositori maintain inform class interdepend
+class class deleg actual class load
+syntheticrepositori current class path default
+org aspectj apach bcel util repositori
+org aspectj apach bcel util syntheticrepositori
+version repositori java aclement exp
+author href mailto marku dahm berlin dahm
+repositori
+return true clazz instanc super class
+instanc instanceof string clazz java class javaclass super class
+instanc instanceof lookup class lookupclass clazz super class

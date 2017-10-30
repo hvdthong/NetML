@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+type pertypewithin claus perclaus
+equal object
+type pertypewithin
+type pertypewithin type pertypewithin
+aspect inaspect aspect inaspect aspect inaspect equal aspect inaspect
+type pattern typepattern type pattern typepattern type pattern typepattern equal type pattern typepattern

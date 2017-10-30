@@ -1,0 +1,8 @@
+overrid
+row dimens getrowdimens
+row dimens rowdimens
+org apach common math linear
+inherit doc inheritdoc
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+spars matrix implement base open address map
+version revis date

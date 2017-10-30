@@ -1,0 +1,8 @@
+author stephen colebourn
+zone chronolog zonedchronolog thread safe immut
+precis isprecis
+org joda time chrono
+wrap chronolog add support time zone
+author brian neill o'neil
+time field itimefield field ifield precis isprecis field ifield precis isprecis zone izon fix isfix
+zone chronolog zonedchronolog assembl chronolog assembledchronolog

@@ -1,0 +1,31 @@
+org aspectj ajd
+author mik kersten
+structur view node factori structureviewnodefactori
+structur view node istructureviewnod creat node createnod program element iprogramel node list children
+abstract icon abstracticon icon icon registri iconregistri structur icon getstructureicon node kind getkind node access getaccess
+structur view node istructureviewnod node svnode creat declar createdeclar node icon children
+string node handl nodehandl node handl identifi gethandleidentifi
+put relationship field build outlin
+clinit field set node field declar
+node handl nodehandl node kind getkind equal program element iprogramel kind field
+asm manag asmmanag manag asm manag asmmanag default getdefault
+relationship map irelationshipmap rel map relmap manag manag relationship map getrelationshipmap
+list relationship rel map relmap rel map relmap node handl nodehandl
+relationship
+iter relationship iter hasnext
+relationship irelationship rel relationship irelationship
+rel rel target gettarget size
+structur view node istructureviewnod rel node relnod creat relationship createrelationship
+rel
+icon registri iconregistri icon geticon rel kind getkind
+rel node relnod
+node svnode add rel node relnod
+iter it2 rel target gettarget iter it2 hasnext
+string handl string it2
+program element iprogramel link asm manag asmmanag default getdefault hierarchi gethierarchi find element handl findelementforhandl handl
+link
+structur view node istructureviewnod link node linknod creat link createlink
+link
+icon registri iconregistri structur icon getstructureicon link kind getkind link access getaccess
+rel node relnod add link node linknod
+node svnode

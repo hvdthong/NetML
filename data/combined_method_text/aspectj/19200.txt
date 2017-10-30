@@ -1,0 +1,17 @@
+org aspectj weaver
+mangler namemangl
+synthet method issyntheticmethod string method methodnam declar aspect declaredinaspect
+method methodnam start startswith prefix
+synthet advic method
+method methodnam start startswith ajc
+method methodnam start startswith ajc
+method methodnam start startswith ajc
+advic method synthet gener proce
+method methodnam end endswith proce
+method methodnam start startswith ajc intermethod
+return fals bodi itd
+method methodnam index indexof aroundbodi
+droid move pr148727
+declaredinaspect
+methodnam equal aspectof methodnam equal hasaspect
+return true

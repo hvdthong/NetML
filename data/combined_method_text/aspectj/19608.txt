@@ -1,0 +1,32 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+add recurs addandrecurs set knowninterfac list collector resolv type resolvedtyp rtx includ includeitd miss allowmiss
+collector add addal arrai list aslist rtx declar method getdeclaredmethod collector addal arrai aslist rtx getdeclaredmethod add method declar type
+add inter type member
+includ includeitd rtx inter type munger intertypemung
+iter inter type munger intertypemung iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+resolv member resolvedmemb signatur getsignatur
+null parent type munger null signatur
+collector add signatur getsignatur
+rtx equal resolv type resolvedtyp object
+resolv type resolvedtyp super type supertyp rtx superclass getsuperclass
+super type supertyp super type supertyp miss ismiss
+add recurs addandrecurs knowninterfac collector super type supertyp includ includeitd miss allowmiss addandrecurs knowninterfac collector supertyp includeitd allowmiss recurs top
+resolv type resolvedtyp interfac rtx declar interfac getdeclaredinterfac resolvedtyp interfac rtx getdeclaredinterfac interfac back
+interfac length
+resolv type resolvedtyp ifac interfac
+interfac parent kind munger
+itd precis skip
+skip shouldskip
+rtx inter type munger intertypemung size
+concret type munger concretetypemung munger concret type munger concretetypemung rtx inter type munger intertypemung
+munger munger getmung munger munger getmung kind getkind resolv type munger resolvedtypemung parent
+parent type munger newparenttypemung munger munger getmung parent getnewpar equal ifac newparenttypemung munger getmung getnewpar equal ifac pr171953
+skip shouldskip
+skip shouldskip knowninterfac ifac shouldskip knowninterfac ifac dont interfac
+knowninterfac add ifac
+miss allowmiss ifac miss ismiss
+ifac miss resolv type signatur missingresolvedtypewithknownsignatur
+miss resolv type signatur missingresolvedtypewithknownsignatur ifac rais warn miss interfac whilst find method raisewarningonmissinginterfacewhilstfindingmethod
+add recurs addandrecurs knowninterfac collector ifac includ includeitd miss allowmiss

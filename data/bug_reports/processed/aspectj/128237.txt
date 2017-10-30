@@ -1,0 +1,223 @@
+aspectj npe code pointcut logical operation
+nullpointerexception compilation aspectj code pointcut logical operation
+test case bug
+import java ioexception
+import org aspectj lang proceedingjoinpoint
+import org aspectj lang annotation
+import org aspectj lang annotation aspect
+import org aspectj lang annotation pointcut
+aspect
+class abstracttracer
+
+pointcut execution public foo execution public foo blablabla execution public foo
+pointcut execution public foo execution public foo
+protected void methodcall
+pointcut methodcall obj
+private void objectcall object obj
+
+objectcall obj
+public object aroundmethodcall proceedingjoinpoint thisjoinpoint
+object obj throws throwable
+system println thisjoinpoint getsignature tostring
+thisjoinpoint getsignature tostring indexof
+
+throw ioexception aspect
+throw exception aspect
+
+object result thisjoinpoint proceed
+system println thisjoinpoint getsignature tostring
+return result
+
+
+public class foo
+public void methoda throws ioexception
+throw ioexception foo methoda
+
+public void methodb boolean throws exception
+
+
+
+throw exception foo methodb
+
+
+
+param args
+
+public static void main string args
+foo obj foo
+
+
+obj methoda
+system println wrong
+
+catch ioexception
+
+system println exception
+printstacktrace system
+
+
+
+obj methodb false
+system println
+
+catch exception
+
+system println wrong exception
+printstacktrace system
+
+
+
+
+acj error log
+
+aspectj properties
+aspectj compiler built tuesday dec gmt
+dump properties
+dump file ajcore txt
+dump reason java lang nullpointerexception
+dump exception true
+dump exit condition abort
+exception information
+java lang nullpointerexception
+org aspectj weaver bcel bcelweaver validateorbranch bcelweaver java
+org aspectj weaver bcel bcelweaver validatebindings bcelweaver java
+org aspectj weaver bcel bcelweaver rewritepointcuts bcelweaver java
+org aspectj weaver bcel bcelweaver prepareforweave bcelweaver java
+org aspectj ajdt internal compiler ajcompileradapter weave ajcompileradapter java
+org aspectj ajdt internal compiler ajcompileradapter aftercompiling ajcompileradapter java
+org aspectj ajdt internal compiler compileradapter ajc afterreturning org aspectj ajdt internal compiler compileradapter f9cc9ca0 compileradapter
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbuildmanager java
+org aspectj ajdt ajc ajdtcommand docommand ajdtcommand java
+org aspectj ajdt ajc ajdtcommand runcommand ajdtcommand java
+org aspectj tools ajc main run main java
+org aspectj tools ajc main runmain main java
+org aspectj tools ajc main main main java
+system properties
+java runtime java runtime environment standard edition
+sun boot library path opt java jdk1 jre lib i386
+java version b05
+java vendor sun microsystems
+java vendor url http java sun
+path separator
+java java hotspot client
+file encoding pkg sun
+user country
+sun patch level unknown
+java specification java virtual machine specification
+user dir home kei ajdt workspace aspectjtests
+java runtime version b05
+java awt graphicsenv sun awt x11graphicsenvironment
+java endorsed dirs opt java jdk1 jre lib endorsed
+arch i386
+java tmpdir tmp
+line separator
+java specification vendor sun microsystems
+linux
+sun jnu encoding utf
+java library path opt java jdk1 jre lib i386 client opt java jdk1 jre lib i386 opt java jdk1 jre lib i386
+java specification java platform api specification
+java class version
+sun management compiler hotspot client compiler
+version fc4
+user home home kei
+user timezone europe kiev
+java awt printerjob sun print psprinterjob
+file encoding utf
+java specification version
+java class path components aspectjweaver jar components aspectjtools jar components aspectjrt jar components aspectjlib jar build auroratest jar opt java aspectj1 lib aspectjtools jar opt java jdk1 lib tools jar
+user kei
+java specification version
+java home opt java jdk1 jre
+sun arch data model
+user language
+java specification vendor sun microsystems
+java info mixed mode sharing
+java version
+java ext dirs opt java jdk1 jre lib ext
+sun boot class path opt java jdk1 jre lib jar opt java jdk1 jre lib i18n jar opt java jdk1 jre lib sunrsasign jar opt java jdk1 jre lib jsse jar opt java jdk1 jre lib jce jar opt java jdk1 jre lib charsets jar opt java jdk1 jre classes
+java vendor sun microsystems
+file separator
+java vendor url bug http java sun cgi bin bugreport cgi
+sun unicode encoding unicodelittle
+sun cpu endian
+sun cpu isalist
+command line
+
+foo java
+full classpath
+opt java jdk1 jre lib jar bytes
+opt java jdk1 jre lib i18n jar missing
+opt java jdk1 jre lib sunrsasign jar missing
+opt java jdk1 jre lib jsse jar bytes
+opt java jdk1 jre lib jce jar bytes
+opt java jdk1 jre lib charsets jar bytes
+opt java jdk1 jre classes missing
+opt java jdk1 jre lib ext localedata jar bytes
+opt java jdk1 jre lib ext sunpkcs11 jar bytes
+opt java jdk1 jre lib ext dnsns jar bytes
+opt java jdk1 jre lib ext sunjce provider jar bytes
+opt java jdk1 jre lib ext bctsp jdk15 jar bytes
+opt java jdk1 jre lib ext bcprov jdk15 jar bytes
+opt java jdk1 jre lib ext j3daudio jar bytes
+opt java jdk1 jre lib ext bcmail jdk15 jar bytes
+opt java jdk1 jre lib ext j3dcore jar bytes
+opt java jdk1 jre lib ext j3dutils jar bytes
+opt java jdk1 jre lib ext vecmath jar bytes
+opt java jdk1 jre lib ext bcprov jdk14 jar bytes
+opt java jdk1 jre lib ext bcmail jdk14 jar bytes
+home kei ajdt workspace aspectjtests components aspectjweaver jar bytes
+home kei ajdt workspace aspectjtests components aspectjrt jar bytes
+home kei ajdt workspace aspectjtests components aspectjlib jar bytes
+build auroratest jar missing
+opt java jdk1 lib tools jar bytes
+opt java jdk1 jre lib ext localedata jar bytes
+opt java jdk1 jre lib ext sunpkcs11 jar bytes
+opt java jdk1 jre lib ext dnsns jar bytes
+opt java jdk1 jre lib ext sunjce provider jar bytes
+opt java jdk1 jre lib ext bctsp jdk15 jar bytes
+opt java jdk1 jre lib ext bcprov jdk15 jar bytes
+opt java jdk1 jre lib ext j3daudio jar bytes
+opt java jdk1 jre lib ext bcmail jdk15 jar bytes
+opt java jdk1 jre lib ext j3dcore jar bytes
+opt java jdk1 jre lib ext j3dutils jar bytes
+opt java jdk1 jre lib ext vecmath jar bytes
+opt java jdk1 jre lib ext bcprov jdk14 jar bytes
+opt java jdk1 jre lib ext bcmail jdk14 jar bytes
+home kei ajdt workspace aspectjtests components aspectjweaver jar bytes
+home kei ajdt workspace aspectjtests components aspectjrt jar bytes
+home kei ajdt workspace aspectjtests components aspectjlib jar bytes
+build auroratest jar missing
+opt java jdk1 lib tools jar bytes
+compiler messages
+abort abort nullpointerexception null
+null
+java lang nullpointerexception
+org aspectj weaver bcel bcelweaver validateorbranch bcelweaver java
+org aspectj weaver bcel bcelweaver validatebindings bcelweaver java
+org aspectj weaver bcel bcelweaver rewritepointcuts bcelweaver java
+org aspectj weaver bcel bcelweaver prepareforweave bcelweaver java
+org aspectj ajdt internal compiler ajcompileradapter weave ajcompileradapter java
+org aspectj ajdt internal compiler ajcompileradapter aftercompiling ajcompileradapter java
+org aspectj ajdt internal compiler compileradapter ajc afterreturning org aspectj ajdt internal compiler compileradapter f9cc9ca0 compileradapter
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbuildmanager java
+org aspectj ajdt ajc ajdtcommand docommand ajdtcommand java
+org aspectj ajdt ajc ajdtcommand runcommand ajdtcommand java
+org aspectj tools ajc main run main java
+org aspectj tools ajc main runmain main java
+org aspectj tools ajc main main main java
+org aspectj weaver bcel bcelworld
+shadow mungers
+extraflags persingleton abstracttracer execution public foo execution public foo blablabla execution public foo bindingtypepattern java lang object java lang object abstracttracer aroundmethodcall org aspectj lang proceedingjoinpoint java lang object
+type mungers
+bceltypemunger null
+bceltypemunger resolvedtypemunger privilegedaccess void java lang object
+late type mungers
+bceltypemunger null
+
+error latest aspectj development 20060216105006 night build

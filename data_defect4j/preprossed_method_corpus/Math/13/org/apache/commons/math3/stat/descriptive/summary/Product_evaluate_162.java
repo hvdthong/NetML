@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math3 stat descript summari
+
+
+
+
+
+
+
+
+
+
+
+return product valu
+
+valu dataset return
+valu
+code nan code code nan code return
+
+strong note implement strong
+multipl thread access instanc concurr
+thread invok code increment code
+code clear code method extern
+
+version
+
+product abstract storeless univari statist abstractstorelessunivariatestatist serializ weight evalu weightedevalu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return weight product entri portion
+input arrai code doubl nan code design subarrai
+empti
+
+throw code math illeg argument except mathillegalargumentexcept code
+valu arrai
+weight arrai
+weight arrai length valu arrai
+weight arrai infinit valu
+weight arrai nan valu
+weight arrai neg valu
+start length argument determin valid arrai
+
+
+formula pre
+weight product prod valu weight
+pre
+weight appli expon comput weight product
+
+param valu input arrai
+param weight weight arrai
+param begin index arrai element includ
+param length number element includ
+product valu length
+math illeg argument except mathillegalargumentexcept paramet valid
+
+
+evalu valu weight
+begin length math illeg argument except mathillegalargumentexcept
+product doubl nan
+test valu weight begin length
+product
+begin begin length
+product fast math fastmath pow valu weight
+
+
+product
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

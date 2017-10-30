@@ -1,0 +1,22 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+claus perclaus kind lookup claus kind lookupperclausekind refer bind referencebind bind
+claus perclaus claus perclaus
+bind binari type bind binarytypebind
+resolv type resolvedtyp super type supertypex factori eclips fromeclips bind
+claus perclaus super type supertypex claus getperclaus
+bind sourc type bind sourcetypebind
+sourc type bind sourcetypebind sourc sourcesc sourc type bind sourcetypebind bind
+sourc sourcesc scope refer context referencecontext aspect declar aspectdeclar
+claus perclaus aspect declar aspectdeclar sourc sourcesc scope refer context referencecontext claus perclaus
+bind parameter type bind parameterizedtypebind
+parameter type bind parameterizedtypebind bind pbind parameter type bind parameterizedtypebind bind
+bind pbind type sourc type bind sourcetypebind
+sourc type bind sourcetypebind sourc sourcesc sourc type bind sourcetypebind bind pbind type
+sourc sourcesc scope sourc sourcesc scope refer context referencecontext aspect declar aspectdeclar
+claus perclaus aspect declar aspectdeclar sourc sourcesc scope refer context referencecontext claus perclaus
+claus perclaus
+xxx handl
+claus perclaus
+lookup claus kind lookupperclausekind bind superclass
+claus perclaus kind getkind

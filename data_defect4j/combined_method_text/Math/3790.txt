@@ -1,0 +1,24 @@
+product array2 row real matrix array2drowrealmatrix dimens getdimens dimens getdimens
+product open map real matrix openmaprealmatrix dimens getdimens dimens getdimens
+inherit doc inheritdoc
+abstract real vector abstractrealvector real vector realvector
+real matrix realmatrix outer product outerproduct real vector realvector
+real matrix realmatrix outer product outerproduct real vector realvector illeg argument except illegalargumentexcept
+iter entri thisit spars iter sparseiter
+basic implement method
+org apach common math linear
+product set entri setentri thise index getindex other index getindex
+real matrix realmatrix product
+product open map real matrix openmaprealmatrix dimens getdimens
+version revis date
+product
+thise getvalu other getvalu
+iter entri otherit spars iter sparseiter
+entri other
+entri thise
+spars real vector sparserealvector spars real vector sparserealvector
+thisit hasnext thise thisit
+link real vector realvector
+dimens getdimens
+product array2 row real matrix array2drowrealmatrix dimens getdimens
+otherit hasnext other otherit

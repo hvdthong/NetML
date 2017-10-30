@@ -1,0 +1,77 @@
+overrid
+converg checker converg iter previou current
+build contribut matrix measur
+point vector pair pointvectorvaluepair optim dooptim
+residu object target valu targetvalu
+solv squar problem solv normal equat
+evalu object function jacobian
+inherit doc inheritdoc
+org apach common math3 optim gener
+math intern error mathinternalerror
+grad weight jacobian weightedjacobian row getrow
+converg except convergenceexcept local format localizedformat unabl solv singular problem
+converg checker getconvergencecheck
+comput useless checker loop
+updat deprec point field
+iter
+point
+updat estim paramet
+gauss newton squar solver
+wgk grad
+happen
+current point currentpoint start point getstartpoint
+real matrix realmatrix weight matrix weightmatrix weight getweight
+row
+target valu targetvalu target gettarget
+converg
+current point currentpoint length
+converg converg
+point vector pair pointvectorvaluepair current
+checker
+current point currentpoint
+current object currentobject comput object computeobjectivevalu current point currentpoint
+current
+current residu currentresidu comput residu computeresidu current object currentobject
+updat jacobian updatejacobian
+version
+diagon weight matrix
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim
+grad weight residu jacobian weightedresidualjacobian
+weight residu
+real matrix realmatrix weight jacobian weightedjacobian comput weight jacobian computeweightedjacobian current point currentpoint
+decomposit ludecomposit solver getsolv
+residu current residu currentresidu
+decomposit solv normal equat decomposit
+singular matrix except singularmatrixexcept
+solver solv arrai real vector arrayrealvector arrai toarrai
+cost comput cost computecost current residu currentresidu
+comput normal equat
+previou
+current point vector pair pointvectorvaluepair point object
+weight residu weight residualsweight
+target valu targetvalu length number observ data
+col col
+point current point getpoint
+converg checker convergencecheck point vector pair pointvectorvaluepair checker
+target valu targetvalu target ref gettargetref
+updat residu cost updateresidualsandcost
+decomposit qrdecomposit solver getsolv
+object function current point currentpoint
+deprec remov
+solv linear squar problem
+current point vector pair pointvectorvaluepair current point currentpoint current object currentobject
+point vector pair pointvectorvaluepair previou current
+build linear problem
+linear problem iter decomposit
+decomposit solver decompositionsolv solver uselu
+faster decomposit robust difficult problem
+check converg
+residu weight residualsweight weight ref getweightref
+wgk weight grad
+real matrix realmatrix block real matrix blockrealmatrix
+residu weight residualsweight weight matrix weightmatrix entri getentri
+residu weight residualsweight
+iter converg reach
+grad
+col
+null argument except nullargumentexcept

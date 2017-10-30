@@ -1,0 +1,12 @@
+durat field unsupport durat field unsupporteddurationfield field
+durat field durationfield durat field getdurationfield
+precis datetim field precis unit durat field
+org joda time field
+subclass
+durat
+precis durat date time field precisedurationdatetimefield base date time field basedatetimefield
+field repres minut hour durat field minut
+return durat unit field
+author brian neill o'neil
+precis durat date time field precisedurationdatetimefield thread safe immut
+unit field iunitfield

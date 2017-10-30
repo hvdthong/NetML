@@ -1,0 +1,30 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+member make join point signatur method invoc makejoinpointsignatureformethodinvoc lazi class gen lazyclassgen invok instruct invokeinstruct
+constant pool gen constantpoolgen cpg constant pool gen getconstantpoolgen
+string getnam cpg
+string declar class getclassnam cpg
+unresolv type unresolvedtyp declar type declaringtyp
+string signatur signatur getsignatur cpg
+modifi
+invokeinterfac
+modifi interfac
+invokestat
+modifi static
+invokespeci equal init
+modifi privat
+java static method call super class subclass method appear
+declar subclass bytecod
+invokestat
+resolv type resolvedtyp appear declar appearsdeclaredbi resolv declar
+method
+iter iter appear declar appearsdeclaredbi method getmethod iter hasnext
+resolv member resolvedmemb method resolv member resolvedmemb iter
+method static isstat
+equal method getnam signatur equal method signatur getsignatur
+found
+declar type declaringtyp method declar type getdeclaringtyp
+declar type declaringtyp
+declar char charat declar type declaringtyp unresolv type unresolvedtyp signatur forsignatur declar
+declar type declaringtyp unresolv type unresolvedtyp fornam declar
+member impl memberimpl method declar type declaringtyp modifi signatur

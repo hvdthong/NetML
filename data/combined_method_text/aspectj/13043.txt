@@ -1,0 +1,17 @@
+org aspectj apach bcel classfil annot
+element repres primit string
+simpl element simpleelementvalu element elementvalu
+dump data output stream dataoutputstream do except ioexcept
+do write byte writebyt type do writebyt type kind
+type
+primit int primit int
+primit byte primit byte
+primit char primit char
+primit float primit float
+primit long primit long
+primit boolean primit boolean
+primit short primit short
+primit doubl primit doubl
+string
+do write short writeshort idx
+runtim except runtimeexcept simpleelementvalu doesnt write type type

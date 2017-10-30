@@ -1,0 +1,7 @@
+org aspectj tool ajbrows core
+build progress monitor show progress dialog
+jprogressbar updat progress bar bottom ajbrows
+build progress inform
+browser build progress monitor browserbuildprogressmonitor thread build progress monitor ibuildprogressmonitor
+set progress setprogress percent percentdon
+progress dialog progressdialog set progress bar val setprogressbarv percent percentdon progress dialog progressdialog progress bar max getprogressbarmax

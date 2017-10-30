@@ -1,0 +1,20 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+path chang pathchang build config ajbuildconfig config oldconfig build config ajbuildconfig config newconfig
+chang
+list output loc oldoutputloc output locat getoutputloc config oldconfig
+list classpath oldclasspath config oldconfig classpath getclasspath
+list classpath newclasspath config newconfig classpath getclasspath
+state listen statelisten state listen statelisten compar classpath abouttocompareclasspath classpath oldclasspath classpath newclasspath
+chang classpath oldclasspath classpath newclasspath output loc oldoutputloc
+list aspectpath oldaspectpath config oldconfig aspectpath getaspectpath
+list aspectpath newaspectpath config newconfig aspectpath getaspectpath
+chang aspectpath oldaspectpath aspectpath newaspectpath output loc oldoutputloc
+list jar oldinjar config oldconfig jar getinjar
+list jar newinjar config newconfig jar getinjar
+chang jar oldinjar jar newinjar output loc oldoutputloc
+list path oldinpath config oldconfig inpath getinpath
+list path newinpath config newconfig inpath getinpath
+chang path oldinpath path newinpath output loc oldoutputloc
+chang

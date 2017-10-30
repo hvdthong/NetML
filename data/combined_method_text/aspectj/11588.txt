@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+type variabl typevari type parameter2 type variabl typeparameter2typevari type paramet typeparamet type paramet atypeparamet
+string string type paramet atypeparamet
+refer bind referencebind superclass bind superclassbind type paramet atypeparamet bind superclass
+unresolv type unresolvedtyp superclass unresolv type unresolvedtyp signatur forsignatur string superclass bind superclassbind signatur
+unresolv type unresolvedtyp superinterfac
+refer bind referencebind super interfac bind superinterfacebind type paramet atypeparamet bind super interfac superinterfac
+super interfac bind superinterfacebind
+superinterfac unresolv type unresolvedtyp super interfac bind superinterfacebind length
+super interfac bind superinterfacebind length
+superinterfac unresolv type unresolvedtyp signatur forsignatur string super interfac bind superinterfacebind signatur
+xxx lower bind
+type variabl typevari type variabl typevari superclass superinterfac
+set declar element setdeclaringel factori bind frombind type paramet atypeparamet bind declar element declaringel
+set rank setrank type paramet atypeparamet bind rank

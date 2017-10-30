@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+declar soft declaresoft declar
+declar parameter parameterizewith map type variabl bind map typevariablebindingmap world
+declar soft declaresoft ret
+declar soft declaresoft
+except parameter parameterizewith type variabl bind map typevariablebindingmap
+pointcut parameter parameterizewith type variabl bind map typevariablebindingmap
+ret copi locat copylocationfrom
+ret

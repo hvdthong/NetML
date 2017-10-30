@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+star annot pattern isstarredannotationpattern
+type pattern typepattern type pattern typepattern star annot isstarannot
+sig pattern sigpattern sig pattern sigpattern star annot isstarannot
+runtim except runtimeexcept imposs kind deca

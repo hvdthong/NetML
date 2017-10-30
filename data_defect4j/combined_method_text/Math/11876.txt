@@ -1,0 +1,42 @@
+pre
+org apach common math3 fit
+doubl neg infin
+rang except outofrangeexcept code
+weight observ point weightedobservedpoint
+ob add
+param determin
+rang except outofrangeexcept
+optim valu return order
+weight observ point weightedobservedpoint ob weight observ point weightedobservedpoint
+org apach common math3 analysi function gaussian parametr gaussian
+fit point link
+arrai point suitabl determin
+bound interpol point point
+version
+doubl posit infin
+function
+param point point interpol
+weight observ point weightedobservedpoint point idx step idxstep
+normal
+interpol bound point
+usag
+isbetween geti geti
+except zeroexcept code idx step idxstep
+except caught messag displai
+param idx step idxstep index step search interpol bound point
+param start idx startidx index point start search
+link start point withstartpoint initi guess valu pass
+suitabl determin
+idx step idxstep
+except zeroexcept
+todo except flow control
+gaussian curv fitter gaussiancurvefitt abstract curv fitter abstractcurvefitt levenberg marquardt optim levenbergmarquardtoptim
+paramet gaussian curv fitter gaussiancurvefitt creat fit ob
+start idx startidx
+weight observ point weightedobservedpoint point
+rang code point
+boundari replac dummi valu rais
+weight observ point weightedobservedpoint interpol point getinterpolationpointsfori weight observ point weightedobservedpoint point
+idx step idxstep idx step idxstep idx step idxstep point length
+sigma
+order

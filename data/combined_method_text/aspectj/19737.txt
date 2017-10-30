@@ -1,0 +1,6 @@
+org aspectj weaver
+shadow
+string simpl getsimplenam
+dash getnam index lastindexof
+dash getnam
+getnam substr dash

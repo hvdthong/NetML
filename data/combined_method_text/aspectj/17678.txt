@@ -1,0 +1,24 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+reset variabl permit
+reset
+version fals
+source14
+option ignoredopt hash set hashset
+cmd commandlin
+vmcmd commandlin
+thread
+destdir
+workingdir
+internalclasspath
+classpath
+bootclasspath
+extdir
+srcdir
+argfil
+fork
+failonerror
+encod
+sourc

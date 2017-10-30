@@ -1,0 +1,10 @@
+org aspectj ajd swing
+simpl structur view tool panel simplestructureviewtoolpanel panel jpanel
+simpl structur view tool panel simplestructureviewtoolpanel structur view structureview current view currentview
+current view currentview current view currentview
+asm manag asmmanag default getdefault add listen addlisten model listen model listen
+init jbinit
+except
+messag msg messag initi gui messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+updat curr config label updatecurrconfiglabel activ config

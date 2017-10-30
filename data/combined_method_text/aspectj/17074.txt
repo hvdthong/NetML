@@ -1,0 +1,18 @@
+org aspectj org eclips jdt core dom
+declareparentsdeclar dom ast node
+declaredeclar
+typepattern call 'childtypepattern'
+boolean call 'isextends'
+typepattern list call 'typepatternslist'
+declar parent declar declareparentsdeclar declar declar declaredeclar
+ast node astnod clone0 ast target
+declar parent declar declareparentsdeclar result declar parent declar declareparentsdeclar target declareparentsdeclar result declareparentsdeclar target declaredecl
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+result set child type pattern setchildtypepattern
+type pattern typepattern ast node astnod copi subtre copysubtre target child type pattern getchildtypepattern
+result set extend setextend extend isextend
+result parent type pattern parenttypepattern add addal
+ast node astnod copi subtre copysubtre target parent type pattern parenttypepattern
+result

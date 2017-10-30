@@ -1,0 +1,13 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+delet resourc maybedeleteresourc string re resnam list resourc oldresourc
+resourc re resnam
+resourc oldresourc remov re resnam
+list output dir outputdir output locat getoutputloc build config buildconfig
+iter iter output dir outputdir iter iter hasnext
+file dir file iter
+file sourc file dir re resnam
+sourc sourc exist
+sourc modifi lastmodifi success build time lastsuccessfulbuildtim
+resourc remov re resnam resourc remov resnam ensur copi

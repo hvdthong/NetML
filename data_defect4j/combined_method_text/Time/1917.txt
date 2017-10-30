@@ -1,0 +1,20 @@
+abstract instant abstractinst thread safe immut subclass
+millisecond instant
+link readabl instant readableinst
+extend
+author stephen colebourn
+abstract instant abstractinst common behaviour instant class
+compar sole millisecond
+implement code readabl instant readableinst code
+abstract instant abstractinst readabl instant readableinst
+instant equal millisecond instant pass
+kind date time object referenc
+instant instant pass
+org joda time base
+equal isequ instant
+author brian neill o'neil
+gener directli api user
+mutabl thread safe
+concept chronolog method work
+milli getmilli instant
+param instant millisecond instant check

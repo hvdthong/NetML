@@ -1,0 +1,26 @@
+org aspectj ajdt intern core builder
+author mik kersten
+asm element formatt asmelementformatt
+set paramet setparamet abstract method declar abstractmethoddeclar program element iprogramel
+argument arg arrai argarrai argument
+arg arrai argarrai
+set paramet name setparameternam collect empti list empti list
+set paramet signatur setparametersignatur collect empti list empti list
+list name arrai list arraylist
+list param sig paramsig arrai list arraylist
+arg arrai argarrai length
+string arg argnam string arg arrai argarrai
+string argtyp unknowntyp pr135052
+accept argument acceptargu arg argnam arg arrai argarrai type string tostr
+type refer typerefer type typer arg arrai argarrai type
+type typer scope
+type bind typebind type typeb type typer resolv type resolvedtyp
+type typeb
+type typeb type typer resolv type resolvetyp scope
+eclips factori eclipsefactori factori eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+unresolv type unresolvedtyp factori bind frombind type typeb
+param sig paramsig add signatur getsignatur char arrai tochararrai
+name add arg argnam
+set paramet name setparameternam name
+param sig paramsig empti isempti
+set paramet signatur setparametersignatur param sig paramsig

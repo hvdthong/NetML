@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+iadd add int
+pre stack value1 value2 result pre
+version iadd java aclement exp
+author href mailto marku dahm berlin dahm
+iadd arithmet instruct arithmeticinstruct
+add int
+iadd
+org aspectj apach bcel constant iadd

@@ -1,0 +1,40 @@
+org aspectj intern tool ant taskdef
+header search replac hokei string match
+header
+replac header file
+replac header replacehead file file header info headerinfo info
+arraylist year arraylist
+int endlin
+buffer reader bufferedread input
+print writer printwrit output
+file writer filewrit writer outwrit
+line num linenum
+result
+file file infil file file path getpath tmp
+file file outfil file file path getpath
+file renam renameto file infil file infil read canread
+error unabl renam file file infil
+writer outwrit file writer filewrit file outfil
+input buffer reader bufferedread file reader fileread file infil
+output print writer printwrit writer outwrit
+info write header writehead output
+string line
+line input read line readlin
+line num linenum
+line num linenum info line lastlin
+output println line
+except ioexcept
+system err println
+write line line num linenum file
+print stack trace printstacktrac system err
+result
+input
+input close
+except ioexcept
+result
+writer outwrit
+writer outwrit close
+except ioexcept
+result
+result file infil delet
+result

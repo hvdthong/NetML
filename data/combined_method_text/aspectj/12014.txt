@@ -1,0 +1,25 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+visit field declar fielddeclar field declar fielddeclar method scope methodscop scope
+program element iprogramel node penod
+field declar fielddeclar type fielddeclar type null field repres enum
+node penod program element programel
+string field declar fielddeclar program element iprogramel kind enum enum
+make locat makeloc field declar fielddeclar field declar fielddeclar modifi
+node penod set type setcorrespondingtyp field declar fielddeclar bind type debug debugnam
+node penod program element programel
+string field declar fielddeclar program element iprogramel kind field
+make locat makeloc field declar fielddeclar field declar fielddeclar modifi
+node penod set type setcorrespondingtyp field declar fielddeclar type string tostr
+node penod set sourc signatur setsourcesignatur gen sourc signatur gensourcesignatur field declar fielddeclar
+node penod set formal comment setformalcom gener javadoc comment generatejavadoccom field declar fielddeclar
+program element iprogramel stack peek add child addchild node penod
+stack push node penod

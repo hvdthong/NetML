@@ -1,0 +1,11 @@
+author stephen colebourn
+basic dai month date time field basicdayofmonthdatetimefield precis durat date time field precisedurationdatetimefield
+time calcul dai month compon time
+org joda time chrono
+author gui allard
+restrict constructor
+chronolog ichronolog chronolog
+basic dai month date time field basicdayofmonthdatetimefield basic chronolog basicchronolog chronolog durat field durationfield dai
+author brian neill o'neil
+date time field type datetimefieldtyp dai month dayofmonth dai
+refactor dai month date time field gjdayofmonthdatetimefield

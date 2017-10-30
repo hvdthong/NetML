@@ -1,0 +1,4 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+world world getworld
+bcel world getbcelworld

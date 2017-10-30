@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+pattern parser patternpars
+type pattern typepattern pars field type pattern parsehasfieldtypepattern
+start po startpo token sourc tokensourc peek start getstart
+eat
+signatur pattern signaturepattern pars field signatur pattern parsefieldsignaturepattern
+eat
+end po endpo token sourc tokensourc peek end getend
+member type pattern hasmembertypepattern ret member type pattern hasmembertypepattern
+ret set locat setloc sourc context sourcecontext start po startpo end po endpo
+ret

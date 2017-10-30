@@ -1,0 +1,7 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+set jvmarg setjvmarg string input public void setjvmarg string input ajc taskdef docdon
+ignor jvmarg ignor jvmarg xxx fork
+vmcmd createargu setvalu input

@@ -1,0 +1,34 @@
+set set
+parsesinglepointcut
+tokensourc tokensourc tokensourc tokensourc tokensourc
+parser
+notpointcut
+parseatomicpointcut parseatomicpointcut
+org
+end end end end end end
+pattern pattern
+startpo startpo startpo startpo startpo startpo
+eat eat eat eat
+start start start start start start start start start
+pointcut pointcut pointcut pointcut pointcut pointcut pointcut pointcut pointcut pointcut pointcut
+maybeeat maybeeat maybeeat
+po po po po po po po po po po
+singl
+peek peek peek peek peek
+parsepointcut
+sourc sourc sourc sourc sourc sourc sourc
+parseannotationpointcut
+pars pars pars pars pars
+atom atom
+locat locat
+aspectj
+patternpars
+endpo endpo endpo endpo
+getend getend
+getstart getstart getstart
+sourcecontext sourcecontext
+annot
+token token token token token
+setloc setloc
+context context
+weaver

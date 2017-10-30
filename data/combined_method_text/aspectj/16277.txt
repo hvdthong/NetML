@@ -1,0 +1,32 @@
+org aspectj intern tool ant taskdef
+task convert html sourc file file bodi content
+task argument
+srcdir
+destdir
+includ
+exclud
+argument sourcedir requir
+task execut scan srcdir base
+includ exclud properti
+strip bodi html stripnonbodyhtml match task matchingtask
+execut build except buildexcept
+src dir srcdir
+build except buildexcept srcdir attribut set
+src dir srcdir exist
+build except buildexcept srcdir exist
+src dir srcdir directori isdirectori
+build except buildexcept srcdir directori
+dest dir destdir
+dest dir destdir exist
+build except buildexcept destdir exist
+dest dir destdir directori isdirectori
+build except buildexcept destdir directori
+directori scanner directoryscann directori scanner getdirectoryscann src dir srcdir
+string file includ file getincludedfil
+log strip file length file
+strip
+len file length len
+process file processfil file
+strip
+log file strip
+log strip file successfulli strip

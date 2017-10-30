@@ -1,0 +1,20 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+target annot pointcut thisortargetannotationpointcut bind pointcut namebindingpointcut
+pointcut concretize1 resolv type resolvedtyp aspect inaspect resolv type resolvedtyp declar type declaringtyp int map intmap bind
+declar isdeclar bind enclos advic getenclosingadvic
+enforc rule design support declar
+warn alreadywarnedaboutdeow
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag target declar target declar isthi target
+bind enclos advic getenclosingadvic sourc locat getsourceloc
+warn alreadywarnedaboutdeow
+pointcut make match makematchesnoth pointcut concret
+exact annot type pattern exactannotationtypepattern type newtyp exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern remap advic formal remapadviceform bind
+target annot pointcut thisortargetannotationpointcut ret
+target annot pointcut thisortargetannotationpointcut isthi type newtyp bind enclos advic getenclosingadvic
+ret warn alreadywarnedaboutdeow warn alreadywarnedaboutdeow
+ret copi locat copylocationfrom
+ret

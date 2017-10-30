@@ -1,0 +1,7 @@
+return control matrix
+org apach common math filter
+control matrix
+real matrix realmatrix control matrix getcontrolmatrix
+version
+defin process dynam model link kalman filter kalmanfilt
+process model processmodel

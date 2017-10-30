@@ -1,0 +1,44 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+add sourc type bind addsourcetypebind sourc type bind sourcetypebind bind compil unit declar compilationunitdeclar unit
+type declar typedeclar decl bind scope refer context referencecontext
+deal raw basic type give entri world type map
+unresolv type unresolvedtyp simpl simpletx
+bind gener type isgenerictyp
+simpl simpletx unresolv type unresolvedtyp raw type forrawtypenam getnam bind
+bind local type islocaltyp
+local type bind localtypebind ltb local type bind localtypebind bind
+ltb constant pool constantpoolnam ltb constant pool constantpoolnam length
+simpl simpletx unresolv type unresolvedtyp signatur forsignatur string bind signatur
+simpl simpletx unresolv type unresolvedtyp fornam getnam bind
+simpl simpletx unresolv type unresolvedtyp fornam getnam bind
+refer type referencetyp world getworld lookup creat lookuporcreatenam simpl simpletx
+type chang simpl gener simpl set compil
+ensur entri typemap promot demot correctli call
+setgenerictyp promot simpl raw call demot back
+simpl
+pr125405
+bind raw type israwtyp bind gener type isgenerictyp typekind gettypekind type kind typekind raw
+demot simpl type demotetosimpletyp
+eclips sourc type eclipsesourcetyp eclips sourc type eclipsesourcetyp bind decl unit
+gener bit build typex gener type
+give deleg link raw type
+bind gener type isgenerictyp
+unresolv type unresolvedtyp complex complextx bind frombind bind unresolvedtyp complextx frombind bind fulli awar gener info
+resolv type resolvedtyp cname world resolv complex complextx
+refer type referencetyp complex complexnam
+cname miss ismiss
+complex complexnam refer type referencetyp cname
+complex complexnam refer type referencetyp complex complexnam gener type getgenerictyp
+complex complexnam complex complexnam refer type referencetyp complex complextx world
+complex complexnam refer type referencetyp complex complextx world
+set gener type setgenerictyp complex complexnam
+complex complexnam set deleg setdeleg
+set deleg setdeleg
+decl aspect declar aspectdeclar
+aspect declar aspectdeclar decl type typex
+aspect declar aspectdeclar decl concret concretenam
+refer bind referencebind member type membertyp bind member type membertyp
+length member type membertyp length length
+add sourc type bind addsourcetypebind sourc type bind sourcetypebind member type membertyp unit

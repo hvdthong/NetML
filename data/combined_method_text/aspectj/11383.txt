@@ -1,0 +1,106 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+complet type bind completetypebind
+asm manag asmmanag set complet type bind setcompletingtypebind
+context token contexttoken complet type bind token completetypebindingstoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext complet type bind complet type bind
+builtintertypesandperclaus fals
+pendingtypestoweav arraylist
+step complet stepcomplet build type hierarchi build type hierarchi
+complet unit index lastcompletedunitindex unit index lastunitindex
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext check set import check set import unit compil result compilationresult file filenam
+unit scope check set import checkandsetimport
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+step complet stepcomplet check set import check set import
+complet unit index lastcompletedunitindex unit index lastunitindex
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext connect type hierarchi connect type hierarchi unit compil result compilationresult file filenam
+unit scope connect type hierarchi connecttypehierarchi
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+step complet stepcomplet connect type hierarchi connect type hierarchi
+complet unit index lastcompletedunitindex unit index lastunitindex
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext build field method build field method unit compil result compilationresult file filenam
+unit scope check parameter type checkparameterizedtyp
+unit scope build field method buildfieldsandmethod
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+gather typedeclar point put factori
+complet unit index lastcompletedunitindex unit index lastunitindex
+sourc type bind sourcetypebind unit scope top level type topleveltyp
+length
+factori add sourc type bind addsourcetypebind unit
+find anonym type regist
+told turn
+anonym class publish anonymousclasspublish aspect aspectof set anonym class creation listen setanonymousclasscreationlisten
+build inter type declar aspectdeclar point
+order super type subtyp
+list type process typestoprocess arrai list arraylist
+complet unit index lastcompletedunitindex unit index lastunitindex
+compil unit scope compilationunitscop cu unit scope
+sourc type bind sourcetypebind stb cu top level type topleveltyp
+stb length
+sourc type bind sourcetypebind stb stb
+type process typestoprocess add stb
+factori world getworld crosscut member set getcrosscuttingmembersset reset
+type process typestoprocess size
+remov type list process
+collect declar collectallitdsanddeclar sourc type bind sourcetypebind type process typestoprocess type process typestoprocess
+factori finish type munger finishtypemung
+weav
+collect type munger typemung factori type munger gettypemung
+collect declar parent declarepar factori declar parent getdeclarepar
+collect declar annot type declareannotationontyp factori declar annot type getdeclareannotationontyp
+pend weav dopendingweav
+list type process appli type munger
+situat order type pass compil
+output compil vari bad class
+class extend aspect 'declar parent implement serializable'
+depend make serializ
+fix process order ensur type process
+supertyp superinterfac algorithm problem
+partial hierarchi suppos type hierarchi woven
+weav bring type process pendingtypestoweav add call thought
+full list
+common case brave
+type process order import typeprocessingorderisimport declar parent declarepar size declar annot type declareannotationontyp size boolean typeprocessingorderisimport declarepar size declareannotationontyp size decat
+type process order import typeprocessingorderisimport
+type process typestoprocess arrai list arraylist
+complet unit index lastcompletedunitindex unit index lastunitindex
+compil unit scope compilationunitscop cu unit scope
+sourc type bind sourcetypebind stb cu top level type topleveltyp
+stb length
+sourc type bind sourcetypebind stb stb
+type process typestoprocess add stb
+type process typestoprocess size
+side effect weaveintertyp process type remov collect
+weav intertyp weaveintertyp type process typestoprocess sourc type bind sourcetypebind type process typestoprocess type munger typemung declar parent declarepar declar annot type declareannotationontyp
+order import
+complet unit index lastcompletedunitindex unit index lastunitindex
+system err println work string unit getfilenam
+weav inter type declar weaveintertypedeclar unit scope type munger typemung declar parent declarepar declar annot type declareannotationontyp
+complet unit index lastcompletedunitindex unit index lastunitindex
+sourc type bind sourcetypebind unit scope top level type topleveltyp
+length
+verifi type paramet meet bound verifyanytypeparametersmeetbound
+complet unit index lastcompletedunitindex unit index lastunitindex
+sourc type bind sourcetypebind unit scope top level type topleveltyp
+length
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext resolv pointcut declar resolv pointcut declar sourc sourcenam
+resolv pointcut declar resolvepointcutdeclar scope
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+complet unit index lastcompletedunitindex unit index lastunitindex
+sourc type bind sourcetypebind unit scope top level type topleveltyp
+length
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext ad declar warn error ad declar warn error sourc sourcenam
+add advic declar addadvicelikedeclar scope
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+complet unit index lastcompletedunitindex unit index lastunitindex
+unit unit null releas unnecessari refer pars unit
+step complet stepcomplet build field method build field method
+complet unit index lastcompletedunitindex unit index lastunitindex
+asm manag asmmanag set complet type bind setcompletingtypebind
+factori world getworld crosscut member set getcrosscuttingmembersset verifi
+compil weav context compilationandweavingcontext leav phase leavingphas complet type bind token completetypebindingstoken

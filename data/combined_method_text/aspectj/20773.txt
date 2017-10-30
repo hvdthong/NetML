@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+pointcut find pointcut findfirstpointcutin pointcut search tosearch class tolookfor
+search tosearch pointcut notpointcut
+tolookfor instanc isinst search tosearch search tosearch
+search tosearch pointcut andpointcut
+pointcut andpointcut apc pointcut andpointcut search tosearch
+pointcut left find pointcut findfirstpointcutin apc left getleft tolookfor
+left left
+find pointcut findfirstpointcutin apc getright tolookfor

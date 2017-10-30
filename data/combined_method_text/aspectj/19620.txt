@@ -1,0 +1,23 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+collect inter type munger collectintertypemung list collector
+iter iter direct supertyp getdirectsupertyp iter hasnext
+resolv type resolvedtyp super type supertyp resolv type resolvedtyp iter
+super type supertyp collect inter type munger collectintertypemung collector
+outer
+iter iter1 collector iter iter1 hasnext
+concret type munger concretetypemung super munger supermung concret type munger concretetypemung iter1
+super munger supermung signatur getsignatur
+super munger supermung signatur getsignatur abstract isabstract
+iter iter inter type munger getintertypemung iter iter hasnext
+concret type munger concretetypemung munger mymung concret type munger concretetypemung iter
+conflict signatur conflictingsignatur munger mymung signatur getsignatur super munger supermung signatur getsignatur
+iter1 remov
+outer
+super munger supermung signatur getsignatur public ispubl
+iter iter method getmethod iter hasnext
+resolv member resolvedmemb method resolv member resolvedmemb iter
+conflict signatur conflictingsignatur method super munger supermung signatur getsignatur
+iter1 remov
+outer
+collector add addal inter type munger getintertypemung

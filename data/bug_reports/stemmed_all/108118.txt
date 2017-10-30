@@ -1,0 +1,4 @@
+complet implement suppressajwarn
+ensur suppressajwarn suppress pointcut
+oper requir wrap major pointcut oper call lint
+advic

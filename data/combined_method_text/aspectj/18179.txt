@@ -1,0 +1,8 @@
+org aspectj util
+lang util langutil
+init
+string classpath
+string main class mainclass
+string arg
+init lang util langutil java execut getjavaexecut
+classpath main class mainclass arg

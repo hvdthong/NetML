@@ -1,0 +1,13 @@
+local min localmin min max rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+max iter exceed except maxiterationsexceededexcept
+org apach common math analysi minim
+inherit doc inheritdoc
+min max
+univari function
+minim univari real function univariaterealfunct
+clear result clearresult
+version revis date
+implement richard brent' algorithm book algorithm
+brent minim brentminim univari real minim impl univariaterealminimizerimpl
+function evalu except functionevaluationexcept
+minim deriv find minima real

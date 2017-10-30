@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+util
+instruct creat invok createinvok
+instruct factori instructionfactori fact
+lazi method gen lazymethodgen
+kind
+enclos class getenclosingclass interfac isinterfac
+kind constant invokeinterfac
+static isstat
+kind constant invokestat
+privat ispriv getnam equal init
+kind constant invokespeci
+kind constant invokevirtu
+fact creat invok createinvok
+class getclassnam
+getnam
+return type getreturntyp
+argument type getargumenttyp
+kind

@@ -1,0 +1,145 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+leftmost charact result charact
+max width maxwidth
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+str substr str length max width maxwidth
+param str string check
+index set string
+compar string report differ
+string util stringutil abbrevi abcdefghijklmno ghij
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+space space charact code
+author arun mammen thoma
+string util stringutil abbrevi abcdefghijklmno abcdefg
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+abbrevi str substr offset max width maxwidth
+string util stringutil abbrevi
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+str length offset max width maxwidth
+ellips result
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+code max width maxwidth
+abrev marker abrevmark abbrevi str substr offset max width maxwidth
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+offset str length max width maxwidth
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+param max width maxwidth maximum length result string
+trim strip
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+offset
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+param offset left edg sourc string
+string handl
+empti isempti blank isblank
+code max width maxwidth code
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+code code
+work code abbrevi string
+empti length string code code
+safe substr extract
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+string util stringutil abbrevi abcdefghijklmno fghi
+abrev marker abrevmark str substr str length max width maxwidth
+space space charact code code
+string abbrevi string str offset max width maxwidth
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+str substr max width maxwidth abrev marker abrevmark
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+abbrevi string ellips turn
+author href mailto jon latchkei jon steven
+illeg argument except illegalargumentexcept minimum abbrevi width
+index indexof index lastindexof
+code code input code code
+string abrev marker abrevmark
+illeg argument except illegalargumentexcept width small
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+code code safe
+str substr max width maxwidth
+string util stringutil abbrevi abcdefghijklmno ijklmno
+remov part string
+str
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+time good men time
+symbol code input includ code
+code input code
+code null pointer except nullpointerexcept consid bug
+work code abbrevi string code
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+code code return
+string util stringutil abbrevi abcdefghij illeg argument except illegalargumentexcept
+author gari gregori
+abbrevi string code code string input
+safe index check
+code string util stringutil
+abbrevi string code string input
+code safe
+offset str length
+string util stringutil
+thread safe threadsaf
+str length max width maxwidth
+left edg offset note left edg necessarili
+check charact string
+illeg argument except illegalargumentexcept minimum abbrevi width offset
+string length greater
+append miss appendifmiss
+prepend miss prependifmiss
+offset max width maxwidth str length
+symbol code code input includ code code

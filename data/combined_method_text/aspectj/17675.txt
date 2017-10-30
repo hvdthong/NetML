@@ -1,0 +1,74 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+execut build except buildexcept
+srcdir argfil
+build except buildexcept srcdir argfil set
+locat
+thread
+cmd createargu setvalu thread
+cmd createargu setvalu thread
+workingdir null
+cmd createargu setvalu workingdir
+cmd createargu setfil workingdir
+destdir
+cmd creat argument createargu set setvalu
+cmd creat argument createargu set file setfil destdir
+classpath
+cmd creat argument createargu set setvalu classpath
+cmd creat argument createargu set path setpath classpath
+bootclasspath
+cmd creat argument createargu set setvalu bootclasspath
+cmd creat argument createargu set path setpath bootclasspath
+extdir
+cmd creat argument createargu set setvalu extdir
+cmd creat argument createargu set path setpath extdir
+encod
+cmd creat argument createargu set setvalu encod
+cmd creat argument createargu set setvalu encod
+sourc
+cmd creat argument createargu set setvalu sourc
+cmd creat argument createargu set setvalu sourc
+numargfil
+argfil
+iter argfil iter hasnext
+string
+file argfil project resolv file resolvefil
+check argfil locat
+cmd creat argument createargu set setvalu argfil
+cmd creat argument createargu set file setfil argfil
+numargfil
+numfil
+srcdir
+todo ignor srcdir argfil explicit includ
+string dir srcdir list
+dir length
+file dir project resolv file resolvefil dir
+check dir dir locat
+string file directori scanner getdirectoryscann dir includ file getincludedfil
+file length
+file file file dir file
+file util fileutil sourc suffix hassourcesuffix file
+cmd creat argument createargu set file setfil file
+numfil
+option ignoredopt option ignoredopt size
+log attribut option ignoredopt
+project msg warn msg warn
+option ignoredopt preprocess
+build except buildexcept preprocess longer support
+log compil numfil sourc
+numargfil arg file
+destdir destdir path getpath project msg info msg info
+actual invoc
+int result fork internalclasspath null fork spoon
+fork internalclasspath
+log warn fork support project msg warn msg warn
+result spoon
+result
+string msg compil error result
+failonerror
+reset
+build except buildexcept msg
+log msg project msg warn msg warn
+reset reset throw

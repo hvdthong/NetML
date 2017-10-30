@@ -1,0 +1,121 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi
+
+
+
+
+
+implement href
+http mathworld wolfram newton divid differ interpol formula newtonsdivideddifferenceinterpolationformula html
+divid differ algorithm interpol real univari
+function refer introduct numer analysi
+isbn 038795452x chapter
+
+actual code neville' evalut polynomi function lagrang form polynomialfunctionlagrangeform
+easi
+
+version revis date
+
+divid differ interpol divideddifferenceinterpol univari real interpol univariaterealinterpol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return copi divid differ arrai
+
+divid differ arrai defin recurs pre
+
+
+pre
+comput complex
+
+fresh copi divid differ arrai
+math except mathexcept abscissa coincid
+
+comput divid differ computedivideddiffer
+math except mathexcept
+
+
+divdiff denomin
+
+polynomi function lagrang form polynomialfunctionlagrangeform verifi interpol arrai verifyinterpolationarrai
+
+length
+divdiff
+
+divdiff initi
+
+
+
+divdiff
+
+
+denomin
+denomin
+abscissa ident
+math except mathexcept
+ident abscissa divis
+
+divdiff divdiff divdiff denomin
+
+divdiff
+
+
+
+
+

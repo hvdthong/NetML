@@ -1,0 +1,8 @@
+org aspectj util
+file util fileutil
+call pipe complet
+implement
+subclass implement notic
+note halt true true complet
+method call
+complet total written totalwritten throwabl thrown

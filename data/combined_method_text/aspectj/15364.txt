@@ -1,0 +1,54 @@
+org aspectj apach bcel verifi structur
+visitor class test valid precondit jvm instruct
+instanc class throw structuralcodeconstraintexcept
+instanc instruct visitxxx precondit
+satisfi
+todo jvm' behaviour monitor monitorent
+monitorexit model justic
+version instconstraintvisitor java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi exc structuralcodeconstraintexcept
+org aspectj apach bcel verifi exc linkingconstraintexcept
+inst constraint visitor instconstraintvisitor empti visitor emptyvisitor org aspectj apach bcel gener visitor
+ensur specif precondit instruct
+visit invokevirtu visitinvokevirtu invokevirtu
+getclasstyp cpg type pass pass visitloadclass
+type type gettyp cpg
+object type objecttyp
+string object type objecttyp class getclassnam
+verifi verifi factori verifierfactori verifi getverifi
+verif result verificationresult pass2 dopass2
+statu getstatu verif result verificationresult verifi verifi
+constraint violat constraintviol instruct class referenc load resolv
+type argtyp argument type getargumenttyp cpg
+narg argtyp length
+narg
+type stack fromstack stack peek narg type fromstack stack peek narg narg
+type desc fromdesc argtyp
+desc fromdesc type boolean
+desc fromdesc type byte
+desc fromdesc type char
+desc fromdesc type short
+desc fromdesc type int
+stack fromstack equal desc fromdesc
+stack fromstack refer type referencetyp desc fromdesc refer type referencetyp
+refer type referencetyp stack rfromstack refer type referencetyp stack fromstack
+refer type referencetyp desc rfromdesc refer type referencetyp desc fromdesc
+todo possibl check staerk al' set object type
+singl wider cast object type creat verif
+stack rfromstack assign compat isassignmentcompatiblewith desc rfromdesc
+constraint violat constraintviol expect desc fromdesc found stack fromstack stack assign compat
+constraint violat constraintviol expect desc fromdesc found stack fromstack stack
+type objref stack peek narg
+objref type null
+objref refer type referencetyp
+constraint violat constraintviol expect refer type 'objectref' stack objref
+refer type initi referencetypeisiniti refer type referencetyp objref
+objref object type objecttyp
+objref arrai type arraytyp
+constraint violat constraintviol expect objecttyp 'objectref' stack objref constraintviol expect objecttyp 'objectref' stack objref returnaddresstyp
+objref gener arrai gener arrai
+string objref classnam object type objecttyp objref class getclassnam
+string class theclass class getclassnam cpg
+repositori instanc instanceof objref classnam class theclass
+constraint violat constraintviol 'objref' item objref implement class theclass expect

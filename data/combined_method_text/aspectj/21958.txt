@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+author colyer
+match type method constructor field
+allow declar parent declar type
+member type pattern hasmembertypepattern type pattern typepattern
+match matchesexactli resolv type resolvedtyp type resolv type resolvedtyp annot type annotatedtyp
+match matchesexactli type

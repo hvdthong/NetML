@@ -1,0 +1,6 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+setfil string flag string file
+set flag project getproject resolv file resolvefil file absolut path getabsolutepath

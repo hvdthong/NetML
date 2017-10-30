@@ -1,0 +1,165 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+buf append obj
+oper link java lang string
+author href mailto apach org korthof
+buf size bufsiz arrai start index startindex arrai start index startindex string tostr length
+param end index endindex index stop join exclus
+levenshtein distanc levenshteindist
+start index startindex
+buf string tostr
+code separ empti string
+remov lead trail whitespac
+buf size bufsiz
+string join object arrai string separ start index startindex end index endindex
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+item noofitem end index endindex start index startindex
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+string join iter iter separ
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+space space charact code
+author arun mammen thoma
+string util stringutil join abc
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+separ
+item noofitem
+param iter code iter code valu join
+buf size bufsiz end index endindex start index startindex
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+string builder stringbuild buf string builder stringbuild item noofitem
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+exampl link join object
+split join
+error pass end index past end arrai
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+separ length
+start startswith
+iter hasnext
+assum string roughli equal
+empti string
+buf append separ
+abbrevi
+version
+append suffix end string present
+method give sampl code explain oper
+join element provid arrai singl string
+trim strip
+remov delet
+object obj iter
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+code code separ empti string
+null object empti string arrai repres
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+string join object arrai string separ
+split string arrai substr vice versa
+protect input string
+delimit ad list null object empti
+author holger krauth
+equal
+code code
+empti length string code code
+string builder stringbuild buf string builder stringbuild buf size bufsiz
+safe substr extract
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+arrai
+join string code code arrai input
+number need chang string
+prepend prefix start string present
+symbol code input includ code
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+end index endindex start index startindex len nof string nofstr len string firststr len separ
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+iter
+empti
+author chri hyzer
+join element provid code iter code
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+object util objectutil string tostr
+provid list element
+code string util stringutil code defin word relat
+join arrai separ arrai length
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+separ empti
+handl element build buffer
+join string code code iter input
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+code code safe
+string join object arrai separ start index startindex end index endindex
+string builder stringbuild buf string builder stringbuild java small
+buf append arrai
+string util stringutil join
+param separ separ charact treat
+remov part string
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+singl string provid element
+code input code
+code null pointer except nullpointerexcept consid bug
+string iter repres empti string
+buf append
+code code return
+join string code arrai input
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+start index startindex end index endindex
+author gari gregori
+param arrai arrai valu join
+safe index check
+string builder stringbuild buf string builder stringbuild arrai start index startindex arrai start index startindex string tostr length
+code string util stringutil
+code safe
+string util stringutil
+param start index startindex index start join
+thread safe threadsaf
+object iter
+check charact string
+param separ separ charact
+element
+append miss appendifmiss
+prepend miss prependifmiss
+delimit ad list
+obj
+symbol code code input includ code code

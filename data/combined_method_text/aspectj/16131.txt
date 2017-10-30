@@ -1,0 +1,9 @@
+org aspectj intern tool ant taskdef
+instal ajinstal match task matchingtask
+string file getfil file base dir basedir
+directori scanner directoryscann directori scanner directoryscann
+set basedir setbasedir base dir basedir absolut path getabsolutepath
+set basedir setbasedir base dir basedir
+setinclud string pattern
+scan
+includ file getincludedfil

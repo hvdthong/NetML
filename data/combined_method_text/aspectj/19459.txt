@@ -1,0 +1,8 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+walk hierarchi shouldwalkuphierarchyfor member member amemb
+member amemb kind getkind member constructor
+member amemb kind getkind member field
+member amemb static isstat

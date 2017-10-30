@@ -1,0 +1,29 @@
+pre
+euler integr eulerintegr
+method explicit rung kutta method butcher
+arrai
+step step handler
+simpl constructor
+gill integr gillintegr
+param step integr step
+midpoint integr midpointintegr
+rung kutta step interpol rungekuttastepinterpol prototyp
+version
+a31 a32
+rung kutta integr rungekuttaintegr string
+param time step butcher arrai
+param method
+as1 as2 ass
+integr ordinari differenti equat
+build rung kutta integr
+org apach common math3 od nonstiff
+a21
+step
+prototyp prototyp
+common part fix step rung kutta
+rung kutta integr rungekuttaintegr abstract integr abstractintegr
+param intern weight butcher arrai empti row
+step fast math fastmath ab step
+param propag weight high order method butcher arrai
+param prototyp prototyp step interpol
+classic rung kutta integr classicalrungekuttaintegr

@@ -1,0 +1,25 @@
+method implement link entri getentri access
+inherit doc inheritdoc
+real matrix realmatrix creat matrix creatematrix row nrow col ncol
+org apach common math linear
+sum entri getentri row entri getentri col
+check multipl compat checkmultiplicationcompat
+real matrix realmatrix multipli real matrix realmatrix
+version
+version revis date
+safeti check
+matrix util matrixutil check multipl compat checkmultiplicationcompat
+col ncol column dimens getcolumndimens
+row row row nrow row
+abstract real matrix abstractrealmatrix real matrix realmatrix
+matrix element deriv provid faster implement
+col col col ncol col
+set entri setentri row col sum
+abstract real matrix abstractrealmatrix real matrix realmatrix serializ
+row nrow row dimens getrowdimens
+sum nsum column dimens getcolumndimens
+basic implement real matrix realmatrix method underli storag
+sum nsum
+sum
+illeg argument except illegalargumentexcept
+abstract real matrix abstractrealmatrix

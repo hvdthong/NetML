@@ -1,0 +1,14 @@
+chapter
+construct integr function
+function integr
+org apach common math analysi integr
+link integr univari real function univariaterealfunct method
+trapezoid integr trapezoidintegr univari real function univariaterealfunct
+deprec integrand function pass argument
+deprec
+trapezoid rule integr real univari function
+version revis date
+param function integr
+refer introduct numer analysi isbn 038795452x
+implement href http mathworld wolfram trapezoid rule trapezoidalrul html
+trapezoid integr trapezoidintegr univari real integr impl univariaterealintegratorimpl

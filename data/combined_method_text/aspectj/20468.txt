@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+string attribut name getattributenam
+attribut java class javaclass attribut getattribut
+string str string length
+length
+str getnam
+str

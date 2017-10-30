@@ -1,0 +1,17 @@
+org aspectj weaver pattern
+pointcut withinpointcut pointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+resolv type resolvedtyp enclos type enclosingtyp shadow world getiworld resolv shadow enclos type getenclosingtyp
+enclos type enclosingtyp miss ismiss
+shadow world getiworld lint getlint find type cantfindtyp signal
+string weaver messag weavermessag format weaver messag weavermessag find type withinpcd find type withinpcd
+shadow enclos type getenclosingtyp getnam
+shadow sourc locat getsourceloc
+sourc locat isourceloc sourc locat getsourceloc
+imessag msg messag
+weavermessag format weavermessag find type withinpcd
+shadow getenclosingtyp getnam
+shadow getsourceloc true isourceloc getsourceloc
+shadow getiworld getmessagehandl handlemessag msg
+type pattern typepattern resolv shadow world getiworld
+type iswithintyp enclos type enclosingtyp

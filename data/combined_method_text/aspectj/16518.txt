@@ -1,0 +1,20 @@
+org aspectj lang
+reflect access state join point
+static inform inform bodi
+advic special form code thisjoinpoint code primari
+reflect inform trace log applic
+pre
+aspect log
+bigboxco execut public
+system err println enter thisjoinpoint
+system err println arg thisjoinpoint getarg
+system err println thisjoinpoint getsourceloc
+pre
+join point joinpoint
+return target object
+object match code target code pointcut
+design specif reflect access
+code target code pointcut design
+object static type perform
+return null target object
+object target gettarget

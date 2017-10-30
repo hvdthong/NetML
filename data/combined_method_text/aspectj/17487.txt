@@ -1,0 +1,11 @@
+org aspectj runtim reflect
+string maker stringmak
+add signatur addsignatur string buffer stringbuff buf class type
+type
+includ arg includearg
+type length
+buf append
+buf append
+buf append
+add type name addtypenam buf type
+buf append

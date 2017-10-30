@@ -1,0 +1,87 @@
+code
+oper link java lang string
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+string prepend miss prependifmiss string str char sequenc charsequ prefix ignor case ignorecas char sequenc charsequ prefix
+start startswith str ignor case ignorecas
+safe substr extract
+prepend prefix start string present
+abbrevi string ellipsi
+index set string
+compar string report differ
+start prefix
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+search string replac string
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+check string end suffix safe
+prefix prefix length
+code string util stringutil defin word relat
+default string defaultstr
+str empti isempti prefix start startswith str prefix ignor case ignorecas
+whitespac charact defin link charact whitespac iswhitespac
+replac overlai
+empti length string code
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+char sequenc charsequ prefix
+trim strip
+remov delet
+compar string safe
+symbol code input includ code
+org apach common lang3
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+protect input string
+code input code
+code safe
+containsonli containsnon containsani
+revers revers delimit reversedelimit
+detail vari method
+number need chang string
+check string text
+substr substringbefor substr substringaft substr substringbetween
+revers string
+end endswith
+param prefix prefix prepend start string
+code string util stringutil handl code input string quietli
+differ
+side effect code handl
+count match countmatch
+check string start prefix safe
+empti isempti blank isblank
+space space charact code
+remov part string
+str
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+empti isempti start startswith str ignor case ignorecas
+param str string
+substr left mid
+prepend prefix start string string
+equal
+code null pointer except nullpointerexcept consid bug
+code code return
+chomp chop
+string charact
+java lang string
+safe index check
+param prefix addit prefix valid option
+prefix string tostr str
+code string util stringutil
+string prefix prepend string
+string util stringutil
+thread safe threadsaf
+param ignor case ignorecas compar ignor
+check charact string
+append miss appendifmiss
+prepend miss prependifmiss

@@ -1,0 +1,55 @@
+pre
+num artifici variabl numartificialvari num object function getnumobjectivefunct rh
+restrict neg restricttononneg
+matrix row slack variabl offset getslackvariableoffset slack var slackvar excess
+matrix row slack variabl offset getslackvariableoffset
+extra decis variabl neg valu
+matrix index zindex width
+list linear constraint linearconstraint constraint normal constraint getnormalizedconstraint
+initi object function row
+matrix row width constraint getvalu
+matrix height width
+decis variabl coeffici
+linear constraint linearconstraint constraint constraint
+creat tableau createtableau maxim
+phase object function
+matrix
+index zindex num object function getnumobjectivefunct
+maxim constant term getconstantterm constant term getconstantterm
+slack variabl
+matrix row slack variabl offset getslackvariableoffset slack var slackvar slack
+constraint relationship getrelationship relationship geq
+amp decis variabl
+version revis date
+initi constraint row
+row num object function getnumobjectivefunct
+rh hand side
+constraint relationship getrelationship relationship
+rh
+maxim coeffici getcoeffici map multipli mapmultipli coeffici getcoeffici
+constraint size
+num object function getnumobjectivefunct
+copi arrai copyarrai object coeffici objectivecoeffici data getdata matrix index zindex num object function getnumobjectivefunct
+invert coeffieci sum getinvertedcoeffiecientsum object coeffici objectivecoeffici
+artifici variabl
+real vector realvector object coeffici objectivecoeffici
+creat matrix correct size
+matrix artifici variabl offset getartificialvariableoffset artifici var artificialvar
+creat tableau
+matrix row artifici variabl offset getartificialvariableoffset artifici var artificialvar
+param maxim goal maxim object function
+matrix index zindex index zindex maxim
+org apach common math optim linear
+invert coeffieci sum getinvertedcoeffiecientsum constraint coeffici getcoeffici
+simplex tableau simplextableau serializ
+phase object
+copi arrai copyarrai constraint coeffici getcoeffici data getdata matrix row
+amp slack surplu variabl
+constraint
+tableau simplex method
+slack var slackvar
+height constraint size num object function getnumobjectivefunct
+matrix index zindex slack variabl offset getslackvariableoffset
+width num decis variabl numdecisionvari num slack variabl numslackvari
+constraint relationship getrelationship relationship leq
+artifici var artificialvar

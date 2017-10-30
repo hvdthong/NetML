@@ -1,0 +1,16 @@
+base integr
+org apach common math optim fit
+phase phi code co omega phi code
+param observ point fit
+param abscissa point
+harmon fitter harmonicfitt
+search squar estim initi rough guess
+add observ weight point sampl
+add observ point addobservedpoint weight
+curv fit special sinusoid
+fitter add observ point addobservedpoint weight
+version revis date
+close
+param weight weight observ point fit
+harmon fit simpl curv fit
+estim coeffici amplitud pulsat omega

@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi target var initializetargetvar
+instruct factori instructionfactori fact factori getfactori
+target var targetvar
+kind getkind target istargetsameasthi
+hasthi initi var initializethisvar
+target var targetvar var thisvar
+initi arg var initializeargvar initializeargvar gotta pop arg find target
+unresolv type unresolvedtyp type target type gettargettyp
+type ensur target type correct ensuretargettypeiscorrect type
+target var targetvar gen temp var gentempvar type ajc target
+rang insert target var targetvar creat store createstor fact rang outsidebefor
+target var targetvar set posit state setpositioninaroundst hasthi

@@ -1,0 +1,33 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+return chang global signatur
+xxx effici richer represent
+add replac aspect addorreplaceaspect resolv type resolvedtyp aspect type aspecttyp weav phase inweavingphas
+trace enter addorreplaceaspect object aspect type aspecttyp boolean weav phase inweavingphas
+chang
+crosscut member crosscuttingmemb xcut crosscut member crosscuttingmemb member aspect type aspecttyp
+xcut
+member put aspect type aspecttyp aspect type aspecttyp collect crosscut member collectcrosscuttingmemb weav phase inweavingphas
+clear cach clearcach
+cflow pointcut cflowpointcut clear cach clearcach aspect type aspecttyp
+chang
+xcut replac replacewith aspect type aspecttyp collect crosscut member collectcrosscuttingmemb weav phase inweavingphas weav phase inweavingphas
+clear cach clearcach
+cflow pointcut cflowpointcut clear cach clearcach aspect type aspecttyp
+chang
+asm manag asmmanag default getdefault handl provid gethandleprovid depend locat dependsonloc
+weav phase inweavingphas
+bug chang updat
+sourceloc shadowmung pick
+shadow munger shadowmung
+chang
+aspect type aspecttyp abstract isabstract
+aspect collect crosscut member
+ancestor chang ancestorchang add replac descend addorreplacedescendantsof aspect type aspecttyp weav phase inweavingphas
+chang chang ancestor chang ancestorchang
+chang reset changedsincelastreset chang reset changedsincelastreset chang
+trace exit addorreplaceaspect chang
+chang

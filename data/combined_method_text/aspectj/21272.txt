@@ -1,0 +1,9 @@
+org aspectj weaver intern tool
+map weaver tool interfac intern pointcut implement
+pointcut express impl pointcutexpressionimpl pointcut express pointcutexpress
+shadow match shadowmatch match pre initi matchespreiniti constructor constructor aconstructor
+shadow reflect shadow reflectionshadow make pre initi shadow makepreinitializationshadow world constructor aconstructor match context matchcontext
+shadow match impl shadowmatchimpl shadow match getshadowmatch
+set subject setsubject constructor aconstructor
+set code setwithincod
+set type setwithintyp constructor aconstructor declar class getdeclaringclass

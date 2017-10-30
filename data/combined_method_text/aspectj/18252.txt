@@ -1,0 +1,21 @@
+org aspectj util
+linenumberread absorb comment blank line
+render file line
+line reader lineread line number reader linenumberread
+return null line clip line
+string read clip line readclippedlin except ioexcept
+string result read line readlin
+result
+result result trim
+len result length
+len lead comment leadcom length
+result start startswith lead comment leadcom
+result
+len
+len eol comment eolcom length
+loc result index indexof eol comment eolcom
+loc
+result result substr loc
+len result length
+line lastlin result
+result

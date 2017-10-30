@@ -1,0 +1,44 @@
+org aspectj weaver bcel
+lazi lazi lazi
+unpack underli class thing
+method annot accumul
+written add underli methodgen
+thing slightli repres aspect
+lazi class gen lazyclassgen
+lazi class gen lazyclassgen bcel object type bcelobjecttyp type mytyp
+gen mygen class gen classgen type mytyp java class getjavaclass
+constant pool gen constantpoolgen gen mygen constant pool getconstantpool
+fact instruct factori instructionfactori gen mygen constant pool gen constantpoolgen
+type mytyp type mytyp
+world type mytyp resolv type getresolvedtypex world getworld
+class support serial
+implement serializ implementsserializ type gettyp
+serializ isserializ
+resolvedmemb field gettyp getdeclaredfield
+int field length
+resolvedmemb field field
+field getnam equal serialversionuid
+field isstat field gettyp equal resolvedtyp long
+hasserialversionuidfield true
+serial version uid field hasserialversionuidfield serial version uid field hasserialversionuidfield type gettyp
+resolv member resolvedmemb method type gettyp declar method getdeclaredmethod
+method length
+resolv member resolvedmemb method method
+method getnam equal clinit
+clinit hasclinit
+calcul suid add
+serial version uid field hasserialversionuidfield world add serial ver uid isaddserialveruid
+calcul serial version uid calculatedserialversionuid gen mygen suid getsuid
+field field gen fieldgen
+constant acc privat acc privat constant acc final acc final constant acc static acc static
+basic type basictyp long serialversionuid constant pool gen getconstantpoolgen field getfield
+add field addfield
+serial version uid field hasserialversionuidfield
+serial version uid requir initi serialversionuidrequiresiniti
+warn
+world lint getlint calcul serial version uid calculatingserialversionuid enabl isen
+world lint getlint calcul serial version uid calculatingserialversionuid signal
+string class getclassnam long string tostr calcul serial version uid calculatedserialversionuid
+method method gen mygen method getmethod
+method length
+add method gen addmethodgen lazi method gen lazymethodgen method

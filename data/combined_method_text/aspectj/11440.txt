@@ -1,0 +1,42 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+convert eclips form type variabl typevariablebind aspectj
+form typevari
+unresolv type unresolvedtyp type variabl bind fromtypevariablebind type variabl bind typevariablebind type variabl bind atypevariablebind
+check recurs call method tvbind
+type variabl bind progress typevariablebindingsinprogress kei containskei type variabl bind atypevariablebind
+unresolv type unresolvedtyp type variabl bind progress typevariablebindingsinprogress type variabl bind atypevariablebind
+check type variabl bind recov alia
+type variabl alia recoveri typevariablesforaliasrecoveri
+string aliasnam string type variabl alia recoveri typevariablesforaliasrecoveri type variabl bind atypevariablebind
+aliasnam
+unresolv type variabl refer type unresolvedtypevariablereferencetyp ret unresolv type variabl refer type unresolvedtypevariablereferencetyp
+ret set type variabl settypevari type variabl typevari aliasnam
+ret
+type variabl member typevariablesforthismemb kei containskei string type variabl bind atypevariablebind sourc sourcenam
+unresolv type unresolvedtyp type variabl member typevariablesforthismemb string type variabl bind atypevariablebind sourc sourcenam
+creat unresolvedtypevariablereferencetyp type variabl
+string char oper charoper char string chartostr type variabl bind atypevariablebind sourc sourcenam
+unresolv type variabl refer type unresolvedtypevariablereferencetyp ret unresolv type variabl refer type unresolvedtypevariablereferencetyp
+type variabl bind progress typevariablebindingsinprogress put type variabl bind atypevariablebind ret
+type variabl typevari type variabl typevari
+ret set type variabl settypevari
+dont set bound recurs mess
+todo lower bound
+unresolv type unresolvedtyp superclass type superclasstyp bind frombind type variabl bind atypevariablebind superclass
+unresolv type unresolvedtyp superinterfac unresolv type unresolvedtyp type variabl bind atypevariablebind super interfac superinterfac length
+superinterfac length
+superinterfac bind frombind type variabl bind atypevariablebind super interfac superinterfac
+set upper bound setupperbound superclass type superclasstyp
+set addit interfac bound setadditionalinterfacebound superinterfac
+set rank setrank type variabl bind atypevariablebind rank
+type variabl bind atypevariablebind declar element declaringel method bind methodbind
+set declar element kind setdeclaringelementkind type variabl typevari method
+setdeclaringel frombind methodbind atypevariablebind declaringel
+set declar element kind setdeclaringelementkind type variabl typevari type
+setdeclaringel frombind atypevariablebind declaringel
+type variabl bind atypevariablebind declar element declaringel method bind methodbind
+type variabl member typevariablesforthismemb put string type variabl bind atypevariablebind sourc sourcenam ret
+type variabl bind progress typevariablebindingsinprogress remov type variabl bind atypevariablebind
+ret

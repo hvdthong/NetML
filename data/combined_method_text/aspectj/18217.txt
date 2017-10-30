@@ -1,0 +1,14 @@
+org aspectj util
+lang util langutil
+creat process run asynchron
+param control null initi
+param command string command run
+param control processcontrol stream result
+process control processcontrol make process makeprocess public static processcontrol makeprocess need
+process control processcontrol control
+string command
+string label
+control
+control process control processcontrol
+control init command label
+control

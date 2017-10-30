@@ -1,0 +1,38 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener code generatecod class file classfil enclos class file enclosingclassfil
+ignor investig ignorefurtherinvestig
+bind
+class file classfil creat problem type createproblemtyp
+scope refer compil unit referencecompilationunit compil result compilationresult
+make bind public
+modifi ast util astutil make public makepubl modifi
+bind modifi ast util astutil make public makepubl bind modifi
+abstract isabstract
+init failur field initfailurefield factori creat synthet field bind createsyntheticfieldbind bind ajc member maker ajcmembermak init failur field initfailurecausefield type typex
+bind addsyntheticfield syntheticfieldbind initfailurefield
+initfailurefield factori makefieldbind ajcmembermak initfailurecausefield typex
+bind addfield initfailurefield
+claus perclaus
+produc error
+claus perclaus kind getkind claus perclaus singleton
+factori creat synthet field bind createsyntheticfieldbind bind ajc member maker ajcmembermak singleton field persingletonfield type typex
+custard bind addfield factori makefieldbind ajcmembermak persingletonfield typex
+custard
+method aspect clinit aspectclinit clinit method compil result compilationresult init failur field initfailurefield
+claus perclaus kind getkind claus perclaus percflow
+factori creat synthet field bind createsyntheticfieldbind bind ajc member maker ajcmembermak cflow field percflowfield type typex
+custard bind addfield factori makefieldbind ajcmembermak percflowfield typex
+method aspect clinit aspectclinit clinit method compil result compilationresult
+claus perclaus kind getkind claus perclaus perobject
+bind addfield
+world makefieldbind
+ajcmembermak percflowfield
+typex
+claus perclaus kind getkind claus perclaus pertypewithin
+factori creat synthet field bind createsyntheticfieldbind bind ajc member maker ajcmembermak type type field pertypewithinwithintypefield type typex type typex
+ptwimpl add field store typenam aspect aspect instanc exist
+bind addfield factori makefieldbind ajcmembermak pertypewithinwithintypefield typex typex
+runtim except runtimeexcept unimpl
+eclips factori eclipsefactori debug system println string tostr
+gener code generatecod enclos class file enclosingclassfil

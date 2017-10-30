@@ -1,0 +1,13 @@
+base converg checker implement
+param rel threshold relativethreshold rel toler threshold
+param pair type point pair
+param absolut threshold absolutethreshold absolut toler threshold
+absolut threshold absolutethreshold absolut threshold absolutethreshold
+abstract converg checker abstractconvergencecheck rel threshold relativethreshold
+build instanc threshold
+absolut threshold absolutethreshold
+org apach common math3 optim
+version
+deprec remov
+abstract converg checker abstractconvergencecheck pair
+rel threshold relativethreshold rel threshold relativethreshold

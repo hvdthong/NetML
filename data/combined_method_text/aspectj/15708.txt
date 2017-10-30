@@ -1,0 +1,14 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+return null
+param sourcefilepath canonic path consist
+param linenumb file node return
+return structur node file found model
+program element iprogramel find element sourc line findelementforsourcelin string sourc file path sourcefilepath line number linenumb
+string canon sfp canonicalsfp asm manag asmmanag default getdefault canon file path getcanonicalfilepath
+file sourc file path sourcefilepath
+program element iprogramel node find node sourc line helper findnodeforsourcelinehelp root canon sfp canonicalsfp line number linenumb
+node
+node
+creat file structur node createfilestructurenod sourc file path sourcefilepath

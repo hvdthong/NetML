@@ -1,0 +1,42 @@
+href http www math tau yekutiel seminar cleveland pdf
+strictli increas order
+accomod size input data bandwidth
+argument valu finit real number
+number small except numberistoosmallexcept bandwidth small
+adapt allow build spline obtain loess fit
+loess method serv interpol
+scatterplot
+link org apach common math3 analysi interpol spline interpol splineinterpol
+data origin abscissa build cubic spline
+finit real number
+size
+org apach common math3 except finit number except notfinitenumberexcept
+data except nodataexcept code xval code yval size
+org apach common math3 analysi interpol
+finit number except notfinitenumberexcept
+version
+dimens mismatch except dimensionmismatchexcept code xval code yval
+implement href http wikipedia org wiki local regress
+param yval valu interpol point
+refer
+monoton sequenc except nonmonotonicsequenceexcept code xval sort
+polynomi spline function polynomialsplinefunct interpol xval
+org apach common math3 except monoton sequenc except nonmonotonicsequenceexcept
+yval
+code xval sort strictli increas order
+monoton sequenc except nonmonotonicsequenceexcept
+dimens mismatch except dimensionmismatchexcept
+loess interpol loessinterpol
+spline interpol splineinterpol interpol xval smooth xval yval
+finit number except notfinitenumberexcept argument valu
+comput interpol function perform loess fit
+cubic spline built loess fit data origin abscissa
+number small except numberistoosmallexcept
+real univari function
+local regress algorithm loess lowess interpol
+larger
+william cleveland robust local weight regress smooth
+result fit
+param xval argument interpol point
+data except nodataexcept
+polynomi spline function polynomialsplinefunct interpol xval yval

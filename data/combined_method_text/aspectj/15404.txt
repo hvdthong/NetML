@@ -1,0 +1,36 @@
+org aspectj apach bcel verifi structur
+visitor class test valid precondit jvm instruct
+instanc class throw structuralcodeconstraintexcept
+instanc instruct visitxxx precondit
+satisfi
+todo jvm' behaviour monitor monitorent
+monitorexit model justic
+version instconstraintvisitor java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi exc structuralcodeconstraintexcept
+org aspectj apach bcel verifi exc linkingconstraintexcept
+inst constraint visitor instconstraintvisitor empti visitor emptyvisitor org aspectj apach bcel gener visitor
+assur gener precondit loadinstruct instanc
+visit load instruct visitloadinstruct load instruct loadinstruct
+visitlocalvariableinstruct call gener
+load instruct read type unknown
+local index getindex type unknown
+constraint violat constraintviol read access local variabl index getindex unknown content
+load instruct slot valu index type unknown
+symbol higher halv index
+suppos instruct put int doubl defect
+type gettyp cpg size getsiz
+local index getindex type unknown
+constraint violat constraintviol read local local variabl index getindex index getindex destroi
+load instruct read correct type
+aload
+local index getindex type gettyp cpg
+constraint violat constraintviol local variabl type load instruct type mismatch local variabl local index getindex instruct type type gettyp cpg
+deal aload
+local index getindex refer type referencetyp
+constraint violat constraintviol local variabl type load instruct type mismatch local variabl local index getindex instruct expect referencetyp
+aload allow put uniniti object stack
+referencetypeisiniti referencetyp local getindex
+load instruct free stack slot
+stack max stack maxstack stack slot slotsus type gettyp cpg size getsiz
+constraint violat constraintviol free stack slot load type gettyp cpg operandstack

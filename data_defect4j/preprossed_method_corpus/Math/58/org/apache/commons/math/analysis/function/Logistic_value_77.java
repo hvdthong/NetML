@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi function
+
+
+
+
+
+
+href http wikipedia org wiki generalis logist function
+generalis logist function
+
+version revis date
+
+
+logist univari real function univariaterealfunct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inherit doc inheritdoc
+
+fast math fastmath pow fast math fastmath exp
+
+

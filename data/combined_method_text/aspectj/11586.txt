@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+resolv pointcut definit resolvedpointcutdefinit make resolv pointcut definit makeresolvedpointcutdefinit abstract method declar abstractmethoddeclar
+bind bind null return null error caus pr138143
+eclips sourc context eclipsesourcecontext sourc context esourcecontext eclips sourc context eclipsesourcecontext compil result compilationresult
+pointcut
+abstract isabstract
+string express pointcut string annot style pointcut getpointcutstringfromannotationstylepointcut
+pattern parser patternpars express sourc context esourcecontext pars pointcut parsepointcut
+parser except parserexcept catch parserexcept error report mean
+pointcut make match makematchesnoth pointcut symbol
+formal bind formalbind bind build formal advic bind buildformaladvicebindingsfrom
+resolv pointcut definit resolvedpointcutdefinit rpd lazi resolv pointcut definit lazyresolvedpointcutdefinit
+factori bind frombind bind declar class declaringclass
+modifi
+string selector
+factori bind frombind bind paramet
+factori bind frombind bind return type returntyp
+eclips scope eclipsescop bind scope
+rpd set posit setposit sourc start sourcestart sourc end sourceend
+rpd set sourc context setsourcecontext sourc context esourcecontext
+rpd

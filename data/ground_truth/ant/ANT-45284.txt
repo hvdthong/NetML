@@ -1,0 +1,5 @@
+src/main/org/apache/tools/ant/types/resources/selectors/Name_isSelected-Resource_boolean
+src/main/org/apache/tools/ant/types/selectors/FilenameSelector_isSelected-File-String-File_boolean
+src/main/org/apache/tools/ant/types/selectors/FilenameSelector_setParameters-Parameter[]_void
+src/main/org/apache/tools/ant/types/selectors/FilenameSelector_toString_String
+src/main/org/apache/tools/ant/types/selectors/FilenameSelector_verifySettings_void

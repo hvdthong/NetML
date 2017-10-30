@@ -1,0 +1,21 @@
+code random number generator' sequenc
+method strong strong provid
+data gener method base code code doubl nextdoubl
+data gener method base code doubl nextdoubl code
+method underli sourc random data
+pseudorandom uniformli distribut
+suppli
+perform implement method underli prng
+code code random number generator' sequenc
+abstract random gener abstractrandomgener random gener randomgener
+version revis date
+doubl nextdoubl
+method
+code code code code
+default implement method link doubl nextdoubl
+return pseudorandom uniformli distribut
+concret implement strong strong overrid
+link set seed setse provid
+abstract implement link random gener randomgener
+code code
+org apach common math random

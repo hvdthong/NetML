@@ -1,0 +1,5 @@
+org aspectj ajdt core
+plugin class aspectj
+aspect core aspectjcor java core javacor
+map compil option getcompileropt
+compil option ajcompileropt map getmap

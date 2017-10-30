@@ -1,0 +1,39 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+side effect free
+instruct list instructionlist make closur instanti makeclosureinstanti member constructor bcel var bcelvar holder
+lazymethodgen constructor
+instruct factori instructionfactori fact factori getfactori
+bcel var bcelvar arrai var arrayvar gen temp var gentempvar unresolv type unresolvedtyp objectarrai
+final type objectarraytyp arraytyp type object
+instruct list instructionlist instruct list instructionlist
+alen arg count getargcount var thisvar
+target var targetvar target var targetvar var thisvar
+join point var thisjoinpointvar
+append util creat constant createconst fact alen
+append instruct fact creat arrai createnewarrai type object
+arrai var arrayvar append store appendstor fact
+state index stateindex
+var thisvar
+arrai var arrayvar append convert arrai store appendconvertablearraystor fact state index stateindex var thisvar
+var thisvar set posit state setpositioninaroundst state index stateindex
+state index stateindex
+target var targetvar target var targetvar var thisvar
+arrai var arrayvar append convert arrai store appendconvertablearraystor fact state index stateindex target var targetvar
+target var targetvar set posit state setpositioninaroundst state index stateindex
+state index stateindex
+len arg count getargcount len
+arrai var arrayvar append convert arrai store appendconvertablearraystor fact state index stateindex arg var argvar
+arg var argvar set posit state setpositioninaroundst state index stateindex
+state index stateindex
+join point var thisjoinpointvar
+arrai var arrayvar append convert arrai store appendconvertablearraystor fact state index stateindex join point var thisjoinpointvar
+join point var thisjoinpointvar set posit state setpositioninaroundst state index stateindex
+state index stateindex
+append fact creat createnew object type objecttyp constructor declar type getdeclaringtyp getnam
+append dup
+arrai var arrayvar append load appendload fact
+append util creat invok createinvok fact world constructor
+kind getkind pre initi preiniti
+append instruct constant instructionconst dup
+holder append store appendstor fact

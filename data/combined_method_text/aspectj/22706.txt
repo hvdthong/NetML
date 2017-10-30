@@ -1,0 +1,23 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+collect declar type getdeclaringtyp signatur sig
+list arrai list arraylist
+class type ontyp sig declar type getdeclaringtyp
+string member membernam sig getnam
+sig field signatur fieldsignatur
+class field type fieldtyp field signatur fieldsignatur sig field type getfieldtyp
+class super type supertyp type ontyp
+super type supertyp
+field super type supertyp declar field getdeclaredfield member membernam
+type gettyp field type fieldtyp
+add super type supertyp
+field except nosuchfieldexcept nsf
+super type supertyp super type supertyp superclass getsuperclass
+sig method signatur methodsignatur
+class param type paramtyp method signatur methodsignatur sig paramet type getparametertyp
+class super type supertyp type ontyp
+super type supertyp
+super type supertyp declar method getdeclaredmethod member membernam param type paramtyp
+add super type supertyp
+method except nosuchmethodexcept nsm
+super type supertyp super type supertyp superclass getsuperclass

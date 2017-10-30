@@ -1,0 +1,18 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+copi resourc destin copyresourcestodestin except ioexcept
+resourc copi contain injar inpath
+iter build config buildconfig jar getinjar iter hasnext
+file jar injar file
+copi resourc jar file copyresourcesfromjarfil jar injar
+iter build config buildconfig inpath getinpath iter hasnext
+file path element inpathel file
+path element inpathel directori isdirectori
+copi resourc directori copyresourcesfromdirectori path element inpathel
+copi resourc jar file copyresourcesfromjarfil path element inpathel
+build config buildconfig sourc path resourc getsourcepathresourc
+iter build config buildconfig sourc path resourc getsourcepathresourc kei set keyset iter hasnext
+string resourc string
+file file build config buildconfig sourc path resourc getsourcepathresourc resourc
+copi resourc file copyresourcesfromfil resourc
+write manifest writemanifest

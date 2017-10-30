@@ -1,0 +1,29 @@
+comput discret fourier transform mathemat
+variant discret fourier transform
+comput
+current implement discret fourier transform fast
+param type type transform forward invers perform
+transform util transformutil creat complex arrai createcomplexarrai data datari
+zero meet requir flavor fft
+link dft normal dftnormal
+implement fast fourier transform transform dimension
+math arrai matharrai copi copyof length length
+version
+param real data arrai transform
+dft normal dftnormal
+fourier transform requir length data set power
+greatli simplifi speed code user pad data
+power
+org apach common math3 transform
+return forward invers transform real data set
+normal convent paramet
+transform place transforminplac data datari normal type
+data datari
+math illeg argument except mathillegalargumentexcept length data arrai power
+complex transform arrai
+math illeg argument except mathillegalargumentexcept length data arrai
+refer winograd
+complex transform transform type transformtyp type
+real complex data set refer appli numer linear
+algebra isbn chapter
+fast fourier transform fastfouriertransform serializ

@@ -1,0 +1,35 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass static part java virtual
+machin specif 2nd edit
+detail inform found verifi
+method' document
+version pass3averifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3a verifi pass3averifi pass verifi passverifi
+check constraint operand instruct satisfi
+getfield putfield getstat putstat
+visit field instruct visitfieldinstruct field instruct fieldinstruct
+index valid indexvalid index getindex
+constant cpg constant getconst index getindex
+constant fieldref constantfieldref
+constraint violat constraintviol index constant constant fieldref
+string field field getfieldnam cpg
+java class javaclass repositori lookup class lookupclass class type getclasstyp cpg class getclassnam
+field field field getfield
+field
+field length
+field getnam equal field
+field
+todo field inherit
+constraint violat constraintviol referenc field field exist class class getclassnam
+todo check assign compat suffici
+sun
+type type type type gettyp signatur getsignatur
+type type type gettyp cpg
+todo make bcel field
+void method' signatur
+type equal type
+constraint violat constraintviol referenc field field type type type expect
+todo check access modifi

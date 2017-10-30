@@ -1,0 +1,36 @@
+od comput jacobian computejacobian dot ydot dfdy dfdp
+dfdp length
+index zindex
+org apach common math od jacobian
+inherit doc inheritdoc
+ad form compound problem higher dimens origin od
+variat equat dy0 dy0
+start index startindex
+comput partial deriv solut respect initi state
+problem dimens paramet compound problem
+evalu max evalu maxevalu
+paramet
+deriv except derivativeexcept
+extend jacobian raw od variat equat
+dfdyi dfdy
+deriv except derivativeexcept max evalu exceed except maxevaluationsexceededexcept max evalu maxevalu
+dimens time
+parameter od parameterizedod
+dfdpi dfdp
+version revis date
+state part compound equat
+system arraycopi dot ydot dot zdot
+dfdyi index zindex
+dot zdot start index startindex
+od comput deriv computederiv dot ydot
+comput deriv computederiv dot zdot
+od jacobian odewithjacobian
+order comput state deriv od problem
+variat equat dy0
+index zindex start index startindex
+comput raw od jacobian dy0
+order integr jacobian firstorderintegratorwithjacobian
+length
+dfdpi
+system arraycopi
+enhanc order integr differenti equat

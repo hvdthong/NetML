@@ -1,0 +1,14 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+attribut ajattribut make attribut makeattribut
+kind advic kind advicekind
+attribut ajattribut advic attribut adviceattribut kind pointcut design pointcutdesign pointcut getpointcut
+extra argument flag extraargumentflag sourc start sourcestart sourc end sourceend
+proce inner proceedininn proce call signatur proceedcallsignatur formal unchang proce formalsunchangedtoproce
+declar except declaredexcept
+attribut ajattribut advic attribut adviceattribut kind pointcut design pointcutdesign pointcut getpointcut
+extra argument flag extraargumentflag sourc start sourcestart sourc end sourceend

@@ -1,0 +1,14 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+local defin islocallydefin string classnam
+string resourc asresourc classnam replac concat class
+url local url localurl loader resourc getresourc resourc asresourc
+local url localurl
+local defin islocallydefin
+class loader classload parent loader parent getpar
+parent
+url parent url parenturl parent resourc getresourc resourc asresourc
+local url localurl equal parent url parenturl local defin islocallydefin
+local defin islocallydefin

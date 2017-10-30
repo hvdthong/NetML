@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi
+
+
+
+
+
+
+implement href http mathworld wolfram newton method newtonsmethod html
+newton' method find zero real univari function
+
+function continu necessarili smooth
+
+version revis date
+
+newton solver newtonsolv univari real solver impl univariaterealsolverimpl
+
+
+
+
+
+
+
+
+construct solver function
+param function solv
+
+newton solver newtonsolv differenti univari real function differentiableunivariaterealfunct
+
+deriv deriv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

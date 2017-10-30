@@ -1,0 +1,27 @@
+interv fix millisecond durat
+author stephen colebourn
+interv
+repres differ start end point term field
+start instant startinst end instant endinst iso chronolog isochronolog instanc getinst zone
+chronolog time zone
+author brian neill o'neil
+interv convert link readabl period readableperiod
+author sean geoghegan
+interv inclus start instant exclus end
+result interv compar
+durat repres separ link readabl durat readabledur
+construct interv start end instant iso
+interv thread safe immut
+compar length interv compar durat
+param zone time zone mean zone
+author julen parra
+interv start instant startinst end instant endinst date time zone datetimezon zone
+time interv repres period time instant
+param end instant endinst end interv millisecond t00 01t00 00z
+year dai
+differ start end instant
+end instant greater equal start instant
+org joda time
+interv standard implement immut time interv
+illeg argument except illegalargumentexcept end start
+param start instant startinst start interv millisecond t00 01t00 00z

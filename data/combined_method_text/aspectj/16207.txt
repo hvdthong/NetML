@@ -1,0 +1,39 @@
+org aspectj intern tool ant taskdef
+check includ java file licens copyright string
+mpl default apach cpl
+list true list licens variant licens copyrighthold
+todo reimplement regexp jdiff filelin util
+checklic match task matchingtask
+check licens checklicens build except buildexcept
+licens
+set licens setlicens default
+licens licens licens final licens licens licens paranoid
+licens
+build except buildexcept licens
+print stream printstream getout
+visitor file visitor filevisitor
+fail
+pass
+visit file file
+licens check file checkfil file
+pass
+fail
+string path file path getpath
+licens found licens foundlicens
+println
+licens tag licens fail path
+licens found copyright foundcopyright
+println
+licens tag copyright fail path
+visitor visitor visitor
+visit visital visitor
+fail visitor fail
+pass visitor pass
+visitor fail
+getout println
+total pass
+visitor pass
+visitor fail fail visitor fail
+fail error failonerror
+build except buildexcept
+fail file fail licens check

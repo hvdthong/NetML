@@ -1,0 +1,71 @@
+pre pre
+rang rang rang rang
+constant
+clinit clinit clinit clinit clinit clinit clinit clinit clinit clinit clinit
+point
+move move
+getbodi
+past
+instruct instruct instruct instruct instruct instruct instruct instruct
+getprev
+world world world world
+mangler
+shadow shadow shadow shadow shadow shadow shadow shadow
+getnext
+associatewithshadow
+getenclosingclass getenclosingclass
+end end end end end
+shadowrang shadowrang
+make make
+bcelworld
+associatewithtarget
+gen gen gen gen
+start start start start start start start start start
+equal equal
+makejoinpointsignatur
+makemethodsignatur
+enclos enclos enclos enclos enclos enclos
+ajc ajc ajc ajc
+method method method method method method method
+getnam getnam
+getinstruct getinstruct getinstruct getinstruct
+signatur
+clinitstart clinitstart clinitstart clinitstart clinitstart clinitstart
+xxx
+return
+instructionlist
+handl handl
+class
+postclinit
+initi initi
+bodi bodi bodi bodi bodi bodi bodi
+enclosingmethod enclosingmethod enclosingmethod enclosingmethod enclosingmethod enclosingmethod
+clinitend clinitend clinitend clinitend clinitend clinitend
+invokeinstruct invokeinstruct invokeinstruct invokeinstruct invokeinstruct invokeinstruct
+staticiniti
+bcel bcel bcel bcel bcel bcel
+org
+post
+genend
+associ associ
+aspectj
+pool
+instanceof
+namemangl namemangl
+join
+target
+getend
+preclinit
+getstart
+list
+lazi
+instructionhandl instructionhandl
+tricki
+invok invok invok
+bcelshadow bcelshadow bcelshadow bcelshadow
+getconstantpoolgen getconstantpoolgen
+static static
+weaver
+makestaticiniti
+lazymethodgen
+genstart

@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+util
+java class javaclass make java class makejavaclass string filenam byte
+test pars counter testingparsecount
+class parser classpars parser class parser classpars byte arrai input stream bytearrayinputstream byte filenam
+parser pars
+except ioexcept
+except bcexcept malform class file

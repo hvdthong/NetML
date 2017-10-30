@@ -1,0 +1,72 @@
+org aspectj intern tool ant taskdef
+implement builder ant
+ant builder antbuild builder
+compil
+result result
+file class dir classesdir
+exist class useexistingclass
+list error
+class dir classesdir exist class dir classesdir mkdir
+error add compil unabl creat class dir classesdir
+exist class useexistingclass
+sourc path
+path path path project
+sourc directori hassourcedirectori
+java5 compil isjava5compil
+iter iter result src dir getsrcdir iter iter hasnext
+file file file iter
+path creat path element createpathel set locat setloc file
+java5 compil isjava5compil
+util constant java5 src java5 src equal file getnam
+util constant java5 testsrc java5 testsrc equal file getnam
+java5 compil isjava5compil
+sourc directori hassourcedirectori
+sourc directori hassourcedirectori
+sourc directori hassourcedirectori
+return true compil
+xxx test build compil properti take effect automat
+suspect requir proper adapt setup
+javac javac javac
+setup task setuptask javac javac
+javac set includeantruntim setincludeantruntim
+javac set destdir setdestdir class dir classesdir
+javac set srcdir setsrcdir path
+javac set verbos setverbos verbos
+path
+classpath
+path classpath path project
+librari haslibrari setup classpath setupclasspath result classpath
+librari haslibrari forc fork librari forc fork librari
+javac set fork setfork javac setfork true releas librari jar
+build fork javac compil
+fork
+set output directori
+classpath creat path element createpathel set locat setloc class dir classesdir
+javac set classpath setclasspath classpath
+misc
+javac set debug setdebug
+java5 compil isjava5compil
+javac set target settarget javac settarget class file javac
+javac set sourc setsourc
+javac set sourc setsourc
+javac set target settarget
+compil
+pass
+build except buildexcept failur
+pass execut task executetask aspect support aspectjsupport wrap need wrapifneed result javac
+build except buildexcept
+failur
+error
+failur build except buildexcept
+runtim except runtimeexcept
+failur build except buildexcept
+pass
+string arg arrai list aslist javac current compil arg getcurrentcompilerarg
+equal arg
+arg result long string tolongstr
+string buildexcept compil result long string tolongstr arg
+failur util render except renderexcept failur
+debuglog system err println
+error add
+javac init javac init nice classpath librari
+pass

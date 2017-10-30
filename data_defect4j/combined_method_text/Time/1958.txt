@@ -1,0 +1,22 @@
+author stephen colebourn
+abstract interv abstractinterv subclass mutabl thread safe
+buf string tostr
+abstract interv abstractinterv common behaviour time interv
+org joda time base
+author brian neill o'neil
+string string tostr
+kind interv referenc
+date time formatt datetimeformatt printer iso date time format isodatetimeformat date hour minut fraction datehourminutesecondfract
+link readabl interv readableinterv
+parsabl string
+date time formatt datetimeformatt printer iso date time format isodatetimeformat date time datetim
+parsabl string zone
+string buffer stringbuff buf string buffer stringbuff
+output string iso8601 interv format
+abstract interv abstractinterv readabl interv readableinterv
+printer printer chronolog withchronolog chronolog getchronolog
+printer print printto buf start milli getstartmilli
+printer print printto buf end milli getendmilli
+buf append
+version string includ time zone offset
+gener directli api user

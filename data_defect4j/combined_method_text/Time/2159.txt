@@ -1,0 +1,16 @@
+add field util fieldutil safe multipli safemultipli durat scalar
+instant
+org joda time chrono
+add instant durat scalar
+durat scalar
+base chronolog basechronolog
+param durat durat add
+field util fieldutil safe add safeadd instant add
+class util method defin field unsupport
+param instant instant add
+base chronolog basechronolog skeleton implement chronolog
+param scalar number time add
+add durat instant number time add
+author brian neill o'neil
+updat instant
+base chronolog basechronolog thread safe immut subclass

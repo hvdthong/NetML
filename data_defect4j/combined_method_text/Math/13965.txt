@@ -1,0 +1,12 @@
+vector visit
+end visit vector method call entri
+org apach common math3 linear
+end
+visit
+real vector preserv visitor realvectorpreservingvisitor
+defin visitor entri vector visitor
+implement alter entri vector
+version
+link real vector realvector walk default order walkindefaultord real vector preserv visitor realvectorpreservingvisitor
+return
+link real vector realvector walk optim order walkinoptimizedord real vector preserv visitor realvectorpreservingvisitor

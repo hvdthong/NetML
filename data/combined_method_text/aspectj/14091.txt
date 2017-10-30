@@ -1,0 +1,15 @@
+org aspectj apach bcel gener
+abstract super class instruct deal local variabl
+version localvariableinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+local variabl instruct localvariableinstruct instruct
+dump instruct byte code stream
+param output stream
+dump data output stream dataoutputstream except ioexcept
+wide wide wide prefix
+write byte writebyt constant wide
+write byte writebyt opcod
+length length iload instruct
+wide
+write short writeshort
+write byte writebyt

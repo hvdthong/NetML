@@ -1,0 +1,16 @@
+pre
+invers covari
+varianc
+gl assum gener covari matrix omega error
+omega invers omegainvers decomposit impl ludecompositionimpl omega solver getsolv invers getinvers
+estim gl
+gl implement multipl linear regress
+real matrix realmatrix omega invers getomegainvers
+var omega
+omega omega 1x'omega
+invers covari matrix lazili evalu cach
+version revis date
+org apach common math stat regress
+omega
+omega invers omegainvers
+gl multipl linear regress glsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress

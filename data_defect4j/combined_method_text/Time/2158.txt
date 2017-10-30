@@ -1,0 +1,17 @@
+scalar period
+add readabl period readableperiod period instant scalar
+instant
+period getvalu multipl fit
+instant period field type getfieldtyp field getfield add instant scalar
+org joda time chrono
+param period period add mean add
+base chronolog basechronolog
+param scalar number time add
+class util method defin field unsupport
+param instant instant add
+base chronolog basechronolog skeleton implement chronolog
+add period instant number time add
+author brian neill o'neil
+updat instant
+isiz period size isiz
+base chronolog basechronolog thread safe immut subclass

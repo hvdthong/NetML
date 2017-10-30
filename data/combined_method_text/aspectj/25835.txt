@@ -1,0 +1,8 @@
+org aspectj weaver
+type typex annot element annotatedel
+type typex raw type name forrawtypenam string
+type typex ret type typex fornam
+ret set parameter setparameter
+fixm asc mess signatur
+ret signatur ret signatur raw
+ret

@@ -1,0 +1,12 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+instanc method interfac field declar
+top implementor
+resolv member resolvedmemb inter field interfac setter interfieldinterfacesett resolv member resolvedmemb field resolv type resolvedtyp type ontyp unresolv type unresolvedtyp aspect type aspecttyp
+modifi modifi public
+type ontyp interfac isinterfac modifi modifi abstract
+resolv member resolvedmemb resolv member impl resolvedmemberimpl member method type ontyp modifi
+resolv type resolvedtyp void
+mangler namemangl inter field interfac setter interfieldinterfacesett aspect type aspecttyp field declar type getdeclaringtyp field getnam
+unresolv type unresolvedtyp field return type getreturntyp unresolv type unresolvedtyp
+set type variabl settypevari field type variabl gettypevari

@@ -1,0 +1,57 @@
+pre
+doubl string tostr math ab
+rel tol reltol compon
+state vector dimens
+integr except integratorexcept
+integ vec absolut toler vecabsolutetoler length
+algorithm perform integr stepsiz control
+step reject attempt made
+equat dimens getdimens length
+org apach common math od
+integ vec rel toler vecrelativetoler length
+integ string tostr vec rel toler vecrelativetoler length
+integ string tostr equat dimens getdimens
+param equat differenti equat set
+integ string tostr vec absolut toler vecabsolutetoler length
+integ valueof equat dimens getdimens
+integr except integratorexcept small integr interv length
+object doubl math ab
+absolut toler vector dimens
+integ valueof length
+integ string tostr length
+integ valueof vec absolut toler vecabsolutetoler length
+param target time integr
+compon user scalar valu ab tol abstol
+version revis date
+perform saniti check integr paramet
+integr except integratorexcept dimens mismatch state vector dimens
+integr except integratorexcept dimens mismatch od problem dimens
+math ab math max math ab math ab
+sqrt sum err est errest threshold
+object
+string
+state vector rel tol reltol rel toler
+saniti check sanitycheck order differenti equat firstorderdifferentialequ equat
+initi state vector dimens
+threshold ab tol abstol rel tol reltol max ab ab
+state vector dimens step accept
+param start time
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc
+ab tol abstol absolut toler compon
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+param state vector
+except integr except integratorexcept inconsist detect
+integ valueof vec rel toler vecrelativetoler length
+mean user integr step
+rel toler vector dimens
+object doubl valueof math ab
+estim error
+vec rel toler vecrelativetoler vec rel toler vecrelativetoler length length
+integ equat dimens getdimens
+vec absolut toler vecabsolutetoler vec absolut toler vecabsolutetoler length length
+param placehold put state vector
+stepsiz
+integ length

@@ -1,0 +1,11 @@
+step default khi default gamma
+multi direct simplex multidirectionalsimplex step
+version
+neg
+valu khi gamma
+org apach common math3 optim direct
+multi direct direct search method
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+deprec remov
+param step step canon ax repres box edg
+build multi direct simplex coeffici

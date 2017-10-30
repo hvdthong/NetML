@@ -1,0 +1,13 @@
+univari function implement adapt partli
+optim dooptim
+local min localmin goal type getgoaltyp goal type goaltyp minim
+inherit doc inheritdoc
+rel accuraci getrelativeaccuraci absolut accuraci getabsoluteaccuraci
+org apach common math optim univari
+base python code sci scipi modul optim
+brent optim brentoptim abstract univari real optim abstractunivariaterealoptim
+version revis date
+implement richard brent' algorithm book algorithm
+min getmin start getstartvalu max getmax
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept
+minim deriv find minima real

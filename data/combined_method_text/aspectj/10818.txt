@@ -1,0 +1,11 @@
+org aspectj ajd swing
+author mik kersten
+structur tree manag structuretreemanag
+expand tree expandtre depth
+structur tree structuretre row count getrowcount
+tree path treepath path structur tree structuretre path row getpathforrow
+swing tree view node swingtreeviewnod node swing tree view node swingtreeviewnod path path compon getlastpathcompon
+path path getpath length depth node kind getkind structur view node istructureviewnod kind relationship
+structur tree structuretre collaps path collapsepath path
+structur tree structuretre expand path expandpath path
+structur tree structuretre expand path expandpath structur tree structuretre path row getpathforrow

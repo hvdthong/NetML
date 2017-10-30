@@ -1,0 +1,31 @@
+author stephen colebourn
+type defin year week dai field
+standard year month week dai hour minut second milli
+control period implement durat field
+durat field type durationfieldtyp year
+year
+author brian neill o'neil
+ywd cywd type
+period type periodtyp thread safe immut subclass
+singl type
+year week dai yearweekdai year week dai
+type period type periodtyp
+year week dai yearweekdai
+year month dai time yearmonthdaytim year month dai hour minut second milli
+type
+week
+period type
+year month dai yearmonthdai year month dai
+year dai time yeardaytim year dai hour minut second milli
+dai
+period type periodtyp year week dai yearweekdai
+period type periodtyp type ywd cywd
+dai time daytim dai hour minut second milli
+durat field type durationfieldtyp week durat field type durationfieldtyp dai
+durat field type durationfieldtyp
+period type periodtyp serializ
+year dai yeardai year dai hour
+time hour minut second milli
+org joda time
+year week dai time yearweekdaytim year week dai hour minut second milli
+implement provid

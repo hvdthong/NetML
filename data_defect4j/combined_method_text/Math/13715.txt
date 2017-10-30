@@ -1,0 +1,15 @@
+copi
+creat field diagon matrix createfielddiagonalmatrix diagon
+version
+org apach common math3 linear
+param type field element
+collect method oper matric
+matrix util matrixutil
+diagon length
+return diagon matrix element
+field element fieldel field matrix fieldmatrix
+set entri setentri diagon
+creat field matrix createfieldmatrix diagon field getfield diagon length diagon length
+field matrix fieldmatrix
+diagon matrix
+param diagon diagon element matrix arrai element

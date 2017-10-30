@@ -1,0 +1,8 @@
+interfac univari real integr algorithm
+org apach common math analysi
+reset maxim iter count resetmaximaliterationcount
+univari real integr univariaterealintegr
+version revis date
+set maxim iter count setmaximaliterationcount
+reset upper limit number iter
+suppli implement

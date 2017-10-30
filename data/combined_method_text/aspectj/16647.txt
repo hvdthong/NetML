@@ -1,0 +1,59 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+ast node astnod convert org aspectj org eclips jdt intern compil ast type declar typedeclar type declar typedeclar
+org aspectj org eclips jdt intern compil ast type declar typedeclar kind type declar typedeclar modifi
+org aspectj org eclips jdt intern compil ast type declar typedeclar enum decl enum decl
+ast api level apilevel ast jls2 intern jls2 intern
+convert enum declar converttoenumdeclar type declar typedeclar
+org aspectj org eclips jdt intern compil ast type declar typedeclar annot type decl annot type decl
+ast api level apilevel ast jls2 intern jls2 intern
+convert annot declar converttoannotationdeclar type declar typedeclar
+check cancel checkcancel
+type declar typedeclar type decl typedecl type declar typedeclar type declar gettypedeclar ast
+ajh02 ad
+type declar typedeclar aspect declar aspectdeclar
+org aspectj weaver pattern claus perclaus claus perclaus aspect declar aspectdeclar type declar typedeclar claus perclaus
+privileg isprivileg aspect declar aspectdeclar type declar typedeclar privileg isprivileg
+claus perclaus
+type decl typedecl org aspectj org eclips jdt core dom aspect declar aspectdeclar ast privileg isprivileg
+type decl typedecl org aspectj org eclips jdt core dom aspect declar aspectdeclar ast convert claus perclaus privileg isprivileg
+type declar typedeclar modifi sourc start modifierssourcestart
+set modifi setmodifi type decl typedecl type declar typedeclar
+type decl typedecl set interfac setinterfac org aspectj org eclips jdt intern compil ast type declar typedeclar kind type declar typedeclar modifi org aspectj org eclips jdt intern compil ast type declar typedeclar interfac decl interfac decl
+simpl simplenam type typenam simpl simplenam ast
+type typenam intern set identifi internalsetidentifi string type declar typedeclar
+type typenam set sourc rang setsourcerang type declar typedeclar sourc start sourcestart type declar typedeclar sourc end sourceend type declar typedeclar sourc start sourcestart
+type decl typedecl set setnam type typenam
+type decl typedecl set sourc rang setsourcerang type declar typedeclar declar sourc start declarationsourcestart type declar typedeclar bodi end bodyend type declar typedeclar declar sourc start declarationsourcestart
+set superclass super interfac distinguish
+type refer level
+type declar typedeclar superclass
+ast api level apilevel
+ast jls2 intern jls2 intern
+type decl typedecl intern set superclass internalsetsuperclass convert type declar typedeclar superclass
+ast jls3
+type decl typedecl set superclass type setsuperclasstyp convert type converttyp type declar typedeclar superclass
+org aspectj org eclips jdt intern compil ast type refer typerefer super interfac superinterfac type declar typedeclar super interfac superinterfac
+super interfac superinterfac
+ast api level apilevel
+ast jls2 intern jls2 intern
+index length super interfac superinterfac length index length index
+type decl typedecl intern super interfac internalsuperinterfac add convert super interfac superinterfac index
+ast jls3
+index length super interfac superinterfac length index length index
+type decl typedecl super interfac type superinterfacetyp add convert type converttyp super interfac superinterfac index
+org aspectj org eclips jdt intern compil ast type paramet typeparamet type paramet typeparamet type declar typedeclar type paramet typeparamet
+type paramet typeparamet
+ast api level apilevel
+ast jls2 intern jls2 intern
+type decl typedecl set flag setflag type decl typedecl flag getflag ast node astnod malform
+ast jls3
+index length type paramet typeparamet length index length index
+type decl typedecl type paramet typeparamet add convert type paramet typeparamet index
+build bodi declar buildbodydeclar type declar typedeclar type decl typedecl
+resolv bind resolvebind
+record node recordnod type decl typedecl type declar typedeclar
+record node recordnod type typenam type declar typedeclar
+type decl typedecl resolv bind resolvebind
+type decl typedecl

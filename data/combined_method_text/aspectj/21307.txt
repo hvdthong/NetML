@@ -1,0 +1,16 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+regist dump filter
+param weaver
+param loader
+param definit
+regist dump registerdump bcel weaver bcelweav weaver class loader classload loader list definit
+iter iter definit iter iter hasnext
+definit definit definit iter
+iter iterator1 definit dump pattern getdumppattern iter iterator1 hasnext
+string dump string iterator1
+type pattern typepattern pattern pattern parser patternpars dump pars type pattern parsetypepattern
+dump type pattern dumptypepattern add pattern
+definit dump shoulddumpbefor
+dump dumpbefor

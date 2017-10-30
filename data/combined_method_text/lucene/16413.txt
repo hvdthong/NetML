@@ -1,0 +1,12 @@
+org apach lucen search
+queri match document term
+combin term link booleanqueri
+term queri termqueri queri
+overrid
+scorer scorer reader context readercontext context score doc order scoredocsinord top scorer topscor except ioexcept
+index reader indexread reader context reader
+doc enum docsenum doc reader term doc enum termdocsenum reader delet doc getdeleteddoc
+term field
+term byte
+doc
+term scorer termscor doc similar reader norm term field

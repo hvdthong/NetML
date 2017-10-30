@@ -1,0 +1,10 @@
+check vector dimens checkvectordimens dimens getdimens
+spars real vector sparserealvector
+org apach common math linear
+inherit doc inheritdoc
+add data getdata
+add spars real vector sparserealvector
+spars real vector sparserealvector real vector realvector
+real vector realvector add real vector realvector illeg argument except illegalargumentexcept
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date

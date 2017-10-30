@@ -1,0 +1,27 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung type transform mungepertypewithintransform bcel class weaver bcelclassweav weaver
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+couldmatch gen getbcelobjecttyp munger gettestpointcut
+add target type field hold aspect instanc
+ajc blah securityaspect ptwaspectinst
+field gen fieldgen make field gen makefieldgen gen ajc member maker ajcmembermak type field pertypewithinfield gen type gettyp aspect type aspecttyp
+gen add field addfield field getfield sourc locat getsourceloc
+add accessor field ajc aspectnam localaspectof method
+public blah securityaspect ajc blah securityaspect localaspectof
+type field type fieldtyp bcel world bcelworld make bcel type makebceltyp aspect type aspecttyp
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+modifi public modifi static field type fieldtyp
+mangler namemangl type local aspect pertypewithinlocalaspectof aspect type aspecttyp
+type string gen
+instruct list instructionlist instruct list instructionlist
+ptwimpl check null throw noaspectboundexcept
+instruct factori instructionfactori fact gen factori getfactori
+append fact creat field access createfieldaccess
+gen class getclassnam
+getnam
+field type fieldtyp constant getstat
+append instruct factori instructionfactori creat return createreturn field type fieldtyp
+bodi getbodi insert
+gen add method gen addmethodgen
+return fals

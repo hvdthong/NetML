@@ -1,0 +1,10 @@
+org aspectj weaver
+mangler namemangl
+string callback method aroundcallbackmethodnam
+member shadow sig shadowsig
+lazi class gen lazyclassgen enclos type enclosingtyp
+string ret
+shadow sig shadowsig extract getextractablenam
+aroundbodi
+enclos type enclosingtyp gener tag getnewgeneratednametag
+ret

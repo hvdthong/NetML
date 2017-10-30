@@ -1,0 +1,60 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+method convert string java type declar
+'string throw classformatexception' pars type
+invalid
+param signatur class signatur
+param chopit flag determin chop execut
+return java type declar
+result holder resulthold signatur string intern signaturetostringintern string signatur chopit
+process char processedchar int processedchar default read char
+signatur char charat
+result holder resulthold byte
+result holder resulthold char
+result holder resulthold doubl
+result holder resulthold float
+result holder resulthold int
+result holder resulthold long
+case 'l' full class
+index signatur index indexof int index signatur indexof close
+jump correct
+index
+signatur length index
+signatur char charat index index index
+index
+class format except classformatexcept invalid signatur signatur
+gener start genericstart signatur index indexof
+gener end genericend signatur index indexof
+gener start genericstart
+fixm asc lot work gener
+result holder resulthold signatur string intern signaturetostringintern signatur substr gener start genericstart gener end genericend chopit
+result holder resulthold retval result holder resulthold compact class compactclassnam signatur substr gener start genericstart
+result getresult chopit gener end genericend
+retval
+process char processedchar index processedchar index lblabla remov
+result holder resulthold retval result holder resulthold compact class compactclassnam signatur substr index chopit process char processedchar
+retval
+result holder resulthold short
+result holder resulthold boolean
+case arrai declar
+string buffer stringbuff bracket
+consum char consumedchar
+bracket string buffer stringbuff bracket stringbuff accumul
+count open bracket option size argument
+signatur char charat
+bracket append
+consum char consumedchar
+rest string denot field type
+result holder resulthold rest restofit signatur string intern signaturetostringintern signatur substr chopit
+type signaturetostr signatur substr chopit
+consum char consumedchar rest restofit consum char getconsumedchar
+result holder resulthold rest restofit result getresult bracket string tostr consum char consumedchar
+result holder resulthold void
+class format except classformatexcept invalid signatur
+signatur
+string index bound except stringindexoutofboundsexcept catch stringindexoutofboundsexcept occur
+class format except classformatexcept invalid signatur signatur

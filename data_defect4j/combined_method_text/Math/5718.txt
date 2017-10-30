@@ -1,0 +1,12 @@
+build spars matrix suppli row column dimens
+param row dimens rowdimens number row matrix
+param column dimens columndimens number column matrix
+column dimens columndimens column dimens columndimens
+org apach common math linear
+row dimens rowdimens row dimens rowdimens
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+spars matrix implement base open address map
+entri open int doubl hash map openinttodoublehashmap
+spars real matrix sparserealmatrix row dimens rowdimens column dimens columndimens
+version revis date
+row dimens rowdimens column dimens columndimens

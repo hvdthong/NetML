@@ -1,0 +1,13 @@
+normal distribut impl normaldistributionimpl abstract continu distribut abstractcontinuousdistribut
+erf erf
+inherit doc inheritdoc
+cumul probabl cumulativeprob
+denom
+overrid
+version
+cumul probabl cumulativeprob math except mathexcept
+number larg except numberistoolargeexcept local format localizedformat lower endpoint upper endpoint
+default implement
+org apach common math distribut
+denom standard deviat standarddevi sqrt2
+link org apach common math distribut normal distribut normaldistribut

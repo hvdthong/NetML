@@ -1,0 +1,19 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+formal type paramet formaltypeparamet pars formal type paramet parseformaltypeparamet
+formal type paramet formaltypeparamet ftp formal type paramet formaltypeparamet
+identifi
+ftp identifi eat identifi eatidentifi
+classbound
+eat
+ftp class bound classbound pars field type signatur parsefieldtypesignatur
+ftp class bound classbound
+ftp class bound classbound class type signatur classtypesignatur ljava lang object ljava lang object
+option interfacebound
+list option bound optionalbound arrai list arraylist
+eat maybeeat
+option bound optionalbound add pars field type signatur parsefieldtypesignatur
+ftp interfac bound interfacebound field type signatur fieldtypesignatur option bound optionalbound size
+option bound optionalbound arrai toarrai ftp interfac bound interfacebound
+ftp

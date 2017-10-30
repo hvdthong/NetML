@@ -1,0 +1,23 @@
+org aspectj ajd intern
+read write build configur lst file
+author mik kersten
+lst build config file updat lstbuildconfigfileupdat
+write config file writeconfigfil string file path filepath list file list import node importednod
+set contentsset treeset filecont
+string file content string filecontentsstr
+list filestowrit null
+set includ file includedfil hash set hashset
+iter import node importednod iter hasnext
+build config node buildconfignod node build config node buildconfignod
+file content string filecontentsstr node resourc path getresourcepath
+string parent path parentpath file file path filepath parent getpar
+string import file path importedfilepath parent path parentpath file separ node resourc path getresourcepath
+includ file includedfil add addal includ file getincludedfil import file path importedfilepath parent path parentpath
+iter file iter hasnext
+build config node buildconfignod node build config node buildconfignod
+node getnam end endswith lst node resourc path getresourcepath start startswith
+file content string filecontentsstr
+file content string filecontentsstr node resourc path getresourcepath
+includ file includedfil node resourc path getresourcepath
+file content string filecontentsstr node resourc path getresourcepath
+write file writefil file content string filecontentsstr file path filepath

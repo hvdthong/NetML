@@ -1,0 +1,10 @@
+simpl constructor
+vector1 vector1d vector euclidean1 euclidean1d
+repres vector
+param abscissa
+build vector coordin
+instanc guarante immut
+getx
+vector1 vector1d
+version
+org apach common math3 geometri euclidean on

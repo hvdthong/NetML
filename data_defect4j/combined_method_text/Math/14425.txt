@@ -1,0 +1,140 @@
+set equat setequ equat
+classic represent deriv
+repres correct state
+inherit doc inheritdoc
+dot ydot length
+secondari insert equat data insertequationdata interpol interpol secondari state getinterpolatedsecondaryst index tmp ytmp
+init integr initintegr equat time gettim
+updat high order deriv phase2 updatehighorderderivativesphase2 scale predict scale predictedsc nordsieck tmp nordsiecktmp
+stepsiz control step
+equat set complet state setcompletest
+hnew filter step filterstep step size stepsiz factor forward
+interpol store time storetim step start stepstart
+result taylor seri formula
+integr expand state od expandablestatefulod equat
+y''' deriv
+interpol set interpol time setinterpolatedtim step end stepend
+equat mapper equationsmapp secondari expand secondari mapper getsecondarymapp
+adam moulton integr adamsmoultonintegr adam integr adamsintegr
+number small except numberistoosmallexcept dimens mismatch except dimensionmismatchexcept
+event handler trigger
+forward equat time gettim
+y'' deriv
+hnew step start stepstart
+interpol reiniti step start stepstart step size stepsiz scale nordsieck
+reject step attempt reduc error stepsiz control
+start equat time gettim
+hnew filter step filterstep scale scaledh forward nextislast
+adapt stepsiz implement error control
+system arraycopi interpol interpol state getinterpolatedst tmp ytmp length
+term
+invalid deriv restart scratch
+correct scale correctedsc length
+predict scale predictedsc length
+array2 row real matrix array2drowrealmatrix nordsieck tmp nordsiecktmp
+step islaststep
+scale scaledh step size stepsiz factor
+deriv step need
+nextt step start stepstart scale scaledh
+implement nordsieck vector
+adam moulton method fact due adam implicit
+deriv let defin
+scale correct scale correctedsc
+implicit adam moulton integr ordinari
+interpol store time storetim step end stepend
+step simpl combin step
+factor comput step grow shrink factor computestepgrowshrinkfactor error
+start step start stepstart
+interpol rescal hnew
+step adam moulton method order
+greatli simplifi step interpol interpol appli
+index
+5y' 8y'
+simplifi step occur discret event truncat
+sum
+number previou step comput
+degre polynomi
+version
+comput method comput
+step trigger
+classic represent nordsieck vector transform
+system arraycopi tmp ytmp length
+deriv
+predict scale predictedsc step size stepsiz dot ydot
+set integr control object
+error
+set interpol share integr arrai
+org apach common math3 od nonstiff
+reset intern state resetinternalst
+predict estim state step end pece sequenc
+9y' 19y' 5y'
+omit index notat clariti
+estim comput comput
+step start stepstart accept step acceptstep interpol dot ydot
+upper repres
+length
+classic implement fix step size state vector
+evalu estim deriv pece sequenc
+equat mapper equationsmapp primari expand primari mapper getprimarymapp
+equat set time settim step start stepstart
+nordsieck nordsieck tmp nordsiecktmp
+overrid
+equat complet state getcompletest
+updat high order deriv phase2 updatehighorderderivativesphase2 predict scale predictedsc correct scale correctedsc nordsieck tmp nordsiecktmp
+taylor seri formula
+discret event handl
+correct scale correctedsc step size stepsiz dot ydot
+hnew step size stepsiz
+equat primari mapper getprimarymapp equat secondari mapper getsecondarymapp
+taylor seri formula show index offset
+plusmn
+depend precomput
+implement detail
+vector time matrix built
+comput initi nordsieck vector configur starter integr
+row shift matrix lower left part ident matrix
+interpol reiniti step end stepend step size stepsiz correct scale correctedsc nordsieck tmp nordsiecktmp
+nordsieck tmp nordsiecktmp updat high order deriv phase1 updatehighorderderivativesphase1 nordsieck
+primari insert equat data insertequationdata interpol interpol state getinterpolatedst tmp ytmp
+math illeg state except mathillegalstateexcept math illeg argument except mathillegalargumentexcept
+error nordsieck tmp nordsiecktmp walk optim order walkinoptimizedord corrector predict scale predictedsc tmp ytmp
+higher degre scale deriv step
+filter filterednextt step start stepstart hnew
+tmp ytmp length
+dispatch result
+step size stepsiz hnew
+interpol shift
+updat nordsieck vector
+predict state lower
+predict nordsieck vector step comput nordsieck vector step
+defin
+previou formula valu comput transform
+pre
+comput formula exact
+nextislast forward nextt nextt
+nordsieck vector advantag
+expand state od expandablestatefulod expand expand getexpand
+extend method order support adapt stepsiz
+omit index notat clariti definit
+defin scale deriv step
+estim formula depend
+max count exceed except maxcountexceededexcept bracket except nobracketingexcept
+saniti check sanitycheck equat
+comput deriv computederiv step end stepend tmp ytmp dot ydot
+initi work arrai
+clone
+formula estim
+filter filterednextislast
+interpol reiniti forward
+step end stepend step start stepstart step size stepsiz
+appli correct pece sequenc
+adam moulton method written
+prepar step
+predict vector correct vector comput
+multistep od solver implement variat classic
+reset occur resetoccur
+differenti equat
+definit classic represent previou
+filter filterednextislast forward filter filterednextt filter filterednextt
+vector matrix depend state
+nordsieck step interpol nordsieckstepinterpol interpol nordsieck step interpol nordsieckstepinterpol

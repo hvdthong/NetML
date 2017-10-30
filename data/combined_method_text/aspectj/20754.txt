@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+unwoven class file unwovenclassfil add class file addclassfil file class file classfil file path dir inpathdir file dir outdir except ioexcept
+file input stream fileinputstream fi file input stream fileinputstream class file classfil
+byte file util fileutil read byte arrai readasbytearrai fi
+string relativepath file getpath
+assert file getabsolutepath startswith infil getabsolutepath
+troubl
+string filenam class file classfil absolut path getabsolutepath substr
+path dir inpathdir absolut path getabsolutepath length
+unwoven class file unwovenclassfil ucf unwoven class file unwovenclassfil file dir outdir filenam absolut path getabsolutepath byte
+filenam end endswith class
+system err println bcelweav process class input directori classfil
+add class file addclassfil ucf
+fi close
+ucf

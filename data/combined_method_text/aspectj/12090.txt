@@ -1,0 +1,18 @@
+org aspectj ajdt intern core builder
+author mik kersten
+emac structur model manag emacsstructuremodelmanag
+dump structur file dumpstructuretofil program element iprogramel node except ioexcept
+string node kind getkind string tostr
+equal program element iprogramel kind file aspectj file aspectj string tostr
+equal program element iprogramel kind file java file java string tostr
+illeg argument except illegalargumentexcept extern file node
+sourc file sourc locat
+string sourc sourcenam node sourc locat getsourceloc sourc file getsourcefil absolut path getabsolutepath
+string file filenam sourc sourcenam substr sourc sourcenam index lastindexof extern file suffix extern file suffix
+buffer writer bufferedwrit writer
+writer buffer writer bufferedwrit file writer filewrit file file filenam
+express printer sexpressionprint writer print decl printdecl node
+writer flush
+writer
+writer close
+except ioexcept catch ioexcept ignor

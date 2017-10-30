@@ -1,0 +1,20 @@
+author stephen colebourn
+oper primit boolean object
+author matthew hawthorn
+pre
+fals isfals bool
+handl code code return code code
+param bool check return code code
+check code boolean code code code
+author gari gregori
+boolean util booleanutil
+handl code code input gracefulli
+fals isnotfals boolean bool
+version
+code code input
+boolean util booleanutil fals isnotfals boolean fals
+except thrown code code input
+boolean util booleanutil fals isnotfals
+boolean util booleanutil fals isnotfals boolean true
+method document behaviour detail
+org apach common lang

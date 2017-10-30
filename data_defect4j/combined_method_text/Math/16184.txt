@@ -1,0 +1,39 @@
+overrid
+append endl
+note threadsaf
+dataset
+code window size windows code infinit window
+gener text report displai univari statist valu
+string string tostr
+link summari statist summarystatist store dataset
+buffer outbuff append max append max getmax append endl
+buffer outbuff append descript statist descriptivestatist append endl
+maintain dataset valu singl variabl comput descript
+link synchron descript statist synchronizeddescriptivestatist concurr access multipl
+dataset caution back store
+ad statist displai separ
+buffer outbuff append median unavail append endl
+buffer outbuff string tostr
+version
+buffer outbuff append kurtosi append kurtosi getkurtosi append endl
+dataset infinit window put limit size
+ad roll manner valu replac oldest valu
+math illeg state except mathillegalstateexcept
+grow bound larg dataset
+string line feed displai statist
+org apach common math3 stat descript
+string endl
+properti set limit number valu store
+thread requir
+buffer outbuff append append getn append endl
+line
+descript statist descriptivestatist statist summari statisticalsummari serializ
+buffer outbuff append min append min getmin append endl
+valu ad store dataset valu
+buffer outbuff append append getmean append endl
+buffer outbuff append skew append skew getskew append endl
+buffer outbuff append std dev append standard deviat getstandarddevi
+buffer outbuff append median append percentil getpercentil append endl
+statist base store data link window size getwindows window size windows
+string builder stringbuild buffer outbuff string builder stringbuild
+miae actual paramet valid

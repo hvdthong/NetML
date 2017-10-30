@@ -1,0 +1,13 @@
+matrix util matrixutil check row index checkrowindex row
+method implement link entri getentri access
+org apach common math3 linear
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+entri getentri row
+version
+abstract real matrix abstractrealmatrix
+col ncol
+basic implement real matrix realmatrix method underli storag
+col ncol column dimens getcolumndimens
+row getrow row
+row getrow row rang except outofrangeexcept

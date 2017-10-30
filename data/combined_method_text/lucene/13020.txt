@@ -1,0 +1,59 @@
+load
+subset
+loaddeleteddoc
+lock
+opennorm
+cf
+doopenstor doopenstor
+opendocstor
+corruptindexexcept corruptindexexcept
+corrupt corrupt
+close close
+readonlysegmentread
+open open open open open
+size size size size size
+segmentread segmentread segmentread segmentread
+index index index index index index
+readonli readonli readonli readonli
+explicitli
+fine
+apach
+except except except
+delet
+experiment
+dir dir dir
+low
+readbuffers readbuffers readbuffers readbuffers readbuffers
+reader reader reader reader reader reader reader
+indexread
+filenotfound
+store store store
+core core core core
+hit
+read read read read read read read read read read
+error
+cfsdir
+ioexcept ioexcept
+instanc instanc instanc instanc instanc instanc instanc instanc instanc instanc instanc instanc
+buffer buffer buffer buffer buffer
+org
+segment segment segment segment segment segment
+throw throw
+wait
+case
+term term
+divisor divisor
+terminfosindexdivisor terminfosindexdivisor
+level
+directori
+doc doc
+success success success
+thing
+info info info
+lucen lucen
+norm
+cloneabl
+coreread
+segmentinfo
+commit
+doclos

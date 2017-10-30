@@ -1,0 +1,48 @@
+list connect hyperplan start
+arrai list arraylist compar segment comparableseg loop arrai list arraylist compar segment comparableseg
+compar segment comparableseg upper upperright compar segment comparableseg end
+vector2 vector2d global start globalstart segment start getstart
+element getel compar compareto upper upperright
+param sort set segment belong boundari sort
+degener infinit thin loop simpli ignor
+param node node segment start loop
+open close loop
+loop size open
+node delet
+compar segment comparableseg segment node element getel
+open segment start getstart
+getnext
+degener loop
+avl tree avltre compar segment comparableseg sort
+avl tree avltre compar segment comparableseg node select node selectednod
+select node selectednod delet
+select distanc selecteddist distanc
+vector2 vector2d end segment end getend
+version
+loop add segment
+start point code node
+avl tree avltre compar segment comparableseg node sort smaller getnotsmal lower left lowerleft
+distanc end distanc segment start getstart
+search hyperplan start previou end
+repres region set polygon
+math intern error mathinternalerror
+end open
+end select segment selectedseg end getend
+distanc select distanc selecteddist
+tini region segment smaller threshold
+select segment selectedseg segment
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+end open global start globalstart distanc end
+select node selectednod
+code node
+segment element getel
+org apach common math3 geometri euclidean twod
+loop add select segment selectedseg
+list compar segment comparableseg follow loop followloop avl tree avltre compar segment comparableseg node node
+simpli ignor
+compar segment comparableseg lower left lowerleft compar segment comparableseg end
+compar segment comparableseg select segment selectedseg
+follow boundari loop
+select distanc selecteddist
+select distanc selecteddist doubl posit infin
+loop

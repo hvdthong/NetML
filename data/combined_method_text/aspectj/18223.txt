@@ -1,0 +1,30 @@
+org aspectj util
+lang util langutil
+convert arrai safe number element result
+smaller element null assign
+sink size
+result compon type sink
+return arrai compon type sink
+assign element sourc order
+throw illegalargumentexcept null
+object safe copi safecopi object sourc object sink
+class sink type sinktyp sink
+object
+sink class getclass compon type getcomponenttyp
+sourc length sourcelength sourc sourc length
+sink length sinklength sink sink length
+result size results
+arrai list arraylist result
+sourc length sourcelength
+result size results
+result arrai list arraylist sourc length sourcelength
+sourc length sourcelength
+sourc
+sink type sinktyp assign isassignablefrom sourc class getclass
+result add sourc
+result size results result size
+result size results sink length sinklength
+sink object arrai instanc newinst sink type sinktyp result size
+result size results
+sink result arrai toarrai sink
+sink

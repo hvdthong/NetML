@@ -1,0 +1,16 @@
+optim algorithm inherit
+common fast math fastmath
+set iter evalu count
+start point getstartpoint
+param type object function optim
+link abstract scalar optim abstractscalaroptim
+org apach common math optim gener
+base handl boiler plate method threshold
+initi guess
+base implement optim multivari scalar function
+base abstract scalar optim baseabstractscalaroptim multivari real function multivariaterealfunct
+version revis date
+start clone
+common math
+link abstract scalar differenti optim abstractscalardifferentiableoptim
+intend enforc intern coher

@@ -1,0 +1,8 @@
+org aspectj apach bcel classfil annot
+element repres primit string
+simpl element simpleelementvalu element elementvalu
+string string getvaluestr
+type string
+runtim except runtimeexcept dont call getvaluestr string elementvalu
+constant utf8 constantutf8 constant utf8 constantutf8 cpool constant getconst idx constant constant utf8 constant utf8
+byte getbyt

@@ -1,0 +1,44 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+special specializeon shadow shadow
+kind getkind advic kind advicekind
+bcel shadow bcelshadow shadow initi closur initializeforaroundclosur
+xxx case support lazi test code
+kind getkind
+expos state exposedst expos state exposedst
+kind getkind entri isperentri
+expos state exposedst expos state exposedst
+kind getkind cflow iscflow
+expos state exposedst expos state exposedst free var nfreevar
+signatur getsignatur
+expos state exposedst expos state exposedst signatur getsignatur
+expos state exposedst expos state exposedst
+return xxx case support lazi test code
+world world shadow world getiworld
+suppress lint warn suppresslintwarn world
+pointcut test pointcuttest pointcut getpointcut find residu findresidu shadow expos state exposedst
+clear lint suppress clearlintsuppress world suppress lint kind suppressedlintkind
+initi perform findresidu
+joinpoint prime weav
+kind getkind advic kind advicekind entri perthisentri
+shadow var getthisvar
+kind getkind advic kind advicekind target entri pertargetentri
+shadow target var gettargetvar
+make thisjoinpoint paramet initi
+extra paramet flag getextraparameterflag join point static part thisjoinpointstaticpart
+bcel shadow bcelshadow shadow join point static part var getthisjoinpointstaticpartvar
+bcel shadow bcelshadow shadow enclos class getenclosingclass warn ad static initi warnonaddedstaticiniti shadow sourc locat getsourceloc
+extra paramet flag getextraparameterflag join point thisjoinpoint
+guard test hasguardtest pointcut test pointcuttest liter true kind getkind advic kind advicekind
+isaround kind getkind advic kind advicekind
+bcel shadow bcelshadow shadow requir join point requirethisjoinpoint guard test hasguardtest isaround
+bcel shadow bcelshadow shadow enclos class getenclosingclass warn ad static initi warnonaddedstaticiniti shadow sourc locat getsourceloc
+guard test hasguardtest world lint getlint multipl advic stop lazi tjp multipleadvicestoppinglazytjp enabl isen
+collect problemat advic
+bcel shadow bcelshadow shadow add advic prevent lazi tjp addadvicepreventinglazytjp
+extra paramet flag getextraparameterflag enclos join point static part thisenclosingjoinpointstaticpart
+bcel shadow bcelshadow shadow enclos join point static part var getthisenclosingjoinpointstaticpartvar
+bcel shadow bcelshadow shadow enclos class getenclosingclass warn ad static initi warnonaddedstaticiniti shadow sourc locat getsourceloc

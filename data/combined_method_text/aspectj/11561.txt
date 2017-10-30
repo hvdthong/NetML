@@ -1,0 +1,7 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+resolv member resolvedmemb declar pointcut getdeclaredpointcut
+declar pointcut declaredpointcut fill declar member filldeclaredmemb
+declar pointcut declaredpointcut

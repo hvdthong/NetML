@@ -1,0 +1,25 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+org apach common math3 fit
+paramet fitter fit
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+link weight observ point weightedobservedpoint
+gradient
+fit point link
+paramet gaussian function fit
+doubl posit infin
+deprec link gaussian curv fitter gaussiancurvefitt
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+norm
+usag
+version gaussian fitter gaussianfitt java 14z
+fit gaussian function observ point
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+observ point order
+pre
+strictli posit except notstrictlypositiveexcept nopmd
+fit initi guess initialguess
+overrid
+param initi guess initialguess guess valu order
+sigma
+gaussian parametr gaussian parametr

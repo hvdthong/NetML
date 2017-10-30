@@ -1,0 +1,29 @@
+link illinoi solver illinoissolv illinoi method base
+articl dowel jarratt
+bit numer mathemat volum number page springer
+approxim univari real function
+method method
+implement link regula falsi solver regulafalsisolv regula falsi
+link secant solver secantsolv secant method
+param rel accuraci relativeaccuraci maximum rel error
+param function accuraci functionvalueaccuraci maximum function error
+param method secant base root find method
+function accuraci functionvalueaccuraci
+base articl dowel jarratt
+version
+base secant solver basesecantsolv rel accuraci relativeaccuraci
+absolut accuraci absoluteaccuraci
+implement link pegasu solver pegasussolv pegasu method
+base secant solver basesecantsolv
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci function accuraci functionvalueaccuraci
+base bracket secant base method root find
+bracket method implement separ
+allow allow solut allowedsolut side
+equat bit numer mathemat volum number
+page springer
+construct solver
+pegasu method comput root equat
+org apach common math analysi solver
+implement
+param absolut accuraci absoluteaccuraci maximum absolut error
+modifi regula falsi method comput root

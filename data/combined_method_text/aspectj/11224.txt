@@ -1,0 +1,56 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+transform parameter type bind sometyp
+real type sometyp kind parameter allow
+type variabl refer type variabl
+target type work base gener type intend
+lot check verifi declar form
+resolv type paramet itd gener type resolvetypeparametersforitdongenerictyp class scope classscop class scope classscop
+collaps parameter refer gener type
+type ontyp parameter singl type refer parameterizedsingletyperefer
+parameter singl type refer parameterizedsingletyperefer pref parameter singl type refer parameterizedsingletyperefer type ontyp
+po pref sourc start sourcestart pref sourc end sourceend
+type ontyp singl type refer singletyperefer pref token po
+parameter qualifi type refer parameterizedqualifiedtyperefer pref parameter qualifi type refer parameterizedqualifiedtyperefer type ontyp
+po pref sourc start sourcestart pref sourc end sourceend
+type ontyp qualifi type refer qualifiedtyperefer pref token po
+type bind ontypebind refer bind referencebind type ontyp type bind public gettypebindingpubl class scope classscop
+type bind ontypebind valid bind isvalidbind
+class scope classscop problem report problemreport invalid type invalidtyp type ontyp type bind ontypebind
+ignor investig ignorefurtherinvestig
+type bind ontypebind raw type israwtyp
+type bind ontypebind raw type bind rawtypebind type bind ontypebind type
+alia count aliascount type variabl alias typevariablealias type variabl alias typevariablealias size
+parameter target type itd target
+type gener
+alia count aliascount type bind ontypebind gener type isgenerictyp
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+type paramet itd target type target type type bind ontypebind debug debugnam gener
+ignor investig ignorefurtherinvestig
+check suppli number type paramet itd target type
+alia count aliascount
+type bind ontypebind type variabl typevari length alia count aliascount ontypebind typevari length aliascount typeparamet length phantom fake ontyp typeparamet includ extra thing gener method
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+incorrect number type paramet suppli gener type type bind ontypebind debug debugnam
+type bind ontypebind type variabl typevari length type paramet alia count aliascount
+ignor investig ignorefurtherinvestig
+check stupid name type variabl
+alia count aliascount
+alia count aliascount
+string arrai element string type variabl alias typevariablealias
+singl type refer singletyperefer str singl type refer singletyperefer arrai element char arrai tochararrai
+type bind typebind str type bind public gettypebindingpubl class scope classscop
+problem refer bind problemreferencebind null instanceof problemreferencebind instanceof typevariablebind
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+intertyp declar made gener type parameter type
+arrai element type paramet refer real type
+ignor investig ignorefurtherinvestig
+typevariablebind tvarsingenerictyp ontypebind typevari
+typevariablealias arraylist generictypevariableposit fixm asc dont build
+typerefer targ pref typeargu
+targ null
+int targ length
+typerefer tref targ
+typevariablealias add charoper tostr tref gettypenam tvarsingenerictyp

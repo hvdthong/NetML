@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+lazi method gen lazymethodgen make bridg method makebridgemethod lazi class gen lazyclassgen gen resolv member resolvedmemb member
+remov abstract modifi
+mod member modifi getmodifi
+modifi abstract isabstract mod mod mod modifi abstract
+lazi method gen lazymethodgen ret lazi method gen lazymethodgen
+mod
+bcel world bcelworld make bcel type makebceltyp member return type getreturntyp
+member getnam
+bcel world bcelworld make bcel type makebceltyp member paramet type getparametertyp
+unresolv type unresolvedtyp name getnam member except getexcept
+gen
+static crosscut make interfac unus javac
+ret makesynthet
+ret

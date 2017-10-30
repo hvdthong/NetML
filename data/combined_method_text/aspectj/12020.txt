@@ -1,0 +1,35 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+visit type declar typedeclar type declar typedeclar compil unit scope compilationunitscop scope
+string string type declar typedeclar
+program element iprogramel kind kind program element iprogramel kind class
+type declar typedeclar aspect declar aspectdeclar kind program element iprogramel kind aspect
+type declar typedeclar kind type declar typedeclar modifi type declar typedeclar interfac decl interfac decl kind program element iprogramel kind interfac
+type declar typedeclar kind type declar typedeclar modifi type declar typedeclar enum decl enum decl kind program element iprogramel kind enum
+type declar typedeclar kind type declar typedeclar modifi type declar typedeclar annot type decl annot type decl kind program element iprogramel kind annot
+support
+type declar typedeclar annot
+type declar typedeclar annot length
+annot annot type declar typedeclar annot
+arrai equal annot type type bind public gettypebindingpubl scope signatur
+lorg aspectj lang annot aspect char arrai tochararrai
+kind program element iprogramel kind aspect
+type modifi typemodifi type declar typedeclar modifi
+type declar typedeclar aspect declar aspectdeclar
+type modifi typemodifi aspect declar aspectdeclar type declar typedeclar declar modifi getdeclaredmodifi
+program element iprogramel node penod program element programel
+kind
+make locat makeloc type declar typedeclar
+type modifi typemodifi
+node penod set sourc signatur setsourcesignatur gen sourc signatur gensourcesignatur type declar typedeclar
+node penod set formal comment setformalcom gener javadoc comment generatejavadoccom type declar typedeclar
+program element iprogramel stack peek add child addchild node penod
+stack push node penod

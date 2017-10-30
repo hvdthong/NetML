@@ -1,0 +1,8 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+success compil successfulcompil build config ajbuildconfig config full build wasfullbuild
+build config buildconfig config
+success build time lastsuccessfulbuildtim current build time currentbuildtim
+state listen statelisten state listen statelisten build success buildsuccess full build wasfullbuild
+full build wasfullbuild success full build time lastsuccessfulfullbuildtim current build time currentbuildtim

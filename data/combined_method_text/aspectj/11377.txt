@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+add advic declar addadvicelikedeclar class scope classscop
+type declar typedeclar dec refer context referencecontext
+dec aspect declar aspectdeclar
+resolv type resolvedtyp type typex factori eclips fromeclips dec bind
+factori world getworld crosscut member set getcrosscuttingmembersset add advic declar addadvicelikedeclar type typex
+sourc type bind sourcetypebind sourc type sourcetyp refer context referencecontext bind
+refer bind referencebind member type membertyp sourc type sourcetyp member type membertyp
+length member type membertyp length length
+add advic declar addadvicelikedeclar sourc type bind sourcetypebind member type membertyp scope

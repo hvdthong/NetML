@@ -1,0 +1,14 @@
+org aspectj apach bcel verifi static
+util class hold inform
+type local variabl
+slot index inform
+byte code offset
+version localvariableinfo java aclement exp
+author href http www inf berlin ehaas enver haas
+local variabl info localvariableinfo
+add inform local variabl slot
+throw localvariableinfoinconsistentexcept inform conflict
+gather inform
+add string startpc length type local variabl info inconsist except localvariableinfoinconsistentexcept
+startpc startpc length int startpc startpc length incl incl notat
+add

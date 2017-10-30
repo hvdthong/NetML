@@ -1,0 +1,9 @@
+org apach common math stat descript moment
+vectori covari vectorialcovari serializ
+product sum productssum dimens dimens
+vectori covari vectorialcovari dimens
+param dimens vector dimens
+version revis
+construct vectori vectorialmean
+sum dimens
+return covari matrix vector

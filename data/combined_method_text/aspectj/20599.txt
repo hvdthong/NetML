@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+var arg annot var getargannotationvar unresolv type unresolvedtyp annot type forannotationtyp
+initi arg annot var initializeargannotationvar
+var var arg annot var argannotationvar annot type forannotationtyp
+type annot access var typeannotationaccessvar annot type forannotationtyp resolv world bcel var bcelvar arg var getargvar

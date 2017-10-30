@@ -1,0 +1,5 @@
+org aspectj weaver pattern
+pattern node patternnod sourc locat ihassourceloc
+write locat writeloc data output stream dataoutputstream except ioexcept
+write int writeint start
+write int writeint end

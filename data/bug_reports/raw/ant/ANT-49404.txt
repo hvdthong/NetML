@@ -1,0 +1,18 @@
+XMLJUnitResultFormatter does not encode entity/character references
+The following assert:
+
+        assertTrue("&amp;&", false);
+
+in a JUnit test case will produce the expected text output via ant BriefJUnitResultFormatter:
+
+junit.framework.AssertionFailedError: &amp;&          
+
+But an unexpected one in via ant XMLJUnitResultFormatter:
+
+<failure message="&amp;&amp;" ...>junit.framework.AssertionFailedError: &amp;&amp;
+
+When an XML parser reads that output, it will assume that the assertion message was && and not &amp;& .
+
+It looks like there are problems in formatError method, where:
+1. the attribute value is set directly instead of taking care of entity/character references first.
+2. Tag content is set directly instead of wrapping it in CDATA.

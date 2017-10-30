@@ -1,0 +1,18 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+check file set pass aspect declar found
+start process batch build remov result build
+call regist listen what happen return fals
+return fals discov aspect declar
+process delet file processdeletedfil set delet file deletedfil
+iter iter delet file deletedfil iter iter hasnext
+file delet file adeletedfil file iter
+sourc file defin aspect sourcefilesdefiningaspect delet file adeletedfil
+remov result build removeallresultsoflastbuild
+state listen statelisten state listen statelisten detect aspect delet detectedaspectdelet delet file adeletedfil
+list class list fulli qualifi type name result compil unit fullyqualifiedtypenamesresultingfromcompilationunit delet file adeletedfil list classfil class list fullyqualifiedtypenamesresultingfromcompilationunit adeletedfil
+class
+iter iter class iter iter hasnext
+class file classfil element class file classfil iter
+resolv type structur build resolvedtypestructuresfromlastbuild remov element fulli qualifi type fullyqualifiedtypenam

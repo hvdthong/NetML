@@ -1,0 +1,25 @@
+matrix util matrixutil check row index checkrowindex row
+method implement link entri getentri access
+inherit doc inheritdoc
+dimens mismatch expect
+vector dimens getdimens
+abstract real matrix abstractrealmatrix
+invalid matrix except invalidmatrixexcept dimens mismatch expect
+org apach common math linear
+set row vector setrowvector row real vector realvector vector
+version
+set entri setentri row vector entri getentri
+matrix dimens mismatch except matrixdimensionmismatchexcept vector dimens getdimens
+object
+local format localizedformat dimens mismatch 2x2
+version revis date
+matrix index except matrixindexexcept invalid matrix except invalidmatrixexcept
+invalid matrix except invalidmatrixexcept
+check row index checkrowindex row
+col ncol
+col ncol column dimens getcolumndimens
+vector dimens getdimens col ncol
+abstract real matrix abstractrealmatrix real matrix realmatrix
+matrix element deriv provid faster implement
+abstract real matrix abstractrealmatrix real matrix realmatrix serializ
+basic implement real matrix realmatrix method underli storag

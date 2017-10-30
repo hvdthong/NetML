@@ -1,0 +1,12 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+duplic member target type isduplicatememberwithintargettyp resolv member resolvedmemb exist member existingmemb resolv type resolvedtyp target type targettyp resolv member resolvedmemb itd member itdmemb
+exist member existingmemb abstract isabstract itd member itdmemb abstract isabstract
+unresolv type unresolvedtyp declar type declaringtyp exist member existingmemb declar type getdeclaringtyp
+target type targettyp equal declar type declaringtyp
+test itdmemb visibl targettyp
+itd member itdmemb privat ispriv
+itd member itdmemb public ispubl
+packag visibl
+target type targettyp packag getpackagenam equal itd member itdmemb declar type getdeclaringtyp packag getpackagenam
+put member signatur exact type visibl type

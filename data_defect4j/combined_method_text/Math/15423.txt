@@ -1,0 +1,20 @@
+param checker converg checker
+ident precondition identityprecondition
+linear conjug gradient optim nonlinearconjugategradientoptim conjug gradient formula conjugategradientformula updat formula updateformula
+brent solver brentsolv
+converg checker convergencecheck point pair pointvaluepair checker
+org apach common math3 optim gener
+constructor link brent solver brentsolv line search solver
+link ident precondition identityprecondition precondition
+link conjug gradient formula conjugategradientformula fletcher reev link
+linear conjug gradient optim
+support fletcher reev polak ribi egrav
+version
+updat formula updateformula
+linear conjug gradient optim nonlinearconjugategradientoptim
+conjug gradient formula conjugategradientformula polak ribier
+deprec remov
+param updat formula updateformula formula updat beta paramet
+option precondit
+checker
+updat formula conjug search direct support

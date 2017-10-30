@@ -1,0 +1,34 @@
+org apach tool zip
+reimplement link java util zip zipoutputstream
+java util zip zipoutputstream handl extend
+function packag intern extern file
+attribut extra field layout local file
+data central directori entri
+class link java randomaccessfil
+randomaccessfil output
+file
+randomaccessfil implement
+data descriptor store size crc inform link
+deflat deflat entri mean
+calcul
+link store store method set crc
+uncompress size inform requir link
+putnextentri putnextentri call
+zip output stream zipoutputstream filter output stream filteroutputstream
+write version need extract gener purpos bit writeversionneededtoextractandgeneralpurposebit
+zip method zipmethod
+except ioexcept
+checkstyl magicnumb
+version need extract versionneededtoextract
+gener purpos flag generalpurposeflag ef useef ef flag ef flag
+zip method zipmethod deflat raf
+requir version store length info
+data descriptor
+version need extract versionneededtoextract
+bit3 set signal data descriptor
+gener purpos flag generalpurposeflag
+checkstyl magicnumb
+version need extract
+write writeout zip short zipshort byte getbyt version need extract versionneededtoextract
+gener purpos bit flag
+write writeout zip short zipshort byte getbyt gener purpos flag generalpurposeflag

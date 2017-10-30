@@ -1,0 +1,68 @@
+frobeniu norm correct
+iter correct
+prepar iter
+vector3 ddsd vector3ddsd
+corr11 real getreal real getreal
+x12 subtract x10 multipli mx02 add x11 multipli mx12 add x12 multipli mx22 subtract multipli
+org apach common math3 geometri euclidean threed
+x20
+rotat matrix except notarotationmatrixexcept local format localizedformat unabl orthogonol matrix
+x20 subtract x20 multipli mx00 add x21 multipli mx10 add x22 multipli mx20 subtract multipli
+corr10 real getreal real getreal
+corr21 real getreal real getreal
+x11 subtract x10 multipli mx01 add x11 multipli mx11 add x12 multipli mx21 subtract multipli
+corr00 real getreal real getreal
+mx01 multipli x01 add multipli x11 add multipli x21
+corr20 real getreal real getreal
+fast math fastmath ab fn1 threshold
+correct threshold
+mx20 multipli x00 add multipli x10 add multipli x20
+param initi matrix orthogon
+correct element
+corr01 real getreal real getreal
+x02 subtract x00 multipli mx02 add x01 multipli mx12 add x02 multipli mx22 subtract multipli
+version
+rotat matrix except notarotationmatrixexcept
+except rotat matrix except notarotationmatrixexcept matrix
+x21 subtract x20 multipli mx01 add x21 multipli mx11 add x22 multipli mx21 subtract multipli
+perfect orthogon 3x3 matrix
+x01
+x00
+x21
+orthogon correct converg reach
+fn1 corr00 corr00 corr01 corr01 corr02 corr02
+x22
+rotat order rotationord
+corr12 real getreal real getreal
+converg test
+param type field element
+math arrai matharrai build arrai buildarrai field getfield
+mx21 multipli x01 add multipli x11 add multipli x21
+param threshold converg threshold iter
+corr02 real getreal real getreal
+algorithm converg iter
+corr22 real getreal real getreal
+implement link rotat link extend field element extendedfieldel
+mx02 multipli x02 add multipli x12 add multipli x22
+mx11 multipli x01 add multipli x11 add multipli x21
+x10 subtract x10 multipli mx00 add x11 multipli mx10 add x12 multipli mx20 subtract multipli
+orthogon matrix close
+mx12 multipli x02 add multipli x12 add multipli x22
+fn1
+field rotat fieldrot extend field element extendedfieldel serializ
+x22 subtract x20 multipli mx02 add x21 multipli mx12 add x22 multipli mx22 subtract multipli
+x00 subtract x00 multipli mx00 add x01 multipli mx10 add x02 multipli mx20 subtract multipli
+x01 subtract x00 multipli mx01 add x01 multipli mx11 add x02 multipli mx21 subtract multipli
+orthogon threshold iter
+mx22 multipli x02 add multipli x12 add multipli x22
+instanc guarante immut
+differ step frobeniu norm
+x02
+mx00 multipli x00 add multipli x10 add multipli x20
+x10
+x11
+x12
+corr20 corr20 corr21 corr21 corr22 corr22
+corr10 corr10 corr11 corr11 corr12 corr12
+mx10 multipli x00 add multipli x10 add multipli x20
+orthogon matrix orthogonalizematrix threshold

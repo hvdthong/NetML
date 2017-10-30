@@ -1,0 +1,19 @@
+org aspectj ajd javaopt
+option panel displai java compil warn option
+user add ajd getoptionsfram
+java compil warn option panel javacompilerwarningsoptionspanel option panel optionspanel
+creat warn entri createwarningsentri string label text labeltext string java option set javaoptiontoset
+panel jpanel panel panel jpanel
+panel set layout setlayout border layout borderlayout
+label jlabel label label jlabel
+label set font setfont java awt font dialog
+label set text settext label text labeltext
+panel add label border layout borderlayout west
+combo box jcombobox warn combo box jcombobox ignor warn ignoreorwarn
+string string java build option javabuildopt java build option map getjavabuildoptionsmap java option set javaoptiontoset
+equal java option javaopt ignor
+warn set select index setselectedindex
+warn set select index setselectedindex
+panel add warn border layout borderlayout east
+warn box warningsbox add panel
+warn combo box warningcombobox put java option set javaoptiontoset warn

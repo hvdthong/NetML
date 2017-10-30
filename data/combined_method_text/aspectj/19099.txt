@@ -1,0 +1,18 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+buf append return type returntyp getnam
+buf append
+buf append declar type declaringtyp getnam
+buf append
+buf append
+kind field
+buf append
+paramet type parametertyp length
+buf append paramet type parametertyp
+len paramet type parametertyp length len
+buf append
+buf append paramet type parametertyp getnam
+buf append
+buf string tostr

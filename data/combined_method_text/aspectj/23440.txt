@@ -1,0 +1,25 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+init list class path classpath list aspect path aspectpath
+abort error abortonerror
+creat messag handler createmessagehandl
+info classpath class path classpath
+info aspectpath aspect path aspectpath
+bcel world bcelworld bcel world bcelworld class path classpath messag handler messagehandl
+bcel world bcelworld set xno inlin setxnoinlin
+bcel world bcelworld lint getlint load default properti loaddefaultproperti
+lang util langutil is15 greater is15vmorgreat
+bcel world bcelworld set behav java5 setbehaveinjava5wai
+weaver bcel weaver bcelweav bcel world bcelworld
+regist aspect librari registeraspectlibrari aspect path aspectpath
+enabl

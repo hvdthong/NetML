@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+string build arg represent buildargnamerepresent
+string buffer stringbuff arg string buffer stringbuff
+num arg care numargswecareabout declar paramet count getdeclaredparametercount
+argument
+num arg care numargswecareabout
+arg append
+arg append string argument
+extra argument extraargu
+num arg care numargswecareabout arg append
+arg append string extra argument extraargu
+arg string tostr

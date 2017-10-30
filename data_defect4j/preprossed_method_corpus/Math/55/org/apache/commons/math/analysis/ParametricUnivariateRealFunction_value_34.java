@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi
+
+
+repres real function depend independ
+variabl extra paramet
+
+version revis date
+
+parametr univari real function parametricunivariaterealfunct
+
+comput function
+
+param point function comput
+param paramet function paramet
+
+
+paramet
+
+
+
+
+
+
+
+
+
+

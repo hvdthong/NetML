@@ -1,0 +1,65 @@
+pre
+visit indic visitedindic idx visit indic visitedindic size length
+param chromosom
+parameter chromosom length
+item parent index
+copi child
+fix length chromosom newfixedlengthchromosom child2 rep child2rep
+indic add idx
+gene posit parent
+list integ indic arrai list arraylist integ length
+indic
+add index cycl indic
+pair chromosom result crossov
+dimens mismatch except dimensionmismatchexcept length chromosom
+org apach common math3 genet
+helper link crossov chromosom chromosom perform actual crossov
+href http www rubicit tutori genet algorithm geneticalgorithm crossov oper crossoveroper cycl crossov oper cyclecrossoveroper aspx
+index item parent
+idx random start randomstart genet algorithm geneticalgorithm random gener getrandomgener int nextint length
+indic clear
+posit gene parent
+cycl crossov cyclecrossov crossov polici crossoverpolici
+start cycl
+start gene parent
+child1 rep child1rep set child2 rep child2rep
+set visit indic
+add gene index cycl
+idx indic
+chromosom pair chromosomepair mate abstract list chromosom abstractlistchromosom abstract list chromosom abstractlistchromosom
+polici work link abstract list chromosom abstractlistchromosom
+version
+repeat step arriv start gene cycl
+item parent2 rep parent2rep idx
+param gener type link abstract list chromosom abstractlistchromosom crossov
+child2 rep child2rep set tmp
+dimens mismatch except dimensionmismatchexcept
+list parent1 rep parent1rep represent getrepresent
+cycl crossov build offspr order chromosom identifi cycl
+respect parent
+chromosom pair chromosomepair fix length chromosom newfixedlengthchromosom child1 rep child1rep
+visit indic visitedindic size length
+length length getlength
+cycl
+cycl crossov oper
+idx indic length
+tmp child1 rep child1rep
+indic current cycl
+determin start index
+children crossov copi simplifi process
+parent chromosom form children cycl copi
+indic form cycl form children altern order
+form cycl procedur appli
+idx length
+idx
+list child1 rep child1rep arrai list arraylist represent getrepresent
+cycl swap child element indic found cycl
+find start index find unvisit index
+set integ visit indic visitedindic hash set hashset integ length
+arrai represent parent
+list parent2 rep parent2rep represent getrepresent
+idx parent1 rep parent1rep index indexof item
+visit indic visitedindic add addal indic
+cycl gene parent copi child cycl gene parent
+dimens mismatch except dimensionmismatchexcept length getlength length
+list child2 rep child2rep arrai list arraylist represent getrepresent

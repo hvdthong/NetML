@@ -1,0 +1,5 @@
+org aspectj weaver pattern
+annot type pattern notannotationtypepattern annot type pattern annotationtypepattern
+annot type pattern annotationtypepattern resolv bind resolvebind scope iscop scope
+bind bind bind allowbind
+negat pattern negatedpattern negat pattern negatedpattern resolv bind resolvebind scope bind bind allowbind

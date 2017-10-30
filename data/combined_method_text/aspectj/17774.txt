@@ -1,0 +1,67 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+complet output jar
+copi resourc sourc root directori
+filter
+class file input jar enabl
+complet outjar completeoutjar
+tmp outjar tmpoutjar tmp outjar tmpoutjar read canread
+copi injar copyinjar sourc root copi filter sourcerootcopyfilt
+inpath dir copi filter inpathdircopyfilt
+zip zip zip
+project project project getproject
+zip set project setproject project
+zip set task settasknam task gettasknam zip
+zip set dest file setdestfil outjar
+zip file set zipfileset zipfileset zip file set zipfileset
+zipfileset set project setproject project
+zipfileset set src setsrc tmp outjar tmpoutjar
+zipfileset set includ setinclud class
+zip add zipfileset addzipfileset zipfileset
+copi injar copyinjar
+string path injar list
+lang util langutil empti isempti path
+path length
+file jar file jarfil file path
+zipfileset zip file set zipfileset
+zipfileset set project setproject project
+zipfileset set src setsrc jar file jarfil
+zipfileset set includ setinclud
+zipfileset set exclud setexclud class
+zip add zipfileset addzipfileset zipfileset
+sourc root copi filter sourcerootcopyfilt sourc root sourceroot
+string path sourc root sourceroot list
+lang util langutil empti isempti path
+path length
+file src root srcroot file path
+file set fileset fileset file set fileset
+fileset set project setproject project
+fileset set dir setdir src root srcroot
+fileset set includ setinclud
+fileset set exclud setexclud sourc root copi filter sourcerootcopyfilt
+zip add fileset addfileset fileset
+inpath dir copi filter inpathdircopyfilt inpath
+string path inpath list
+lang util langutil empti isempti path
+path length
+file inpath dir inpathdir file path
+inpath dir inpathdir directori isdirectori inpath dir inpathdir read canread
+file set fileset fileset file set fileset
+fileset set project setproject project
+fileset set dir setdir inpath dir inpathdir
+fileset set includ setinclud
+fileset set exclud setexclud inpath dir copi filter inpathdircopyfilt
+zip add fileset addfileset fileset
+zip execut

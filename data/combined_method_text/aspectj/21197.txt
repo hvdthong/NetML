@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+util
+instruct creat instanceof createinstanceof instruct factori instructionfactori fact refer type referencetyp
+cpool entri cpoolentri
+arrai type arraytyp
+fact constant pool getconstantpool add arrai class addarrayclass arrai type arraytyp
+fact constant pool getconstantpool add class addclass object type objecttyp
+instanceof cpool entri cpoolentri

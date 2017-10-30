@@ -1,0 +1,21 @@
+author stephen colebourn
+millisecond instant
+link readabl instant readableinst
+param zone time zone appli
+kind date time object referenc
+org joda time base
+author brian neill o'neil
+abstract instant abstractinst thread safe immut subclass
+chrono chrono zone withzon zone
+object date time datetim chronolog zone
+implement code readabl instant readableinst code
+mutabl thread safe
+abstract instant abstractinst readabl instant readableinst
+extend
+date time datetim date time todatetim date time zone datetimezon zone
+date time datetim milli
+chronolog chrono date time util datetimeutil chronolog getchronolog chronolog getchronolog
+concept chronolog method work
+date time datetim milli getmilli chrono
+gener directli api user
+abstract instant abstractinst common behaviour instant class

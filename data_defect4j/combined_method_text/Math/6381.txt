@@ -1,0 +1,66 @@
+pre
+step start stepstart prev
+multistep integr nordsieck represent highli sensit
+nordsieck vector higher degre scale deriv
+inherit doc inheritdoc
+scale dot ydot clone
+step start stepstart
+store previou step separ implement
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+step nstep
+comput high order scale deriv
+nordsieck initi high order deriv initializehighorderderiv scale multistep
+store end step
+org apach common math od
+count count length
+factor set low order
+step size stepsiz length length
+deriv except derivativeexcept
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+initi complet marker except initializationcompletedmarkerexcept
+scale deriv
+interpol set interpol time setinterpolatedtim curr
+math user except mathuserexcept
+y''' deriv
+multistep msi
+defin scale deriv step
+stop integr step handl
+system arraycopi interpol interpol state getinterpolatedst
+version
+scale interpol interpol deriv getinterpolatedderiv clone
+version revis date
+length
+nordsieck initi high order deriv initializehighorderderiv step size stepsiz dot ydot
+prev
+interpol set interpol time setinterpolatedtim prev step size stepsiz
+dot ydot dot ydot length
+dot ydot count dot ydot count length
+scale step size stepsiz
+deriv
+prev interpol previou time getprevioustim
+differenti equat
+y'' deriv
+step store begin step
+omit index notat clariti
+msi interpol interpol deriv getinterpolatedderiv clone
+larg step step multipli factor
+curr interpol current time getcurrenttim
+count length
+step need comput deriv
+interpol set interpol time setinterpolatedtim prev
+handl step handlestep step interpol stepinterpol interpol islast
+system arraycopi interpol interpol deriv getinterpolatedderiv
+compon accur max growth
+msi step size stepsiz
+stop integr need step handl
+count
+base multistep integr ordinari
+step defin
+comput scale deriv
+higher order deriv
+compon nordsieck vector multipli
+step size stepsiz curr prev step nstep
+count curr
+multistep integr multistepintegr adapt stepsiz integr adaptivestepsizeintegr
+scale length
+multistep step nstep

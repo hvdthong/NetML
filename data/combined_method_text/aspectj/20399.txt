@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel field bcelfield resolv member impl resolvedmemberimpl
+unpack attribut unpackattribut world world
+attribut attr field attribut getattribut
+list bcel attribut bcelattribut read attribut readajattribut declar type getdeclaringtyp class getclassnam attr sourc context getsourcecontext world world bcel object type bcelobjecttyp weaver version attribut getweaverversionattribut
+add addal attribut atajattribut read aj5 field attribut readaj5fieldattribut field world resolv declar type getdeclaringtyp sourc context getsourcecontext world world messag handler getmessagehandl
+iter iter iter iter hasnext
+attribut ajattribut attribut ajattribut iter
+attribut ajattribut synthet ajsynthet
+synthet isajsynthet
+except bcexcept weird field attribut
+synthet isajsynthet
+attr length
+attr synthet synthet issynthet
+synthet modifi attribut
+field modifi getmodifi acc synthet accsynthet
+synthet issynthet

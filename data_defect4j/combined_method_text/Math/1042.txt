@@ -1,0 +1,27 @@
+allow number evalu exceed
+solver requir bracket handl
+differenti univari real solver differentiableunivariaterealsolv
+univari real solver univariaterealsolv
+solv root interv
+org apach common math except math illeg argument except mathillegalargumentexcept
+implement search interv
+polynomi solver polynomialsolv
+version
+param max eval maxev maximum number evalu
+version revis date
+intend apach common math
+param max upper bound interv
+link univari real solver univariaterealsolv link polynomi solver polynomialsolv link
+function
+solver requir interv bracket singl root
+endpoint root
+param function solv
+param min lower bound interv
+org apach common math except evalu except toomanyevaluationsexcept
+base univari real solver baseunivariaterealsolv func univari real function univariaterealfunct
+param func type function solv
+argument satisfi requir solver
+librari regular user reli specif interfac
+interfac univari real rootfind algorithm
+solv max eval maxev func min max
+org apach common math analysi solver

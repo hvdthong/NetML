@@ -1,0 +1,19 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+add option panel main option frame
+add panel java complianc compil warn debug
+warn java option option specif
+ajbrows
+add option panel addoptionspanel
+ajd default getdefault option frame getoptionsfram add option panel addoptionspanel
+java complianc option panel javacomplianceoptionspanel java build option javabuildopt
+ajd default getdefault option frame getoptionsfram add option panel addoptionspanel
+java compil warn option panel javacompilerwarningsoptionspanel java build option javabuildopt
+ajd default getdefault option frame getoptionsfram add option panel addoptionspanel
+java option panel javaotheroptionspanel java build option javabuildopt
+ajd default getdefault option frame getoptionsfram add option panel addoptionspanel
+java debug option panel javadebugoptionspanel java build option javabuildopt
+ajd default getdefault option frame getoptionsfram add option panel addoptionspanel
+browser option panel browseroptionspanel

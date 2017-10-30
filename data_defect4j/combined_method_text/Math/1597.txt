@@ -1,0 +1,14 @@
+set probabl success setprobabilityofsuccess
+creat binomi distribut number trial
+param trial number trial
+param probabl success
+version revis date
+set number trial intern setnumberoftrialsintern trial
+set probabl success intern setprobabilityofsuccessintern
+implement link binomi distribut binomialdistribut
+probabl success
+binomi distribut impl binomialdistributionimpl
+binomi distribut impl binomialdistributionimpl trial
+org apach common math distribut
+binomi distribut impl binomialdistributionimpl abstract integ distribut abstractintegerdistribut
+set number trial setnumberoftri trial

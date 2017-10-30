@@ -1,0 +1,8 @@
+src/org/mozilla/javascript/optimizer/Block_findDefPoints-OptFunctionNode-Node-int[]_boolean
+src/org/mozilla/javascript/optimizer/Block_findExpressionType-OptFunctionNode-Node-int[]_int
+src/org/mozilla/javascript/optimizer/Block_lookForVariableAccess-OptFunctionNode-Node_void
+src/org/mozilla/javascript/optimizer/Block_reachingDefDataFlow-OptFunctionNode-Node[]-Block[]-int[]_void
+src/org/mozilla/javascript/optimizer/Block_runFlowAnalyzes-OptFunctionNode-Node[]_void
+src/org/mozilla/javascript/optimizer/Block_typeFlow-OptFunctionNode-Node[]-Block[]-int[]_void
+src/org/mozilla/javascript/optimizer/Optimizer_optimizeFunction-OptFunctionNode_void
+src/org/mozilla/javascript/optimizer/Optimizer_rewriteForNumberVariables-Node-int_int

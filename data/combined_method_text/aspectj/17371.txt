@@ -1,0 +1,11 @@
+org aspectj runtim reflect
+factori
+catch claus signatur catchclausesignatur make catch claus sig makecatchclausesig string declar type declaringtyp string paramet type parametertyp string paramet parameternam
+class declar type class declaringtypeclass make class makeclass declar type declaringtyp lookup class loader lookupclassload
+string token stringtoken string token stringtoken paramet type parametertyp
+class paramet type class parametertypeclass make class makeclass token nexttoken lookup class loader lookupclassload
+string token stringtoken paramet parameternam
+string paramet return parameternameforreturn token nexttoken
+catch claus signatur impl catchclausesignatureimpl ret catch claus signatur impl catchclausesignatureimpl declar type class declaringtypeclass paramet type class parametertypeclass paramet return parameternameforreturn
+ret set lookup class loader setlookupclassload lookup class loader lookupclassload
+ret

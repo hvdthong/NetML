@@ -1,0 +1,9 @@
+observ valu match object vector
+target valu
+function
+org apach common math3 optim nonlinear vector
+version
+multivari vector optim multivariatevectoroptim
+target gettarget
+base multivari vector function optim
+target clone

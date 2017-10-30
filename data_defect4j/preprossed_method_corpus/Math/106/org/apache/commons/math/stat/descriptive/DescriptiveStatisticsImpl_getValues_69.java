@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript
+
+
+
+
+
+
+default implement
+link org apach common math stat descript descript statist descriptivestatist
+
+version revis date
+
+descript statist impl descriptivestatisticsimpl descript statist descriptivestatist serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript descript statist descriptivestatist valu getvalu
+
+valu getvalu
+
+copi arrai copiedarrai eda num element getnumel
+system arraycopi
+eda element getel
+
+copi arrai copiedarrai
+
+eda num element getnumel
+copi arrai copiedarrai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

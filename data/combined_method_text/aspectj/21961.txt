@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+author colyer
+match type method constructor field
+allow declar parent declar type
+member type pattern hasmembertypepattern type pattern typepattern
+type pattern typepattern parameter parameterizewith map type variabl map typevariablemap world
+member type pattern hasmembertypepattern ret member type pattern hasmembertypepattern signatur pattern signaturepattern parameter parameterizewith type variabl map typevariablemap
+ret copi locat copylocationfrom
+ret

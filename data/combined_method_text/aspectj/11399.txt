@@ -1,0 +1,32 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+sourcetypebind method check parameter aspect
+type paramet supertyp meet bound gener type
+variabl
+verifi type paramet meet bound verifyanytypeparametersmeetbound sourc type bind sourcetypebind sourc type sourcetyp
+resolv type resolvedtyp type ontyp factori eclips fromeclips sourc type sourcetyp
+type ontyp aspect isaspect
+resolv type resolvedtyp super type supertyp factori eclips fromeclips sourc type sourcetyp superclass
+check raw form isnt gener
+super type supertyp gener type isgenerictyp super type supertyp parameter type isparameterizedtyp
+type variabl typevari type variabl typevari super type supertyp type variabl gettypevari
+unresolv type unresolvedtyp type param typeparam super type supertyp type paramet gettypeparamet
+type variabl typevari type param typeparam
+type variabl typevari length
+type variabl typevari bound canbeboundto type param typeparam resolv factori world getworld
+suppli paramet violat bound
+type meet specif type paramet gener type
+string msg
+weaver messag weavermessag format
+weaver messag weavermessag violat type variabl bound violat type variabl bound
+type param typeparam
+integ
+type variabl typevari displai getdisplaynam
+super type supertyp gener type getgenerictyp getnam
+factori world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil error msg type ontyp sourc locat getsourceloc

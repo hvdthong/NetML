@@ -1,0 +1,13 @@
+org aspectj weaver loadtim definit
+pojo raw string xml sort xmlbean simpl ltw dtd
+author href mailto alex gnilux dot alexandr vasseur
+definit
+concret aspect concreteaspect string string extend string preced
+make extend set null
+extend extend length
+extend
+preced preced length
+runtim except runtimeexcept allow
+extend extend
+preced preced
+pointcut arrai list arraylist

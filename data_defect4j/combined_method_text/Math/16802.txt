@@ -1,0 +1,35 @@
+pre
+adjust squar statist
+variabl model estim intercept term
+matrix includ initi column ident equal solv normal equat
+code code matrix link decomposit qrdecomposit detail
+calcul adjust squar calculateadjustedrsquar
+calcul squar calculatersquar getx column dimens getcolumndimens
+code code code code equat solv back substitut
+calcul total sum squar calculatetotalsumofsquar getx column dimens getcolumndimens
+version
+org apach common math3 stat regress
+ssr link calcul residu sum squar calculateresidualsumofsquar sum squar residu
+multipl linear regress model
+implement ordinari squar ol estim paramet
+solv normal equat implement decomposit
+math illeg argument except mathillegalargumentexcept sampl set
+pre code code pre
+adj ssr ssto
+observ number paramet estim includ intercept
+regress coeffici code code satisfi normal equat
+row sampl observ column independ
+ol multipl linear regress olsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress
+code pre
+getx row dimens getrowdimens
+link intercept isnointercept intercept isnointercept code code
+pre code
+calcul residu sum squar calculateresidualsumofsquar
+decomposit algorithm code code matrix design matrix
+ssto link calcul total sum squar calculatetotalsumofsquar total sum squar number
+intercept isnointercept
+code link calcul squar calculatersquar code
+return adjust squar statist defin formula pre
+observ
+calcul adjust squar calculateadjustedrsquar math illeg argument except mathillegalargumentexcept
+regress estim intercept term return pre

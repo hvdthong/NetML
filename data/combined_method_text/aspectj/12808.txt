@@ -1,0 +1,16 @@
+org aspectj apach bcel classfil
+class repres type local variabl item stack
+stackmap entri
+version stackmaptyp java aclement exp
+author href mailto marku dahm berlin dahm
+stackmapentri
+stackmap
+constant
+stack map type stackmaptyp cloneabl
+dump type entri file
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+file write byte writebyt type
+index hasindex
+file write short writeshort index getindex

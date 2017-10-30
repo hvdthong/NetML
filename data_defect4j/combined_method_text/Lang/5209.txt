@@ -1,0 +1,59 @@
+pattern languag format
+intern method format
+author href mailto sbailliez apach org stephan bailliez
+buffer append str substr
+param millisecond number milli
+year
+string tostr second
+month
+second
+buffer append string tostr
+tabl border
+string buffer stringbuff buffer string buffer stringbuff
+param hour number hour
+tabl
+author apach ant date util dateutil
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr hour count '0' integ
+string tostr dai
+millisecond
+token token token
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr month count '0' integ
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr second count '0' integ
+org apach common lang3 time
+param minut number minut
+string tostr year
+output second lastoutputsecond
+version
+string str pad zero padwithzero
+token length
+string util stringutil left pad leftpad integ string tostr millisecond count '0'
+durat format util constant tabl describ token
+author apach softwar foundat
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr minut count '0' integ
+durat format util durationformatutil
+string tostr month
+string format token token year month dai hour minut second
+dai
+author href mailto ggregori seagullsw gari gregori
+param month number month
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr dai count '0' integ
+string buffer stringbuff
+param second number second
+charact durat element
+string tostr minut
+object token getvalu
+format string
+param dai number dai
+integ string tostr millisecond
+buffer string tostr
+param token token
+hour
+param year number year
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr year count '0' integ
+millisecond pad zero padwithzero
+count token count getcount
+param pad zero padwithzero pad
+author href mailto stefan bodewig epost stefan bodewig
+buffer append pad zero padwithzero
+string tostr hour
+minut

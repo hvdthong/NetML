@@ -1,0 +1,31 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener type aspect method generatepertypewithinaspectofmethod class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil aspect method aspectofmethod bodi gener bodygener
+gener code stream codestream code stream codestream
+branch label branchlabel instanc found instancefound branch label branchlabel code stream codestream
+except label exceptionlabel wrong anythinggoeswrong except label exceptionlabel code stream codestream world make type bind maketypebind unresolv type unresolvedtyp java lang except java lang except
+wrong anythinggoeswrong place start placestart
+code stream codestream aload
+code stream codestream invokestat world make method bind call makemethodbindingforcal ajc member maker ajcmembermak type instanc pertypewithingetinst type typex
+code stream codestream astor
+code stream codestream aload
+code stream codestream ifnonnul instanc found instancefound
+code stream codestream world make type bind maketypebind ajc member maker ajcmembermak aspect bound except aspect bound except
+code stream codestream dup
+code stream codestream ldc type typex getnam
+code stream codestream aconst null
+code stream codestream invokespeci world make method bind call makemethodbindingforcal ajc member maker ajcmembermak aspect bound except init2 noaspectboundexceptioninit2
+code stream codestream athrow
+instanc found instancefound place
+code stream codestream aload
+code stream codestream areturn
+wrong anythinggoeswrong place end placeend
+wrong anythinggoeswrong place
+code stream codestream astor
+code stream codestream world make type bind maketypebind ajc member maker ajcmembermak aspect bound except aspect bound except
+code stream codestream dup
+run simpl ctor nabe
+code stream codestream invokespeci world make method bind call makemethodbindingforcal ajc member maker ajcmembermak aspect bound except init noaspectboundexceptioninit
+code stream codestream athrow

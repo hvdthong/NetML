@@ -1,0 +1,9 @@
+org apach common math3 analysi solver
+rel accuraci relativeaccuraci
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+inherit doc inheritdoc
+rel accuraci getrelativeaccuraci
+provid implement function gener

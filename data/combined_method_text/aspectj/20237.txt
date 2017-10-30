@@ -1,0 +1,41 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read
+param runtimeannot
+param struct
+return true found
+handl annot handlearoundannot runtim annot runtimeannot runtim annot runtimeannot attribut method struct ajattributemethodstruct struct resolv pointcut definit resolvedpointcutdefinit pre resolv pointcut preresolvedpointcut
+annot annot getannot runtim annot runtimeannot ajc member maker ajcmembermak annot annot
+element pair elementnamevaluepair advic aroundadvic annot element getannotationel
+advic aroundadvic
+target arg bind
+string argument name argumentnam arg name getargnamesvalu
+argument name argumentnam
+struct unpars argument name unparsedargumentnam argument name argumentnam
+formal bind formalbind bind org aspectj weaver pattern formal bind formalbind
+bind extract bind extractbind struct
+unread debug info except unreadabledebuginfoexcept unread debug info except unreadabledebuginfoexcept
+scope iscop bind bind scope bindingscop
+struct enclos type enclosingtyp
+struct context
+bind
+joinpoint staticjoinpoint bind
+extra argument extraargu extract extra argument extractextraargu struct method
+pointcut
+pre resolv pointcut preresolvedpointcut
+pre resolv pointcut preresolvedpointcut pointcut getpointcut
+pars pointcut parsepointcut advic aroundadvic getvalu stringifi stringifyvalu struct
+null return fals pars error
+resolv bind
+set ignor unbound bind name setignoreunboundbindingnam bind
+sourc locat isourceloc struct context make sourc locat makesourceloc struct method bmethod declar line number getdeclarationlinenumb struct method bmethod declar offset getdeclarationoffset
+struct attribut ajattribut add
+attribut ajattribut advic attribut adviceattribut
+advic kind advicekind
+extra argument extraargu
+offset getoffset
+offset getoffset getoffset fixm avasm
+struct context

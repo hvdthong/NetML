@@ -1,0 +1,10 @@
+org aspectj apach bcel gener
+multianewarrai creat mutidimension arrai refer
+pre stack count1 count2 arrayref pre
+version multianewarrai java aclement exp
+author href mailto marku dahm berlin dahm
+multianewarrai instruct cpinstruct load class loadclass alloc instruct allocationinstruct except thrower exceptionthrow
+work instruct stack effect depend
+constant pool entri refer
+return number word consum stack instruct
+consum stack consumestack constant pool gen constantpoolgen cpg dimens

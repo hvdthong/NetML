@@ -1,0 +1,9 @@
+overrid
+repres hyperplan link line
+region euclidean1 euclidean1d remain region remainingregion
+line sublin hyperplan remain region remainingregion
+inherit doc inheritdoc
+abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d build buildnew hyperplan euclidean2 euclidean2d hyperplan
+version
+line sublin abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d
+org apach common math3 geometri euclidean twod

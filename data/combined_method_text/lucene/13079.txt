@@ -1,0 +1,14 @@
+org apach lucen index
+segment term doc segmenttermdoc term doc termdoc
+seek term info terminfo term term except ioexcept
+count
+field info fieldinfo parent core field info fieldinfo field info fieldinfo term field
+current field omit term freq posit currentfieldomittermfreqandposit omit term freq posit omittermfreqandposit
+current field store payload currentfieldstorespayload store payload storepayload
+doc freq docfreq
+doc
+freq base pointer freqbasepoint freq pointer freqpoint
+prox base pointer proxbasepoint prox pointer proxpoint
+skip pointer skippoint freq base pointer freqbasepoint skip offset skipoffset
+freq stream freqstream seek freq base pointer freqbasepoint
+skip haveskip

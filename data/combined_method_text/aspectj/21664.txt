@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+basic token basictoken token itoken
+basic token basictoken make liter makeliter string string kind start end
+basic token basictoken kind intern start end

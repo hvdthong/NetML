@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+typepattern
+bind formal explicitli forbidden composit
+wrong case
+author erik hilsdal
+author jim hugunin
+type pattern nottypepattern type pattern typepattern
+type pattern typepattern parameter parameterizewith map type variabl map typevariablemap world
+type pattern typepattern negat pattern newnegatedpattern negat pattern negatedpattern parameter parameterizewith type variabl map typevariablemap
+type pattern nottypepattern ret type pattern nottypepattern negat pattern newnegatedpattern
+ret copi locat copylocationfrom
+ret

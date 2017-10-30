@@ -1,0 +1,1018 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart render
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+render draw bar link plot xyplot requir
+link interv dataset intervalxydataset
+
+bar render xybarrender abstract item render abstractxyitemrender
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+draw visual represent singl data item
+
+param graphic devic
+param state render state
+param data area dataarea area plot drawn
+param info collect inform draw
+param plot plot obtain standard color
+inform
+param domain axi domainaxi domain axi
+param rang axi rangeaxi rang axi
+param dataset dataset
+param seri seri index base
+param item item index base
+param crosshair state crosshairst crosshair inform plot
+code code permit
+param pass pass index
+
+draw item drawitem graphics2 graphics2d
+item render state xyitemrendererst state
+rectangle2 rectangle2d data area dataarea
+plot render info plotrenderinginfo info
+plot xyplot plot
+axi valueaxi domain axi domainaxi
+axi valueaxi rang axi rangeaxi
+dataset xydataset dataset
+seri
+item
+crosshair state crosshairst crosshair state crosshairst
+pass
+
+item visibl getitemvis seri item
+
+
+interv dataset intervalxydataset interv dataset intervaldataset interv dataset intervalxydataset dataset
+
+value0
+value1
+interv useyinterv
+value0 interv dataset intervaldataset start getstartyvalu seri item
+value1 interv dataset intervaldataset end getendyvalu seri item
+
+
+value0 base
+value1 interv dataset intervaldataset getyvalu seri item
+
+doubl isnan value0 doubl isnan value1
+
+
+value0 value1
+rang axi rangeaxi rang getrang intersect value0 value1
+
+
+
+
+rang axi rangeaxi rang getrang intersect value1 value0
+
+
+
+
+translat value0 translatedvalue0 rang axi rangeaxi java2 valuetojava2d value0 data area dataarea
+plot rang axi edg getrangeaxisedg
+translat value1 translatedvalue1 rang axi rangeaxi java2 valuetojava2d value1 data area dataarea
+plot rang axi edg getrangeaxisedg
+bottom math min translat value0 translatedvalue0 translat value1 translatedvalue1
+top math max translat value0 translatedvalue0 translat value1 translatedvalue1
+
+start startx interv dataset intervaldataset start getstartxvalu seri item
+doubl isnan start startx
+
+
+end endx interv dataset intervaldataset end getendxvalu seri item
+doubl isnan end endx
+
+
+start startx end endx
+domain axi domainaxi rang getrang intersect start startx end endx
+
+
+
+
+domain axi domainaxi rang getrang intersect end endx start startx
+
+
+
+
+rectangl edg rectangleedg locat plot domain axi edg getdomainaxisedg
+translat start translatedstartx domain axi domainaxi java2 valuetojava2d start startx data area dataarea
+locat
+translat end translatedendx domain axi domainaxi java2 valuetojava2d end endx data area dataarea
+locat
+
+translat width translatedwidth math max math ab translat end translatedendx
+translat start translatedstartx
+
+margin getmargin
+cut translat width translatedwidth margin getmargin
+translat width translatedwidth translat width translatedwidth cut
+translat start translatedstartx translat start translatedstartx cut
+
+
+rectangle2 rectangle2d bar
+plot orient plotorient orient plot orient getorient
+orient plot orient plotorient horizont
+clip left bound data area
+bottom math max bottom data area dataarea min getminx
+top math min top data area dataarea max getmaxx
+bar rectangle2 rectangle2d doubl
+bottom
+math min translat start translatedstartx translat end translatedendx
+top bottom translat width translatedwidth
+
+orient plot orient plotorient vertic
+clip top bottom bound data area
+bottom math max bottom data area dataarea min getmini
+top math min top data area dataarea max getmaxi
+bar rectangle2 rectangle2d doubl
+math min translat start translatedstartx translat end translatedendx
+bottom
+translat width translatedwidth top bottom
+
+
+paint item paint itempaint item paint getitempaint seri item
+gradient paint transform getgradientpainttransform
+item paint itempaint gradient paint gradientpaint
+gradient paint gradientpaint gradient paint gradientpaint item paint itempaint
+item paint itempaint gradient paint transform getgradientpainttransform transform bar
+
+set paint setpaint item paint itempaint
+fill bar
+draw bar outlin isdrawbaroutlin
+math ab translat end translatedendx translat start translatedstartx
+stroke stroke item outlin stroke getitemoutlinestrok seri item
+paint paint item outlin paint getitemoutlinepaint seri item
+stroke paint
+set stroke setstrok stroke
+set paint setpaint paint
+draw bar
+
+
+
+item label visibl isitemlabelvis seri item
+item label gener xyitemlabelgener gener item label gener getitemlabelgener seri
+item
+draw item label drawitemlabel dataset seri item plot gener bar
+value1
+
+
+updat crosshair point
+start startx end endx
+dataset getyvalu seri item
+tran transx1 domain axi domainaxi java2 valuetojava2d data area dataarea locat
+tran transy1 rang axi rangeaxi java2 valuetojava2d data area dataarea
+plot rang axi edg getrangeaxisedg
+domain axi index domainaxisindex plot domain axi index getdomainaxisindex domain axi domainaxi
+rang axi index rangeaxisindex plot rang axi index getrangeaxisindex rang axi rangeaxi
+updat crosshair valu updatecrosshairvalu crosshair state crosshairst domain axi index domainaxisindex
+rang axi index rangeaxisindex tran transx1 tran transy1 plot orient getorient
+
+entiti collect entitycollect entiti state entiti collect getentitycollect
+entiti
+add entiti addent entiti bar dataset seri item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

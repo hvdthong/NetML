@@ -1,0 +1,26 @@
+estim standard deviat optim paramet
+comput estim standard deviat paramet
+param length
+covari matrix
+covari matrix code sqrt code
+optim provid move
+deprec class interfac deprec
+version
+sig
+org apach common math3 linear singular matrix except singularmatrixexcept
+link org apach common math3 fit leastsquar
+org apach common math3 optim nonlinear vector jacobian
+optim code paramet code
+abstract squar optim abstractleastsquaresoptim
+param param model paramet
+covari singular threshold covariancesingularitythreshold
+method error estim
+param covari singular threshold covariancesingularitythreshold singular threshold
+covari matrix comput
+sig fast math fastmath sqrt cov
+link comput covari computecovari comput covari computecovari
+return valu squar root diagon coeffici
+cov comput covari computecovari param covari singular threshold covariancesingularitythreshold
+math
+base implement squar optim
+comput sigma computesigma param

@@ -1,0 +1,21 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+string file
+cacheinus unsynchron test parallel
+thread point
+throw illegalstateexcept
+ownership cach call
+handov
+string ret string path map pathmap path getpath
+ret
+ret canon path getcanonicalpath
+except ioexcept ioex
+ret path getpath
+path map pathmap put path getpath ret
+path map pathmap size max size max size path map pathmap clear
+ret

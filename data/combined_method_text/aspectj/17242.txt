@@ -1,0 +1,11 @@
+org aspectj org eclips jdt core dom
+referencepointcut dom ast node
+note
+paramet list method invok
+author ajh02
+refer pointcut referencepointcut pointcut design pointcutdesign
+ast node astnod clone0 ast target
+refer pointcut referencepointcut result refer pointcut referencepointcut target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set setnam simpl simplenam getnam clone target
+result

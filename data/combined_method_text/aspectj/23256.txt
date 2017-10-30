@@ -1,0 +1,5 @@
+org aspectj weaver tool
+common trace commonstrac abstract trace abstracttrac
+enter string method methodnam object thiz
+log debug enabl isdebugen
+log debug format messag formatmessag class classnam method methodnam thiz

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math except
+
+
+
+
+base except rais wrong number
+intend instanti directli serv
+base creat except rais
+precondit violat number argument
+
+
+version revis date
+
+math illeg number except mathillegalnumberexcept math illeg argument except mathillegalargumentexcept
+
+
+
+
+construct except
+
+param specif localiz pattern
+param gener localiz pattern
+param argument argument element request
+rais except
+
+math illeg number except mathillegalnumberexcept localiz specif
+localiz gener
+number wrong
+object argument
+specif gener wrong argument
+argument wrong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

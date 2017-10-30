@@ -1,0 +1,30 @@
+comput discret fourier transform mathemat
+variant discret fourier transform
+vector nextvector vector list vectorlist
+comput
+vector dimens size dimensions length
+current implement discret fourier transform fast
+dimens size dimensions length
+vector dimens size dimensions
+vector list vectorlist size dimens size dimensions length
+size dimens size dimensions
+param mdcm arrai copi data
+size
+link dft normal dftnormal
+implement fast fourier transform transform dimension
+system arraycopi vector vector nextvector
+version
+dft normal dftnormal
+fourier transform requir length data set power
+vector
+greatli simplifi speed code user pad data
+org apach common math3 transform
+copi content current arrai mdcm
+normal convent paramet
+refer winograd
+real complex data set refer appli numer linear
+mdcm set vector nextvector vector nextvector
+algebra isbn chapter
+clone multi dimension complex matrix multidimensionalcomplexmatrix mdcm
+fast fourier transform fastfouriertransform serializ
+zero meet requir flavor fft

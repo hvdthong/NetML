@@ -1,0 +1,23 @@
+link java util formatt perform format variabl
+org apach common lang3 tupl
+implement defin basic api
+format string
+pair map entri compar pair serializ
+param format format string option code code
+param left element type
+string format format left getleft getright
+version
+element kei code element
+format receiv format
+link formatt perform format variabl
+restrict type store object store
+code map entri kei 'left' 'right'
+mutabl object store pair pair effect mutabl
+refer element 'left' 'right'
+format code string tostr code
+param element type
+lang
+subclass implement mutabl immut
+emb left element code left
+pair consist element
+string string tostr string format

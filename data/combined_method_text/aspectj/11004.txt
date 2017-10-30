@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil
+author colyer
+class weaver sourc class file weav
+iter iclassfileprovid interfac receiv result back
+weaver iweaverequestor interfac
+weaver adapt weaveradapt class file provid iclassfileprovid weav requestor iweaverequestor iter
+remov map removefrommap map map amap kei
+jdt char kei hashtabl equal base
+arrai content
+string skei string kei
+victim
+iter iter map amap kei set keyset iter iter hasnext
+kei thiskei iter
+skei equal string kei thiskei
+victim kei thiskei
+victim
+map amap remov victim

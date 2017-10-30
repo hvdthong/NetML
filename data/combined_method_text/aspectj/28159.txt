@@ -1,0 +1,16 @@
+ensureannotationdiscov
+return
+declareannot
+true
+pattern
+annot annot annot annot annot
+discov
+field field field
+declar declar
+allow allow allow
+ensur
+org
+weaver
+isannotationallowedonfield
+aspectj
+allowedonfield

@@ -1,0 +1,7 @@
+org aspectj ajdt intern compil ast
+walk bodi inter type declar replac superrefer intersuperrefer
+author jim hugunin
+inter super fixer visitor intersuperfixervisitor ast visitor astvisitor
+visit type declar typedeclar local type declar localtypedeclar block scope blockscop scope
+depth counter depthcount
+visit local type declar localtypedeclar scope

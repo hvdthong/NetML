@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+arg annot pointcut argsannotationpointcut bind pointcut namebindingpointcut
+build declar text builddeclarationtext
+string buffer stringbuff buf string buffer stringbuff arg
+buf append argument string tostr
+declar text declarationtext buf string tostr

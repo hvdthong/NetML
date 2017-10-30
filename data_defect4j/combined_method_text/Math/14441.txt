@@ -1,0 +1,28 @@
+pre
+rel tol reltol compon
+adapt stepsiz integr adaptivestepsizeintegr
+algorithm perform integr stepsiz control
+step reject attempt made
+main set dimens step accept
+link expand state od expandablestatefulod primari state getprimaryst primari part
+step size stepsiz fast math fastmath sqrt min step minstep max step maxstep
+state vector stepsiz control complet state vector
+version
+compon user scalar valu ab tol abstol
+reset intern state dummi valu
+sqrt sum err est errest threshold
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+org apach common math3 od nonstiff
+stepsiz integr ordinari differenti equat
+ab tol abstol absolut toler compon
+mean user integr step
+hold common part adapt
+extend od link
+toler error error threshold comput
+ordinari differenti equat link expand state od expandablestatefulod
+org apach common math3 od order differenti equat firstorderdifferentialequ basic od
+reset intern state resetinternalst
+estim error
+stepsiz
+step start stepstart doubl nan

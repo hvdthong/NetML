@@ -1,0 +1,32 @@
+pre
+org apach common math od nonstiff
+theta belong
+order rung kutta integr
+step comput interpol equat consist
+interpol comput dens output insid
+classic rung kutta step interpol classicalrungekuttastepinterpol classic rung kutta step interpol classicalrungekuttastepinterpol interpol
+copi arrai separ origin arrai
+theta theta theta
+initi case link rung kutta integr rungekuttaintegr
+theta theta
+evalu deriv comput
+version
+constructor build instanc usabl
+call instanc order initi
+theta
+param interpol interpol copi copi deep
+classic rung kutta step interpol classicalrungekuttastepinterpol
+copi
+integr scheme
+link rung kutta step interpol rungekuttastepinterpol reiniti method
+step
+intern arrai constructor order delai
+interpol clone uniniti model initi
+copi constructor
+version revis date
+simpl constructor
+prototyp design pattern creat step
+step interpol classic fourth
+instanc
+interpol
+classic rung kutta integr classicalrungekuttaintegr

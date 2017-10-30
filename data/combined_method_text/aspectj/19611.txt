@@ -1,0 +1,24 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+add pointcut resolv conflict addpointcutsresolvingconflict list acc list ad overrid isoverrid
+iter ad iter hasnext
+resolv pointcut definit resolvedpointcutdefinit add toadd
+resolv pointcut definit resolvedpointcutdefinit
+system err println ad toadd
+iter acc iter hasnext
+resolv pointcut definit resolvedpointcutdefinit exist
+resolv pointcut definit resolvedpointcutdefinit
+exist add toadd
+visibl isvis exist modifi getmodifi
+exist declar type getdeclaringtyp resolv world getworld
+conflict signatur conflictingsignatur exist add toadd
+overrid isoverrid
+check legal overrid checklegaloverrid exist add toadd
+remov
+world getworld show messag showmessag
+messag imessag error
+weaver messag weavermessag format weaver messag weavermessag conflict inherit pointcut conflict inherit pointcut getnam add toadd signatur getsignatur
+exist sourc locat getsourceloc
+add toadd sourc locat getsourceloc
+remov
+acc add add toadd

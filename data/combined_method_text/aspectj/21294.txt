@@ -1,0 +1,7 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+flush gener class cach
+flush gener class flushgeneratedclass
+system err println classloaderweavingadaptor flushgeneratedclass generatedclass generatedclass
+gener class generatedclass hash map hashmap

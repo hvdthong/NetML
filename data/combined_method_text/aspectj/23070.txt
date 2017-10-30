@@ -1,0 +1,17 @@
+org aspectj weaver reflect
+author colyer
+creat reflectionbasedreferencetypedeleg
+level run reflect avoid depend
+code base
+reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori
+reflect base refer type deleg reflectionbasedreferencetypedeleg create15 deleg create15deleg refer type referencetyp refer type forreferencetyp class class forclass class loader classload class loader usingclassload world world inworld
+class deleg class delegateclass class fornam org aspectj weaver reflect java15reflectionbasedreferencetypedeleg
+reflect base refer type deleg reflectionbasedreferencetypedeleg ret reflect base refer type deleg reflectionbasedreferencetypedeleg deleg class delegateclass instanc newinst
+ret initi refer type forreferencetyp class forclass class loader usingclassload world inworld
+ret
+class found except classnotfoundexcept cnf cnfex
+illeg state except illegalstateexcept attempt creat java reflect base deleg org aspectj weaver reflect java15reflectionbasedreferencetypedeleg found classpath
+instanti except instantiationexcept in insex
+illeg state except illegalstateexcept attempt creat java reflect base deleg instantiationexcept in insex occur
+illeg access except illegalaccessexcept ill acc illaccex
+illeg state except illegalstateexcept attempt creat java reflect base deleg illegalaccessexcept ill acc illaccex occur

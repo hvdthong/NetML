@@ -1,0 +1,11 @@
+deprec remov
+univari real solver impl univariaterealsolverimpl converg algorithm impl convergingalgorithmimpl
+link abstract univari real solver abstractunivariaterealsolv
+solver
+univari real solver impl univariaterealsolverimpl
+inherit doc inheritdoc
+set function accuraci setfunctionvalueaccuraci accuraci
+function accuraci functionvalueaccuraci accuraci
+provid implement function gener
+version revis date
+org apach common math analysi solver

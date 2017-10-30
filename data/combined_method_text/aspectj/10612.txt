@@ -1,0 +1,16 @@
+org aspectj ajd intern
+user prefer store userpreferencesstor user prefer adapt userpreferencesadapt
+load properti loadproperti string path
+lang util langutil empti isempti path
+file file file path
+file read canread
+file input stream fileinputstream
+path properti file path getpropertiesfilepath
+file input stream fileinputstream file
+properti load
+except ioexcept ioe
+messag msg messag error read properti path messag imessag error ioe
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+close
+except ioexcept
+ignor

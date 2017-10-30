@@ -1,0 +1,13 @@
+simpl constructor
+org apach common math3 analysi multivari function multivariatefunct
+hold point object function
+point
+param point point coordin
+param object function point
+data transfer object datatransferobject point
+deprec remov
+org apach common math3 optim
+version
+point vector pair pointvectorvaluepair
+point pair pointvaluepair pair doubl serializ
+point point clone

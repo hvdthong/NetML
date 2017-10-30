@@ -1,0 +1,14 @@
+org aspectj asm intern
+int kei full file path part handl
+optim full path handl provid optimizedfullpathhandleprovid element handl provid ielementhandleprovid
+string creat handl identifi createhandleidentifi sourc locat isourceloc locat
+string buffer stringbuff string buffer stringbuff
+string file asm manag asmmanag default getdefault canon file path getcanonicalfilepath locat sourc file getsourcefil
+append kei getkei file int intvalu
+append delim delim
+append locat line getlin
+append delim delim
+append locat column getcolumn
+append delim delim
+append locat offset getoffset
+string tostr

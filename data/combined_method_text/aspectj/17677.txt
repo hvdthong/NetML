@@ -1,0 +1,12 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+util render string log
+string render string arg
+arg
+string buffer stringbuff string buffer stringbuff
+arg length
+append arg
+append
+string tostr

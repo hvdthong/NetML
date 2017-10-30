@@ -1,0 +1,19 @@
+param epsilon converg criteria cumul probabilit
+param poisson
+param max iter maxiter maximum number iter cumul probabilit
+param max iter maxiter maximum number iter cumul
+creat poisson distribut converg criterion
+version revis date
+implement link poisson distribut poissondistribut
+poisson distribut impl poissondistributionimpl abstract integ distribut abstractintegerdistribut
+set setmean
+max iter maxiter max iter maxiter
+version
+normal normal distribut impl normaldistributionimpl fast math fastmath sqrt
+epsilon epsilon
+strictli posit except notstrictlypositiveexcept local format localizedformat
+poisson distribut impl poissondistributionimpl epsilon max iter maxiter
+org apach common math distribut
+param epsilon converg criterion cumul probabl
+maximum number iter
+probabl

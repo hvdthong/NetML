@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+creation type pattern wildtypepattern node bindingtyp exacttyp
+call resolvebind compil
+concret enclos pointcut call remapadviceform
+author erik hilsdal
+author jim hugunin
+type pattern typepattern pattern node patternnod
+type pattern typepattern exact type notexacttyp scope iscop
+messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag exact type pattern reqd exact type pattern reqd sourc locat getsourceloc

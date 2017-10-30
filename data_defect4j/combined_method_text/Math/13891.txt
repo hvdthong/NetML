@@ -1,0 +1,19 @@
+param row dimens rowdimens number row matrix
+creat real matrix realmatrix type instanc
+org apach common math3 except strictli posit except notstrictlypositiveexcept
+org apach common math3 linear
+creat real matrix realmatrix type instanc suppli
+suppli
+matrix element index base code entri getentri code
+row column dimens posit
+return element row column matrix
+version
+strictli posit except notstrictlypositiveexcept row column dimens
+strictli posit except notstrictlypositiveexcept
+interfac defin real valu matrix basic algebra oper
+posit
+param column dimens columndimens number column matrix
+real matrix realmatrix creat matrix creatematrix row dimens rowdimens column dimens columndimens
+row column dimens
+matrix type instanc
+real matrix realmatrix matrix anymatrix

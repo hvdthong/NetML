@@ -1,0 +1,19 @@
+org aspectj apach bcel classfil
+class repres tabl line number debug
+purpos attribut code attribut
+pair pc line number
+version linenumbert java aclement exp
+author href mailto marku dahm berlin dahm
+code
+asc feb06 made unpack lazi
+line number tabl linenumbert attribut
+dump line number tabl attribut file stream binari format
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+dump file
+pack state isinpackedst
+file write data
+file write short writeshort line number tabl length
+line number tabl length
+line number tabl dump file

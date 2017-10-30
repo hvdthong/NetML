@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+param
+param userpointcut
+rais ambigu bind error raiseambiguousbindingerror string pointcut user pointcut userpointcut
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag ambigu bind ambigu bind
+user pointcut userpointcut sourc context getsourcecontext make sourc locat makesourceloc user pointcut userpointcut

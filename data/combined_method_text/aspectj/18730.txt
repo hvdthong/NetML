@@ -1,0 +1,12 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+resolv type resolvedtyp find aspect declar parent findaspectdeclaringpar declar parent declarepar
+set kei member kei set keyset
+iter iter kei iter iter hasnext
+resolv type resolvedtyp element resolv type resolvedtyp iter
+iter crosscut member crosscuttingmemb member element declar parent getdeclarepar iter hasnext
+declar parent declarepar declar parent declarepar
+equal element

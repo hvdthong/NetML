@@ -1,0 +1,13 @@
+org aspectj util
+file util fileutil
+render set file string path absolut
+path delimit infix
+param file file flatten null empti
+param infix string delimit intern entri
+null file pathsepar
+alia code flatten getabsolutepath file infix code
+return string absolut path entri order
+delimit infix
+string flatten file file string infix
+lang util langutil empti isempti file
+flatten path getpath file infix

@@ -1,0 +1,28 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+bcel object type bcelobjecttyp add sourc object type addsourceobjecttyp java class javaclass
+bcel object type bcelobjecttyp ret
+string signatur unresolv type unresolvedtyp fornam class getclassnam signatur getsignatur
+object map fromthemap type map typemap signatur
+map fromthemap map fromthemap refer type referencetyp
+earth
+string buffer stringbuff except text exceptiontext string buffer stringbuff
+except text exceptiontext append found invalid referencetyp entri type map
+except text exceptiontext append signatur signatur found map fromthemap class map fromthemap class getclass
+except bcexcept except text exceptiontext string tostr
+refer type referencetyp type nametypex refer type referencetyp map fromthemap
+type nametypex
+gener isgener java5 mode isinjava5mod
+type nametypex refer type referencetyp type fromtypex unresolv type unresolvedtyp raw type forrawtypenam class getclassnam
+ret build bcel deleg buildbceldeleg type nametypex
+refer type referencetyp gener ref type genericreftyp refer type referencetyp
+unresolv type unresolvedtyp gener type signatur forgenerictypesignatur signatur ret declar gener signatur getdeclaredgenericsignatur
+type nametypex set deleg setdeleg ret
+gener ref type genericreftyp set deleg setdeleg ret
+type nametypex set gener type setgenerictyp gener ref type genericreftyp
+type map typemap put signatur type nametypex
+type nametypex refer type referencetyp signatur
+ret build bcel deleg buildbceldeleg type nametypex
+type map typemap put signatur type nametypex
+ret build bcel deleg buildbceldeleg type nametypex
+ret

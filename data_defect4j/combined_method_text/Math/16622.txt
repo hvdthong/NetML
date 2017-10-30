@@ -1,0 +1,71 @@
+sampl underli distribut
+comput test statist
+set
+coll sum collsum observed1 length
+independ compar frequenc count
+count sum1 countsum1
+hypothesi observ count independ
+ensur neg count
+code
+count sum1 countsum1 count sum2 countsum2
+dimens mismatch except dimensionmismatchexcept length arrai
+observed1 length
+math arrai matharrai check neg checknonneg observed2
+dimens mismatch except dimensionmismatchexcept observed1 length
+dimens mismatch except dimensionmismatchexcept observed1 length observed2 length
+observ count neg
+count sum2 countsum2
+except zeroexcept count
+sum count sum1 countsum1 count sum2 countsum2
+code observed1 code observed2 count
+code observed1 code observed2 sum frequenc
+coll sum collsum observed1 observed2
+code row sum rowsum col sum colsum row col sum code
+sampl test distribut unknown priori
+observ count specif bin
+param observed1 arrai observ frequenc count data set
+param observed2 arrai observ frequenc count data
+version
+math arrai matharrai check neg checknonneg observed1
+ensur sampl uniformli
+test gtest
+observed1 length observed2 length
+org apach common math3 stat infer
+length common length
+row sum rowsum count sum1 countsum1 count sum2 countsum2
+precondit met
+dimens mismatch except dimensionmismatchexcept posit except notpositiveexcept except zeroexcept
+count sum2 countsum2 observed2
+except zeroexcept
+comput log likelihood ratio sampl test statist
+statist genet donald mcdonald kreitman test
+href http wikipedia org wiki entropi 28inform theori
+argument arrai incid count
+implement href http wikipedia org wiki test test
+code observed2 neg
+code total sum totalsum row sum rowsum col sum colsum
+posit except notpositiveexcept entri code observed1
+code matrix row code observed1 observed2
+data set comparison gdatasetscomparison observed1 observed2
+sum entropi row sum rowsum entropi coll sum collsum entropi
+test statist
+observed1 observed2
+match common length
+statist perform test evalu
+index arrai
+implement handl unknown distribut
+except zeroexcept local format localizedformat observ count botth entri
+code total sum totalsum sum entri code
+shannon entropi random variabl form view element
+arrai code observed1 code observed2
+observed1
+observ count specif sampl
+observed2
+comput compar count sum
+statist
+strong precondit strong
+count sum1 countsum1 observed1
+code math illeg argument except mathillegalargumentexcept thrown
+provid sampl hypothesi test
+count sampl requir formula
+make length

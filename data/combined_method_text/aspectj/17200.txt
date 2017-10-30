@@ -1,0 +1,8 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+pointcutdesign call 'body'
+author ajh02
+object perobject pointcut design pointcutdesign
+pointcut design pointcutdesign bodi getbodi
+bodi

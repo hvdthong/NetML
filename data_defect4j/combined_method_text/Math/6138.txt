@@ -1,0 +1,34 @@
+pre
+initi step size initialsteps min step minstep initi step size initialsteps max step maxstep
+rel tol reltol compon
+param initi step size initialsteps initi step size posit
+algorithm perform integr stepsiz control
+step reject attempt made
+start initi step size estim
+org apach common math od
+set initi step size
+step size let integr guess
+min max step interv lead integr
+method user initi posit
+compon user scalar valu ab tol abstol
+state vector dimens step accept
+method call integr
+sqrt sum err est errest threshold
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+initi step initialstep initi step size initialsteps
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+version revis date
+initi step initialstep
+mean user integr step
+estim error
+set initi step size setinitialsteps initi step size initialsteps
+stepsiz
+integr
+ignor comput initi step size
+backward integr provid neg
+ab tol abstol absolut toler compon

@@ -1,0 +1,15 @@
+org aspectj org eclips jdt core dom
+declarewarningdeclar dom ast node
+declaredeclar
+pointcutdesign call 'pointcut'
+stringliter call 'message'
+declar warn declar declarewarningdeclar declar declar declaredeclar
+accept0 ast visitor astvisitor visitor
+visitor ast visitor ajastvisitor
+visit children visitchildren ast visitor ajastvisitor visitor visit
+visit children visitchildren
+visit children normal left read order
+accept child acceptchild visitor javadoc getjavadoc
+accept child acceptchild visitor pointcut getpointcut
+accept child acceptchild visitor messag getmessag
+ast visitor ajastvisitor visitor end visit endvisit

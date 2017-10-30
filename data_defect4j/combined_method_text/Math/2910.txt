@@ -1,0 +1,137 @@
+addit vector rotat appli
+compos composit oper code
+entiti matric ax angl cardan euler angl
+code rotat code instanc constructor
+mx12 x02 x12 x22
+mx01 x01 x11 x21
+mx11 x01 x11 x21
+x20 x20 mx00 x21 mx10 x22 mx20
+sight direct topocentr frame
+local format localizedformat unabl orthogonol matrix
+locat earth rotat essenti applic
+corr11
+corr10
+param initi matrix orthogon
+angl rotat matrix angl getangl rotat order rotationord xyz
+perfect orthogon 3x3 matrix
+x01
+x00
+code comput transform direct computetransformeddirect code simpler gener
+set vector imag
+matrix set cardan angl
+mx10 x00 x10 x20
+x12 x10 mx02 x11 mx12 x12 mx22
+underli represent built
+param threshold converg threshold iter
+method link appli applyto rotat appli applyto rotat
+rotat implicitli defin relat frame
+orthogon matrix close
+approach combin telescop
+x21
+iter
+org apach common math geometri
+x10
+x11
+x12
+corr10 corr10 corr11 corr11 corr12 corr12
+focu orient rotat
+prepar iter
+sight direct topocentr frame impli
+rotat basic vectori oper rotat
+rotat matrix except notarotationmatrixexcept unabl orthogon matrix
+direct telescop point object interest
+provid method code project vector destin frame projectvectorintodestinationfram code
+fn1
+represent retriev
+code mean vector code code
+version revis date
+mx21 x01 x11 x21
+telescop control applic rotat
+exampl show rotat user
+approach
+x20
+fn1 corr00 corr00 corr01 corr01 corr02 corr02
+x22
+object
+fast math fastmath ab fn1 threshold
+user build rotat represent
+represent convert rotat
+x22 x20 mx02 x21 mx12 x22 mx22
+link appli invers applyinverseto rotat appli invers applyinverseto rotat
+x02 x00 mx02 x01 mx12 x02 mx22
+transform dimension link vector3 vector3d vector
+mean vector vari semant rotat
+orthogon threshold iter
+method link appli applyto vector3 vector3d appli applyto vector3 vector3d link
+correct element
+corr20 corr20 corr21 corr21 corr22 corr22
+frobeniu norm correct
+iter correct
+frame observ direct inerti frame take account observatori
+rotat repres mathemat
+push user specif definit
+frame chang rotat transform coordin vector inerti
+mx02 x02 x12 x22
+transform observ direct topocentr
+spacecraft attitud simul tool user
+correct threshold
+singl line code
+mx20 x00 x10 x20
+code code rotat
+corr12
+rotat matrix except notarotationmatrixexcept
+except rotat matrix except notarotationmatrixexcept matrix
+x00 x00 mx00 x01 mx10 x02 mx20
+orthogon correct converg reach
+mx00 x00 x10 x20
+getter addit rotat built implicit
+vector fix earth direct
+x01 x00 mx01 x01 mx11 x02 mx21
+rotat transform directionf rest topocentr frame
+x02
+frame fix vector move
+rotat implicit defin relat frame
+unabl orthogon matrix iter
+differ step frobeniu norm
+quaternion present higher level abstract
+corr22
+corr20
+corr21
+vector3 vector3d
+pre
+x10 x10 mx00 x11 mx10 x12 mx20
+rotat previou notat
+dimension link vector3 vector3d vector depend applic
+version rotat java 39z luc
+transform sight direct rest desir observ
+string
+curiou quaternion intern represent
+rotat serializ
+x11 x10 mx01 x11 mx11 x12 mx21
+integ string tostr
+observ direct inerti frame take account observatori
+appli invers applyinverseto vector3 vector3d appli invers applyinverseto vector3 vector3d
+transform observ direct topocentr frame
+mx22 x02 x12 x22
+intern represent rotat oper basic
+rotat order rotationord
+math ab fn1 threshold
+impli convert
+locat earth rotat
+converg test
+user orient hide implement detail
+rotat dimension space
+algorithm converg iter
+followong singl line code
+rotat guarante immut object
+rotat transform direct rest topocentr frame
+corr00
+corr01
+corr02
+rotat transform coordin coordin vector inerti
+frame coordin vector satellit frame
+code code purpos
+getter addit rotat built implicitli
+x21 x20 mx01 x21 mx11 x22 mx21
+appli code code code code result
+orthogon matrix orthogonalizematrix threshold

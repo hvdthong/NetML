@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil ast
+pointcut design pointcutdesign ast node astnod
+pointcut design pointcutdesign parser parser pseudo token pseudotoken token
+sourc start sourcestart token sourc start sourcestart
+sourc end sourceend token sourc end sourceend
+token token
+pointcut token pars pointcut parsepointcut parser
+string tostr equal tostr equal good signal
+error iserror
+pointcut

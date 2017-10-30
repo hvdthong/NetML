@@ -1,0 +1,16 @@
+pre
+euler integr eulerintegr
+version midpoint integr midpointintegr java 39z luc
+midpoint step interpol midpointstepinterpol step
+order rung kutta integr
+midpoint integr midpointintegr step
+build midpoint integr step
+midpoint integr midpointintegr
+ordinari differenti equat
+method explicit rung kutta method butcher arrai
+simpl constructor
+classic rung kutta integr classicalrungekuttaintegr
+gill integr gillintegr
+org apach common math od
+param step integr step
+version revis date

@@ -1,0 +1,32 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi arg var initializeargvar
+arg var argvar
+instruct factori instructionfactori fact factori getfactori
+len arg count getargcount
+arg var argvar bcel var bcelvar len
+posit offset positionoffset target hastarget
+hasthi kind getkind target istargetsameasthi
+kind getkind arg stack argsonstack
+move backward pop stack
+len
+unresolv type unresolvedtyp type arg type getargtyp
+bcel var bcelvar tmp gen temp var gentempvar type ajc arg
+rang insert tmp creat store createstor factori getfactori rang outsidebefor
+posit
+posit posit offset positionoffset
+tmp set posit state setpositioninaroundst posit
+arg var argvar tmp
+index
+arg0 hold arg0holdsthi index
+len
+unresolv type unresolvedtyp type arg type getargtyp
+bcel var bcelvar tmp gen temp var gentempvar type ajc arg
+rang insert tmp creat copi createcopyfrom fact index rang outsidebefor
+arg var argvar tmp
+posit
+posit posit offset positionoffset
+system println set posit tmp posit
+system println hasthi hasthi hastarget hastarget
+tmp set posit state setpositioninaroundst posit
+index type size getsiz

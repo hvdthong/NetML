@@ -1,0 +1,12 @@
+author stephen colebourn
+defin durat time queri modifi datetim field
+param index field index
+set setvalu index
+read writabl period readwritableperiod readabl period readableperiod
+set field index
+implement mutabl
+index bound except indexoutofboundsexcept index invalid
+org joda time
+provid advanc method
+author brian neill o'neil
+param field

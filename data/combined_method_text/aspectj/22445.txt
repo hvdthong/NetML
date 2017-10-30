@@ -1,0 +1,39 @@
+org aspectj weaver pattern
+pattern parser patternpars
+signatur pattern signaturepattern pars method constructor signatur pattern parsemethodorconstructorsignaturepattern
+start po startpo token sourc tokensourc peek start getstart
+annot type pattern annotationtypepattern annot pattern annotationpattern pars annot pattern maybeparseannotationpattern
+modifi pattern modifierspattern modifi pars modifi pattern parsemodifierspattern
+type pattern typepattern return type returntyp pars type pattern parsetypepattern
+type pattern typepattern declar type declaringtyp
+pattern namepattern
+member kind kind
+check 'new'
+eat maybeeatnew return type returntyp
+kind member constructor
+return type returntyp string tostr length
+declar type declaringtyp type pattern typepattern
+declar type declaringtyp return type returntyp
+return type returntyp type pattern typepattern
+pattern namepattern
+kind member method
+token itoken token nametoken token sourc tokensourc peek
+declar type declaringtyp pars type pattern parsetypepattern
+eat maybeeat
+token nametoken token sourc tokensourc peek
+pars pattern parsenamepattern
+extract trytoextractnam declar type declaringtyp
+declar type declaringtyp string tostr equal
+declar type declaringtyp type pattern typepattern
+parser except parserexcept pattern token sourc tokensourc peek
+string simpl simplenam simpl maybegetsimplenam
+xxx add check java keyword
+simpl simplenam simpl simplenam equal
+parser except parserexcept method constructor
+token nametoken
+type pattern list typepatternlist paramet type parametertyp pars argument pattern parseargumentspattern
+throw pattern throwspattern throw pattern throwspattern pars option throw pattern parseoptionalthrowspattern
+signatur pattern signaturepattern ret signatur pattern signaturepattern kind modifi return type returntyp declar type declaringtyp paramet type parametertyp throw pattern throwspattern annot pattern annotationpattern
+end po endpo token sourc tokensourc peek end getend
+ret set locat setloc sourc context sourcecontext start po startpo end po endpo
+ret

@@ -1,0 +1,22 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+sourc locat isourceloc sourc locat getsourceloc
+sourc line sourcelin sourc line getsourcelin
+sourc line sourcelin sourc line sourcelin
+thread currentthread dumpstack
+system err println rang
+enclos class getenclosingclass type gettyp sourc locat getsourceloc
+staticiniti nice offset build sourc loc
+kind getkind shadow static initi staticiniti enclos class getenclosingclass type gettyp sourc locat getsourceloc offset getoffset
+enclos class getenclosingclass type gettyp sourc locat getsourceloc
+offset
+kind kind kind getkind
+kind method execut methodexecut
+kind constructor execut constructorexecut
+kind advic execut adviceexecut
+kind static initi staticiniti
+kind pre initi preiniti
+kind initi
+enclos method getenclosingmethod declar line number info hasdeclaredlinenumberinfo
+offset enclos method getenclosingmethod declar offset getdeclarationoffset
+enclos class getenclosingclass type gettyp sourc context getsourcecontext make sourc locat makesourceloc sourc line sourcelin offset

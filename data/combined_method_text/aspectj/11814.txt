@@ -1,0 +1,17 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+set path setinpath list dir jar dirsorjar
+path inpath dir jar dirsorjar
+rememb class file directori inpath
+binari file binaryfil arrai list arraylist
+file filter filefilt filter file filter filefilt
+accept file pathnam
+pathnam path getpath end endswith class
+iter iter dir jar dirsorjar iter iter hasnext
+file inpath element inpathel file iter
+inpath element inpathel directori isdirectori
+file file file util fileutil list file listfil inpath element inpathel filter
+file length
+binari file binaryfil add binari sourc file binarysourcefil inpath element inpathel file

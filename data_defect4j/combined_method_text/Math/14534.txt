@@ -1,0 +1,19 @@
+simpl constructor
+embed rung kutta integr embeddedrungekuttaintegr
+version
+instanc order initi intern arrai
+pattern creat step interpol clone
+constructor order delai initi
+rung kutta step interpol rungekuttastepinterpol
+case link rung kutta integr rungekuttaintegr link
+repres interpol step
+org apach common math3 od nonstiff
+od integr rung kutta embed rung kutta integr
+rung kutta integr rungekuttaintegr
+constructor build instanc usabl
+embed rung kutta integr embeddedrungekuttaintegr class prototyp design
+previou state previousst
+link reiniti method call
+dot ydotk
+uniniti model initi copi
+integr

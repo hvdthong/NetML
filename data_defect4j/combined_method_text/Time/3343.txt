@@ -1,0 +1,9 @@
+placehold implement datetim field support
+deleg durat field
+org joda time field
+durat field getdurationfield differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+unsupport oper except unsupportedoperationexcept durat unsupport
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+author brian neill o'neil
+unsupport date time field unsupporteddatetimefield date time field datetimefield serializ
+unsupport date time field unsupporteddatetimefield thread safe immut

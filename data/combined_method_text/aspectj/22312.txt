@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+object visit throw pattern throwspattern node object data
+node throw pattern throwspattern
+append throw
+node requir getrequir accept data
+node forbidden getforbidden size
+hack throw pars
+throw forbidden inthrowsforbidden
+node forbidden getforbidden accept data
+throw forbidden inthrowsforbidden

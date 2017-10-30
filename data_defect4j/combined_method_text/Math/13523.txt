@@ -1,0 +1,61 @@
+pre
+call link real matrix realmatrix argument implement
+block complex eigenvalu lambda block
+invers depend condit
+entri getentri tmp col tmpcol
+time matric
+row dimens getrowdimens
+link getd diagon imaginari valu return
+link eigenvector geteigenvector eigenvector geteigenvector method pick singl
+array2 row real matrix array2drowrealmatrix
+data vdata
+real matrix realmatrix solv real matrix realmatrix
+wilkinson implicit algorithm wilksinson reinsch
+comput real real eigenvalu realeigenvalu impli matrix return
+matrix badli condit singular valid equat
+librari
+symmetr eigenvalu matrix block diagon real eigenvalu
+eigen decomposit eigendecomposit
+link determin getdetermin determin getdetermin method ad
+matrix
+href http wikipedia org wiki eigendecomposit matrix wikipedia
+upper part matrix part diagon access
+dimens mismatch except dimensionmismatchexcept row dimens getrowdimens
+multipli transpos equal ident matrix
+support strong symmetr strong matric
+link real eigenvalu getrealeigenvalu real eigenvalu getrealeigenvalu link imag eigenvalu getimageigenvalu
+version
+arrai real vector arrayrealvector eigenvector
+support gener real matric symmetr symmetr
+inherit doc inheritdoc
+eigenvector ad
+time time
+calcul eigen decomposit real matrix
+singular matrix except singularmatrixexcept
+handbook automat comput vol linear algebra springer verlag
+link imag eigenvalu getimageigenvalu link imag eigenvalu getimageigenvalu
+data vdata data ref getdataref
+matrix orthogon multipli multipli transpos
+implement base paper drubrul martin
+eigen decomposit matrix set matric
+real eigenvalu realeigenvalu
+calcul eigen decomposit real strong symmetr strong
+york
+column repres eigenvector sens
+tmp col tmpcol
+multipli equal multipli
+tmp col tmpcol entri getentri
+real eigenvalu realeigenvalu length
+org apach common math3 linear
+similar spirit code eigenvalu decomposit eigenvaluedecomposit code
+href http math nist gov javanumer jama jama
+symmetr eigenvalu matrix diagon eigenvector
+imag eigenvalu getimageigenvalu method pick singl eigenvalu ad
+col ncolb
+singular isnonsingular
+link solver getsolv solver getsolv method ad
+chang concret
+href http mathworld wolfram eigen decomposit eigendecomposit html math world mathworld
+col ncolb column dimens getcolumndimens
+link getvt getvt method ad
+lambda

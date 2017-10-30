@@ -1,0 +1,14 @@
+org apach lucen analysi tokenattribut
+term text token
+term attribut impl termattributeimpl attribut impl attributeimpl term attribut termattribut cloneabl serializ
+set number valid charact length term
+termbuff arrai truncat termbuff
+synchron extern manipul termbuff
+note grow size arrai
+link resizetermbuff int
+param length truncat length
+set term length settermlength length
+init term buffer inittermbuff
+length term buffer termbuff length
+illeg argument except illegalargumentexcept length length exce size termbuff term buffer termbuff length
+term length termlength length

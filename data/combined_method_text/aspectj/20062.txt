@@ -1,0 +1,5 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+list declar soft getdeclaresoft
+crosscut member set crosscuttingmembersset declar soft getdeclaresoft

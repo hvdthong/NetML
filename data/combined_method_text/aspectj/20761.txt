@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+param infil file path class directori zip jar class archiv
+throw ioexcept
+add librari jar file addlibraryjarfil file file infil except ioexcept
+list ad aspect addedaspect
+file infil directori isdirectori
+ad aspect addedaspect add aspect directori addaspectsfromdirectori file infil
+ad aspect addedaspect add aspect jar file addaspectsfromjarfil file infil
+iter ad aspect addedaspect iter hasnext
+resolv type resolvedtyp aspect aspectx resolv type resolvedtyp
+xcut set xcutset add replac aspect addorreplaceaspect aspect aspectx

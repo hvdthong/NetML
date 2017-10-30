@@ -1,0 +1,10 @@
+org apach common math3 fraction
+return complex format current local
+complex format
+improp instanc getimproperinst local default getdefault
+big fraction format bigfractionformat improp instanc getimproperinst
+big fraction format bigfractionformat abstract format abstractformat serializ
+number format number numer
+version
+denomin configur
+format big fraction bigfract number proper format improp format

@@ -1,0 +1,28 @@
+comput contract simplex
+point
+except cost except costexcept function evalu
+cost except costexcept
+reflect cost reflectedcost origin cost originalcost
+multi direct direct search method
+origin cost originalcost origin cost
+comput expand simplex
+multi direct multidirect
+version multi direct multidirect java 39z luc
+nelder mead neldermead
+point cost pair pointcostpair origin simplex
+reflect cost reflectedcost evalu simplex evaluatenewsimplex origin
+version revis date
+iter simplex iteratesimplex
+point cost pair pointcostpair reflect simplex
+origin cost originalcost origin cost getcost
+reflect cost reflectedcost expand cost expandedcost
+contract cost contractedcost origin cost originalcost
+simplex reflect
+contract cost contractedcost evalu simplex evaluatenewsimplex origin gamma
+save origin vertex
+org apach common math optim
+comput simplex algorithm
+accept reflect simplex
+expand cost expandedcost evalu simplex evaluatenewsimplex origin khi
+accept contract simplex
+perform reflect step

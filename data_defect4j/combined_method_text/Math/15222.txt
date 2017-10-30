@@ -1,0 +1,44 @@
+lambda input sigma inputsigma default maxiter default stopfit
+inform refer link
+version
+implement translat adapt matlab version
+cmae optim cmaesoptim lambda input sigma inputsigma
+org apach common math3 optim direct
+appli deriv base method quasi newton bfg
+deprec
+quasi newton method cma learn appli variabl metric
+pass call link optim multivari function multivariatefunct goal type goaltyp optim data optimizationdata
+linear convex smooth global function minim
+deprec version paramet code lambda code input sigma inputsigma
+href http www lri hansen cmaesintro html introduct cma
+param input sigma inputsigma initi standard deviat sampl point
+conjug gradient fail due rug search landscap nois local
+direct search method nelder mead faster
+href http www lri hansen cmae matlab code
+badli condit problem observ advantag cma compar
+default checkfeasablecount default randomgener
+default isactivecma default diagonalonli
+param input sigma inputsigma initi search volum sigma offspr object variabl
+deprec remov
+param lambda popul size
+cma evolut strategi cma reliabl stochast optim method
+optim
+math math function evalu difficult problem complet
+implement activ covari matrix adapt evolut strategi cma
+initi guess
+cmae optim cmaesoptim
+gener smooth object function cma roughli ten time
+underli search space unlik quasi newton method
+slower bfg count object function evalu gradient provid
+optima outlier object function
+reliabl cma
+reliabl term find good close optim solut
+math math math math
+convent evolut strategi
+function evalu
+optim singl run expect roughli
+math math variabl deriv free simplex
+cma algorithm implement modul code cmae version
+cma suit separ
+href http wikipedia org wiki cma wikipedia
+cma estim gradient make consider

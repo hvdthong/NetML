@@ -1,0 +1,9 @@
+org aspectj weaver
+shadow
+pcd match
+hasthi
+kind getkind neverhasthi
+kind getkind enclos kind isenclosingkind
+signatur getsignatur static isstat
+enclos shadow enclosingshadow
+enclos shadow enclosingshadow hasthi

@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+write data output stream dataoutputstream except ioexcept
+write byte writebyt declar annot
+write int writeint kind
+write utf writeutf annot string annotationstr
+write utf writeutf annot method annotationmethod
+type pattern typepattern type pattern typepattern write
+sig pattern sigpattern sig pattern sigpattern write
+write locat writeloc

@@ -1,0 +1,9 @@
+row dimens rowdimens
+version
+cov matrix covmatrix storeless bivari covari storelessbivariatecovari bia correct biascorrect
+store memori
+col dimens coldimens
+storeless covari storelesscovari covari
+covari implement requir input data
+initi matrix initializematrix
+org apach common math stat correl

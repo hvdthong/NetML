@@ -1,0 +1,14 @@
+dim
+weight matrix residu model observ
+weight weight
+weight matrix weightmatrix set entri setentri weight
+org apach common math3 optim
+version
+weight matrix weightmatrix array2 row real matrix array2drowrealmatrix dim dim
+weight optim data optimizationdata
+immut
+param weight list valu diagon
+deprec remov
+weight matrix weightmatrix diagon matrix diagonalmatrix weight
+creat diagon weight matrix
+dim weight length

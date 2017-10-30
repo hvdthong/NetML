@@ -1,0 +1,20 @@
+org apach common math3 analysi solver
+bracket except nobracketingexcept
+endpoint
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+upper
+function sign endpoint
+verifi bracket verifybracket lower
+param lower lower endpoint
+univari solver util univariatesolverutil verifi bracket verifybracket function lower upper
+bracket except nobracketingexcept function sign
+null argument except nullargumentexcept function set
+provid implement function gener
+org apach common math3 except bracket except nobracketingexcept
+check endpoint interv function take
+param upper upper endpoint
+opposit sign endpoint
+null argument except nullargumentexcept

@@ -1,0 +1,12 @@
+author stephen colebourn
+add year number year period
+defin durat time queri modifi datetim field
+param year number year
+read writabl period readwritableperiod readabl period readableperiod
+implement mutabl
+add year addyear year
+arithmet except arithmeticexcept addit exce capac period
+org joda time
+provid advanc method
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support

@@ -1,0 +1,28 @@
+root find algorithm detect state event
+param converg converg threshold event time search
+converg max iter count maxiterationcount
+link univari real solver univariaterealsolv
+function check interv prevent miss sign
+org apach common math od
+add event handler integr
+max iter count maxiterationcount
+defin common part share integr
+integr step larg
+param handler event handler
+od integr odeintegr serializ
+version
+add event handler addeventhandl event handler eventhandl handler
+version revis date
+max check interv maxcheckinterv
+od integr odeintegr
+param max iter count maxiterationcount upper limit iter count
+param max check interv maxcheckinterv maxim time interv switch
+add event handler addeventhandl event handler eventhandl handler max check interv maxcheckinterv
+absolut accuraci equal converg threshold
+order integr firstorderintegr
+order integr secondorderintegr
+order differenti equat
+converg
+clear event handler cleareventhandl
+event handler geteventhandl
+event time search

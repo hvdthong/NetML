@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common lang3 text translat
+
+
+
+
+
+translat codepoint unicod escap
+
+author apach softwar foundat
+
+version
+
+unicod escap unicodeescap code point translat codepointtransl
+
+
+
+
+
+
+
+
+
+
+
+
+
+construct code unicod escap unicodeescap code rang
+underli method constructor builder code code
+code code boundari inclus code code
+code code exclus code code
+
+param repres lowest codepoint boundari
+param repres highest codepoint boundari
+param escap boundari
+
+unicod escap unicodeescap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

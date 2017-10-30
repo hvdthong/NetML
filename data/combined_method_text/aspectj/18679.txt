@@ -1,0 +1,15 @@
+org aspectj weaver
+boundedreferencetyp result gener wildcard express
+extend string super foo
+signatur bound refer type gener signatur
+specif section jvm spec signatur string
+bound type variabl super
+bound refer type boundedreferencetyp refer type referencetyp
+match alwaysmatch resolv type resolvedtyp candid type acandidatetyp
+extend isextend
+acandidatetyp subtyp upperbound
+refer type referencetyp upper bound getupperbound assign isassignablefrom candid type acandidatetyp
+super issup
+acandidatetyp supertyp lowerbound
+candid type acandidatetyp assign isassignablefrom refer type referencetyp lower bound getlowerbound
+return true straight

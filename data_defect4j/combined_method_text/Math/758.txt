@@ -1,0 +1,9 @@
+interfac univari real integr algorithm
+org apach common math analysi integr
+reset lower limit number iter
+reset minim iter count resetminimaliterationcount
+set minim iter count setminimaliterationcount
+univari real integr univariaterealintegr
+version revis date
+univari real integr univariaterealintegr converg algorithm convergingalgorithm
+suppli implement

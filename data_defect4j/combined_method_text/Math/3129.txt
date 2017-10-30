@@ -1,0 +1,32 @@
+param plane2 plane2
+a23
+plane1 geti
+plane3 getx
+plane3 getz
+plane3 origin offset originoffset
+plane1 getz
+plane1 getx
+plane3 geti
+b23
+plane2 origin offset originoffset
+param plane3 plane2
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+feasibl 3x3 system
+version
+intersect point plane plane parallel
+param plane1 plane1
+determin a23 b23 c23
+repres plane dimension space
+direct cramer resolut linear system
+c23
+org apach common math geometri euclidean threed
+vector3 vector3d
+intersect point plane
+fast math fastmath ab determin
+plane2 getz
+plane2 getx
+coeffici plane linear equat
+determin
+plane1 origin offset originoffset
+vector3 vector3d intersect plane plane1 plane plane2 plane plane3
+plane2 geti

@@ -1,0 +1,11 @@
+appli coeff
+interpol
+org apach common math3 analysi interpol
+spline function
+bicub spline function bicubicsplinefunct
+param power coordin
+param coeff spline coeffici
+version
+result
+comput bicub polynomi
+result coeff

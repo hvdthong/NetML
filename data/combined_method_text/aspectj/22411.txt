@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+pattern parser patternpars
+string pars simpl type variabl list maybeparsesimpletypevariablelist
+eat maybeeat
+list type var name typevarnam arrai list arraylist
+type var name typevarnam add pars identifi parseidentifi
+eat maybeeat
+eat
+string tv string type var name typevarnam size
+type var name typevarnam arrai toarrai tv
+tv

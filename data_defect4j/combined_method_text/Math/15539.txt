@@ -1,0 +1,29 @@
+version
+order perform rel check absolut toler
+max iter maxit
+link org apach common math3 optim converg checker convergencecheck
+link converg univari point pair univariatepointvaluepair univari point pair univariatepointvaluepair
+strictli posit except notstrictlypositiveexcept max iter maxit
+simpl univari checker simpleunivariatevaluecheck rel threshold relativethreshold
+param rel threshold relativethreshold rel toler threshold
+check rel toler set neg
+function valu smaller threshold
+strictli posit except notstrictlypositiveexcept code max iter maxit
+simpl univari checker simpleunivariatevaluecheck
+set neg order perform absolut
+simpl implement
+max iter count maxiterationcount max iter maxit
+object function valu
+build instanc threshold
+converg method code number iter
+param absolut threshold absolutethreshold absolut toler threshold
+set link simpl univari checker simpleunivariatevaluecheck
+org apach common math3 optim univari
+converg consid reach rel
+deprec remov
+threshold absolut differ object
+param max iter maxit maximum iter count
+rel threshold relativethreshold absolut threshold absolutethreshold
+absolut threshold absolutethreshold
+differ object function valu smaller
+constructor

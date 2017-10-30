@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pattern parser patternpars
+eat identifi eatidentifi string expect expectedvalu
+token itoken token sourc tokensourc
+string getstr equal expect expectedvalu
+parser except parserexcept expect expectedvalu

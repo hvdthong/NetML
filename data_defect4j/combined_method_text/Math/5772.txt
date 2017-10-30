@@ -1,0 +1,10 @@
+distanc getl1dist real vector realvector illeg argument except illegalargumentexcept
+spars real vector sparserealvector
+org apach common math linear
+inherit doc inheritdoc
+check vector dimens checkvectordimens dimens getdimens
+spars real vector sparserealvector real vector realvector
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+distanc getl1dist spars real vector sparserealvector
+distanc getl1dist data getdata

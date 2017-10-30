@@ -1,0 +1,21 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+join point visitor thisjoinpointvisitor ast visitor astvisitor
+visit messag send messagesend call block scope blockscop scope
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext optim join point call optim join point call call selector
+express receiv call receiv
+ref isref receiv join point dec thisjoinpointdec
+treat static cantreatasstat string call selector
+replac effect static ref replaceeffectivelystaticref
+replac effect static ref replaceeffectivelystaticref call
+system err println static reg
+effect static ref haseffectivelystaticref
+call argument
+argument length argumentslength call argument length
+argument length argumentslength
+call argument travers scope
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+ret visit call scope
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+ret

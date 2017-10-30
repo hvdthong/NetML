@@ -1,0 +1,11 @@
+org aspectj tool ajbrows
+bare bone editor implement framework
+standalon
+author mik kersten
+basic editor basiceditor editor adapt editoradapt
+past caret po pastetocaretpo string text
+curr highlight end currhighlightend
+string content editor pane editorpan text gettext
+string past content substr curr highlight end currhighlightend
+text content substr curr highlight end currhighlightend content length
+editor pane editorpan set text settext past

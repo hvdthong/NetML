@@ -1,0 +1,6 @@
+org aspectj weaver
+type target type munger pertypewithintargettypemung resolv type munger resolvedtypemung
+type target type munger pertypewithintargettypemung unresolv type unresolvedtyp aspect type aspecttyp type pertypewithin test pointcut testpointcut
+type interfac pertypewithininterfac
+aspect type aspecttyp aspect type aspecttyp
+test pointcut testpointcut test pointcut testpointcut

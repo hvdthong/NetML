@@ -1,0 +1,25 @@
+overrid
+variant discret fourier transform
+comput
+current implement discret fourier transform fast
+inherit doc inheritdoc
+multi dimension complex matrix multidimensionalcomplexmatrix mdcm
+clone mdcm
+complex dimens size dimensions
+zero meet requir flavor fft
+link dft normal dftnormal
+implement fast fourier transform transform dimension
+version
+dft normal dftnormal
+fourier transform requir length data set power
+greatli simplifi speed code user pad data
+org apach common math3 transform
+object clone
+normal convent paramet
+refer winograd
+multi dimension complex matrix multidimensionalcomplexmatrix arrai instanc newinst
+real complex data set refer appli numer linear
+algebra isbn chapter
+mdcm
+fast fourier transform fastfouriertransform serializ
+comput discret fourier transform mathemat

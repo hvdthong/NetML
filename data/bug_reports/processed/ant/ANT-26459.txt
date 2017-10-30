@@ -1,0 +1,21 @@
+sql task sqlexec class row delimiter correctly
+
+sql task option keepformat prevent sql statements lines
+spaces trimed
+prevent ant seing row delimiter found
+entire line equals delimiter
+write options delimiter set go
+delimitertype set row keepformat set true
+select
+
+put spaces go statement trigger
+sending select statement database
+simple solution changing source code sqlexec class replace
+lines method runstatements
+delimitertype equals delimitertype row
+line equals delimiter
+
+delimitertype equals delimitertype row
+line trim equals delimiter
+
+matthieu recouly

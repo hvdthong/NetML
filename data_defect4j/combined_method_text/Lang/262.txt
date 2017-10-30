@@ -1,0 +1,16 @@
+char set charset
+author stephen colebourn
+char set util charsetutil instanc construct standard program
+oper code char set charset code
+oper
+code char set util charsetutil evalu set evaluateset code
+author gari gregori
+author phil steitz
+handl code code input gracefulli
+version
+author href bayard generationjava henri yandel
+except thrown code code input
+char set util charsetutil
+constructor permit tool requir java bean javabean instanc
+method document behaviour detail
+org apach common lang

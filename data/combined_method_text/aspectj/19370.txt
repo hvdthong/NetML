@@ -1,0 +1,58 @@
+org aspectj weaver
+refer type repres 'real' type primit arrai
+real type java util list referencetyp deleg
+underli artifact eclips artifact
+bcel artifact type repres raw type
+gener form generictyp field set point
+gener type parameter type gener type
+set point gener form
+refer type referencetyp resolv type resolvedtyp
+assign isassignablefrom resolv type resolvedtyp miss allowmiss
+primit type isprimitivetyp
+world java5 mode isinjava5mod
+resolv type resolvedtyp valid box validbox signatur getsignatur signatur getsignatur
+signatur getsignatur equal resolv type resolvedtyp object signatur getsignatur
+raw type israwtyp gener type isgenerictyp parameter type isparameterizedtyp
+assign isassignablefrom resolv type resolvedtyp raw type getrawtyp
+raw type israwtyp gener type isgenerictyp
+assign isassignablefrom resolv type resolvedtyp raw type getrawtyp
+gener type isgenerictyp raw type israwtyp
+assign isassignablefrom resolv type resolvedtyp gener type getgenerictyp
+parameter type isparameterizedtyp
+wildcard
+refer type referencetyp raw type getrawtyp assign isassignablefrom
+wildcard wildcardsallthewai
+resolv type resolvedtyp paramet myparamet resolv type paramet getresolvedtypeparamet
+paramet myparamet length
+paramet myparamet gener wildcard isgenericwildcard
+wildcard wildcardsallthewai
+paramet myparamet extend isextend paramet myparamet super issup
+wildcard wildcardsallthewai
+wildcard wildcardsallthewai parameter type isparameterizedtyp
+match paramet time
+resolv type resolvedtyp paramet theirparamet resolv type paramet getresolvedtypeparamet
+paramet assign parametersassign
+paramet myparamet length paramet theirparamet length
+paramet myparamet length
+paramet myparamet paramet theirparamet
+paramet myparamet assign isassignablefrom paramet theirparamet miss allowmiss
+paramet myparamet gener wildcard isgenericwildcard
+paramet assign parametersassign
+bound refer type boundedreferencetyp wildcard type wildcardtyp bound refer type boundedreferencetyp paramet myparamet
+wildcard type wildcardtyp match alwaysmatch paramet theirparamet
+paramet assign parametersassign
+paramet assign parametersassign
+paramet assign parametersassign
+type variabl refer istypevariablerefer type variabl refer istypevariablerefer istypevariablerefer istypevariablerefer ljava lang object
+type variabl typevari var avar type variabl refer typevariablerefer type variabl gettypevari
+var avar resolv world bound canbeboundto
+type variabl refer istypevariablerefer
+type variabl refer type typevariablereferencetyp type othertyp type variabl refer type typevariablereferencetyp
+type variabl refer typevariablerefer
+type variabl refer typevariablerefer type variabl gettypevari bound canbeboundto type othertyp type variabl gettypevari bound getfirstbound resolv world return typevariablerefer gettypevari canbeboundto othertyp gettypevari getfirstbound resolv world pr171952
+return typevariablerefer gettypevari othertyp gettypevari
+fixm asc canbeboundto
+assign isassignablefrom type othertyp type variabl gettypevari bound getfirstbound resolv world
+miss allowmiss miss ismiss
+iter direct supertyp getdirectsupertyp hasnext
+assign isassignablefrom resolv type resolvedtyp miss allowmiss

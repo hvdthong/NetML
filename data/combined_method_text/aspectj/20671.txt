@@ -1,0 +1,105 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+prepar munger prepareformung
+constructor call remov dup dup swap
+store
+argument frame
+bit hack java langaug
+add code outsidebefor deal weav join point
+expos state stack turn work
+constructor call except handler clean
+shadowrang instructionhandl point start
+arg setup code start run code end run code
+kind getkind constructor call constructorcal
+world joinpoint arrai construct enabl isjoinpointarrayconstructionen signatur getsignatur declar type getdeclaringtyp arrai isarrai
+delet dup deletenewanddup deletenewanddup dup arrai construct
+initi arg var initializeargvar
+kind getkind pre initi preiniti getkind preiniti pr74952
+shadow rang shadowrang rang rang getrang
+rang insert instruct constant instructionconst nop rang insid insideaft
+kind getkind except handler exceptionhandl
+shadow rang shadowrang rang rang getrang
+instruct list instructionlist bodi rang bodi getbodi
+instruct handl instructionhandl start rang start getstart
+creat store instruct put top
+stack local variabl slot trim version
+initializeargvar argument
+handler advic support pr46298
+arg var argvar bcel var bcelvar
+int positionoffset hastarget hasthi getkind istargetsameasthi
+unresolv type unresolvedtyp arg type getargtyp
+arg var argvar gen temp var gentempvar ajc arg0
+instruct handl instructionhandl insert instruct insertedinstruct
+rang insert arg var argvar creat store createstor factori getfactori rang outsidebefor
+except rang start instruct
+bit code except rang point
+store instruct
+instruct target instructiontarget target start target gettarget
+target length
+instruct target instructiontarget target
+except rang exceptionrang
+except rang exceptionrang except rang exceptionrang
+updat target updatetarget start insert instruct insertedinstruct bodi
+munger request state
+join point lazi isthisjoinpointlazi isthisjoinpointlazi true world isxlazytjp lazi default
+bad advic badadvic
+iter iter munger iter iter hasnext
+shadow munger shadowmung munger shadow munger shadowmung iter
+munger special specializeon
+initi join point initializethisjoinpoint
+join point var thisjoinpointvar join point lazi isthisjoinpointlazi bad advic badadvic bad advic badadvic size
+stop make lazi tjp
+build tjp lazili suitabl test
+valid
+iter iter bad advic badadvic iter iter hasnext
+bcel advic bceladvic element bcel advic bceladvic iter
+sourc locat isourceloc loc sloc element sourc locat getsourceloc
+loc sloc loc sloc line getlin valid
+valid
+sourc locat isourceloc bad loc badloc sourc locat isourceloc valid
+iter iter bad advic badadvic iter iter hasnext
+bcel advic bceladvic element bcel advic bceladvic iter
+sourc locat isourceloc loc sloc element sourc locat getsourceloc
+loc sloc bad loc badloc loc sloc
+world lint getlint multipl advic stop lazi tjp multipleadvicestoppinglazytjp signal
+string string tostr
+sourc locat getsourceloc bad loc badloc
+bad advic badadvic
+express kind requir target argument stack
+actual thing remov
+stack shadowmung request state
+shadowmung request argument target
+munger ad code
+pop target argument temporari variabl repres
+targetvar argvar case make push
+valu
+nonexpressionkind expect argument stack
+moot argvar happen null
+shadowmung squirrel argument
+stack
+instruct factori instructionfactori fact factori getfactori
+kind getkind arg stack argsonstack arg var argvar
+special case pr46298 except handler instruct
+shadow pop remov pop code
+gener store instruct clear stack
+gener code argument case
+incorrect aload
+kind getkind except handler exceptionhandl
+rang end getend getnext instruct getinstruct equal instruct constant instructionconst pop
+easier delet
+rang end getend getnext set instruct setinstruct instruct constant instructionconst nop
+rang insert
+bcel render bcelrender render expr renderexpr fact world arg var argvar
+rang insid insidebefor
+target var targetvar
+rang insert
+bcel render bcelrender render expr renderexpr fact world target var targetvar
+rang insid insidebefor
+kind getkind constructor call constructorcal
+world joinpoint arrai construct enabl isjoinpointarrayconstructionen signatur getsignatur declar type getdeclaringtyp arrai isarrai
+rang insert instruct instruct factori instructionfactori creat dup createdup rang insid insidebefor
+rang insert
+fact creat createnew
+object type objecttyp bcel world bcelworld make bcel type makebceltyp
+signatur getsignatur declar type getdeclaringtyp
+rang insid insidebefor

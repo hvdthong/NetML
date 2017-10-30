@@ -1,0 +1,14 @@
+code boolean true code boolean fals
+build polyhedron set bsp tree
+org apach common math geometri euclidean threed
+version
+code boolean attribut repres insid statu
+param tree insid bsp tree repres region
+tree
+leaf node bsp tree
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+recommend predefin constant
+repres region set polyhedron
+cell order avoid build small object
+polyhedron set polyhedronsset bsp tree bsptree euclidean3 euclidean3d tree
+cell insid cell

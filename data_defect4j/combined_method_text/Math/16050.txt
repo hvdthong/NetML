@@ -1,0 +1,19 @@
+ob nob matrix row dimens getrowdimens
+code code code code code code
+column matrix
+repres variabl correl
+code code argument gener correl matric
+constructor code real matrix realmatrix code
+comput pearson' product moment correl coeffici pair arrai
+pearson correl pearsonscorrel
+column input matric assum repres variabl valu
+check suffici data checksufficientdata matrix
+correl matrix correlationmatrix comput correl matrix computecorrelationmatrix matrix
+version
+code cor sigma code
+correl formula
+param matrix matrix column repres variabl correl
+pearson correl pearsonscorrel real matrix realmatrix matrix
+code code valu standard deviat
+org apach common math3 stat correl
+creat pearson correl pearsonscorrel real matrix realmatrix column

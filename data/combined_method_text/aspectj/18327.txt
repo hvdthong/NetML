@@ -1,0 +1,4 @@
+org aspectj weaver
+abstract refer type deleg abstractreferencetypedeleg refer type deleg referencetypedeleg
+refer type referencetyp resolv type getresolvedtypex
+resolv type resolvedtypex

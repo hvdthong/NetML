@@ -1,0 +1,27 @@
+Labeled while loops generate "no side effects" warning
+User-Agent:       Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 (.NET CLR 4.0.20506)
+Build Identifier: rhino1_7R3pre
+
+A labeled while loop generates the warning "Code has no side effects" when the loop has obvious side effects.  It does not matter if the loop actually makes any use of the label with break/continue.
+
+let x = 1;
+bar : while ( x < 200 ) {
+  x = x + 1;
+} // "Warning: Code has no side effects" on this line
+
+Only tested with language version at 1.8; but tested with various optimizer levels.
+
+
+Reproducible: Always
+
+Steps to Reproduce:
+1. See details.
+2.
+3.
+Actual Results:  
+"Warning: Code has no side effects"
+
+Expected Results:  
+No warning.
+
+This bug existed in rhino1_7R3pre built months ago and in one built today.

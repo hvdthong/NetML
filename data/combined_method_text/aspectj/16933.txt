@@ -1,0 +1,8 @@
+org aspectj org eclips jdt core dom
+subtyp typedeclar extens aspectj
+type aspect pointcut exist
+class type repres aspect repres
+aspectdeclar subtyp ajtypedeclar
+type declar ajtypedeclar type declar typedeclar
+ast node astnod node list nodelist super interfac name getsuperinterfacenam
+super interfac name superinterfacenam

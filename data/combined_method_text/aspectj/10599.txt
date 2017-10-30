@@ -1,0 +1,25 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+structur view node istructureviewnod creat view node createviewnod program element iprogramel node structur view properti structureviewproperti properti
+node
+list children arrai list arraylist
+iprogramel pnode node
+node getrel null
+iter node getrel iter hasnext
+iprogramel iprogramel iprogramel
+acceptnod iprogramel properti
+children add createviewnod iprogramel properti
+node runnabl isrunn node parent getpar
+program element iprogramel parent node parent getpar
+parent kind getkind equal program element iprogramel kind class
+parent kind getkind equal program element iprogramel kind aspect
+parent set runnabl setrunn
+node set runnabl setrunn
+node children getchildren
+iter node children getchildren iter hasnext
+program element iprogramel program element iprogramel program element iprogramel
+accept node acceptnod program element iprogramel properti
+children add creat view node createviewnod program element iprogramel properti
+structur view node istructureviewnod view node viewnod node factori nodefactori creat node createnod node children istructureviewnod viewnod nodefactori createnod node children treeviewnod root null children
+view node viewnod

@@ -1,0 +1,23 @@
+deem invalid illeg argument except illegalargumentexcept thrown
+author norm dean
+author stephen colebourn
+empti notempti object arrai
+author gari gregori
+param arrai arrai check empti
+argument arrai empti code code element
+arrai arrai length
+version
+messag except 'the valid arrai empty'
+org apach common lang
+illeg argument except illegalargumentexcept arrai empti
+assist valid argument
+illeg argument except illegalargumentexcept valid arrai empti
+base line unit junit argument
+valid null notnul surnam surnam
+valid empti notempti arrai myarrai
+pre
+author href mailto ola berg arkitema ola berg
+empti notempti arrai valid arrai empti
+valid true istru greater
+valid argument throw code illeg argument except illegalargumentexcept code
+valid

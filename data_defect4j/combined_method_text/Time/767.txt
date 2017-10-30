@@ -1,0 +1,37 @@
+author stephen colebourn
+method return instanc
+set
+chronolog set intern utc time zone
+copi object field set
+local milli withlocalmilli chronolog getchronolog dai week dayofweek set local milli getlocalmilli dai week dayofweek
+text
+local date time localdatetim dai week withdayofweek dai week dayofweek
+add subtract
+repres local datetim intern
+dai year dayofyear milli dai millisofdai
+local date time localdatetim thread safe immut provid chronolog
+code hour dai hourofdai code
+numer
+local date time localdatetim unmodifi datetim repres
+calcul local date time localdatetim perform link chronolog
+maximum minimum valu
+techniqu access method
+calcul
+field fact queri
+field
+local date time localdatetim link readabl partial readableparti
+return copi datetim dai week field updat
+local date time localdatetim immut set method
+individu field queri wai
+intern local date time localdatetim singl millisecond base
+method focu kei field year month year monthofyear
+local date time localdatetim
+datetim time zone
+param dai week dayofweek dai week set
+standard chronolog class suppli thread safe immut
+dai week chang
+code hour dai gethourofdai code
+expos applic
+org joda time
+illeg argument except illegalargumentexcept invalid
+round

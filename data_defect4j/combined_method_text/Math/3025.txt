@@ -1,0 +1,31 @@
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+recurs list recurselist bsp tree bsptree euclidean1 euclidean1d node
+updat interv list
+repres region set interv
+vector1 vector1d loc locat getloc
+node cut getcut
+bsp tree bsptree euclidean1 euclidean1d high
+lower upper
+param upper upper bound current convex cell
+check point checkpoint high loc locat insid
+param lower lower bound current convex cell
+make explor tree increas order
+merg interv ad high tree
+recurs list recurselist high list upper
+leaf cell insid cell interv
+list remov list size lower getlow
+version
+orient point orientedpoint orient point orientedpoint node cut getcut hyperplan gethyperplan
+bsp tree bsptree euclidean1 euclidean1d low
+param list list updat
+recurs list recurselist low list lower
+boolean node attribut getattribut
+param node current node
+direct isdirect node getplu node minu getminu
+interv list remov list size lower getlow
+list interv list
+check point checkpoint low loc locat insid
+direct isdirect node minu getminu node getplu
+list add interv lower upper
+org apach common math geometri euclidean on
+loc getx

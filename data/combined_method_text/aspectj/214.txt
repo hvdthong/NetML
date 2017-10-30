@@ -1,0 +1,7 @@
+org aspectj tool ajbrows swing
+standalon oper
+author mik kersten
+top frame topfram frame jframe
+hide messag panel hidemessagespanel browser messag handler browsermessagehandl handler
+split pane splitpan set divid locat setdividerloc split pane splitpan height getheight
+messag panel show messag handler panel showmessagehandlerpanel handler

@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+concret cflow pointcut concretecflowpointcut pointcut
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+system println find residu
+counter usescount
+test make field call makefieldgetcal cflow field cflowfield cflow counter valid method cflowcounterisvalidmethod expr
+slot slot null null cflow manag counter
+iter slot iter hasnext
+slot slot slot
+system println slot slot formalindex
+state set slot formal index formalindex
+bcel cflow access var bcelcflowaccessvar slot formal type formaltyp cflow field cflowfield slot arrai index arrayindex
+test make field call makefieldgetcal cflow field cflowfield cflow stack valid method cflowstackisvalidmethod expr

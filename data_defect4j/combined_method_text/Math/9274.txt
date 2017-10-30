@@ -1,0 +1,20 @@
+pre
+calcul error varianc calculateerrorvari
+varianc
+gl assum gener covari matrix omega error
+estim gl
+gl implement multipl linear regress
+residu dot product dotproduct omega invers getomegainvers oper residu
+error varianc
+row column dimens design
+var omega
+row dimens getrowdimens column dimens getcolumndimens
+matrix
+overrid
+omega omega 1x'omega
+version revis date
+calcul estim varianc error term formula
+real vector realvector residu calcul residu calculateresidu
+org apach common math stat regress
+omega
+gl multipl linear regress glsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress

@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+instruct list instructionlist make arg object arrai makeargsobjectarrai
+instruct factori instructionfactori fact factori getfactori
+bcel var bcelvar arrai var arrayvar gen temp var gentempvar unresolv type unresolvedtyp objectarrai
+instruct list instructionlist instruct list instructionlist
+alen arg count getargcount
+append util creat constant createconst fact alen
+append instruct fact creat arrai createnewarrai type object
+arrai var arrayvar append store appendstor fact
+state index stateindex
+len arg count getargcount len
+arrai var arrayvar append convert arrai store appendconvertablearraystor fact state index stateindex bcel var bcelvar arg var getargvar
+state index stateindex
+arrai var arrayvar append load appendload fact

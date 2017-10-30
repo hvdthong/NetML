@@ -1,0 +1,78 @@
+org aspectj weaver bcel
+repres access annot element relat 'kinded' pointcut
+depend kind pointcut element field method
+kind annot access var kindedannotationaccessvar bcel var bcelvar
+instruct list instructionlist creat load instruct createloadinstruct resolv type resolvedtyp type totyp instruct factori instructionfactori fact
+fixm asc decid build except handler nosuchmethodexcept thrown
+getdeclaredmethod care
+localvariablegen var addlocalvari type gettyp ljava ioexcept null null
+int var slot var getindex
+instructionhandl handler append astor var slot
+var setstart handler
+var setend append instructionconst return
+addexceptionhandl start end handler
+objecttyp java ioexcept
+instruct list instructionlist instruct list instructionlist
+type class jlclass bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp java lang class java lang class
+type string jlstring bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp signatur forsignatur ljava lang string
+type class arrai jlclassarrai bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp signatur forsignatur ljava lang class
+type jla annot jlaannot bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp signatur forsignatur ljava lang annot annot
+kind shadow method call methodcal kind shadow method execut methodexecut
+kind shadow pre initi preiniti kind shadow initi
+kind shadow constructor call constructorcal kind shadow constructor execut constructorexecut
+kind shadow advic execut adviceexecut
+annot fieldset fieldget itd involv store method
+kind shadow field fieldget kind shadow field set fieldset member kind getkind member method
+type jlr method jlrmethod bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp signatur forsignatur ljava lang reflect method
+call getclass
+variant target directli
+append fact creat constant createconst bcel world bcelworld make bcel type makebceltyp type containingtyp
+variant target class give answer runtim
+append target createload fact
+append fact createinvok java lang object getclass jlclass type constant invokevirtu
+append fact createconst objecttyp totyp getclassnam
+kind shadow method call methodcal kind shadow method execut methodexecut kind shadow advic execut adviceexecut
+annot fieldset fieldget itd involv store method
+kind shadow field fieldget kind shadow field set fieldset member kind getkind member method
+kind shadow constructor call constructorcal kind shadow constructor execut constructorexecut member kind getkind member method
+append fact creat constant createconst member getnam
+type param type paramtyp
+param type paramtyp bcel world bcelworld make bcel type makebceltyp member paramet type getparametertyp
+build arrai buildarrai fact class jlclass param type paramtyp
+call getdeclaredmethod
+append fact creat invok createinvok java lang class getdeclaredmethod jlr method jlrmethod type string jlstring class arrai jlclassarrai constant invokevirtu
+fixm asc perf cach result getdeclaredmethod
+annot signatur join point
+call getannot
+string type totyp getnam
+append fact creat constant createconst object type objecttyp type totyp getnam
+append fact creat invok createinvok java lang reflect method getannot jla annot jlaannot type class jlclass constant invokevirtu
+append util creat convers createconvers fact jla annot jlaannot bcel world bcelworld make bcel type makebceltyp type totyp
+init preinit ctor call ctor exec
+type param type paramtyp bcel world bcelworld make bcel type makebceltyp member paramet type getparametertyp
+build arrai buildarrai fact class jlclass param type paramtyp
+type jlr ctor jlrctor bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp signatur forsignatur ljava lang reflect constructor
+append fact creat invok createinvok java lang class getdeclaredconstructor jlr ctor jlrctor type class arrai jlclassarrai constant invokevirtu
+optim cach result getdeclaredmethod
+annot signatur join point
+call getannot
+string type totyp getnam
+append fact creat constant createconst object type objecttyp type totyp getnam
+append fact creat invok createinvok java lang reflect constructor getannot jla annot jlaannot type class jlclass constant invokevirtu
+append util creat convers createconvers fact jla annot jlaannot bcel world bcelworld make bcel type makebceltyp type totyp
+kind shadow field set fieldset kind shadow field fieldget
+type jlr field jlrfield bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp signatur forsignatur ljava lang reflect field
+append fact creat constant createconst bcel world bcelworld make bcel type makebceltyp type containingtyp append fact createconst bcelworld makebceltyp containingtyp stick target stack
+append fact creat constant createconst member getnam append fact createconst member getnam stick stack
+append fact creat invok createinvok java lang class getdeclaredfield jlr field jlrfield type string jlstring constant invokevirtu
+string type totyp getnam
+append fact creat constant createconst object type objecttyp type totyp getnam
+append fact creat invok createinvok java lang reflect field getannot jla annot jlaannot type class jlclass constant invokevirtu
+append util creat convers createconvers fact jla annot jlaannot bcel world bcelworld make bcel type makebceltyp type totyp
+kind shadow static initi staticiniti kind shadow except handler exceptionhandl
+append fact creat constant createconst bcel world bcelworld make bcel type makebceltyp type containingtyp
+string type totyp getnam
+append fact creat constant createconst object type objecttyp type totyp getnam
+append fact creat invok createinvok java lang class getannot jla annot jlaannot type class jlclass constant invokevirtu
+append util creat convers createconvers fact jla annot jlaannot bcel world bcelworld make bcel type makebceltyp type totyp
+runtim except runtimeexcept understand kind kind

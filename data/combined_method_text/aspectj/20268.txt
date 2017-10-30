@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+bcel advic bceladvic advic kind advicekind kind pointcut pointcut member signatur
+extra argument flag extraargumentflag
+start end sourc context isourcecontext sourc context sourcecontext resolv type resolvedtyp concret aspect concreteaspect
+attribut ajattribut advic attribut adviceattribut kind pointcut extra argument flag extraargumentflag start end sourc context sourcecontext
+pointcut signatur concret aspect concreteaspect
+thrown except thrownexcept collect empti list empti list thrownexcept collect empti list interact unit test

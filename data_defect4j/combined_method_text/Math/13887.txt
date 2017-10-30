@@ -1,0 +1,20 @@
+row column index valid
+row column indic start
+add place entri
+param column column locat entri set
+org apach common math3 linear
+rang except outofrangeexcept row column index valid
+add entri addtoentri row column increment rang except outofrangeexcept
+param row row index entri modifi
+matrix element index base code entri getentri code
+chang entri row column
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+param column column index entri modifi
+version
+add entri addtoentri row column increment
+code matrix row column indic start
+interfac defin real valu matrix basic algebra oper
+param row row locat entri set
+param increment add matrix entri
+real matrix realmatrix matrix anymatrix

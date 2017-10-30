@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+list make default classpath makedefaultclasspath string
+list class path classpath arrai list arraylist
+class path classpath add addal path entri getpathentri
+class path classpath add addal path entri getpathentri class path classpath class path getclasspath
+system err println classpath classpath
+class path classpath

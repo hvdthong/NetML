@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+lazi class gen lazyclassgen weav unwoven class file unwovenclassfil class file classfil bcel object type bcelobjecttyp class type classtyp except ioexcept
+lazi class gen lazyclassgen ret weav class file classfil class type classtyp
+progress listen progresslisten
+progress made progressmad progress class file progressperclassfil
+progress listen progresslisten set progress setprogress progress made progressmad
+progress listen progresslisten set text settext woven class file classfil filenam getfilenam
+ret

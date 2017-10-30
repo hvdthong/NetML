@@ -1,0 +1,15 @@
+org aspectj apach bcel gener
+super class xreturn famili instruct
+version returninstruct java aclement exp
+author href mailto marku dahm berlin dahm
+return instruct returninstruct instruct
+type type gettyp
+opcod
+constant ireturn type int
+constant lreturn type long
+constant freturn type float
+constant dreturn type doubl
+constant areturn type object
+constant return type void
+default reach
+class gen except classgenexcept unknown type opcod

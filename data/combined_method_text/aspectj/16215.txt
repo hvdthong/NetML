@@ -1,0 +1,32 @@
+org aspectj intern tool ant taskdef
+check includ java file licens copyright string
+mpl default apach cpl
+list true list licens variant licens copyrighthold
+todo reimplement regexp jdiff filelin util
+checklic match task matchingtask
+run licens check directli
+param sourcepath string path sourc directori
+param licens string tag licens
+param failonerror boolean flag pass checklic
+throw illegalargumentexcept sourcepath empti
+return total number fail licens
+run direct rundirect string sourcepath string licens failonerror
+sourcepath sourcepath length
+illeg argument except illegalargumentexcept bad sourcepath sourcepath
+checklic checklic
+project project
+set setnam direct interfac checklic
+set basedir setbasedir
+set project setproject
+set fail error setfailonerror failonerror
+set sourcepath setsourcepath path sourcepath
+licens
+replac header equal licens
+set replacehead setreplacehead
+year equal licens
+set year setgetyear
+list equal licens
+set list setlist
+set licens setlicens licens
+execut
+fail

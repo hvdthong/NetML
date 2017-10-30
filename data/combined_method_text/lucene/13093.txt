@@ -1,0 +1,9 @@
+org apach lucen index
+segment term enum segmenttermenum term enum termenum cloneabl
+seek pointer term term info terminfo
+except ioexcept
+input seek pointer
+posit
+term buffer termbuff set
+prev buffer prevbuff reset
+term info terminfo set

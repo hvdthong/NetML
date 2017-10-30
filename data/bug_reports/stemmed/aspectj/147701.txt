@@ -1,0 +1,49 @@
+declarepar fqn except declar throw claus lead noclassdeffounderror
+code
+aspect
+public class testbeanadvic
+public static class applicationcontextawareimpl implement applicationcontextawar
+public void setapplicationcontext applicationcontext applicationcontext throw beansexcept
+
+
+declarepar org springframework bean testbean defaultimpl testbeanadvic applicationcontextawareimpl class
+privat applicationcontextawar implementationinterfac
+
+advic load time weaver except
+org springframework bean factori beancreationexcept error creat bean 'testbean' defin class path resourc org springframework context support testbean context xml instanti bean fail nest except java lang noclassdeffounderror beansexcept
+caus java lang noclassdeffounderror beansexcept
+java lang class getdeclaredmethods0 nativ method
+java lang class privategetdeclaredmethod class java
+java lang class getdeclaredmethod class java
+java bean introspector run introspector java
+java secur accesscontrol doprivileg nativ method
+java bean introspector getpublicdeclaredmethod introspector java
+java bean introspector gettargetmethodinfo introspector java
+java bean introspector getbeaninfo introspector java
+java bean introspector getbeaninfo introspector java
+org springframework bean cachedintrospectionresult init cachedintrospectionresult java
+org springframework bean cachedintrospectionresult forclass cachedintrospectionresult java
+org springframework bean beanwrapperimpl setintrospectionclass beanwrapperimpl java
+org springframework bean beanwrapperimpl setwrappedinst beanwrapperimpl java
+org springframework bean beanwrapperimpl setwrappedinst beanwrapperimpl java
+org springframework bean beanwrapperimpl init beanwrapperimpl java
+org springframework bean factori support abstractautowirecapablebeanfactori instantiatebean abstractautowirecapablebeanfactori java
+org springframework bean factori support abstractautowirecapablebeanfactori createbean abstractautowirecapablebeanfactori java
+org springframework bean factori support abstractbeanfactori getbean abstractbeanfactori java
+org springframework bean factori support abstractbeanfactori getbean abstractbeanfactori java
+org springframework bean factori support defaultlistablebeanfactori preinstantiatesingleton defaultlistablebeanfactori java
+org springframework context support abstractapplicationcontext refresh abstractapplicationcontext java
+org springframework context support aspectjclassloaderwithgenericapplicationcontexttest testcreateapplicationcontextwithbeanfactoryandaspectjclassload aspectjclassloaderwithgenericapplicationcontexttest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+intellij execut junit2 junitstart main junitstart java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+intellij execut applic appmain main appmain java
+wrap spring except contain
+debug found except appear load depend testbean class guess problem parent declar bytecod testbean
+find testbean class
+http fisheye1 cenqua brows raw springframework spring test org springframework bean testbean java
+steven

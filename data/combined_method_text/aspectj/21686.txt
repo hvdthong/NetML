@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+bind type pattern bindingtypepattern exact type pattern exacttypepattern bind pattern bindingpattern
+type pattern typepattern read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+unresolv type unresolvedtyp type unresolv type unresolvedtyp read
+index read short readshort
+vararg isvararg
+major version getmajorvers attribut ajattribut weaver version info weaverversioninfo weaver version major aj150 weaver version major aj150
+vararg isvararg read boolean readboolean
+type pattern typepattern ret bind type pattern bindingtypepattern type index vararg isvararg
+ret read locat readloc context
+ret

@@ -1,0 +1,10 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+copi resourc file copyresourcesfromfil file string filenam file src except ioexcept
+accept resourc acceptresourc filenam
+file input stream fileinputstream fi
+fi file input stream fileinputstream
+byte file util fileutil read byte arrai readasbytearrai fi
+string relativepath file getpath
+write resourc writeresourc filenam byte src
+fi fi close

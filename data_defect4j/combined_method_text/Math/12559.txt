@@ -1,0 +1,13 @@
+boundari attribut boundaryattribut euclidean3 euclidean3d attribut
+attribut insid getplusinsid
+version
+add contribut addcontribut attribut insid getplusinsid
+attribut getplusoutsid
+inherit doc inheritdoc
+org apach common math3 geometri euclidean threed
+visit intern node visitinternalnod bsp tree bsptree euclidean3 euclidean3d node
+add contribut addcontribut attribut getplusoutsid
+boundari attribut boundaryattribut euclidean3 euclidean3d node attribut getattribut
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron
+suppress warn suppresswarn uncheck

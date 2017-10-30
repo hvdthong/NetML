@@ -1,0 +1,23 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+shorten long class str chop prefix
+class start string flag chopit true
+slash convert dot
+param str long class
+param prefix prefix rid
+param chopit flag determin chop execut
+return compact class
+string compact class compactclassnam string str
+string prefix
+chopit
+len prefix length
+str str replac str str replac system do
+chopit
+string start 'prefix' dot
+str start startswith prefix str substr len index indexof
+str str substr len
+str

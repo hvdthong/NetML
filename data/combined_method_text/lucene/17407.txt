@@ -1,0 +1,12 @@
+org apach lucen store
+abstract base class output file directori random access
+output stream lucen index output oper
+directori
+indexinput
+index output indexoutput closeabl
+write arrai byte
+param byte write
+param offset offset byte arrai
+param length number byte write
+indexinput readbyt byte int int
+write byte writebyt offset length except ioexcept

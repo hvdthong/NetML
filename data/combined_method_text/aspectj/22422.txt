@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+pattern parser patternpars
+annot pattern list annotationpatternlist pars argument annot pattern parseargumentsannotationpattern
+list pattern arrai list arraylist
+eat
+eat maybeeat
+annot pattern list annotationpatternlist
+eat maybeeat
+eat
+pattern add annot type pattern annotationtypepattern ellipsi
+eat maybeeat
+pattern add annot type pattern annotationtypepattern
+pattern add pars annot var type pattern parseannotationnameorvartypepattern
+eat maybeeat
+eat
+annot pattern list annotationpatternlist pattern

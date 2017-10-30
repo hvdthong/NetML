@@ -1,0 +1,14 @@
+[PATCH] signjar new preservelastmodified attribute
+Noting that the signjar task does not allow a preservelastmodified attribute (as
+the ftp and copy tasks do) I enhanced it myself. Please note that I don't have
+direct CVS access and so cannot generate a diff. I enclose the SignJar.java
+file, downloaded on sept 1 of 2004, patched in two hours and enclosed here. The
+important lines are the if at the end of the doOneJar method, and of course the
+setter of the attribute. Anyway, whomever can make a diff will see the changes.
+
+Could you please include the fix into the next release? The point is, we need to
+deploy a signed JWS application, and the jar timestamp is used to check if the
+revision has changed. So, we wanted to not modify the timestamp if we simply
+sign the jar again.
+
+Thanks. I'm available for feedback, should it be needed.

@@ -1,0 +1,10 @@
+real vector realvector residu getresidu
+link iter linear solver event iterativelinearsolverev
+org apach common math linear
+inherit doc inheritdoc
+math unsupport oper except mathunsupportedoperationexcept
+implement link math unsupport oper except mathunsupportedoperationexcept
+version
+default iter linear solver event defaultiterativelinearsolverev iter linear solver event iterativelinearsolverev
+residu vector code provid construct time
+concret implement

@@ -1,0 +1,25 @@
+org aspectj intern tool build
+render sampl method visitor
+sampl render samplesrender
+templat algorithm render
+string buffer stringbuff render sampl sampl string buffer stringbuff sink
+sink
+sink string buffer stringbuff
+sampl sampl size
+sink
+start list startlist sampl sink
+list list sampl sort sampl getsortedsampl
+string anchor anchornam
+list iter listiter iter list list iter listiter
+iter hasnext
+sampl sampl sampl iter
+string anchor newanchornam sampl anchor anchornam
+anchor anchornam
+anchor anchornam equal anchor newanchornam
+end anchor endanchornam anchor anchornam sink
+start anchor startanchornam anchor newanchornam sampl anchor titl anchortitl sink
+anchor anchornam anchor newanchornam
+render sampl sink
+end anchor endanchornam anchor anchornam sink
+end list endlist sampl sink
+sink

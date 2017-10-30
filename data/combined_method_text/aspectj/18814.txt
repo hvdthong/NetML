@@ -1,0 +1,14 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+set dump directori setdumpdirectori string directori directorynam
+trace trace enabl istraceen trace enter setdumpdirectori directori directorynam
+success
+file directori newdirectori file directori directorynam
+directori newdirectori exist
+directori directori newdirectori
+success
+trace trace enabl istraceen trace exit setdumpdirectori success
+success

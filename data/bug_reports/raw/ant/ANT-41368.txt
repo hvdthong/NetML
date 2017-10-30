@@ -1,0 +1,31 @@
+Nested record tasks produces an empty output file
+The setup is as follows: 
+We compile a list of java projects, logging the output of each project. The
+basic setup for each project is as follows:
+---------------
+<target name="parent">
+<record name="${JavaLog}" action="start" loglevel="info"/>
+
+<antfetch dir="[...]" target="child"/>
+
+<record name="${JavaLog}" action="stop"/>
+</target>
+---------------
+
+Now the child target tried to write to the same logfile, basically calling 
+----------------
+<target name="child">
+<record name="${JavaLog} " action="start" append="true"/>
+[...]
+<record name="${JavaLog} " action="stop"/>
+----------------
+
+In Ant 1.6.5 no one noticed, because the output looked fine. Starting with ant
+1.7.0 however the output becomes strange: After the "stop" in the parent target
+the logfile is empty (contains zero bytes). If I insert a fail immediately
+before the "stop" command in the parent target then everything is fine. If I do
+not close the log file at all (in the parent target) then  the logfile is there
+- in some cases. In other cases it contains the last line of the output, or
+sometimes nothing at all, and a lot of binary zeros. Seems like the content of
+the logfile is overwritten with zeros before it is flushed. This behavior is
+reproducable.

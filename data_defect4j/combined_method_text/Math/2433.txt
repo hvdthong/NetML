@@ -1,0 +1,9 @@
+base except
+object serial obj class getclass getnam
+string mention serial
+param obj object implement code serializ
+math runtim except mathruntimeexcept runtim except runtimeexcept
+string serializ replac nonserializablereplac object obj
+version revis date
+replac serializ object error messag string
+org apach common math except

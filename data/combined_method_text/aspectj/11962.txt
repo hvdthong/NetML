@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+record binari sourc recordbinarysourc string path frompathnam list unwoven class file unwovenclassfil
+binari sourc file binarysourcefil put path frompathnam unwoven class file unwovenclassfil
+increment maybeincrement
+list simpl class file simpleclassfil link list linkedlist
+iter iter unwoven class file unwovenclassfil iter iter hasnext
+unwoven class file unwovenclassfil ucf unwoven class file unwovenclassfil iter
+class file classfil class file getclassfilefor ucf
+simpl class file simpleclassfil add
+input class file sourc inputclassfilesbysourc put path frompathnam simpl class file simpleclassfil

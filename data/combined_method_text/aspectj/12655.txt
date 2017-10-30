@@ -1,0 +1,19 @@
+org aspectj apach bcel classfil
+class repres collect local variabl
+method attribut contain code attribut
+version localvariablet java aclement exp
+author href mailto marku dahm berlin dahm
+code
+localvari
+updat andi 14feb06 made unpack data lazi depend
+local variabl tabl localvariablet attribut
+dump local variabl tabl attribut file stream binari format
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+dump file
+pack state isinpackedst
+file write data
+file write short writeshort local variabl tabl length localvariabletablelength
+local variabl tabl length localvariabletablelength
+local variabl tabl localvariablet dump file

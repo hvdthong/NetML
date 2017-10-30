@@ -1,0 +1,15 @@
+param upper upper endpoint
+verifi interv verifyinterv lower initi
+code initi upper
+upper
+number larg except numberistoolargeexcept code lower initi
+param lower lower endpoint
+verifi interv verifyinterv initi upper
+util routin link univari solver univariatesolv object
+version
+univari solver util univariatesolverutil
+param initi initi
+check code lower initi upper
+org apach common math analysi solver
+verifi sequenc verifysequ lower
+initi

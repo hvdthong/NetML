@@ -1,0 +1,147 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree data
+
+
+
+repres dens normal matrix mij item
+matrix matrix item observ
+code item getitem code method normal divid
+total sum item scale set scale factor
+
+normal matrix seri normalizedmatrixseri matrix seri matrixseri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set factor multipli item seri observ
+item getitem mehtod
+
+param factor factor set
+
+default scale factor
+
+set scale factor setscalefactor factor
+scale factor scalefactor factor
+fixm gener seri chang event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

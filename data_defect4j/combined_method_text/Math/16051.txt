@@ -1,0 +1,19 @@
+code code code code code code
+column matrix
+column repres valu variabl correl
+code code argument gener correl matric
+constructor code real matrix realmatrix code
+comput pearson' product moment correl coeffici pair arrai
+pearson correl pearsonscorrel
+column input matric assum repres variabl valu
+rectangular row column
+version
+creat pearson correl pearsonscorrel rectangular arrai
+code cor sigma code
+pearson correl pearsonscorrel data
+param data rectangular arrai column repres variabl
+correl formula
+block real matrix blockrealmatrix data
+illeg argument except illegalargumentexcept input data arrai
+code code valu standard deviat
+org apach common math3 stat correl

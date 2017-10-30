@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+declar paramet count getdeclaredparametercount
+work code gener
+argument length extra argument extraargu
+advic counton extraargumentflag

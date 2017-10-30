@@ -1,0 +1,10 @@
+org aspectj apach bcel classfil annot
+annot immut object annotationgen mutabl variant basic list
+pair
+annot
+return true annot
+pair hasnamevaluepair string string
+ev size
+element pair elementnamevaluepair pair element pair elementnamevaluepair ev
+pair string getnamestr equal
+pair getvalu stringifi stringifyvalu equal

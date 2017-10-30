@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel field bcelfield resolv member impl resolvedmemberimpl
+bcel field bcelfield bcel object type bcelobjecttyp declar type declaringtyp field field
+field
+declar type declaringtyp resolv type getresolvedtypex
+field access flag getaccessflag
+field getnam
+field signatur getsignatur
+field field
+world declar type declaringtyp resolv type getresolvedtypex world getworld
+bcel object type bcelobjecttyp declar type declaringtyp
+unpack attribut unpackattribut world
+check except checkedexcept unresolv type unresolvedtyp

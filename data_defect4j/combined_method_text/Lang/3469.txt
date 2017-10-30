@@ -1,0 +1,136 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+param search str searchstr string find
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+code char sequenc charsequ code
+remov lead trail whitespac
+append suffix end string present
+str search str searchstr
+safe substr extract
+check string text
+abbrevi string ellipsi
+param str string check
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+code code safe
+author arun mammen thoma
+index ignor case lastindexofignorecas char sequenc charsequ str char sequenc charsequ search str searchstr
+case sensit find index string
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+case sensit find index char sequenc charsequ
+start po startpo str length search str searchstr length
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+index search string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+param start po startpo start posit
+compar string safe
+code string util stringutil code
+symbol code input includ code
+org apach common lang3
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+author holger krauth
+code input code
+code code
+index ignor case lastindexofignorecas string str string search str searchstr start po startpo
+code safe
+containsonli containsnon containsani
+param search str searchstr char sequenc charsequ find
+side effect code code handl
+neg start posit return code code
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+neg start posit return code
+match code string input
+string util stringutil index ignor case lastindexofignorecas
+author href mailto jon latchkei jon steven
+empti isempti blank isblank
+start po startpo
+code code input code code
+author phil steitz
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+string util stringutil index ignor case lastindexofignorecas aabaabaa
+match code code string input
+posit
+index ignor case lastindexofignorecas str search str searchstr str length
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+equal
+str region match regionmatch search str searchstr search str searchstr length
+code null pointer except nullpointerexcept consid bug
+param str char sequenc charsequ check
+code code return
+chomp chop
+author apach softwar foundat
+index search char sequenc charsequ
+index found
+string charact
+java lang string
+author gari gregori
+safe index check
+start posit greater string length search string
+code string util stringutil
+chang signatur index ignor case lastindexofignorecas string string index ignor case lastindexofignorecas char sequenc charsequ char sequenc charsequ
+string util stringutil
+thread safe threadsaf
+empti search string match start posit neg
+check charact string
+code code string code code
+append miss appendifmiss
+prepend miss prependifmiss
+empti search char sequenc charsequ match start posit neg
+search str searchstr length
+symbol code code input includ code code

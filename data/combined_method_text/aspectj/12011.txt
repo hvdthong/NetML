@@ -1,0 +1,56 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+intern build internalbuild compil unit declar compilationunitdeclar unit hierarchi ihierarchi structur model structuremodel
+lang util langutil throw iax null throwiaxifnul structur model structuremodel structuremodel
+currcompilationresult equal unit compilationresult
+throw illegalargumentexcept invalid unit unit
+summari
+add unit packag root packag
+remov duplic xxx remov children class file
+push node stack
+travers
+creat node add
+file file file string unit file getfilenam
+program element iprogramel node cunod
+amc sourc start end compil unit decl
+start line startlin start line getstartlin unit
+end line endlin end line getendlin unit
+sourc locat sourceloc sourc locat sourceloc
+sourc locat sourceloc file start line startlin end line endlin
+sourc locat sourceloc set offset setoffset unit sourc start sourcestart
+node cunod program element programel
+string file getnam
+program element iprogramel kind file java file java
+sourc locat sourceloc
+node cunod add child addchild program element programel
+import declar
+program element iprogramel kind import refer import refer
+program element iprogramel add node addtonod gen add node genaddtonod unit structur model structuremodel
+remov duplic ad xxx
+add node addtonod add node addtonod children getchildren
+list iter listiter itt add node addtonod children getchildren list iter listiter itt hasnext
+program element iprogramel child program element iprogramel itt
+sourc locat isourceloc child loc childloc child sourc locat getsourceloc
+child loc childloc
+xxx packag null sourc locat
+signal
+child loc childloc sourc file getsourcefil equal file
+itt remov
+add travers
+add node addtonod add child addchild node cunod
+stack push node cunod
+unit travers unit scope
+updat file map xxx travers
+structur model structuremodel add file map addtofilemap file canon path getcanonicalpath node cunod
+except ioexcept
+system err println ioexcept messag getmessag
+creat path file
+xxx signal ioexcept canonic file path

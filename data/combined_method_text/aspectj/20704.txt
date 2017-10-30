@@ -1,0 +1,23 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+rule incompat return type
+enforc decp rule4 compat return type enforcedecprule4 compatiblereturntyp bcel class weaver bcelclassweav weaver resolv member resolvedmemb super method supermethod lazi method gen lazymethodgen method submethod
+cont
+string super return type sig superreturntypesig super method supermethod return type getreturntyp signatur getsignatur
+string return type sig subreturntypesig method submethod return type getreturntyp signatur getsignatur
+super return type sig superreturntypesig super return type sig superreturntypesig replac
+return type sig subreturntypesig return type sig subreturntypesig replac
+super return type sig superreturntypesig equal return type sig subreturntypesig
+covari test java5
+resolv type resolvedtyp type subtyp weaver world getworld resolv method submethod return type getreturntyp
+resolv type resolvedtyp super type supertyp weaver world getworld resolv super method supermethod return type getreturntyp
+super type supertyp assign isassignablefrom type subtyp
+sourc locat isourceloc sloc method submethod sourc locat getsourceloc
+weaver world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+return type incompat super method supermethod declar type getdeclaringtyp super method supermethod getnam super method supermethod paramet signatur getparametersignatur
+method submethod sourc locat getsourceloc
+error messag
+return type subreturntypesig incompat overridden method supermethod getdeclaringtyp
+supermethod getnam supermethod getparametersignatur return superreturntypesig
+cont
+cont

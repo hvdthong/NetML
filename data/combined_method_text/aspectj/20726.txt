@@ -1,0 +1,45 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung object interfac mungeperobjectinterfac
+bcel class weaver bcelclassweav weaver
+object interfac type munger perobjectinterfacetypemung munger
+system err println mung perobject munger weaver getlazyclassgen getclassnam
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+match couldmatch gen bcel object type getbcelobjecttyp munger test pointcut gettestpointcut
+field gen fieldgen make field gen makefieldgen gen
+ajc member maker ajcmembermak object field perobjectfield gen type gettyp aspect type aspecttyp
+gen add field addfield field getfield sourc locat getsourceloc
+type field type fieldtyp bcel world bcelworld make bcel type makebceltyp aspect type aspecttyp
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+modifi public
+field type fieldtyp
+mangler namemangl object interfac perobjectinterfaceget aspect type aspecttyp
+type string
+gen
+instruct list instructionlist instruct list instructionlist
+instruct factori instructionfactori fact gen factori getfactori
+append instruct constant instructionconst aload
+append fact creat field access createfieldaccess
+gen class getclassnam
+getnam
+field type fieldtyp constant getfield
+append instruct factori instructionfactori creat return createreturn field type fieldtyp
+bodi getbodi insert
+gen add method gen addmethodgen
+lazi method gen lazymethodgen mg1 lazi method gen lazymethodgen
+modifi public
+type void
+mangler namemangl object interfac set perobjectinterfaceset aspect type aspecttyp
+type field type fieldtyp string
+gen
+instruct list instructionlist il1 instruct list instructionlist
+il1 append instruct constant instructionconst aload
+il1 append instruct factori instructionfactori creat load createload field type fieldtyp
+il1 append fact creat field access createfieldaccess
+gen class getclassnam
+getnam
+field type fieldtyp constant putfield
+il1 append instruct factori instructionfactori creat return createreturn type void
+mg1 bodi getbodi insert il1
+gen add method gen addmethodgen mg1
+gen add interfac addinterfac munger interfac type getinterfacetyp sourc locat getsourceloc

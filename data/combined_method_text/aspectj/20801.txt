@@ -1,0 +1,41 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+mode xlint advicedidnotmatch enabl put messag
+munger match
+warn unmatch advic warnonunmatchedadvic
+advic locat adviceloc
+line lineno
+unresolv type unresolvedtyp aspect inaspect
+advic locat adviceloc bcel advic bceladvic advic
+line lineno advic sourc locat getsourceloc line getlin
+aspect inaspect advic declar aspect getdeclaringaspect
+equal object obj
+obj advic locat adviceloc
+advic locat adviceloc advic locat adviceloc obj
+line lineno line lineno
+aspect inaspect equal aspect inaspect
+hash code hashcod
+line lineno aspect inaspect hash code hashcod
+fixm asc factor xlint code automat xlint messag ideal
+piec advic match mode put warn
+world java5 mode isinjava5mod
+world lint getlint advic match advicedidnotmatch enabl isen
+list world crosscut member set getcrosscuttingmembersset shadow munger getshadowmung
+set warn locat alreadywarnedloc hash set hashset
+iter iter iter iter hasnext
+shadow munger shadowmung element shadow munger shadowmung iter
+element bcel advic bceladvic element instanceof bceladvic stop incorrectli report deow checker
+bcel advic bceladvic bcel advic bceladvic element
+match hasmatchedsometh
+implement featur creat kind munger
+find getsignatur bcelmethod cflow entri munger
+signatur getsignatur
+check warn advic line
+cflow creat multipl munger advic
+advic locat adviceloc loc advic locat adviceloc
+warn locat alreadywarnedloc loc
+warn locat alreadywarnedloc add loc
+signatur getsignatur bcel method bcelmethod
+util suppress issuppress annot annotationx signatur getsignatur annot getannot advicedidnotmatch
+world lint getlint advic match advicedidnotmatch signal declar aspect getdeclaringaspect string tostr
+sourc locat sourceloc element sourc locat getsourceloc sourc file getsourcefil element sourc locat getsourceloc line getlin sourceloc element getsourceloc getsourcefil element getsourceloc getlin element getsourceloc

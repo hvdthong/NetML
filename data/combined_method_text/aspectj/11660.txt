@@ -1,0 +1,7 @@
+org aspectj ajdt intern compil lookup
+privileg field bind privilegedfieldbind field bind fieldbind
+synthet method bind syntheticmethodbind access method getaccessmethod read access isreadaccess
+base field basefield access method alwaysneedsaccessmethod read access isreadaccess
+base field basefield access method getaccessmethod read access isreadaccess
+read access isreadaccess reader
+writer

@@ -1,0 +1,46 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+weav class aspect previous suppli adaptor
+param class
+param byte class byte
+param mustweav true class woven concret aspect gener xml
+return woven byte
+except ioexcept weav fail
+weav class weaveclass string byte weav mustweav except ioexcept
+trace trace enabl istraceen trace enter weaveclass object byte
+enabl
+trace trace enabl istraceen trace exit weaveclass
+byte
+deleg current class delegateforcurrentclass
+replac
+weav couldweav byte
+accept byte
+todo aspectj problem
+annot style aspect includ order
+valid aspectof hasaspect gener exclud
+includ exclud aop xml aspectof hasaspect
+includ full set aspect appli 'this' weaver
+debug weav
+byte woven byte getwovenbyt byte
+weav annot style aspect shouldweaveannotationstyleaspect byte
+weav mustweav
+bcel world bcelworld lint getlint weav xml defin aspect mustweavexmldefinedaspect enabl isen
+bcel world bcelworld lint getlint weav xml defin aspect mustweavexmldefinedaspect signal
+aspectj aspect mung aspectof munger
+debug weav
+byte aspect aspect byte getataspectjaspectbyt byte
+debug weav
+debug weav
+deleg current class delegateforcurrentclass
+trace trace enabl istraceen trace exit weaveclass byte
+byte

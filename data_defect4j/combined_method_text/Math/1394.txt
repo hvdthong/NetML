@@ -1,0 +1,9 @@
+dfp field dfpfield field dfp
+dfp sqr2 split getsqr2split
+field decim float point instanc
+constant radic split piec
+version
+sqr2 split sqr2split clone
+version revis date
+link dfp radic split piec
+org apach common math dfp

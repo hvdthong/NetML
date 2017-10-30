@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+retriev declar interfac gener signatur type
+gener signatur work type result
+erasur class origin compil
+resolv type resolvedtyp declar interfac getdeclaredinterfac
+ensur gener signatur unpack ensuregenericsignatureunpack
+resolv type resolvedtyp interfac type interfacetyp
+interfac signatur interfacesignatur
+string name java class javaclass interfac name getinterfacenam
+interfac signatur interfacesignatur string name length
+interfac type interfacetyp resolv type resolvedtyp name length
+len name length len
+interfac type interfacetyp resolv type getresolvedtypex world getworld resolv unresolv type unresolvedtyp fornam name
+interfac signatur interfacesignatur interfac type interfacetyp signatur getsignatur
+interfac type interfacetyp resolv type resolvedtyp interfac signatur interfacesignatur length
+len interfac signatur interfacesignatur length len
+interfac type interfacetyp resolv type getresolvedtypex world getworld resolv unresolv type unresolvedtyp signatur forsignatur interfac signatur interfacesignatur
+interfac type interfacetyp

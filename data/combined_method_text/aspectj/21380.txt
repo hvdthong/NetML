@@ -1,0 +1,14 @@
+org aspectj weaver loadtim definit
+fixm doc concret aspect
+author href mailto alex gnilux dot alexandr vasseur
+document parser documentpars default handler defaulthandl
+end element endel string uri string local localnam string qname sax except saxexcept
+concret aspect element concret aspect element equal qname
+concret aspect lastconcreteaspect
+aspectj element aspectj element equal qname
+aspect inaspectj
+weaver element weaver element equal qname
+weaver inweav
+aspect element aspect element equal qname
+aspect inaspect
+end element endel uri local localnam qname

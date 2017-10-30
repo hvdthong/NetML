@@ -1,0 +1,29 @@
+Boolean converted to number when optimising
+User Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+
+Steps to reproduce:
+
+function A()
+{	
+    var b = 1 <= 1;
+    this.bar = b;
+}
+
+foo = new A();
+print(foo.bar); print(" ");
+
+if (typeof foo.bar == "boolean") {
+    print("Boolean");
+} else {
+    print("Number");
+}
+
+
+Actual results:
+
+Rhino when called as /usr/bin/rhino -opt 9 -f, converts this into a number. If the expression is copied into this.bar, then all is fine.
+
+
+Expected results:
+
+Should be boolean.

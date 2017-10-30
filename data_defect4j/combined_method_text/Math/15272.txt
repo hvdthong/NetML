@@ -1,0 +1,31 @@
+point pair pointvaluepair origin
+param origin origin simplex preserv
+org apach common math3 optim direct
+multi direct direct search method
+size getsiz
+param coeff linear coeffici
+transform xtransform dim
+origin xorigin origin point ref getpointref
+poorest
+evalu simplex
+dim dimens getdimens
+comput evalu simplex
+compar point pair pointvaluepair compar
+version
+param compar compar sort simplex vertic
+smallest xsmallest origin point ref getpointref
+set point setpoint origin
+param evalu function evaluationfunct evalu function
+maxim number evalu exceed
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+org apach common math3 except evalu except toomanyevaluationsexcept
+point getpoint
+set point setpoint point pair pointvaluepair transform xtransform doubl nan
+deprec remov
+dim
+coeff
+transform xtransform smallest xsmallest coeff smallest xsmallest origin xorigin
+point pair pointvaluepair evalu simplex evaluatenewsimplex multivari function multivariatefunct evalu function evaluationfunct
+evalu evalu function evaluationfunct compar
+point transform simplex
+perform linear transform simplex point

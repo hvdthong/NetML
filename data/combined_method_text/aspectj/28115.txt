@@ -1,0 +1,12 @@
+pattern
+object
+equal equal
+field field
+pointcut pointcut pointcut pointcut pointcut
+concret concret concret concret
+cflow cflow cflow cflow cflow cflow
+org
+weaver
+cflowfield cflowfield
+aspectj
+concretecflowpointcut concretecflowpointcut concretecflowpointcut concretecflowpointcut

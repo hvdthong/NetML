@@ -1,0 +1,5 @@
+org aspectj intern lang reflect
+author colyer
+type impl ajtypeimpl type ajtyp
+object enum constant getenumconst
+clazz enum constant getenumconst

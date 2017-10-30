@@ -1,0 +1,30 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+helper method weaveafterreturn
+return instruct method bodi retarget call method
+return instruct replac instruct
+shadow return bound return
+paramet dup return top stack
+shadow return store returnvaluevar
+retriev ultim return advic dispatch
+return instruct add nop fall
+advic dispatch add goto branch
+suppli gototarget start advic dispatch
+retarget return instruct retargetreturninstruct return paramet hasreturningparamet bcel var bcelvar return var returnvaluevar instruct handl instructionhandl goto target gototarget instruct handl instructionhandl return handl returnhandl
+pr148007 work jrockit bug
+replac ret store returnvaluevar goto
+end instruct list
+instruct list instructionlist instruct newinstruct instruct list instructionlist
+return var returnvaluevar
+return paramet hasreturningparamet
+dup return val consum
+instruct newinstruct append instruct factori instructionfactori creat dup createdup return type getreturntyp size getsiz
+store return var
+return var returnvaluevar append store appendstor instruct newinstruct factori getfactori
+instruct rang islastinstructioninrang return handl returnhandl rang
+instruct newinstruct append instruct factori instructionfactori creat branch instruct createbranchinstruct
+constant goto
+goto target gototarget
+instruct newinstruct empti isempti
+instruct newinstruct append instruct constant instructionconst nop
+util replac instruct replaceinstruct return handl returnhandl instruct newinstruct enclos method enclosingmethod

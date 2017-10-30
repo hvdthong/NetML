@@ -1,0 +1,201 @@
+addastor addastor addastor addastor addastor addastor addastor
+optfunctionnod optfunctionnod
+code code code code code code code code code code code
+variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc
+child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child
+setstacktop setstacktop
+popv popv popv popv popv
+decreferencewordloc
+label label label label label label label label label label label label label label label label
+line
+finallyregist finallyregist finallyregist finallyregist finallyregist
+enterwith enterwith
+increferencewordloc
+isgener isgener isgener isgener
+finallystart finallystart
+generatethrowjavascriptexcept
+acquir acquir acquir acquir
+fnindex fnindex
+except except except
+bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod
+prevloc prevloc
+add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add
+lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg
+save save save
+local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local
+addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok
+opt opt
+count count count count count count count count count count count count count count count count count
+return return return return return return return return
+string string string string
+encod
+void void
+express express express express express express express express express express
+visitfunct
+pop2
+getfirstchild getfirstchild getfirstchild
+compilerenv compilerenv compilerenv compilerenv compilerenv compilerenv compilerenv compilerenv compilerenv
+marklabel marklabel marklabel
+enumtyp enumtyp
+optim
+setconstvar
+visittrycatchfin
+yield yield
+throwabl
+finallyreturnpoint finallyreturnpoint
+bad bad bad bad
+leavewith leavewith
+ifn
+unnecessari unnecessari
+compil compil compil compil compil compil compil compil compil
+set set set set
+generateyieldpoint
+jump jump jump
+enuminit
+result result result result
+cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw
+special special
+variabl variabl variabl variabl variabl variabl variabl
+releasewordloc releasewordloc
+getintprop
+putintprop
+avoid avoid
+enumer enumer enumer enumer enumer enumer
+token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token
+ret ret ret ret
+prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop
+current current
+gettargetlabel
+getnewwordloc getnewwordloc getnewwordloc
+badtre badtre badtre badtre
+previous
+reg
+refer refer
+javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript
+goto goto goto goto
+kei kei kei kei kei kei
+gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener
+enum enum enum enum enum enum enum enum enum enum enum enum
+bodi
+debugg
+offset offset
+releas releas
+org
+byte byte byte byte byte byte byte byte byte
+newcatchscop
+throw throw
+valu valu valu valu valu valu
+fnode
+epiloguelabel epiloguelabel epiloguelabel
+visitgoto
+hasvarsinreg
+codegen codegen codegen codegen codegen codegen
+updatelinenumb
+context context context context context context
+epilogu epilogu epilogu
+block block block block block block block block block block block block
+op op
+load load load load load load load load load load load load load load
+checkcast
+inlocalblock inlocalblock inlocalblock
+point point point
+removeprop
+arrai arrai arrai arrai
+address address
+tablelabel tablelabel
+number
+pop pop pop
+put
+instruct instruct instruct instruct instruct instruct instruct instruct
+finallyend finallyend
+wrap
+addpush addpush
+contextloc contextloc contextloc
+getnext getnext getnext getnext
+visitswitch
+java java
+getfunctiontyp
+script script script script script script script script script script
+top top
+regist regist regist regist regist regist regist regist
+visitsetvar
+empti
+mark mark mark
+scriptorfn
+bodycodegen
+statement statement statement statement statement statement statement statement
+var var var
+generateintegerunwrap
+prev prev
+type type type type type type type type type type type type type
+final final final final final final final final final final final final final final final
+store store store store store store store
+const
+function function function function function function function function function function function function function function function
+getlocalblockregist getlocalblockregist getlocalblockregist
+isgenerateobservercount isgenerateobservercount isgenerateobservercount isgenerateobservercount isgenerateobservercount isgenerateobservercount isgenerateobservercount isgenerateobservercount isgenerateobservercount
+getexistingintprop getexistingintprop
+scope scope scope scope scope scope scope scope
+catch catch catch catch catch catch catch catch
+scriptruntim scriptruntim scriptruntim
+inlin
+isnumb isnumb
+integ integ integ
+case case case case case
+init init init init init init init init init init
+word word word word word word word word
+target target
+pushundefin
+expr expr expr expr
+remov
+tree tree tree tree
+invok invok invok invok
+generateintegerwrap
+visit visit visit visit visit visit
+dec
+observ observ observ observ observ observ observ observ observ
+loop
+ljava ljava ljava ljava ljava
+int int int int int
+scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl
+addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload
+exist exist
+tabl tabl
+acquirelabel acquirelabel acquirelabel acquirelabel
+null null null null
+gettyp gettyp gettyp gettyp
+ifeq
+generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress
+unwrap
+start start
+getstr getstr
+popvloc popvloc popvloc popvloc popvloc
+addinstructioncount addinstructioncount addinstructioncount addinstructioncount addinstructioncount addinstructioncount addinstructioncount
+env env env env env env env env env
+aconst aconst aconst aconst
+setvar
+updat
+node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node
+mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla
+rethrow
+index index index index
+functionnod functionnod
+previou
+push push push
+jsr jsr jsr
+end end
+stack stack stack stack
+stai
+lang lang lang lang lang lang
+entri
+scopeindex scopeindex
+ofn ofn ofn
+object object object object object object object object object object object object
+switch switch
+visitsetconstvar
+runtim runtim runtim runtim runtim runtim runtim
+enter
+undefin
+savecurrentcodeoffset savecurrentcodeoffset
+generatestat generatestat generatestat generatestat
+athrow

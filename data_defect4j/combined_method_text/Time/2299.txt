@@ -1,0 +1,18 @@
+author stephen colebourn
+dai year month getdaysinyearmonth year month
+leap year isleapyear year
+min dai month arrai month
+org joda time chrono
+basic chronolog basicgjchronolog thread safe immut subclass
+author gui allard
+abstract chronolog implement chronolog base gregorian julian formula
+max dai month arrai month
+number dai month year
+param month month
+author brian neill o'neil
+util method requir subclass
+number dai
+basic chronolog basicgjchronolog basic chronolog basicchronolog
+param year year
+refactor common chronolog commongjchronolog
+reflect intent defin

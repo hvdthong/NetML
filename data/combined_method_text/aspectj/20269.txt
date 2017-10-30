@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+bcel advic bceladvic
+attribut ajattribut advic attribut adviceattribut attribut
+pointcut pointcut
+member signatur
+resolv type resolvedtyp concret aspect concreteaspect
+attribut pointcut signatur
+concret aspect concreteaspect concret aspect concreteaspect

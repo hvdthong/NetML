@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+method bind methodbind make method bind call makemethodbindingforcal member member
+method bind methodbind member callsit modifi getcallsitemodifi
+member getnam char arrai tochararrai
+make type bind maketypebind member return type getreturntyp
+make type bind maketypebind member paramet type getparametertyp
+refer bind referencebind
+refer bind referencebind make type bind maketypebind member declar type getdeclaringtyp

@@ -1,0 +1,10 @@
+overrid
+univari real solver univariaterealsolv brent solver newbrentsolv
+common math
+solver return factori link brent solver brentsolv
+concret link univari real solver factori univariaterealsolverfactori solver factori
+brent solver brentsolv
+inherit doc inheritdoc
+version revis date
+univari real solver factori impl univariaterealsolverfactoryimpl univari real solver factori univariaterealsolverfactori
+org apach common math analysi solver

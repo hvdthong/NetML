@@ -1,0 +1,26 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pattern namepattern pars pattern parsenamepattern
+string buffer stringbuff buf string buffer stringbuff
+token itoken previou
+token itoken tok
+start po startpo token sourc tokensourc peek start getstart
+tok token sourc tokensourc peek
+previou
+adjac isadjac previou tok
+tok string getstr tok identifi isidentifi
+buf append tok string getstr
+tok liter kind getliteralkind
+system err println liter kind tok getstr
+string tok string getstr
+index indexof
+buf append buf append
+previou token sourc tokensourc
+xxx handl float fun stuff
+end po endpo token sourc tokensourc peek end getend
+buf length
+parser except parserexcept pattern tok
+check legal checklegalnam buf string tostr previou
+pattern namepattern ret pattern namepattern buf string tostr
+ret set locat setloc sourc context sourcecontext start po startpo end po endpo
+ret

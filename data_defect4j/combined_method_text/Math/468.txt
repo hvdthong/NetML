@@ -1,0 +1,18 @@
+param upper bound interv
+org apach common math analysi
+solver
+function
+function evalu except functionevaluationexcept error occur evalu
+conveni method find univari real function
+param lower bound interv
+univari real solver util univariaterealsolverutil
+converg except convergenceexcept function evalu except functionevaluationexcept
+converg except convergenceexcept iter count exceed
+solv univari real function univariaterealfunct
+factori default solver newdefaultsolv solv
+valid interv
+version revis date
+illeg argument except illegalargumentexcept endpoint
+util routin link univari real solver univariaterealsolv object
+setup
+param function

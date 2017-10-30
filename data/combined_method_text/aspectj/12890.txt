@@ -1,0 +1,21 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+convert string method return argument type
+byte code method signatur
+param returntyp return type method char java lang string
+param methodarg type method argument
+return byte code represent method signatur
+string method type signatur methodtypetosignatur string return type returntyp string method arg methodarg class format except classformatexcept
+string buffer stringbuff buf string buffer stringbuff
+method arg methodarg
+method arg methodarg length
+string str signatur getsignatur method arg methodarg
+str equal str equal void method argument
+class format except classformatexcept invalid type method arg methodarg
+buf append str
+buf append signatur getsignatur return type returntyp
+buf string tostr

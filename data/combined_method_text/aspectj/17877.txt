@@ -1,0 +1,77 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+method extract javac argument ajc
+add argument make ajc behav javac
+copi resourc
+pass ajc specif option compilerarg element
+pre
+javac srcdir src
+compilerarg compil line argfil src arg lst
+javac
+pre
+javac argument support compon
+pre
+string memoryinitials
+boolean includeantruntim true
+boolean includejavaruntim fals
+pre
+javac argument support ajc
+pre
+boolean optim
+string forkedexecut
+facadetaskhelp facad
+boolean depend
+string debuglevel
+path compilesourcepath
+pre
+param javac javac command implement null
+param ajc ajctask adapt null
+param destdir file class destin directori null
+return null error string error
+string setup ajc setupajc javac javac
+javac
+null javac
+ajc task ajctask ajc
+null check ajctask handl null input gracefulli
+ajc set project setproject javac project getproject
+ajc set locat setloc javac locat getloc
+ajc set task settasknam javac iajc
+ajc set debug setdebug javac debug getdebug
+ajc set deprec setdeprec javac deprec getdeprec
+ajc set failonerror setfailonerror javac failonerror getfailonerror
+fork javac fork javac isforkedjavac
+ajc set fork setfork fork
+fork
+ajc set maxmem setmaxmem javac memori maximum size getmemorymaximums
+ajc set nowarn setnowarn javac nowarn getnowarn
+ajc set list file arg setlistfilearg javac listfil getlistfil
+ajc set verbos setverbos javac verbos getverbos
+ajc set target settarget javac target gettarget
+ajc set sourc setsourc javac sourc getsourc
+ajc set encod setencod javac encod getencod
+file javac dest dir javacdestdir javac destdir getdestdir
+javac dest dir javacdestdir
+ajc set destdir setdestdir javac dest dir javacdestdir
+filter requir dest dir
+mimic javac task' behavior copi resourc
+ajc set sourc root copi filter setsourcerootcopyfilt cv java
+ajc set bootclasspath setbootclasspath javac bootclasspath getbootclasspath
+ajc set extdir setextdir javac extdir getextdir
+ajc set classpath setclasspath javac classpath getclasspath
+ignor srcdir file pick recalcul file list
+ajc setsrcdir javac getsrcdir
+ajc add file addfil javac file list getfilelist
+argument overrid filter add path overrid option
+ajc read argument readargu javac current compil arg getcurrentcompilerarg

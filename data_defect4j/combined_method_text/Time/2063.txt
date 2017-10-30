@@ -1,0 +1,17 @@
+author stephen colebourn
+param type set field period support
+link readabl period readableperiod
+param valu valu clone
+kind period object referenc
+data code period type periodtyp code code code
+base period baseperiod valu period type periodtyp type
+expos public
+base period baseperiod implement readabl period readableperiod store
+constructor trust
+base period baseperiod subclass mutabl thread safe
+org joda time base
+valu ivalu valu
+author brian neill o'neil
+base period baseperiod
+type ityp type
+gener directli api user

@@ -1,0 +1,46 @@
+fitter parametr univari real function
+find paramet
+target weight initi guess initialguess
+optimum point ref getpointref
+initi guess initialguess
+prepar squar problem
+fit curv
+curv fitter curvefitt parametr univari function parametricunivariatefunct
+univari real function depend
+number allow evalu exceed
+method comput coeffici curv
+param max eval maxev maximum number function evalu
+fit
+point vector pair pointvectorvaluepair optimum
+find paramet valu minim object
+squar problem
+version
+fit max eval maxev
+param function fit
+weight point weight getweight
+deprec remov
+fit paramet
+observ point
+target observ size
+optim
+optimum optim optim max eval maxev theoret valu function theoreticalvaluesfunct
+function sum
+fit curv remain close set
+weight observ size
+extract coeffici
+start point dimens wrong
+add observ point addobservedpoint method
+org apach common math3 except evalu except toomanyevaluationsexcept
+param initi guess initialguess guess function paramet
+link add observ point addobservedpoint weight observ point weightedobservedpoint
+fit sampl observ point previous call
+perform fit
+unknown paramet
+optimum optim oldoptim optim max eval maxev theoret valu function oldtheoreticalvaluesfunct
+optim optim max eval maxev theoret valu function theoreticalvaluesfunct
+remov
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+target point geti
+org apach common math3 optim fit
+param parametr function fit
+weight observ point weightedobservedpoint point observ

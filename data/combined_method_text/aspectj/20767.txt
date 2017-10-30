@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+appli singl declar parent return true chang type
+appli declar parent applydeclarepar declar parent declarepar resolv type resolvedtyp type ontyp
+didsometh
+list parent newpar find match parent findmatchingnewpar type ontyp
+parent newpar empti isempti
+didsometh
+bcel object type bcelobjecttyp class type classtyp bcel world bcelworld bcel object type getbcelobjecttyp type ontyp
+system err println declar parent ontyp
+iter parent newpar iter hasnext
+resolv type resolvedtyp parent newpar resolv type resolvedtyp
+set immin match itd succe
+class file
+transform super call bceltypemung mungenewpar
+class type classtyp add parent addpar parent newpar
+resolv type munger resolvedtypemung parent munger newparentmung parent type munger newparenttypemung parent newpar
+parent munger newparentmung set sourc locat setsourceloc sourc locat getsourceloc
+type ontyp add inter type munger addintertypemung bcel type munger bceltypemung parent munger newparentmung xcut set xcutset find aspect declar parent findaspectdeclaringpar
+didsometh

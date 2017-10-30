@@ -1,0 +1,12 @@
+open map real vector openmaprealvector abstract real vector abstractrealvector spars real vector sparserealvector serializ
+open map real vector openmaprealvector spars real vector sparserealvector
+open map real vector openmaprealvector abstract real vector abstractrealvector
+version
+org apach common math linear
+inherit doc inheritdoc
+link open int doubl hash map openinttodoublehashmap back store
+link real vector realvector
+unsupport oper except unsupportedoperationexcept support
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+remov

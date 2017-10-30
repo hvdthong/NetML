@@ -1,0 +1,12 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+collect declar type getdeclaringtyp world world public collect resolvedtyp getdeclaringtyp world world
+resolv type resolvedtyp type mytyp declar type getdeclaringtyp resolv world
+collect ret hash set hashset
+kind constructor
+wrong member exist matter
+ret add type mytyp
+static isstat kind field
+walk static walkupstat ret type mytyp
+walk walkup ret type mytyp
+ret

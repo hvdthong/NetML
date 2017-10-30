@@ -1,0 +1,25 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+declar type match allow covari declaringtypematchallowingforcovari member member unresolv type unresolvedtyp shadow declar type shadowdeclaringtyp world world type pattern typepattern return type pattern returntypepattern resolv type resolvedtyp sig return sigreturn
+resolv type resolvedtyp type ontyp shadow declar type shadowdeclaringtyp resolv world
+fastmatch
+declar type declaringtyp match static matchesstat type ontyp return type pattern returntypepattern match static matchesstat sig return sigreturn
+collect declar type declaringtyp member declar type getdeclaringtyp world
+check return type checkreturntyp
+xxx enhanc speed thing
+returntypepattern isstar
+returntypepattern instanceof wildtypepattern
+wildtypepattern returntypepattern getdimens checkreturntyp fals
+list includ type explicitli declar member
+list supertyp list
+lookupmethod lookupmembernosup
+iter declar type declaringtyp iter hasnext
+resolv type resolvedtyp type resolv type resolvedtyp
+declar type declaringtyp match static matchesstat type
+check return type checkreturntyp
+resolv member resolvedmemb type lookup method lookupmethod member
+type lookup method lookupmethodinitd member null type lookupmethodinitd member real problem
+null continu gener type continu search case hit parameter version type
+unresolv type unresolvedtyp return type returntypex return type getreturntyp
+resolv type resolvedtyp return type returntyp return type returntypex resolv world
+return type pattern returntypepattern match static matchesstat return type returntyp

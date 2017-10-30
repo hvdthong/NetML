@@ -1,0 +1,30 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+fwhm fwhmx2 interpol interpolatexati point max idx maxyidx half halfi
+fwhm approx fwhmapprox
+point max idx maxyidx getx
+org apach common math3 fit
+paramet fitter fit
+link weight observ point weightedobservedpoint
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+fwhm approx fwhmapprox fwhm fwhmx2 fwhm fwhmx1
+point max idx maxyidx geti
+guess paramet normal factor
+fwhm approx fwhmapprox fast math fastmath sqrt fast math fastmath log
+rang except outofrangeexcept
+fit point link
+deprec link gaussian curv fitter gaussiancurvefitt
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+guess paramet base observ point
+fwhm approx fwhmapprox point point length getx point getx
+usag
+half halfi
+version gaussian fitter gaussianfitt java 14z
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+pre
+fwhm fwhmx1 interpol interpolatexati point max idx maxyidx half halfi
+max idx maxyidx find max findmaxi point
+basic guess basicguess weight observ point weightedobservedpoint point
+sigma
+todo except flow control
+param point observ point sort

@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+access method field public bodi advic replac
+invoc wrapper call advic inlin
+munger aspect inlin wrapper compil time
+specif state logic munger ala itd call set pointcut match
+wrap member effectivesignatur attribut
+author href mailto alex gnilux dot alexandr vasseur
+bcel access inlin munger bcelaccessforinlinemung bcel type munger bceltypemung
+bcel access inlin munger bcelaccessforinlinemung resolv type resolvedtypex aspect type aspecttyp
+aspect type aspecttyp
+aspect type aspecttyp world getworld xno inlin isxnoinlin
+error happen

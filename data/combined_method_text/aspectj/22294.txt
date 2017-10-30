@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+object visit type pattern notypepattern node object data
+append node string tostr append node tostr todo idea

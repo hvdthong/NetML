@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi polynomi
+
+
+
+
+
+
+
+implement represent real polynomi function
+newton form refer elementari numer analysi
+isbn chapter
+
+formula polynomi newton form
+
+
+note length length
+
+version revis date
+
+
+polynomi function newton form polynomialfunctionnewtonform univari real function univariaterealfunct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+verifi input arrai valid
+
+center distinct interpol purpos
+gener verifi
+
+param coeffici newton form formula
+param center
+org apach common math except null argument except nullargumentexcept
+argument code
+data except nodataexcept arrai length
+dimens mismatch except dimensionmismatchexcept size differ
+code code equal
+org apach common math analysi interpol divid differ interpol divideddifferenceinterpol comput divid differ computedivideddiffer
+
+
+verifi input arrai verifyinputarrai
+length
+length
+data except nodataexcept local format localizedformat empti polynomi coeffici arrai
+
+length length
+dimens mismatch except dimensionmismatchexcept local format localizedformat arrai size differ
+length length
+
+
+

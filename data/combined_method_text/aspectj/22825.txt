@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+type pattern list typepatternlist read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+len read short readshort
+type pattern typepattern argument type pattern typepattern len
+len
+argument type pattern typepattern read context
+type pattern list typepatternlist ret type pattern list typepatternlist argument
+ret read locat readloc context
+ret

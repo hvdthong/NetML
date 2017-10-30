@@ -1,0 +1,20 @@
+comput sine taylor expans
+split fact
+param number sine request
+split add splitadd fact
+org apach common math util
+altern term neg
+result
+split reciproc splitreciproc fact
+sin
+ignor number
+fact length
+version
+split mult splitmult
+fact
+class comput classic function tabl
+fact fact
+param result placehold put result extend precis
+fast math calc fastmathcalc
+slow sin slowsin result
+split

@@ -1,0 +1,13 @@
+org aspectj ajdt intern compil
+act bridg ajde' outputlocationmanag interfac compil intern
+author adrian
+compil result destin manag compilationresultdestinationmanag
+return directori root result compil
+sourc file sourc file type
+method return target class result class file written
+target class class
+param compilationunit compil unit
+compil
+return file object repres root directori compil result
+unit written
+file output locat class getoutputlocationforclass file compil unit compilationunit

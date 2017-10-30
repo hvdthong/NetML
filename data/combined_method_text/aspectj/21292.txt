@@ -1,0 +1,29 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+accept aspect acceptaspect string aspect class aspectclassnam
+avoid resolvedtyp need
+aspect exclud type pattern aspectexcludetypepattern empti isempti aspect includ type pattern aspectincludetypepattern empti isempti
+avoid resolvedtyp simpl pattern
+exclud match reject
+string fast class fastclassnam aspect class aspectclassnam replac replac
+aspect exclud start aspectexcludestartswith size
+fast class fastclassnam start startswith string aspect exclud start aspectexcludestartswith
+includ match accept
+aspect includ start aspectincludestartswith size
+fast class fastclassnam start startswith string aspect includ start aspectincludestartswith
+analysi
+resolv type resolvedtyp class info classinfo weaver world getworld resolv unresolv type unresolvedtyp fornam aspect class aspectclassnam
+exclud
+iter iter aspect exclud type pattern aspectexcludetypepattern iter iter hasnext
+type pattern typepattern type pattern typepattern type pattern typepattern iter
+type pattern typepattern match static matchesstat class info classinfo
+exclud match skip
+includ
+accept boolean accept true default true includ
+iter iter aspect includ type pattern aspectincludetypepattern iter iter hasnext
+type pattern typepattern type pattern typepattern type pattern typepattern iter
+accept type pattern typepattern match static matchesstat class info classinfo
+accept
+includ match
+accept

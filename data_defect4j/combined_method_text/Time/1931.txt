@@ -1,0 +1,19 @@
+abstract instant abstractinst thread safe immut subclass
+millisecond instant
+iso date time format isodatetimeformat date time datetim print
+link readabl instant readableinst
+extend
+author stephen colebourn
+string string tostr
+abstract instant abstractinst common behaviour instant class
+iso8601 time format string
+implement code readabl instant readableinst code
+abstract instant abstractinst readabl instant readableinst
+output date time iso8601 format yyyi thh ddthh ssszz
+kind date time object referenc
+org joda time base
+author brian neill o'neil
+gener directli api user
+mutabl thread safe
+concept chronolog method work
+string tostr

@@ -1,0 +1,107 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+wild annot type pattern wildannotationtypepattern annot type pattern annotationtypepattern
+resolv annot valu check form valid name valid valu
+param annotationtyp annot type valu
+param scope scope resolv type refer color green
+resolv annot valu resolveannotationvalu resolv type resolvedtyp annot type annotationtyp scope iscop scope
+annot valu annotationvalu
+check valu
+name valid annot field
+valu correct type
+enum check valu resolv scope
+set kei annot valu annotationvalu kei set keyset
+resolv member resolvedmemb annot type annotationtyp declar method getdeclaredmethod
+iter iter kiter kei iter iter kiter hasnext
+string string iter kiter
+string string annot valu annotationvalu
+valid kei validkei
+length
+resolv member resolvedmemb resolv member resolvedmemb
+resolv member resolvedmemb getnam equal resolv member resolvedmemb abstract isabstract
+valid kei validkei
+resolv type resolvedtyp resolv member resolvedmemb return type getreturntyp resolv scope world getworld
+enum isenum
+enum refer
+po index lastindexof
+po
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot enum
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+string typenam substr po
+resolv type resolvedtyp scope lookup type lookuptyp typenam resolv scope world getworld
+signatur getsignatur substr po getsignatur substr po 'color red' 'lp color red'
+annot valu annotationvalu put
+primit type isprimitivetyp
+signatur getsignatur
+integ pars int parseint
+annot valu annotationvalu put integ string tostr
+number format except numberformatexcept nfe
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot int
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+signatur getsignatur
+float pars float parsefloat
+annot valu annotationvalu put float string tostr
+number format except numberformatexcept nfe
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot float
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+signatur getsignatur
+equal ignor case equalsignorecas true equal ignor case equalsignorecas fals
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot boolean
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+signatur getsignatur
+short pars short parseshort
+annot valu annotationvalu put short string tostr
+number format except numberformatexcept nfe
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot short
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+signatur getsignatur
+long pars long parselong
+annot valu annotationvalu put long string tostr
+number format except numberformatexcept nfe
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot long
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+signatur getsignatur
+doubl pars doubl parsedoubl
+annot valu annotationvalu put doubl string tostr
+number format except numberformatexcept nfe
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot doubl
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+signatur getsignatur
+byte pars byte parsebyt
+annot valu annotationvalu put byte string tostr
+number format except numberformatexcept nfe
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot byte
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+signatur getsignatur
+length length
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag invalid annot invalid annot char
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+annot valu annotationvalu put substr
+runtim except runtimeexcept implement
+equal resolv type resolvedtyp java lang string java lang string
+runtim except runtimeexcept compil limit annot support implement type
+valid kei validkei
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag unknown annot unknown annot annot type annotationtyp
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag

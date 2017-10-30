@@ -1,0 +1,15 @@
+param dimens simplex
+org apach common math3 optim nonlinear scalar noderiv
+nelder mead simplex neldermeadsimplex abstract simplex abstractsimplex
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+nelder mead simplex algorithm
+gamma sigma
+param khi expans coeffici
+param sigma shrinkag coeffici
+rho khi
+param rho reflect coeffici
+version
+build nelder mead simplex coeffici
+rho khi gamma sigma
+nelder mead simplex neldermeadsimplex

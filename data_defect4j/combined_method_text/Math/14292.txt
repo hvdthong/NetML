@@ -1,0 +1,23 @@
+belong state vector dynam model constant
+integr link order integr firstorderintegr integr method
+org apach common math3 od
+order differenti equat problem
+repres order differenti equat set
+implement real order
+class implement allow
+order differenti equat secondorderdifferentialequ
+vector code code dimension arrai
+integr time deriv code code state
+dimens problem
+constant complet scope
+integr point view deriv depend
+version
+current time code code state vector
+handl
+differenti equat problem handl
+order integr firstorderintegr
+order convert firstorderconvert
+real problem deriv depend paramet
+code code
+dimens getdimens
+order differenti equat firstorderdifferentialequ

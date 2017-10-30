@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil ast
+add runtim visibl annot code style aspect declar
+map provid aspect inform runtim
+aspectdeclar
+advicedeclar
+pointcutdeclar
+declaredeclar
+inter type declar
+add aspect annot visitor addataspectjannotationsvisitor ast visitor astvisitor
+visit method declar methoddeclar method declar methoddeclar class scope classscop scope
+method declar methoddeclar advic declar advicedeclar
+advic declar advicedeclar method declar methoddeclar add aspect annot addataspectjannot
+method declar methoddeclar pointcut declar pointcutdeclar
+pointcut declar pointcutdeclar method declar methoddeclar add aspect annot addataspectjannot
+method declar methoddeclar declar declar declaredeclar
+declar declar declaredeclar method declar methoddeclar add aspect annot addataspectjannot
+method declar methoddeclar inter type declar intertypedeclar
+inter type declar intertypedeclar method declar methoddeclar add aspect annot addataspectjannot

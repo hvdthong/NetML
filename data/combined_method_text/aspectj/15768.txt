@@ -1,0 +1,13 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+list gen modifi genmodifi modifi
+list modifi list modifierslist arrai list arraylist
+modifi acc static accstat modifi list modifierslist add program element iprogramel modifi static
+modifi acc final accfin modifi list modifierslist add program element iprogramel modifi final
+modifi acc synchron accsynchron modifi list modifierslist add program element iprogramel modifi synchron
+modifi acc volatil accvolatil modifi list modifierslist add program element iprogramel modifi volatil
+modifi acc transient acctransi modifi list modifierslist add program element iprogramel modifi transient
+modifi acc nativ accn modifi list modifierslist add program element iprogramel modifi nativ
+modifi acc abstract accabstract modifi list modifierslist add program element iprogramel modifi abstract
+modifi list modifierslist

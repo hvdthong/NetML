@@ -1,0 +1,29 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+method retriev posit comma semi colon
+return int posit found
+retriev posit comma semi colon retrievepositionbeforenextcommaorsemicolon start end
+scanner reset resetto start end
+brace counter bracecount
+token
+token scanner token getnexttoken termin token terminaltoken token eof tokennameeof
+token
+termin token terminaltoken token lbrace tokennamelbrac
+brace counter bracecount
+termin token terminaltoken token rbrace tokennamerbrac
+brace counter bracecount
+termin token terminaltoken token lparen tokennamelparen
+brace counter bracecount
+termin token terminaltoken token rparen tokennamerparen
+brace counter bracecount
+termin token terminaltoken token lbracket tokennamelbracket
+brace counter bracecount
+termin token terminaltoken token rbracket tokennamerbracket
+brace counter bracecount
+termin token terminaltoken token comma tokennamecomma
+termin token terminaltoken token semicolon tokennamesemicolon
+brace counter bracecount
+scanner start posit startposit
+invalid input except invalidinputexcept
+ignor

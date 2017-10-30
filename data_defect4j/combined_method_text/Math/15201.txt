@@ -1,0 +1,19 @@
+deprec remov
+set iter evalu count
+method subclass overrid intern
+set setup
+dim
+weight dim
+base abstract multivari vector optim baseabstractmultivariatevectoroptim func multivari vector function multivariatevectorfunct
+call pars step perform
+base handl boiler plate method threshold
+org apach common math3 optim direct
+link optim multivari vector function multivariatevectorfunct optim data optimizationdata
+weight weight matrix weightmatrix entri getentri
+version
+base implement optim multivari scalar function
+param func type object function optim
+xxx temporari code intern data
+dim target length
+state depend link optim data optimizationdata input pars base
+optim method link optim dooptim

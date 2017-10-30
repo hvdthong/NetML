@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil lookup
+privileg handler privilegedhandl privileg handler iprivilegedhandl
+field bind fieldbind privileg access field getprivilegedaccessfield field bind fieldbind base field basefield ast node astnod locat
+resolv member resolvedmemb kei aspect inaspect factori make resolv member makeresolvedmemb base field basefield
+accessor kei containskei kei field bind fieldbind accessor kei
+field bind fieldbind ret privileg field bind privilegedfieldbind aspect inaspect base field basefield
+check weav access checkweaveaccess kei declar type getdeclaringtyp locat
+base field basefield access method alwaysneedsaccessmethod accessor put kei ret
+ret

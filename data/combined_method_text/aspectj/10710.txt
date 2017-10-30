@@ -1,0 +1,29 @@
+org aspectj ajd swing
+repres configur structur view system render
+code structuretreemanag code
+author mik kersten
+browser view panel browserviewpanel panel jpanel structur view render structureviewrender
+init jbinit except
+tree panel set layout setlayout border layout2 borderlayout2
+set layout setlayout border layout1 borderlayout1
+view combo box view combobox set prefer size setpreferreds dimens
+view combo box view combobox add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+view combo box action perform view combobox actionperform
+view combo box view combobox set minimum size setminimums dimens
+view combo box view combobox set font setfont java awt font sansserif
+depth slider set maximum size setmaximums dimens
+depth slider set tool tip text settooltiptext
+depth slider set minimum size setminimums dimens
+depth slider set border setbord
+depth slider set prefer size setpreferreds dimens
+depth slider set maximum setmaximum
+depth slider set paint tick setpainttick
+depth slider set setvalu
+depth slider set paint label setpaintlabel
+view tool bar view toolbar set floatabl setfloat
+add view tool bar view toolbar border layout borderlayout north
+view tool bar view toolbar add view combo box view combobox
+view tool bar view toolbar add depth slider
+add tree panel border layout borderlayout center
+tree panel add tree scroll pane tree scrollpan border layout borderlayout center

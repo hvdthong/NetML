@@ -1,0 +1,33 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+todo add proper handl bad path suffix
+param configfilepath path lst file
+read structur model readstructuremodel string config file path configfilepath
+hierarchi read hierarchyreadok
+config file path configfilepath
+hierarchi set root setroot hierarchi ihierarchi structur structur
+string file path filepath gen extern file path genexternfilepath config file path configfilepath
+file input stream fileinputstream file input stream fileinputstream file path filepath
+object input stream objectinputstream object input stream objectinputstream
+hierarchi aspect element hierarchi aspectjelementhierarchi read object readobject
+hierarchi read hierarchyreadok
+mapper relationship map relationshipmap read object readobject
+relationship map relationshipmap mapper set hierarchi sethierarchi hierarchi
+file found except filenotfoundexcept fnfe
+hierarchi set root setroot hierarchi ihierarchi structur structur
+eof except eofexcept eof
+format sym file miss relationship
+hierarchi read hierarchyreadok
+system err println asmmanag unabl read structur model config file path configfilepath
+eof print stack trace printstacktrac
+hierarchi set root setroot hierarchi ihierarchi structur structur
+except
+system err println asmmanag unabl read structur model configfilepath
+printstacktrac
+hierarchi set root setroot hierarchi ihierarchi structur structur
+notifi listen notifylisten

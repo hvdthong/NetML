@@ -1,0 +1,26 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+param arg
+messag holder imessagehold check custom messag holder checkforcustommessagehold string arg
+messag holder imessagehold holder
+string custom messag holder custommessagehold parm arg parminarg messag holder option messag holder option arg
+custom messag holder custommessagehold
+holder messag holder imessagehold class fornam custom messag holder custommessagehold instanc newinst
+except
+holder handler ourhandl
+abort except abortexcept fail creat custom messag holder class
+custom messag holder custommessagehold
+holder

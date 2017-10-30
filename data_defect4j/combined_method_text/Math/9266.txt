@@ -1,0 +1,8 @@
+abstract multipl linear regress abstractmultiplelinearregress
+intercept nointercept intercept nointercept
+version
+param intercept nointercept mean model estim intercept term
+version revis date
+org apach common math stat regress
+abstract base implement multipl linear regress multiplelinearregress
+set intercept setnointercept intercept nointercept

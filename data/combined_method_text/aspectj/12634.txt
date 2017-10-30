@@ -1,0 +1,33 @@
+org aspectj apach bcel classfil
+class repres tabl line number debug
+purpos attribut code attribut
+pair pc line number
+version linenumbert java aclement exp
+author href mailto marku dahm berlin dahm
+code
+asc feb06 made unpack lazi
+line number tabl linenumbert attribut
+map byte code posit sourc code line
+param po byte code offset
+return line sourc code
+sourc line getsourcelin po
+unpack
+line number tabl length
+arrai empti
+min index min
+binari search arrai order
+line number tabl start getstartpc
+po
+line number tabl line number getlinenumb
+po po constrain search area
+po
+exact match found common case
+return line number correspond greatest index
+po
+po min
+min
+min index
+find valid entri bytecod
+offset
+min index
+line number tabl min index line number getlinenumb

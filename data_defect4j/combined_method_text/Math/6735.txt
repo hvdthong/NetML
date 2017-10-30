@@ -1,0 +1,79 @@
+pre
+solv rectangular system squar sens
+org apach common math od nonstiff
+initi high order scale deriv step start
+version
+classic represent previou deriv nordsieck
+repres correct state
+inherit doc inheritdoc
+expect previou equat
+param dot ydot step deriv
+dik ohk dikm1ohk ratio
+comput formula exact
+real matrix realmatrix decomposit solver getsolv solv array2 row real matrix array2drowrealmatrix
+dot adoti
+dot0 ydot0 dot ydot
+taylor seri formula show index offset
+absolut matrix
+observ method similar updat formula case
+dot ydoti dot ydot
+link adam moulton integr adamsmoultonintegr adam moulton method predict nordsieck vector
+depend handl transform
+dot bdoti
+result taylor seri formula
+ratio
+deriv handl
+param step time
+linear coeffici equat
+param step size scale
+sum
+y''' deriv
+defin scale deriv step
+link adam moulton integr adamsmoultonintegr adam moulton integr convert
+represent nordsieck vector
+degre polynomi
+previou definit classic represent multistep method
+write relat set linear
+link adam bashforth integr adamsbashforthintegr adam bashforth
+step comput nordsieck vector step
+vector time matrix built
+row shift matrix lower left part ident matrix
+plusmn
+dot adoti dik ohk dikm1ohk
+adam nordsieck transform adamsnordsiecktransform
+array2 row real matrix array2drowrealmatrix initi high order deriv initializehighorderderiv
+array2 row real matrix array2drowrealmatrix data getdata
+deriv
+decomposit qrdecomposit decomposit
+dot ydot
+dik ohk dikm1ohk
+y'' deriv
+version revis date
+param step state
+represent higher order scale deriv
+nordieck vector step y''
+omit index notat clariti
+dot0 ydot0
+equat depend nordsieck vector
+transform nordsieck vector adam integr
+dot bdoti dot ydoti dot0 ydot0
+array2 row real matrix array2drowrealmatrix decomposit solver getsolv solv
+classic represent nordsieck vector step end transform
+term
+vector matrix depend state
+length length
+upper repres
+y'''
+decomposit qrdecomposit decomposit decomposit impl qrdecompositionimpl array2 row real matrix array2drowrealmatrix
+predict state lower
+taylor seri
+defin
+length
+link adam bashforth integr adamsbashforthintegr adam bashforth method nordsieck vector
+chang formula comput similar transform
+previou formula valu comput transform
+predict vector correct vector comput
+estim nordsieck vector
+decomposit decomposit qrdecomposit array2 row real matrix array2drowrealmatrix
+higher degre scale deriv step handl
+classic represent nordsieck vector step start result matrix simpli

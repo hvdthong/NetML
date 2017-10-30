@@ -1,0 +1,18 @@
+comput
+param dimens data
+link org apach common math stat descript multivari summari statist multivariatesummarystatist
+covari comput bias popul covari
+synchron multivari summari statist synchronizedmultivariatesummarystatist
+oper singl instanc caus runtim except due race
+method atom oper singl instanc
+covari bia correct iscovariancebiascorrect
+thread comput statist instanc thread modifi
+param covari bia correct iscovariancebiascorrect unbias sampl
+version revis date
+org apach common math stat descript
+implement
+safe multithread environ multipl thread safe
+synchron multivari summari statist synchronizedmultivariatesummarystatist covari bia correct iscovariancebiascorrect
+construct synchron multivari summari statist synchronizedmultivariatesummarystatist instanc
+instanc comput statist
+condit effect implement make modif access

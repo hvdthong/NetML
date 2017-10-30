@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+type pattern list typepatternlist type pattern typepattern argument
+type pattern typepattern argument
+argument length
+argument type pattern typepattern ellipsi ellipsi count ellipsiscount

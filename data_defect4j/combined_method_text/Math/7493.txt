@@ -1,0 +1,33 @@
+compar real point pair realpointvaluepair compar
+set point setpoint origin
+param origin origin simplex preserv
+multi direct direct search method
+size getsiz
+param coeff linear coeffici
+transform xtransform dim
+real point pair realpointvaluepair origin
+origin xorigin origin point ref getpointref
+poorest
+evalu simplex
+comput evalu simplex
+dim dimens getdimens
+version
+version revis date
+param compar compar sort simplex vertic
+smallest xsmallest origin point ref getpointref
+set point setpoint real point pair realpointvaluepair transform xtransform doubl nan
+param evalu function evaluationfunct evalu function
+maxim number evalu exceed
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+org apach common math except evalu except toomanyevaluationsexcept
+point getpoint
+dim
+math user except mathuserexcept function evalu point
+coeff
+transform xtransform smallest xsmallest coeff smallest xsmallest origin xorigin
+org apach common math optim direct
+math user except mathuserexcept
+real point pair realpointvaluepair evalu simplex evaluatenewsimplex multivari real function multivariaterealfunct evalu function evaluationfunct
+evalu evalu function evaluationfunct compar
+point transform simplex
+perform linear transform simplex point

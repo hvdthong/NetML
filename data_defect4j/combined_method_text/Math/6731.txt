@@ -1,0 +1,82 @@
+pre
+org apach common math od nonstiff
+initi matrix util matrixutil big fraction matrix real matrix bigfractionmatrixtorealmatrix big invers bigrinvers
+version
+classic represent previou deriv nordsieck
+repres correct state
+inherit doc inheritdoc
+param step nstep number step multistep method
+field decomposit impl fieldludecompositionimpl big fraction bigfract big bigp solver getsolv
+comput formula exact
+big fraction bigfract visit row column big fraction bigfract
+overrid
+big fraction bigfract big fraction bigfract step nstep
+adam nordsieck transform adamsnordsiecktransform step nstep
+simpl constructor
+taylor seri formula show index offset
+arrai fill shift shiftedp big fraction bigfract
+absolut matrix
+observ method similar updat formula case
+link adam moulton integr adamsmoultonintegr adam moulton method predict nordsieck vector
+depend handl transform
+result taylor seri formula
+updat matrix util matrixutil big fraction matrix real matrix bigfractionmatrixtorealmatrix big supdat bigmsupd
+deriv handl
+shift shiftedp shift shiftedp
+big fraction bigfract shift shiftedp big bigp data getdata
+sum
+y''' deriv
+appli invers transform
+defin scale deriv step
+link adam moulton integr adamsmoultonintegr adam moulton integr convert
+arrai fill big fraction bigfract
+represent nordsieck vector
+degre polynomi
+previou definit classic represent multistep method
+field decomposit solver fielddecompositionsolv big fraction bigfract solver psolver
+link adam bashforth integr adamsbashforthintegr adam bashforth
+step comput nordsieck vector step
+vector time matrix built
+row shift matrix lower left part ident matrix
+plusmn
+field matrix fieldmatrix big fraction bigfract big supdat bigmsupd
+field matrix fieldmatrix big fraction bigfract big invers bigrinvers
+big bigc1 doublevalu
+adam nordsieck transform adamsnordsiecktransform
+shift shiftedp big fraction bigfract step nstep
+deriv
+shift shiftedp length
+shift row
+solver psolver solv array2 row field matrix array2drowfieldmatrix big fraction bigfract shift shiftedp
+y'' deriv
+version revis date
+represent higher order scale deriv
+omit index notat clariti
+big fraction bigfract big bigc1 solver psolver solv
+big bigp walk optim order walkinoptimizedord default field matrix chang visitor defaultfieldmatrixchangingvisitor big fraction bigfract big fraction bigfract
+column 0x1 0x1 negat
+transform nordsieck vector adam integr
+nordsieck multistep shift row repres step advanc
+field decomposit impl fieldludecompositionimpl big fraction bigfract big bigp solver getsolv invers getinvers
+classic represent nordsieck vector step end transform
+term
+vector matrix depend state
+updat coeffici comput combin transform
+convert coeffici
+upper repres
+solv arrai field vector arrayfieldvector big fraction bigfract arrai toarrai
+predict state lower
+field decomposit fieldludecomposit big fraction bigfract big bigp solver getsolv
+field matrix fieldmatrix big fraction bigfract big bigp build buildp step nstep
+big fraction bigfract big bigc1 solver psolver
+defin
+exclud comput
+link adam bashforth integr adamsbashforthintegr adam bashforth method nordsieck vector
+chang formula comput similar transform
+initi coeffici comput matrix ab
+previou formula valu comput transform
+step nstep
+predict vector correct vector comput
+comput exact coeffici
+higher degre scale deriv step handl
+classic represent nordsieck vector step start result matrix simpli

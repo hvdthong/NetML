@@ -1,0 +1,16 @@
+NativeArray.getAllIds does not return array indices
+User-Agent:       Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.0.10) Gecko/2009042315 Firefox/3.0.10
+Build Identifier: Rhino 1.7 release 2 2009 03 22
+
+NativeArray.getIds extends ScriptableObject.getIds by adding the array indices, but they are not added to NativeArray.getAllIds, which should return everything returned by getIds, plus the non-enumerable properties.
+
+Reproducible: Always
+
+Steps to Reproduce:
+new NativeArray(new String[]{"a", "b"}).getAllIds()
+
+Actual Results:  
+["length"]
+
+Expected Results:  
+[0, 1, "length"]

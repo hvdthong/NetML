@@ -1,0 +1,10 @@
+param index index entri visit
+visit index
+org apach common math3 linear
+visit entri vector
+visit
+real vector preserv visitor realvectorpreservingvisitor
+defin visitor entri vector visitor
+implement alter entri vector
+version
+param entri visit

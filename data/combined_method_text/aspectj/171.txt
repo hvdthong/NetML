@@ -1,0 +1,9 @@
+org aspectj tool ajbrows
+bare bone editor implement framework
+standalon
+author mik kersten
+basic editor basiceditor editor adapt editoradapt
+show sourc line showsourcelin sourc locat isourceloc sourc locat sourceloc highlight
+show sourc line showsourcelin sourc locat sourceloc sourc file getsourcefil absolut path getabsolutepath sourc locat sourceloc line getlin highlight
+null pointer except nullpointerexcept npe
+ajd default getdefault id adapt getideuiadapt displai statu inform displaystatusinform sourc line seek

@@ -1,0 +1,12 @@
+org aspectj apach bcel verifi structur
+interfac defin properti jvm bytecod subroutin
+note 'abused' maintain top level code
+consist fashion
+version subroutin java aclement exp
+author href http www inf berlin ehaas enver haas
+subroutin
+return instruct form subroutin
+note instruct part subroutin
+top level code consid special subroutin
+reachabl dead code
+instruct handl instructionhandl instruct getinstruct

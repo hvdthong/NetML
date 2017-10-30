@@ -1,0 +1,31 @@
+data row outdatarow data outdata row
+code
+array2 row field matrix array2drowfieldmatrix field element fieldel
+data row outdatarow col sum
+link field matrix fieldmatrix matrix element index
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+sum sum add data row datarow multipli data col
+data outdata build arrai buildarrai field getfield row nrow col ncol
+param matrix postmultipli
+check multipl compat checkmultiplicationcompat
+version
+safeti check
+base code entri getentri code
+row nrow row dimens getrowdimens
+dimens mismatch except dimensionmismatchexcept
+param type field element
+dimens mismatch except dimensionmismatchexcept number column
+array2 row field matrix array2drowfieldmatrix field getfield data outdata
+row row row nrow row
+col ncol column dimens getcolumndimens
+matrix equal number row code
+data outdata math arrai matharrai build arrai buildarrai field getfield row nrow col ncol
+org apach common math3 linear
+col col col ncol col
+return element row column matrix
+postmultipli matrix code
+array2 row field matrix array2drowfieldmatrix multipli array2 row field matrix array2drowfieldmatrix
+data row datarow data row
+sum nsum column dimens getcolumndimens
+sum nsum
+sum field getfield getzero

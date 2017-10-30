@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+invokeinterfac invok interfac method
+pre stack objectref arg1 arg2 pre
+version invokeinterfac java aclement exp
+author href mailto marku dahm berlin dahm
+invokeinterfac invok instruct invokeinstruct
+consum stack consumestack constant pool gen constantpoolgen cpg public int consumestack constantpoolgen cpg narg byte code
+narg return narg narg includ refer

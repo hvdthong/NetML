@@ -1,0 +1,114 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+kind relationship
+affect
+affectedbi
+relationship ad 'b' modifi concret exampl
+'advis advisedby' 'annot annotatedby'
+'b' woven remov relationship
+reoccur woven
+remov 'affects' relationship target 'b' remov 'affectedby'
+relationship sourc 'b'
+remov relationship target type removerelationshipstargettingthistyp string typenam
+debug
+debug system err println removerelationshipstargettingthistyp typenam
+string pkg
+string type typenam
+sep lastsep typenam index lastindexof
+sep lastsep
+pkg typenam substr sep lastsep
+type typenam substr sep lastsep
+didsometh
+program element iprogramel type node typenod hierarchi find element type findelementfortyp pkg type
+reason null
+file fundament error exist model proceedonerror forc weav
+type node typenod
+set sourc remov sourcestoremov hash set hashset
+iter sourc handl relationship map aim remov 'affect by'
+relationship sourc relationship type read
+type woven
+set sourcehandl set sourcehandlesset mapper entri getentri
+list relationship remov relationshipstoremov arrai list arraylist
+iter keyit sourcehandl set sourcehandlesset iter keyit hasnext
+string hid string keyit
+program element iprogramel sourc element sourceel hierarchi element getel hid
+sourc element sourceel type sametyp hid sourc element sourceel type node typenod
+worth continu relationship remov
+relationship remov relationshipstoremov clear
+list relationship mapper hid
+iter relit relationship iter relit hasnext
+relationship irelationship rel relationship irelationship relit
+rel kind getkind relationship irelationship kind pointcut pointcut rel getkind irelationship kind pointcut continu relationship ad compil time argh
+rel affect isaffect rel isaffect continu 'affect by' relationship advis
+relationship remov relationshipstoremov add rel relationshipstoremov add rel relationship remov target
+relationship empti process remov sourc handl
+relationship remov relationshipstoremov size
+didsometh
+relationship remov relationshipstoremov size relationship size sourc remov sourcestoremov add hid
+relationship remov relationshipstoremov size
+relationship remov relationship remov relationshipstoremov
+remov sourc valid relationship
+iter srciter sourc remov sourcestoremov iter srciter hasnext
+string hid string srciter
+system err println sourc handl relationship hid
+mapper remov removeal hid
+program element iprogramel ip hierarchi element getel hid
+ip
+relationship hang 'code' node delet
+ip kind getkind equal program element iprogramel kind code
+debug system err println sourc handl code node remov code ip parent ip parent getpar
+remov singl node removesinglenod ip
+debug dumprel stderr dumprelsstderr process 'affectedby'
+didsometh didsometh
+sourc remov sourcestoremov clear
+remov 'affects' relationship
+debug dumprel stderr dumprelsstderr process 'affects'
+iter sourc handl relationship map
+sourcehandl set sourcehandlesset mapper entri getentri
+iter keyit sourcehandl set sourcehandlesset iter keyit hasnext
+string hid string keyit
+program element iprogramel sourc element sourceel hierarchi element getel hid
+relationship remov relationshipstoremov clear
+list relationship mapper hid
+iter relit relationship iter relit hasnext
+relationship irelationship rel relationship irelationship relit
+rel kind getkind relationship irelationship kind pointcut pointcut rel getkind irelationship kind pointcut continu relationship ad compil time argh
+rel affect isaffect
+list target rel target gettarget
+list target remov targetstoremov arrai list arraylist
+find target target type interest remov
+iter target iter targetsit target iter target iter targetsit hasnext
+string targethid string target iter targetsit
+point type
+program element iprogramel exist target existingtarget hierarchi element getel targethid
+exist target existingtarget type sametyp targethid exist target existingtarget type node typenod target remov targetstoremov add targethid
+target remov targetstoremov size
+target remov targetstoremov size target size relationship remov relationshipstoremov add rel
+remov target longer valid
+iter targ iter targsit target remov targetstoremov iter targ iter targsit hasnext
+string togo string targ iter targsit
+target remov togo
+relationship empti process remov sourc handl
+relationship remov relationshipstoremov size
+remov relationship sourc handl
+relationship remov relationshipstoremov size relationship size sourc remov sourcestoremov add hid
+relationship remov relationshipstoremov size
+relationship remov relationship remov relationshipstoremov
+remov sourc valid relationship
+iter srciter sourc remov sourcestoremov iter srciter hasnext
+string hid string srciter
+system err println sourc handl relationship hid
+mapper remov removeal hid
+program element iprogramel ip hierarchi element getel hid
+ip
+relationship hang 'code' node delet
+ip kind getkind equal program element iprogramel kind code
+debug system err println sourc handl code node remov code ip parent ip parent getpar
+remov singl node removesinglenod ip
+debug dumprel stderr dumprelsstderr process 'affects'
+debug system err println removerelationshipstargettingthisfil

@@ -1,0 +1,4 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+proce error proceedonerror
+build config buildconfig proce error getproceedonerror

@@ -1,0 +1,28 @@
+org aspectj bridg
+conveni api' construct print send messag
+messag util messageutil
+make imessagehandl handl imessag kind
+greater infix string
+param kind imessag kind requir messag
+param orgreat true accept messag greater kind
+defin imessag kind compar
+param infix string text requir messag null empti
+accept messag kind
+return imessagehandl selector work param spec
+messag handler imessagehandl make selector makeselector messag imessag kind kind greater orgreat string infix
+greater orgreat lang util langutil empti isempti infix
+kind messag imessag abort
+pick abort pick abort
+kind messag imessag debug
+pick debug pick debug
+kind messag imessag debug
+pick debug pick debug
+kind messag imessag error
+pick error pick error
+kind messag imessag fail
+pick fail pick fail
+kind messag imessag info
+pick info pick info
+kind messag imessag warn
+pick warn pick warn
+kind selector kindselector kind greater orgreat infix

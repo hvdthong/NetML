@@ -1,0 +1,42 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+amc
+pars signatur string interpret methodtypesignatur
+grammar defin section jvm specif
+method type signatur methodtypesignatur pars method signatur parseasmethodsignatur string sig
+input string inputstr sig
+token stream tokenstream token sig
+token index tokenindex
+formal type paramet formaltypeparamet formal formal type paramet formaltypeparamet
+type signatur typesignatur param type signatur typesignatur
+type signatur typesignatur return type returntyp
+field type signatur fieldtypesignatur throw sig throwssig field type signatur fieldtypesignatur
+formaltypeparamet opt
+eat maybeeat
+list formal type paramet list formaltypeparameterslist arrai list arraylist
+formal type paramet list formaltypeparameterslist add pars formal type paramet parseformaltypeparamet
+eat maybeeat
+formal formal type paramet formaltypeparamet formal type paramet list formaltypeparameterslist size
+formal type paramet list formaltypeparameterslist arrai toarrai formal
+paramet
+eat
+list param list paramlist arrai list arraylist
+eat maybeeat
+field type signatur fieldtypesignatur fsig pars field type signatur parsefieldtypesignatur
+fsig
+param list paramlist add fsig
+param list paramlist add signatur base type signatur basetypesignatur eat identifi eatidentifi
+param type signatur typesignatur param list paramlist size
+param list paramlist arrai toarrai param
+return type
+return type returntyp pars field type signatur parsefieldtypesignatur
+return type returntyp return type returntyp signatur base type signatur basetypesignatur eat identifi eatidentifi
+throw
+list throw list throwslist arrai list arraylist
+eat maybeeat
+field type signatur fieldtypesignatur fsig pars field type signatur parsefieldtypesignatur
+throw list throwslist add fsig
+throw sig throwssig field type signatur fieldtypesignatur throw list throwslist size
+throw list throwslist arrai toarrai throw sig throwssig
+signatur method type signatur methodtypesignatur formal param return type returntyp throw sig throwssig

@@ -1,0 +1,17 @@
+link residu providesresidu return code
+return residu option oper iter
+link math unsupport oper except mathunsupportedoperationexcept method overriden
+real vector realvector residu getresidu
+org apach common math linear
+updat residu
+link math unsupport oper except mathunsupportedoperationexcept
+link iter linear solver iterativelinearsolv
+vector
+math unsupport oper except mathunsupportedoperationexcept
+iter linear solver event iterativelinearsolverev
+version
+base event occur iter
+implement
+link residu providesresidu overriden
+method
+linear solver provid cheap estim updat residu

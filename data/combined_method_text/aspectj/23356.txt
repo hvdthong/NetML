@@ -1,0 +1,67 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+valid support primit validateagainstsupportedprimit pointcut string express
+pointcut kind getpointcutkind
+pointcut
+valid support primit validateagainstsupportedprimit pointcut andpointcut left getleft express
+valid support primit validateagainstsupportedprimit pointcut andpointcut getright express
+pointcut arg
+support primit supportedprimit pointcut primit pointcutprimit arg
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit arg
+pointcut cflow
+cflow pointcut cflowpointcut cfp cflow pointcut cflowpointcut
+cfp cflow iscflowbelow
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit cflow cflow
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit cflow
+pointcut handler
+support primit supportedprimit pointcut primit pointcutprimit handler
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit handler
+pointcut
+pointcut fals fals
+pointcut true true
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit
+pointcut kind
+valid kind pointcut validatekindedpointcut kind pointcut kindedpointcut express
+pointcut
+valid support primit validateagainstsupportedprimit pointcut notpointcut negat pointcut getnegatedpointcut express
+pointcut
+valid support primit validateagainstsupportedprimit pointcut orpointcut left getleft express
+valid support primit validateagainstsupportedprimit pointcut orpointcut getright express
+pointcut target target
+isthi target pointcut thisortargetpointcut isthi
+isthi support primit supportedprimit pointcut primit pointcutprimit
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit
+support primit supportedprimit pointcut primit pointcutprimit target
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit target
+pointcut
+support primit supportedprimit pointcut primit pointcutprimit
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit
+pointcut withincod
+support primit supportedprimit pointcut primit pointcutprimit code code
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit code code
+pointcut atthi target atthi target
+isthi target annot pointcut thisortargetannotationpointcut isthi
+isthi support primit supportedprimit pointcut primit pointcutprimit
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit
+support primit supportedprimit pointcut primit pointcutprimit target target
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit target target
+pointcut atarg
+support primit supportedprimit pointcut primit pointcutprimit arg arg
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit arg arg
+pointcut annot
+support primit supportedprimit pointcut primit pointcutprimit annot annot
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit annot annot
+pointcut atwithin
+support primit supportedprimit pointcut primit pointcutprimit
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit
+pointcut atwithincod
+support primit supportedprimit pointcut primit pointcutprimit withincod withincod
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit withincod withincod
+pointcut refer
+support primit supportedprimit pointcut primit pointcutprimit refer
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit refer
+pointcut user extens user extens
+pointcut case pointcut deliber fall
+illeg argument except illegalargumentexcept unknown pointcut kind pointcut kind getpointcutkind

@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+resolv member resolvedmemb declar pointcut getdeclaredpointcut
+pointcut

@@ -1,0 +1,37 @@
+execut top level task import file delai target
+strip problem mention
+http marc theaimsgroup ant user 109655281326491
+suppos
+outer xml
+
+project outer
+import file xml
+properti foo bar
+echo foo foo echo
+project
+xml
+
+project
+target baz
+properti bar bar set
+echo bar bar echo
+project
+result
+bodewig bodewig tmp ant outer xml
+buildfil outer xml
+echo foo bar
+echo bar bar set
+build success
+total time
+remov target xml
+bodewig bodewig tmp ant outer xml
+buildfil outer xml
+echo bar set
+echo foo bar set
+build success
+total time
+import file target top level task delai
+import file execut
+immedi wrong behav
+argu correct vote execut
+immedi intuit

@@ -1,0 +1,15 @@
+org aspectj org eclips jdt core dom
+abstract class declar annot
+declar ast node type
+declaredeclar
+patternnod call 'pattern'
+simplenam call 'annotationname'
+unsupport jls2
+declar annot declar declareannotationdeclar declar declar declaredeclar
+return annot type member declar declar
+return node
+simpl simplenam annot getannotationnam
+lazi init thread safe reader
+pre lazi init prelazyinit
+simpl simplenam ast
+post lazi init postlazyinit intern annot properti internalannotationnameproperti

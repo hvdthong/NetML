@@ -1,0 +1,22 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+list file compil getfilestocompil pass firstpass
+list time thistim arrai list arraylist
+pass firstpass
+compil sourc file compiledsourcefil arrai list arraylist
+collect modifi file modifiedfil modifi file getmodifiedfil
+system println modifi modifiedfil
+time thistim add addal modifi file modifiedfil
+eclips incrementalimagebuild appear
+iter modifiedfil iter hasnext
+file file file
+adddependentsof file
+ad file addedfil
+time thistim add addal ad file addedfil
+delet class file deleteclassfil
+delet resourc deleteresourc
+add affect sourc file addaffectedsourcefil time thistim time thistim
+add affect sourc file addaffectedsourcefil time thistim compil sourc file compiledsourcefil
+compil sourc file compiledsourcefil time thistim
+time thistim

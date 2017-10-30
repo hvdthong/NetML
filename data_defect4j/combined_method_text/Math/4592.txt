@@ -1,0 +1,19 @@
+field matrix impl fieldmatriximpl field element fieldel abstract field matrix abstractfieldmatrix serializ
+param row dimens rowdimens number row matrix
+param column dimens columndimens number column matrix
+org apach common math linear
+param field field element belong
+param type field element
+row dimens rowdimens column dimens columndimens
+version revis date
+link field matrix fieldmatrix matrix element index
+return element row column matrix
+field matrix impl fieldmatriximpl field field
+illeg argument except illegalargumentexcept row column dimens
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+posit
+creat field matrix fieldmatrix suppli row column dimens
+data build arrai buildarrai field row dimens rowdimens column dimens columndimens
+base code entri getentri code
+field row dimens rowdimens column dimens columndimens
+illeg argument except illegalargumentexcept

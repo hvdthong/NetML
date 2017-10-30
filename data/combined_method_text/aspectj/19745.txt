@@ -1,0 +1,19 @@
+org aspectj weaver
+shadow
+kind read data input stream datainputstream except ioexcept
+kei read byte readbyt
+kei
+method call methodcal
+constructor call constructorcal
+method execut methodexecut
+constructor execut constructorexecut
+field fieldget
+field set fieldset
+static initi staticiniti
+pre initi preiniti
+advic execut adviceexecut
+initi
+except handler exceptionhandl
+synchron lock synchronizationlock
+synchron unlock synchronizationunlock
+except bcexcept unknown kind kei

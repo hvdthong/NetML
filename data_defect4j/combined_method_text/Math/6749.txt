@@ -1,0 +1,36 @@
+pre
+org apach common math od nonstiff
+rel tol reltol compon
+main set part state vector stepsiz control complet
+algorithm perform integr stepsiz control
+step reject attempt made
+main set dimens step accept
+state vector
+link expand state od expandablestatefulod primari state getprimaryst primari part
+step size stepsiz fast math fastmath sqrt min step minstep max step maxstep
+state vector stepsiz control complet state vector
+version
+compon user scalar valu ab tol abstol
+version revis date
+reset intern state dummi valu
+sqrt sum err est errest threshold
+ordinari differenti equat link expand state od expandablestatefulod
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+state vector dimens step accept
+org apach common math od order differenti equat firstorderdifferentialequ basic od
+toler error error threshold comput
+extend od link order differenti equat firstorderdifferentialequ basic od
+stepsiz integr ordinari differenti equat
+ab tol abstol absolut toler compon
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+extend od link
+mean user integr step
+reset intern state resetinternalst
+link extend order differenti equat extendedfirstorderdifferentialequ main set dimens getmainsetdimens
+estim error
+stepsiz
+step size stepsiz math sqrt min step minstep max step maxstep
+ordinari differenti equat link extend order differenti equat extendedfirstorderdifferentialequ
+step start stepstart doubl nan

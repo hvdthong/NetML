@@ -1,0 +1,21 @@
+number iter
+param type object function optim
+link multivari real optim multivariaterealoptim
+optim algorithm find input point set link goal type goaltyp
+link differenti multivari real optim differentiablemultivariaterealoptim
+base multivari real optim basemultivariaterealoptim multivari real function multivariaterealfunct
+multivari real optim multivariaterealoptim
+number evalu correspond call
+number iter realiz algorithm
+call
+version revis date
+maxim minim object function
+method method call
+common math user api advis base code
+code optim method method
+iter getiter
+link optim multivari real function multivariaterealfunct goal type goaltyp optim
+differenti multivari real optim differentiablemultivariaterealoptim
+org apach common math optim
+number iter correspond call
+intend enforc intern coher

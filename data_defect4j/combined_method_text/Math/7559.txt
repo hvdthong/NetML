@@ -1,0 +1,34 @@
+powel algorithm
+ab
+code translat adapt python version
+ab lsab math min fast math fastmath sqrt absolut threshold absolutethreshold min tol mintol
+converg checker convergencecheck real point pair realpointvaluepair checker
+rel threshold relativethreshold rel
+strictli posit except notstrictlypositiveexcept ab
+check procedur line search toler
+rel lsrel math min fast math fastmath sqrt rel threshold relativethreshold min tol mintol
+checker
+version
+function success iter
+constructor user defin converg checker
+defin custom converg checker termin algorithm
+line search toler lower toler
+param ab absolut threshold
+param checker converg checker
+rel min rel toler
+number small except numberistoosmallexcept rel min rel toler
+addit paramet control converg
+earlier
+sci scipi
+number small except numberistoosmallexcept code rel math ulp
+requir optim
+powel optim powelloptim rel
+line line search linesearch rel lsrel ab lsab
+stop criterion base differ
+algorithm implement modul code optim
+param rel rel threshold
+powel optim powelloptim
+min tol mintol
+org apach common math optim direct
+absolut threshold absolutethreshold ab
+strictli posit except notstrictlypositiveexcept code ab

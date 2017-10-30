@@ -1,0 +1,118 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+weav closur weavearoundclosur bcel advic bceladvic munger dynam test hasdynamictest
+instruct factori instructionfactori fact factori getfactori
+enclos method enclosingmethod set inlin setcaninlin
+linenumb sourc line getsourcelin
+move instruct shadow method
+lazi method gen lazymethodgen callback method callbackmethod
+extract method extractmethod
+mangler namemangl callback method aroundcallbackmethodnam
+signatur getsignatur
+enclos class getenclosingclass
+munger
+bcel var bcelvar advic var advicevar munger expos state bcel var getexposedstateasbcelvar
+string closur class closureclassnam
+mangler namemangl make closur class makeclosureclassnam
+enclos class getenclosingclass type gettyp
+enclos class getenclosingclass gener tag getnewgeneratednametag
+member constructor sig constructorsig member impl memberimpl member constructor
+unresolv type unresolvedtyp fornam closur class closureclassnam init
+ljava lang object
+bcel var bcelvar closur holder closurehold
+getkind preinitializaiton
+happen advic
+kind getkind pre initi preiniti
+closur holder closurehold gen temp var gentempvar ajc member maker ajcmembermak closur type closur type
+instruct list instructionlist closur instanti closureinstanti
+make closur instanti makeclosureinstanti constructor sig constructorsig closur holder closurehold
+lazymethodgen constructor
+make closur class return constructor makeclosureclassandreturnconstructor
+closur class closureclassnam
+callback method callbackmethod
+make proce argument map makeproceedargumentmap advic var advicevar
+instruct list instructionlist return convers code returnconversioncod
+kind getkind pre initi preiniti
+return convers code returnconversioncod instruct list instructionlist
+bcel var bcelvar state temp var statetempvar gen temp var gentempvar unresolv type unresolvedtyp objectarrai
+closur holder closurehold append load appendload return convers code returnconversioncod fact
+return convers code returnconversioncod append
+util creat invok createinvok
+fact
+world
+ajc member maker ajcmembermak closur pre initi getter aroundclosurepreinitializationgett
+state temp var statetempvar append store appendstor return convers code returnconversioncod fact
+type state type statetyp super constructor paramet type getsuperconstructorparametertyp
+return convers code returnconversioncod append instruct constant instructionconst aload returnconversioncod append instructionconst aload put back stack
+len state type statetyp length len
+unresolv type unresolvedtyp bcel bceltx bcel world bcelworld bcel frombcel state type statetyp
+resolv type resolvedtyp state rtx statertx world resolv bcel bceltx
+state rtx statertx miss ismiss
+world lint getlint find type cantfindtyp signal
+string weaver messag weavermessag format weaver messag weavermessag find type weav preinit find type weav preinit bcel bceltx class getclassnam
+sourc locat getsourceloc
+sourc locat isourceloc munger sourc locat getsourceloc
+imessag msg messag
+weavermessag format weavermessag find type weav preinit bceltx getclassnam
+imessag error getsourceloc null
+isourceloc munger getsourceloc
+world getmessagehandl handlemessag msg
+state temp var statetempvar append convert arrai load appendconvertablearrayload
+return convers code returnconversioncod
+fact
+state rtx statertx
+return convers code returnconversioncod
+util creat convers createconvers
+factori getfactori
+bcel world bcelworld make bcel type makebceltyp munger signatur getsignatur return type getreturntyp
+callback method callbackmethod return type getreturntyp world java5 mode isinjava5mod
+fall isfallsthrough
+return convers code returnconversioncod append
+instruct factori instructionfactori creat return createreturn callback method callbackmethod return type getreturntyp
+initi bit flag shadow
+bitflag
+kind getkind target istargetsameasthi bitflag
+hasthi bitflag
+bind bindsthi munger bitflag
+target hastarget bitflag
+bind target bindstarget munger bitflag
+ataj aspect link closur joinpoint instanc
+munger concret aspect getconcreteaspect munger concret aspect getconcreteaspect annot style aspect isannotationstyleaspect
+munger declar aspect getdeclaringaspect munger declar aspect getdeclaringaspect resolv world annot style aspect isannotationstyleaspect
+stick bitflag stack call variant linkclosureandjoinpoint take int
+closur instanti closureinstanti append fact creat constant createconst integ bitflag
+closur instanti closureinstanti append util creat invok createinvok
+factori getfactori
+world getworld
+member impl memberimpl
+member method
+unresolv type unresolvedtyp fornam org aspectj runtim intern aroundclosur
+modifi public
+linkclosureandjoinpoint
+lorg aspectj lang proceedingjoinpoint
+instruct list instructionlist advic instruct list instructionlist
+advic append munger advic arg setup getadviceargsetup closur instanti closureinstanti
+invok advic
+advic append munger test advic instruct getnontestadviceinstruct
+advic append return convers code returnconversioncod
+kind getkind shadow method execut methodexecut linenumb
+advic start getstart add target addtarget line number tag linenumbertag linenumb
+dynam test hasdynamictest
+rang append advic
+instruct list instructionlist callback make call callback makecalltocallback callback method callbackmethod
+instruct list instructionlist post callback postcallback instruct list instructionlist
+termin return terminateswithreturn
+callback append
+instruct factori instructionfactori creat return createreturn callback method callbackmethod return type getreturntyp
+advic append
+instruct factori instructionfactori creat branch instruct createbranchinstruct
+constant goto
+post callback postcallback append instruct constant instructionconst nop
+rang append
+munger test instruct gettestinstruct
+advic start getstart
+callback start getstart
+advic start getstart
+rang append advic
+rang append callback
+rang append post callback postcallback

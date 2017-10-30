@@ -1,0 +1,33 @@
+check row index checkrowindex start row startrow
+check column index checkcolumnindex start column startcolumn
+method implement link entri getentri access
+param start row startrow initi row index
+number small except numberistoosmallexcept code end row endrow start row startrow
+code end column endcolumn start column startcolumn
+except matrix index except matrixindexexcept indic valid
+row column count
+basic implement link field matrix fieldmatrix method underli storag
+org apach common math linear
+abstract field matrix abstractfieldmatrix field element fieldel field matrix fieldmatrix
+param end column endcolumn final column index
+rang except outofrangeexcept indic valid
+param end row endrow final row index
+check submatrix rang indic valid
+version revis date
+matrix index except matrixindexexcept local format localizedformat initi column final column
+abstract field matrix abstractfieldmatrix field element fieldel
+param type field element
+check column index checkcolumnindex end column endcolumn
+start column startcolumn end column endcolumn
+matrix index except matrixindexexcept initi column column
+number small except numberistoosmallexcept local format localizedformat initi row final row
+param start column startcolumn initi column index
+matrix index except matrixindexexcept initi row row
+check matrix index checksubmatrixindex start row startrow end row endrow
+number small except numberistoosmallexcept local format localizedformat initi column final column
+matrix element deriv provid faster implement
+end column endcolumn start column startcolumn
+check row index checkrowindex end row endrow
+matrix index except matrixindexexcept local format localizedformat initi row final row
+start row startrow end row endrow
+end row endrow start row startrow

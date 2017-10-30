@@ -1,0 +1,9 @@
+overrid
+org apach common math3 linear
+inherit doc inheritdoc
+collect method oper matric
+start row startrow end row endrow start column startcolumn end column endcolumn
+matrix util matrixutil
+version
+data row column
+start row column

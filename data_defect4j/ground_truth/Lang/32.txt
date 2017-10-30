@@ -1,0 +1,3 @@
+org/apache/commons/lang3/builder/HashCodeBuilder_isRegistered-Object_boolean
+org/apache/commons/lang3/builder/HashCodeBuilder_register-Object_void
+org/apache/commons/lang3/builder/HashCodeBuilder_unregister-Object_void

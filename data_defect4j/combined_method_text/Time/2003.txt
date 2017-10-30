@@ -1,0 +1,16 @@
+author stephen colebourn
+author kandarp shah
+instant iso chronolog isochronolog instanc getinst
+link readabl date time readabledatetim
+construct instanc set millisecond t00 01t00 00z
+base date time basedatetim implement readabl date time readabledatetim store
+kind date time object referenc
+code iso chronolog isochronolog code time zone
+base date time basedatetim
+org joda time base
+param instant millisecond t00 01t00 00z
+author brian neill o'neil
+base date time basedatetim instant
+gener directli api user
+base date time basedatetim subclass mutabl thread safe
+data code code code chronolog code field

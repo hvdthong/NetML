@@ -1,0 +1,8 @@
+org aspectj weaver loadtim
+bea jrocket jmapi agent
+xmanag class org aspectj weaver loadtim jrockitag
+rockit agent jrockitag bea jvm class pre processor classpreprocessor
+rockit agent jrockitag
+pre processor preprocessor
+class librari classlibrari jvm factori jvmfactori jvm getjvm class librari getclasslibrari
+set class pre processor setclasspreprocessor

@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel var bcelvar var
+instruct list instructionlist creat convert arrai store createconvertablearraystor
+instruct factori instructionfactori fact
+index
+bcel var bcelvar store
+instruct list instructionlist instruct list instructionlist
+append convert arrai store appendconvertablearraystor fact index store

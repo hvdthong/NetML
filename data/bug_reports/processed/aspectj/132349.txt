@@ -1,0 +1,64 @@
+inter type declaration nested class generic type illegalstateexception
+compiler 20th december eclipse ajdt plugin 20051220093604 compile code
+public class topleveltype
+public static class nestedtype
+
+aspect someaspect
+public void topleveltype nestedtype somemethod
+
+
+results
+dokumente und einstellungen michi eigene dateien temp tmp topleveltype java error internal compiler error
+java lang illegalstateexception generic type parameterized type
+org aspectj weaver resolvedtypemunger init resolvedtypemunger java
+org aspectj weaver newmethodtypemunger init newmethodtypemunger java
+org aspectj ajdt internal compiler ast intertypemethoddeclaration build intertypemethoddeclaration java
+org aspectj ajdt internal compiler ast aspectdeclaration buildintertypeandperclause aspectdeclaration java
+org aspectj ajdt internal compiler lookup ajlookupenvironment buildintertypeandperclause ajlookupenvironment java
+org aspectj ajdt internal compiler lookup ajlookupenvironment collectallitdsanddeclares ajlookupenvironment java
+org aspectj ajdt internal compiler lookup ajlookupenvironment completetypebindings ajlookupenvironment java
+org aspectj org eclipse jdt internal compiler compiler begintocompile compiler java
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbuildmanager java
+org aspectj ajdt ajc ajdtcommand docommand ajdtcommand java
+org aspectj ajdt ajc ajdtcommand runcommand ajdtcommand java
+org aspectj tools ajc main run main java
+org aspectj tools ajc main runmain main java
+org aspectj tools ajc main main main java
+source information
+abort
+exception thrown aspectj
+logged bug find current bugs
+http bugs eclipse org bugs buglist cgi product aspectj component compiler
+bugs exceptions thrown titles file line top stack
+somefile java
+find exception bug add bug
+http bugs eclipse org bugs enter bug cgi product aspectj
+make bug priority include test program
+reproduce exception
+generic type parameterized type
+collecting itds declares someaspect
+completing type bindings
+batch building classpath programme java jre1 lib ext dnsns jar programme java jre1 lib ext localedata jar programme java jre1 lib ext sunjce provider jar programme java jre1 lib ext sunpkcs11 jar programme java aspectj1 lib aspectjrt jar
+generic type parameterized type
+java lang illegalstateexception generic type parameterized type
+org aspectj weaver resolvedtypemunger init resolvedtypemunger java
+org aspectj weaver newmethodtypemunger init newmethodtypemunger java
+org aspectj ajdt internal compiler ast intertypemethoddeclaration build intertypemethoddeclaration java
+org aspectj ajdt internal compiler ast aspectdeclaration buildintertypeandperclause aspectdeclaration java
+org aspectj ajdt internal compiler lookup ajlookupenvironment buildintertypeandperclause ajlookupenvironment java
+org aspectj ajdt internal compiler lookup ajlookupenvironment collectallitdsanddeclares ajlookupenvironment java
+org aspectj ajdt internal compiler lookup ajlookupenvironment completetypebindings ajlookupenvironment java
+org aspectj org eclipse jdt internal compiler compiler begintocompile compiler java
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbuildmanager java
+org aspectj ajdt ajc ajdtcommand docommand ajdtcommand java
+org aspectj ajdt ajc ajdtcommand runcommand ajdtcommand java
+org aspectj tools ajc main run main java
+org aspectj tools ajc main runmain main java
+org aspectj tools ajc main main main java
+fail abort error

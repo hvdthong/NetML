@@ -1,0 +1,7 @@
+org aspectj tool ajbrows swing
+standalon oper
+author mik kersten
+top frame topfram frame jframe
+build
+ajd default getdefault run build thread runbuildindifferentthread ajd default getdefault
+build config manag getbuildconfigmanag activ config file getactiveconfigfil

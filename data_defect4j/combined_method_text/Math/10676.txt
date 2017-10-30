@@ -1,0 +1,28 @@
+dimens
+version
+org apach common math3 analysi interpol
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol degre xdegre degre ydegre
+safe factor safefactor 1e2
+degre xdegre
+simpl vector checker simplevectorvaluecheck checker
+degre degre
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol degre
+gener bicub interpol function
+degre xdegre degre xdegre
+param degre xdegre degre polynomi fit function
+degre ydegre degre ydegre
+polynomi fit
+prior gener interpol function input smooth
+posit except notpositiveexcept degre xdegre
+except posit except notpositiveexcept degre posit
+degre ydegre
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol
+posit except notpositiveexcept degre ydegre
+safe factor safefactor precis safe min
+simpl vector checker simplevectorvaluecheck safe factor safefactor precis epsilon
+param degre degre polynomi fit function
+param degre ydegre degre polynomi fit function
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol degre xdegre
+fitter yfitter polynomi fitter polynomialfitt gauss newton optim gaussnewtonoptim checker
+posit except notpositiveexcept
+fitter xfitter polynomi fitter polynomialfitt gauss newton optim gaussnewtonoptim checker

@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+string extra arg maybegetextraargnam
+string arg argnam
+annot ajannot advic kind advicekind advic kind advicekind return afterreturn
+arg argnam string liter getstringliteralfor return annot ajannot advic annot adviceannot
+annot ajannot advic kind advicekind advic kind advicekind throw afterthrow
+arg argnam string liter getstringliteralfor throw annot ajannot advic annot adviceannot
+arg argnam

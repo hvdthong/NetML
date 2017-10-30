@@ -1,0 +1,27 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+check incorrect target kind checkforincorrecttargetkind pattern node patternnod pattern node patternnod scope iscop scope target type allow targetsotherthantypeallow paramet target annot allow parametertargettingannotationsallow
+return java5 mode unmatchedtargetkind xlint
+warn turn patternnod
+scope world getworld java5 mode isinjava5mod
+scope world getworld lint getlint unmatch target kind unmatchedtargetkind
+pattern node patternnod type pattern anytypepattern
+pattern node patternnod exact annot type pattern exactannotationtypepattern
+resolv type resolvedtyp resolv type resolvedtyp exact annot type pattern exactannotationtypepattern pattern node patternnod annot type getannotationtyp resolv scope world getworld
+target type allow targetsotherthantypeallow
+annot target kind annotationtargetkind target kind targetkind resolv type resolvedtyp annot target kind getannotationtargetkind
+target kind targetkind
+report unmatch target kind messag reportunmatchedtargetkindmessag target kind targetkind pattern node patternnod scope
+target type allow targetsotherthantypeallow resolv type resolvedtyp annot target type canannotationtargettyp
+incorrect check type target annot
+annot target kind annotationtargetkind target kind targetkind resolv type resolvedtyp annot target kind getannotationtargetkind
+target kind targetkind
+report unmatch target kind messag reportunmatchedtargetkindmessag target kind targetkind pattern node patternnod scope
+type pattern visitor typepatternvisitor visitor type pattern visitor typepatternvisitor scope target type allow targetsotherthantypeallow paramet target annot allow parametertargettingannotationsallow
+pattern node patternnod travers visitor
+visitor contain incorrect target kind containedincorrecttargetkind
+set kei visitor incorrect target kind getincorrecttargetkind kei set keyset
+iter iter kei iter iter hasnext
+pattern node patternnod node pattern node patternnod iter
+annot target kind annotationtargetkind target kind targetkind annot target kind annotationtargetkind visitor incorrect target kind getincorrecttargetkind node
+report unmatch target kind messag reportunmatchedtargetkindmessag target kind targetkind node scope

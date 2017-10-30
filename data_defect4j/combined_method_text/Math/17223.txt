@@ -1,0 +1,12 @@
+param start index startindex index element account
+param arrai arrai oper
+math arrai matharrai
+org apach common math3 util
+result oper
+arrai util
+param num element numel number element account
+start index startindex
+oper entir arrai
+version
+evalu arrai
+num element numel

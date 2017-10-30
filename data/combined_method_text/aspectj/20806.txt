@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+weav notifi weaveandnotifi unwoven class file unwovenclassfil class file classfil bcel object type bcelobjecttyp class type classtyp
+weav requestor iweaverequestor requestor except ioexcept
+trace enter weaveandnotifi object class file classfil class type classtyp requestor
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext weav type weav type class type classtyp resolv type getresolvedtypex getnam
+lazi class gen lazyclassgen clazz weav dump weavewithoutdump class file classfil class type classtyp
+class type classtyp finish finishedwith
+clazz null classfil unchang weav
+clazz
+unwoven class file unwovenclassfil class newclass class file getclassfilesfor clazz
+class newclass length
+requestor accept result acceptresult class newclass
+requestor accept result acceptresult class file classfil
+class type classtyp weav complet weavingcomplet
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+trace exit weaveandnotifi

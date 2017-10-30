@@ -1,0 +1,7 @@
+org aspectj weaver
+repres type variabl bound
+type variabl typevari
+subtyp isasubtypeof unresolv type unresolvedtyp candid super type candidatesupertyp unresolv type unresolvedtyp candid type candidatesubtyp
+resolv type resolvedtyp super type supertyp resolv type resolvedtyp candid super type candidatesupertyp
+resolv type resolvedtyp type subtyp resolv type resolvedtyp candid type candidatesubtyp
+super type supertyp assign isassignablefrom type subtyp

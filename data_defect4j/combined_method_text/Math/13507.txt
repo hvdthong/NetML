@@ -1,0 +1,12 @@
+overrid
+vector data vectordata
+arrai real vector arrayrealvector
+org apach common math3 linear
+matrix util matrixutil creat real vector createrealvector pre multipli premultipli vector data vectordata
+inherit doc inheritdoc
+real vector realvector pre multipli premultipli real vector realvector dimens mismatch except dimensionmismatchexcept
+vector data vectordata arrai toarrai
+version
+diagon matrix diagonalmatrix abstract real matrix abstractrealmatrix
+implement diagon matrix
+vector data vectordata arrai real vector arrayrealvector data ref getdataref

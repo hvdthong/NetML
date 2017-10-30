@@ -1,0 +1,22 @@
+row equal dimens
+org apach common math3 optim gener
+cost
+number column equal dimens
+handl boilerpl method threshold set
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+comput residu computeresidu
+version
+construct jacobian matrix function argument method
+param residu residu
+comput cost computecost residu
+abstract squar optim abstractleastsquaresoptim
+comput cost
+fast math fastmath sqrt dot product dotproduct weight getweight oper
+link org apach common math3 optim target target
+deprec remov
+arrai real vector arrayrealvector arrai real vector arrayrealvector residu
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number

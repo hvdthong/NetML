@@ -1,0 +1,15 @@
+org aspectj weaver pattern
+pattern parser patternpars
+type pattern typepattern pars gener wildcard type pattern parsegenericswildcardtypepattern
+list name arrai list arraylist
+name add pattern namepattern
+type pattern typepattern upper bound upperbound
+type pattern typepattern addit interfac bound additionalinterfacebound type pattern typepattern
+type pattern typepattern lower bound lowerbound
+eat identifi maybeeatidentifi extend
+upper bound upperbound pars type pattern parsetypepattern
+addit interfac bound additionalinterfacebound pars addit interfac bound maybeparseadditionalinterfacebound
+eat identifi maybeeatidentifi super
+lower bound lowerbound pars type pattern parsetypepattern
+end po endpo token sourc tokensourc peek end getend
+wild type pattern wildtypepattern name end po endpo upper bound upperbound addit interfac bound additionalinterfacebound lower bound lowerbound

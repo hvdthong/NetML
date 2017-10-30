@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+process attribut processattribut world world list
+iter iter iter iter hasnext
+attribut ajattribut attribut ajattribut iter
+attribut ajattribut method declar line number attribut methoddeclarationlinenumberattribut
+declar line number declarationlinenumb attribut ajattribut method declar line number attribut methoddeclarationlinenumberattribut
+attribut ajattribut advic attribut adviceattribut
+shadow munger associatedshadowmung attribut ajattribut advic attribut adviceattribut reifi world
+return
+attribut ajattribut synthet ajsynthet
+synthet isajsynthet
+attribut ajattribut effect signatur attribut effectivesignatureattribut
+system println found effect
+effect signatur effectivesignatur attribut ajattribut effect signatur attribut effectivesignatureattribut
+attribut ajattribut pointcut declar attribut pointcutdeclarationattribut
+aspectj annot advic method pointcut pre resolv ajc
+pre resolv pointcut preresolvedpointcut attribut ajattribut pointcut declar attribut pointcutdeclarationattribut reifi
+except bcexcept weird method attribut

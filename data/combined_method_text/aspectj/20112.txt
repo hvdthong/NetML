@@ -1,0 +1,10 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+set error warn threashold
+compileropt bug
+param errorthreshold
+param warningthreshold
+set error warn threshold seterrorandwarningthreshold error threshold errorthreshold warn threshold warningthreshold
+error threshold errorthreshold error threshold errorthreshold
+warn threshold warningthreshold warn threshold warningthreshold

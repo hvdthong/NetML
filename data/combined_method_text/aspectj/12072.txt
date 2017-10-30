@@ -1,0 +1,9 @@
+org aspectj ajdt intern core builder
+author colyer
+provid type lookup environ weaver convert
+eclips path extern form
+eclips class path manag eclipseclasspathmanag class path manag classpathmanag
+string string tostr
+string buffer stringbuff buf string buffer stringbuff eclipseclasspathmanag
+buf append env nameenv string tostr
+buf string tostr

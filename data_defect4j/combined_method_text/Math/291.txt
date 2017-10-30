@@ -1,0 +1,20 @@
+org apach common math analysi
+return iff complex root real
+param min lower bound interv
+interv solver toler level
+approxim solv root point
+param max upper bound interv
+refer numer analysi
+math ab imaginari getimaginari toler
+toler math max rel accuraci relativeaccuraci ab absolut accuraci absoluteaccuraci
+laguerre' method global sens start initi
+ab function accuraci functionvalueaccuraci
+root isrootok min max complex
+laguerre' method root find real coeffici polynomi
+implement href http mathworld wolfram laguerr method laguerresmethod html
+version revis date
+param complex root
+iff sought real
+laguerr solver laguerresolv univari real solver impl univariaterealsolverimpl
+isbn 048641454x chapter
+sequenc issequ min real getreal max

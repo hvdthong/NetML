@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+annot target type canannotationtargettyp
+annot target kind annotationtargetkind target kind targetkind annot target kind getannotationtargetkind
+target kind targetkind
+target kind targetkind length
+target kind targetkind equal annot target kind annotationtargetkind type

@@ -1,0 +1,16 @@
+row dimens rowdimens row dimens getrowdimens
+org apach common math linear
+param type field element
+row row dimens getrowdimens
+field getfield row dimens getrowdimens column dimens getcolumndimens
+spars matrix implement base open address map
+copi constructor
+version revis date sun apr
+version
+column dimens columndimens column dimens getcolumndimens
+column column dimens getcolumndimens
+version revis date
+param instanc copi
+entri open int field hash map openinttofieldhashmap entri
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+spars field matrix sparsefieldmatrix spars field matrix sparsefieldmatrix

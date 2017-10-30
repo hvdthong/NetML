@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+unwoven class file unwovenclassfil
+write woven byte writewovenbyt byte list child class childclass except ioexcept
+write child class writechildclass child class childclass
+system err println write getclassnam
+system err println write writtenbyt
+writtenbyt null unchang byte writtenbyt
+writtenbyt null unchang byte writtenbyt return
+system err println wrote
+buffer output stream bufferedoutputstream file util fileutil make output stream makeoutputstream file filenam
+write byte
+close
+writtenbyt byte

@@ -1,0 +1,26 @@
+org aspectj apach bcel classfil
+abstract superclass class repres constant type
+constant pool class file class close
+jvm specif
+version constant java aclement exp
+author href mailto marku dahm berlin dahm
+constant cloneabl node serializ
+read constant file type depend tag byte
+param file input stream
+return constant object
+constant read constant readconst data input stream datainputstream file
+except ioexcept class format except classformatexcept
+file read byte readbyt byte file readbyt read tag byte
+constant constant class constant class constant class constantclass file
+constant constant fieldref constant fieldref constant fieldref constantfieldref file
+constant constant methodref constant methodref constant methodref constantmethodref file
+constant constant interfac methodref constant interfacemethodref
+constant interfac methodref constantinterfacemethodref file
+constant constant string constant string constant string constantstr file
+constant constant integ constant integ constant integ constantinteg file
+constant constant float constant float constant float constantfloat file
+constant constant long constant long constant long constantlong file
+constant constant doubl constant doubl constant doubl constantdoubl file
+constant constant type constant nameandtyp constant type constantnameandtyp file
+constant constant utf8 constant utf8 constant utf8 constantutf8 file
+class format except classformatexcept invalid byte tag constant pool

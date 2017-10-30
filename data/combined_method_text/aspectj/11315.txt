@@ -1,0 +1,5 @@
+org aspectj ajdt intern compil ast
+pseudo token pseudotoken ast node astnod token itoken
+return null liter
+string liter kind getliteralkind
+liter kind literalkind

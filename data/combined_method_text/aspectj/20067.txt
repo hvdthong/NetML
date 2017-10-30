@@ -1,0 +1,5 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+integ preced getprecedenceifani resolv type resolvedtyp aspect1 resolv type resolvedtyp aspect2
+preced calcul precedencecalcul preced getprecedenceifani aspect1 aspect2

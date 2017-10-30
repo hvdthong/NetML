@@ -1,0 +1,13 @@
+author stephen colebourn
+instant
+basic year date time field basicyeardatetimefield imprecis date time field imprecisedatetimefield
+org joda time chrono
+author gui allard
+add instant year
+refactor year date time field gjyeardatetimefield
+year newyear field util fieldutil safe add safeadd year thisyear year
+year
+author brian neill o'neil
+year thisyear instant
+year field suitabl calendar
+set instant year newyear

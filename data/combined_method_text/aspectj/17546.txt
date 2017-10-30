@@ -1,0 +1,13 @@
+org aspectj tool ajbrows
+bare bone editor implement framework
+standalon
+author mik kersten
+basic editor basiceditor editor adapt editoradapt
+basic editor basiceditor
+editor pane editorpan set edit setedit
+editor pane editorpan set content type setcontenttyp text plain
+editor pane editorpan set font setfont font monospac
+editor panel add editor pane editorpan
+init jbinit
+except
+browser error handler browsererrorhandl handl error handleerror initi gui

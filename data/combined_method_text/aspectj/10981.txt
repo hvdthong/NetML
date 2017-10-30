@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil
+act bridg ajde' outputlocationmanag interfac compil intern
+author adrian
+compil result destin manag compilationresultdestinationmanag
+copi resourc sourc folder output locat return
+root directori resourc copi
+param resourc resourc copi
+return file object repres root directori resourc
+copi
+file output locat resourc getoutputlocationforresourc file resourc

@@ -1,0 +1,8 @@
+org aspectj weaver
+extens url class loader extensibleurlclassload url class loader urlclassload
+extens url class loader extensibleurlclassload url url class loader classload parent
+url parent
+system err println extensibleurlclassload init path weavingadaptor makeclasspath url
+class path classpath class path manag classpathmanag file util fileutil make classpath makeclasspath url
+except initi error exceptionininitializererror
+print stack trace printstacktrac system

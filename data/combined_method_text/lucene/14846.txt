@@ -1,0 +1,13 @@
+org apach lucen search
+queri match document match boolean combin
+queri link termqueri link phrasequeri
+booleanqueri
+boolean queri booleanqueri queri iter boolean claus booleanclaus
+boolean weight booleanweight index searcher indexsearch searcher
+except ioexcept
+similar similar getsimilar searcher
+weight arrai list arraylist weight claus size
+claus size
+boolean claus booleanclaus claus
+weight add queri getqueri creat weight createweight searcher
+prohibit isprohibit max coord maxcoord

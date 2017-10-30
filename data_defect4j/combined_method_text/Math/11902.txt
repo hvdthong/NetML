@@ -1,0 +1,13 @@
+base integr
+phase phi code co omega phi code
+version harmon fitter harmonicfitt java 14z
+optim
+harmon fitter harmonicfitt curv fitter curvefitt harmon oscil harmonicoscil parametr
+harmon fitter harmonicfitt multivari vector optim multivariatevectoroptim optim
+param optim optim fit
+org apach common math3 fit
+class curv fit special sinusoid
+search squar estim initi rough guess
+simpl constructor
+harmon fit simpl curv fit
+estim coeffici amplitud pulsat omega

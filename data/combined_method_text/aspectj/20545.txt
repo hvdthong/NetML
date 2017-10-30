@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+visit call expr callexpr call
+member method call method getmethod
+assert method isstat
+expr arg call arg getarg
+instruct list instructionlist call callil render expr renderexpr fact world arg
+call callil append util creat invok createinvok fact world method
+instruct insert call callil

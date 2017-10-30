@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil lookup
+eclips type munger eclipsetypemung concret type munger concretetypemung
+mung method mungenewmethod sourc type bind sourcetypebind sourc type sourcetyp resolv type resolvedtyp type ontyp method type munger newmethodtypemung munger exact target type isexacttargettyp
+inter type method bind intertypemethodbind bind
+inter type method bind intertypemethodbind world munger aspect type aspecttyp sourc method sourcemethod
+exact target type isexacttargettyp
+mung interfac itd topmost implementor
+resolv member resolvedmemb exist member existingmemb type ontyp lookup member includ interfac lookupmemberincludingitdsoninterfac signatur getsignatur
+exist member existingmemb
+implement
+type ontyp exist member existingmemb declar type getdeclaringtyp modifi final isfin munger signatur getsignatur modifi getmodifi
+final modifi default implement
+provid implement
+method bind methodbind offend bind offendingbind sourc type sourcetyp exact method getexactmethod bind selector bind paramet sourc type sourcetyp scope compil unit scope compilationunitscop
+sourc type sourcetyp scope problem report problemreport final method overridden finalmethodcannotbeoverridden offend bind offendingbind bind
+find method superinterfac
+find creat inter type member finder findorcreateintertypememberfind sourc type sourcetyp
+retain visibl modifi abstract put method interfac
+sourc type sourcetyp interfac isinterfac
+abstract isabstract bind modifi class file constant classfileconst acc abstract accabstract
+bind modifi bind modifi class file constant classfileconst acc public accpubl class file constant classfileconst acc protect accprotect class file constant classfileconst acc privat accpriv
+abstract isabstract bind modifi class file constant classfileconst acc abstract accabstract
+munger signatur getsignatur vararg method isvarargsmethod bind modifi class file constant classfileconst acc vararg accvararg
+find creat inter type member finder findorcreateintertypememberfind sourc type sourcetyp add inter type method addintertypemethod bind

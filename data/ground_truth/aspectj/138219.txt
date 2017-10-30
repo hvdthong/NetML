@@ -1,0 +1,7 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembersSet_addOrReplaceAspect-ResolvedType-boolean_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembersSet_addOrReplaceDescendantsOf-ResolvedType-boolean_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ResolvedType_collectCrosscuttingMembers_CrosscuttingMembers
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembers_CrosscuttingMembers-ResolvedType_<init>
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembers_getPerClause_PerClause
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembers_replaceWith-CrosscuttingMembers-boolean_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembers_setPerClause-PerClause_void

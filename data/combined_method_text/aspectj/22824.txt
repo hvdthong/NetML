@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+post read postread resolv type resolvedtyp enclos type enclosingtyp
+type pattern typepattern length
+type pattern typepattern type pattern typepattern
+post read postread enclos type enclosingtyp

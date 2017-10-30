@@ -1,0 +1,12 @@
+author stephen colebourn
+durat field repres field fix unit length
+param type field type
+param unit milli unitmilli unit millisecond
+org joda time field
+precis durat field precisedurationfield durat field type durationfieldtyp type unit milli unitmilli
+unit milli iunitmilli unit milli unitmilli
+constructor
+author brian neill o'neil
+type
+precis durat field precisedurationfield base durat field basedurationfield
+precis durat field precisedurationfield thread safe immut

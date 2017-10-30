@@ -1,0 +1,14 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+process afterprocess compil unit declar compilationunitdeclar unit unit index unitindex
+compil weav context compilationandweavingcontext leav phase leavingphas process token processingtoken
+world eworld finish compil unit finishedcompilationunit unit
+interim compil result interimcompilationresult int re intr interim compil result interimcompilationresult unit compil result compilationresult output file provid outputfilenameprovid
+unit compil result compilationresult error haserror report error reportederror
+intermedi result requestor intermediateresultsrequestor
+intermedi result requestor intermediateresultsrequestor accept result acceptresult int re intr
+termin compil isxterminateaftercompil
+accept result acceptresult unit compil result compilationresult
+result pend weav resultspendingweav add int re intr

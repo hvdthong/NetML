@@ -1,0 +1,193 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math distribut
+
+
+
+
+
+
+
+base integ valu discret distribut default
+implement provid method vari
+distribut distribut
+
+version revis date
+
+abstract integ distribut abstractintegerdistribut abstract distribut abstractdistribut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+random variabl valu distribut
+distribut method return
+
+param inclus lower bound
+param inclus upper bound
+cumul probabl
+math except mathexcept cumul probabl
+comput due converg numer error
+illeg argument except illegalargumentexcept
+
+cumul probabl cumulativeprob math except mathexcept
+
+illeg argument except illegalargumentexcept
+lower endpoint equal upper endpoint
+
+cumul probabl cumulativeprob cumul probabl cumulativeprob
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

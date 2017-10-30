@@ -1,0 +1,12 @@
+overrid
+field matrix fieldmatrix creat matrix creatematrix row dimens rowdimens column dimens columndimens
+org apach common math linear
+param type field element
+inherit doc inheritdoc
+spars field matrix sparsefieldmatrix field getfield row dimens rowdimens column dimens columndimens
+spars matrix implement base open address map
+version revis date sun apr
+version
+version revis date
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+illeg argument except illegalargumentexcept

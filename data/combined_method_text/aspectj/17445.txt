@@ -1,0 +1,13 @@
+org aspectj runtim reflect
+method signatur impl methodsignatureimpl code signatur impl codesignatureimpl method signatur methodsignatur
+string creat string createtostr string maker stringmak
+string buffer stringbuff buf string buffer stringbuff
+buf append make modifi string makemodifiersstr modifi getmodifi
+includ arg includearg buf append make type maketypenam return type getreturntyp
+includ arg includearg buf append
+buf append make primari type makeprimarytypenam declar type getdeclaringtyp declar type getdeclaringtypenam
+buf append
+buf append getnam
+add signatur addsignatur buf paramet type getparametertyp
+add throw addthrow buf except type getexceptiontyp
+buf string tostr

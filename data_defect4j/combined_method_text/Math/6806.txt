@@ -1,0 +1,25 @@
+overrid
+euler integr eulerintegr
+org apach common math od nonstiff
+inherit doc inheritdoc
+step comput interpol equat consist
+linear interpol step
+interpol comput dens output insid
+system arraycopi dot ydotk interpol deriv interpolatedderiv interpol deriv interpolatedderiv length
+euler step interpol eulerstepinterpol
+interpol state interpolatedst length
+deriv except derivativeexcept
+refer point step end
+interpol state interpolatedst previou state previousst theta dot ydotk
+previou state previousst theta
+version
+version revis date
+deriv comput step
+refer point step start
+integr scheme
+interpol state interpolatedst current state currentst minu theta oneminusthetah dot ydotk
+theta belong evalu
+comput interpol state deriv computeinterpolatedstateandderiv theta
+pre
+theta theta
+minu theta oneminusthetah

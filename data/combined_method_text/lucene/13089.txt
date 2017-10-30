@@ -1,0 +1,23 @@
+org apach lucen index
+segment term enum segmenttermenum term enum termenum cloneabl
+increment enumer element true exist
+overrid
+except ioexcept
+posit size
+prev buffer prevbuff set term buffer termbuff
+term buffer termbuff reset
+prev buffer prevbuff set term buffer termbuff
+term buffer termbuff read input field info fieldinfo
+term info terminfo doc freq docfreq input read int readvint terminfo docfreq input readvint read doc freq
+term info terminfo freq pointer freqpoint input read long readvlong terminfo freqpoint input readvlong read freq pointer
+term info terminfo prox pointer proxpoint input read long readvlong terminfo proxpoint input readvlong read prox pointer
+format
+read skipoffset order increment file pointer
+skipto switch
+index isindex
+term info terminfo doc freq docfreq format skip interv formatm1skipinterv
+term info terminfo skip offset skipoffset input read int readvint
+term info terminfo doc freq docfreq skip interv skipinterv
+term info terminfo skip offset skipoffset input read int readvint
+index isindex
+index pointer indexpoint input read long readvlong indexpoint input readvlong read index pointer

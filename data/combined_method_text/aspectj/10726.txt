@@ -1,0 +1,23 @@
+org aspectj ajd swing
+author mik kersten
+browser view browserview panel jpanel
+browser view browserview browser view panel browserviewpanel master view masterview browser view panel browserviewpanel slave view slaveview icon registri iconregistri icon
+masterview masterview
+slave view slaveview slave view slaveview
+icon icon
+config combo box config combobox combo box jcombobox ajd default getdefault build config manag getbuildconfigmanag build config file getallbuildconfigfil arrai toarrai
+config combo box config combobox set render setrender config cell render configscellrender
+config combobox additemlisten itemlisten
+public void itemstatechang itemev
+ajd getdefault getconfigurationmanag setcurrconfigfil lastselectedconfig
+ajd default getdefault build config manag getbuildconfigmanag build config file getallbuildconfigfil size
+ajd default getdefault build config manag getbuildconfigmanag set activ config file setactiveconfigfil string ajd default getdefault build config manag getbuildconfigmanag build config file getallbuildconfigfil
+init jbinit
+fix button border fixbuttonbord
+view split pane view splitpan add master view masterview split pane jsplitpan top
+view split pane view splitpan add slave view slaveview split pane jsplitpan bottom
+set slave view visibl setslaveviewvis
+nav tool bar nav toolbar remov joinpoint probe button joinpointprob button
+except
+messag msg messag initi gui messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

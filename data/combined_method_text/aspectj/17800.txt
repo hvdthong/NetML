@@ -1,0 +1,40 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+string make command makecommand
+arrai list arraylist result arrai list arraylist
+size
+iter iter iter iter hasnext
+log verbos logverbos iter
+copi resourc temp jar class output
+copi temp jar content resourc output jar
+outjar outjar fixedup outjarfixedup
+copi injar copyinjar copi inpath copyinpath sourc root copi filter sourcerootcopyfilt
+inpath dir copi filter inpathdircopyfilt
+string path outjar absolut path getabsolutepath
+len file util fileutil zip suffix length zipsuffixlength path
+path path substr path length len tmp jar
+tmp outjar tmpoutjar file path
+tmp outjar tmpoutjar
+cmd add flag addflag outjar outjar absolut path getabsolutepath
+cmd add flag addflag outjar tmp outjar tmpoutjar absolut path getabsolutepath
+outjar fixedup outjarfixedup
+result add addal cmd extract argument extractargu
+add list arg addlistarg result
+string command string result arrai toarrai string
+command editor commandeditor
+command command editor commandeditor edit command editcommand command
+command editor command editor
+command command editor command editor edit command editcommand command
+command

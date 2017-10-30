@@ -1,0 +1,24 @@
+org aspectj weaver
+asm relationship provid asmrelationshipprovid
+checker munger checkermung hierarchi ihierarchi model shadow shadow checker checker
+asm manag asmmanag creat model iscreatingmodel
+shadow sourc locat getsourceloc checker sourc locat getsourceloc
+world creat injar hierarchi createinjarhierarchi
+checker creat hierarchi createhierarchi
+ensur node target exist
+program element iprogramel target node targetnod node getnod asm manag asmmanag default getdefault hierarchi gethierarchi shadow
+target node targetnod
+string target handl targethandl asm manag asmmanag default getdefault handl provid gethandleprovid
+creat handl identifi createhandleidentifi target node targetnod
+target handl targethandl
+program element iprogramel sourc node sourcenod asm manag asmmanag default getdefault hierarchi gethierarchi
+find element sourc line findelementforsourcelin checker sourc locat getsourceloc
+string sourc handl sourcehandl asm manag asmmanag default getdefault handl provid gethandleprovid
+creat handl identifi createhandleidentifi sourc node sourcenod
+sourc handl sourcehandl
+relationship map irelationshipmap mapper asm manag asmmanag default getdefault relationship map getrelationshipmap
+relationship irelationship foreward mapper sourc handl sourcehandl relationship irelationship kind declar match match
+foreward add target addtarget target handl targethandl
+relationship irelationship back mapper target handl targethandl relationship irelationship kind declar match declar match declar
+back back target gettarget
+back add target addtarget sourc handl sourcehandl

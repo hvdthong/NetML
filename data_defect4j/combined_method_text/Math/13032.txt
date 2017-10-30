@@ -1,0 +1,15 @@
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+field matrix fieldmatrix row matrix getrowmatrix row
+version
+field matrix fieldmatrix row matrix getrowmatrix row rang except outofrangeexcept
+col ncol
+param type field element
+field matrix fieldmatrix creat matrix creatematrix col ncol
+col ncol column dimens getcolumndimens
+set entri setentri entri getentri row
+check row index checkrowindex row

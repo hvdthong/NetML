@@ -1,0 +1,14 @@
+visit matrix entri
+interfac defin visitor matrix entri
+org apach common math linear
+param type field element
+param current entri
+field matrix chang visitor fieldmatrixchangingvisitor field element fieldel
+version
+visit row column
+version revis date
+param column column index entri
+matrix visitor except matrixvisitorexcept wrong occur
+matrix visitor except matrixvisitorexcept
+param row row index entri
+set entri

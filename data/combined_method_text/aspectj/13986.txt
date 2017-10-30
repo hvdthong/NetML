@@ -1,0 +1,17 @@
+org aspectj apach bcel gener
+laload load long arrai
+pre stack arrayref index value1 value2 pre
+version laload java aclement exp
+author href mailto marku dahm berlin dahm
+laload arrai instruct arrayinstruct stack produc stackproduc
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack produc visitstackproduc
+visit except thrower visitexceptionthrow
+visit type instruct visittypedinstruct
+visit arrai instruct visitarrayinstruct
+visit laload visitlaload

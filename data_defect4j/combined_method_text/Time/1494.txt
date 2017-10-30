@@ -1,0 +1,10 @@
+author stephen colebourn
+param end instant endinst start time interv
+set interv setinterv start instant startinst end instant endinst
+set interv millisecond instant
+illeg argument except illegalargumentexcept end start
+param start instant startinst start time interv
+org joda time
+writabl interv
+author brian neill o'neil
+read writabl interv readwritableinterv readabl interv readableinterv

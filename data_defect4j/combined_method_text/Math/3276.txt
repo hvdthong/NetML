@@ -1,0 +1,28 @@
+line hyperplan euclidean2 euclidean2d embed euclidean2 euclidean2d euclidean1 euclidean1d
+orient line defin prolong line
+unambigu identifi left half plane half
+build line point angl
+angular direct trigonometr orient
+param angl angl line respect abscissa axi
+half plane set point posit offset
+plane identifi interior exterior
+version
+line point plane uniqu identifi
+plane suffici select specif point
+orient half plane side
+line vector2 vector2d angl
+simpl local properti part line
+abscissa line offset
+reset angl
+repres orient line plane
+coordin line set point offset
+segment point past point point
+orthogon vector orient left half plane half
+param point belong line
+left half plane set point neg offset
+line complet defin refer frame
+defin part polygon boundari
+org apach common math geometri euclidean twod
+line orthogon project origin refer frame
+line unit vector line direct
+plane defin coordin process

@@ -1,0 +1,18 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+string handler signatur string gethandlersignaturestr world world
+string buffer stringbuff buf string buffer stringbuff
+buf append make string makestr
+buf append
+buf append getnam
+buf append
+buf append make string makestr declar type getdeclaringtyp
+buf append
+buf append make string makestr paramet type getparametertyp
+buf append
+string pname miss
+string name paramet name getparameternam world
+name pname name
+buf append pname
+buf append
+buf string tostr

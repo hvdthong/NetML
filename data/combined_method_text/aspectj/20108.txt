@@ -1,0 +1,42 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+resolv referencetyp simpl raw parameter gener
+raw parameter gener version type share deleg
+resolv type resolvedtyp resolv refer type resolvetoreferencetyp unresolv type unresolvedtyp miss allowmiss
+parameter type isparameterizedtyp
+parameter type
+resolv type resolvedtyp resolv gener type resolvegenerictypefor miss allowmiss
+miss ismiss
+refer type referencetyp gener type generictyp refer type referencetyp
+resolv base type currentlyresolvingbasetyp gener type generictyp
+refer type referencetyp parameter type parameterizedtyp
+type factori typefactori creat parameter type createparameterizedtyp gener type generictyp type paramet typeparamet
+resolv base type currentlyresolvingbasetyp
+parameter type parameterizedtyp
+gener type isgenerictyp
+gener type
+refer type referencetyp gener type generictyp refer type referencetyp resolv gener type resolvegenerictypefor
+gener type generictyp
+gener wildcard isgenericwildcard
+gener wildcard type
+resolv gener wildcard resolvegenericwildcardfor
+simpl raw type
+string eras signatur erasedsignatur erasur signatur geterasuresignatur
+refer type referencetyp simpl raw type simpleorrawtyp refer type referencetyp eras signatur erasedsignatur
+modifi deleg needsmodifiabledeleg simpl raw type simpleorrawtyp set modifi deleg setneedsmodifiabledeleg
+refer type deleg referencetypedeleg deleg resolv deleg resolvedeleg simpl raw type simpleorrawtyp
+deleg null return resolvedtyp miss
+deleg miss resolv type signatur missingresolvedtypewithknownsignatur signatur getsignatur eras signatur erasedsignatur deleg null return missingresolvedtypewithknownsignatur getsignatur erasedsignatur resolvedtyp miss
+deleg gener isgener behav java5 behaveinjava5wai
+raw type
+simpl raw type simpleorrawtyp type kind typekind type kind typekind raw
+refer type referencetyp gener type generictyp make gener type makegenerictypefrom deleg simpl raw type simpleorrawtyp
+referencetyp fromtypex unresolvedtyp forrawtypenam getnam
+simpl raw type simpleorrawtyp set deleg setdeleg deleg
+gener type generictyp set deleg setdeleg deleg
+simpl raw type simpleorrawtyp set gener type setgenerictyp gener type generictyp
+simpl raw type simpleorrawtyp
+simpl type
+simpl raw type simpleorrawtyp set deleg setdeleg deleg
+simpl raw type simpleorrawtyp

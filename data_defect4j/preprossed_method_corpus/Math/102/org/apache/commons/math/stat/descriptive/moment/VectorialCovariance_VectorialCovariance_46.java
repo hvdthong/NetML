@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript moment
+
+
+
+
+
+
+
+
+return covari matrix vector
+version revis
+
+vectori covari vectorialcovari serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+construct vectori vectorialmean
+param dimens vector dimens
+
+vectori covari vectorialcovari dimens
+sum dimens
+product sum productssum dimens dimens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

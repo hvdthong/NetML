@@ -1,0 +1,36 @@
+code decompos ludecompos code recomput decomposit
+solut invers
+array2 row real matrix array2drowrealmatrix row dimens rowdimens column dimens columndimens
+row dimens rowdimens column dimens columndimens
+decomposit support linear system
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+data modifi refer underli arrai obtain
+org apach common math linear
+creat real matrix realmatrix suppli row column dimens
+invers
+row column dimens posit
+version
+version revis date
+discard explicitli invok
+base code entri getentri code
+method
+org apach common math except strictli posit except notstrictlypositiveexcept
+store entri
+decomposit perform need support oper
+data row dimens rowdimens column dimens columndimens
+decomposit cach reus subsequ call
+link real matrix realmatrix matrix element index
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+solv
+implement link real matrix realmatrix code arrai
+param column dimens columndimens number column matrix
+param row dimens rowdimens number row matrix
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+return element row column matrix
+href http www math gatech bourbaki math2601 web note 2num pdf
+illeg argument except illegalargumentexcept row column dimens
+posit
+illeg argument except illegalargumentexcept

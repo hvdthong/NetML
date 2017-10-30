@@ -1,0 +1,19 @@
+creat hypercub step createhypercubestep
+org apach common math3 optim nonlinear scalar noderiv
+link abstract simplex abstractsimplex constructor set step
+version
+side length sidelength
+param dimens hypercub
+simplex concept
+abstract simplex abstractsimplex optim data optimizationdata
+creat data structur act method
+step side length sidelength
+intend conjunct link simplex optim simplexoptim
+step
+link abstract simplex abstractsimplex link abstract simplex abstractsimplex
+param side length sidelength length side hypercub
+creat step unit hypercub
+simplex optim simplexoptim
+user call link build build method order
+build configur unit hypercub
+initi configur simplex set constructor

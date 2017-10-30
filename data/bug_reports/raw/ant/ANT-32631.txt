@@ -1,0 +1,11 @@
+allow includes / excludes for fileset references
+If you define the following fileset as the whole webapp:
+
+<fileset id="webapp">
+  <!-- ... -->
+</fileset>
+
+.. then the following "constrained" reference should include only the WEB-INF
+directory of the webapp:
+
+<fileset refid="webapp" includes="WEB-INF/**"/>

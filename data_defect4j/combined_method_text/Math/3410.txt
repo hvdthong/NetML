@@ -1,0 +1,33 @@
+hyperplan subhyperplan plusoutsid
+node cut getcut
+cell minu side
+char pluschar hasin
+recurs build boundari shell tree
+insid plusinsid minu char minuschar getout
+side check part subset
+character minu char minuschar character
+recurs build boundari recursebuildboundari bsp tree bsptree node
+param type space
+param node current node inout tree
+plusoutsid minu char minuschar getin
+insid cell minu side
+version
+hyperplan subhyperplan insid plusinsid
+character node minu getminu char pluschar getin minu char minuschar
+abstract region abstractregion space space region
+node set attribut setattribut boundari attribut boundaryattribut plusoutsid insid plusinsid
+char pluschar hasout
+character cut hyperplan
+hyperplan cell
+hyperplan insid cell
+respect tree
+minu char minuschar hasin
+org apach common math geometri partit
+abstract region independ geometri type dimens
+char pluschar correspond subset cut
+recurs build boundari recursebuildboundari node minu getminu
+character node minu getminu char pluschar getout minu char minuschar
+character char pluschar character
+recurs build boundari recursebuildboundari node getplu
+character node getplu node cut getcut copi copyself char pluschar
+minu char minuschar hasout

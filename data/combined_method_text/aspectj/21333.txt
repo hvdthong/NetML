@@ -1,0 +1,7 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+classload getresourc
+enumer resourc getresourc string except ioexcept
+loader resourc getresourc

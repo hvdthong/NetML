@@ -1,0 +1,12 @@
+add a flatten option in the unzip task
+same behavior expected as in the "copy" task
+
+this would greatly simplify some tasks where I have to specify the exact 
+location of the extracted files. You can also use a "copy" with a flatten 
+option to complete the work but a single command is better.
+
+same for unzip/untar/unwar...
+
+This functionality is not present in 1.5.3
+
+Thanks

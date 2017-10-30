@@ -1,0 +1,11 @@
+target target newtarget clone
+org apach common math3 fit leastsquar
+optim target withtarget target
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+optim target withtarget target newtarget
+inherit doc inheritdoc
+target target clone
+version
+param optim concret optim
+base implement squar optim
+method error estim

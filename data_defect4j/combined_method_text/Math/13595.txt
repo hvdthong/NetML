@@ -1,0 +1,16 @@
+code
+pre multipli premultipli
+interfac defin field valu matrix basic algebra oper
+org apach common math3 linear
+param type field element
+return row vector result premultipli vector code code
+matrix element index base code entri getentri code
+return row vector result premultipli vector
+pre multipli premultipli dimens mismatch except dimensionmismatchexcept
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+version
+illeg argument except illegalargumentexcept row dimens rowdimens size
+dimens mismatch except dimensionmismatchexcept number row code
+param row vector premultipli
+matrix equal size vector code

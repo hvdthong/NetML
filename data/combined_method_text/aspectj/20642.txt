@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi code annot var initializewithincodeannotationvar
+withincod annot var withincodeannotationvar
+withincod annot var withincodeannotationvar hash map hashmap
+shadow interest annot method shadow
+resolv type resolvedtyp annot enclos method getenclosingmethod member view getmemberview annot type getannotationtyp
+annot length
+resolv type resolvedtyp ann annot
+kind enclos method getenclosingmethod member view getmemberview kind getkind member constructor
+shadow constructor execut constructorexecut shadow method execut methodexecut
+withincod annot var withincodeannotationvar put ann
+kind annot access var kindedannotationaccessvar ann enclos type getenclosingtyp enclos code signatur getenclosingcodesignatur

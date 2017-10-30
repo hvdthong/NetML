@@ -1,0 +1,28 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+declar preced world order aspect
+declar preced order order
+conflict error
+compar preced comparebypreced resolv type resolvedtyp aspect firstaspect resolv type resolvedtyp aspect secondaspect
+preced cach kei precedencecachekei kei preced cach kei precedencecachekei aspect firstaspect aspect secondaspect
+cach result cachedresult kei containskei kei
+integ cach result cachedresult kei int intvalu
+order
+declar preced declarepreced order declarepreced order null record declar preced statement order
+iter world crosscut member set getcrosscuttingmembersset declar domin getdeclaredomin iter hasnext
+declar preced declarepreced declar preced declarepreced
+order thisord compar aspect firstaspect aspect secondaspect
+order thisord
+order order
+order order order thisord
+sourc locat isourceloc isl sourc locat isourceloc
+isl order sourc locat getsourceloc
+isl sourc locat getsourceloc
+messag
+messag conflict declar preced order aspect
+aspect firstaspect getnam aspect secondaspect getnam isl
+world messag handler getmessagehandl handl messag handlemessag
+order order thisord
+cach result cachedresult put kei integ order
+order

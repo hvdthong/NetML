@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+annot type pattern notannotationtypepattern annot type pattern annotationtypepattern
+string string tostr
+negat pattern negatedpattern string tostr

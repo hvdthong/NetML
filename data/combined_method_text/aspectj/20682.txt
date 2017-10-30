@@ -1,0 +1,43 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+weav throw weaveafterthrow bcel advic bceladvic munger unresolv type unresolvedtyp catch type catchtyp
+good optim gener
+shadow guarante empti
+shadow insid
+rang getrang start getstart getnext rang getrang end getend
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist handler instruct list instructionlist
+bcel var bcelvar except var exceptionvar gen temp var gentempvar catch type catchtyp
+except var exceptionvar append store appendstor handler fact
+pr62642
+jump firei bcel hoop gener trivial bit code
+exc instanceof exceptionininitializererror
+throw exceptionininitializererror exc
+enclos method getenclosingmethod getnam equal clinit
+resolv type resolvedtyp eiie type eiietyp world resolv java lang exceptionininitializererror
+object type objecttyp eiie bcel type eiiebceltyp object type objecttyp bcel world bcelworld make bcel type makebceltyp eiie type eiietyp
+instruct list instructionlist instruct list instructionlist instruct constant instructionconst nop
+handler append except var exceptionvar creat load createload fact
+handler append fact creat instanc createinstanceof eiie bcel type eiiebceltyp
+branch instruct branchinstruct
+instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifeq start getstart
+handler append
+handler append except var exceptionvar creat load createload fact
+handler append fact creat check cast createcheckcast eiie bcel type eiiebceltyp
+handler append instruct constant instructionconst athrow
+handler append
+instruct list instructionlist end handler endhandl instruct list instructionlist
+except var exceptionvar creat load createload fact
+handler append munger advic instruct getadviceinstruct except var exceptionvar end handler endhandl start getstart
+handler append end handler endhandl
+handler append instruct constant instructionconst athrow
+instruct handl instructionhandl handler start handlerstart handler start getstart
+fall isfallsthrough
+instruct handl instructionhandl jump target jumptarget handler append instruct constant instructionconst nop
+handler insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto jump target jumptarget
+instruct handl instructionhandl protect end protectedend handler start getstart
+rang insert handler rang insid insideaft
+enclos method enclosingmethod add except handler addexceptionhandl rang start getstart getnext protect end protectedend prev getprev
+handler start handlerstart object type objecttyp bcel world bcelworld make bcel type makebceltyp catch type catchtyp handlerstart objecttyp bcelworld makebceltyp catchtyp type throwabl
+high prioriti arg stack
+kind getkind high prioriti except hashighpriorityexcept

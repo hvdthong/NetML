@@ -1,0 +1,22 @@
+overrid
+method implement link entri getentri access
+abstract real matrix abstractrealmatrix
+param object object test equal
+object real matrix realmatrix
+matrix entri equal
+code real matrix realmatrix code instanc dimens
+column dimens getcolumndimens col ncol row dimens getrowdimens row nrow
+equal object object
+version
+row row row nrow row
+row nrow row dimens getrowdimens
+real matrix realmatrix real matrix realmatrix object
+object equal
+object
+col ncol column dimens getcolumndimens
+return iff code object code
+org apach common math3 linear
+matrix element deriv provid faster implement
+col col col ncol col
+basic implement real matrix realmatrix method underli storag
+entri getentri row col entri getentri row col

@@ -1,0 +1,37 @@
+param refer integr arrai hold state
+org apach common math od nonstiff
+end step
+link abstract step interpol abstractstepinterpol interpol state getinterpolatedst
+rung kutta integr rungekuttaintegr
+perform call code final dofin code
+equat mapper equationsmapp primari mapper primarymapp
+embed rung kutta integr embeddedrungekuttaintegr
+param primari mapper primarymapp equat mapper primari equat set
+intermedi slope
+param forward integr direct indic
+rung kutta integr fewer function evalu
+version
+interpol state getinterpolatedst method interpol
+counterpart step interpol interpol
+dot arrai ydotarrai forward
+step handler call link
+rung kutta step interpol rungekuttastepinterpol
+integr integr rkintegr
+interpol perform evalu evalu
+previou state previousst
+reiniti abstract integr abstractintegr integr rkintegr
+embed rung kutta integr embeddedrungekuttaintegr embed rung kutta integr embeddedrungekuttaintegr
+param dot arrai ydotarrai refer integr arrai hold
+reiniti forward primari mapper primarymapp secondari mapper secondarymapp
+abstract step interpol abstractstepinterpol final step finalizestep final step finalizestep method
+equat mapper equationsmapp secondari mapper secondarymapp
+final clone step interpol
+perform evalu
+dot ydotk dot arrai ydotarrai
+param secondari mapper secondarymapp equat mapper secondari equat set
+repres interpol step
+param integr rkintegr integr
+od integr rung kutta embed rung kutta integr
+link rung kutta integr rungekuttaintegr rung kutta integr rungekuttaintegr link
+class call method order step
+reiniti instanc

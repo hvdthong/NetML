@@ -1,0 +1,16 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+express convert org aspectj org eclips jdt intern compil ast refer thisrefer refer
+refer implicit isimplicitthi
+sourc implicit
+refer org aspectj org eclips jdt intern compil ast qualifi super refer qualifiedsuperrefer
+convert org aspectj org eclips jdt intern compil ast qualifi super refer qualifiedsuperrefer refer
+refer org aspectj org eclips jdt intern compil ast qualifi refer qualifiedthisrefer
+convert org aspectj org eclips jdt intern compil ast qualifi refer qualifiedthisrefer refer
+express thisexpress express thisexpress express thisexpress ast
+express thisexpress set sourc rang setsourcerang refer sourc start sourcestart refer sourc end sourceend refer sourc start sourcestart
+resolv bind resolvebind
+record node recordnod express thisexpress refer
+record pend express scope resolut recordpendingthisexpressionscoperesolut express thisexpress
+express thisexpress

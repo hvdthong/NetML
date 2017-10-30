@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv type resolvedtyp parameter parameterizedwith unresolv type unresolvedtyp type paramet typeparamet
+gener type isgenerictyp parameter type isparameterizedtyp
+type factori typefactori creat parameter type createparameterizedtyp gener type getgenerictyp type paramet typeparamet world getworld

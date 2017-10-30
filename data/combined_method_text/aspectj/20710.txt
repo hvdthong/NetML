@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+resolv member resolvedmemb constructor signatur getconstructorwithsignatur resolv type resolvedtyp string signatur
+resolv member resolvedmemb mem declar java method getdeclaredjavamethod
+mem length
+resolv member resolvedmemb mem
+getnam equal init
+signatur getsignatur equal signatur

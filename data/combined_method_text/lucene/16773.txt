@@ -1,0 +1,13 @@
+org apach lucen search function
+queri set document score programmat function score
+score subqueri queri
+option score valuesourcequeri queri
+simpl conveni case queri
+link org apach lucen search function fieldscorequeri fieldscorequeri
+subclass modifi comput overrid link getcustomscoreprovid
+lucen experiment
+custom score queri customscorequeri queri
+overrid
+explan explain reader context readercontext context doc except ioexcept
+explan explain explain doexplain context doc
+explain explan match doc explain

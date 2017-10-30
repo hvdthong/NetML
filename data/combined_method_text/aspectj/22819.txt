@@ -1,0 +1,46 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+call typepattern static return
+fuzzyboolean fuzzyboolean
+call typepattern dynam return
+runtim argument static
+type dynam match
+method return fuzzyboolean
+fuzzi boolean fuzzyboolean match resolv type resolvedtyp type type pattern typepattern match kind matchkind kind resolv type resolvedtyp paramet annot parameterannot
+length namelength type length
+pattern length patternlength type pattern typepattern length
+index nameindex
+pattern index patternindex
+ellipsi count ellipsiscount
+length namelength pattern length patternlength fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean final return finalreturn fuzzi boolean fuzzyboolean
+pattern index patternindex pattern length patternlength
+resolv type resolvedtyp type index nameindex
+fuzzi boolean fuzzyboolean ret
+paramet annot parameterannot temporari annot type temporaryannotationtyp paramet annot parameterannot index nameindex
+ret type pattern typepattern pattern index patternindex match kind
+temporari annot type temporaryannotationtyp
+pattern index patternindex
+index nameindex
+ret fuzzi boolean fuzzyboolean ret
+ret fuzzi boolean fuzzyboolean final return finalreturn ret
+final return finalreturn
+ellipsi count ellipsiscount
+length namelength pattern length patternlength fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean final return finalreturn fuzzi boolean fuzzyboolean
+pattern index patternindex pattern length patternlength
+type pattern typepattern type pattern typepattern pattern index patternindex
+type pattern typepattern ellipsi
+index nameindex length namelength pattern length patternlength pattern index patternindex
+resolv type resolvedtyp type index nameindex
+fuzzi boolean fuzzyboolean ret
+paramet annot parameterannot temporari annot type temporaryannotationtyp paramet annot parameterannot index nameindex
+ret match kind
+temporari annot type temporaryannotationtyp
+index nameindex
+ret fuzzi boolean fuzzyboolean ret
+ret fuzzi boolean fuzzyboolean final return finalreturn ret
+final return finalreturn
+system err print match argument type
+fuzzi boolean fuzzyboolean star outofstar type pattern typepattern type pattern length patternlength ellipsi count ellipsiscount length namelength ellipsi count ellipsiscount kind
+system err println

@@ -1,0 +1,25 @@
+org aspectj apach bcel gener
+super class instruct deal arrai access iaload
+version arrayinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+arrai instruct arrayinstruct instruct
+return type instruct
+type type gettyp constant pool gen constantpoolgen
+opcod
+org aspectj apach bcel constant iaload org aspectj apach bcel constant iastor
+type int
+org aspectj apach bcel constant caload org aspectj apach bcel constant castor
+type char
+org aspectj apach bcel constant baload org aspectj apach bcel constant bastor
+type byte
+org aspectj apach bcel constant saload org aspectj apach bcel constant sastor
+type short
+org aspectj apach bcel constant laload org aspectj apach bcel constant lastor
+type long
+org aspectj apach bcel constant daload org aspectj apach bcel constant dastor
+type doubl
+org aspectj apach bcel constant faload org aspectj apach bcel constant fastor
+type float
+org aspectj apach bcel constant aaload org aspectj apach bcel constant aastor
+type object
+class gen except classgenexcept oop unknown case switch opcod

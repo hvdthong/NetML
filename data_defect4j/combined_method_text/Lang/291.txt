@@ -1,0 +1,18 @@
+author stephen colebourn
+pre
+char util charutil ascii numer isasciinumer
+'0' '9'
+oper primit charact object
+check charact ascii bit numer
+inclus
+char util charutil ascii numer isasciinumer copi
+handl code code input gracefulli
+version
+char util charutil ascii numer isasciinumer '3'
+ascii numer isasciinumer
+except thrown code code input
+char util charutil
+param charact check
+char util charutil ascii numer isasciinumer 'a'
+method document behaviour detail
+org apach common lang

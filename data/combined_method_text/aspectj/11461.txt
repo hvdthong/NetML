@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+convert resolvedmemb eclips method bind
+method bind methodbind make method bind makemethodbind resolv member resolvedmemb member
+intern make method bind internalmakemethodbind member return internalmakemethodbind member null alias

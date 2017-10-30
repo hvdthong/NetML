@@ -1,0 +1,18 @@
+pre
+varianc
+valid sampl data validatesampledata
+gl assum gener covari matrix omega error
+add data adddata covari
+estim gl
+gl implement multipl linear regress
+add sampl data addysampledata
+inherit doc inheritdoc
+valid covari data validatecovariancedata covari
+var omega
+omega omega 1x'omega
+add sampl data addxsampledata
+version revis date
+add covari data addcovariancedata covari
+org apach common math stat regress
+omega
+gl multipl linear regress glsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress

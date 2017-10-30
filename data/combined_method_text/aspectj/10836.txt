@@ -1,0 +1,12 @@
+org aspectj ajd swing
+repres configur structur view system render
+code structuretreemanag code
+author mik kersten
+structur view panel structureviewpanel panel jpanel structur view render structureviewrender
+init jbinit
+border1 border factori borderfactori creat bevel border createbevelbord bevel border bevelbord lower color white color white color color
+border2 border factori borderfactori creat empti border createemptybord
+set layout setlayout border layout1 borderlayout1
+add tree scroll pane tree scrollpan border layout borderlayout center
+add structur tool bar panel structuretoolbar panel border layout borderlayout north
+tree scroll pane tree scrollpan viewport getviewport add tree manag treemanag structur tree getstructuretre

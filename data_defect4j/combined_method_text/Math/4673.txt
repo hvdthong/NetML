@@ -1,0 +1,33 @@
+org apach common math except math user except mathuserexcept visitor
+interfac defin field valu matrix basic algebra oper
+param start row startrow initi row index
+start row startrow end row endrow start column startcolumn end column endcolumn
+return link field matrix preserv visitor fieldmatrixpreservingvisitor end end
+field matrix fieldmatrix field element fieldel matrix anymatrix
+param end column endcolumn final column index inclus
+except matrix index except matrixindexexcept indic valid
+matrix index except matrixindexexcept matrix visitor except matrixvisitorexcept
+except matrix visitor except matrixvisitorexcept visitor process entri
+org apach common math linear
+fastest walk order depend exact matrix
+tradit row column order
+walk row order walkinroword field matrix chang visitor fieldmatrixchangingvisitor
+indic valid
+walk column order walkincolumnord field matrix chang visitor fieldmatrixchangingvisitor
+walk
+version
+version revis date
+walk row order walkinroword field matrix preserv visitor fieldmatrixpreservingvisitor
+param type field element
+matrix element index base code entri getentri code
+visit chang matrix entri fastest order
+param visitor visitor process matrix entri
+walk optim order walkinoptimizedord field matrix preserv visitor fieldmatrixpreservingvisitor
+walk column order walkincolumnord field matrix preserv visitor fieldmatrixpreservingvisitor
+param end row endrow final row index inclus
+process entri
+org apach common math except rang except outofrangeexcept
+return element row column matrix
+param start column startcolumn initi column index
+walk optim order walkinoptimizedord field matrix chang visitor fieldmatrixchangingvisitor
+walk optim order walkinoptimizedord field matrix preserv visitor fieldmatrixpreservingvisitor visitor

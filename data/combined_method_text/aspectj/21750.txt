@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+annot declar type store
+simpl method form ajc declar method
+find method retriev annot
+ensur annot discov ensureannotationdiscov
+annot
+iter iter aspect containingaspect method getmethod iter hasnext
+resolv member resolvedmemb member resolv member resolvedmemb iter
+member getnam equal annot method annotationmethod
+annot member annot getannot

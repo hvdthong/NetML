@@ -1,0 +1,6 @@
+org apach lucen index
+segment merg info segmentmergeinfo
+close except ioexcept
+term enum termenum close
+post
+post close

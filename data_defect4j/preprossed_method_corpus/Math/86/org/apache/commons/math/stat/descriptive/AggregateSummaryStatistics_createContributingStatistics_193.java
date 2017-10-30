@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript
+
+
+
+
+
+statist summari statisticalsummari aggreg statist data set
+data set partit simplest usag mode client creat
+instanc argument constructor
+link creat contribut statist createcontributingstatist obtain code summari statist summarystatist
+individu data set partit set statist object
+normal time aggreg statist
+contributor obtain object
+
+client special requir altern constructor
+control statist implement initi valu
+contribut intern aggreg code summari statist summarystatist object
+
+
+
+version revis date
+
+
+aggreg summari statist aggregatesummarystatist statist summari statisticalsummari
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+creat return code summari statist summarystatist data
+aggreg code aggreg summari statist aggregatesummarystatist
+
+code summari statist summarystatist data aggreg
+code aggreg summari statist aggregatesummarystatist initi state
+copi configur prototyp statist
+
+summari statist summarystatist creat contribut statist createcontributingstatist
+summari statist summarystatist contribut statist contributingstatist
+aggreg summari statist aggregatingsummarystatist statist
+
+summari statist summarystatist copi statist prototyp statisticsprototyp contribut statist contributingstatist
+
+contribut statist contributingstatist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

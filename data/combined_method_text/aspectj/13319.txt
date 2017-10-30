@@ -1,0 +1,14 @@
+org aspectj apach bcel gener
+dup2 duplic top operand stack word put
+pre stack word4 word3 word2 word1 word2 word1 word4 word3 word2 word1 pre
+version dup2 java aclement exp
+author href mailto marku dahm berlin dahm
+dup2 dup2 stack instruct stackinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack instruct visitstackinstruct
+visit dup2 visitdup2

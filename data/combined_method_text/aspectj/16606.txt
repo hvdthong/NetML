@@ -1,0 +1,31 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+ast node astnod convert org aspectj org eclips jdt intern compil ast annot method declar annotationmethoddeclar annot type member declar annotationtypememberdeclar
+check cancel checkcancel
+ast api level apilevel ast jls2 intern jls2 intern
+annot type member declar annotationtypememberdeclar annot type member declaration2 annotationtypememberdeclaration2 annot type member declar annotationtypememberdeclar ast
+set modifi setmodifi annot type member declaration2 annotationtypememberdeclaration2 annot type member declar annotationtypememberdeclar
+simpl simplenam method methodnam simpl simplenam ast
+method methodnam intern set identifi internalsetidentifi string annot type member declar annotationtypememberdeclar selector
+start annot type member declar annotationtypememberdeclar sourc start sourcestart
+end retriev identifi end posit retrieveidentifierendposit start annot type member declar annotationtypememberdeclar sourc end sourceend
+method methodnam set sourc rang setsourcerang start end start
+annot type member declaration2 annotationtypememberdeclaration2 set setnam method methodnam
+org aspectj org eclips jdt intern compil ast type refer typerefer type refer typerefer annot type member declar annotationtypememberdeclar return type returntyp
+type refer typerefer
+type return type returntyp convert type converttyp type refer typerefer
+set type method declar settypeformethoddeclar annot type member declaration2 annotationtypememberdeclaration2 return type returntyp
+declar sourc start declarationsourcestart annot type member declar annotationtypememberdeclar declar sourc start declarationsourcestart
+declar sourc end declarationsourceend annot type member declar annotationtypememberdeclar bodi end bodyend
+annot type member declaration2 annotationtypememberdeclaration2 set sourc rang setsourcerang declar sourc start declarationsourcestart declar sourc end declarationsourceend declar sourc start declarationsourcestart
+javadoc comment list store compil unit declar
+convert annot type member declar annotationtypememberdeclar javadoc annot type member declaration2 annotationtypememberdeclaration2
+org aspectj org eclips jdt intern compil ast express member membervalu annot type member declar annotationtypememberdeclar default defaultvalu
+member membervalu
+annot type member declaration2 annotationtypememberdeclaration2 set default setdefault convert member membervalu
+resolv bind resolvebind
+record node recordnod annot type member declaration2 annotationtypememberdeclaration2 annot type member declar annotationtypememberdeclar
+record node recordnod method methodnam annot type member declar annotationtypememberdeclar
+annot type member declaration2 annotationtypememberdeclaration2 resolv bind resolvebind
+annot type member declaration2 annotationtypememberdeclaration2

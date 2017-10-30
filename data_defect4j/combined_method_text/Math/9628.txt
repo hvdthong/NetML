@@ -1,0 +1,18 @@
+param text output stream output print
+param arrai
+org apach common math util
+printf 25 format multipl entri line
+printarrai print stream printstream string expect len expectedlen array2d
+print arrai
+print
+param expect len expectedlen expect length arrai
+println tabl start decl
+check len checklen expect len expectedlen array2d length
+println tabl end decl
+version
+class comput classic function tabl
+println
+arrai assum arrai entri
+arrai array2d
+fast math calc fastmathcalc
+param array2d arrai data

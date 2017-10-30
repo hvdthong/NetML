@@ -1,0 +1,12 @@
+org aspectj ajd javaopt
+option panel displai java compil warn option
+user add ajd getoptionsfram
+java compil warn option panel javacompilerwarningsoptionspanel option panel optionspanel
+save option saveopt except ioexcept
+set warn combo box warningcombobox entri set entryset
+iter iter iter iter hasnext
+map entri entri entri iter
+string java option javaopt string entri kei getkei
+combo box jcombobox combo combo box jcombobox entri getvalu
+string string combo select item getselecteditem
+java build option javabuildopt set option setopt java option javaopt

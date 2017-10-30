@@ -1,0 +1,23 @@
+interv fix millisecond durat
+author stephen colebourn
+repres differ start end point term field
+readabl interv readableinterv
+author brian neill o'neil
+interv convert link readabl period readableperiod
+author sean geoghegan
+string string tostr
+readabl interv time instant
+interv inclus start instant exclus end
+string iso8601 interv format
+result interv compar
+durat repres separ link readabl durat readabledur
+method pass interv paramet treat code code
+compar length interv compar durat
+length interv current instant time
+time interv repres period time instant
+year dai
+differ start end instant
+end instant greater equal start instant
+org joda time
+t12 09t12 t13 10t13
+iso8601 string

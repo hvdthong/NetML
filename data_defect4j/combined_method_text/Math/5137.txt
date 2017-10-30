@@ -1,0 +1,11 @@
+real vector realvector residu getresidu
+residu providesresidu
+link iter linear solver event iterativelinearsolverev
+link iter linear solver iterativelinearsolv implement
+org apach common math linear
+return current residu
+version
+access current residu
+current residu
+compromis subsequ iter
+unmodifi view deep copi residu order

@@ -1,0 +1,29 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+valid branch validateorbranch pointcut orpointcut pointcut user pointcut userpointcut num formal numform
+string name pointcut left bind leftbind pointcut bind rightbind
+pointcut left left getleft
+pointcut getright
+left pointcut orpointcut
+pointcut bind newrightbind pointcut num formal numform
+valid branch validateorbranch pointcut orpointcut left user pointcut userpointcut num formal numform name left bind leftbind bind newrightbind
+left match kind couldmatchkind shadow shadow kind bit shadow kind bit
+valid singl branch validatesinglebranch left user pointcut userpointcut num formal numform name left bind leftbind
+pointcut orpointcut
+pointcut left bind newleftbind pointcut num formal numform
+valid branch validateorbranch pointcut orpointcut user pointcut userpointcut num formal numform name left bind newleftbind bind rightbind
+match kind couldmatchkind shadow shadow kind bit shadow kind bit
+valid singl branch validatesinglebranch user pointcut userpointcut num formal numform name bind rightbind
+kind common kindsincommon left match kind couldmatchkind match kind couldmatchkind
+kind common kindsincommon shadow shadow kind bit shadow kind bit match join point couldevermatchsamejoinpoint left
+branch bind formal ambigu
+branch bind
+list ambigu name ambiguousnam arrai list arraylist
+num formal numform
+left bind leftbind
+bind rightbind
+ambigu name ambiguousnam add name
+left bind leftbind equal bind rightbind
+ambigu name ambiguousnam add name
+ambigu name ambiguousnam empti isempti
+rais ambigu disjunct error raiseambiguityindisjunctionerror user pointcut userpointcut ambigu name ambiguousnam

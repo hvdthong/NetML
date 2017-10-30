@@ -1,0 +1,14 @@
+optim algorithm inherit
+max iter getmaxiter
+set iter evalu count
+max iter maxiter
+link abstract scalar optim abstractscalaroptim
+org apach common math optim gener
+base handl boiler plate method threshold
+base implement optim multivari scalar function
+base abstract scalar optim baseabstractscalaroptim multivari real function multivariaterealfunct
+version revis date
+common math
+link abstract scalar differenti optim abstractscalardifferentiableoptim
+intend enforc intern coher
+inherit doc inheritdoc

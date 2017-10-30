@@ -1,0 +1,5 @@
+org aspectj intern lang reflect
+author colyer
+type impl ajtypeimpl type ajtyp
+annot present isannotationpres class annot type annotationtyp
+clazz annot present isannotationpres annot type annotationtyp

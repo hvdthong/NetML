@@ -1,0 +1,11 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+println properti prop
+iter iter prop kei set keyset iter
+iter hasnext
+string kei string iter
+string prop properti getproperti kei
+print println kei

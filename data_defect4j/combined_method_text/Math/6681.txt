@@ -1,0 +1,22 @@
+pre
+org apach common math od nonstiff
+interpol time interpolatedtim time
+inherit doc inheritdoc
+step comput interpol equat consist
+set interpol time setinterpolatedtim time
+minu theta oneminusthetah truncat end nontruncatedend interpol time interpolatedtim
+overrid
+interpol comput dens output insid
+deriv except derivativeexcept
+interpol adam bashforth multipl step
+version revis date
+deriv previou step
+adam bashforth integr adamsbashforthintegr
+theta belong interpol polynomi base
+integr step end interpol date
+adam bashforth step interpol adamsbashforthstepinterpol multistep step interpol multistepstepinterpol
+theta theta
+comput interpol state computeinterpolatedst theta minu theta oneminusthetah
+theta truncat nontruncatedh
+integr scheme base kind rollback
+truncat nontruncatedh minu theta oneminusthetah truncat nontruncatedh

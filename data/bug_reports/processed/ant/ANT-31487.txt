@@ -1,0 +1,37 @@
+execution top level tasks imported files delayed targets
+stripped problem mentioned
+http marc theaimsgroup ant user 109655281326491
+suppose
+outer xml
+
+project outer
+import file xml
+property foo bar
+echo foo foo echo
+project
+xml
+
+project
+target baz
+property bar bar set
+echo bar bar echo
+project
+results
+bodewig bodewig tmp ant outer xml
+buildfile outer xml
+echo foo bar
+echo bar bar set
+build successful
+total time
+remove target xml
+bodewig bodewig tmp ant outer xml
+buildfile outer xml
+echo bar set
+echo foo bar set
+build successful
+total time
+imported file targets top level task delayed
+importing file executed
+immediately wrong behave
+argue correct vote execute
+immediately intuitive

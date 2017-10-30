@@ -1,0 +1,11 @@
+org aspectj ajdt ajc
+icommand adapt aspectj compil
+thread safe
+ajdt command ajdtcommand command icommand
+return imessag warn messag error info
+messag imessag kind infer kind inferkind string messag protect static imessag kind inferkind string messag xxx dubiou
+messag index indexof error
+messag imessag error
+messag index indexof info
+messag imessag info
+messag imessag warn

@@ -1,0 +1,13 @@
+param pair type point pair return optim
+specif
+base implement optim multivari function
+boiler plate code initi guess bound
+initi guess
+org apach common math3 optim
+version
+user
+start start clone
+base multivari optim basemultivariateoptim pair
+algorithm
+initi guess code set
+start point getstartpoint

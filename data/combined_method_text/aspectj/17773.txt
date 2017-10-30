@@ -1,0 +1,77 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+complet destin directori
+copi resourc sourc root directori
+filter
+class file input jar
+xcopyinjar enabl
+complet destdir completedestdir
+copi injar copyinjar sourc root copi filter sourcerootcopyfilt
+inpath dir copi filter inpathdircopyfilt
+dest dir destdir default destdir default destdir
+dest dir destdir write canwrit
+string unabl copi resourc destdir dest dir destdir
+build except buildexcept
+project project project getproject
+copi injar copyinjar copyinjar xxxx remov unus
+inpath
+log copyinjar support inpath project msg warn msg warn
+string task tasknam task gettasknam unzip
+string path injar list
+lang util langutil empti isempti path
+pattern set patternset pattern set patternset pattern set patternset
+pattern set patternset set project setproject project
+pattern set patternset set includ setinclud
+pattern set patternset set exclud setexclud class
+path length
+expand unzip expand
+unzip set project setproject project
+unzip set task settasknam task tasknam
+unzip set dest setdest dest dir destdir
+unzip set src setsrc file path
+unzip add patternset addpatternset pattern set patternset
+unzip execut
+sourc root copi filter sourcerootcopyfilt sourc root sourceroot
+string path sourc root sourceroot list
+lang util langutil empti isempti path
+copi copi copi
+copi set project setproject project
+copi set todir settodir dest dir destdir
+path length
+file set fileset file set fileset file set fileset
+file set fileset set dir setdir file path
+file set fileset set includ setinclud
+file set fileset set exclud setexclud sourc root copi filter sourcerootcopyfilt
+copi add fileset addfileset file set fileset
+copi execut
+inpath dir copi filter inpathdircopyfilt inpath
+string path inpath list
+lang util langutil empti isempti path
+copi copi copi
+copi set project setproject project
+copi set todir settodir dest dir destdir
+dir gotdir
+path length
+file inpath dir inpathdir file path
+inpath dir inpathdir directori isdirectori inpath dir inpathdir read canread
+dir gotdir
+dir gotdir
+file set fileset file set fileset file set fileset
+file set fileset set dir setdir inpath dir inpathdir
+file set fileset set includ setinclud
+file set fileset set exclud setexclud inpath dir copi filter inpathdircopyfilt
+copi add fileset addfileset file set fileset
+dir gotdir
+copi execut

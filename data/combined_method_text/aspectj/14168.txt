@@ -1,0 +1,69 @@
+org aspectj apach bcel gener
+templat class build method defin except
+handler ad thrown except local variabl attribut
+localvariabletable' linenumbertable' attribut set
+automat code stripattribut
+gener code insert nop oper
+removenops' method rid
+result method object obtain getmethod method
+version methodgen java aclement exp
+author href mailto marku dahm berlin dahm
+author href http www vmeng beard patrick beard setmaxstack
+instructionlist
+method
+method gen methodgen field gen method gen fieldgenormethodgen
+method object forget call setmaxstack setmaxstack max
+call method appli max local
+return method object
+method method getmethod
+string signatur signatur getsignatur
+index add utf8 addutf8
+signatur index add utf8 addutf8 signatur
+updat posit instruct indic
+byte code
+byte code byte code getbytecod
+line number tabl linenumbert lnt
+local variabl tabl localvariablet lvt
+j5todo localvariabletypet support
+creat localvariablet linenumbert attribut debugg
+variabl vec size strip attribut
+add code attribut addcodeattribut lvt local variabl tabl getlocalvariablet
+line number vec size strip attribut
+add code attribut addcodeattribut lnt line number tabl getlinenumbert
+attribut code attr code attribut getcodeattribut
+attribut addit header byte
+attr len
+code attr length
+attr len code attr length getlength
+code except codeexcept exc code except getcodeexcept
+exc len exc length int exc len exc length entri take byte
+code code
+abstract isabstract
+remov stale code attribut
+attribut attribut attribut getattribut
+attribut length
+attribut attribut
+code
+remov attribut removeattribut
+code code add utf8 addutf8 code
+byte code length byte code length prologu byte code
+exc len exc len except
+attr len attr len attribut
+max stack max local
+byte code exc
+code attr
+constant pool getconstantpool
+add attribut addattribut code
+add annot attribut addannotationsasattribut
+add paramet annot attribut addparameterannotationsasattribut
+except tabl exceptiont
+throw vec size
+add attribut addattribut except tabl getexceptiont addattribut getexceptiont add exceptions' throw claus
+method method access flag index signatur index
+attribut getattribut constant pool getconstantpool
+undo effect ad attribut
+lvt remov code attribut removecodeattribut lvt
+lnt remov code attribut removecodeattribut lnt
+code remov attribut removeattribut code
+remov attribut removeattribut
+j5todo remov annot attribut ad

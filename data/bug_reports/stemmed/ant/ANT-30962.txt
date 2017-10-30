@@ -1,0 +1,126 @@
+cvschangelog crash nullpointerexcept
+
+make cvschangelog run face strang problem
+cvschangelog crash nullpointerexcept
+task
+target cv changelog
+cvschangelog
+dir somedir
+destfil changelog xml
+target
+error ant full trace
+attach end file
+java lang nullpointerexcept
+java util calendar settim calendar java
+plain cv work
+cv log aug aug somedir
+output correct result full trace end file
+cv log log somedir
+
+
+cv configur
+add daysinpast option report week
+past crash slightli problem
+nullpointerexcept java util date
+daysinpast entri gener
+chang yesterdai cvschangelog task run gener
+empti report successfulli
+caus incompat cv ex option jar combin
+cv server version incompat ant
+option jar combin ant option jar
+result error
+cv ex path belong wincvs1 report version
+41a
+work winxp sp2
+idea problem bug
+ant don find solut
+
+benno
+cv output
+cv log log src traleon vsd gui variant
+rc file cv bel vsd src traleon vsd gui variant documentdiagram gif
+work file src traleon vsd gui variant documentdiagram gif
+head
+branch
+lock strict
+access list
+keyword substitut
+total revis select revis
+descript
+
+rc file cv bel vsd src traleon vsd gui variant gearwheel gif
+work file src traleon vsd gui variant gearwheel gif
+head
+branch
+lock strict
+access list
+keyword substitut
+total revis select revis
+descript
+
+rc
+file cv bel vsd src traleon vsd gui variant jpanelproductselector java
+work file src traleon vsd gui variant jpanelproductselector java
+head
+branch
+lock strict
+access list
+keyword substitut
+total revis select revis
+descript
+
+revis
+date author sgb state exp line
+fix bug nullpointerex jpanelspeicherkant beforedelet
+
+revis
+date author bel state exp line
+disabl function licens set
+
+revis
+date author arr state exp line
+sim menu item level
+export menu item remov
+pluginspanel resiz correct
+regist chang notif level
+timlin diagramm show calcul static dlz
+
+rc
+file cv bel vsd src traleon vsd gui variant jspinnervariantvalu java
+work file src traleon vsd gui variant jspinnervariantvalu java
+head
+branch
+lock strict
+access list
+keyword substitut
+total revis select revis
+descript
+ant trace
+enabl verbos bring info
+project vsd ant cv changelog
+buildfil build xml
+cv changelog
+cvschangelog cv log log
+build fail
+java lang nullpointerexcept
+java util calendar settim calendar java
+java text simpledateformat format simpledateformat java
+java text simpledateformat format simpledateformat java
+java text dateformat format dateformat java
+org apach tool ant taskdef cvslib changelogwrit printentri
+changelogwrit java
+org apach tool ant taskdef cvslib changelogwrit printchangelog
+changelogwrit java
+org apach tool ant taskdef cvslib changelogtask writechangelog
+changelogtask java
+org apach tool ant taskdef cvslib changelogtask execut
+changelogtask java
+org apach tool ant task perform task java
+org apach tool ant target execut target java
+org apach tool ant target performtask target java
+org apach tool ant project executetarget project java
+org apach tool ant project executetarget project java
+org apach tool ant main runbuild main java
+org apach tool ant main start main java
+org apach tool ant main main main java
+total time second

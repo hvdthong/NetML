@@ -1,0 +1,30 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot pattern list annotationpatternlist pattern node patternnod
+fuzzi boolean fuzzyboolean match resolv type resolvedtyp arg somearg
+quick length test
+num arg match ellipsi numargsmatchedbyellipsi arg somearg length ellipsi count ellipsiscount type pattern typepattern length
+num arg match ellipsi numargsmatchedbyellipsi fuzzi boolean fuzzyboolean
+num arg match ellipsi numargsmatchedbyellipsi ellipsi count ellipsiscount
+fuzzi boolean fuzzyboolean
+work arg pattern skip ellipsi
+fuzzi boolean fuzzyboolean ret fuzzi boolean fuzzyboolean
+arg index argsindex
+type pattern typepattern length
+type pattern typepattern annot type pattern annotationtypepattern ellipsi
+match ellipsismatchcount arg
+arg index argsindex num arg match ellipsi numargsmatchedbyellipsi
+type pattern typepattern annot type pattern annotationtypepattern
+arg index argsindex
+match argument type argsindex exactannotationtypepattern
+exact allow arg
+arg somearg arg index argsindex primit type isprimitivetyp fuzzi boolean fuzzyboolean somearg argsindex isprimitivetyp return fuzzyboolean match
+exact annot type pattern exactannotationtypepattern exact annot type pattern exactannotationtypepattern type pattern typepattern
+fuzzi boolean fuzzyboolean match match runtim type matchesruntimetyp arg somearg arg index argsindex
+match fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean return fuzzyboolean match runtim
+arg index argsindex
+ret ret match
+ret

@@ -1,0 +1,15 @@
+org apach common math stat infer
+comput test statist sampl test
+math sqrt
+common math link org apach common math distribut distribut tdistribut
+implement test statist defin link test ttest
+implement estim exact valu
+fast math fastmath sqrt
+version
+param constant test
+test impl ttestimpl test ttest
+version revis date
+param sampl
+test statist
+assum subpopul varianc equal
+param sampl varianc

@@ -1,0 +1,76 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+fuzzi boolean fuzzyboolean match annot element annotatedel annot resolv type resolvedtyp paramet annot parameterannot
+paramet annot match isforparameterannotationmatch
+check super checksup
+resolv annot type getresolvedannotationtyp annot hasannot unresolv type unresolvedtyp inherit inherit
+annot resolv type resolvedtyp
+check super checksup
+annot annot hasannot annot type annotationtyp
+annot type annotationtyp refer type referencetyp
+refer type referencetyp refer type referencetyp annot type annotationtyp
+retent polici getretentionpolici retent polici getretentionpolici equal sourc
+world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil warn weaver messag weavermessag format weaver messag weavermessag match sourc retent match sourc retent annot type annotationtyp annot sourc locat getsourceloc
+fuzzi boolean fuzzyboolean
+match annot valu
+annot valu annotationvalu
+annot annotationx annot theannot annot annot type getannotationoftyp annot type annotationtyp
+check
+set kei annot valu annotationvalu kei set keyset
+iter kei iter keyit kei iter kei iter keyit hasnext
+string string kei iter keyit
+string string annot valu annotationvalu
+annot theannot name hasnamedvalu
+simpl case 'name value' annot thing
+annot theannot pair hasnamevaluepair
+fuzzi boolean fuzzyboolean
+complex case default
+resolv member resolvedmemb resolv type resolvedtyp annot type annotationtyp declar method getdeclaredmethod
+found match foundmatch
+length found match foundmatch
+abstract isabstract paramet type getparametertyp length getnam equal
+string annot default getannotationdefaultvalu
+equal found match foundmatch
+found match foundmatch
+fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean
+check super checksup
+resolv type resolvedtyp match tomatchagainst resolv type resolvedtyp annot superclass getsuperclass
+match tomatchagainst
+match tomatchagainst annot hasannot annot type annotationtyp
+match annot valu
+annot valu annotationvalu
+annot annotationx annot theannot match tomatchagainst annot type getannotationoftyp annot type annotationtyp
+check
+set kei annot valu annotationvalu kei set keyset
+iter kei iter keyit kei iter kei iter keyit hasnext
+string string kei iter keyit
+string string annot valu annotationvalu
+annot theannot name hasnamedvalu
+simpl case 'name value' annot thing
+annot theannot pair hasnamevaluepair
+fuzzi boolean fuzzyboolean
+complex case default
+resolv member resolvedmemb resolv type resolvedtyp annot type annotationtyp declar method getdeclaredmethod
+found match foundmatch
+length found match foundmatch
+abstract isabstract paramet type getparametertyp length getnam equal
+string annot default getannotationdefaultvalu
+equal found match foundmatch
+found match foundmatch
+fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean
+match tomatchagainst match tomatchagainst superclass getsuperclass
+check paramet annot
+paramet annot parameterannot fuzzi boolean fuzzyboolean
+paramet annot parameterannot length
+annot type annotationtyp equal paramet annot parameterannot
+match annot valu
+annot valu annotationvalu
+paramet annot parameterannot world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil error compil limit annot match paramet annot support
+fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean

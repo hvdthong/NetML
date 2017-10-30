@@ -1,0 +1,38 @@
+capture method annotation generic aspect compile
+aspect compile aspect
+package
+import java lang annotation annotation
+public abstract aspect genericannotation extends annotation
+pointcut annotatedcall call annotation
+compile
+annotatedcall
+system println annotationtype
+
+
+
+call annotation
+system println annotationtype
+
+
+
+ajc src
+src genericannotation error incompatible type expected java lang annotation annotation found bindingtypepattern check type pointcut annotatedcall
+error
+
+commenting advice lets program run expected
+package
+import java lang annotation retention
+import java lang annotation retentionpolicy
+public class main
+retention retentionpolicy runtime
+interface myannotation
+
+static aspect concreteannotation extends genericannotation myannotation
+
+public static void main string args
+somemethod
+
+myannotation
+private static void somemethod
+
+

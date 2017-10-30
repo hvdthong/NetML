@@ -1,0 +1,17 @@
+org aspectj tool ajbrows swing
+panel displai ajc runtim option
+author mik kersten
+browser option panel browseroptionspanel option panel optionspanel
+load option loadopt except ioexcept
+output path field outputpath field set text settext
+browser manag browsermanag default getdefault prefer adapt getpreferencesadapt
+project prefer getprojectprefer prefer store constant preferencestoreconst build outputpath build outputpath
+standard option field nonstandardopt field set text settext
+browser manag browsermanag default getdefault prefer adapt getpreferencesadapt
+project prefer getprojectprefer prefer store constant preferencestoreconst nonstandard option nonstandard option
+classpath field set text settext
+browser manag browsermanag default getdefault prefer adapt getpreferencesadapt
+project prefer getprojectprefer prefer store constant preferencestoreconst build classpath build classpath
+class run field classtorun field set text settext
+browser manag browsermanag default getdefault prefer adapt getpreferencesadapt
+project prefer getprojectprefer prefer store constant preferencestoreconst runtim mainclass runtim mainclass

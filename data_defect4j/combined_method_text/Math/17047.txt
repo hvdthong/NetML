@@ -1,0 +1,11 @@
+link real field element realfieldel
+version
+org apach common math3 util
+decimal64 number
+decimal64 linear combin linearcombin decimal64 decimal64
+decimal64 decimal64
+decimal64 math arrai matharrai linear combin linearcombin
+wrap code object similar
+standard link doubl implement
+link extend field element extendedfieldel
+inherit doc inheritdoc

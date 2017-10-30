@@ -1,0 +1,15 @@
+link math
+org apach common math3 util
+code
+math arithmet except matharithmeticexcept local format localizedformat overflow subtract
+param minuend
+subtract integ check overflow
+arithmet relat addit built function
+differ code
+integ min integ max
+check subandcheck math arithmet except matharithmeticexcept
+version
+check subandcheck
+math arithmet except matharithmeticexcept result repres
+arithmet util arithmeticutil
+param subtrahend

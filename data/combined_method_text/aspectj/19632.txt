@@ -1,0 +1,8 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv member resolvedmemb filter java visibl filterinjavavis resolv member resolvedmemb
+list arrai list arraylist
+len length len
+synthet isajsynthet shadow munger getassociatedshadowmung
+add
+resolv member resolvedmemb arrai toarrai resolv member resolvedmemb size

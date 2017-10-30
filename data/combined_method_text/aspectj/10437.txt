@@ -1,0 +1,11 @@
+org aspectj ajd
+todo schitzophrenia buildconfignod iprogramel fix
+author mik kersten
+build config model buildconfigmodel
+activ node helper getactivenodeshelp build config node buildconfignod node build config node buildconfignod kind kind list node
+iter node children getchildren iter hasnext
+build config node buildconfignod curr node currnod build config node buildconfignod
+curr node currnod build config node kind getbuildconfignodekind equal kind
+curr node currnod activ isact
+node add curr node currnod
+activ node helper getactivenodeshelp curr node currnod kind node

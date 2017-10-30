@@ -1,0 +1,12 @@
+field matrix impl fieldmatriximpl field element fieldel abstract field matrix abstractfieldmatrix serializ
+org apach common math linear
+param type field element
+inherit doc inheritdoc
+version revis date
+link field matrix fieldmatrix matrix element index
+return element row column matrix
+overrid
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+data data data length
+base code entri getentri code
+column dimens getcolumndimens

@@ -1,0 +1,22 @@
+org aspectj intern tool ant taskdef
+task convert html sourc file file bodi content
+task argument
+srcdir
+destdir
+includ
+exclud
+argument sourcedir requir
+task execut scan srcdir base
+includ exclud properti
+strip bodi html stripnonbodyhtml match task matchingtask
+write bodi writebodyto string file except ioexcept
+start int start end
+start find start findstart
+find end findend start
+pars except parseexcept
+return fals confus write file
+process bodi processbodi
+buffer output stream bufferedoutputstream
+buffer output stream bufferedoutputstream file output stream fileoutputstream
+write byte getbyt
+close

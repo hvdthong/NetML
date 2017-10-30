@@ -1,0 +1,14 @@
+param rais power
+interfac defin field valu matrix basic algebra oper
+org apach common math linear
+param type field element
+matrix element index base code entri getentri code
+return result multipli code code time
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+depend type field element
+instabl high power occur
+version revis date
+squar matrix except nonsquarematrixexcept matrix squar
+field matrix fieldmatrix power
+illeg argument except illegalargumentexcept

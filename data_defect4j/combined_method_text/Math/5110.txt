@@ -1,0 +1,49 @@
+block cblock column block size blocksiz block size blocksiz
+block real matrix blockrealmatrix col column block xblock
+row dimens getrowdimens row
+start kstart block kblock block size blocksiz
+factor diag rdiag idx minor idx
+inherit doc inheritdoc
+hand side vector
+row dimens getrowdimens block size blocksiz
+solv triangular system
+block xblock block real matrix blockrealmatrix creat block layout createblockslayout col column
+rij
+arrai fill alpha width kwidth
+row length
+end kend fast math fastmath min start kstart block size blocksiz column
+minor minor rank minor
+col length
+org apach common math linear
+index perm start jstart width kwidth local block coordin
+pivot decomposit pivotingqrdecomposit
+factor diag rdiag perm
+factor
+idx perm minor
+copi matrix copysubmatrix row start kstart end kend
+row yrow alpha
+block real matrix blockrealmatrix result block real matrix blockrealmatrix col column block xblock
+block xblock index
+rank
+singular matrix except singularmatrixexcept
+alpha factor
+width kwidth end kend start kstart
+alpha row yrow
+column column dimens getcolumndimens
+block kblock block kblock block cblock block kblock
+author gregsterijevski
+row idx
+appli household transform solv
+row yrow row
+dimens mismatch except dimensionmismatchexcept row dimens getrowdimens row
+start jstart block jblock block size blocksiz idx top corner block coord
+width kwidth
+row minor row row row
+block jblock perm block size blocksiz block
+real matrix realmatrix solv real matrix realmatrix
+block size blocksiz block real matrix blockrealmatrix block size
+singular isnonsingular
+block xblock block xblock block jblock block cblock block kblock
+rij perm
+alpha block size blocksiz
+result

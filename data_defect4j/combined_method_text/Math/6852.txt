@@ -1,0 +1,16 @@
+pre
+euler integr eulerintegr
+org apach common math od nonstiff
+midpoint midpoint step interpol midpointstepinterpol step
+midpoint integr midpointintegr rung kutta integr rungekuttaintegr
+order rung kutta integr
+midpoint integr midpointintegr step
+build midpoint integr step
+midpoint integr midpointintegr
+ordinari differenti equat
+method explicit rung kutta method butcher arrai
+simpl constructor
+version revis date
+gill integr gillintegr
+classic rung kutta integr classicalrungekuttaintegr
+param step integr step

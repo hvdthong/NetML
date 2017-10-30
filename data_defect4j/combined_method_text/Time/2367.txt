@@ -1,0 +1,60 @@
+author stephen colebourn
+maximum
+end set week weekyear weekofweekyear logic
+calcul weekyear number close
+work woi year workwoyyear year
+real chang request
+illeg argument except illegalargumentexcept year invalid
+current woi week currentwoyweek chronolog ichronolog week weekyear getweekofweekyear work instant workinst
+set proper week current weekyear
+equal year set
+author brian neill o'neil
+set year week base year compon time instant
+week year weeksintoyear chronolog ichronolog week year getweeksinyear year
+return result
+work instant workinst work instant workinst set week settoweek current woi week currentwoyweek
+note call ourself call
+conveni debug
+max week maxoutweek week year weeksintoyear week year weeksinfromyear
+param instant time instant milli updat
+work instant workinst chronolog ichronolog set year setyear work instant workinst year
+calcul dai week dayofweek preserv
+work instant workinst chronolog ichronolog dai week dayofweek set work instant workinst dow thisdow
+week year weeksintoyear week year weeksinfromyear
+work instant workinst
+current week year preserv
+set week settoweek chronolog ichronolog week weekyear getweekofweekyear instant
+org joda time date time field datetimefield set
+param year year set date
+weekyear thisweekyear year
+ad subtract week
+set year close
+org joda time chrono
+note work fine ideal invok
+rang check requir
+reset dai week dayofweek previou
+wroke copi current date time
+time calcul week weekyear compon time
+field field
+target weekyear adjust
+attempt close proper weekyear
+weekyear thisweekyear instant
+work instant workinst instant copi
+year fix
+work instant workinst date time constant datetimeconst milli week
+week year weeksinfromyear chronolog ichronolog week year getweeksinyear weekyear thisweekyear
+calcul maximum week target year
+instant
+date time constant datetimeconst milli week
+basic weekyear date time field basicweekyeardatetimefield imprecis date time field imprecisedatetimefield
+dow thisdow chronolog ichronolog dai week getdayofweek instant
+updat date time datetim
+author gui allard
+refactor weekyear date time field gjweekyeardatetimefield
+begin set week weekyear weekofweekyear logic
+output greater maximum
+set instant year
+chronolog ichronolog min year getminyear chronolog ichronolog max year getmaxyear
+field util fieldutil verifi bound verifyvaluebound math ab year
+work woi year workwoyyear work instant workinst
+set week settoweek max week maxoutweek

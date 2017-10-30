@@ -1,0 +1,12 @@
+org aspectj ajd swing
+simpl structur view tool panel simplestructureviewtoolpanel panel jpanel
+hide associ button action perform hideassoci button actionperform action event actionev
+hide associ enabl hideassociationsen
+hide associ button hideassoci button set border setbord ajd widget style ajdewidgetstyl default border default border
+hide associ enabl hideassociationsen
+current view currentview view properti getviewproperti set relat setrel
+ajd default getdefault structur view manag getstructureviewmanag relat getavailablerel
+hide associ button hideassoci button set border setbord ajd widget style ajdewidgetstyl lower bevel border lower bevel border
+hide associ enabl hideassociationsen
+current view currentview view properti getviewproperti set relat setrel arrai list arraylist
+ajd default getdefault structur view manag getstructureviewmanag refresh view refreshview current view currentview

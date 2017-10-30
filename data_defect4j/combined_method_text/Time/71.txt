@@ -1,0 +1,48 @@
+author stephen colebourn
+set
+link org joda time convert convert manag convertermanag convert manag convertermanag
+recognis object type defin
+text
+chronolog impli object gregorian calendar gregoriancalendar
+intern standard compat modern gregorian calendar
+string format link iso date time format isodatetimeformat date time parser datetimepars
+link local date locald repres date time zone
+add subtract
+date midnight datemidnight defin date time compon fix midnight
+param instant datetim object mean
+code dai month dayofmonth code
+time zone midnight local utc time zone
+maximum minimum valu
+techniqu access method
+field
+chronolog iso time zone
+millisecond instant convert date time field
+chronolog code iso chronolog isochronolog code agre
+code dai month getdayofmonth code
+illeg argument except illegalargumentexcept instant invalid
+repres dai link interv
+individu field queri wai
+numer
+link date time datetim repres full date time
+construct object local time midnight
+dai
+includ readabl instant readableinst string calendar date
+param chronolog chronolog mean iso chronolog isochronolog zone
+chronolog intern chronolog determin
+construct instanc object repres datetim
+daylight save time forward shift skip midnight hour
+import emphasis repres time midnight
+date midnight datemidnight thread safe immut provid chronolog
+standard chronolog class suppli thread safe immut
+deprec time midnight exist time zone
+date midnight datemidnight
+note midnight defin start dai
+link date time datetim time start dai withtimeatstartofdai instant
+chronolog
+instant date time util datetimeutil chronolog getchronolog chronolog
+start dai
+org joda time
+date midnight datemidnight object instant chronolog chronolog
+link local date locald suitabl
+round
+repres dai millisecond instant midnight

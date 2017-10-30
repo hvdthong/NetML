@@ -1,0 +1,13 @@
+author stephen colebourn
+read writabl date time readwritabledatetim readabl date time readabledatetim read writabl instant readwritableinst
+defin instant time queri modifi datetim field
+add week addweek week
+param week week add
+paramet method manipul chang date simpl wai
+implement mutabl
+add number week date
+org joda time
+provid advanc method
+author brian neill o'neil
+method applic defin code read writabl date time readwritabledatetim code
+illeg argument except illegalargumentexcept invalid

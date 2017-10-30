@@ -1,0 +1,54 @@
+org aspectj weaver bcel
+lazymethodgen treat methodgen abstract
+low level method object convert link methodgen creat
+serial
+rate wai creat lazymethodgen
+method
+work methodgen correct thing
+creation complet empti
+lazymethodgen construct code scratch
+stai target rangei thing shadow except
+lazi method gen lazymethodgen traceabl
+print instruct printinstruct instruct handl instructionhandl depth
+print depth printdepth depth
+print label printlabel string label map labelmap depth
+instruct inst instruct getinstruct
+inst instruct cpinstruct
+instruct cpinstruct cpinst instruct cpinstruct inst
+print constant opcod name opcod name cpinst opcod getopcod upper case touppercas
+print
+print pool constant string constanttostr pool constant getconst cpinst index getindex
+inst select
+select sinst select inst
+println constant opcod name opcod name sinst opcod getopcod upper case touppercas
+match sinst match getmatch
+instruct handl instructionhandl target sinst target gettarget
+instruct handl instructionhandl default target defaulttarget sinst target gettarget
+len match length len
+print depth printdepth depth
+print label printlabel depth
+print
+print match
+print
+println label map labelmap target
+print depth printdepth depth
+print label printlabel depth
+print
+print default
+print label map labelmap default target defaulttarget
+inst branch instruct branchinstruct
+branch instruct branchinstruct brinst branch instruct branchinstruct inst
+print constant opcod name opcod name brinst opcod getopcod upper case touppercas
+print
+print label map labelmap brinst target gettarget
+inst local variabl instruct localvariableinstruct
+local variabl instruct localvariableinstruct lvinst local variabl instruct localvariableinstruct inst
+print inst string tostr upper case touppercas
+index lvinst index getindex
+local variabl tag localvariabletag tag local variabl tag getlocalvariabletag index
+tag
+print
+print tag type gettyp
+print
+print tag getnam
+print inst string tostr upper case touppercas

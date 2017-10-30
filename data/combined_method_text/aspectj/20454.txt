@@ -1,0 +1,21 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+add parent addpar resolv type resolvedtyp parent newpar
+bitflag damag
+parent newpar class isclass
+superclass signatur superclasssignatur parent newpar signatur getsignatur
+superclass superclassnam parent newpar getnam
+superclass newpar
+resolv type resolvedtyp interfac name oldinterfacenam declar interfac getdeclaredinterfac
+exist
+interfac name oldinterfacenam length
+resolv type resolvedtyp type interfac name oldinterfacenam
+type equal parent newpar exist
+exist
+len interfac signatur interfacesignatur length
+string interfac signatur newinterfacesignatur string len
+system arraycopi interfac signatur interfacesignatur interfac signatur newinterfacesignatur len
+interfac signatur newinterfacesignatur len parent newpar signatur getsignatur
+interfac signatur interfacesignatur interfac signatur newinterfacesignatur
+system err println javaclass arrai aslist javaclass getinterfacenam super superclassnam
+lazyclassgen null lazyclassgen print

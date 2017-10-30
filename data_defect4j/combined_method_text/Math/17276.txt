@@ -1,0 +1,9 @@
+shuffl list
+math arrai matharrai
+param list arrai entri shuffl place
+org apach common math3 util
+arrai util
+shuffl entri arrai
+shuffl posit random gener randomgener
+version
+shuffl list well19937c

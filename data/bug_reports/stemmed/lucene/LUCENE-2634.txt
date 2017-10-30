@@ -1,0 +1,8 @@
+indexread iscurr li document remov latest commit
+usecas
+indexread indexwrit
+delet document term indexwrit
+commit indexwrit
+indexread iscurr return true
+check index reader current reopen obtain writer ect problem document found search delet
+testcas attach

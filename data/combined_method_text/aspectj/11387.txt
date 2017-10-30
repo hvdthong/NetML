@@ -1,0 +1,41 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+binari type bind binarytypebind creat binari type createbinarytypefrom
+binari type ibinarytyp binari type binarytyp
+packag bind packagebind packag bind packagebind
+field method needfieldsandmethod
+access restrict accessrestrict access restrict accessrestrict
+binari type creation weav inbinarytypecreationandweav
+binari type bind binarytypebind ret creat binari type createbinarytypefrom
+binari type binarytyp
+packag bind packagebind
+field method needfieldsandmethod
+access restrict accessrestrict
+pend type finish pendingtypestofinish add ret
+ret
+binari type creation weav inbinarytypecreationandweav
+binari type bind binarytypebind ret creat binari type createbinarytypefrom
+binari type binarytyp
+packag bind packagebind
+field method needfieldsandmethod
+access restrict accessrestrict
+factori world getworld valid type validatetyp factori bind frombind ret
+byte pass valid classfileread binarytyp getreferencebyt
+weav inter type declar weaveintertypedeclar ret
+ret
+binari type creation weav inbinarytypecreationandweav
+start process list
+pend type finish pendingtypestofinish size
+process queue processingthequeu
+pend type finish pendingtypestofinish empti isempti
+binari type bind binarytypebind victim nextvictim binari type bind binarytypebind pend type finish pendingtypestofinish remov
+call recurs method add
+entri pendingtypestofinish list
+weav inter type declar weaveintertypedeclar victim nextvictim
+process queue processingthequeu

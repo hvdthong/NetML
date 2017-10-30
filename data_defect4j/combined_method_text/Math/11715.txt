@@ -1,0 +1,15 @@
+param arg argument
+context add messag addmessag pattern arg
+object arg
+math arithmet except matharithmeticexcept localiz pattern
+org apach common math3 except
+context except context exceptioncontext
+messag
+link arithmet except arithmeticexcept provid local
+version
+param pattern messag pattern provid specif context
+constructor specif messag
+except semant standard
+error
+math arithmet except matharithmeticexcept arithmet except arithmeticexcept
+base arithmet except

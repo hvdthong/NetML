@@ -1,0 +1,17 @@
+org apach common math3 random
+creat random number gener arrai seed
+fran ccedil oi panneton pierr ecuy l'ecuy makoto matsumoto
+param seed initi seed bit integ arrai
+version
+seed gener relat current time
+well19937a seed
+transact mathemat softwar errata paper
+pierr ecuy l'ecuy makoto matsumoto
+gener paper fran ccedil oi panneton
+href http www iro umontr panneton wellrng html random number gener
+long period gener base linear recurr modulo acm
+href http www iro umontr lecuy myftp paper wellrng errata txt wellrng errata txt
+href http www iro umontr lecuy myftp paper wellrng pdf improv
+seed
+well19937a pseudo random number gener
+well19937a abstract abstractwel

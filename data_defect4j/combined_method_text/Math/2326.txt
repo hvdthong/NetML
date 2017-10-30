@@ -1,0 +1,50 @@
+gauss newton estim gaussnewtonestim
+build contribut matrix measur
+solv estim problem weight
+updat estim paramet
+wgg row wggrow weight grad
+wgg data wggdata grad grad wgradgradt data ref getdataref
+linear approxim problem
+decrement data bdecrementdata decrement bdecrement data ref getdataref
+residu measur residu getresidu
+real matrix impl realmatriximpl grad grad wgradgradt real matrix impl realmatriximpl paramet length paramet length
+add decrement bdecrement
+solver estim problem
+weight measur weightedmeasur measur problem measur getmeasur
+consist solv linear squar problem
+paramet length
+real matrix realmatrix real matrix impl realmatriximpl paramet length
+measur length
+add grad grad wgradgradt
+order handl effici linear
+org apach common math estim
+estim paramet estimatedparamet paramet problem unbound paramet getunboundparamet
+updat matric
+param problem estim problem solv
+weight measur weight getweight
+except estim except estimationexcept problem solv
+linear estim linearestim estim problem estimationproblem problem
+grad paramet length
+comput normal equat
+squar criterion measur residu
+real matrix realmatrix real matrix impl realmatriximpl paramet length paramet length
+invalid matrix except invalidmatrixexcept
+version gauss newton estim gaussnewtonestim java 39z luc
+gauss newton algorithm
+behaviour linear problem iter
+real matrix impl realmatriximpl decrement bdecrement real matrix impl realmatriximpl paramet length
+real matrix realmatrix solv
+grad measur partial getparti paramet
+solut method provid
+build linear problem
+measur isignor
+gauss newton algorithm iter iter
+paramet set estim setestim paramet estim getestim entri getentri
+decrement data bdecrementdata weight residu grad
+estim except estimationexcept
+iter need gener problem
+wgg row wggrow wgg data wggdata
+problem
+solv linear squar problem
+grad
+estim solut linear squar problem

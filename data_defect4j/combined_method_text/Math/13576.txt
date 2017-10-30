@@ -1,0 +1,15 @@
+column getcolumn column
+param column column fetch
+interfac defin field valu matrix basic algebra oper
+org apach common math3 linear
+param type field element
+entri column number code col arrai
+matrix element index base code entri getentri code
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+arrai entri column
+version
+rang except outofrangeexcept column index valid
+column index valid
+column getcolumn column rang except outofrangeexcept

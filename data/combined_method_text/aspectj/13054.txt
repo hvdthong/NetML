@@ -1,0 +1,34 @@
+org aspectj apach bcel classfil annot
+element repres primit string
+simpl element simpleelementvalu element elementvalu
+string stringifi stringifyvalu
+type
+primit int primit int
+constant integ constantinteg constant integ constantinteg cpool constant getconst idx constant constant integ constant integ
+integ string tostr byte getbyt
+primit long primit long
+constant long constantlong constant long constantlong cpool constant getconst idx constant constant long constant long
+long string tostr byte getbyt
+primit doubl primit doubl
+constant doubl constantdoubl constant doubl constantdoubl cpool constant getconst idx constant constant doubl constant doubl
+doubl string tostr byte getbyt
+primit float primit float
+constant float constantfloat constant float constantfloat cpool constant getconst idx constant constant float constant float
+float string tostr byte getbyt
+primit short primit short
+constant integ constantinteg constant integ constantinteg cpool constant getconst idx constant constant integ constant integ
+integ string tostr byte getbyt
+primit byte primit byte
+constant integ constantinteg constant integ constantinteg cpool constant getconst idx constant constant integ constant integ
+integ string tostr byte getbyt
+primit char primit char
+constant integ constantinteg constant integ constantinteg cpool constant getconst idx constant constant integ constant integ
+charact byte getbyt string tostr
+primit boolean primit boolean
+constant integ constantinteg constant integ constantinteg cpool constant getconst idx constant constant integ constant integ
+byte getbyt fals
+byte getbyt true
+string
+constant utf8 constantutf8 cu8 constant utf8 constantutf8 cpool constant getconst idx constant constant utf8 constant utf8
+cu8 byte getbyt
+runtim except runtimeexcept simpleelementvalu class stringifi type type

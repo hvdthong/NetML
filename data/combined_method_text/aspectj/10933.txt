@@ -1,0 +1,52 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+creat adapt drive aspectj
+part compil cycl
+param compil jdt compil produc class file sourc
+param isbatchcompil true full build increment
+param world bcelworld type resolut weav
+param weaver weaver
+param intrequestor recipi interim compil result compil pre weav
+param outputfilenameprovid implementor strategi provid output file name result
+param binarysourceentri binari sourc compil weav
+param resultsetforfullweav increment build weaver determin
+weav world set intermedi
+result pass weaver
+compil adapt ajcompileradapt compil compil
+batch compil isbatchcompil
+bcel world bcelworld world
+bcel weaver bcelweav weaver
+eclips factori eclipsefactori factori efactori
+intermedi result requestor iintermediateresultsrequestor int requestor intrequestor
+progress listen iprogresslisten progress listen progresslisten
+output class file provid ioutputclassfilenameprovid output file provid outputfilenameprovid
+binari sourc provid ibinarysourceprovid binari sourc provid binarysourceprovid
+map full binari sourc entri fullbinarysourceentri map fullbinarysourceentri filenam list unwovenclassfil
+xtermin compil isxterminateaftercompil
+proce error proceedonerror
+aspect process noataspectjprocess
+state ajstat increment compil state incrementalcompilationst
+compil compil
+batch compil isbatchcompil batch compil isbatchcompil
+weaver weaver
+intermedi result requestor intermediateresultsrequestor int requestor intrequestor
+progress listen progresslisten progress listen progresslisten
+output file provid outputfilenameprovid output file provid outputfilenameprovid
+binari sourc provid binarysourceprovid binari sourc provid binarysourceprovid
+termin compil isxterminateaftercompil xtermin compil isxterminateaftercompil
+proce error proceedonerror proce error proceedonerror
+binari sourc set full weav binarysourcesetforfullweav full binari sourc entri fullbinarysourceentri
+world eworld factori efactori
+java5 mode injava5mod
+aspect annot process noataspectjannotationprocess aspect process noataspectjprocess
+increment compil state incrementalcompilationst increment compil state incrementalcompilationst
+compil option complianc level compliancelevel class file constant classfileconst jdk1 java5 mode injava5mod
+messag handler imessagehandl msg handler msghandler world messag handler getmessagehandl
+reset messag handler creat save ton memori lost increment compil
+msg handler msghandler weaver messag handler weavermessagehandl
+weaver messag handler weavermessagehandl msg handler msghandler reset compil resetcompil compil
+weaver messag handler weavermessagehandl weaver messag handler weavermessagehandl msg handler msghandler
+weaver messag handler weavermessagehandl weaver messag handler weavermessagehandl msg handler msghandler compil
+world set messag handler setmessagehandl weaver messag handler weavermessagehandl

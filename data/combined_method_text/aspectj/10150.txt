@@ -1,0 +1,23 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+reset
+cmd commandlin
+vmcmd commandlin
+sourcepath
+destdir
+sourcefil
+packagenam
+packag list packagelist
+bootclasspath
+extdir
+classpath
+internalclasspath
+argfil
+docletpath
+link arrai list arraylist
+group arrai list arraylist
+doclet
+failonerror
+fork

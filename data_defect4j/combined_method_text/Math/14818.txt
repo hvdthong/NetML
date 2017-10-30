@@ -1,0 +1,7 @@
+multivari optim multivariateoptim
+goal
+base multivari scalar function optim
+version
+org apach common math3 optim nonlinear scalar
+goal type goaltyp goal type getgoaltyp
+optim type

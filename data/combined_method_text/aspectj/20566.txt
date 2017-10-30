@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+object visit target pointcut thisortargetpointcut node object data
+node isthi node bind isbind target usestarget
+node

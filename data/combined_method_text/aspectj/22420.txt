@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars arg annot pointcut parseargsannotationpointcut
+pars identifi parseidentifi
+annot pattern list annotationpatternlist argument pars argument annot pattern parseargumentsannotationpattern
+arg annot pointcut argsannotationpointcut argument

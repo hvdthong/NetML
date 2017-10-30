@@ -1,0 +1,14 @@
+linear constructor
+version
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+param fourth base unscal vector
+param scale factor
+instanc guarante immut
+param fourth scale factor
+org apach common math geometri euclidean twod
+vector2 vector2d vector2 vector2d
+param base unscal vector
+vector built
+vector2 vector2d vector2 vector2d vector2 vector2d
+build vector scale factor

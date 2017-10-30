@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+bind scope bindingscop resolv type resolvedtypex type sourc context isourcecontext sourc context sourcecontext formal bind formalbind bind
+type world getworld bind
+enclos type enclosingtyp type
+sourc context sourcecontext sourc context sourcecontext

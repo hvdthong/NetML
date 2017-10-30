@@ -1,0 +1,5 @@
+org aspectj apach bcel gener annot
+element pair gen elementnamevaluepairgen
+element pair gen elementnamevaluepairgen string element gen elementvaluegen constant pool gen constantpoolgen cpool
+idx nameidx cpool add utf8 addutf8
+cpool cpool

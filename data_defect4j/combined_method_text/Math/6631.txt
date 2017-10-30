@@ -1,0 +1,31 @@
+org apach common math od jacobian
+param converg converg threshold event time search
+add event handler addeventhandl event handler jacobian eventhandlerwithjacobian handler
+ad form compound problem higher dimens origin od
+function check interv prevent miss sign
+comput partial deriv solut respect initi state
+problem dimens paramet compound problem
+paramet
+add event handler integr
+max iter count maxiterationcount
+od dimens getdimens
+extend jacobian raw od variat equat
+max check interv maxcheckinterv converg max iter count maxiterationcount
+integr step larg
+dimens time
+param handler event handler
+parameter od parameterizedod
+version revis date
+max check interv maxcheckinterv
+od jacobian odewithjacobian
+order comput state deriv od problem
+param max iter count maxiterationcount upper limit iter count
+enhanc order integr differenti equat
+param max check interv maxcheckinterv maxim time interv switch
+order integr jacobian firstorderintegratorwithjacobian
+integr add event handler addeventhandl event handler wrapper eventhandlerwrapp handler
+od paramet dimens getparametersdimens
+converg
+clear event handler cleareventhandl
+event handler geteventhandl
+event time search

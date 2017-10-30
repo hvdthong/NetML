@@ -1,0 +1,17 @@
+base integr
+org apach common math optim fit
+observ length
+phase phi code co omega phi code
+param observ sampl observ
+harmon fitter harmonicfitt curv fitter curvefitt
+class curv fit special sinusoid
+search squar estim initi rough guess
+paramet guesser parameterguess weight observ point weightedobservedpoint observ
+number small except numberistoosmallexcept sampl
+number small except numberistoosmallexcept local format localizedformat insuffici observ point sampl
+guess comput
+simpl constructor
+version revis date
+observ observ clone
+harmon fit simpl curv fit
+estim coeffici amplitud pulsat omega

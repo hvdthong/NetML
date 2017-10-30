@@ -1,0 +1,23 @@
+distanc getdist real vector realvector
+distanc getdist data
+distanc vector
+math sqrt sum
+org apach common math linear
+sum
+norm squar root sum
+param vector distanc request
+except illeg argument except illegalargumentexcept size
+version revis date
+distanc getl1dist real vector impl realvectorimpl
+method comput distanc consist
+distanc getdist real vector impl realvectorimpl
+norm getnorm
+delta data data
+element differ euclidian distanc
+data length
+inf distanc getlinfdist real vector impl realvectorimpl
+sum delta delta
+real vector impl realvectorimpl real vector realvector serializ
+check vector dimens checkvectordimens
+link real vector realvector arrai
+illeg argument except illegalargumentexcept

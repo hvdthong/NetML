@@ -1,0 +1,235 @@
+org aspectj apach bcel gener
+abstract super class java byte code
+version instruct java aclement exp
+author href mailto marku dahm berlin dahm
+instruct cloneabl serializ
+read instruct byte code input stream return
+appropi object
+param file file read
+return instruct object read
+instruct read instruct readinstruct byte sequenc bytesequ byte
+except ioexcept
+wide
+opcod byte read unsign byte readunsignedbyt
+instruct obj
+opcod constant wide opcod constant wide read opcod wide byte
+wide
+opcod byte read unsign byte readunsignedbyt
+instruct constant instructionconst instruct opcod
+instruct constant instructionconst instruct opcod return instructionconst instruct opcod predefin immut object
+find appropi class instanti empti instruct object
+initi hand
+class clazz
+opcod
+constant nop obj nop
+constant aconst null aconst null obj aconst null aconst null
+constant iconst iconst
+constant iconst
+constant iconst
+constant iconst
+constant iconst
+constant iconst
+constant iconst obj iconst
+constant lconst
+constant lconst obj lconst
+constant fconst
+constant fconst
+constant fconst obj fconst
+constant dconst
+constant dconst obj dconst
+constant bipush obj bipush
+constant sipush obj sipush
+constant ldc obj ldc
+constant ldc ldc obj ldc ldc
+constant ldc2 ldc2 obj ldc2 ldc2
+constant iload obj iload
+constant lload obj lload
+constant fload obj fload
+constant dload obj dload
+constant aload obj aload
+constant iload
+constant iload
+constant iload
+constant iload obj iload
+constant lload
+constant lload
+constant lload
+constant lload obj lload
+constant fload
+constant fload
+constant fload
+constant fload obj fload
+constant dload
+constant dload
+constant dload
+constant dload obj dload
+constant aload
+constant aload
+constant aload
+constant aload obj aload
+constant iaload obj iaload
+constant laload obj laload
+constant faload obj faload
+constant daload obj daload
+constant aaload obj aaload
+constant baload obj baload
+constant caload obj caload
+constant saload obj saload
+constant istor obj istor
+constant lstore obj lstore
+constant fstore obj fstore
+constant dstore obj dstore
+constant astor obj astor
+constant istor
+constant istor
+constant istor
+constant istor obj istor
+constant lstore
+constant lstore
+constant lstore
+constant lstore obj lstore
+constant fstore
+constant fstore
+constant fstore
+constant fstore obj fstore
+constant dstore
+constant dstore
+constant dstore
+constant dstore obj dstore
+constant astor
+constant astor
+constant astor
+constant astor obj astor
+constant iastor obj iastor
+constant lastor obj lastor
+constant fastor obj fastor
+constant dastor obj dastor
+constant aastor obj aastor
+constant bastor obj bastor
+constant castor obj castor
+constant sastor obj sastor
+constant pop obj pop
+constant pop2 obj pop2
+constant dup obj dup
+constant dup dup obj dup dup
+constant dup dup obj dup dup
+constant dup2 obj dup2
+constant dup2 dup2 obj dup2 dup2
+constant dup2 dup2 obj dup2 dup2
+constant swap obj swap
+constant iadd obj iadd
+constant ladd obj ladd
+constant fadd obj fadd
+constant dadd obj dadd
+constant isub obj isub
+constant lsub obj lsub
+constant fsub obj fsub
+constant dsub obj dsub
+constant imul obj imul
+constant lmul obj lmul
+constant fmul obj fmul
+constant dmul obj dmul
+constant idiv obj idiv
+constant ldiv obj ldiv
+constant fdiv obj fdiv
+constant ddiv obj ddiv
+constant irem obj irem
+constant lrem obj lrem
+constant frem obj frem
+constant drem obj drem
+constant ineg obj ineg
+constant lneg obj lneg
+constant fneg obj fneg
+constant dneg obj dneg
+constant ishl obj ishl
+constant lshl obj lshl
+constant ishr obj ishr
+constant lshr obj lshr
+constant iushr obj iushr
+constant lushr obj lushr
+constant iand obj iand
+constant land obj land
+constant ior obj ior
+constant lor obj lor
+constant ixor obj ixor
+constant lxor obj lxor
+constant iinc obj iinc
+constant i2l obj i2l
+constant i2f obj i2f
+constant i2d obj i2d
+constant l2i obj l2i
+constant l2f obj l2f
+constant l2d obj l2d
+constant f2i obj f2i
+constant f2l obj f2l
+constant f2d obj f2d
+constant d2i obj d2i
+constant d2l obj d2l
+constant d2f obj d2f
+constant i2b obj i2b
+constant i2c obj i2c
+constant i2 obj i2
+constant lcmp obj lcmp
+constant fcmpl obj fcmpl
+constant fcmpg obj fcmpg
+constant dcmpl obj dcmpl
+constant dcmpg obj dcmpg
+constant ifeq obj ifeq
+constant ifn obj ifn
+constant iflt obj iflt
+constant ifg obj ifg
+constant ifgt obj ifgt
+constant ifl obj ifl
+constant icmpeq icmpeq obj icmpeq icmpeq
+constant icmpn icmpn obj icmpn icmpn
+constant icmplt icmplt obj icmplt icmplt
+constant icmpg icmpg obj icmpg icmpg
+constant icmpgt icmpgt obj icmpgt icmpgt
+constant icmpl icmpl obj icmpl icmpl
+constant acmpeq acmpeq obj acmpeq acmpeq
+constant acmpn acmpn obj acmpn acmpn
+constant goto obj goto
+constant jsr obj jsr
+constant ret obj ret
+constant tableswitch obj tableswitch
+constant lookupswitch obj lookupswitch
+constant ireturn obj ireturn
+constant lreturn obj lreturn
+constant freturn obj freturn
+constant dreturn obj dreturn
+constant areturn obj areturn
+constant return obj return
+constant getstat obj getstat
+constant putstat obj putstat
+constant getfield obj getfield
+constant putfield obj putfield
+constant invokevirtu obj invokevirtu
+constant invokespeci obj invokespeci
+constant invokestat obj invokestat
+constant invokeinterfac obj invokeinterfac
+constant obj
+constant newarrai obj newarrai
+constant anewarrai obj anewarrai
+constant arraylength obj arraylength
+constant athrow obj athrow
+constant checkcast obj checkcast
+constant instanceof obj instanceof
+constant monitorent obj monitorent
+constant monitorexit obj monitorexit
+constant multianewarrai obj multianewarrai
+constant ifnul obj ifnul
+constant ifnonnul obj ifnonnul
+constant goto goto obj goto goto
+constant jsr jsr obj jsr jsr
+class gen except classgenexcept illeg opcod detect
+class gen except classgenexcept
+except
+class gen except classgenexcept string tostr
+wide obj local variabl instruct localvariableinstruct
+obj iinc
+obj ret
+class gen except classgenexcept illeg opcod wide opcod
+obj set opcod setopcod opcod
+obj init file initfromfil byte wide obj initfromfil byte wide initi
+byte code offset set instructionlist
+obj

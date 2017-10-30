@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi join point initializethisjoinpoint
+join point var thisjoinpointvar
+join point lazi isthisjoinpointlazi
+join point lazi isthisjoinpointlazi check lazi tjp checklazytjp
+join point lazi isthisjoinpointlazi
+appli lazi tjp optim appliedlazytjpoptim
+creat join point createthisjoinpoint createthisjoinpoint make state need initi throw instruct
+lazi tjp consum lazytjpconsum lazytjpconsum return special case lazytjpus
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist instruct list instructionlist
+append instruct constant instructionconst aconst null aconst null
+append join point var thisjoinpointvar creat store createstor fact
+rang insert rang outsidebefor
+appli lazi tjp optim appliedlazytjpoptim
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist creat join point createthisjoinpoint
+append join point var thisjoinpointvar creat store createstor fact
+rang insert rang outsidebefor

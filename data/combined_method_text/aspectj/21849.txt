@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+declar pattern node patternnod
+declar read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+kind read byte readbyt
+kind
+error warn error warn
+declar error warn declareerrororwarn read context
+domin
+declar preced declarepreced read context
+parent
+declar parent declarepar read context
+soft
+declar soft declaresoft read context
+annot
+declar annot declareannot read context
+runtim except runtimeexcept unimpl

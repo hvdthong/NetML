@@ -1,0 +1,23 @@
+org aspectj intern tool ant taskdef
+implement builder ant
+ant builder antbuild builder
+factori builder
+param config string configur substr
+verbos useeclipsecompil signific
+param project own project task null
+param tempdir file path temporari dir side effect null
+return builder project configur
+builder builder getbuild string config project project file temp dir tempdir
+eclips compil useeclipsecompil
+verbos
+config
+config index indexof useeclipsecompil
+eclips compil useeclipsecompil
+config index indexof verbos
+verbos
+messag handler messag debug
+messag handler project messag projectmessag project
+builder result product builder productbuild project temp dir tempdir eclips compil useeclipsecompil handler
+verbos
+result set verbos setverbos
+result

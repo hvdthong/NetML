@@ -1,0 +1,25 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+add afterreturn afterthrow annot
+add aspect annot addataspectjannot
+annot advic annot adviceannot
+string pointcut express pointcutexpress pointcut design pointcutdesign pointcut getpointcut string tostr
+string extra argument extraargumentnam
+extra argument extraargu
+extra argument extraargumentnam string extra argument extraargu
+string arg name argnam build arg represent buildargnamerepresent
+kind advic kind advicekind
+advic annot adviceannot aspect annot factori ataspectjannotationfactori creat annot createbeforeannot pointcut express pointcutexpress arg name argnam declar sourc start declarationsourcestart
+kind advic kind advicekind
+advic annot adviceannot aspect annot factori ataspectjannotationfactori creat annot createafterannot pointcut express pointcutexpress arg name argnam declar sourc start declarationsourcestart
+kind advic kind advicekind return afterreturn
+advic annot adviceannot aspect annot factori ataspectjannotationfactori creat return annot createafterreturningannot pointcut express pointcutexpress arg name argnam extra argument extraargumentnam declar sourc start declarationsourcestart
+kind advic kind advicekind throw afterthrow
+advic annot adviceannot aspect annot factori ataspectjannotationfactori creat throw annot createafterthrowingannot pointcut express pointcutexpress arg name argnam extra argument extraargumentnam declar sourc start declarationsourcestart
+kind advic kind advicekind
+advic annot adviceannot aspect annot factori ataspectjannotationfactori creat annot createaroundannot pointcut express pointcutexpress arg name argnam declar sourc start declarationsourcestart
+aspect annot factori ataspectjannotationfactori add annot addannot advic annot adviceannot scope

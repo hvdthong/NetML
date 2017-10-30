@@ -1,0 +1,19 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+read aspect disk return bytecod string
+param aspect read
+return bytecod represent aspect
+string read aspect readaspect string class loader classload loader
+string result
+input stream inputstream loader resourc stream getresourceasstream replac class
+read
+result result
+read
+close
+result
+except ioexcept
+print stack trace printstacktrac
+null pointer except nullpointerexcept
+read aspect miss aspect
+system err println classloaderweavingadaptor readaspect except

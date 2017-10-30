@@ -1,0 +1,83 @@
+middot middot middot
+paig1975 paig saunder
+set
+middot middot
+version
+middot middot xhat middot ahat middot
+link solv real linear oper reallinearoper real vector realvector real vector realvector
+inherit doc inheritdoc
+stopcrit default stop criterion
+link solv place solveinplac real linear oper reallinearoper real vector realvector real vector realvector
+iter count
+kei code vector point offend vector
+link adjoint oper except nonselfadjointoperatorexcept linear oper
+href http www stanford group sol softwar symmlq ps75 pdf
+inform
+kei code vector2 point offend vector
+count iter user requir check symmetri
+precondition posit definit relev kei
+comput vector approxim unnorm eigenvector
+delta ahat xhat xhat current estim
+stop criterion implement iter stop rhat
+entail matrix vector product initi phase
+present definit iter count differ adopt
+middot xhat residu rhat bhat ahat
+fast math fastmath min state cgnorm state lqnorm
+org apach common math linear
+definit adjoint work iter
+shift scalar shift suitabl chosen
+solut spars indefinit system linear equat siam
+paig saunder
+ident check requir
+precondit
+larg base fortran code michael saunder
+comput middot solv middot
+requir posit definit definit method
+residu delta user toler
+middot accuraci
+initguess initi guess solut
+solut transform system rhat current estim
+slightli shift
+linear oper shift middot posit
+link solv real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+precondition symmetr link except context exceptioncontext
+href http www stanford group sol softwar symmlq f77
+symmlq design solv system linear equat middot
+overrid
+present context iter understood evalu
+word number iter requir reach converg
+account
+link except context exceptioncontext
+link posit definit oper except nonpositivedefiniteoperatorexcept thrown
+journal numer analysi
+origin fotran code initi phase
+kei code vector1 point offend vector
+xhat bhat ahat middot shift middot
+href paig1975 paig saunder implement
+kei code oper point offend linear oper
+initi phase good approxim
+middot
+implicitli solv system equat middot shift middot
+symm symmlq
+conjug gradient prefer requir
+middot bhat middot solut
+implement symmlq iter linear solver propos
+approxim shift middot sens
+standard link dimens mismatch except dimensionmismatchexcept
+code paramet
+number iter symmlq slightli work iter
+context except context
+time adjoint linear oper defin
+system form middot solv effici symmlq
+symmlq design solv system shift middot middot
+method invers iter rayleigh quotient iter
+matrix vector product middot initi phase
+link real linear oper reallinearoper vector oper
+precondit reduc number iter requir solver
+provid posit definit precondition middot
+norm residu getnormofresidu
+refer
+link solv place solveinplac real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+middot xhat middot shift middot middot
+consid initi guess set
+product account iter count

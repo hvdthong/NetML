@@ -1,0 +1,17 @@
+org aspectj util
+lang util langutil
+select input string readabl directori
+param input string input null
+param basedir base directori input
+return string input end input
+string select directori selectdirectori string input file base dir basedir
+lang util langutil empti isempti input
+string
+arrai list arraylist result arrai list arraylist
+input length
+string input input
+input
+file input file inputfil file base dir basedir input
+input file inputfil read canread input file inputfil directori isdirectori
+result add input
+string result arrai toarrai string

@@ -1,0 +1,25 @@
+org aspectj apach bcel verifi structur
+visitor class test valid precondit jvm instruct
+instanc class throw structuralcodeconstraintexcept
+instanc instruct visitxxx precondit
+satisfi
+todo jvm' behaviour monitor monitorent
+monitorexit model justic
+version instconstraintvisitor java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi exc structuralcodeconstraintexcept
+org aspectj apach bcel verifi exc linkingconstraintexcept
+inst constraint visitor instconstraintvisitor empti visitor emptyvisitor org aspectj apach bcel gener visitor
+ensur specif precondit instruct
+visit visitnew
+visitcpinstruct cpinstruct call
+visitloadclass loadclass call
+type type gettyp cpg
+refer type referencetyp
+assert violat except assertionviolatedexcept gettyp return refer type
+object type objecttyp
+constraint violat constraintviol expect class type objecttyp work found
+object type objecttyp obj object type objecttyp
+instanti interfac
+obj refer class referencesclass
+constraint violat constraintviol expect class type objecttyp work found obj

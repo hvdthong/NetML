@@ -1,0 +1,12 @@
+copi
+version
+org apach common math3 linear
+collect method oper matric
+matrix util matrixutil
+diagon length
+return diagon matrix element
+real matrix realmatrix creat real diagon matrix createrealdiagonalmatrix diagon
+set entri setentri diagon
+real matrix realmatrix creat real matrix createrealmatrix diagon length diagon length
+diagon matrix
+param diagon diagon element matrix arrai element

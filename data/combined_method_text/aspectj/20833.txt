@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+list path entri getpathentri string
+list ret arrai list arraylist
+string token stringtoken tok string token stringtoken file path separ pathsepar
+tok token hasmoretoken ret add tok token nexttoken
+ret

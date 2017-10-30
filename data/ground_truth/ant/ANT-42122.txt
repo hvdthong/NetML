@@ -1,0 +1,3 @@
+src/main/org/apache/tools/ant/taskdefs/Zip_addResources-FileSet-Resource[]-ZipOutputStream_void
+src/main/org/apache/tools/zip/ZipEntry_getUnixMode_int
+src/main/org/apache/tools/zip/ZipEntry_setUnixMode-int_void

@@ -1,0 +1,44 @@
+junit tasks timeout perform teardown fork true
+junit tests timeout perform teardown fork set
+true lots trouble database handles closed
+servers shut teardown
+junit test
+package org
+import junit framework testcase
+public class timeouttest extends testcase
+public void setup
+system println setup
+
+public void teardown
+system println teardown
+
+public void testtimeout
+system println test started
+
+thread sleep
+catch interruptedexception
+system println interrupted
+
+system println test finished
+
+
+ant buildfile fragment
+target test depends compile
+junit fork timeout showoutput true
+classpath path classes
+test org timeouttest
+junit
+target
+run test timeout output console shows teardown
+method executed
+test
+junit setup
+junit test started
+junit test org timeouttest failed timeout
+timeout property buildfile set test timeout
+output console
+test
+junit setup
+junit test started
+junit test finished
+junit teardown

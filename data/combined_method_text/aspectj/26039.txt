@@ -1,0 +1,8 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+resolv type resolvedtyp type getalltyp
+list result arrai list arraylist list resolvedtyp result arraylist
+collect type collecttyp expend map expendablemap result
+collect type collecttyp map tmap result
+resolv type resolvedtyp result arrai toarrai resolv type resolvedtyp result size

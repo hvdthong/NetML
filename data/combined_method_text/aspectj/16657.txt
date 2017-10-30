@@ -1,0 +1,15 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+variabl declar statement variabledeclarationstat convert variabl declar statement converttovariabledeclarationstat org aspectj org eclips jdt intern compil ast local declar localdeclar local declar localdeclar
+variabl declar fragment variabledeclarationfrag variabl declar fragment variabledeclarationfrag convert variabl declar fragment converttovariabledeclarationfrag local declar localdeclar
+variabl declar statement variabledeclarationstat variabl declar statement variabledeclarationstat variabl declar statement variabledeclarationstat ast
+variabl declar statement variabledeclarationstat fragment add variabl declar fragment variabledeclarationfrag
+resolv bind resolvebind
+record node recordnod variabl declar fragment variabledeclarationfrag local declar localdeclar
+variabl declar statement variabledeclarationstat set sourc rang setsourcerang local declar localdeclar declar sourc start declarationsourcestart local declar localdeclar declar sourc end declarationsourceend local declar localdeclar declar sourc start declarationsourcestart
+type type convert type converttyp local declar localdeclar type
+set type variabl declar statement settypeforvariabledeclarationstat variabl declar statement variabledeclarationstat type variabl declar fragment variabledeclarationfrag extra dimens getextradimens
+local declar localdeclar modifi sourc start modifierssourcestart
+set modifi setmodifi variabl declar statement variabledeclarationstat local declar localdeclar
+variabl declar statement variabledeclarationstat

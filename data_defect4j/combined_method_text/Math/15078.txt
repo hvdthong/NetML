@@ -1,0 +1,26 @@
+link simpl point checker simplepointcheck converg
+param iter current iter
+point set
+org apach common math3 optim simpl point checker simplepointcheck
+param pair type point object pair
+conveni implement fit simpl
+reach object function chang anymor
+org apach common math3 optim simpl checker simplevaluecheck
+converg iter pair previou pair current
+consid converg reach input point
+provid link simpl checker simplevaluecheck link simpl vector checker simplevectorvaluecheck
+org apach common math3 optim
+version
+param previou point previou iter
+user provid implement
+org apach common math3 optim simpl vector checker simplevectorvaluecheck
+converg checker convergencecheck pair
+deprec remov
+code algorithm consid converg
+converg
+specifi check optim algorithm
+set chang anymor object function
+decid converg reach problem depend issu
+check optim algorithm converg
+optim algorithm stop search problem hand
+param current point current iter

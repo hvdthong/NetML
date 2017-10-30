@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+fadd add float
+pre stack value1 value2 result pre
+version fadd java aclement exp
+author href mailto marku dahm berlin dahm
+fadd arithmet instruct arithmeticinstruct
+add float
+fadd
+org aspectj apach bcel constant fadd

@@ -1,0 +1,10 @@
+vector1 vector1d vector euclidean1 euclidean1d
+scalar multipli scalarmultipli
+repres vector
+math arithmet except matharithmeticexcept local format localizedformat normal norm vector
+inherit doc inheritdoc
+instanc guarante immut
+version
+norm getnorm
+vector1 vector1d normal math arithmet except matharithmeticexcept
+org apach common math3 geometri euclidean on

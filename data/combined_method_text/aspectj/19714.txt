@@ -1,0 +1,12 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+lookupmembernosup includ itd
+param member
+return
+resolv member resolvedmemb lookup directli declar member super lookupdirectlydeclaredmembernosup member member
+resolv member resolvedmemb ret
+member kind getkind member field
+ret lookup member lookupmemb member declar field getdeclaredfield
+assert member getkind member method member getkind member constructor
+ret lookup member lookupmemb member declar method getdeclaredmethod
+ret

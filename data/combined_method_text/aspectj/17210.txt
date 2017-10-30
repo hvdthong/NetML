@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+note
+typepattern put
+author ajh02
+type pertypewithin pointcut design pointcutdesign
+accept0 ast visitor astvisitor visitor
+visitor ast visitor ajastvisitor
+visit children visitchildren ast visitor ajastvisitor visitor visit
+visit children visitchildren
+visit children normal left read order
+ajh02 rememb visit type thingi
+ast visitor ajastvisitor visitor end visit endvisit

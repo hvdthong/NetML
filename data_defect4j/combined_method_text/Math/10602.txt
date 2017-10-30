@@ -1,0 +1,17 @@
+function
+return estim integr code
+org apach common math3 analysi integr gauss
+integr univari function univariatefunct
+weight
+link gauss integr gaussintegr constructor
+link integr univari function univariatefunct integr weight
+flavor gauss integr scheme
+point
+point length
+code weight function depend actual
+class gaussian rule
+version
+integr weight function
+algorithm point weight pass
+param function integr
+gauss integr gaussintegr

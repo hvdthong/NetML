@@ -1,0 +1,10 @@
+replac 'j' number format real
+complex format
+org apach common math3 complex
+format complex number cartesian format 'i'
+complex format complexformat instanc getinst
+return complex format current local
+instanc getinst local default getdefault
+version
+complex format complexformat
+imaginari part configur

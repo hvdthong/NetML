@@ -1,0 +1,46 @@
+org aspectj asm intern
+creat jdt handl
+method string argument tjp demo java demo main qstring
+method gener argument pkg myclass java myclass mymethod qlist qstring
+aspect pkg
+advic integ arg pkg afterreturn qinteg
+method call pkg a10 method call void pkg
+jdt handl provid jdtlikehandleprovid element handl provid ielementhandleprovid
+string creat handl identifi createhandleidentifi program element iprogramel ip
+ajbuildmanag setupmodel top tree
+root lst file
+ip
+ip kind getkind equal program element iprogramel kind file java file java
+ip getnam equal root
+ip handl identifi gethandleidentifi
+creat handl ip
+return
+ip handl identifi gethandleidentifi
+ip kind getkind equal program element iprogramel kind file lst file lst
+string config file configfil asm manag asmmanag default getdefault hierarchi gethierarchi config file getconfigfil
+start config file configfil index lastindexof file separ
+end config file configfil index lastindexof lst
+end
+config file configfil config file configfil substr start end
+config file configfil config file configfil substr start
+ip set handl identifi sethandleidentifi config file configfil
+config file configfil
+program element iprogramel parent ip parent getpar
+parent
+parent kind getkind equal program element iprogramel kind import refer import refer
+miss import declaration' handl
+parent ip parent getpar parent getpar
+string buffer stringbuff handl string buffer stringbuff
+add handl parent
+handl append creat handl identifi createhandleidentifi parent
+add correct delimit ip
+handl append handl provid delimit handleproviderdelimit delimit getdelimit ip
+add paramet initi
+initializer' name
+ip kind getkind equal program element iprogramel kind initi
+handl append ip getnam paramet getparamet ip
+add count ip
+kind aspect
+handl append count getcount ip
+ip set handl identifi sethandleidentifi handl string tostr
+handl string tostr

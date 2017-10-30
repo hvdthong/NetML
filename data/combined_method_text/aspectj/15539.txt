@@ -1,0 +1,41 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+remov program element structur model
+process stage
+parent program element children
+remov node delet list children
+check parent children
+children code node packag node delet
+remov node removenod program element iprogramel prog elem progelem
+stringbuff flightrecord stringbuff
+flightrecord append removenod chuck progelem
+verifi assumpt verifyassumpt prog elem progelem
+boolean deleteok fals
+program element iprogramel parent prog elem progelem parent getpar
+flightrecord append parent parent
+list kid parent children getchildren
+flightrecord append kid size kid
+kid size
+flightrecord append compar kid
+kid equal prog elem progelem
+kid remov
+flightrecord append remov
+deleteok true
+verifyassumpt deleteok flightrecord tostr
+kid left node
+parent children getchildren size parent parent getpar
+parent kind getkind equal program element iprogramel kind code
+parent kind getkind equal program element iprogramel kind packag
+node trim long structur node check make code node
+trim
+system err println delet parent parent
+remov node removenod parent
+null pointer except nullpointerexcept npe
+occur comment ra class wsif reproduc
+system err println flightrecord tostr
+npe print stack trace printstacktrac

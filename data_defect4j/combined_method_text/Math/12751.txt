@@ -1,0 +1,6 @@
+repres region set polygon
+visit leaf node visitleafnod bsp tree bsptree euclidean2 euclidean2d node
+inherit doc inheritdoc
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+org apach common math3 geometri euclidean twod

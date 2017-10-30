@@ -1,0 +1,8 @@
+org aspectj runtim reflect
+factori
+initi signatur initializersignatur make initi sig makeinitializersig string modifi string declar type declaringtyp
+modifi int modifiersasint integ pars int parseint modifi
+class declar type class declaringtypeclass make class makeclass declar type declaringtyp lookup class loader lookupclassload
+initi signatur impl initializersignatureimpl ret initi signatur impl initializersignatureimpl modifi int modifiersasint declar type class declaringtypeclass
+ret set lookup class loader setlookupclassload lookup class loader lookupclassload
+ret

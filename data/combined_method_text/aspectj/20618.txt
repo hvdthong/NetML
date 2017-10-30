@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+var annot var getthisannotationvar unresolv type unresolvedtyp annot type forannotationtyp
+hasthi
+illeg state except illegalstateexcept
+initi annot var initializethisannotationvar initializethisannotationvar fixm asc bother return
+find return annot runtim
+var var annot var thisannotationvar annot type forannotationtyp
+type annot access var typeannotationaccessvar annot type forannotationtyp resolv world bcel var bcelvar var getthisvar

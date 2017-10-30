@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+close
+zip file zipfil
+open archiv openarch remov zip file zipfil
+zip file zipfil close
+except ioexcept ioe
+except bcexcept close archiv file getnam ioe
+zip file zipfil

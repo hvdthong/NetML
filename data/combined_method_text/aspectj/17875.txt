@@ -1,0 +1,21 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+xlintfil lint properti enabl disabl specif form
+xlint messag base lint properti file
+default
+code org aspectj weaver xlintdefault properti code
+param xlintfil file lint properti
+set xlintfil setxlintfil file xlint file xlintfil
+cmd add flag addflag xlintfil xlint file xlintfil absolut path getabsolutepath

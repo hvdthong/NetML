@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pointcut withinpointcut pointcut
+pointcut concretize1 resolv type resolvedtyp aspect inaspect resolv type resolvedtyp declar type declaringtyp int map intmap bind
+pointcut ret pointcut withinpointcut type pattern typepattern
+ret copi locat copylocationfrom
+ret

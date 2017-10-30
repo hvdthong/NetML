@@ -1,0 +1,19 @@
+count
+interfac defin field valu matrix basic algebra oper
+org apach common math linear
+larger row column count upper left part
+param type field element
+copi matrix copysubmatrix select row selectedrow select column selectedcolumn destin
+matrix element index base code entri getentri code
+org apach common math except rang except outofrangeexcept
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+except matrix index except matrixindexexcept indic valid
+param destin arrai submatrix data copi
+param select row selectedrow arrai row indic
+indic valid
+matrix index except matrixindexexcept illeg argument except illegalargumentexcept
+version revis date
+copi submatrix row column
+param select column selectedcolumn arrai column indic
+except illeg argument except illegalargumentexcept destin arrai small

@@ -1,0 +1,12 @@
+org aspectj ajd swing
+set user configur option
+author mik kersten
+option frame optionsfram frame jframe
+load option loadopt
+compon compon main tab pane main tabbedpan compon getcompon
+compon length
+compon option panel optionspanel
+option panel optionspanel compon load option loadopt
+except ioexcept ioe
+messag msg messag load option messag imessag error ioe
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

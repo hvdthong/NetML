@@ -1,0 +1,14 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv pointcut definit resolvedpointcutdefinit find pointcut findpointcut string
+system err println pointcut
+iter pointcut getpointcut hasnext
+resolv pointcut definit resolvedpointcutdefinit resolv pointcut definit resolvedpointcutdefinit
+system err println
+equal getnam
+pr120521
+outermost type getoutermosttyp equal
+resolv type resolvedtyp outer type outertyp outermost type getoutermosttyp resolv world
+resolv pointcut definit resolvedpointcutdefinit rpd outer type outertyp find pointcut findpointcut
+rpd
+return null throw except

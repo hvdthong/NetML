@@ -1,0 +1,6 @@
+src/main/org/apache/tools/ant/Project_executeTarget-String_void
+src/main/org/apache/tools/ant/Project_topoSort-String-Hashtable_Vector
+src/main/org/apache/tools/ant/taskdefs/Ant_execute_void
+src/main/org/apache/tools/ant/taskdefs/Ant_setTarget-String_void
+src/main/org/apache/tools/ant/taskdefs/CallTarget_execute_void
+src/main/org/apache/tools/ant/taskdefs/CallTarget_setTarget-String_void

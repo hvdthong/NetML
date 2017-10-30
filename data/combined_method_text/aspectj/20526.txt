@@ -1,0 +1,35 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener aspect method generatepertwaspectofmethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak type aspect method pertypewithinaspectofmethod aspect type aspecttyp class gen classgen world getworld java5 mode isinjava5mod
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+instruct list instructionlist method bodi getbodi
+instruct handl instructionhandl start trystart append instruct constant instructionconst aload
+append util creat invok createinvok
+factori
+constant invokestat
+ajc member maker ajcmembermak type instanc pertypewithingetinst aspect type aspecttyp
+append instruct constant instructionconst astor
+append instruct constant instructionconst aload
+branch instruct branchinstruct null ifnonnul instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifnonnul
+append null ifnonnul
+append factori creat createnew ajc member maker ajcmembermak aspect bound except aspect bound except getnam
+append instruct constant instructionconst dup
+append push class gen classgen constant pool gen getconstantpoolgen aspect type aspecttyp getnam
+append instruct constant instructionconst aconst null aconst null
+append factori creat invok createinvok ajc member maker ajcmembermak aspect bound except aspect bound except getnam init type void type type string object type objecttyp java lang throwabl constant invokespeci
+append instruct constant instructionconst athrow
+instruct handl instructionhandl ifels append instruct constant instructionconst aload
+null ifnonnul set target settarget ifels
+append instruct factori instructionfactori creat return createreturn type object
+instruct handl instructionhandl handler append instruct constant instructionconst astor
+append factori creat createnew ajc member maker ajcmembermak aspect bound except aspect bound except getnam
+append instruct constant instructionconst dup
+append factori creat invok createinvok ajc member maker ajcmembermak aspect bound except aspect bound except getnam init type void type arg arg constant invokespeci
+append instruct constant instructionconst athrow
+method add except handler addexceptionhandl
+start trystart handler prev getprev handler object type objecttyp java lang except

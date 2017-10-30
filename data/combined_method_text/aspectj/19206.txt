@@ -1,0 +1,9 @@
+org aspectj weaver
+mangler namemangl
+string make visibl makevisibilitynam modifi unresolv type unresolvedtyp aspect type aspecttyp
+modifi privat ispriv modifi
+aspect type aspecttyp outermost type getoutermosttyp identifi getnameasidentifi
+modifi protect isprotect modifi
+runtim except runtimeexcept protect inter type allow
+modifi public ispubl modifi
+aspect type aspecttyp packag identifi getpackagenameasidentifi

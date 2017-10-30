@@ -1,0 +1,13 @@
+org aspectj apach bcel gener
+getstat fetch static field class
+pre stack pre
+pre stack word1 word2 pre
+version getstat java aclement exp
+author href mailto marku dahm berlin dahm
+getstat field instruct fieldinstruct push instruct pushinstruct except thrower exceptionthrow
+class except getexcept
+class class except constant exceptionconst exc field method resolut exc field method resolut length
+system arraycopi except constant exceptionconst exc field method resolut exc field method resolut
+except constant exceptionconst exc field method resolut exc field method resolut length
+except constant exceptionconst exc field method resolut exc field method resolut length
+except constant exceptionconst incompat class chang error incompat class chang error

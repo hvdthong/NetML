@@ -1,0 +1,13 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb inlin access method field set inlineaccessmethodforfieldset unresolv type unresolvedtyp aspect type aspecttyp member field
+string sig
+field static isstat
+sig field return type getreturntyp signatur getsignatur
+sig field declar type getdeclaringtyp signatur getsignatur field return type getreturntyp signatur getsignatur
+resolv member impl resolvedmemberimpl member method
+aspect type aspecttyp
+public static public static public static modifi public field isstat modifi static
+mangler namemangl inlin access method field set inlineaccessmethodforfieldset field getnam
+field declar type getdeclaringtyp aspect type aspecttyp
+sig

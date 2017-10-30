@@ -1,0 +1,10 @@
+param func type function solv
+version
+solver
+inherit doc inheritdoc
+evalu maxim count getmaximalcount
+max evalu getmaxevalu
+provid implement function gener
+version revis date wed nov
+org apach common math analysi solver
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct

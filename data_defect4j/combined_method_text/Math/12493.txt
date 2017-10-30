@@ -1,0 +1,14 @@
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+vector
+subtract factor multipli geti
+param type field element
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+instanc guarante immut
+param vector subtract
+version
+field vector3 fieldvector3d subtract factor multipli getx
+subtract factor multipli getz
+subtract scale vector instanc
+param factor scale factor appli subtract
+field vector3 fieldvector3d subtract factor vector3 vector3d

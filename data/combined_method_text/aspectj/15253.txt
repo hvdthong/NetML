@@ -1,0 +1,31 @@
+org aspectj apach bcel verifi structur
+visitor class test valid precondit jvm instruct
+instanc class throw structuralcodeconstraintexcept
+instanc instruct visitxxx precondit
+satisfi
+todo jvm' behaviour monitor monitorent
+monitorexit model justic
+version instconstraintvisitor java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi exc structuralcodeconstraintexcept
+org aspectj apach bcel verifi exc linkingconstraintexcept
+inst constraint visitor instconstraintvisitor empti visitor emptyvisitor org aspectj apach bcel gener visitor
+ensur gener precondit instruct access stack
+method bcel superinterfac stack
+access instruct funni unexpect except
+semantic superinterfac superclass provid
+swap stackconsum dup stackproduc
+method call stackproduc stackconsum
+stackinstruct instanc visitxxx method
+superclass superinterfac overlap instruct
+method call time todo fix
+visitstackconsum stackconsum
+visitstackproduc stackproduc
+visitstackinstruct stackinstruct
+visit stack accessor visitstackaccessor instruct
+consum consum stack consumestack cpg int consum consumestack cpg stack valu consum produc
+consum stack slot slotsus
+constraint violat constraintviol instruct consum consum stack slot stack slot slotsus slot left stack nstack stack
+produc produc stack producestack cpg instruct consum stack consumestack cpg int produc producestack cpg instruct consumestack cpg stack valu consum produc
+produc stack slot slotsus stack max stack maxstack
+constraint violat constraintviol instruct produc produc stack slot stack max stack maxstack stack slot slotsus free stack slot left nstack stack

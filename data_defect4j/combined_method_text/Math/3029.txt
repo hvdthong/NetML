@@ -1,0 +1,10 @@
+hyperplan simpl point orient
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+inherit doc inheritdoc
+delta vector1 vector1d point getx locat getx
+direct delta delta
+instanc guarante immut
+version
+repres orient hyperplan
+org apach common math geometri euclidean on
+offset getoffset vector euclidean1 euclidean1d point

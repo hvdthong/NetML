@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+iaload load int arrai
+pre stack arrayref index pre
+version iaload java aclement exp
+author href mailto marku dahm berlin dahm
+iaload arrai instruct arrayinstruct stack produc stackproduc
+load int arrai
+iaload
+org aspectj apach bcel constant iaload

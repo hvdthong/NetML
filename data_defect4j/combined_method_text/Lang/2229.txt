@@ -1,0 +1,13 @@
+author stephen colebourn
+version
+str matcher strmatcher
+portion match
+string matcher stringmatch string str
+org apach common lang text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+complet constant factori method
+constructor creat matcher string
+char str char arrai tochararrai
+param str string match
+complet factori method

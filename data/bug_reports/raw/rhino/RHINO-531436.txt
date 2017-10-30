@@ -1,0 +1,15 @@
+parseFloat fails on number followed by "e" that is not exponent
+User-Agent:       Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15
+Build Identifier: 
+
+parseFloat incorrectly returns NaN for strings like:
+- 789e
+- 789efgh
+- 789e+
+- 789e-
+- 789e+hello
+
+The "e" is recognized as the beginning of an exponent but if what follows is not a valid exponent, it should be ignored. See ECMA spec 15.1.2.3.
+
+
+Reproducible: Always

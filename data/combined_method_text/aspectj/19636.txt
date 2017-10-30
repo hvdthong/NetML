@@ -1,0 +1,10 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+check gener type 'this' gener type 'other'
+pass raw parameter version compar underli
+gener type
+gener type equal generictypeequ resolv type resolvedtyp
+resolv type resolvedtyp
+parameter type isparameterizedtyp raw type israwtyp gener type getgenerictyp
+parameter type isparameterizedtyp raw type israwtyp gener type getgenerictyp equal
+equal

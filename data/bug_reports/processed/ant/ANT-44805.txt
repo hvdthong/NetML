@@ -1,0 +1,7 @@
+signjar issigned checks alias sigfile
+specifies sigfile differs alias method issigned file class signjar yields wrong results ignores sigfile alias signature filename
+bug exists nightly build 20080410224908
+bug fix method signjar issigned file line
+return issigned issigned file alias
+replaced
+return issigned issigned file sigfile null sigfile alias

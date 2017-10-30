@@ -1,0 +1,17 @@
+org apach tool ant taskdef repositori
+repres librari
+ant1
+librari enabl librari element enabledlibraryel
+calcul destin file librari set link libraryfil
+file thereof
+param basedir dir
+throw buildexcept invalid
+bind file base dir basedir
+valid
+file util fileutil file util fileutil file util fileutil file util newfileutil
+destin destinationnam
+destin destinationnam maven path getmavenpath
+librari file libraryfil file util fileutil resolv file resolvefil base dir basedir destin destinationnam
+librari file libraryfil directori isdirectori
+build except buildexcept error file dir error file dir
+librari file libraryfil

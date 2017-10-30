@@ -1,0 +1,37 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+main part implement declar parent extend modifi super ctor call target type
+attempt modifi super call attempttomodifysupercal bcel class weaver bcelclassweav weaver lazi class gen lazyclassgen parent target newparenttarget resolv type resolvedtyp parent newpar
+string current parent currentpar parent target newparenttarget super classnam getsuperclassnam
+parent newpar gener type getgenerictyp parent newpar parent newpar gener type getgenerictyp newpar getgenerictyp null newpar newpar getgenerictyp target super call gener type raw parameter
+list mg parent target newparenttarget method gen getmethodgen
+ctor modifi
+iter iter mg iter iter hasnext
+lazi method gen lazymethodgen method amethod lazi method gen lazymethodgen iter
+method amethod getnam equal init
+instruct list instructionlist in list inslist method amethod bodi getbodi
+instruct handl instructionhandl handl in list inslist start getstart
+handl
+handl instruct getinstruct invokespeci
+constant pool gen constantpoolgen cpg parent target newparenttarget constant pool gen getconstantpoolgen
+invokespeci invok special invokespeci invokespeci handl instruct getinstruct
+invok special invokespeci class getclassnam cpg equal current parent currentpar invok special invokespeci method getmethodnam cpg equal init
+system err println transform super call init getsignatur cpg
+check ctor parent signatur
+resolv member resolvedmemb ctor newctor constructor signatur getconstructorwithsignatur parent newpar invok special invokespeci signatur getsignatur cpg
+ctor newctor
+check itdc ctor provid
+satisfi itdc satisfiedbyitdc
+iter parent target newparenttarget type gettyp inter type munger includ super getintertypemungersincludingsup iter hasnext satisfi itdc satisfiedbyitdc
+concret type munger concretetypemung concret type munger concretetypemung
+munger getmung constructor type munger newconstructortypemung
+signatur getsignatur signatur getsignatur equal invok special invokespeci signatur getsignatur cpg
+satisfi itdc satisfiedbyitdc
+satisfi itdc satisfiedbyitdc
+string csig creat readabl ctor sig createreadablectorsig parent newpar cpg invok special invokespeci
+weaver world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+unabl modifi hierarchi parent target newparenttarget class getclassnam constructor
+csig miss sourc locat getsourceloc
+idx cpg add methodref addmethodref parent newpar getnam invok special invokespeci method getmethodnam cpg invok special invokespeci signatur getsignatur cpg
+invok special invokespeci set index setindex idx
+handl handl getnext

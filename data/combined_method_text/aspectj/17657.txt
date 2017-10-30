@@ -1,0 +1,23 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+return string render throwabl compil error user consol
+includ inform report bug
+throw nullpointerexcept thrown null
+string render except user renderexceptionforus throwabl thrown
+string thrown messag getmessag
+thrown prefix thrown prefix
+compil weav context compilationandweavingcontext current context getcurrentcontext
+lang util langutil render except renderexcept thrown

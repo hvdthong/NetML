@@ -1,0 +1,13 @@
+org apach common math3 fraction
+param den
+numer
+represent ration number overflow
+big fraction bigfract
+link big fraction bigfract reduc lowest term
+big integ biginteg valueof num big integ biginteg valueof den
+param num
+version
+big fraction bigfract num den
+creat link big fraction bigfract numer denomin simpl
+immut
+denomin

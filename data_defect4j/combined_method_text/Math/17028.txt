@@ -1,0 +1,10 @@
+link real field element realfieldel
+decimal64 copi sign copysign decimal64 sign
+version
+org apach common math3 util
+decimal64 number
+decimal64 fast math fastmath copi sign copysign sign
+wrap code object similar
+standard link doubl implement
+link extend field element extendedfieldel
+inherit doc inheritdoc

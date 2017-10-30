@@ -1,0 +1,30 @@
+set implement sum log
+link set varianc impl setvarianceimpl storeless univari statist storelessunivariatestatist actual paramet
+param sum log impl sumlogimpl storeless univari statist storelessunivariatestatist instanc
+state comput statist configur setter
+implement varianc overridden call
+method implement link storeless univari statist storelessunivariatestatist
+stream
+version
+illeg state except illegalstateexcept thrown
+set sum log impl setsumlogimpl storeless univari statist storelessunivariatestatist sum log impl sumlogimpl
+note thread safe
+geo geomean set sum log impl setsumlogimpl sum log impl sumlogimpl
+comput log sum
+sum log impl sumlogimpl sum log impl sumlogimpl
+memori comput statist larg data
+provid implement
+method activ data ad
+summari statist summarystatist statist summari statisticalsummari serializ
+link storeless univari statist storelessunivariatestatist instanc maintain summari
+org apach common math3 stat descript
+check empti checkempti
+call configur common math
+link add addvalu add addvalu method data valu store
+math illeg state except mathillegalstateexcept data ad
+math illeg state except mathillegalstateexcept
+configur complet code add addvalu code
+comput summari statist stream data valu ad
+link add addvalu add addvalu add data
+link synchron summari statist synchronizedsummarystatist concurr access multipl
+thread requir

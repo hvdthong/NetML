@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+object visit pointcut orpointcut node object data
+usesthi node left getleft accept data
+usesthi node getright accept data
+node

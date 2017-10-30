@@ -1,0 +1,5 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ReferenceType_isAnnotationWithRuntimeRetention_boolean
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/EclipseSourceType_ensureDelegateConsistent_void
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/SignaturePattern_resolveBindings-IScope-Bindings_SignaturePattern
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ReferenceTypeDelegate_getDeclaredGenericSignature_String
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ReferenceTypeDelegate_getRetentionPolicy_String

@@ -1,0 +1,14 @@
+param dot ydot placehold arrai put time deriv state vector
+org apach common math3 od
+current time deriv state vector underli fode
+wrapper enabl link order differenti equat firstorderdifferentialequ basic simpl
+max count exceed except maxcountexceededexcept dimens mismatch except dimensionmismatchexcept
+param arrai current state vector
+comput deriv computederiv dot ydot
+version
+od instanc process link jacobian matric jacobianmatric
+parameter wrapper parameterizedwrapp parameter od parameterizedod
+except dimens mismatch except dimensionmismatchexcept arrai dimens match equat set
+except max count exceed except maxcountexceededexcept number function evalu exceed
+fode comput deriv computederiv dot ydot
+param current independ time variabl

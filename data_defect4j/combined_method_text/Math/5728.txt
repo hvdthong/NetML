@@ -1,0 +1,21 @@
+overrid
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+inherit doc inheritdoc
+kei iter kei
+col outcol
+org apach common math linear
+iter advanc
+dens real matrix denserealmatrix dens real matrix denserealmatrix row dimens rowdimens col outcol
+kei column dimens columndimens
+real matrix realmatrix multipli real matrix realmatrix
+version revis date
+safeti check
+multipli spars real matrix sparserealmatrix
+spars matrix implement base open address map
+add entri addtoentri entri getentri
+check multipl compat checkmultiplicationcompat
+class cast except classcastexcept cce
+open int doubl hash map openinttodoublehashmap iter iter entri iter iter hasnext
+iter
+illeg argument except illegalargumentexcept
+col outcol column dimens getcolumndimens

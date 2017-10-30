@@ -1,0 +1,12 @@
+org apach lucen search
+queri wrap queri filter simpli return constant score equal
+queri boost document match filter queri
+queri simpli strip score return constant
+note wrap filter instanc
+link cachingwrapperfilt
+enforc delet filter link
+cachingwrapperfilt deletesmod recach link
+cachingwrapperfilt deletesmod dynam
+constant score queri constantscorequeri queri
+overrid
+scorer scorer reader context readercontext context score doc order scoredocsinord top scorer topscor except ioexcept

@@ -1,0 +1,9 @@
+geometr getgeometricmean
+report basic multivari statist
+geometr entri arrai
+correspond multivari sampl
+statist multivari summari statisticalmultivariatesummari
+org apach common math3 stat descript
+version
+arrai compon geometr mean
+return arrai entri

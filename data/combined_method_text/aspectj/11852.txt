@@ -1,0 +1,5 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+return true gener model side effect
+gener model dogeneratemodel
+build config buildconfig gener model mode isgeneratemodelmod

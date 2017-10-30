@@ -1,0 +1,7 @@
+org aspectj ajd core
+interfac handl compil output
+output folder sourc file
+output locat manag ioutputlocationmanag
+return default output locat project bin
+class inpath
+file default output locat getdefaultoutputloc

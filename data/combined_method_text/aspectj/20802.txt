@@ -1,0 +1,23 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+collect weav file file except ioexcept
+output stream outputstream file util fileutil make output stream makeoutputstream file
+zip output stream zipoutputstream zip output stream zipoutputstream
+prepar weav prepareforweav
+collect weav class file provid iclassfileprovid
+appli aspect munger isapplyataspectjmungersonli
+iter class file iter getclassfileiter
+ad class addedclass iter
+weav requestor iweaverequestor requestor getrequestor
+weav requestor iweaverequestor
+accept result acceptresult unwoven class file unwovenclassfil result
+write zip entri writezipentri result filenam result byte
+except ioexcept
+process reweav state processingreweavablest
+ad type munger addingtypemung
+weav aspect weavingaspect
+weav class weavingclass
+weav complet weavecomplet
+bug
+dumpresourcestooutjar
+zip output stream zipoutputstream close zipoutputstream close flush close acut file

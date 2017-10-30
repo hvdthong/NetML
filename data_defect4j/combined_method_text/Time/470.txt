@@ -1,0 +1,20 @@
+author stephen colebourn
+durat field type defin type field hour
+obj
+requir creat field quarter
+chronolog
+equal object obj
+compar code code
+return actual calcul engin link field getfield chronolog
+obj standard durat field type standarddurationfieldtyp
+identifi durat field year minut chronolog neutral
+directli enabl calcul provid
+overrid
+org joda time
+creat subclass code durat field type durationfieldtyp code defin field type
+link field getfield chronolog method return actual calcul engin
+author brian neill o'neil
+durat field type durationfieldtyp serializ
+instanc code durat field type durationfieldtyp code singleton
+ordin iordin standard durat field type standarddurationfieldtyp obj ordin iordin
+inheritdoc

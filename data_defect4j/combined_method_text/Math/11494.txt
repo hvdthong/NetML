@@ -1,0 +1,11 @@
+weight
+creat mixtur model list distribut
+mixtur multivari normal distribut mixturemultivariatenormaldistribut
+multivari normal mixtur distribut
+mixtur multivari real distribut mixturemultivariaterealdistribut
+compon
+param compon list weight distribut pair sampl
+version
+syntact sugar
+org apach common math3 distribut
+mixtur multivari normal distribut mixturemultivariatenormaldistribut list pair doubl multivari normal distribut multivariatenormaldistribut compon

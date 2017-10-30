@@ -1,0 +1,10 @@
+org aspectj apach bcel gener
+lcmp compar long
+pre stack value1 word1 value1 word2 value2 word1 value2 word2 pre
+result
+version lcmp java aclement exp
+author href mailto marku dahm berlin dahm
+lcmp instruct
+return type long
+type type gettyp constant pool gen constantpoolgen
+type long

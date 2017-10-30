@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+bind type pattern bindingtypepattern exact type pattern exacttypepattern bind pattern bindingpattern
+write data output stream dataoutputstream except ioexcept
+write byte writebyt type pattern typepattern bind
+type write
+write short writeshort formal index formalindex
+write boolean writeboolean var arg isvararg
+write locat writeloc

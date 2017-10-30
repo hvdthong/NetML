@@ -1,0 +1,10 @@
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+inherit doc inheritdoc
+instanc guarante immut
+version
+norm getnorm
+scalar multipli scalarmultipli
+math arithmet except matharithmeticexcept local format localizedformat normal norm vector
+vector2 vector2d normal math arithmet except matharithmeticexcept
+org apach common math3 geometri euclidean twod

@@ -1,0 +1,10 @@
+return regress model comput includ intercept
+model intercept term
+intercept hasintercept
+coeffici intercept element
+version
+regress result regressionresult serializ
+org apach common math3 stat regress
+result multipl linear regress model fit
+constant containsconst
+link paramet estim getparameterestim paramet estim

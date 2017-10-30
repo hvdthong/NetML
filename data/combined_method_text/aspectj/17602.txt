@@ -1,0 +1,12 @@
+org aspectj tool ajbrows swing
+standalon oper
+author mik kersten
+top frame topfram frame jframe
+todo rid method make jbinit work properli
+fix button border fixbuttonbord
+run button set border setbord
+option button set border setbord
+open config button openconfig button set border setbord
+close config button closeconfig button set border setbord
+save button set border setbord
+edit config button editconfig button set border setbord

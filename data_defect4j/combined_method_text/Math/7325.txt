@@ -1,0 +1,301 @@
+fortran arrai fortranarrai work1 fortran arrai fortranarrai npt origin npt
+beta denom knew
+ptsaux set entri setentri index offset math max
+vlag set entri setentri knew temp
+bmat set entri setentri kold bmat entri getentri knew
+half
+powell' bobyqa algorithm implement translat
+sumpq entri getentri
+ptsid set entri setentri jpn sfrac
+work2 set entri setentri upper bound upperbound f2jai
+sfrac
+ptsid set entri setentri
+zmat set entri setentri zmat entri getentri index offset
+sum zmat entri getentri work1 entri getentri
+temp ptsaux entri getentri index offset ptsaux entri getentri index offset
+bmat set entri setentri index offset ptsaux entri getentri index offset
+param xpt
+set maxfun prevent progress
+link cmae optim cmaesoptim succe bobyqa
+set vquad current model point
+npt number interpol point numberofinterpolationpoint
+ndim npt element arrai work space
+attent close xopt previou knew
+ptsid work space arrai npt compon denot
+order satisfi bound variabl
+part ptsid ptsid multipli
+den denom
+param
+ndim bmat row dimens getrowdimens
+ptsid set entri setentri index offset sfrac
+denomin updat calcul updat
+ad squar balanc consider
+denom den
+diff vquad
+bmat set entri setentri temp ptsaux entri getentri
+set entri setentri entri getentri temp
+ptsid knew
+param xopt
+ihq
+shift xbase updat quadrat model remain
+set identifi artifici interpol point
+sfrac half
+bsum
+ptsaux entri getentri index offset temp
+xpt bmat zmat matric complet
+vlag set entri setentri sum
+sum diff beta
+ptsid set entri setentri sfrac
+return occur maxfun prohibit
+entri getentri
+fortran arrai fortranarrai gopt
+set element ptsaux
+step length delta length chosen
+zmat set entri setentri jpn zmat entri getentri
+bmat set entri setentri bmat entri getentri bmat entri getentri jpn
+comput object computeobjectivevalu work2 data getdata
+nptm
+fortran arrai fortranarrai
+distsq
+system gener local
+point choic kold govern avoid small
+nptm npt
+kpt kpt npt kpt
+param gopt
+nonzero element bmat zmat
+ptsaux entri getentri ptsaux entri getentri
+href http plato asu ftp softwar bobyqa zip
+xbase set entri setentri xbase entri getentri xopt entri getentri
+set entri setentri entri getentri xopt entri getentri
+shift interpol point xopt origin set
+param bmat
+set entri setentri ihq entri getentri ihq temp
+hdiag
+ptsid nonzero
+correct entri updat
+calcul vlag beta requir updat matrix
+denom vlmxsq
+comput max
+function bodi
+fortran arrai fortranarrai ptsid fortran arrai fortranarrai npt
+bsum sum work2 entri getentri
+choic point current
+pick index knew origin interpol point
+zmat set entri setentri zmat entri getentri
+vquad gopt entri getentri half entri getentri ihq
+kold
+beta
+work2 set entri setentri work2 entri getentri entri getentri xpt entri getentri
+jpn npt
+bmat set entri setentri index offset bmat entri getentri bmat entri getentri jpn
+provision lagrang function interpol point
+fortran arrai fortranarrai work2 fortran arrai fortranarrai origin npt npt
+vlag set entri setentri kold vlag entri getentri knew
+temp bmat entri getentri kold
+temp vlag entri getentri kold
+param vlag
+work3 set entri setentri knew work3 entri getentri knew winc
+sum work2 entri getentri xpt entri getentri
+work2 set entri setentri xpt entri getentri knew
+math max
+den beta hdiag
+step ptsaux ptsaux case
+state
+version
+interpol point includ model
+fortran arrai fortranarrai fval
+ptsaux set entri setentri temp
+comput min
+xopt gopt made call program
+ptsaux set entri setentri math min
+set entri setentri entri getentri
+bmat set entri setentri knew temp
+vlag work space vector valu
+xbase entri getentri xpt entri getentri kpt
+den
+ptsid entri getentri
+vlag entri getentri
+element zmat sumpq requir
+vlag set entri setentri vlag entri getentri sum zmat entri getentri
+vquad half entri getentri temp temp
+zmat set entri setentri index offset temp
+fortran arrai fortranarrai xopt
+valu interpol point
+calcul interpol point set diff factor
+gopt set entri setentri gopt entri getentri diff bmat entri getentri kpt
+temp diff sum
+set entri setentri kpt
+current currentbest dimens getdimens
+ptsaux entri getentri temp
+work2 set entri setentri lower bound lowerbound f2jai
+dsqmin
+ptsaux entri getentri index offset
+updat bmat zmat matric statu knew
+paper introduct
+bobyqa suit high dimension problem
+ptsaux set entri setentri half ptsaux entri getentri
+cycl interpol point begin
+function found
+sum bmat entri getentri work1 entri getentri
+work3 set entri setentri math ab work3 entri getentri
+href http www optim onlin org html html
+updat defin deriv model
+element gopt revis valu
+zmat entri getentri
+gopt bmat zmat ndim mean
+zmat set entri setentri knew temp
+interpol point ptsaux ptsaux
+need restor linear independ
+nonneg valu ndim requir search
+argument npt iprint maxfun xbase xpt fval xopt
+zmat set entri setentri index offset math sqrt math ab
+sumpq
+ndim
+element bmat zmat set condit
+part product requir vlag length ndim
+set entri setentri ihp entri getentri ihp temp
+deriv base optim deriv approxim
+temp zmat entri getentri kold
+ihp
+ptsaux set entri setentri index offset half ptsaux entri getentri index offset
+posit step xbase xopt
+point nonzero step coordin
+set entri setentri entri getentri temp work2 entri getentri
+fortran arrai fortranarrai xbase
+vquad gopt entri getentri half entri getentri ihp
+delet make knew origin interpol
+form vector chosen origin interpol point
+updat squar distanc xopt
+beta sum sum
+bmat set entri setentri npt half
+nrem npt
+zmat set entri setentri
+work3 set entri setentri knew
+delta current trust region radiu
+ptsaux set entri setentri math max
+winc math max winc distsq
+xpt entri getentri
+fbase fval entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+set remain identifi nonzero element zmat
+jpn
+set entri setentri entri getentri work2 entri getentri xopt entri getentri work2 entri getentri xopt entri getentri
+multipli kpt lagrang function model
+fortran arrai fortranarrai work3 fortran arrai fortranarrai npt origin npt npt npt
+vlag set entri setentri trust region center interpol point index trustregioncenterinterpolationpointindex vlag entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+updat quadrat model return subroutin occur
+fortran matrix fortranmatrix bmat
+dsqmin distsq vlmxsq
+fortran matrix fortranmatrix xpt
+sum work2 entri getentri ptsaux entri getentri index offset
+vquad entri getentri iiw
+knew trust region center interpol point index trustregioncenterinterpolationpointindex
+lower bound lowerbound f2jai
+xpt entri getentri knew
+provision posit origin interpol point
+work3 entri getentri
+argument bobyqb entri rescu
+nrem
+ptsaux set entri setentri index offset temp
+temp ptsaux entri getentri index offset
+bobyqa optim bobyqaoptim
+temp xpt entri getentri
+work2 set entri setentri half sumpq xopt entri getentri
+delta
+upper bound upperbound f2jai
+ptsaux set entri setentri index offset ptsaux entri getentri index offset
+adapt fortran version
+reorder provision point exchang ptsid kold
+finit differ
+minim isminim
+temp
+param delta
+bmat set entri setentri jpn temp ptsaux entri getentri index offset
+zmat set entri setentri kold zmat entri getentri knew
+vlmxsq
+ptsaux entri getentri
+beta half distsq distsq beta bsum
+temp bsum
+ptsid set entri setentri knew
+bmat set entri setentri
+xpt entri getentri kpt entri getentri
+maintain number call calfun
+bmat set entri setentri temp ptsaux entri getentri index offset
+param fval
+iiw math max ihp ihq math ab
+interpol point chang provision origin
+sum bmat entri getentri npt work2 entri getentri
+param xbase
+label reach posit interpol
+zmat set entri setentri jpn zmat entri getentri index offset
+xbase shift trust region centr
+bmat set entri setentri ptsaux entri getentri
+fortran arrai fortranarrai vlag
+math max ihp ihq math ab
+hdiag fbase denom vquad sumpq
+math ab half math ab
+replac provision interpol point give
+link powel optim powelloptim significantli stochast algorithm
+interpol condit point candid chang
+kopt maintain fval kopt calcul function
+ptsid set entri setentri kpt
+xopt set entri setentri
+fval entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+set constant
+ptsaux set entri setentri ptsaux entri getentri
+branch label occur origin point reinstat
+nrem knew
+work2 set entri setentri xpt entri getentri kpt
+bmat set entri setentri ptsaux entri getentri index offset
+expens bobyqa consid replac
+temp ptsaux entri getentri ptsaux entri getentri
+updat provid interpol function
+sum zmat entri getentri zmat entri getentri kpt
+xpt knew reinstat set interpol point
+trust region center interpol point index trustregioncenterinterpolationpointindex kpt
+vlmxsq math max vlmxsq
+direct xbase xopt
+work3 set entri setentri distsq
+denom
+xpt set entri setentri xpt entri getentri xopt entri getentri
+work1 set entri setentri half sum sum
+local variabl
+ptsaux work space arrai ptsaux
+updat bmat zmat vlag
+ptsid set entri setentri kold ptsid entri getentri knew
+kold set index provision interpol point
+jpn kpt
+comput 2nd power
+param zmat
+knew
+work2 set entri setentri math min
+fortran matrix fortranmatrix ptsaux fortran matrix fortranmatrix
+fortran matrix fortranmatrix zmat
+xpt set entri setentri kpt
+deriv case outperform
+sum work2 entri getentri ptsaux entri getentri
+bmat set entri setentri jpn temp ptsaux entri getentri
+ptsaux posit provision interpol
+system println rescu xxx
+winc
+npt
+sum bmat entri getentri work2 entri getentri
+ptsaux set entri setentri index offset math min
+ptsaux entri getentri index offset ptsaux entri getentri index offset
+coordin direct xopt set
+fval set entri setentri kpt
+rescu
+index offset
+zmat set entri setentri math sqrt math ab
+point chosen includ
+vquad fbase
+org apach common math optim direct
+shift xbase xopt set element bmat
+trust region center interpol point index trustregioncenterinterpolationpointindex
+zmat set entri setentri temp
+ptsid entri getentri kpt
+temp ptsaux entri getentri
+temp entri getentri kpt work2 entri getentri
+put point xpt kpt set kpt
+quadrat model
+interpol point set end increment winc
+sum

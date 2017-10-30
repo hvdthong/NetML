@@ -1,0 +1,12 @@
+deprec remov
+set iter evalu count
+converg checker convergencecheck point pair pointvaluepair converg checker getconvergencecheck
+inherit doc inheritdoc
+base handl boiler plate method threshold
+org apach common math3 optim direct
+checker
+version
+base implement optim multivari scalar function
+param func type object function optim
+evalu count initi guess simpl bound set
+base abstract multivari optim baseabstractmultivariateoptim func multivari function multivariatefunct

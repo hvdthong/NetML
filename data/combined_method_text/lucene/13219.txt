@@ -1,0 +1,7 @@
+org apach lucen index
+term buffer termbuff cloneabl
+term term toterm
+field field null unset
+term
+term term field string text result text length
+term

@@ -1,0 +1,9 @@
+distanc point
+distanc distancefrom
+org apach common math stat cluster
+param point comput distanc
+cluster
+param type point cluster
+interfac point cluster
+version revis date
+return distanc point

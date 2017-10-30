@@ -1,0 +1,29 @@
+org aspectj util
+file util fileutil
+copi file sourc dir destin directori
+creat need directori differ copydir
+recurs input sourc dir creat full path
+sourc directori copi
+param srcdir exist readabl directori relativepath file
+param relativepath set path rel srcdir readabl file copi
+param destdir exist writabl directori copi file
+throw illegalargumentexcept input invalid ioexcept oper fail
+file copi file copyfil file src dir srcdir string rel path relativepath file dest dir destdir
+illeg argument except illegalargumentexcept except ioexcept
+string path rel path relativepath
+throw iax read dir throwiaxunlesscanreaddir src dir srcdir srcdir
+throw iax write dir throwiaxunlesscanwritedir dest dir destdir destdir
+lang util langutil throw iax null throwiaxifnul path relativepath
+file result file path length
+path length
+string path path
+lang util langutil throw iax null throwiaxifnul path relativepath entri
+file src file newfil src dir srcdir path
+file dest file newfil dest dir destdir path
+file dest parent destpar dest parent file getparentfil
+dest parent destpar exist
+dest parent destpar mkdir
+lang util langutil throw iax fals throwiaxiffals write dir canwritedir dest parent destpar dest entri parent
+copi file copyfil src dest copyfil src dest file dir dir dir copi
+result dest
+result

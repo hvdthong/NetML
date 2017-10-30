@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel var bcelvar var
+instruct list instructionlist creat copi createcopyfrom instruct factori instructionfactori fact slot oldslot
+instruct list instructionlist instruct list instructionlist
+append instruct factori instructionfactori creat load createload bcel world bcelworld make bcel type makebceltyp type gettyp slot oldslot
+append creat store createstor fact

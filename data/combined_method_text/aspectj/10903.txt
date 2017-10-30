@@ -1,0 +1,26 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+classpath set environment' java class path remov
+aspectjtool jar entri list order prevent wierd bootstrap issu
+refer bug
+list classpath getclasspath ajc config parser ajcconfigpars parser
+list ret arrai list arraylist
+parser bootclasspath null
+addclasspath system getproperti sun boot class path ret
+addclasspath parser bootclasspath ret
+string extdir parser extdir
+extdir
+extdir system properti getproperti java ext dir
+add ext dir addextdir extdir ret
+parser classpath
+add classpath addclasspath system properti getproperti java class path ret
+list fix list fixedlist arrai list arraylist
+iter ret iter hasnext
+string entri string
+entri end endswith aspectjtool jar
+fix list fixedlist add entri
+ret fix list fixedlist
+add classpath addclasspath parser classpath ret
+eclips put outdir classpath
+brave
+ret

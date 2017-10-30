@@ -1,0 +1,14 @@
+implement href http mathworld wolfram bisect html
+link univari real solver impl univariaterealsolverimpl solv univari real function univariaterealfunct
+bisect algorithm find zero univari real function
+construct solver function
+deprec function solv pass argument
+bisect solver bisectionsolv univari real function univariaterealfunct
+link solv univari real function univariaterealfunct
+deprec
+function continu necessarili smooth
+version revis date
+param function solv
+org apach common math analysi solver
+method
+bisect solver bisectionsolv univari real solver impl univariaterealsolverimpl

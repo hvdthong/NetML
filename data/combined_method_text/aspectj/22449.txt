@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars pointcut parsenotorpointcut
+pointcut pars atom pointcut parseatomicpointcut
+eat maybeeat
+pointcut andpointcut pars pointcut parsepointcut

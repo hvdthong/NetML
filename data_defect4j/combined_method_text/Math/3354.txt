@@ -1,0 +1,13 @@
+simpl constructor
+dimens mismatch except dimensionmismatchexcept length
+param coordin arrai
+version
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+build vector coordin
+instanc guarante immut
+length
+org apach common math geometri euclidean twod
+vector2 vector2d dimens mismatch except dimensionmismatchexcept
+except dimens mismatch except dimensionmismatchexcept arrai element
+arrai toarrai

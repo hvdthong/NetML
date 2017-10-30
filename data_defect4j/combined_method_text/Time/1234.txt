@@ -1,0 +1,46 @@
+author stephen colebourn
+mutabl period mutableperiod mutabl thread safe concurr thread
+result differ date choos
+field support defin period type periodtyp
+param month amount month add period unsupport
+field util fieldutil safe add safeadd week getweek week
+period
+add field period
+ad time period dai dai daylight save start add
+standard mutabl time period implement
+field util fieldutil safe add safeadd milli getmilli milli
+author brian neill o'neil
+time period ad instant effect ad field turn
+param dai amount dai add period unsupport
+param second amount second add period unsupport
+field util fieldutil safe add safeadd month getmonth month
+durat durat todur oper emphasis
+field util fieldutil safe add safeadd hour gethour hour
+field util fieldutil safe add safeadd minut getminut minut
+param year amount year add period unsupport
+time period divid number field hour second
+hour minut second milli
+arithmet except arithmeticexcept addit exce capac period
+param milli amount millisecond add period unsupport
+behaviour link durat
+support period
+org joda time
+definit period affect equal method period
+param minut amount minut add period unsupport
+hour ensur time remain
+param hour amount hour add period unsupport
+period repres abstract definit time period
+standard period type support year month week dai
+result take account daylight save time
+field util fieldutil safe add safeadd year getyear year
+add year month week dai
+param week amount week add period unsupport
+dai hour daylight
+invok mutat method
+field util fieldutil safe add safeadd dai getdai dai
+field util fieldutil safe add safeadd second getsecond second
+dai equal period hour hour equal minut
+illeg argument except illegalargumentexcept period ad field
+mutabl period mutableperiod
+set period setperiod
+save boundari compar actual durat period convert

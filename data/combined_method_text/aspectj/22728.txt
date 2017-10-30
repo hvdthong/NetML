@@ -1,0 +1,21 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+signatur pattern signaturepattern resolv bind resolvebind scope iscop scope bind bind
+return type returntyp
+return type returntyp return type returntyp resolv bind resolvebind scope bind
+check incorrect target kind checkforincorrecttargetkind return type returntyp scope
+declar type declaringtyp
+declar type declaringtyp declar type declaringtyp resolv bind resolvebind scope bind
+check incorrect target kind checkforincorrecttargetkind declar type declaringtyp scope
+paramet type parametertyp
+paramet type parametertyp paramet type parametertyp resolv bind resolvebind scope bind
+check incorrect target kind checkforincorrecttargetkind paramet type parametertyp scope
+throw pattern throwspattern
+throw pattern throwspattern throw pattern throwspattern resolv bind resolvebind scope bind
+throw pattern throwspattern forbidden getforbidden type pattern gettypepattern length
+throw pattern throwspattern requir getrequir type pattern gettypepattern length
+check incorrect target kind checkforincorrecttargetkind throw pattern throwspattern scope
+annot pattern annotationpattern
+annot pattern annotationpattern annot pattern annotationpattern resolv bind resolvebind scope bind
+check incorrect target kind checkforincorrecttargetkind annot pattern annotationpattern scope
+hashcod

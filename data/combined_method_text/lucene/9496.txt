@@ -1,0 +1,29 @@
+org apach lucen spatial tier
+font color red note api
+flux chang incompat wai
+releas font
+lat long distanc filter latlongdistancefilt distanc filter distancefilt
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+lat index latindex field cach fieldcach default doubl getdoubl context reader lat field latfield
+lng index lngindex field cach fieldcach default doubl getdoubl context reader lng field lngfield
+doc base docbas doc base nextdocbas
+doc base nextdocbas context reader max doc maxdoc
+filter doc set filtereddocidset start filter startingfilt doc set getdocidset context
+overrid
+match doc
+lat index latindex doc
+lng index lngindex doc
+round lat long
+distancehandl getprecis precis
+distancehandl getprecis precis
+string doubl string tostr doubl string tostr
+doubl cach distanc cacheddist distanc lookup cach distancelookupcach
+cach distanc cacheddist
+cach distanc cacheddist doubl doublevalu
+distanc util distanceutil distanc getdistancemi lat lng
+distanc lookup cach distancelookupcach put
+distanc
+save distanc pull
+sort filter
+distanc put doc doc base docbas

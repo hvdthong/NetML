@@ -1,0 +1,37 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+execut set code build compil code properti
+ajccompil invok super execut method
+throw org apach tool ant buildexcept
+org apach tool ant taskdef javac execut
+execut prepar executeafterprepar build except buildexcept
+save build compil properti
+string build compil oldbuildcompil project properti getproperti build compil
+oldbuildcompil null resolv
+build compil oldbuildcompil
+string java version javavers java env util javaenvutil java version getjavavers
+java version javavers equal java env util javaenvutil java
+happen
+java version javavers equal java env util javaenvutil java
+build compil oldbuildcompil classic
+java version javavers equal java env util javaenvutil java
+build compil oldbuildcompil classic
+java version javavers equal java env util javaenvutil java
+build compil oldbuildcompil modern
+set adapt
+project set properti setproperti build compil adapt class getadapterclass
+build except buildexcept caught
+execut
+build except buildexcept
+caught
+reset compil
+build compil oldbuildcompil
+project set properti setproperti build compil build compil oldbuildcompil
+caught except execut throw
+caught
+caught

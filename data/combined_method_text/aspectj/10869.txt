@@ -1,0 +1,47 @@
+org aspectj ajd swing
+edit build configur lst file graphic tree base
+represent
+author mik kersten
+tree view build config editor treeviewbuildconfigeditor panel jpanel build config editor buildconfigeditor
+compon tree cell render compon gettreecellrenderercompon tree jtree tree
+object
+sel
+expand
+leaf
+row
+focu hasfocu
+tree cell render compon gettreecellrenderercompon tree sel expand
+leaf row focu hasfocu
+panel jpanel panel jpanel
+set layout setlayout box layout boxlayout box layout boxlayout axi axi
+set background setbackground color white
+leaf
+set font setfont font dialog font plain
+check box jcheckbox cbox config tree node configtreenod check box checkbox
+cbox set background setbackground color white
+row
+add cbox
+config tree node configtreenod ctn config tree node configtreenod
+treeviewbuildconfigeditor selectedentri ctn getsourcefil
+ctn model node getmodelnod activ isact
+cbox set select setselect
+ctn model node getmodelnod valid resourc isvalidresourc
+ctn check box checkbox set enabl seten
+build config node buildconfignod kind kind ctn model node getmodelnod build config node kind getbuildconfignodekind
+kind equal build config node buildconfignod kind file aspectj file aspectj
+set icon seticon ajd default getdefault icon registri geticonregistri structur swing icon getstructureswingicon program element iprogramel kind file aspectj file aspectj
+kind equal build config node buildconfignod kind file java file java
+set icon seticon ajd default getdefault icon registri geticonregistri structur swing icon getstructureswingicon program element iprogramel kind file java file java
+kind equal build config node buildconfignod kind file lst file lst
+set icon seticon ajd default getdefault icon registri geticonregistri structur swing icon getstructureswingicon program element iprogramel kind file lst file lst
+kind equal build config node buildconfignod kind directori
+set icon seticon ajd default getdefault icon registri geticonregistri structur swing icon getstructureswingicon program element iprogramel kind packag
+set icon seticon icon ajd default getdefault icon registri geticonregistri icon geticon program element iprogramel kind error icon resourc geticonresourc
+remov cbox
+ctn getmodelnod getresourcepath null
+ctn getmodelnod getresourcepath endswith java
+seticon ajdeuimanag getdefault geticonregistri getstructureswingicon programelementnod kind class
+ctn getmodelnod getresourcepath endswith
+seticon ajdeuimanag getdefault geticonregistri getstructureswingicon programelementnod kind aspect
+seticon ajdeuimanag getdefault geticonregistri getstructureswingicon programelementnod kind packag
+add

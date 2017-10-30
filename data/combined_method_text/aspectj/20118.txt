@@ -1,0 +1,7 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+set option joinpoint setoptionaljoinpoint string jp
+jp
+jp index indexof arrayconstruct option joinpoint arrai construct optionaljoinpoint arrayconstruct
+jp index indexof synchron option joinpoint synchron optionaljoinpoint synchron

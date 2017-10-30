@@ -1,0 +1,11 @@
+nativearray getallids return array indices
+user agent mozilla macintosh intel mac gecko firefox
+build identifier rhino release
+nativearray getids extends scriptableobject getids adding array indices added nativearray getallids return returned getids enumerable properties
+reproducible
+steps reproduce
+nativearray string getallids
+actual results
+length
+expected results
+length

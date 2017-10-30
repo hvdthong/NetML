@@ -1,0 +1,31 @@
+org aspectj util
+lang util langutil
+trim end line stringbuff
+clip maxlin remov number
+trail line accept checker
+param checker return true trail line elid
+param stack stringbuff line elid
+param maxlin int maximum number result line
+elid end line elideendinglin string checker stringcheck checker string buffer stringbuff stack max line maxlin
+checker stack stack length
+link list linkedlist line link list linkedlist
+string token stringtoken string token stringtoken stack string tostr
+token hasmoretoken max line maxlin
+line add token nexttoken
+string line
+elid
+line empti isempti
+line string line getlast
+checker accept string acceptstr line
+elid
+line remov removelast
+elid max line maxlin
+eol len eol len eol length
+total length totallength
+line empti isempti
+total length totallength eol len eol len string line getfirst length
+line remov removefirst
+stack length total length totallength
+stack set length setlength total length totallength
+elid
+stack append elid line

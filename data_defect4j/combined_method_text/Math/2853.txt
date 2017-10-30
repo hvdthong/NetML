@@ -1,0 +1,18 @@
+permut chromosom permutationchromosom
+list decod list sequenc
+version
+permut code sequenc code object type
+permut code sequenc code repres permut
+permut chromosom repres chromosom
+org apach common math genet
+type permut object
+yield
+param
+permut code sequenc code repres
+permut
+interfac indic chromosom repres permut object
+version revis date
+param sequenc unpermut origin sequenc object
+param sequenc
+repres permut unpermut sequenc
+unpermut origin sequenc object

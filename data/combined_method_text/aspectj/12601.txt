@@ -1,0 +1,18 @@
+org aspectj apach bcel classfil
+repres java class data structur constant pool
+field method command contain java class file
+href ftp java sun doc spec jvm
+specif detail
+intent class repres pars exist
+class file interest programat gener class
+href gener classgen html classgen class
+version javaclass java acoly exp
+org aspectj apach bcel gener classgen
+author href mailto marku dahm berlin dahm
+java class javaclass access flag accessflag cloneabl node
+string indent object obj
+string token stringtoken tok string token stringtoken obj string tostr
+string buffer stringbuff buf string buffer stringbuff
+tok token hasmoretoken
+buf append tok token nexttoken
+buf string tostr

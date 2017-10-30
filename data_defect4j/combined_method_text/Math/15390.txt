@@ -1,0 +1,41 @@
+link initi guess initialguess
+row equal dimens
+org apach common math3 optim gener
+optim data optimizationdata opt data optdata
+deprec
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+base abstract multivari vector optim baseabstractmultivariatevectoroptim optim intern optimizeintern multivari vector function multivariatevectorfunct optim data optimizationdata
+number column equal dimens
+link target
+handl boilerpl method threshold set
+param max eval maxev allow number evalu object function
+optim consid weight squar minim
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+param object function
+cost function minim
+point vector pair pointvectorvaluepair optim intern optimizeintern max eval maxev
+optim intern optimizeintern max eval maxev function util functionutil differenti multivari vector function todifferentiablemultivariatevectorfunct opt data optdata
+version
+construct jacobian matrix function argument method
+multivari differenti vector function multivariatedifferentiablevectorfunct
+base multivari differenti vector function multivariatedifferentiablevectorfunct
+function
+abstract squar optim abstractleastsquaresoptim
+deprec overrid class' gener
+link org apach common math3 optim target target
+maxim number evalu exceed
+optim object function
+dimens mismatch except dimensionmismatchexcept target weight argument
+link weight
+org apach common math3 except evalu except toomanyevaluationsexcept
+point pair give optim object
+code sum weight object target code
+deprec remov
+argument chang code multivari differenti vector function multivariatedifferentiablevectorfunct
+param opt data optdata optim data data look
+xxx convers remov gener argument
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number
+inconsist dimens

@@ -1,0 +1,50 @@
+org apach common math optim fit
+fitter parametr univari real function
+find paramet
+except illeg argument except illegalargumentexcept start point dimens wrong
+org apach common math except dimens mismatch except dimensionmismatchexcept
+except org apach common math except dimens mismatch except dimensionmismatchexcept
+optimum point ref getpointref
+initi guess initialguess
+prepar squar problem
+univari real function depend
+function evalu except functionevaluationexcept optim except optimizationexcept illeg argument except illegalargumentexcept
+method comput coeffici curv
+fit
+parametr function
+find paramet valu minim object
+squar problem
+optim optim theoret valu function theoreticalvaluesfunct target weight initi guess initialguess
+fit curv
+vectori point pair vectorialpointvaluepair optimum
+version revis date
+weight point weight getweight
+org apach common math except math user except mathuserexcept
+except optim except optimizationexcept algorithm fail converg
+fit paramet
+observ point
+target observ size
+except org apach common math except converg except convergenceexcept
+function sum
+fit integ max initi guess initialguess
+fit curv remain close set
+algorithm fail converg
+weight observ size
+extract coeffici
+start point dimens wrong
+add observ point addobservedpoint method
+function evalu except functionevaluationexcept
+param initi guess initialguess guess function paramet
+link add observ point addobservedpoint weight observ point weightedobservedpoint
+fit sampl observ point previous call
+perform fit
+search
+fit parametr real function parametricrealfunct initi guess initialguess
+unknown paramet
+fit parametr real function parametricrealfunct
+except converg except convergenceexcept algorithm fail converg
+target point geti
+except function evalu except functionevaluationexcept object function
+curv fitter curvefitt
+param parametr function fit
+weight observ point weightedobservedpoint point observ

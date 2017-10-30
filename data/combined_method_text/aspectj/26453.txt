@@ -1,0 +1,65 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read pointcut handl resolv lazi deal pointcut refer
+param runtimeannot
+param struct
+return true pointcut handl
+handl pointcut annot handlepointcutannot runtim annot runtimeannot runtim annot runtimeannot attribut method struct ajattributemethodstruct struct
+annot pointcut annot getannot runtim annot runtimeannot ajc member maker ajcmembermak pointcut annot pointcut annot
+pointcut
+element pair elementnamevaluepair pointcut expr pointcutexpr annot element getannotationel pointcut
+semant check method return void public static boolean support
+type void equal struct method return type getreturntyp
+type boolean equal struct method return type getreturntyp struct method static isstat struct method public ispubl
+report warn reportwarn found pointcut method return 'void' 'public static boolean' struct
+stop
+semant check method throw
+struct method except tabl getexceptiont
+report warn reportwarn found pointcut method throw except struct
+stop
+string argument name argumentnam arg name getargnamesvalu pointcut
+argument name argumentnam
+struct unpars argument name unparsedargumentnam argument name argumentnam
+target arg bind
+scope iscop bind
+struct method abstract isabstract
+bind
+bind bind scope bindingscop
+struct enclos type enclosingtyp
+struct context
+extract bind extractbind struct
+unread debug info except unreadabledebuginfoexcept
+unresolv type unresolvedtyp argument type argumenttyp unresolv type unresolvedtyp struct method argument type getargumenttyp length
+argument type argumenttyp length
+argument type argumenttyp unresolv type unresolvedtyp signatur forsignatur struct method argument type getargumenttyp signatur getsignatur
+pointcut
+struct method abstract isabstract
+pointcut expr pointcutexpr null empti isnullorempti pointcut expr pointcutexpr getvalu stringifi stringifyvalu
+pointcut expr pointcutexpr
+abstract pointcut
+leav null
+report error reporterror found defin pointcut abstract method struct
+return fals stop
+pointcut expr pointcutexpr pointcut expr pointcutexpr null empti isnullorempti pointcut expr pointcutexpr getvalu stringifi stringifyvalu
+match pointcut cleanli support
+pointcut expr pointcutexpr
+lazyresolvedpointcutdefinit pointcut resolv lazili
+resolv pointcut regist
+pars pointcut parsepointcut pointcut expr pointcutexpr getvalu stringifi stringifyvalu struct
+null return fals pars error
+set locat setloc struct context setloc struct context fixm avasm bmethod null
+report error reporterror found undefin pointcut abstract method struct
+resolv bind lazili
+struct attribut ajattribut add
+attribut ajattribut pointcut declar attribut pointcutdeclarationattribut
+lazi resolv pointcut definit lazyresolvedpointcutdefinit
+struct enclos type enclosingtyp
+struct method modifi getmodifi
+struct method getnam
+argument type argumenttyp
+unresolv type unresolvedtyp signatur forsignatur struct method return type getreturntyp signatur getsignatur
+null abstract pointcut
+bind bind null abstract pointcut

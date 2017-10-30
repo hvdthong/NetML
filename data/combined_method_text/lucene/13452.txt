@@ -1,0 +1,7 @@
+org apach lucen index
+term hash field termshashperfield invert doc consum field inverteddocconsumerperfield
+collaps hash tabl sort place
+sort post sortpost
+compact post compactpost
+quick sort quicksort post hash postingshash num post numpost
+post hash postingshash

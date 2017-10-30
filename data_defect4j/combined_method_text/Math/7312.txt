@@ -1,0 +1,410 @@
+argument npt rhobeg rhoend iprint maxfun
+object optimum
+sever cancel occur xopt xbase
+scaden half biglsq
+biglsq
+alpha cauchi alphacauchi altmov knew adelt
+link cmae optim cmaesoptim succe bobyqa
+npt number interpol point numberofinterpolationpoint
+dnorm half rho
+trust region center offset trustregioncenteroffset entri getentri
+crvmin dsq crvmin dsqcrvmin
+lagrang valu point lagrangevaluesatnewpoint entri getentri knew
+gradient trust region center gradientattrustregioncent set entri setentri gradient trust region center gradientattrustregioncent entri getentri model deriv valu modelsecondderivativesvalu entri getentri trial step point trialsteppoint entri getentri
+return calcul newton raphson step
+biglsq math max biglsq
+work3 set entri setentri work3 entri getentri sum matrix zmatrix entri getentri
+nptm
+vquad
+sum matrix zmatrix entri getentri work3 entri getentri
+point newpoint set entri setentri point newpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+arrai real vector arrayrealvector work3 arrai real vector arrayrealvector npt
+comput max
+npt gopt updat kopt kbase
+math illeg state except mathillegalstateexcept local format localizedformat trust region step fail vquad
+put variabl calcul object function
+upper bound upperbound
+fsave
+xoptsq delta deltaon delta deltaon
+complet set requir iter procedur
+constraint mention
+lagrang valu point lagrangevaluesatnewpoint entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+paramet adjust
+sum
+version
+sum matrix zmatrix entri getentri lagrang valu point lagrangevaluesatnewpoint entri getentri
+temp trial step point trialsteppoint entri getentri trial step point trialsteppoint entri getentri
+round error damag chosen denomin
+gradient trust region center gradientattrustregioncent set entri setentri lagrang valu point lagrangevaluesatnewpoint entri getentri npt
+return cauchi choic altern
+calcul vlag beta current choic scalar
+diffb
+diffc
+model deriv valu modelsecondderivativesvalu set entri setentri
+diffa
+denomin formula updat matrix
+occur altern iter length
+safeguard invok applic bobyqa
+label ntrit calcul xnew
+pqold model deriv paramet modelsecondderivativesparamet entri getentri knew
+part product requir vlag length ndim
+compon xopt satisfi bound
+work1 set entri setentri matrix bmatrix entri getentri knew
+hred
+updat xopt gopt kopt calcul fopt
+dist math sqrt distsq
+call prelim set element xbase xpt fval gopt
+alpha alpha cauchi alphacauchi
+current currentbest set entri setentri upper bound upperbound
+point newpoint entri getentri lower differ lowerdiffer entri getentri
+valu rho delta
+bound xalt set feasibl point
+scaden temp den
+bmat zmat iter valu
+lagrang valu point lagrangevaluesatnewpoint set entri setentri npt sum
+trust region center offset trustregioncenteroffset entri getentri work1 entri getentri
+vquad trial step point trialsteppoint entri getentri gradient trust region center gradientattrustregioncent entri getentri
+trust region center offset trustregioncenteroffset set entri setentri interpol point interpolationpoint entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+interpol point minim predict
+ratio hundr fifti
+adapt fortran version
+gradient trust region center gradientattrustregioncent set entri setentri gradient trust region center gradientattrustregioncent entri getentri temp interpol point interpolationpoint entri getentri
+finit differ
+comput object computeobjectivevalu current currentbest arrai toarrai
+temp model deriv paramet modelsecondderivativesparamet entri getentri
+param lower bound lowerbound lower bound
+bobyqa suit high dimension problem
+cauchi doubl nan
+errbig frhosq crvmin
+beta dsq xoptsq half dsq bsum xxx test acklei testacklei test diff pow testdiffpow fail
+trust region center interpol point index trustregioncenterinterpolationpointindex knew
+model deriv paramet modelsecondderivativesparamet set entri setentri knew
+lagrang valu point lagrangevaluesatnewpoint set entri setentri sum interpol point interpolationpoint entri getentri temp trust region center offset trustregioncenteroffset entri getentri
+hold explicit deriv quadrat model
+xopt caus updat quadrat model
+fval hold valu interpol point
+bobyqb
+made denomin calcul
+bsum
+xopt set displac xbase trust region centr
+interpol point delet make room trust
+interpol point interpolationpoint set entri setentri knew point newpoint entri getentri
+altern find interpol point close
+delta deltaon delta
+ten rho
+npt
+cauchi xxx statement
+interpol point reach altern step
+arrai real vector arrayrealvector npt half xoptsq add interpol point interpolationpoint oper trust region center trustregioncent
+ntrit denomin increas replac
+suitabl posit knew interpol point
+rho initi trust region radiu initialtrustregionradiu
+xoptsq
+deriv current model begin bmat
+diffb diffa
+expens previou shift matric bmat
+bdtest bdtol
+trial step point trialsteppoint set entri setentri point newpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+xalt altern xnew chosen altmov replac xnew
+origin shift originshift entri getentri point newpoint entri getentri
+math max sum
+factor zmat time zmat
+matrix bmatrix set entri setentri npt matrix bmatrix entri getentri npt
+round error reduc factor
+arrai real vector arrayrealvector work1 arrai real vector arrayrealvector
+model deriv valu modelsecondderivativesvalu set entri setentri model deriv valu modelsecondderivativesvalu entri getentri temp interpol point interpolationpoint entri getentri knew
+correct rank posit semi definit
+zmat hold factor lead npt npt submatrix
+kbase
+lagrang valu point lagrangevaluesatnewpoint set entri setentri interpol point fatinterpolationpoint entri getentri interpol point fatinterpolationpoint entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+itest
+reach label branch label
+sum interpol point interpolationpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+xopt constraint boundari
+vquad calcul
+trust region center offset trustregioncenteroffset entri getentri upper differ upperdiffer entri getentri
+delta half rho
+work2 set entri setentri sum
+work3 set entri setentri suma half suma sumb
+fopt interpol point fatinterpolationpoint entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+dsq
+pick delta trust region step
+xbase hold shift origin reduc contribut
+dnorm rho
+lower differ lowerdiffer set entri setentri lower differ lowerdiffer entri getentri trust region center offset trustregioncenteroffset entri getentri
+function bodi
+distsq delta deltaon delta deltaon
+leq xopt leq equal
+interpol point fatinterpolationpoint entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex fsave
+current currentbest dimens getdimens
+paper introduct
+initi xopt set branch label occur maxfun
+href http www optim onlin org html html
+dnorm math min delta deltaon delta deltatwo
+work2 entri getentri
+temp math max
+evalu getevalu nfsav
+math min ten dist delta
+gener point trust region small
+branch trust region calcul ntrit occur
+gisq sum sum
+sum distsq
+call rescu make call calfun
+interpol point posit caus linear
+choic label depend
+diffa math ab diff
+trust region center offset trustregioncenteroffset set entri setentri
+test replac quadrat model frobeniu
+model deriv valu modelsecondderivativesvalu entri getentri
+lagrang valu point lagrangevaluesatnewpoint set entri setentri trust region center interpol point index trustregioncenterinterpolationpointindex
+squar prevent test failur
+dsq crvmin dsqcrvmin trsbox delta gnew xbdi
+product xpt held npt
+work1 entri getentri trust region center offset trustregioncenteroffset entri getentri
+max math max npt max
+made bmat
+bobyqa optim bobyqaoptim
+function squar function
+minim isminim
+delta math max delta rho
+distsq sum
+work1 set entri setentri half sumpq trust region center offset trustregioncenteroffset entri getentri
+lower bound lowerbound
+sumw lagrang valu point lagrangevaluesatnewpoint entri getentri
+deriv paramet quadrat model
+trust region center offset trustregioncenteroffset set entri setentri point newpoint entri getentri
+math max gradient trust region center gradientattrustregioncent entri getentri
+lagrang valu point lagrangevaluesatnewpoint entri getentri work1 entri getentri
+adelt
+deriv case outperform
+org apach common math optim direct
+point newpoint entri getentri upper differ upperdiffer entri getentri
+trust region step provid suffici decreas
+updat gopt iter
+denomin subject xnew xopt leq adelt
+sum half xoptsq
+expens bobyqa consid replac
+curv model deriv paramet modelsecondderivativesparamet entri getentri
+calcul object function xbase xnew
+interpol point interpolationpoint entri getentri point newpoint entri getentri
+real vector realvector sum vector sumvector
+firstli xnew set point line xopt
+trust region iter calcul
+gradient trust region center gradientattrustregioncent set entri setentri gradient trust region center gradientattrustregioncent entri getentri model deriv valu modelsecondderivativesvalu entri getentri trust region center offset trustregioncenteroffset entri getentri
+knew
+evalu getevalu npt
+beta
+improv model distanc half rho xopt
+sumpq
+recalcul knew denom fopt
+arrai real vector arrayrealvector work2 arrai real vector arrayrealvector npt
+gradient trust region center gradientattrustregioncent entri getentri
+kopt number call calfun
+dnorm
+vlag npt
+sumb interpol point interpolationpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+work3 set entri setentri sum work3 entri getentri
+knew interpol point distanc adelt xopt
+distsq math max
+ndim npt
+dimension arrai work space length
+temp fracsq half sum
+sum matrix bmatrix entri getentri
+ratio
+temp interpol point interpolationpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+xnew chosen subroutin trsbox altmov xbase xnew
+rho ten
+suma interpol point interpolationpoint entri getentri trial step point trialsteppoint entri getentri
+interpol point interpolationpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+updat beta denom knew
+print state printstat xxx
+errbig math max delta deltaon diffc
+work2 set entri setentri work3 entri getentri
+current currentbest set entri setentri math min
+matrix bmatrix entri getentri
+gqsq ten gisq
+vquad half model deriv paramet modelsecondderivativesparamet entri getentri
+distsq
+includ interpol point make gopt
+nptm npt
+href http plato asu ftp softwar bobyqa zip
+temp diff matrix zmatrix entri getentri knew
+norm interpol make replac test satisfi
+order increas denomin updat updat
+delta math min delta hdelta dnorm
+nfsav evalu getevalu
+ntrit
+matrix zmatrix entri getentri
+ntrit set number trust region iter
+distsq delsq
+den beta hdiag
+interpol point fatinterpolationpoint set entri setentri knew
+state
+work1 set entri setentri matrix bmatrix entri getentri
+current data gradient interpol xopt put
+lagrang valu point lagrangevaluesatnewpoint entri getentri interpol point interpolationpoint entri getentri work3 entri getentri
+beta dsq xoptsq half dsq beta bsum xxx test diff pow testdiffpow fail
+pick altern vector variabl rel xbase
+lagrang valu point lagrangevaluesatnewpoint set entri setentri sum
+trust region center offset trustregioncenteroffset entri getentri lower differ lowerdiffer entri getentri
+step altmov cauchi step rescu call
+beta dsq xoptsq half dsq beta bsum origin
+depend zmat vlag temporarili work space
+vlag valu lagrang function point
+deriv base optim deriv approxim
+ratio sixteen
+lagrang valu point lagrangevaluesatnewpoint set entri setentri lagrang valu point lagrangevaluesatnewpoint entri getentri sum matrix zmatrix entri getentri
+delta deltaon ten rho
+adelt math max rho
+denom densav
+temp half
+work3 set entri setentri
+sum work3 entri getentri matrix bmatrix entri getentri
+denom den
+gisq
+curv model deriv valu modelsecondderivativesvalu entri getentri
+denom cauchi cauchi
+work current rho complet rho
+param upper bound upperbound upper bound
+crvmin
+rho math sqrt ratio stop trust region radiu stoppingtrustregionradiu
+quadrat model
+trial step point trialsteppoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+zmat gener scratch includ replac
+delta math max delta hdelta dnorm
+dsq adelt adelt
+sum matrix bmatrix entri getentri trial step point trialsteppoint entri getentri
+upper differ upperdiffer set entri setentri upper differ upperdiffer entri getentri trust region center offset trustregioncenteroffset entri getentri
+prelim lower bound lowerbound upper bound upperbound
+vector variabl call calfun xnew satisfi
+interpol point interpolationpoint entri getentri
+math max delta dnorm rho
+bobyqb lower bound lowerbound
+trial step point trialsteppoint entri getentri
+knew ksav
+knew calcul object function
+link powel optim powelloptim significantli stochast algorithm
+interpol point compar favour predict
+reserv trial step xopt xnew xopt
+set constant
+depend interpol condit rescu call
+gqsq
+math min sum
+dsq xoptsq thousand
+set diff error predict
+dsq doubl nan
+comput 2nd power
+sum matrix zmatrix entri getentri
+delta math min ten delta half dist
+scaden
+xnew adjust bound
+ndim dimens bmat npt
+model deriv paramet modelsecondderivativesparamet set entri setentri work2 entri getentri
+trust region center interpol point index trustregioncenterinterpolationpointindex kbase
+chosen denomin reason attempt select
+xnew xopt half rho branch
+delsq delta delta
+work1 set entri setentri work1 entri getentri temp interpol point interpolationpoint entri getentri
+bmat hold column
+powell' bobyqa algorithm implement translat
+instruct complet shift includ
+origin shift originshift entri getentri trust region center offset trustregioncenteroffset entri getentri
+ratio fopt vquad
+sumpq model deriv paramet modelsecondderivativesparamet entri getentri
+delta deltaon trust region center offset trustregioncenteroffset entri getentri
+point
+fopt ten vquad
+knew posit altmov find altern posit
+suma matrix zmatrix entri getentri knew matrix zmatrix entri getentri
+ident argument subroutin bobyqa
+revis bmat depend zmat calcul
+arrai real vector arrayrealvector xbdi arrai real vector arrayrealvector
+sumz
+sumw
+delta rho
+lagrang valu point lagrangevaluesatnewpoint entri getentri
+calcul paramet frobeniu norm interpol
+sumb
+suma
+bdtest work1 entri getentri
+lagrang valu point lagrangevaluesatnewpoint set entri setentri work2 entri getentri matrix zmatrix entri getentri
+bsum sum trial step point trialsteppoint entri getentri
+decreas termin occur error quadrat model
+interpol point interpolationpoint set entri setentri interpol point interpolationpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+sum lagrang valu point lagrangevaluesatnewpoint entri getentri interpol point interpolationpoint entri getentri
+sum fracsq sumz half sumw trust region center offset trustregioncenteroffset entri getentri
+current currentbest set entri setentri lower bound lowerbound
+path explor except pathisexploredexcept xxx
+crvmin doubl nan
+denom alpha beta
+work1 entri getentri lagrang valu point lagrangevaluesatnewpoint entri getentri
+hold differ xbase xbase
+origin shift originshift set entri setentri origin shift originshift entri getentri trust region center offset trustregioncenteroffset entri getentri
+fopt
+current rho complet
+delta deltatwo math sqrt dsq
+bdtol errbig rho
+math max
+move updat deriv term model
+xbase move xopt call rescu calcul
+comput min
+cauchi alpha cauchi alphacauchi
+delta deltaon math max diffa diffb
+diffc diffb
+frhosq rho rho
+fsave interpol point fatinterpolationpoint entri getentri
+sumz matrix zmatrix entri getentri
+ksav knew
+work1 set entri setentri work1 entri getentri model deriv paramet modelsecondderivativesparamet entri getentri interpol point interpolationpoint entri getentri
+round error valu model lagrang function
+sum sum vector sumvector entri getentri xxx test acklei testacklei test diff pow testdiffpow fail
+updat bmat zmat knew interpol point
+biglsq math max biglsq temp
+matrix bmatrix set entri setentri
+arrai real vector arrayrealvector arrai real vector arrayrealvector
+model deriv paramet modelsecondderivativesparamet set entri setentri model deriv paramet modelsecondderivativesparamet entri getentri temp matrix zmatrix entri getentri
+ratio rho stop trust region radiu stoppingtrustregionradiu
+quadrat model subject constraint variabl
+arrai real vector arrayrealvector gnew arrai real vector arrayrealvector
+beta sum sum
+constrain version cauchi step knew lagrang
+gopt hold gradient quadrat model xbase xopt
+region step rescu call round error damag
+point newpoint set entri setentri altern point alternativenewpoint entri getentri
+dsq dsq crvmin dsqcrvmin
+limit number calcul reach
+arrai real vector arrayrealvector hred arrai real vector arrayrealvector
+ratio ten
+calcul current rho complet pick
+temp suma sumb
+alpha doubl nan
+delta
+vquad model deriv valu modelsecondderivativesvalu entri getentri temp
+quadrat model predict chang due step
+temp pqold interpol point interpolationpoint entri getentri knew
+hdiag
+fracsq xoptsq
+temp
+diff fopt vquad
+altern ntrit posit set knew index
+interpol point rel xbase
+index interpol point trust region centr
+bdtest half curv rho
+rho stop trust region radiu stoppingtrustregionradiu
+interpol point fatinterpolationpoint entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+temp interpol point interpolationpoint entri getentri trial step point trialsteppoint entri getentri
+print method printmethod xxx
+temp work1 entri getentri
+work1 set entri setentri sum
+densav denom
+math min gradient trust region center gradientattrustregioncent entri getentri
+paramet implicit deriv
+denom
+gradient trust region center gradientattrustregioncent set entri setentri gradient trust region center gradientattrustregioncent entri getentri diff work1 entri getentri
+temp den scaden
+xpt dimension arrai hold coordin
+delta hdelta half delta
+trust region center interpol point index trustregioncenterinterpolationpointindex
+test hold xbase shift xopt
+work2 set entri setentri suma
+math illeg state except mathillegalstateexcept local format localizedformat simpl messag bobyqb

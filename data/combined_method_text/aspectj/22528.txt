@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+object perobject claus perclaus
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+expr instanc myinstanc
+expr make call expr makecallexpr ajc member maker ajcmembermak object aspect method perobjectaspectofmethod aspect inaspect
+expr var getvar shadow aspect inaspect
+state set aspect instanc setaspectinst instanc myinstanc
+test make call makecal ajc member maker ajcmembermak object aspect method perobjecthasaspectmethod aspect inaspect
+expr var getvar shadow

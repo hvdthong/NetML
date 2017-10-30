@@ -1,0 +1,21 @@
+author stephen colebourn
+case valid import handl daylight save time dst
+handl manag gap
+illeg instant except illegalinstantexcept illeg argument except illegalargumentexcept
+creat messag createmessag instant local instantloc zone zoneid
+mean spring gap local time exist
+illeg instant except illegalinstantexcept instant local instantloc string zone zoneid
+solut
+convert code local date locald code code date time datetim code code date time start dai todatetimeasstartofdai code
+joda time object valid allow
+pars code pars local date time parselocaldatetim code string pars time zone
+place dst local clock move forward hour spring back hour autumn fall
+code local date time localdatetim code local date time valid
+param instant local instantloc local instant
+date time insid gap time exist
+param zone zoneid time zone
+except thrown attempt creat instant date time exist
+except refer gap mean applic creat
+org joda time
+constructor
+class code date time datetim store valid date time

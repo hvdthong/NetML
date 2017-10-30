@@ -1,0 +1,22 @@
+org mozilla javascript tool shell
+simpl shell consol simpleshellconsol shell consol shellconsol
+line shell consol jlineshellconsolev1 line shell consol getjlineshellconsolev1
+class loader classload class loader classload class reader class readerclass scriptabl scope
+charset method except nosuchmethodexcept instanti except instantiationexcept
+illeg access except illegalaccessexcept invoc target except invocationtargetexcept
+consoleread reader consoleread
+constructor reader class readerclass constructor getconstructor
+object reader instanc newinst
+instanc consol reader method consolereadermethodsv1 instanc instanc consol reader method consolereadermethodsv1
+reader consol reader method consolereadermethodsv1
+reader setbellen fals
+instanc invok consol reader method consolereadermethodsv1 set bell enabl setbellen
+reader addcompletor flexiblecompletor prefix
+class completor class completorclass kit class null classornul class loader classload
+jline completor
+object completor proxi proxi instanc newproxyinst class loader classload
+class completor class completorclass
+flexibl completor flexiblecompletor completor class completorclass scope
+instanc resolv consol reader method consolereadermethodsv1 add completor addcompletor completor class completorclass
+instanc invok consol reader method consolereadermethodsv1 add completor addcompletor completor
+line shell consol jlineshellconsolev1 instanc

@@ -1,0 +1,62 @@
+org aspectj apach bcel gener
+super class object arrai type
+version referencetyp java aclement exp
+author href mailto marku dahm berlin dahm
+refer type referencetyp type
+return true iff assign compat type
+defin jvm specif aastor definit
+assign compat isassignmentcompatiblewith type
+refer type referencetyp
+refer type referencetyp refer type referencetyp
+equal type null
+return true explicit state clear
+class type
+object type objecttyp object type objecttyp refer class referencesclass
+class type class
+subclass
+object type objecttyp object type objecttyp refer class referencesclass
+equal
+repositori instanc instanceof object type objecttyp class getclassnam
+object type objecttyp class getclassnam
+interfac type implement interfac
+object type objecttyp object type objecttyp refer interfac referencesinterfac
+repositori implement implementationof object type objecttyp class getclassnam
+object type objecttyp class getclassnam
+interfac type
+object type objecttyp object type objecttyp refer interfac referencesinterfac
+class type object
+object type objecttyp object type objecttyp refer class referencesclass
+equal type object
+interfac type interfac
+superinterfac
+object type objecttyp object type objecttyp refer interfac referencesinterfac
+equal
+repositori implement implementationof object type objecttyp class getclassnam
+object type objecttyp class getclassnam
+arrai type type
+arrai compon type
+arrai type arraytyp
+class type object
+object type objecttyp object type objecttyp refer class referencesclass
+equal type object
+arrai type arrai compon
+type true
+arrai type arraytyp
+primit type
+type arrai type arraytyp element type getelementtyp
+type arrai type arraytyp element type getelementtyp
+basic type basictyp basic type basictyp equal
+refer type type
+assign runtim rule
+refer type referencetyp refer type referencetyp
+refer type referencetyp assign compat isassignmentcompatiblewith refer type referencetyp
+interfac type interfac implement arrai
+todo check valid find dynam find
+interfac arrai implement jvm specif edit
+page assign compat defin
+interfac implement arrai exchang 'cloneable'
+'java serializable'
+object type objecttyp object type objecttyp refer interfac referencesinterfac
+constant interfac implement arrai interfac implement arrai length
+equal object type objecttyp constant interfac implement arrai interfac implement arrai
+return fals default

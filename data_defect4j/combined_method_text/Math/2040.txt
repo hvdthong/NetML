@@ -1,0 +1,14 @@
+implement link pascal distribut pascaldistribut
+pascal distribut impl pascaldistributionimpl
+param probabl success
+set number success intern setnumberofsuccessesintern
+set probabl success setprobabilityofsuccess
+creat pascal distribut number trial
+pascal distribut impl pascaldistributionimpl abstract integ distribut abstractintegerdistribut
+set probabl success intern setprobabilityofsuccessintern
+probabl success
+version revis date
+set number success setnumberofsuccess
+org apach common math distribut
+creat binomi distribut number trial
+param number success

@@ -1,0 +1,21 @@
+org aspectj ajdt intern core builder
+author colyer
+provid type lookup environ weaver convert
+eclips path extern form
+eclips class path manag eclipseclasspathmanag class path manag classpathmanag
+class file classfil find unresolv type unresolvedtyp type
+class file classfil
+string type getnam
+end endswith class
+substr length class length
+cname char oper charoper split spliton char arrai tochararrai
+environ answer nameenvironmentansw answer env nameenv find type findtyp cname
+answer answer binari type isbinarytyp
+binari type ibinarytyp bin type bintyp answer binari type getbinarytyp
+xxx altern hack
+bin type bintyp class file reader classfileread
+class file reader classfileread cfr class file reader classfileread bin type bintyp
+class file reader back class file classfilereaderbackedclassfil cfr
+illeg argument except illegalargumentexcept
+gear handl classfileread gave
+bin type bintyp class getclass getnam

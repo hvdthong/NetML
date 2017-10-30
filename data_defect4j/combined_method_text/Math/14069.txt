@@ -1,0 +1,15 @@
+jira
+kei map access matrix element
+param row row index matrix element
+org apach common math3 linear
+param type field element
+comput kei computekei row column
+spars matrix implement base open address map
+href http issu apach org jira brows math ticket
+version
+comput kei access matrix element
+deprec version deprec reason expos
+row column column
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+param column column index matrix element
+remov version

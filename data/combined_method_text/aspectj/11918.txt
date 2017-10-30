@@ -1,0 +1,11 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+delet binari class file deletebinaryclassfil
+rang bsf ucf domain file class jar inpath jar
+iter iter delet binari file deletedbinaryfil iter iter hasnext
+build config ajbuildconfig binari sourc file binarysourcefil delet file deletedfil build config ajbuildconfig binari sourc file binarysourcefil iter
+list cf list input class file sourc inputclassfilesbysourc delet file deletedfil bin src binsrc path getpath
+iter iter cf iter iter hasnext
+delet class file deleteclassfil class file classfil iter
+input class file sourc inputclassfilesbysourc remov delet file deletedfil bin src binsrc path getpath

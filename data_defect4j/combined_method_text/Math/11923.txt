@@ -1,0 +1,14 @@
+org apach common math3 fit leastsquar
+param param model function paramet
+cost
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+comput rm computerm param
+squar root sum squar residu divid
+number measur
+version
+param optim concret optim
+base implement squar optim
+method error estim
+fast math fastmath sqrt cost cost target length
+comput normal cost
+cost comput cost computecost comput residu computeresidu model getmodel param

@@ -1,0 +1,16 @@
+input arrai
+code code arrai input statist
+base implement statist
+base evalu implement statist
+param valu input arrai
+evalu valu begin length
+univari statist univariatestatist
+param length number element includ
+param begin index element includ
+statist appli includ arrai entri
+version revis date
+org apach common math stat descript
+appli input valu
+univari statist univariatestatist serializ
+includ stateless code evalu code method
+return result evalu statist entri

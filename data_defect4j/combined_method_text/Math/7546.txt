@@ -1,0 +1,16 @@
+param dimens simplex
+nelder mead simplex neldermeadsimplex abstract simplex abstractsimplex
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+nelder mead simplex algorithm
+gamma sigma
+param khi expans coeffici
+org apach common math optim direct
+rho khi
+param rho reflect coeffici
+version
+build nelder mead simplex coeffici
+rho khi gamma sigma
+version revis date
+nelder mead simplex neldermeadsimplex
+param sigma shrinkag coeffici

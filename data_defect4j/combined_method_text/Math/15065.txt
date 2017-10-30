@@ -1,0 +1,30 @@
+param start point startpoint start point optim
+deprec replac declar
+deprec
+link org apach common math3 optim differenti multivari optim differentiablemultivariateoptim
+link goal type goaltyp maxim link goal type goaltyp minim
+base multivari optim basemultivariateoptim func multivari function multivariatefunct
+link org apach common math3 optim multivari optim multivariateoptim
+org apach common math3 except null argument except nullargumentexcept
+common fast math fastmath user api advis base code
+org apach common math3 optim
+version
+interfac
+param func type object function optim
+point pair pointvaluepair optim max eval maxev func goal type goaltyp goal type goaltyp
+function
+argument code
+maxim number evalu exceed
+optim object function
+param goal type goaltyp type optim goal
+start point dimens wrong
+param max eval maxev maximum number function evalu
+org apach common math3 except evalu except toomanyevaluationsexcept
+point pair give optim object
+param object function
+deprec remov
+link org apach common math3 optim multivari differenti optim multivariatedifferentiableoptim
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+link org apach common math3 optim direct base abstract multivari optim baseabstractmultivariateoptim optim multivari function multivariatefunct goal type goaltyp optim data optimizationdata method
+start point startpoint
+intend enforc intern coher

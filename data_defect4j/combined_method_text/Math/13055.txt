@@ -1,0 +1,17 @@
+matrix dimens mismatch except matrixdimensionmismatchexcept vector dimens getdimens
+vector dimens getdimens col ncol
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+set entri setentri row vector entri getentri
+rang except outofrangeexcept
+rang except outofrangeexcept matrix dimens mismatch except matrixdimensionmismatchexcept
+version
+set row vector setrowvector row field vector fieldvector vector
+check row index checkrowindex row
+col ncol
+param type field element
+col ncol column dimens getcolumndimens

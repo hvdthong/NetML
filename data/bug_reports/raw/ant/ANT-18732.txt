@@ -1,0 +1,15 @@
+expand properties during -propertyfile processing
+I set my ANT_OPTS='-propertyfile ant.properties'.  ANT does not recognize the 
+comand-line parameter -propertyfile.  This is an obvious bug.
+
+I suggest that ANT should always accept an optional default property file 
+(possibly ant.properties).  ANT should optionally accept also accept ALL 
+command-line parameters on the property file.  The ANT_OPTS is difficult to 
+change and manipulate.
+
+Also, ANT should accept macro expressions in its property file.  It does not 
+accept such expression now.  For instance it should accept such thing as:
+  root.path=${basedir}/sources
+
+Regards,
+Colbert Philippe

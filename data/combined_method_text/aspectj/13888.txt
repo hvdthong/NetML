@@ -1,0 +1,34 @@
+org aspectj apach bcel gener
+class contain list
+href instruct html instruct object instruct
+append insert move delet instruct
+wrap
+href instructionhandl html instructionhandl object
+return append insert oper give user
+read access list structur travers
+manipul control
+list final dump byte code arrai
+href getbytecod getbytecod
+version instructionlist java aclement exp
+author href mailto marku dahm berlin dahm
+instruct
+instructionhandl
+branchhandl
+instruct list instructionlist serializ
+find target instruct handl correspond target
+posit byte code offset
+param ih arrai instruct handl getinstructionhandl
+param po arrai posit ih getinstructionposit
+param count length arrai
+param target target posit search
+return target position' instruct handl
+instruct handl instructionhandl find handl findhandl instruct handl instructionhandl ih
+po count target return closest exact match returnclosestifnoexactmatch
+count
+binari search po arrai order
+po
+target ih target return ih found
+target target constrain search area
+target
+return closest exact match returnclosestifnoexactmatch
+ih

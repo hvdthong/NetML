@@ -1,0 +1,13 @@
+org aspectj ajd swing
+check list cell render checklistcellrender check box jcheckbox list cell render listcellrender
+compon list cell render compon getlistcellrenderercompon list jlist list
+object
+index
+select isselect
+cell focu cellhasfocu
+set text settext string tostr
+set font setfont java awt font dialog
+set background setbackground color
+set background setbackground select isselect list select background getselectionbackground list background getbackground
+set foreground setforeground select isselect list select foreground getselectionforeground list foreground getforeground
+set select setselect select isselect

@@ -1,0 +1,20 @@
+thrown oper defin squar matric appli squar
+squar matrix except nonsquarematrixexcept row column
+param expect column dimens
+org apach common math linear
+param column number column faulti matrix
+construct except mismatch dimens
+local format localizedformat squar matrix row column
+param wrong row dimens
+local format localizedformat squar matrix wrong expect
+expect
+row column
+matrix provid squar matrix
+squar matrix except nonsquarematrixexcept wrong
+construct except messag
+version revis date
+param row number row faulti matrix
+squar matrix except nonsquarematrixexcept dimens mismatch except dimensionmismatchexcept
+object row column
+except thrown squar matrix expect
+squar matrix except nonsquarematrixexcept invalid matrix except invalidmatrixexcept

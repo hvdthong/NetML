@@ -1,0 +1,42 @@
+check sampl data checksampledata sampl stats1 samplestats1
+comput sampl statist compar mean dataset
+illeg argument except illegalargumentexcept precondit met
+test compar sampl mean
+sampl stats1 samplestats1
+check sampl data checksampledata sampl stats2 samplestats2
+sampl stats2 samplestats2
+strong code var2 code strong varianc sampl
+strong code code strong sampl
+statist summari statisticalsummari sampl stats2 samplestats2
+statist perform homoscedast sampl
+strong precondit strong
+param sampl stats1 samplestats1 statist summari statisticalsummari describ data sampl
+test impl ttestimpl test ttest
+implement test statist defin link test ttest
+code var sqrt var1 var2 code
+version
+version revis date
+assumpt equal subpopul varianc comput statist
+homoscedast homoscedastict statist summari statisticalsummari sampl stats1 samplestats1
+illeg argument except illegalargumentexcept insuffici data statist
+sampl stats1 samplestats1 varianc getvari sampl stats2 samplestats2 varianc getvari
+math min sampl stats1 samplestats1 getn sampl stats2 samplestats2 getn
+org apach common math stat infer
+equal varianc assumpt
+dataset univari
+param sampl stats2 samplestats2 statist summari statisticalsummari describ data sampl
+common math link org apach common math distribut distribut impl tdistributionimpl
+strong code var1 code strong varianc sampl
+statisitc return
+strong code code strong size sampl
+homoscedast homoscedastict sampl stats1 samplestats1 getmean sampl stats2 samplestats2 getmean
+sampl stats1 samplestats1 getn sampl stats2 samplestats2 getn
+strong code var code strong pool varianc estim
+nbsp nbsp code sqrt sqrt var code
+common math link org apach common math distribut distribut tdistribut
+implement estim exact valu
+link statist summari statisticalsummari statist summari statisticalsummari
+statist
+link statist summari statisticalsummari instanc
+observ
+illeg argument except illegalargumentexcept

@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+valid bind validatebind pointcut dnf pointcut dnfpointcut pointcut user pointcut userpointcut num formal numform string name
+num formal numform numform return check
+dnf pointcut dnfpointcut match kind couldmatchkind shadow shadow kind bit shadow kind bit dnfpointcut couldmatchkind shadow shadow kind bit return problem dont match
+dnf pointcut dnfpointcut pointcut orpointcut
+pointcut orpointcut base dnf pointcut orbaseddnfpointcut pointcut orpointcut dnf pointcut dnfpointcut
+pointcut left bind leftbind pointcut num formal numform
+pointcut bind rightbind pointcut num formal numform
+valid branch validateorbranch base dnf pointcut orbaseddnfpointcut user pointcut userpointcut num formal numform name left bind leftbind bind rightbind
+pointcut bind pointcut num formal numform
+valid singl branch validatesinglebranch dnf pointcut dnfpointcut user pointcut userpointcut num formal numform name bind

@@ -1,0 +1,8 @@
+inherit doc inheritdoc
+org apach common math3 geometri euclidean threed
+vector dimension space
+instanc guarante immut
+vector3 vector3d factor vector3 vector3d
+version
+vector3 vector3d serializ vector euclidean3 euclidean3d
+vector3 vector3d subtract factor vector euclidean3 euclidean3d

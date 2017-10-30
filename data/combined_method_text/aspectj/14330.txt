@@ -1,0 +1,21 @@
+org aspectj apach bcel gener
+tableswitch switch rang valu low high
+version tableswitch java aclement exp
+author href mailto marku dahm berlin dahm
+switch
+tableswitch select
+read need data index file
+init file initfromfil byte sequenc bytesequ byte wide except ioexcept
+init file initfromfil byte wide
+low byte read int readint
+high byte read int readint
+match length high low
+fix length match length
+length fix length pad
+match match length
+indic match length
+target instruct handl instructionhandl match length
+low high
+match low
+match length
+indic byte read int readint

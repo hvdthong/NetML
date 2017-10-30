@@ -1,0 +1,9 @@
+overrid
+org apach common math od nonstiff
+inherit doc inheritdoc
+repres interpol step
+dormand prince853 integr dormandprince853integr
+version revis date
+od integr dormand princ integr
+dormand prince853 step interpol dormandprince853stepinterpol
+step interpol stepinterpol copi docopi

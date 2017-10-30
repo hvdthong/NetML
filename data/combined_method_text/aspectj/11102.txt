@@ -1,0 +1,41 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener type instanc method generatepertypewithingetinstancemethod class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil ajc member maker ajcmembermak type instanc pertypewithingetinst world bind frombind bind
+bodi gener bodygener
+gener code stream codestream code stream codestream
+except label exceptionlabel exc except label exceptionlabel code stream codestream world make type bind maketypebind unresolv type unresolvedtyp java lang except java lang except
+exc place start placestart
+code stream codestream aload
+code stream codestream ldc mangler namemangl type local aspect pertypewithinlocalaspectof type typex
+code stream codestream aconst null
+code stream codestream invokevirtu
+method bind methodbind
+getdeclaredmethod char arrai tochararrai
+world make type bind maketypebind unresolv type unresolvedtyp signatur forsignatur ljava lang reflect method world maketypebind unresolvedtyp forsignatur ljava lang reflect method return type
+type bind typebind world make type bind maketypebind unresolv type unresolvedtyp signatur forsignatur ljava lang string
+world make type bind maketypebind unresolv type unresolvedtyp signatur forsignatur ljava lang class
+refer bind referencebind
+refer bind referencebind world make type bind maketypebind unresolv type unresolvedtyp java lang class java lang class
+code stream codestream astor
+code stream codestream aload
+code stream codestream aconst null
+code stream codestream aconst null
+code stream codestream invokevirtu
+method bind methodbind
+invok char arrai tochararrai
+world make type bind maketypebind unresolv type unresolvedtyp object
+type bind typebind world make type bind maketypebind unresolv type unresolvedtyp object world make type bind maketypebind unresolv type unresolvedtyp signatur forsignatur ljava lang object
+refer bind referencebind
+refer bind referencebind world make type bind maketypebind unresolv type unresolvedtyp java lang reflect method java lang reflect method
+code stream codestream checkcast world make type bind maketypebind type typex
+code stream codestream astor
+code stream codestream aload
+exc place end placeend
+code stream codestream areturn
+exc place
+code stream codestream astor
+return null version throw caught except
+code stream codestream aconst null
+code stream codestream areturn

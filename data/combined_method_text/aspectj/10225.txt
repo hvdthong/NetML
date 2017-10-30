@@ -1,0 +1,10 @@
+org aspectj ajd
+singleton class initi ajd properti requir
+run compil user call ajd init
+getter method properti set
+initi
+author mik kersten
+ajd
+show warn messag showwarningmessag string messag
+option pane joptionpan show messag dialog showmessagedialog root frame rootfram messag warn
+option pane joptionpan warn messag warn messag

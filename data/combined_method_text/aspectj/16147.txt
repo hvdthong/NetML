@@ -1,0 +1,43 @@
+org aspectj intern tool ant taskdef
+instal ajinstal match task matchingtask
+zip file zipfil input stream inputstream zip output stream zipoutputstream zout string path vpath
+modifi lastmodifi
+except ioexcept
+zip entri zipentri zip entri zipentri path vpath
+set time settim modifi lastmodifi
+xxx zipoutputstream putentri expect zipentri
+size crc sum start write data
+store mode
+forc process data
+find document found
+error
+compress docompress
+size
+crc32 cal crc32
+mark support marksupport
+store data byte
+byte arrai output stream bytearrayoutputstream bo byte arrai output stream bytearrayoutputstream
+buffer
+count
+size count
+cal updat buffer count
+bo write buffer count
+count read buffer buffer length
+count
+byte arrai input stream bytearrayinputstream bo byte arrai tobytearrai
+mark integ max max
+buffer
+count
+size count
+cal updat buffer count
+count read buffer buffer length
+count
+reset
+set size setsiz size
+set crc setcrc cal getvalu
+zout put entri putnextentri
+buffer
+count
+zout write buffer count
+count read buffer buffer length
+count

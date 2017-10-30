@@ -1,0 +1,33 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+creat invok instruct
+param class call class
+param call method
+param ret type return type method
+param arg type argument type method
+param kind invok invokeinterfac invokestat invokevirtu
+invokespeci
+constant
+invok instruct invokeinstruct creat invok createinvok string class string type ret type
+type arg type kind
+index
+narg
+string signatur type method signatur getmethodsignatur ret type arg type
+arg type length int arg type length count size argument
+narg arg type size getsiz
+kind constant invokeinterfac
+index add interfac methodref addinterfacemethodref class signatur
+index add methodref addmethodref class signatur
+kind
+constant invokespeci invokespeci index
+constant invokevirtu invokevirtu index
+constant invokestat invokestat index
+constant invokeinterfac invokeinterfac index narg
+runtim except runtimeexcept oop unknown invok kind kind

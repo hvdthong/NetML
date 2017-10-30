@@ -1,0 +1,9 @@
+org aspectj ajdt intern core builder
+author mik kersten
+asm element formatt asmelementformatt
+accept argument acceptargu string string type
+char charat type char charat
+start startswith ajc
+type equal org aspectj lang joinpoint staticpart
+type equal org aspectj lang joinpoint
+type equal org aspectj runtim intern aroundclosur

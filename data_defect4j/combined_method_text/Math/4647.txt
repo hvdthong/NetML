@@ -1,0 +1,15 @@
+postmultipli matrix code
+interfac defin field valu matrix basic algebra oper
+org apach common math linear
+param type field element
+matrix element index base code entri getentri code
+param matrix postmultipli
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+return result postmultipli
+field matrix fieldmatrix multipli field matrix fieldmatrix illeg argument except illegalargumentexcept
+version revis date
+column dimens columndimens row dimens rowdimens
+field matrix fieldmatrix multipli field matrix fieldmatrix
+code code
+illeg argument except illegalargumentexcept

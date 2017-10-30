@@ -1,0 +1,26 @@
+author stephen colebourn
+classnam end endswith
+author norm dean
+version
+convert jl style
+buffer classnamebuff append append classnam append
+string buffer stringbuff buffer classnamebuff string buffer stringbuff
+class util classutil
+string proper class toproperclassnam string classnam
+string abbrevi string abbrevi map abbreviationmap classnam
+author gari gregori
+oper class reflect
+abbrevi
+param classnam
+null argument except nullargumentexcept classnam
+org apach common lang
+classnam string util stringutil delet whitespac deletewhitespac classnam
+classnam buffer classnamebuff string tostr
+buffer classnamebuff append abbrevi
+classnam
+method document behaviour detail
+buffer classnamebuff append
+convert
+handl invalid code code input
+author alban peignier
+classnam classnam substr classnam length

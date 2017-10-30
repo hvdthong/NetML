@@ -1,0 +1,11 @@
+org aspectj apach bcel gener
+multianewarrai creat mutidimension arrai refer
+pre stack count1 count2 arrayref pre
+version multianewarrai java aclement exp
+author href mailto marku dahm berlin dahm
+multianewarrai instruct cpinstruct load class loadclass alloc instruct allocationinstruct except thrower exceptionthrow
+object type objecttyp load class type getloadclasstyp constant pool gen constantpoolgen cpg
+type type gettyp cpg
+arrai type arraytyp
+arrai type arraytyp basic type getbasictyp
+object type objecttyp object type objecttyp

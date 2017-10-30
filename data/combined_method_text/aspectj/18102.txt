@@ -1,0 +1,22 @@
+org aspectj util
+file util fileutil
+make child directori parent
+param parent file parent writabl
+param child prefix child directori
+return file dir exist parentdir parent file null
+file make child dir makenewchilddir file parent string child
+parent parent write canwrit parent directori isdirectori
+illeg argument except illegalargumentexcept bad parent parent
+child
+child makenewchilddir
+valid file isvalidfilenam child
+illeg argument except illegalargumentexcept bad child child
+file result file parent child
+safeti
+string suffix file util fileutil random file string randomfilestr
+safeti result exist
+suffix file util fileutil random file string randomfilestr
+result file parent child suffix
+result result exist
+system err println exhaust file child dir parent
+result mkdir result exist result

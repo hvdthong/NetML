@@ -1,0 +1,12 @@
+creat fix stepsiz link order integr firstorderintegr
+fix step integr
+version revis date mer nov
+order integr firstorderintegr classic rung kutta integr newclassicalrungekuttaintegr step
+classic rung kutta integr classicalrungekuttaintegr step
+provid implement function gener
+param step fix stepsiz
+integr
+factori buid link classic rung kutta integr classicalrungekuttaintegr
+org apach common math od
+order integr factori impl firstorderintegratorfactoryimpl
+classic rung kutta integr

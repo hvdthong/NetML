@@ -1,0 +1,26 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+return type signatur byte defin constant
+param signatur format
+return type signatur
+constant
+type signatur typeofsignatur string signatur class format except classformatexcept
+signatur char charat
+constant byte byte
+constant char char
+constant doubl doubl
+constant float float
+constant int int
+constant long long
+constant refer refer
+constant arrai arrai
+constant void void
+constant boolean boolean
+constant short short
+class format except classformatexcept invalid method signatur signatur
+string index bound except stringindexoutofboundsexcept
+class format except classformatexcept invalid method signatur signatur

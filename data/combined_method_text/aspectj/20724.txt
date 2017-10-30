@@ -1,0 +1,173 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung method mungenewmethod bcel class weaver bcelclassweav weaver method type munger newmethodtypemung munger
+world weaver world getworld
+resolv sort tvar
+resolv member resolvedmemb mangl inter method unmangledintermethod munger signatur getsignatur resolv
+match unmangl add mangl method
+resolv member resolvedmemb inter method bodi intermethodbodi munger declar inter method bodi getdeclaredintermethodbodi aspect type aspecttyp
+resolv member resolvedmemb inter method dispatch intermethoddispatch munger declar inter method dispatch getdeclaredintermethoddispatch aspect type aspecttyp
+resolv member resolvedmemb member hold annot memberholdinganyannot inter method dispatch intermethoddispatch
+resolv type resolvedtyp type ontyp weaver world getworld resolv mangl inter method unmangledintermethod declar type getdeclaringtyp munger sourc locat getsourceloc
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+mung interfac munginginterfac gen interfac isinterfac
+type ontyp raw type israwtyp type ontyp type ontyp gener type getgenerictyp
+interfac oninterfac type ontyp interfac isinterfac
+simpl check itd annot enum
+type ontyp annot isannot
+signal error signalerror weaver messag weavermessag itdm annot allow itdm annot allow weaver type ontyp
+type ontyp enum isenum
+signal error signalerror weaver messag weavermessag itdm enum allow itdm enum allow weaver type ontyp
+interfac oninterfac gen lazi method gen getlazymethodgen mangl inter method unmangledintermethod getnam mangl inter method unmangledintermethod signatur getsignatur
+provid default implement method
+target declar
+process intend itd target type interfac
+type ontyp equal gen type gettyp
+resolv member resolvedmemb mangl inter method mangledintermethod
+ajc member maker ajcmembermak inter method intermethod mangl inter method unmangledintermethod aspect type aspecttyp interfac oninterfac
+lazi method gen lazymethodgen method newmethod make method gen makemethodgen gen mangl inter method mangledintermethod
+mung interfac munginginterfac
+modifi itd implementor
+interfac method add interfac public abstract
+method newmethod set access flag setaccessflag modifi public modifi abstract
+pr98901
+copi annot discov real member aspect
+hold
+weaver world getworld java5 mode isinjava5mod
+annot annotationx annot real member annotationsonrealmemb
+resolv type resolvedtyp tolookon aspect type aspecttyp
+aspect type aspecttyp raw type israwtyp tolookon aspect type aspecttyp gener type getgenerictyp
+resolv member resolvedmemb real member realmemb real member itd aspect getrealmemberforitdfromaspect tolookon member hold annot memberholdinganyannot
+real member realmemb except bcexcept find itd holder member
+member hold annot memberholdinganyannot aspect aspect type aspecttyp
+annot real member annotationsonrealmemb real member realmemb annot getannot
+annot real member annotationsonrealmemb
+annot real member annotationsonrealmemb length
+annot annotationx annot annotationx annot real member annotationsonrealmemb
+annot annot annotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen weaver lazi class gen getlazyclassgen constant pool gen getconstantpoolgen
+method newmethod add annot addannot annot annotationx annot getannot weaver world getworld
+loop fix special stupid
+case aspect declar annot
+itd declar
+list decam alldecam weaver world getworld declar annot method getdeclareannotationonmethod
+iter decam alldecam iter hasnext
+declar annot declareannot deca decamc declar annot declareannot
+deca decamc match mangl inter method unmangledintermethod weaver world getworld
+method newmethod enclos class getenclosingclass type gettyp aspect type aspecttyp
+method newmethod add annot addannot deca decamc annot getannotationx
+target interfac bodi isnt abstract
+interfac oninterfac modifi abstract isabstract mangl inter method mangledintermethod modifi getmodifi
+instruct list instructionlist bodi method newmethod bodi getbodi
+instruct factori instructionfactori fact gen factori getfactori
+po
+mangl inter method unmangledintermethod static isstat
+bodi append instruct factori instructionfactori creat createthi
+po
+type param type paramtyp bcel world bcelworld make bcel type makebceltyp mangl inter method mangledintermethod paramet type getparametertyp
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+po param type paramtyp size getsiz
+bodi append util creat invok createinvok fact weaver world getworld inter method bodi intermethodbodi
+bodi append
+instruct factori instructionfactori creat return createreturn
+bcel world bcelworld make bcel type makebceltyp mangl inter method mangledintermethod return type getreturntyp
+weaver world getworld java5 mode isinjava5mod weaver getworld isinjava5mod bridg method mode
+creat bridg method covari createanybridgemethodsforcovari weaver munger mangl inter method unmangledintermethod type ontyp gen param type paramtyp
+getbodi null throw runtimeexcept ba
+xxx make check set except properli gui
+weaver add lazi method gen addlazymethodgen method newmethod
+weaver lazi class gen getlazyclassgen warn ad method warnonaddedmethod method newmethod method getmethod signatur getsignatur sourc locat getsourceloc
+add need super call method addneededsupercallmethod weaver type ontyp munger super method call getsupermethodscal
+interfac oninterfac modifi abstract isabstract mangl inter method unmangledintermethod modifi getmodifi
+mean 'gen' top implementor
+wrong work
+top implementor pr49657
+gen type gettyp topmost implementor istopmostimplementor type ontyp
+resolv type resolvedtyp rtx gen type gettyp topmost implementor gettopmostimplementor type ontyp
+rtx expos weaver isexposedtoweav
+sourc locat isourceloc loc sloc munger sourc locat getsourceloc
+weaver world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag itd expos implementor itd expos implementor rtx aspect type getaspecttyp getnam
+loc sloc aspect type getaspecttyp sourc locat getsourceloc loc sloc
+xxx state
+incorrectli identifi top implementor
+type expos weaver
+resolv member resolvedmemb mangl inter method mangledintermethod
+ajc member maker ajcmembermak inter method intermethod mangl inter method unmangledintermethod aspect type aspecttyp
+lazi method gen lazymethodgen make method gen makemethodgen gen mangl inter method mangledintermethod
+copi annot
+weaver world getworld java5 mode isinjava5mod
+annot annotationx annot real member annotationsonrealmemb
+resolv type resolvedtyp tolookon aspect type aspecttyp
+aspect type aspecttyp raw type israwtyp tolookon aspect type aspecttyp gener type getgenerictyp
+resolv member resolvedmemb real member realmemb real member itd aspect getrealmemberforitdfromaspect tolookon member hold annot memberholdinganyannot
+real member realmemb except bcexcept find itd holder member
+member hold annot memberholdinganyannot aspect aspect type aspecttyp
+annot real member annotationsonrealmemb real member realmemb annot getannot
+annot real member annotationsonrealmemb
+annot real member annotationsonrealmemb length
+annot annotationx annot annotationx annot real member annotationsonrealmemb
+annot annot annotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen weaver lazi class gen getlazyclassgen constant pool gen getconstantpoolgen
+add annot addannot annot annotationx annot getannot weaver world getworld
+mung interfac munginginterfac
+modifi itd implementor
+interfac method add interfac public abstract
+set access flag setaccessflag modifi public modifi abstract
+type param type paramtyp bcel world bcelworld make bcel type makebceltyp mangl inter method mangledintermethod paramet type getparametertyp
+type return type returntyp bcel world bcelworld make bcel type makebceltyp mangl inter method mangledintermethod return type getreturntyp
+instruct list instructionlist bodi bodi getbodi
+instruct factori instructionfactori fact gen factori getfactori
+po
+mangl inter method mangledintermethod static isstat
+bodi append instruct factori instructionfactori creat createthi
+po
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+po param type paramtyp size getsiz
+bodi append util creat invok createinvok fact weaver world getworld inter method bodi intermethodbodi
+type bcel world bcelworld make bcel type makebceltyp inter method bodi intermethodbodi return type getreturntyp
+equal return type returntyp
+bodi append fact creat cast createcast return type returntyp
+bodi append instruct factori instructionfactori creat return createreturn return type returntyp
+defin type definingtyp type ontyp
+weaver add replac lazi method gen addorreplacelazymethodgen
+add need super call method addneededsupercallmethod weaver type ontyp munger super method call getsupermethodscal
+work bridg method method ad topmostimplementor
+munger declar signatur getdeclaredsignatur munger getdeclaredsignatur null check munger process parameter form origin munger
+needsbridg
+resolv member resolvedmemb bridg tobridgeto munger declar signatur getdeclaredsignatur parameter parameterizedwith munger signatur getsignatur declar type getdeclaringtyp resolv world getworld munger type variabl alias gettypevariablealias
+bridg tobridgeto return type getreturntyp erasur signatur geterasuresignatur equal munger signatur getsignatur return type getreturntyp erasur signatur geterasuresignatur needsbridg
+unresolv type unresolvedtyp origin param originalparam bridg tobridgeto paramet type getparametertyp
+unresolv type unresolvedtyp param newparam munger signatur getsignatur paramet type getparametertyp
+origin param originalparam length
+origin param originalparam erasur signatur geterasuresignatur equal param newparam erasur signatur geterasuresignatur needsbridg
+bridg tobridgeto needsbridg
+resolv member resolvedmemb bridger method bridgermethod ajc member maker ajcmembermak bridger inter method bridgertointermethod mangl inter method unmangledintermethod gen type gettyp
+resolv member resolvedmemb bridg setter bridgingsett ajc member maker ajcmembermak inter method intermethod bridg tobridgeto aspect type aspecttyp
+fixm asc extract method
+lazi method gen lazymethodgen bridg method bridgemethod make method gen makemethodgen gen bridg setter bridgingsett
+param type paramtyp bcel world bcelworld make bcel type makebceltyp bridg setter bridgingsett paramet type getparametertyp
+type bridg parm bridgingtoparm bcel world bcelworld make bcel type makebceltyp mangl inter method unmangledintermethod paramet type getparametertyp
+return type returntyp bcel world bcelworld make bcel type makebceltyp bridg setter bridgingsett return type getreturntyp
+bodi bridg method bridgemethod bodi getbodi
+fact gen factori getfactori
+po
+bridg setter bridgingsett static isstat
+bodi append instruct factori instructionfactori creat createthi
+po
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+bridg setter bridgingsett paramet type getparametertyp erasur signatur geterasuresignatur equal mangl inter method unmangledintermethod paramet type getparametertyp erasur signatur geterasuresignatur
+system err println put cast paramtyp bridgingtoparm
+bodi append fact creat cast createcast param type paramtyp bridg parm bridgingtoparm
+po param type paramtyp size getsiz
+bodi append util creat invok createinvok fact weaver world getworld bridger method bridgermethod
+bodi append instruct factori instructionfactori creat return createreturn return type returntyp
+gen add method gen addmethodgen bridg method bridgemethod
+definingtyp ontyp
+fixm asc extract method

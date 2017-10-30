@@ -1,0 +1,10 @@
+deprec remov
+org apach common math3 stat cluster
+point
+cluster hold set link cluster point
+point contain cluster
+link org apach common math3 cluster cluster
+version
+param type point cluster
+list point getpoint
+cluster cluster serializ

@@ -1,0 +1,13 @@
+org aspectj util
+file util fileutil
+render file canon absolut
+param file file file null
+return file path
+throw illegalargumentexcept file null
+file file getbestfil file file
+lang util langutil throw iax null throwiaxifnul file file
+file exist
+file canon file getcanonicalfil
+except ioexcept
+file absolut file getabsolutefil
+file

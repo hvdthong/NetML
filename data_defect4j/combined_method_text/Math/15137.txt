@@ -1,0 +1,22 @@
+link abstract simplex abstractsimplex constructor set step
+org apach common math3 optim direct
+simplex optim simplexoptim
+user call link build build method order
+abstract simplex abstractsimplex
+initi configur simplex set constructor
+simplex concept
+compar point pair pointvaluepair compar
+version
+param compar compar sort simplex vertic
+iter multivari function multivariatefunct evalu function evaluationfunct
+param evalu function evaluationfunct evalu function
+algorithm fail converg
+link abstract simplex abstractsimplex link abstract simplex abstractsimplex
+worst
+creat data structur act method
+org apach common math3 except evalu except toomanyevaluationsexcept
+deprec remov
+abstract simplex abstractsimplex optim data optimizationdata
+intend conjunct link simplex optim simplexoptim
+comput simplex algorithm
+build configur unit hypercub

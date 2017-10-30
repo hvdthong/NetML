@@ -1,0 +1,10 @@
+org apach tool ant filter
+wrap string inputstream
+author magesh umasankar
+string input stream stringinputstream
+reset stringread
+except ioexcept stringread fail reset
+reset except ioexcept
+except ioexcept stream close
+slack
+reset

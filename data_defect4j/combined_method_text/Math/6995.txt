@@ -1,0 +1,103 @@
+integ ratio allow
+system arraycopi interpol interpol state getinterpolatedst
+step nextinstep
+deriv lastderiv deriv lastderiv length
+param interpol interpol accept step
+integr rang integ multipl stepsiz
+integr direct account
+store step storestep interpol interpol current time getcurrenttim
+forward link step normal mode stepnormalizermod multipl multipl link step normal bound stepnormalizerbound
+integr time
+handler output step
+bgcolor ccccff colspan font size exampl step size font
+time lasttim time nexttim
+wrapper fix step handler gener
+wrap object implement link fix step handler fixedstephandl
+time lasttim interpol previou time getprevioustim
+fix step handler fixedstephandl handl step handlestep handl step handlestep method underli
+normal step donormalizedstep add addlast
+point belong interv tend
+forward interpol current time getcurrenttim time lasttim
+time nexttim mode step normal mode stepnormalizermod increment
+store step storestep interpol time nexttim
+org apach common math od sampl
+link step normal bound stepnormalizerbound bound output font
+integr guaranti integr step
+state laststat state laststat length
+tend
+build local copi clone method store
+version
+precis equal time nexttim time lasttim
+version revis date
+time updat state start inform
+step normal bound stepnormalizerbound
+effici purpos integr reus
+handler handl step handlestep time lasttim state laststat deriv lastderiv
+normal time influenc link step normal mode stepnormalizermod
+step normal stepnorm step handler stephandl
+bgcolor eeeeff font size start time end time
+step normal mode stepnormalizermod
+fast math fastmath floor time lasttim
+time nexttim time lasttim
+point handl endpoint integr tend
+normal step donormalizedstep
+system arraycopi interpol interpol deriv getinterpolatedderiv
+math user except mathuserexcept except propag
+store flag
+step
+time lasttim interpol current time getcurrenttim
+store step step
+add addlast bound includ lastinclud
+remain constant accept gener step
+link fix step handler fixedstephandl object call begin time
+mode step normal mode stepnormalizermod multipl
+math util mathutil equal time nexttim time lasttim
+object call instanc
+process normal step current step
+interpol set interpol time setinterpolatedtim time lasttim
+deriv except derivativeexcept
+deriv lastderiv interpol interpol deriv getinterpolatedderiv clone
+handl accept step
+handler
+forward
+time step longer shorter fix time step
+param islast step
+backward link step normal mode stepnormalizermod multipl multipl link step normal bound stepnormalizerbound
+copi
+flag
+fix step handler fixedstephandl
+handl step handlestep step interpol stepinterpol interpol islast
+state laststat interpol interpol state getinterpolatedst clone
+link step normal bound stepnormalizerbound
+caller underli user function trigger
+islast math user except mathuserexcept
+tabl border align center
+handl step handlestep step interpol stepinterpol interpol
+step nextinstep forward time nexttim interpol current time getcurrenttim
+constraint integr time step
+islast
+link step handler stephandl
+backward link step normal mode stepnormalizermod increment increment link step normal bound stepnormalizerbound
+time nexttim
+constraint integr
+continu model valid integr rang
+tabl
+stepsiz select construct time link
+forward link step normal mode stepnormalizermod increment increment link step normal bound stepnormalizerbound
+add addlast
+direct link step normal mode stepnormalizermod mode
+time firsttim interpol previou time getprevioustim
+call provid end integr
+move step
+timestep time step longer shorter fix time
+store step
+calcul normal step time
+link fix step handler fixedstephandl object call normal time
+output store previou step
+step store
+state laststat
+deriv except derivativeexcept except propag
+step nextinstep step isnextinstep time nexttim interpol
+step integ ratio allow
+step handler stephandl
+time lasttim

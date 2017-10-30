@@ -1,0 +1,26 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+string signatur string tosignaturestr fulli qualifi arg type getfullyqualifiedargtyp
+string buffer stringbuff string buffer stringbuff
+append
+list ptype paramet type getparametertyp
+ptype ptype empti isempti
+kind equal program element iprogramel kind method
+kind equal program element iprogramel kind constructor
+kind equal program element iprogramel kind advic
+kind equal program element iprogramel kind pointcut
+kind equal program element iprogramel kind inter type method inter type method
+kind equal program element iprogramel kind inter type constructor inter type constructor
+append
+iter ptype iter hasnext
+arg
+fulli qualifi arg type getfullyqualifiedargtyp
+append arg
+index char oper charoper index lastindexof arg
+index
+append char oper charoper subarrai arg index arg length
+append arg
+hasnext append
+append
+string tostr

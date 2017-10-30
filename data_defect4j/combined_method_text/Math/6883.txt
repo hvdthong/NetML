@@ -1,0 +1,107 @@
+set equat setequ equat
+abstract step interpol abstractstepinterpol interpol
+inherit doc inheritdoc
+rung kutta step interpol rungekuttastepinterpol interpol rung kutta step interpol rungekuttastepinterpol prototyp copi
+stepsiz control step
+manag step accept stepaccept step nextstep
+rki reiniti equat tmp ytmp dot ydotk forward
+nextislast
+interpol store time storetim step start stepstart
+step laststep
+math user except mathuserexcept integr except integratorexcept
+dot ydotk length
+comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+discret event handl
+stop time stoptim
+invalid deriv recomput
+dot ydotk stage
+interpol shift
+handler handl step handlestep interpol step laststep
+step handler stephandl handler step handler stephandl
+combin event manag combinedeventsmanag manag add end time checker addendtimecheck event handler manag eventshandlersmanag
+step size stepsiz forward step step
+equat comput deriv computederiv step start stepstart dot ydotk
+step size stepsiz step
+stage length
+euler integr eulerintegr
+method explicit rung kutta method butcher
+step start stepstart accept step acceptstep interpol dot tmp ydottmp
+make step size set step
+step start stepstart step nextstep
+code fail handl
+step start stepstart
+version
+a31 a32
+version revis date
+rki reiniti tmp ytmp dot ydotk forward
+step accept
+system arraycopi dot ydotk stage dot tmp ydottmp length
+system arraycopi tmp ytmp length
+rung kutta step interpol rungekuttastepinterpol rki rung kutta step interpol rungekuttastepinterpol prototyp copi
+stop time stoptim step start stepstart
+set integr control object
+small due limit accuraci
+tmp ytmp step size stepsiz sum
+reset evalu resetevalu
+set interpol share integr arrai
+interpol store time storetim step nextstep
+stage
+loop loop
+length
+provid step data step handler
+nextt step start stepstart step size stepsiz
+step size stepsiz manag event time geteventtim step start stepstart
+step nextstep step start stepstart step size stepsiz
+arrai
+fast math fastmath ab fast math fastmath ulp step start stepstart
+manag reset step start stepstart step laststep
+midpoint integr midpointintegr
+set artifici size step copi state
+reject step match time
+forward
+deriv except derivativeexcept integr except integratorexcept
+manag event time geteventtim step start stepstart
+as1 as2 ass
+estim state end step
+creat intern work arrai
+math ab math ulp step start stepstart
+rung kutta integr rungekuttaintegr abstract integr abstractintegr
+tmp ytmp length
+integr order differenti equat firstorderdifferentialequ equat
+interpol reiniti tmp ytmp dot ydotk forward
+equat comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+step laststep manag stop
+requir dens output requiresdenseoutput event handler manag eventshandlersmanag empti isempti
+reject step lead small step accept
+interpol rki
+main integr loop
+step size stepsiz step start stepstart
+comput deriv computederiv step start stepstart dot ydotk
+loop
+manag evalu step evaluatestep interpol
+pre
+a21
+org apach common math od nonstiff
+nextislast forward nextt nextt
+interpol store time storetim
+step size stepsiz
+interpol store time storetim step start stepstart step size stepsiz
+gill integr gillintegr
+simpli truncat step reject current comput
+sum dot ydotk
+set state initi setstateiniti
+step size stepsiz doubl nan
+system arraycopi length
+dot tmp ydottmp length
+event handler trigger
+interpol dummi step interpol dummystepinterpol tmp ytmp forward
+interpol dummi step interpol dummystepinterpol tmp ytmp dot ydotk stage forward
+saniti check sanitycheck equat
+integr ordinari differenti equat
+handler reset
+common part fix step rung kutta
+classic rung kutta integr classicalrungekuttaintegr
+prepar step
+loop comput state truncat step
+step islaststep
+step start stepstart doubl nan

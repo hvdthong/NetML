@@ -1,0 +1,35 @@
+org aspectj weaver pattern
+type pertypewithin claus perclaus
+claus perclaus concret resolv type resolvedtyp aspect inaspect
+type pertypewithin ret type pertypewithin type pattern typepattern
+ret copi locat copylocationfrom
+ret aspect inaspect aspect inaspect
+aspect inaspect abstract isabstract ret
+world world aspect inaspect world getworld
+signatur pattern signaturepattern sigpat signatur pattern signaturepattern
+member static initi static initi
+modifi pattern modifierspattern
+type pattern typepattern
+type pattern typepattern typepattern typepattern
+pattern namepattern
+type pattern list typepatternlist
+throw pattern throwspattern
+annot type pattern annotationtypepattern
+pointcut static init star staticinitstar kind pointcut kindedpointcut shadow static initi staticiniti sigpat
+pointcut withintp pointcut withinpointcut type pattern typepattern
+pointcut pcut andpcut pointcut andpointcut static init star staticinitstar withintp
+pointcut 'staticiniti typepattern
+shortcut staticiniti typepattern
+doesnt thing
+munger initi aspect instanc field match type
+aspect inaspect crosscut member crosscuttingmemb add concret shadow munger addconcreteshadowmung advic make type entri makepertypewithinentri world pcut andpcut aspect inaspect
+resolv type munger resolvedtypemung munger type target type munger pertypewithintargettypemung aspect inaspect ret
+aspect inaspect crosscut member crosscuttingmemb add type munger addtypemung world concret type munger concretetypemung munger aspect inaspect
+ataj add munger add aspectof aspect
+aspect inaspect annot style aspect isannotationstyleaspect aspect inaspect abstract isabstract
+aspect inaspect crosscut member crosscuttingmemb add late type munger addlatetypemung
+aspect inaspect world getworld make claus aspect makeperclauseaspect aspect inaspect kind getkind
+ataj inlin advic support late munger inl
+aspect inaspect annot style aspect isannotationstyleaspect aspect inaspect world getworld xno inlin isxnoinlin
+aspect inaspect crosscut member crosscuttingmemb add type munger addtypemung bcel access inlin munger bcelaccessforinlinemung aspect inaspect
+ret

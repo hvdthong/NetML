@@ -1,0 +1,9 @@
+author stephen colebourn
+org joda time chrono
+author gui allard
+refactor weekyear date time field gjweekyeardatetimefield
+chronolog ichronolog week year getweeksinyear chronolog ichronolog weekyear getweekyear instant
+time calcul week weekyear compon time
+author brian neill o'neil
+leap amount getleapamount instant
+basic weekyear date time field basicweekyeardatetimefield imprecis date time field imprecisedatetimefield

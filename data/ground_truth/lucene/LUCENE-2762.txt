@@ -1,0 +1,8 @@
+src/java/org/apache/lucene/index/IndexWriter__mergeInit-MergePolicy.OneMerge_void
+src/java/org/apache/lucene/index/IndexWriter_commitMerge-MergePolicy.OneMerge-SegmentMerger-int-SegmentReader_boolean
+src/java/org/apache/lucene/index/IndexWriter_decrefMergeSegments-MergePolicy.OneMerge_void
+src/java/org/apache/lucene/index/IndexWriter_flushDocStores_boolean
+src/java/org/apache/lucene/index/IndexWriter_mergeFinish-MergePolicy.OneMerge_void
+src/java/org/apache/lucene/index/IndexWriter_mergeMiddle-MergePolicy.OneMerge_int
+src/java/org/apache/lucene/index/IndexWriter_setMergeDocStoreIsCompoundFile-MergePolicy.OneMerge_void
+src/java/org/apache/lucene/index/SegmentMerger_createCompoundFile-String-SegmentInfo_List<String>

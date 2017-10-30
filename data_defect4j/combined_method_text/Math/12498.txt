@@ -1,0 +1,11 @@
+string string tostr number format numberformat format
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+param type field element
+inherit doc inheritdoc
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+instanc guarante immut
+version
+vector3 format vector3dformat format format vector3 tovector3d
+param format custom format compon
+string represent vector

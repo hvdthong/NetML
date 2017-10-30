@@ -1,0 +1,12 @@
+dot product dotproduct
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+extend field element extendedfieldel dot product dotproduct field vector3 fieldvector3d
+param type field element
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+instanc guarante immut
+version
+comput dot product vector
+vector3 vector3d
+param vector
+dot product

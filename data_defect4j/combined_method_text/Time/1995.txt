@@ -1,0 +1,17 @@
+author stephen colebourn
+date time util datetimeutil current time milli currenttimemilli iso chronolog isochronolog instanc getinst zone
+author kandarp shah
+construct instanc set current system millisecond time
+link readabl date time readabledatetim
+time zone zone
+base date time basedatetim implement readabl date time readabledatetim store
+kind date time object referenc
+code iso chronolog isochronolog code time zone
+base date time basedatetim
+org joda time base
+author brian neill o'neil
+param zone time zone mean zone
+gener directli api user
+base date time basedatetim subclass mutabl thread safe
+base date time basedatetim date time zone datetimezon zone
+data code code code chronolog code field

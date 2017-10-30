@@ -1,0 +1,11 @@
+param checker converg checker
+jacobian error estim
+base implement squar optim
+abstract squar optim abstractleastsquaresoptim
+org apach common math optim gener
+abstract squar optim abstractleastsquaresoptim converg checker convergencecheck vectori point pair vectorialpointvaluepair checker
+param max evalu maxevalu maxim number function evalu
+max evalu maxevalu
+checker max evalu maxevalu
+version revis date
+handl boilerpl method threshold set

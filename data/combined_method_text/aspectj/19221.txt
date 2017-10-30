@@ -1,0 +1,7 @@
+org aspectj weaver
+constructor type munger newconstructortypemung resolv type munger resolvedtypemung
+check world world
+signatur getsignatur declar type getdeclaringtyp resolv world aspect isaspect
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag itd con aspect itd con aspect
+signatur getsignatur sourc locat getsourceloc

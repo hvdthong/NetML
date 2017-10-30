@@ -1,0 +1,20 @@
+method return bia correct sampl varianc code
+stat util statutil method comput statist base data
+varianc evalu valu
+version
+detail comput algorithm
+denomin link popul varianc populationvari bia correct
+return varianc entri input arrai
+param valu input arrai
+throw code illeg argument except illegalargumentexcept code arrai
+stat util statutil
+store arrai
+org apach common math stat
+popul varianc
+varianc valu doubl nan arrai empti
+version revis date
+link org apach common math stat descript moment varianc
+code doubl nan code arrai empti
+illeg argument except illegalargumentexcept arrai
+varianc valu
+return singl length sampl

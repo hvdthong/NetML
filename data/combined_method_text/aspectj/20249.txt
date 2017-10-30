@@ -1,0 +1,22 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+pars pointcut return null failur issu error
+param pointcutstr
+param struct
+param allowif
+return pointcut unresolv
+pointcut pars pointcut parsepointcut string pointcut string pointcutstr attribut struct ajattributestruct struct allowif
+pattern parser patternpars parser pattern parser patternpars pointcut string pointcutstr struct context
+pointcut pointcut parser pars pointcut parsepointcut
+parser check eof checkeof
+pointcut check struct enclos type enclosingtyp world getworld
+allowif pointcut string pointcutstr index indexof hasif pointcut
+report error reporterror pointcut allow pointcut locat pointcut string pointcutstr struct
+pointcut set locat setloc struct context pointcut setloc struct context fixm good
+pointcut
+parser except parserexcept
+report error reporterror invalid pointcut pointcut string pointcutstr string tostr
+locat getloc posit locat getloc start getstart struct

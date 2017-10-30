@@ -1,0 +1,29 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+write data output stream dataoutputstream except ioexcept
+kind getkind write
+declar type getdeclaringtyp write
+write int writeint modifi
+write utf writeutf getnam
+write utf writeutf signatur getsignatur
+unresolv type unresolvedtyp write arrai writearrai except getexcept
+write int writeint start getstart
+write int writeint end getend
+write boolean writeboolean vararg method isvarargsmethod
+write type variabl
+type variabl typevari
+write int writeint
+write int writeint type variabl typevari length
+type variabl typevari length
+type variabl typevari write
+string gsig gener signatur getgenericsignatur
+signatur getsignatur equal gsig
+write boolean writeboolean
+write boolean writeboolean
+write int writeint paramet type parametertyp length
+paramet type parametertyp length
+unresolv type unresolvedtyp arrai element paramet type parametertyp
+arrai element write
+return type returntyp write

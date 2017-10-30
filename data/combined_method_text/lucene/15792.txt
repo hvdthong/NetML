@@ -1,0 +1,12 @@
+org apach lucen search
+queri match document
+match doc queri matchalldocsqueri queri
+overrid
+explan explain reader context readercontext context doc
+explain queri weight
+explan queri expl queryexpl complex explan complexexplan
+getvalu matchalldocsqueri product
+boost getboost
+queri expl queryexpl add detail adddetail explan boost getboost boost
+queri expl queryexpl add detail adddetail explan queri norm querynorm querynorm
+queri expl queryexpl

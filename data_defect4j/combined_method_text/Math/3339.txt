@@ -1,0 +1,31 @@
+overrid
+bsp tree bsptree euclidean1 euclidean1d minu tree minustre remain region getremainingregion empti isempti split tree splittre minu getminu
+direct fast math fastmath sin line thislin angl getangl line otherlin angl getangl
+line line thislin line hyperplan gethyperplan
+inherit doc inheritdoc
+global
+bsp tree bsptree euclidean1 euclidean1d minu subminu bsp tree bsptree euclidean1 euclidean1d boolean fals
+split hyperplan splitsubhyperplan euclidean2 euclidean2d split hyperplan euclidean2 euclidean2d hyperplan
+line intersect
+line sublin line thislin copi copyself interv set intervalsset minu tree minustre
+vector2 vector2d cross line thislin intersect line otherlin
+cross
+split hyperplan splitsubhyperplan euclidean2 euclidean2d
+version
+line line otherlin line hyperplan
+vector1 vector1d line thislin space tosubspac cross
+split tree splittre minu getminu
+hyperplan subhyperplan euclidean1 euclidean1d minu subminu orient point orientedpoint direct hyperplan wholehyperplan
+vector1 vector1d vector1 vector1d line thislin space tosubspac cross
+bsp tree bsptree euclidean1 euclidean1d boolean fals
+bsp tree bsptree euclidean1 euclidean1d split tree splittre remain region getremainingregion tree gettre split minu subminu
+bsp tree bsptree euclidean1 euclidean1d tree plustre remain region getremainingregion empti isempti split tree splittre getplu
+bsp tree bsptree euclidean1 euclidean1d subplu bsp tree bsptree euclidean1 euclidean1d boolean fals
+hyperplan subhyperplan euclidean1 euclidean1d subplu orient point orientedpoint direct hyperplan wholehyperplan
+split hyperplan splitsubhyperplan euclidean2 euclidean2d line sublin line thislin copi copyself interv set intervalsset tree plustre
+line parallel
+repres hyperplan link line
+global line otherlin offset getoffset line thislin
+split tree splittre getplu
+org apach common math geometri euclidean twod
+line sublin abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d

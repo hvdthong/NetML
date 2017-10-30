@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+pattern parser patternpars
+declar pars declar annot parsedeclareannot
+start po startpo token sourc tokensourc peek start getstart
+eat identifi eatidentifi declar
+eat
+string kind pars identifi parseidentifi
+eat
+declar ret
+kind equal type
+ret pars declar type parsedeclareattyp
+kind equal method
+ret pars declar method parsedeclareatmethod
+kind equal field
+ret pars declar field parsedeclareatfield
+kind equal constructor
+ret pars declar method parsedeclareatmethod
+parser except parserexcept type method field constructor token sourc tokensourc peek
+eat
+end po endpo token sourc tokensourc peek end getend
+ret set locat setloc sourc context sourcecontext start po startpo end po endpo
+ret

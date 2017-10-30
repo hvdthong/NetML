@@ -1,0 +1,35 @@
+code
+matrix vector product middot
+row dimens match size code
+product transpos code instanc
+vector space direct access coeffici underli matrix
+motiv state
+barrett berri chan demmel donato dongarra
+restrict iter method work repeatedli
+org apach common math linear
+barr1994 barret
+defin linear oper oper real code
+version
+code oper
+dimens mismatch except dimensionmismatchexcept unsupport oper except unsupportedoperationexcept
+real linear oper reallinearoper
+method access coeffici matrix linear system
+vector code option oper implement
+param vector oper
+templat solut linear system build block
+org apach common math except dimens mismatch except dimensionmismatchexcept
+middot user
+link unsupport oper except unsupportedoperationexcept user overrid
+eijkhout pozo romin van der vorst
+method overrid link transpos istranspos
+improv approxim solut accur
+full exploit sparsiti special structur
+unsupport oper except unsupportedoperationexcept oper support
+real vector realvector oper transpos operatetranspos real vector realvector
+href barr1994 barrett
+provid
+blockquot
+return result multipli transpos code oper
+unsupport oper except unsupportedoperationexcept
+suppli subroutin comput permit
+iter method siam

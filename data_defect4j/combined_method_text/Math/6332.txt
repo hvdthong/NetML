@@ -1,0 +1,31 @@
+scale yscale math max math ab math ab
+error ratio greater step reject
+higham hall54 integr highamhall54integr
+org apach common math od
+param estim step start step
+comput high order formula stepsiz control
+estim error estimateerror dot ydotk
+integr embed rung kutta fehlberg integr
+param current step
+method function evalu step
+version revis date
+scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler scale yscale
+tol vec absolut toler vecabsolutetoler
+error ratio ratio
+math sqrt error length
+higham hall integr
+vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler scale yscale
+ordinari differenti equat
+param dot ydotk deriv comput stage
+param estim step end step
+err sum errsum static dot ydotk
+err sum errsum dot ydotk
+automat step initi continu output
+integr embed rung kutta integr
+ratio err sum errsum tol
+comput error ratio
+version higham hall54 integr highamhall54integr java 39z luc
+length
+error
+order local extrapol mode solut
+static length

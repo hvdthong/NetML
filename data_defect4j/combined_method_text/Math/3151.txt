@@ -1,0 +1,30 @@
+vector2 vector2d p10 tp10 vector2 vector2d plane tplane space tosubspac appli p10
+inherit doc inheritdoc
+vector3 vector3d p01 plane oplan space tospac vector2 vector2d
+hyperplan euclidean3 euclidean3d origin
+vector2 vector2d p01 tp01 plane tplane space tosubspac appli p01
+p01 tp01 getx p00 tp00 getx p01 tp01 geti p00 tp00 geti
+hyperplan euclidean3 euclidean3d transform
+cach transform cachedtransform org apach common math geometri euclidean twod line transform gettransform
+origin cach origin cachedorigin
+affin transform affinetransform p10 tp10 getx p00 tp00 getx p10 tp10 geti p00 tp00 geti
+version
+vector3 vector3d p10 plane oplan space tospac vector2 vector2d
+repres region set polyhedron
+affin transform affinetransform
+cach origin cachedorigin plane origin
+vector3 vector3d p01 vector3 vector3d plane oplan space tospac vector2 vector2d
+vector2 vector2d p00 tp00 vector2 vector2d plane tplane space tosubspac appli p00
+chang hyperplan reset hyperplan transform
+line sublin appli transform applytransform cach transform cachedtransform
+hyperplan subhyperplan euclidean2 euclidean2d appli hyperplan subhyperplan euclidean2 euclidean2d
+vector2 vector2d p10 tp10 plane tplane space tosubspac appli p10
+plane plane oplan plane origin
+org apach common math geometri euclidean threed
+vector3 vector3d p00 plane oplan origin getorigin
+vector2 vector2d p00 tp00 plane tplane space tosubspac appli p00
+vector3 vector3d p10 vector3 vector3d plane oplan space tospac vector2 vector2d
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+vector2 vector2d p01 tp01 vector2 vector2d plane tplane space tosubspac appli p01
+plane plane tplane plane transform
+p00 tp00 getx p00 tp00 geti

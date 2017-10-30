@@ -1,0 +1,63 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+take string consum singl complet signatur return
+char consum chopit flag shorten
+type refer java lang string string
+fixm asc creat kind object queri inform parameter bound
+read class type signatur readclasstypesignaturefrom string signatur posn string buffer stringbuff result chopit
+idx posn
+signatur char charat idx
+result append byte
+result append char
+result append doubl
+result append float
+result append int
+result append long
+result append short
+result append boolean
+result append void
+fixm asc state machin check pars stuff
+idx
+semi idx nextsemiidx signatur index indexof idx
+result append signatur substr idx semi idx nextsemiidx
+semi idx nextsemiidx posn
+result append extend
+read class type signatur readclasstypesignaturefrom signatur idx result chopit
+result append super
+read class type signatur readclasstypesignaturefrom signatur idx result chopit
+result append
+case 'l' full class
+parameter
+idx semicolon idxsemicolon signatur index indexof idx int idxsemicolon signatur indexof idx close
+idx angli idxangli signatur index indexof idx
+end sig endofsig idx semicolon idxsemicolon
+idx angli idxangli idx angli idxangli end sig endofsig end sig endofsig idx angli idxangli parameter
+string signatur substr idx end sig endofsig
+string compact class compactclassnam chopit
+result append
+idx end sig endofsig
+finish depend parameter type
+parameter
+idx
+result append
+signatur char charat idx
+idx read class type signatur readclasstypesignaturefrom signatur idx result chopit
+signatur char charat idx result append
+result append idx
+signatur char charat idx runtim except runtimeexcept find end signatur found signatur char charat idx
+idx
+idx posn
+case arrai declar
+dim
+signatur char charat idx dim idx
+idx read class type signatur readclasstypesignaturefrom signatur idx result chopit
+dim result append dim
+idx posn
+class format except classformatexcept invalid signatur
+signatur
+string index bound except stringindexoutofboundsexcept catch stringindexoutofboundsexcept occur
+class format except classformatexcept invalid signatur signatur

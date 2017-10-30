@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+add manifest addmanifest manifest manifest newmanifest
+system println addmanifest newmanifest newmanifest
+manifest
+manifest manifest newmanifest

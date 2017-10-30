@@ -1,0 +1,97 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung constructor mungenewconstructor
+bcel class weaver bcelclassweav weaver
+constructor type munger newconstructortypemung constructor type munger newconstructortypemung
+lazi class gen lazyclassgen current class currentclass weaver lazi class gen getlazyclassgen
+instruct factori instructionfactori fact current class currentclass factori getfactori
+resolv member resolvedmemb constructor member newconstructormemb constructor type munger newconstructortypemung synthet constructor getsyntheticconstructor
+resolv type resolvedtyp type ontyp constructor member newconstructormemb declar type getdeclaringtyp resolv weaver world getworld
+type ontyp raw type israwtyp type ontyp type ontyp gener type getgenerictyp
+type ontyp annot isannot
+signal error signalerror weaver messag weavermessag itdc annot allow itdc annot allow weaver type ontyp
+type ontyp enum isenum
+signal error signalerror weaver messag weavermessag itdc enum allow itdc enum allow weaver type ontyp
+type ontyp equal current class currentclass type gettyp
+resolv member resolvedmemb explicit constructor explicitconstructor constructor type munger newconstructortypemung explicit constructor getexplicitconstructor
+int declaredparametercount newconstructortypemung getdeclaredparametercount
+lazi method gen lazymethodgen
+make method gen makemethodgen current class currentclass constructor member newconstructormemb
+set effect signatur seteffectivesignatur constructor type munger newconstructortypemung signatur getsignatur shadow constructor execut constructorexecut
+pr98901
+copi annot discov real member aspect
+hold
+weaver world getworld java5 mode isinjava5mod
+resolv member resolvedmemb inter method dispatch intermethoddispatch ajc member maker ajcmembermak post introduc constructor postintroducedconstructor aspect type aspecttyp type ontyp constructor type munger newconstructortypemung signatur getsignatur paramet type getparametertyp
+annot annotationx annot real member annotationsonrealmemb
+resolv member resolvedmemb real member realmemb real member itd aspect getrealmemberforitdfromaspect aspect type aspecttyp inter method dispatch intermethoddispatch
+real member realmemb except bcexcept find itd holder member
+inter method dispatch intermethoddispatch aspect aspect type aspecttyp
+annot real member annotationsonrealmemb real member realmemb annot getannot
+annot real member annotationsonrealmemb
+annot real member annotationsonrealmemb length
+annot annotationx annot annotationx annot real member annotationsonrealmemb
+annot annot annotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen weaver lazi class gen getlazyclassgen constant pool gen getconstantpoolgen
+add annot addannot annot annotationx annot getannot weaver world getworld
+loop fix special stupid
+case aspect declar annot
+itd declar
+list decam alldecam weaver world getworld declar annot method getdeclareannotationonmethod
+iter decam alldecam iter hasnext
+declar annot declareannot deca decamc declar annot declareannot
+deca decamc match explicit constructor explicitconstructor weaver world getworld
+enclos class getenclosingclass type gettyp aspect type aspecttyp
+add annot addannot deca decamc annot getannotationx
+current class currentclass add method gen addmethodgen
+weaver addlazymethodgen freshconstructor
+instruct list instructionlist bodi bodi getbodi
+add bodi push art call pre actual arg start skip
+declar argcount
+unresolv type unresolvedtyp declar param declaredparam constructor type munger newconstructortypemung signatur getsignatur paramet type getparametertyp
+type param type paramtyp argument type getargumenttyp
+frame index frameindex
+len declar param declaredparam length len
+bodi append instruct factori instructionfactori creat load createload param type paramtyp frame index frameindex
+frame index frameindex param type paramtyp size getsiz
+call pre
+member pre method premethod
+ajc member maker ajcmembermak pre introduc constructor preintroducedconstructor aspect type aspecttyp type ontyp declar param declaredparam
+bodi append util creat invok createinvok fact pre method premethod
+creat local store return pre stuff
+arrai slot arrayslot alloc local allocateloc
+bodi append instruct factori instructionfactori creat store createstor type object arrai slot arrayslot
+put stack
+bodi append instruct constant instructionconst aload
+unpack pre arg stack
+unresolv type unresolvedtyp super param type superparamtyp explicit constructor explicitconstructor paramet type getparametertyp
+len super param type superparamtyp length len
+bodi append instruct factori instructionfactori creat load createload type object arrai slot arrayslot
+bodi append util creat constant createconst fact
+bodi append instruct factori instructionfactori creat arrai load createarrayload type object
+bodi append
+util creat convers createconvers
+fact
+type object
+bcel world bcelworld make bcel type makebceltyp super param type superparamtyp
+call super
+bodi append util creat invok createinvok fact explicit constructor explicitconstructor
+put back stack
+bodi append instruct constant instructionconst aload
+unpack param stack
+member post method postmethod
+ajc member maker ajcmembermak post introduc constructor postintroducedconstructor aspect type aspecttyp type ontyp declar param declaredparam
+unresolv type unresolvedtyp post param type postparamtyp post method postmethod paramet type getparametertyp
+len post param type postparamtyp length len
+bodi append instruct factori instructionfactori creat load createload type object arrai slot arrayslot
+bodi append util creat constant createconst fact super param type superparamtyp length
+bodi append instruct factori instructionfactori creat arrai load createarrayload type object
+bodi append
+util creat convers createconvers
+fact
+type object
+bcel world bcelworld make bcel type makebceltyp post param type postparamtyp
+call post
+bodi append util creat invok createinvok fact post method postmethod
+forget return
+bodi append instruct constant instructionconst return

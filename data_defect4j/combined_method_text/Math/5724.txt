@@ -1,0 +1,9 @@
+overrid
+org apach common math linear
+inherit doc inheritdoc
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+spars matrix implement base open address map
+spars real matrix sparserealmatrix row dimens rowdimens column dimens columndimens
+version revis date
+real matrix realmatrix creat matrix creatematrix row dimens rowdimens column dimens columndimens
+illeg argument except illegalargumentexcept

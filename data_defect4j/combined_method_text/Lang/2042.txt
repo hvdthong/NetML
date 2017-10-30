@@ -1,0 +1,22 @@
+version
+po set error index seterrorindex start
+inherit doc inheritdoc
+basic meta format metaformat requir configur inform
+format format kei format keyedformat kei trim
+format format format kei format keyedformat kei
+author matt benson
+org apach common lang text
+subformat
+object pars object parseobject string sourc pars posit parseposit po
+trigger subformat
+trigger end
+string kei sourc substr start po index getindex
+po index getindex sourc length po
+sourc charat po index getindex
+format
+format pars object parseobject sourc po
+kei meta format namekeyedmetaformat meta format support metaformatsupport
+start po index getindex
+extend messag format extendedmessageformat
+pars format format extend messag format extendedmessageformat
+link extend messag format extendedmessageformat

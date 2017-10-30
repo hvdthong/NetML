@@ -1,0 +1,12 @@
+set iter evalu count
+converg check set link simpl scalar checker simplescalarvaluecheck
+simpl scalar checker simplescalarvaluecheck
+allow number evalu set link integ max
+base handl boiler plate method threshold
+org apach common math optim direct
+simpl constructor set
+version
+base implement optim multivari scalar function
+param func type object function optim
+base abstract multivari optim baseabstractmultivariateoptim
+base abstract multivari optim baseabstractmultivariateoptim func multivari function multivariatefunct

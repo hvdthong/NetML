@@ -1,0 +1,18 @@
+transpos arrai
+fast math resourc fastmathresourc
+org apach common math util
+param data arrai transpos
+util save load tabul data
+len data length
+data tdata data
+row len rowlen data length
+len
+data tdata
+arrai rectangular number colum row
+version
+transpos data
+data tdata len row len rowlen
+link fast math fastmath
+row len rowlen
+number column vice versa
+transpos dimension arrai number row

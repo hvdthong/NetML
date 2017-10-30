@@ -1,0 +1,17 @@
+org aspectj apach bcel gener
+castor store char arrai
+pre stack arrayref index pre
+version castor java aclement exp
+author href mailto marku dahm berlin dahm
+castor arrai instruct arrayinstruct stack consum stackconsum
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack consum visitstackconsum
+visit except thrower visitexceptionthrow
+visit type instruct visittypedinstruct
+visit arrai instruct visitarrayinstruct
+visit castor visitcastor

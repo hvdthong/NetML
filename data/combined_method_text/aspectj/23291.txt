@@ -1,0 +1,4 @@
+org aspectj weaver tool
+default trace defaulttrac abstract trace abstracttrac
+info string messag
+println format messag formatmessag messag

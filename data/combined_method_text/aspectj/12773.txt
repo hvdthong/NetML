@@ -1,0 +1,36 @@
+org aspectj apach bcel classfil
+class deriv attribut repres refer
+href http wwwipd ira uka pizza attribut
+version signatur java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+signatur attribut
+match ident matchid byte arrai input stream mybytearrayinputstream string buffer stringbuff buf
+read
+runtim except runtimeexcept illeg signatur data getdata
+ident reach eof
+system println return ident char
+ident start identstart
+string buffer stringbuff buf2 string buffer stringbuff
+count
+charact java identifi part isjavaidentifierpart
+buf2 append
+count
+read
+formal paramet
+skip ljava lang object length
+buf append buf2
+read
+unread
+system println buf2 char
+count
+unread
+string buffer stringbuff buf2 string buffer stringbuff
+read
+buf2 append
+read
+system println ident char
+charact java identifi part isjavaidentifierpart
+buf append buf2 string tostr replac
+system println regular return ident char buf2
+unread

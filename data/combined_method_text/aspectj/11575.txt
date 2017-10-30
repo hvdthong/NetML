@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+annot style aspect isannotationstyleaspect
+declar annot
+resolv type resolvedtyp annot annot type getannotationtyp
+annot length
+org aspectj lang annot aspect equal annot getnam

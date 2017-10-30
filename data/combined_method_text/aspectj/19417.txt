@@ -1,0 +1,9 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+sourc locat isourceloc sourc locat getsourceloc
+system println context sourcecontext
+sourc context getsourcecontext
+system err println context
+sourc context getsourcecontext make sourc locat makesourceloc

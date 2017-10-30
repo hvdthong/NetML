@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+class possibl box getpossiblybox unresolv type unresolvedtyp
+class ret class exact type pattern exacttypepattern primit type map primitivetypesmap getnam
+ret ret class exact type pattern exacttypepattern box primit map boxedprimitivesmap getnam
+ret

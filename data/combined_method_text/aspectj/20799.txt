@@ -1,0 +1,39 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+valid singl branch recurs validatesinglebranchrecurs pointcut pointcut user pointcut userpointcut found formal foundform string name pointcut bind
+pointcut notpointcut
+not leav dnf
+pointcut notpointcut pointcut notpointcut
+negat pointcut getnegatedpointcut bind pointcut namebindingpointcut
+bind pointcut namebindingpointcut nnbp bind pointcut namebindingpointcut negat pointcut getnegatedpointcut
+nnbp bind annot type pattern getbindingannotationtypepattern empti isempti nnbp bind type pattern getbindingtypepattern empti isempti
+rais negat bind error raisenegationbindingerror user pointcut userpointcut
+pointcut andpointcut
+pointcut andpointcut pointcut andpointcut
+valid singl branch recurs validatesinglebranchrecurs left getleft user pointcut userpointcut found formal foundform name bind
+valid singl branch recurs validatesinglebranchrecurs getright user pointcut userpointcut found formal foundform name bind
+bind pointcut namebindingpointcut
+list btp bind pointcut namebindingpointcut bind type pattern getbindingtypepattern list bindingtypepattern btp namebindingpointcut getbindingtypepattern
+iter iter btp iter iter hasnext
+bind type pattern bindingtypepattern btp bind type pattern bindingtypepattern iter
+index btp formal index getformalindex
+bind index
+found formal foundform index
+rais ambigu bind error raiseambiguousbindingerror name index user pointcut userpointcut
+found formal foundform index
+list bap bind pointcut namebindingpointcut bind annot type pattern getbindingannotationtypepattern list bindingannotationtypepattern bap namebindingpointcut getbindingannotationtypepattern
+iter iter bap iter iter hasnext
+bind annot type pattern bindingannotationtypepattern bap bind annot type pattern bindingannotationtypepattern iter
+index bap formal index getformalindex
+bind index
+found formal foundform index
+rais ambigu bind error raiseambiguousbindingerror name index user pointcut userpointcut
+found formal foundform index
+concret cflow pointcut concretecflowpointcut
+concret cflow pointcut concretecflowpointcut cfp concret cflow pointcut concretecflowpointcut
+slot cfp formal slot getusedformalslot
+slot length
+bind slot cfp
+found formal foundform slot
+rais ambigu bind error raiseambiguousbindingerror name slot user pointcut userpointcut
+found formal foundform slot

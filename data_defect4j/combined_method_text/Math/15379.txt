@@ -1,0 +1,33 @@
+jacobian evalu jacobianevalu
+param param model paramet comput jacobian
+row equal dimens
+org apach common math3 optim gener
+weight matrix sqrt weightmatrixsqrt multipli matrix util matrixutil creat real matrix createrealmatrix jacobian data jacobiandata
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+comput jacobian matrix
+handl boilerpl method threshold set
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+dimens mismatch except dimensionmismatchexcept dsvalu length
+jacobian data jacobiandata dsvalu partial deriv getpartialderiv order
+deriv structur derivativestructur dsvalu point dspoint
+deriv structur derivativestructur point dspoint deriv structur derivativestructur param length
+version
+construct jacobian matrix function argument method
+target gettarget length
+match problem dimens
+dsvalu length
+abstract squar optim abstractleastsquaresoptim
+dimens mismatch except dimensionmismatchexcept jacobian dimens
+link org apach common math3 optim target target
+weight jacobian
+deprec remov
+jacobian data jacobiandata
+real matrix realmatrix comput weight jacobian computeweightedjacobian param
+point dspoint deriv structur derivativestructur param
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number
+order
+param length

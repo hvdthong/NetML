@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+post read postread resolv type resolvedtyp enclos type enclosingtyp
+return type returntyp
+return type returntyp post read postread enclos type enclosingtyp
+declar type declaringtyp
+declar type declaringtyp post read postread enclos type enclosingtyp
+paramet type parametertyp
+paramet type parametertyp post read postread enclos type enclosingtyp

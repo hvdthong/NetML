@@ -1,0 +1,9 @@
+param func type function solv
+solver
+inherit doc inheritdoc
+solv doubl nan doubl nan start startvalu
+provid implement function gener
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+org apach common math analysi solver
+solv func start startvalu
+version revis date wed nov

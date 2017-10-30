@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+attribut struct ajattributestruct resolv type resolvedtypex type sourc context isourcecontext sourc context sourcecontext messag handler imessagehandl messag handler messagehandl
+enclos type enclosingtyp type
+context sourc context sourcecontext
+handler messag handler messagehandl

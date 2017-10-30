@@ -1,0 +1,12 @@
+org aspectj apach bcel classfil
+class repres type local variabl item stack
+stackmap entri
+version stackmaptyp java aclement exp
+author href mailto marku dahm berlin dahm
+stackmapentri
+stackmap
+constant
+stack map type stackmaptyp cloneabl
+return index constant pool type item object offset
+byte code type item newobject
+index getindex index

@@ -1,0 +1,76 @@
+overrid
+precondition
+steepest descent steepestdesc precondition precondit point
+real point pair realpointvaluepair previou current
+inherit doc inheritdoc
+delta steepest descent newsteepestdesc
+conjug reset search direct
+linear conjug gradient optim
+goal type goaltyp goal goal type getgoaltyp
+point length
+checker converg iter getiter previou current
+dtd
+steepest descent steepestdesc steepest descent newsteepestdesc
+delta deltaold delta
+converg checker getconvergencecheck converg iter getiter previou current
+find upper bound findupperbound lsf initi step initialstep
+steepest descent newsteepestdesc precondition precondit point
+work diverg problem test circl fit testcirclefit
+initi search direct
+xxx paramet set close order
+updat formula updateformula conjug gradient formula conjugategradientformula fletcher reev
+org apach common math optim gener
+iter
+real point pair realpointvaluepair current
+iter getiter beta
+current
+version
+valid point
+goal type goaltyp goal type goaltyp minim
+version revis date
+comput object gradient computeobjectivegradi point
+option precondit
+current real point pair realpointvaluepair point object
+univari real function univariaterealfunct lsf line search function linesearchfunct search direct searchdirect
+delta mid deltamid steepest descent steepestdesc
+found optimum
+comput beta
+solver brent solver brentsolv
+function evalu except functionevaluationexcept optim except optimizationexcept illeg argument except illegalargumentexcept
+previou
+optim except optimizationexcept
+unit test math
+initi
+point step search direct searchdirect
+goal goal type goaltyp minim
+beta
+converg except convergenceexcept
+delta
+step solver solv lsf find upper bound findupperbound lsf initi step initialstep
+converg checker getconvergencecheck converg iter previou current
+solver
+point start point getstartpoint
+beta delta delta deltaold
+break conjug reset search direct
+search direct searchdirect
+checker converg iter previou current
+beta delta delta mid deltamid delta deltaold
+delta mid deltamid
+precondition ident precondition identityprecondition
+delta search direct searchdirect
+object comput object computeobjectivevalu point
+converg checker convergencecheck checker converg checker getconvergencecheck
+step solver solv max eval maxev lsf
+support fletcher reev polak ribi egrav
+real point pair realpointvaluepair optim dooptim
+increment iter counter incrementiterationscount
+comput conjug search direct
+search direct searchdirect steepest descent steepestdesc beta search direct searchdirect
+length
+max eval maxev max evalu getmaxevalu
+find optim step search direct
+max eval maxev solver evalu getevalu subtract evalu
+search direct searchdirect steepest descent steepestdesc clone
+xxx paramet set clode order
+updat formula conjug search direct support
+linear conjug gradient optim nonlinearconjugategradientoptim

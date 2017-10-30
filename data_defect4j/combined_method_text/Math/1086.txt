@@ -1,0 +1,57 @@
+linear interpol
+exceed
+param function approxim root
+comput
+brent algorithm find zero real univari function
+iter converg problem
+fast math fastmath ab delta olddelta
+math ab math ab
+forc start linear interpol
+result
+forc bisect
+bracket point approxim
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept
+param bracket point set bracket point
+solv univari real function univariaterealfunct
+save
+math max rel accuraci relativeaccuraci math ab absolut accuraci absoluteaccuraci
+math ab function accuraci functionvalueaccuraci
+math ab delta olddelta
+fast math fastmath max rel accuraci relativeaccuraci fast math fastmath ab absolut accuraci absoluteaccuraci
+fast math fastmath ab delta toler
+function continu necessarili smooth
+wrong direct progress slow
+param function bracket point
+function
+version revis date lun juin
+fast math fastmath ab toler
+ill condit
+maxim iter count maximaliterationcount
+function evalu except functionevaluationexcept error occur evalu
+find start search provid point
+fall back bisect
+fast math fastmath ab delta olddelta toler
+math ab delta olddelta toler
+delta
+param function solv
+toler
+fast math fastmath ab function accuraci functionvalueaccuraci
+set result setresult
+math ab delta toler
+param approxim root
+param function calcul approxim
+max iter exceed except maxiterationsexceededexcept maxim iter count maximaliterationcount
+implement href http mathworld wolfram brent method brentsmethod html
+part origin brent' method
+fast math fastmath ab fast math fastmath ab
+param calcul approxim root
+delta olddelta delta
+org apach common math analysi solver
+replac proxim test
+invers quadrat interpol
+math ab toler
+avoid divis small valu assum
+equal test intent
+brent solver brentsolv univari real solver impl univariaterealsolverimpl
+root
+max iter exceed except maxiterationsexceededexcept maximum iter count

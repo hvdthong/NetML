@@ -1,0 +1,8 @@
+org apach common math filter
+inherit doc inheritdoc
+default implement link process model processmodel
+default process model defaultprocessmodel process model processmodel
+real matrix realmatrix initi error covari getinitialerrorcovari
+initi error cov matrix initialerrorcovmatrix
+version
+link kalman filter kalmanfilt

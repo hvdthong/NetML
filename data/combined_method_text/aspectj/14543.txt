@@ -1,0 +1,14 @@
+org aspectj apach bcel gener annot
+annot gen annotationgen
+take fix annot type annot build
+modifi annotationgen object pool pass
+class file copypoolentri pass true
+forc deep copi annot move cpool entri
+copi type element pair visibl
+annot gen annotationgen annot constant pool gen constantpoolgen cpool copi pool entri copypoolentri
+cpool cpool
+copi pool entri copypoolentri
+type index typeindex cpool add utf8 addutf8 type signatur gettypesignatur
+type index typeindex type index gettypeindex
+runtim visibl isruntimevis runtim visibl isruntimevis
+ev copi valu copyvalu valu getvalu cpool copi pool entri copypoolentri

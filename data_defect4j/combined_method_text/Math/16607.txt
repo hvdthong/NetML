@@ -1,0 +1,13 @@
+chi squar test chisquaretest
+param arrai test
+provid sampl compar sampl
+check neg checknonneg
+implement handl unknown distribut
+sampl test distribut unknown priori
+check entri input arrai
+length
+version
+posit except notpositiveexcept
+posit except notpositiveexcept entri neg
+implement chi squar test statist
+org apach common math3 stat infer

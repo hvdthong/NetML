@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+join point visitor thisjoinpointvisitor ast visitor astvisitor
+end visit endvisit singl refer singlenamerefer ref block scope blockscop scope
+ref isref ref join point dec thisjoinpointdec
+dynam needsdynam
+ref isref ref join point static part dec thisjoinpointstaticpartdec
+static needsstat
+ref isref ref enclos join point static part dec thisenclosingjoinpointstaticpartdec
+static enclos needsstaticenclos

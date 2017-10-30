@@ -1,0 +1,4 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+compar exist member comparetoexistingmemb concret type munger concretetypemung munger list exist member list existingmemberslist
+compar exist member comparetoexistingmemb munger exist member list existingmemberslist iter

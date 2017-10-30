@@ -1,0 +1,48 @@
+org aspectj weaver bcel
+access method field public bodi advic replac
+invoc wrapper call advic inlin
+munger aspect inlin wrapper compil time
+specif state logic munger ala itd call set pointcut match
+wrap member effectivesignatur attribut
+author href mailto alex gnilux dot alexandr vasseur
+bcel access inlin munger bcelaccessforinlinemung bcel type munger bceltypemung
+add inlin wrapper public field set
+param resolvedmemb
+return
+resolv member resolvedmemb creat inlin accessor field set createorgetinlineaccessorforfieldset resolv member resolvedmemb resolv member resolvedmemb
+string accessor mangler namemangl inlin access method field set inlineaccessmethodforfieldset
+resolv member resolvedmemb getnam resolv member resolvedmemb declar type getdeclaringtyp aspect type aspecttyp
+resolv member resolvedmemb inlin accessor inlineaccessor resolv member resolvedmemb inlin accessor bcel method inlineaccessorbcelmethod accessor
+inlin accessor inlineaccessor
+add static method aspect
+inlin accessor inlineaccessor ajc member maker ajcmembermak inlin access method field set inlineaccessmethodforfieldset
+aspect type aspecttyp
+resolv member resolvedmemb
+add accessor method aspect bytecod
+instruct factori instructionfactori factori aspect gen aspectgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen aspect gen aspectgen inlin accessor inlineaccessor
+flag synthet ajsynthet
+method make synthet makesynthet
+method add attribut addattribut
+bcel attribut bcelattribut bcel attribut bcelattribut attribut ajattribut synthet ajsynthet aspect gen aspectgen constant pool gen getconstantpoolgen
+flag effect signatur deobfusc signatur appli method call pointcut
+method add attribut addattribut
+bcel attribut bcelattribut bcel attribut bcelattribut
+attribut ajattribut effect signatur attribut effectivesignatureattribut resolv member resolvedmemb shadow field set fieldset
+aspect gen aspectgen constant pool gen getconstantpoolgen
+inlin accessor method gen inlineaccessormethodgen add method
+instruct list instructionlist method bodi getbodi
+resolv member resolvedmemb static isstat
+field access static sole paramet field set
+append instruct factori instructionfactori creat load createload bcel world bcelworld make bcel type makebceltyp resolv member resolvedmemb return type getreturntyp
+append instruct constant instructionconst aload
+append instruct factori instructionfactori creat load createload bcel world bcelworld make bcel type makebceltyp resolv member resolvedmemb return type getreturntyp
+append
+util creat set createset
+factori
+resolv member resolvedmemb
+append instruct constant instructionconst return
+inlin accessor bcel method inlineaccessorbcelmethod put
+accessor
+bcel method bcelmethod aspect gen aspectgen bcel object type getbcelobjecttyp method method getmethod
+inlin accessor inlineaccessor

@@ -1,0 +1,34 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+appli declar type return true chang type
+appli declar type applydeclareattyp declar annot declareannot dec deca resolv type resolvedtyp type ontyp report problem reportproblem
+didsometh
+dec deca match type ontyp
+type ontyp annot hasannot dec deca annot getannotationx signatur getsignatur
+put lint annot type
+reportproblem
+world getlint elementalreadyannot signal
+string ontyp tostr deca getannotationtypex tostr
+ontyp getsourceloc isourceloc deca getsourceloc
+annot annotationx anno annox dec deca annot getannotationx
+check annot suitabl target
+problem report problemreport verifi target verifytargetisok dec deca type ontyp anno annox report problem reportproblem
+problem report problemreport
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship dec deca sourc locat getsourceloc type ontyp sourc locat getsourceloc
+tag weavingmessag
+world getworld messag handler getmessagehandl ignor isignor messag imessag weaveinfo
+world getworld messag handler getmessagehandl handl messag handlemessag
+weav messag weavemessag construct weav messag constructweavingmessag weav messag weavemessag weavemessag annot weavemessag annot
+string
+type ontyp string tostr
+util beautifi locat beautifyloc type ontyp sourc locat getsourceloc
+dec deca annot string getannotationstr
+type
+dec deca aspect getaspect string tostr
+util beautifi locat beautifyloc dec deca sourc locat getsourceloc
+didsometh
+resolv type munger resolvedtypemung annot newannotationtm annot type munger annotationontypemung anno annox
+annot newannotationtm set sourc locat setsourceloc dec deca sourc locat getsourceloc
+type ontyp add inter type munger addintertypemung bcel type munger bceltypemung annot newannotationtm dec deca aspect getaspect resolv world
+dec deca copi annot copyannotationto type ontyp
+didsometh

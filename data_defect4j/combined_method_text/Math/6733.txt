@@ -1,0 +1,52 @@
+pre
+org apach common math od nonstiff
+version
+classic represent previou deriv nordsieck
+adam nordsieck transform adamsnordsiecktransform cach step nstep
+repres correct state
+param step nstep number step multistep method
+cach put step nstep
+comput formula exact
+adam nordsieck transform adamsnordsiecktransform step nstep
+taylor seri formula show index offset
+absolut matrix
+observ method similar updat formula case
+link adam moulton integr adamsmoultonintegr adam moulton method predict nordsieck vector
+depend handl transform
+result taylor seri formula
+deriv handl
+sum
+y''' deriv
+defin scale deriv step
+link adam moulton integr adamsmoultonintegr adam moulton integr convert
+represent nordsieck vector
+degre polynomi
+previou definit classic represent multistep method
+link adam bashforth integr adamsbashforthintegr adam bashforth
+step comput nordsieck vector step
+vector time matrix built
+row shift matrix lower left part ident matrix
+plusmn
+adam nordsieck transform adamsnordsiecktransform
+deriv
+y'' deriv
+version revis date
+represent higher order scale deriv
+omit index notat clariti
+adam nordsieck transform adamsnordsiecktransform instanc getinst step nstep
+transform nordsieck vector adam integr
+cach
+classic represent nordsieck vector step end transform
+term
+vector matrix depend state
+nordsieck transform number step
+upper repres
+predict state lower
+defin
+exclud comput
+link adam bashforth integr adamsbashforthintegr adam bashforth method nordsieck vector
+chang formula comput similar transform
+previou formula valu comput transform
+predict vector correct vector comput
+higher degre scale deriv step handl
+classic represent nordsieck vector step start result matrix simpli

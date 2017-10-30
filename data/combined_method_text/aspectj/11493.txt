@@ -1,0 +1,38 @@
+org aspectj ajdt intern compil lookup
+adaptor org eclips jdt intern compil lookup scope org aspectj weaver iscop
+author jim hugunin
+eclips scope eclipsescop scope iscop
+comput import computeimport
+import name importednam
+list import name list importednameslist arrai list arraylist
+list import prefix list importedprefixeslist arrai list arraylist
+scope current scope currentscop scope
+add enclos type list
+current scope currentscop compil unit scope compilationunitscop
+current scope currentscop
+runtim except runtimeexcept unimpl
+current scope currentscop class scope classscop
+add class parent prefix addclassandparentstoprefix class scope classscop current scope currentscop refer type referencetyp bind import prefix list importedprefixeslist
+current scope currentscop current scope currentscop parent
+compil unit scope compilationunitscop scope cuscop compil unit scope compilationunitscop current scope currentscop
+string packag packagenam
+string char oper charoper concat concatwith scope cuscop current packag currentpackagenam
+system err println packag packagenam
+packag packagenam length
+import prefix list importedprefixeslist add packag packagenam
+import bind importbind import scope cuscop import
+import length
+import bind importbind import bind importbind import
+string import importnam
+string char oper charoper concat concatwith import bind importbind compound compoundnam
+xxx wrong behavior java util map
+import bind importbind demand ondemand
+import prefix list importedprefixeslist add import importnam
+import name list importednameslist add import importnam
+type bind typebind top type toptyp scope cuscop top level type topleveltyp
+top type toptyp length
+import name list importednameslist add world bind frombind top type toptyp getnam
+import name importednam
+string import name list importednameslist arrai toarrai string import name list importednameslist size
+import prefix importedprefix
+string import prefix list importedprefixeslist arrai toarrai string import prefix list importedprefixeslist size

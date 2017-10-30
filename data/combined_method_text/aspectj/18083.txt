@@ -1,0 +1,24 @@
+org aspectj util
+file util fileutil
+file readabl path input path
+treat entri prefix system properti kei
+safe call static initi
+param path string path check
+return null found valid file
+file file getbestfil string path
+path
+file result
+result path length
+string path path
+path
+path start startswith
+path system properti getproperti path substr
+throwabl
+path
+path
+file file path
+exist read canread
+result file util fileutil file getbestfil
+throwabl
+swallow
+result

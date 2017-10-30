@@ -1,0 +1,41 @@
+pre
+code data code
+ad
+model includ intercept term link intercept isnointercept code code
+data length nob nvar
+load model sampl data flat input arrai overrid previou sampl
+data pointer
+code data code arrai sequenc valu
+pointer
+throw illeg argument except illegalargumentexcept precondit fail
+abstract multipl linear regress abstractmultiplelinearregress
+col intercept nointercept nvar nvar
+sampl data newsampledata data nob nvar
+code nvar code
+version
+intercept nointercept
+org apach common math3 stat regress
+param nvar number independ variabl column count
+note add initi unitari column column 1'
+number small except numberistoosmallexcept nob nvar
+param nob number observ row
+dimens mismatch except dimensionmismatchexcept data length nob nvar
+nob col
+nob
+dimens mismatch except dimensionmismatchexcept length data arrai equal
+assum row concaten valu row input
+independ variabl
+data
+abstract base implement multipl linear regress multiplelinearregress
+param data input data arrai
+intercept nointercept col
+vector yvector arrai real vector arrayrealvector
+matrix xmatrix array2 row real matrix array2drowrealmatrix
+number small except numberistoosmallexcept code nob code smaller
+nob nvar
+code nob code code nvar code creat regress dataset
+code nob nvar code
+code data length nob nvar
+matrix creat initi column column
+null argument except nullargumentexcept data arrai
+null argument except nullargumentexcept

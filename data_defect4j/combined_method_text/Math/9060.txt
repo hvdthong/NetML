@@ -1,0 +1,13 @@
+org apach common math stat infer
+ensur data conform ensuredataconform
+implement mann whitnei test call wilcoxon rank sum
+param
+element
+assumpt met
+mann whitnei test impl mannwhitneyutestimpl mann whitnei test mannwhitneyutest
+length
+param sampl
+version revis date
+test
+ensur provid arrai fulfil assumpt
+illeg argument except illegalargumentexcept

@@ -1,0 +1,13 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+walk model walkmodel program element iprogramel ip
+count node countnod ip
+list kid ip children getchildren
+iter iter kid iter iter hasnext
+program element iprogramel element nextel program element iprogramel iter
+walk model walkmodel element nextel

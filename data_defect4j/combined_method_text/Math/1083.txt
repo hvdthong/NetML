@@ -1,0 +1,20 @@
+version revis date lun juin
+implement href http mathworld wolfram brent method brentsmethod html
+interv bracket root
+version
+brent solver brentsolv abstract univari real solver abstractunivariaterealsolv
+brent algorithm find zero real univari function
+brent solver brentsolv
+construct solver properti
+construct solver accuraci
+default absolut accuraci
+interv code toler
+function continu necessarili smooth
+code ep ab code ep rel accuraci
+code absolut accuraci
+default maximum iter default absolut accuraci
+code solv method return code function code
+construct solver
+org apach common math analysi solver
+href http mathworld wolfram brent method brentsmethod html
+brent solver brentsolv univari real solver impl univariaterealsolverimpl

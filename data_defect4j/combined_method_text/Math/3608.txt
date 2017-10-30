@@ -1,0 +1,17 @@
+field matrix fieldmatrix transpos
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+org apach common math linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+version revis date
+abstract field matrix abstractfieldmatrix field element fieldel field matrix fieldmatrix
+walk optim order walkinoptimizedord default field matrix preserv visitor defaultfieldmatrixpreservingvisitor field getzero
+overrid
+set entri setentri column row
+visit row column
+param type field element
+field matrix fieldmatrix creat matrix creatematrix col ncol row nrow
+col ncol column dimens getcolumndimens
+row nrow row dimens getrowdimens

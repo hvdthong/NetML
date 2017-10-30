@@ -1,0 +1,13 @@
+author stephen colebourn
+param field neg
+durat field repres field fix unit length
+millisecond durat field
+milli getmilli instant
+neg
+org joda time field
+millisecond field repres
+param instant
+field util fieldutil safe multipli safemultipli unit milli iunitmilli
+author brian neill o'neil
+precis durat field precisedurationfield base durat field basedurationfield
+precis durat field precisedurationfield thread safe immut

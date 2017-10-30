@@ -1,0 +1,30 @@
+inherit doc inheritdoc
+line hyperplan euclidean2 euclidean2d embed euclidean2 euclidean2d euclidean1 euclidean1d
+p2d geti
+orient line defin prolong line
+unambigu identifi left half plane half
+angular direct trigonometr orient
+p2d getx
+half plane set point posit offset
+plane identifi interior exterior
+version
+line point plane uniqu identifi
+plane suffici select specif point
+orient half plane side
+simpl local properti part line
+abscissa line offset
+repres orient line plane
+vector2 vector2d p2d vector2 vector2d point
+coordin line set point offset
+org apach common math3 geometri euclidean twod
+segment point past point point
+orthogon vector orient left half plane half
+left half plane set point neg offset
+line complet defin refer frame
+vector2 vector2d appli vector euclidean2 euclidean2d point
+cyx cyi cy1
+defin part polygon boundari
+line orthogon project origin refer frame
+line unit vector line direct
+vector2 vector2d cxx cxy cx1
+plane defin coordin process

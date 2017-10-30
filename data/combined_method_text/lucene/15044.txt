@@ -1,0 +1,25 @@
+org apach lucen search
+queri wrap queri filter simpli return constant score equal
+queri boost document match filter queri
+queri simpli strip score return constant
+note wrap filter instanc
+link cachingwrapperfilt
+enforc delet filter link
+cachingwrapperfilt deletesmod recach link
+cachingwrapperfilt deletesmod dynam
+constant score queri constantscorequeri queri
+overrid
+explan explain reader context readercontext context doc except ioexcept
+scorer scorer context
+exist advanc doc doc
+complex explan complexexplan result complex explan complexexplan
+exist
+result set descript setdescript constant score queri constantscorequeri string tostr product
+result set setvalu queri weight queryweight
+result set match setmatch boolean true
+result add detail adddetail explan boost getboost boost
+result add detail adddetail explan queri norm querynorm querynorm
+result set descript setdescript constant score queri constantscorequeri string tostr match doc
+result set setvalu
+result set match setmatch boolean fals
+result

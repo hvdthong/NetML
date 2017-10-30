@@ -1,0 +1,205 @@
+partial
+api api
+skip skip skip
+detail
+sizemb
+si si si si si si si si si
+delfilenam delfilenam delfilenam delfilenam delfilenam
+indexinput
+userdata userdata
+getinst
+numseg numseg numseg numseg numseg numseg numseg
+fix
+writer
+apach
+except except except except except except except except except except except except
+param
+termvectorstatu termvectorstatu
+add add add
+version version version version version version
+gethasprox gethasprox
+testtermvector
+larg larg
+match
+info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info
+return
+string string string string string string string string string string string string string string
+cantopenseg
+format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format format
+read read read read
+numdelet numdelet
+fieldnormstatu fieldnormstatu
+compound compound compound compound compound compound compound
+term term term term term term term term term term term term
+name name name name name name
+specif
+missingseg
+list list
+throwabl throwabl throwabl throwabl
+collect
+bad bad bad
+vector vector vector vector vector
+singl singl singl
+lose lose lose lose lose
+segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo segmentinfo
+dir dir dir dir
+compil compil
+encount
+termindexstatu termindexstatu
+seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg seg
+num num num num num num num num num num num num num num num num num num num num
+result result result result result result result result result result result result result result result result result result result result result result result result result result result
+pass
+fail fail fail fail fail fail
+close close
+numdoc numdoc numdoc numdoc numdoc numdoc numdoc
+subject
+segmentread segmentread segmentread
+index index index index index index index index index index index index index index index index index index index index index index index
+statu statu statu statu statu statu statu statu statu statu statu statu statu statu statu statu
+detect detect
+appear
+numberformat numberformat
+missingsegmentvers
+readint
+open open open open open open
+current current current
+delet delet delet delet delet delet delet delet delet delet delet delet delet delet delet delet delet
+state
+experiment
+health
+checkindex checkindex
+reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader reader
+print print print print print print print print
+docstorecompoundfil
+method
+refer refer
+full
+run run
+deletionsfilenam
+broken
+offset offset offset offset offset offset
+releas
+org
+byte byte byte byte
+seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat seginfostat
+tolosedoccount tolosedoccount tolosedoccount
+numbadseg numbadseg numbadseg
+checksum checksum checksum
+printstacktrac printstacktrac printstacktrac printstacktrac
+openinput
+getdocstoreiscompoundfil getdocstoreiscompoundfil
+prior
+nerror
+instanc instanc
+lucen lucen lucen lucen lucen lucen lucen lucen lucen lucen lucen lucen lucen lucen
+infostream infostream infostream infostream infostream infostream infostream infostream infostream infostream infostream infostream infostream infostream infostream infostream
+segmentformat
+chang
+backup
+addal
+comment comment comment
+fieldnam fieldnam fieldnam fieldnam
+segmentsfilenam segmentsfilenam segmentsfilenam segmentsfilenam segmentsfilenam
+hasdelet hasdelet hasdelet
+fieldopt
+number number
+docstoreseg docstoreseg
+keeper
+fixindex
+long long
+doccount doccount doccount doccount doccount doccount doccount doccount doccount doccount doccount doccount
+suddenli
+miss miss
+size size size size size size size size size size size
+teststoredfield
+stream stream stream stream stream stream stream stream stream stream stream stream stream stream stream stream
+getfieldnam getfieldnam
+segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment segment
+tot tot
+getdocstoreoffset
+call
+deleteddoc deleteddoc deleteddoc deleteddoc deleteddoc deleteddoc
+basic
+msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg msg
+hasprox hasprox
+store store store store store store store store store store store store store store store store store store store store
+getdelcount getdelcount getdelcount getdelcount getdelcount getdelcount
+option
+lockless lockless lockless
+tool tool tool tool tool tool tool
+mismatch mismatch mismatch
+ioexcept
+warn warn warn warn
+link
+newer newer
+indexread indexread
+getcurrentsegmentfilenam
+divisor divisor
+count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count
+input input input input input input input
+default default
+remov remov
+numfil numfil
+del del del del del del del del del del del del del del
+sformat sformat sformat sformat sformat sformat sformat sformat sformat sformat sformat sformat sformat sformat
+error error error error error error error
+problem
+testtermindex
+getdelfilenam
+problemat
+pre
+file file file file file file file file file file file file file file file file file file file file file file file file file file file file
+creat
+int int
+share share share
+diagnost diagnost diagnost diagnost diagnost diagnost diagnost diagnost diagnost diagnost
+exit
+increment
+trace trace trace trace
+properli
+check check check check check check check
+segmentscheck
+openreaderpass
+sizeinbyt sizeinbyt
+getuserdata getuserdata getuserdata
+getusecompoundfil getusecompoundfil
+make make
+numfield
+docstoreoffset docstoreoffset docstoreoffset docstoreoffset docstoreoffset docstoreoffset
+write
+field field field field field field field field field field field field field field field field field field field
+getdiagnost
+docstoreiscompoundfil
+test test test test test test test test test test test test test test test
+document
+segmentinfostatu segmentinfostatu
+complet
+map
+stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat stat
+time time
+rethrow
+tooloutofd
+ncheck
+max max max max
+clone clone
+norm norm norm norm norm norm norm norm
+user user user user user user user user user user user
+getdocstoreseg getdocstoreseg
+date
+data data data data data data data data data data data
+stack stack stack stack
+onlyseg onlyseg onlyseg onlyseg onlyseg onlyseg onlyseg
+totlosedoccount totlosedoccount
+maxdoc maxdoc maxdoc maxdoc maxdoc maxdoc
+directori directori directori
+doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc
+clear
+prox prox prox prox prox prox
+storedfieldstatu storedfieldstatu
+runtimeexcept runtimeexcept runtimeexcept runtimeexcept runtimeexcept runtimeexcept runtimeexcept runtimeexcept runtimeexcept
+runtim runtim runtim runtim runtim runtim runtim runtim runtim
+clean
+newseg newseg newseg
+testfieldnorm
+userdatastr userdatastr userdatastr userdatastr

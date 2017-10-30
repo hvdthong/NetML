@@ -1,0 +1,20 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+plai god
+dai god creat primit type put type
+map
+world
+trace trace enabl istraceen trace enter init
+dump regist node registernod class getclass
+type map typemap put resolv type resolvedtyp byte
+type map typemap put resolv type resolvedtyp short
+type map typemap put resolv type resolvedtyp int
+type map typemap put resolv type resolvedtyp long
+type map typemap put resolv type resolvedtyp float
+type map typemap put resolv type resolvedtyp doubl
+type map typemap put resolv type resolvedtyp char
+type map typemap put resolv type resolvedtyp boolean
+type map typemap put resolv type resolvedtyp void
+preced calcul precedencecalcul aspect preced calcul aspectprecedencecalcul
+trace trace enabl istraceen trace exit init

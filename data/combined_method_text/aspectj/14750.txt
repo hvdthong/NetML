@@ -1,0 +1,78 @@
+org aspectj apach bcel util
+convert code html file
+version codehtml java aclement exp
+author href mailto marku dahm berlin dahm
+code html codehtml org aspectj apach bcel constant
+write singl method byte code
+write method writemethod method method method number
+except ioexcept
+raw signatur
+string signatur method signatur getsignatur
+arrai string argument type
+string arg util method signatur argument type methodsignatureargumenttyp signatur
+return type string
+string type util method signatur return type methodsignaturereturntyp signatur
+method
+string method getnam
+string html class2 html class2html html tohtml
+method' access flag
+string access util access string accesstostr method access flag getaccessflag
+access util replac access nbsp
+method' attribut code attribut
+attribut attribut method attribut getattribut
+file print font color ff0000 access font nbsp
+method method number class2 html class2html refer type referencetyp type
+nbsp href class method html method method number
+target method html
+arg length
+file print class2 html class2html refer type referencetyp arg
+arg length
+file print nbsp
+file println
+code
+code
+attribut length
+file print attribut
+attribut length
+tag attribut tag gettag
+tag attr unknown attr unknown
+file print href class attribut html method method number
+target attribut attribut name attribut name tag
+file print attribut
+tag attr code attr code
+code attribut
+attribut attributes2 attribut getattribut
+code code getcod
+file print
+attributes2 length
+tag attributes2 tag gettag
+file print href class attribut html
+method method number target attribut
+attribut name attribut name tag
+file print
+file println
+code code null code abstract method
+system println util codetostr code constant pool
+print byte code
+byte sequenc bytesequ stream byte sequenc bytesequ code
+stream mark stream
+find goto findgoto stream method
+stream reset
+file println tabl border align left byte offset
+align left instruct align left argument
+stream
+offset stream index getindex
+string str code html codetohtml stream method number
+string anchor
+set anchor mark line target goto jsr
+defin anchor line ineffici
+goto set offset
+anchor code method number offset
+string anchor2
+stream index getindex code length stream getindex code length loop
+anchor2 code method number code length offset
+anchor2 offset
+file println valign top anchor2 anchor str
+mark line target attribut window
+file println
+file println tabl

@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+write data output stream dataoutputstream except ioexcept
+kind write
+modifi write
+return type returntyp write
+declar type declaringtyp write
+write
+paramet type parametertyp write
+throw pattern throwspattern write
+annot pattern annotationpattern write
+write locat writeloc

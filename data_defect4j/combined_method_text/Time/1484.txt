@@ -1,0 +1,13 @@
+author stephen colebourn
+set number millisecond
+instant
+set milli setmilli instant
+param instant millisecond t00 01t00 00z set
+implement mutabl
+express datetim millisecond t00 01t00 00z
+read writabl instant readwritableinst readabl instant readableinst
+org joda time
+provid advanc method
+defin instant datetim continuum queri modifi
+illeg argument except illegalargumentexcept invalid
+epoch t00 01t00 00z

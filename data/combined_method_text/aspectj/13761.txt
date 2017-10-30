@@ -1,0 +1,21 @@
+org aspectj apach bcel gener
+invokestat invok class static method
+pre stack arg1 arg2 pre
+version invokestat java aclement exp
+author href mailto marku dahm berlin dahm
+invokestat invok instruct invokeinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit except thrower visitexceptionthrow
+visit type instruct visittypedinstruct
+visit stack consum visitstackconsum
+visit stack produc visitstackproduc
+visit load class visitloadclass
+visit instruct visitcpinstruct
+visit field method visitfieldormethod
+visit invok instruct visitinvokeinstruct
+visit invokestat visitinvokestat

@@ -1,0 +1,16 @@
+org aspectj ajdt intern compil lookup
+inter type field bind intertypefieldbind field bind fieldbind
+inter type field bind intertypefieldbind eclips factori eclipsefactori world resolv type munger resolvedtypemung munger unresolv type unresolvedtyp type withintyp
+abstract method declar abstractmethoddeclar sourc method sourcemethod
+world make field bind makefieldbind munger signatur getsignatur munger type variabl alias gettypevariablealias
+sourc method sourcemethod sourc method sourcemethod
+target type targettyp refer bind referencebind world make type bind maketypebind munger signatur getsignatur declar type getdeclaringtyp
+declar class declaringclass refer bind referencebind world make type bind maketypebind type withintyp
+call super null step skip super final line
+optim dont makefieldbind horribl
+set annot setannot world make field bind makefieldbind munger signatur getsignatur munger type variabl alias gettypevariablealias annot getannot
+reader simpl synthet access method bind simplesyntheticaccessmethodbind
+world make method bind makemethodbind
+ajc member maker ajcmembermak inter field dispatch interfieldgetdispatch munger signatur getsignatur type withintyp
+writer simpl synthet access method bind simplesyntheticaccessmethodbind world make method bind makemethodbind
+ajc member maker ajcmembermak inter field set dispatch interfieldsetdispatch munger signatur getsignatur type withintyp

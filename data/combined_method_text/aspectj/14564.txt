@@ -1,0 +1,9 @@
+org aspectj apach bcel gener annot
+arrai element gen arrayelementvaluegen element gen elementvaluegen
+return immut variant arrayelementvaluegen
+element elementvalu element getelementvalu
+element elementvalu immut data immutabledata element elementvalu evalu size
+iter iter evalu iter iter hasnext
+element gen elementvaluegen element element gen elementvaluegen iter
+immut data immutabledata element element getelementvalu
+arrai element arrayelementvalu type immut data immutabledata gen cpgen constant pool getconstantpool

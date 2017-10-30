@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+bipush push byte stack
+pre stack pre
+version bipush java aclement exp
+author href mailto marku dahm berlin dahm
+bipush instruct constant push instruct constantpushinstruct
+push byte stack
+bipush
+org aspectj apach bcel constant bipush

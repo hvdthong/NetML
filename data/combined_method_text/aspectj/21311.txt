@@ -1,0 +1,17 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+weav defin concet aspect weaveanddefineconceteaspect
+trace trace enabl istraceen trace enter weaveanddefineconceteaspect concret aspect concreteaspect
+success
+iter iter concret aspect concreteaspect iter iter hasnext
+concret aspect code gen concreteaspectcodegen gen concret aspect code gen concreteaspectcodegen iter
+string gen class getclassnam
+byte gen byte getbyt
+byte newbyt weav class weaveclass byte
+gener class handler generatedclasshandl accept class acceptclass byte newbyt
+except ioexcept
+trace error weaveanddefineconceteaspect
+error except weav aspect
+trace trace enabl istraceen trace exit weaveanddefineconceteaspect success
+success

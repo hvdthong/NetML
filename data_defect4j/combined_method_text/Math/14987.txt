@@ -1,0 +1,16 @@
+comput weight jacobian matrix
+weight jacobian
+match problem dimens
+param param model paramet comput jacobian
+real matrix realmatrix comput weight jacobian computeweightedjacobian param
+abstract squar optim abstractleastsquaresoptim
+dimens mismatch except dimensionmismatchexcept jacobian dimens
+optim provid move
+deprec class interfac deprec
+weight matrix sqrt weightmatrixsqrt multipli matrix util matrixutil creat real matrix createrealmatrix comput jacobian computejacobian param
+version
+math
+base implement squar optim
+method error estim
+link org apach common math3 fit leastsquar
+org apach common math3 optim nonlinear vector jacobian

@@ -1,0 +1,24 @@
+org aspectj ajd core
+class current custom java option
+java option javaopt
+return java option map default set
+map default java option getdefaultjavaopt
+default option map defaultoptionsmap default option map defaultoptionsmap
+default option map defaultoptionsmap hash map hashmap
+default option map defaultoptionsmap put complianc level complianc level version
+default option map defaultoptionsmap put sourc compat level sourc compat level version
+default option map defaultoptionsmap put preserv local preserv local optim
+default option map defaultoptionsmap put warn method constructor warn method constructor ignor
+default option map defaultoptionsmap put warn overrid packag default method warn overrid packag default method ignor
+default option map defaultoptionsmap put warn deprec warn deprec ignor
+default option map defaultoptionsmap put warn hidden catch block warn hidden catch block ignor
+default option map defaultoptionsmap put warn unus local warn unus local ignor
+default option map defaultoptionsmap put warn unus paramet warn unus paramet ignor
+default option map defaultoptionsmap put warn unus import warn unus import ignor
+default option map defaultoptionsmap put warn synthet access warn synthet access ignor
+default option map defaultoptionsmap put warn assert idenitifi warn assert idenitifi ignor
+default option map defaultoptionsmap put warn nl warn nl ignor
+default option map defaultoptionsmap put debug sourc debug sourc gener
+default option map defaultoptionsmap put debug line debug line gener
+default option map defaultoptionsmap put debug var debug var gener gener
+default option map defaultoptionsmap

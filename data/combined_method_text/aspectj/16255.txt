@@ -1,0 +1,4 @@
+org aspectj intern tool ant taskdef
+copi inlin stylesheet copyandinlinestylesheet task
+set file setfil string file
+file project resolv file resolvefil file

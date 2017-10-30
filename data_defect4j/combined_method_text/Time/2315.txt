@@ -1,0 +1,9 @@
+author stephen colebourn
+org joda time chrono
+basic month year date time field basicmonthofyeardatetimefield imprecis date time field imprecisedatetimefield
+author gui allard
+chronolog ichronolog year
+author brian neill o'neil
+time calcul month year compon time
+refactor month year date time field gjmonthofyeardatetimefield
+durat field durationfield rang durat field getrangedurationfield

@@ -1,0 +1,76 @@
+dimens
+converg converg
+current simplex move vertex
+point
+previou current simplex converg checker
+inherit doc inheritdoc
+converg
+simplex base direct search optim
+simplex iter eval func evalfunc compar
+deriv comput approxim
+simplex
+optim simpl bound optim
+search
+iter
+function unpredict discontinu difficult complex
+simplex updat procedur link nelder mead simplex neldermeadsimplex
+checker converg iter prev simplex point getpoint
+link multi direct simplex multidirectionalsimplex pass
+multivari function multivariatefunct eval func evalfunc
+provid start point optim
+multivari function penalti adapt multivariatefunctionpenaltyadapt
+overrid
+direct search method object function valu
+compar point pair pointvaluepair
+simplex point getpoint
+simplex size getsiz
+simplex build start point getstartpoint
+multivari function multivariatefunct
+compar point pair pointvaluepair compar
+version
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+point pair pointvaluepair previou
+multivari function map adapt multivariatefunctionmappingadapt
+evalu counter
+number paramet chang simplex initi
+check paramet checkparamet
+comput deriv imposs noisi
+converg check provid worst point
+set point dimens updat algorithm
+found optimum
+object function valu vertic simplex
+function wrap adapt
+direct search method
+optimum desir found case
+minim isminim doubl compar doubl compar
+link org apach common math3 optim nonlinear scalar multivari function map adapt multivariatefunctionmappingadapt
+point pair pointvaluepair prev previou
+step
+indirect call comput object computeobjectivevalu order updat
+code optim method
+initi search
+null argument except nullargumentexcept
+comput object computeobjectivevalu point
+link org apach common math3 optim nonlinear scalar multivari function penalti adapt multivariatefunctionpenaltyadapt
+call code optim start configur
+converg checker convergencecheck point pair pointvaluepair checker converg checker getconvergencecheck
+call link optim optim data optimizationdata optim
+org apach common math3 optim nonlinear scalar noderiv
+link cmae optim cmaesoptim link bobyqa optim bobyqaoptim object
+simplex optim implement directli support constrain
+version simplex optim simplexoptim java 58z eran
+simplex base direct search method base comparison
+deriv paper margaret wright
+minim isminim goal type getgoaltyp goal type goaltyp minim
+previou simplex point getpoint
+getvalu
+bad point desir case
+dedic algorithm
+comput cost case optimum
+simplex evalu eval func evalfunc compar
+search method scorn respect
+simplex optim simplexoptim multivari optim multivariateoptim
+code optim method call solv problem
+point pair pointvaluepair optim dooptim
+point pair pointvaluepair
+href http bell lab doc direct

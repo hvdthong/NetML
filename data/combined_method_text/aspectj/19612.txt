@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+member parameter ajmembersneedparameter
+parameter type isparameterizedtyp
+superclass getsuperclass superclass getsuperclass member parameter ajmembersneedparameter

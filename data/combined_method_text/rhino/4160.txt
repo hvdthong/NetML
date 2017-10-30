@@ -1,0 +1,64 @@
+oper oper oper
+load load load load load load
+code code code code
+checkcast
+directli
+point
+addaload addaload
+arg arg
+closelabel closelabel closelabel
+dispatch
+jump jump
+intern
+tabl
+close close close close close close close close
+cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw
+acquirelabel acquirelabel
+bytecod bytecod bytecod bytecod
+check
+special
+argsloc argsloc
+athrow
+generatethrowjavascriptexcept
+acquir acquir
+script
+except except
+mark mark mark mark mark
+optim
+add add add add add add add add add add
+constant constant
+operationloc operationloc
+local local local local local local local local
+nativegener nativegener
+lang
+javascript
+state state
+bodycodegen
+generatorswitch
+gener gener gener gener gener gener gener gener gener gener
+mozilla
+hasloc hasloc
+initi
+bodi
+nativ nativ
+user
+throwlabel throwlabel throwlabel
+org
+byte byte byte byte
+generatecheckforthroworclos
+throw throw throw throw throw throw throw throw throw throw throw
+icmpeq icmpeq icmpeq icmpeq
+case
+addiload addiload
+marklabel marklabel marklabel
+java java
+provid
+nextstat nextstat
+marktableswitchcas
+label label label label label label label label label label label label label label
+object
+throwabl
+codegen
+switch switch
+addloadconst addloadconst
+entri

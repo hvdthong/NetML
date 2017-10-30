@@ -1,0 +1,13 @@
+org aspectj ajdt intern compil lookup
+privileg field bind privilegedfieldbind field bind fieldbind
+privileg field bind privilegedfieldbind aspect declar aspectdeclar aspect inaspect field bind fieldbind base field basefield
+base field basefield base field basefield declar class declaringclass
+reader simpl synthet access method bind simplesyntheticaccessmethodbind
+aspect inaspect factori make method bind makemethodbind
+ajc member maker ajcmembermak privileg access method field privilegedaccessmethodforfieldget
+aspect inaspect type typex aspect inaspect factori make resolv member makeresolvedmemb base field basefield
+writer simpl synthet access method bind simplesyntheticaccessmethodbind aspect inaspect factori make method bind makemethodbind
+ajc member maker ajcmembermak privileg access method field set privilegedaccessmethodforfieldset
+aspect inaspect type typex aspect inaspect factori make resolv member makeresolvedmemb base field basefield
+constant constant constant notaconst
+base field basefield base field basefield

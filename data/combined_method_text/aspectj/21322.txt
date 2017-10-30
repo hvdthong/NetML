@@ -1,0 +1,77 @@
+org aspectj weaver loadtim
+gener bytecod concret aspect
+concret aspect aspectj code gener build aop xml definit registr
+perform type mung perclaus aspectof artifact directli wait
+weaver middl configur
+author href mailto alex gnilux dot alexandr vasseur
+concret aspect code gen concreteaspectcodegen
+check concret aspect valid
+return true fals
+valid
+world bcel world bcelworld
+report error reporterror intern error world type bcelworld
+undefin
+todo convert signatur earlier
+resolv type resolvedtyp current world lookup signatur lookupbysignatur unresolv type unresolvedtyp fornam concret aspect concreteaspect signatur getsignatur
+current current miss ismiss
+report error reporterror attempt concret chosen aspect defin stringifi
+happen extend null preced declar
+concret aspect concreteaspect extend concret aspect concreteaspect preced
+concret aspect concreteaspect pointcut empti isempti
+valid isvalid
+claus perclaus singleton persingleton
+parent
+return true check special case
+report error reporterror attempt nest pointcut extend claus stringifi
+parent world resolv concret aspect concreteaspect extend
+handl class
+parent miss ismiss
+fallback class lookup mechan
+string fix fixednam concret aspect concreteaspect extend
+dot hasdot fix fixednam index lastindexof
+dot hasdot
+fix char fixednamechar fix fixednam char arrai tochararrai
+fix char fixednamechar dot hasdot
+fix fixednam string fix char fixednamechar
+dot hasdot fix fixednam index lastindexof
+parent world resolv unresolv type unresolvedtyp fornam fix fixednam
+parent miss ismiss
+parent miss ismiss
+report error reporterror find parent aspect stringifi
+extend abstract
+parent abstract isabstract
+report error reporterror attempt concret abstract aspect stringifi
+parent aspect
+parent aspect isaspect
+report error reporterror attempt concret aspect stringifi
+abstract defin
+list ellig abstract elligibleabstract arrai list arraylist
+collect abstract method abstractmethod outstand abstract method getoutstandingabstractmethod parent
+iter iter abstract method abstractmethod iter iter hasnext
+resolv member resolvedmemb method resolv member resolvedmemb iter
+equal method signatur getsignatur
+string method getnam
+start startswith ajc pointcut startswith ajc pointcut abstract pointcut code style aspect compil test
+substr
+substr index indexof
+ellig abstract elligibleabstract add
+pointcut annot haspointcutannot method
+ellig abstract elligibleabstract add method getnam
+error outstand abstract method concret xml
+report error reporterror abstract method method string tostr concret xml stringifi
+method getnam start startswith ajc pointcut pointcut annot haspointcutannot method
+pointcut meet requir xml concret
+report error reporterror abstract method method string tostr concret pointcut illeg signatur argument return void stringifi
+error outstand abstract method concret xml
+report error reporterror abstract method method string tostr concret xml stringifi
+list pointcut name pointcutnam arrai list arraylist
+iter concret aspect concreteaspect pointcut iter hasnext
+definit pointcut abstract abstractpc definit pointcut
+pointcut name pointcutnam add abstract abstractpc
+iter ellig abstract elligibleabstract iter hasnext
+string ellig elligiblepc string
+pointcut name pointcutnam ellig elligiblepc
+report error reporterror abstract pointcut ellig elligiblepc configur stringifi
+claus perclaus parent claus getperclaus
+valid isvalid
+valid isvalid

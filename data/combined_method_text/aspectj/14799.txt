@@ -1,0 +1,27 @@
+org aspectj apach bcel util
+repositori situat class creat
+realm classload class load
+file system path
+class path default return
+classpath getclasspath
+design singleton
+custom classpath
+abstract definit class repositori instanc
+load class sourc
+repositori setrepositori method
+org aspectj apach bcel repositori
+version syntheticrepositori java aclement exp
+author href mailto marku dahm berlin dahm
+author david dixon peugh
+synthet repositori syntheticrepositori repositori
+load javaclass object class
+classpath environ variabl
+java class javaclass load class loadclass string class classnam
+class found except classnotfoundexcept
+class classnam class classnam equal
+illeg argument except illegalargumentexcept invalid class class classnam
+class classnam class classnam replac classnam classnam replac case canon form
+load class loadclass path input stream getinputstream class classnam class classnam
+except ioexcept
+class found except classnotfoundexcept except class
+class classnam string tostr

@@ -1,0 +1,2 @@
+indexread indexexist return true index present
+open writer dir preparecommit finish commit indexread indexexist incorrectli return true check segment file present successfulli read

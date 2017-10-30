@@ -1,0 +1,8 @@
+org aspectj weaver tool
+interfac weav class loader provid callback
+weavingadaptor
+weav class loader weavingclassload gener class handler generatedclasshandl
+return aspect weavingadaptor weav class
+defin class loader
+return aspect weav class
+url aspect getaspecturl

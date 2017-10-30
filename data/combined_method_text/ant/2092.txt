@@ -1,0 +1,28 @@
+org apach tool ant filter
+wrap string inputstream
+author magesh umasankar
+string input stream stringinputstream
+read stringread byte arrai
+param byte arrai read
+param offset byte arrai
+param len length byte arrai fill
+return actual number read byte arrai
+end stream
+except ioexcept error occur
+read len
+except ioexcept
+except ioexcept stream close
+slack
+buf len char buf char len read
+read buf
+string string buf
+encod
+slack byte getbyt
+slack byte getbyt encod
+begin
+len slack length begin
+len slack length begin
+system arraycopi slack begin len
+begin len slack length
+slack
+len

@@ -1,0 +1,45 @@
+org apach lucen search
+contain filter boolean composit filter
+filter alloc logic construct
+result filter bitset construct
+filter ord
+result filter notd filter
+result filter andd filter
+boolean filter booleanfilt filter
+return docidsetiter repres boolean composit
+filter ad
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+open bit set disi openbitsetdisi re
+index reader indexread reader context reader
+filter shouldfilt
+filter shouldfilt size
+re
+re open bit set disi openbitsetdisi disi getdisi filter shouldfilt context reader max doc maxdoc
+doc set docidset di filter shouldfilt doc set getdocidset context
+di open bit set openbitset
+optim case openbitset
+re open bit set openbitset di
+re place inplaceor disi getdisi filter shouldfilt context
+filter notfilt
+filter notfilt size
+re
+re open bit set disi openbitsetdisi disi getdisi filter notfilt context reader max doc maxdoc
+re flip reader max doc maxdoc re flip reader maxdoc note set bit delet doc
+doc set docidset di filter notfilt doc set getdocidset context
+di open bit set openbitset
+optim case openbitset
+re andnot open bit set openbitset di
+re place inplacenot disi getdisi filter notfilt context
+filter mustfilt
+filter mustfilt size
+re
+re open bit set disi openbitsetdisi disi getdisi filter mustfilt context reader max doc maxdoc
+doc set docidset di filter mustfilt doc set getdocidset context
+di open bit set openbitset
+optim case openbitset
+re open bit set openbitset di
+re place inplaceand disi getdisi filter mustfilt context
+re
+re
+doc set docidset empti docidset empti docidset

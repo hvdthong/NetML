@@ -1,0 +1,7 @@
+version
+store memori
+cov matrix covmatrix index xindex index yindex cov
+storeless covari storelesscovari covari
+covari implement requir input data
+set covari setcovari index xindex index yindex storeless bivari covari storelessbivariatecovari cov
+org apach common math stat correl

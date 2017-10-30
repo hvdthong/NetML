@@ -1,0 +1,19 @@
+param column dimens columndimens number column matrix
+param row dimens rowdimens number row matrix
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+abstract field matrix abstractfieldmatrix field field
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+field field
+column dimens columndimens
+param field field element belong
+version
+strictli posit except notstrictlypositiveexcept row column dimens
+strictli posit except notstrictlypositiveexcept
+param type field element
+posit
+creat field matrix fieldmatrix suppli row column dimens
+strictli posit except notstrictlypositiveexcept local format localizedformat dimens
+row dimens rowdimens

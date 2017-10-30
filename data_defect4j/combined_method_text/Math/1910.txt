@@ -1,0 +1,22 @@
+param inclus upper bound
+code
+order direct
+implement link hypergeometr distribut hypergeometricdistribut
+probabl comput sum point probabl valu
+org apach common math distribut
+probabl comput sum point probabl
+sum
+param direct summat sum
+ret
+valu code order direct
+version revis date
+disbut method return
+param popul size
+param number success popul
+distribut method return
+param sampl size
+cumul probabl innercumulativeprob
+distribut code method return
+ret probabl
+hypergeometr distribut impl hypergeometricdistributionimpl abstract integ distribut abstractintegerdistribut
+param inclus lower bound

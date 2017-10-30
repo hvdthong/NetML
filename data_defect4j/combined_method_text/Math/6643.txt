@@ -1,0 +1,61 @@
+method solv initi problem ivp comput deriv
+step end integr
+od paramet dimens getparametersdimens
+evalu
+org apach common math od jacobian
+solut respect initi state paramet
+ad form compound problem higher dimens origin od
+integr compound state variat equat
+param dydp placehold put state vector deriv respect
+comput partial deriv solut respect initi state
+problem dimens paramet compound problem
+respect initi state paramet
+paramet
+check dimens checkdimens
+dydy0 dydp
+od dimens getdimens
+extend jacobian raw od variat equat
+check dimens checkdimens y0d dy0dp
+check dimens checkdimens dydp
+system arraycopi y0d dy0dp
+dimens time
+stop time target time integr reach
+set initi deriv respect paramet
+parameter od parameterizedod
+stop time stoptim
+param initi time
+param target time integr
+paramet element arrai dydp success
+target event handler stop point
+deriv except derivativeexcept integr except integratorexcept
+check dimens checkdimens dydy0
+current sign stepsiz getcurrentsignedsteps thread safe
+set initi state includ partial deriv
+underli user function trigger
+od jacobian odewithjacobian
+order comput state deriv od problem
+integr y0d dy0dp
+version revis date
+deriv except derivativeexcept except propag caller
+set smaller code code backward integr
+integr except integratorexcept integr perform integr
+integr differenti equat variat equat time
+initi state dy0 element arrai dydy0 success
+method store intern state variabl made
+param initi state vector
+order integr jacobian firstorderintegratorwithjacobian
+compound state raw state deriv
+param dydy0 placehold put state vector deriv respect
+stop time stoptim integr integr map wrapper mappingwrapp
+basi solv boundari problem bvp
+system arraycopi
+integr link
+step end integr object
+dispatch compound state state partial deriv arrai
+store
+dispatch compound state dispatchcompoundst dydy0 dydp
+dy0 store
+enhanc order integr differenti equat
+set diagon element dy0
+param y0d dy0dp initi state vector deriv respect
+param placehold put state vector success

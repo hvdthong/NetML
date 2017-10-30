@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+fix super call bodi fixsupercallsinbodi
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext fix super call itd fix super call itd selector
+super fixer visitor superfixervisitor super fixer visitor superfixervisitor type bind ontypebind
+travers class scope classscop
+munger set super method call setsupermethodscal super method call supermethodscal
+compil weav context compilationandweavingcontext leav phase leavingphas tok

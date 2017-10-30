@@ -1,0 +1,12 @@
+interv set intervalsset build interv set buildintervalset vector3 vector3d start vector3 vector3d end
+line space tosubspac end getx
+org apach common math geometri euclidean threed
+interv set intervalsset line space tosubspac start getx
+repres subset link line
+param start start point
+build interv set point
+version
+param end end point
+interv set
+line line line start end
+line sublin

@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+correspond target pcd
+type initi wildtypepattern stai foo
+type deal
+resolvebind method convert bindingtypepattern
+case foo type deal
+author erik hilsdal
+author jim hugunin
+target pointcut thisortargetpointcut bind pointcut namebindingpointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+match couldmatch shadow fuzzi boolean fuzzyboolean
+unresolv type unresolvedtyp type match typetomatch isthi shadow type getthistyp shadow target type gettargettyp
+typetomatch resolvedtyp miss return fuzzyboolean
+type match type match typetomatch resolv shadow world getiworld type pattern typepattern dynam return type match typetomatch resolv shadow getiworld typepattern dynam avpt dynam

@@ -1,0 +1,13 @@
+param upper upper endpoint
+verifi interv verifyinterv lower
+upper
+param lower lower endpoint
+univari real solver util univariaterealsolverutil
+check endpoint interv
+number larg except numberistoolargeexcept local format localizedformat endpoint interv
+version
+version revis date
+lower upper
+util routin link univari real solver univariaterealsolv object
+org apach common math analysi solver
+number larg except numberistoolargeexcept code lower upper

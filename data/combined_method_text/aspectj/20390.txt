@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+bcel field bcelfield resolv member impl resolvedmemberimpl
+add annot addannot annot annotationx annot
+ensur annot type retriev ensureannotationtypesretriev
+add set annot
+len annot length
+annot annotationx ret annot annotationx len
+system arraycopi annot ret len
+ret len annot
+annot ret
+annot type annotationtyp collect empti set empti set
+annot type annotationtyp hash set hashset
+add set annot type
+annot type annotationtyp add unresolv type unresolvedtyp fornam annot type gettypenam resolv world
+fixm asc call suggest manag annot
+level bcelfield set lower 'field'
+object set reduc
+level
+field add annot addannot annot bcel annot getbcelannot

@@ -1,0 +1,35 @@
+author stephen colebourn
+pattern languag format
+author href mailto sbailliez apach org stephan bailliez
+year
+count tok2 count
+month
+token tok2 token obj2
+second
+tabl border
+equal tok2
+tabl
+millisecond
+number
+code code equal
+author henri yandel
+equal object obj2
+version
+durat format util constant tabl describ token
+support equal token token
+class getclass tok2 class getclass
+durat format util durationformatutil
+dai
+author href mailto ggregori seagullsw gari gregori
+string tostr equal tok2 string tostr
+string buffer stringbuff
+charact durat element
+author apach ant date util dateutil
+hour
+tok2
+author href mailto stefan bodewig epost stefan bodewig
+overrid
+param obj2 object equal
+obj2 token
+org apach common lang time
+minut

@@ -1,0 +1,129 @@
+org aspectj ajdt intern core builder
+author mik kersten
+asm element formatt asmelementformatt
+gen label kind genlabelandkind method declar methoddeclar method declar methoddeclar program element iprogramel node
+method declar methoddeclar advic declar advicedeclar
+advic declar advicedeclar advic declar advicedeclar method declar methoddeclar
+node set kind setkind program element iprogramel kind advic
+kind advic kind advicekind
+node set type setcorrespondingtyp return type returntyp string tostr node setcorrespondingtyp returntyp tostr returntypetostr
+string buffer stringbuff detail string buffer stringbuff
+pointcut design pointcutdesign
+detail append asm relationship util asmrelationshiputil gen pointcut detail genpointcutdetail pointcut design pointcutdesign pointcut getpointcut
+detail append asm relationship util asmrelationshiputil pointcut abstract pointcut abstract
+node set setnam kind string tostr
+detail length
+node set detail setdetail detail string tostr
+set paramet setparamet method declar methoddeclar node
+method declar methoddeclar pointcut declar pointcutdeclar
+pointcut declar pointcutdeclar pointcut declar pointcutdeclar method declar methoddeclar
+node set kind setkind program element iprogramel kind pointcut
+node set setnam translat pointcut translatepointcutnam string method declar methoddeclar selector
+set paramet setparamet method declar methoddeclar node
+method declar methoddeclar declar declar declaredeclar
+declar declar declaredeclar declar declar declar declaredeclar method declar methoddeclar
+string asm relationship util asmrelationshiputil dec label dec label
+declar declar decl declaredecl declar error warn declareerrororwarn
+declar error warn declareerrororwarn deow declar error warn declareerrororwarn declar declar decl declaredecl
+deow error iserror
+node set kind setkind program element iprogramel kind declar error declar error
+asm relationship util asmrelationshiputil declar error declar error
+node set kind setkind program element iprogramel kind declar warn declar warn
+asm relationship util asmrelationshiputil declar warn declar warn
+node set setnam
+node set detail setdetail asm relationship util asmrelationshiputil gen declar messag gendeclaremessag deow messag getmessag
+declar declar decl declaredecl declar parent declarepar
+node set kind setkind program element iprogramel kind declar parent declar parent
+declar parent declarepar declar parent declarepar declar declar decl declaredecl
+node set setnam asm relationship util asmrelationshiputil declar parent declar parent
+string kind kindofdp
+string buffer stringbuff detail string buffer stringbuff
+type pattern typepattern parent newpar parent getpar type pattern gettypepattern
+parent newpar length
+type pattern typepattern parent newpar
+unresolv type unresolvedtyp exact type getexacttyp
+kind kindofdp
+kind kindofdp implement
+resolv type resolvedtyp rtx resolv lookup environ ajlookupenviron declar scope environ factori world getworld
+rtx interfac isinterfac kind kindofdp extend
+throwabl
+wrong
+string typenam string tostr
+typenam index lastindexof
+typenam typenam substr typenam index lastindexof
+detail append typenam
+parent newpar length detail append
+node set detail setdetail kind kindofdp detail string tostr
+declar declar decl declaredecl declar soft declaresoft
+node set kind setkind program element iprogramel kind declar soft declar soft
+declar soft declaresoft declar soft declaresoft declar declar decl declaredecl
+node set setnam asm relationship util asmrelationshiputil declar soft declar soft
+node set detail setdetail gen type pattern label gentypepatternlabel except getexcept
+declar declar decl declaredecl declar preced declarepreced
+node set kind setkind program element iprogramel kind declar preced declar preced
+declar preced declarepreced declar preced declarepreced declar declar decl declaredecl
+node set setnam asm relationship util asmrelationshiputil declar preced declar preced
+node set detail setdetail gen preced list label genprecedencelistlabel pattern getpattern
+declar declar decl declaredecl declar annot declareannot
+declar annot declareannot deca declar annot declareannot declar declar decl declaredecl
+string thekind deca kind getkind string tostr
+node set setnam thekind substr
+deca kind getkind declar annot declareannot constructor constructor
+node set kind setkind program element iprogramel kind declar annot constructor declar annot constructor
+deca kind getkind declar annot declareannot field field
+node set kind setkind program element iprogramel kind declar annot field declar annot field
+deca kind getkind declar annot declareannot method method
+node set kind setkind program element iprogramel kind declar annot method declar annot method
+deca kind getkind declar annot declareannot type type
+node set kind setkind program element iprogramel kind declar annot type declar annot type
+node set detail setdetail gen deca label gendecalabel deca
+node set kind setkind program element iprogramel kind error
+node set setnam asm relationship util asmrelationshiputil declar unknonwn declar unknonwn
+method declar methoddeclar inter type declar intertypedeclar
+inter type declar intertypedeclar itd inter type declar intertypedeclar method declar methoddeclar
+string itd type getontyp string tostr string itd declar selector getdeclaredselector
+method declar methoddeclar inter type field declar intertypefielddeclar
+node set kind setkind program element iprogramel kind inter type field inter type field
+node set setnam
+method declar methoddeclar inter type method declar intertypemethoddeclar
+node set kind setkind program element iprogramel kind inter type method inter type method
+node set setnam
+method declar methoddeclar inter type constructor declar intertypeconstructordeclar
+node set kind setkind program element iprogramel kind inter type constructor inter type constructor
+stringbuff argumentssignatur stringbuff fubar
+argumentssignatur append
+methoddeclar argument null methoddeclar argument length
+int methoddeclar argument length
+argumentssignatur append methoddeclar argument
+methoddeclar argument length argumentssignatur append
+argumentssignatur append
+intertypeconstructordeclar itcd intertypeconstructordeclar methoddeclar
+node set setnam itd type getontyp string tostr itd type getontyp string tostr node setnam itd getontyp tostr itd getontyp tostr argumentssignatur tostr
+node set kind setkind program element iprogramel kind error
+node set setnam
+node set type setcorrespondingtyp itd return type returntyp string tostr
+node kind getkind program element iprogramel kind inter type field inter type field
+set paramet setparamet method declar methoddeclar node
+method declar methoddeclar constructor isconstructor
+node set kind setkind program element iprogramel kind constructor
+node set kind setkind program element iprogramel kind method
+todo speed dig aspect declar type aspect mix style allow
+node getpar getkind equal iprogramel kind aspect
+method declar methoddeclar method declar methoddeclar annot method declar methoddeclar scope
+method declar methoddeclar annot length
+note implicit singl advic type support enforc apt
+annot annot method declar methoddeclar annot
+string annot sig annotationsig string annot type type bind public gettypebindingpubl method declar methoddeclar scope signatur
+annot sig annotationsig annot sig annotationsig char charat
+lorg aspectj lang annot pointcut equal annot sig annotationsig
+node set kind setkind program element iprogramel kind pointcut
+lorg aspectj lang annot equal annot sig annotationsig
+lorg aspectj lang annot equal annot sig annotationsig
+lorg aspectj lang annot afterreturn equal annot sig annotationsig
+lorg aspectj lang annot afterthrow equal annot sig annotationsig
+lorg aspectj lang annot equal annot sig annotationsig
+node set kind setkind program element iprogramel kind advic
+todo consid anonym
+node set detail setdetail asm relationship util asmrelationshiputil pointcut anonym pointcut anonym
+node set setnam string method declar methoddeclar selector
+set paramet setparamet method declar methoddeclar node

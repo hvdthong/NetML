@@ -1,0 +1,7 @@
+org aspectj ajd
+author mik kersten
+structur view manag structureviewmanag
+param nodefactori concret factori creat view node
+structur view manag structureviewmanag structur view node factori structureviewnodefactori node factori nodefactori
+tree view builder treeviewbuild tree structur view builder treestructureviewbuild node factori nodefactori
+asm manag asmmanag default getdefault add listen addlisten view listen view listen

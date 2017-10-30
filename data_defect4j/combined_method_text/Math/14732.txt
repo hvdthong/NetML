@@ -1,0 +1,7 @@
+neg nonneg
+org apach common math3 optim linear
+restrict neg isrestrictedtononneg
+version
+code variabl restrict neg valu
+linear optim linearoptim
+base implement linear optim

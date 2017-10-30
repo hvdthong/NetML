@@ -1,0 +1,15 @@
+org aspectj apach bcel classfil
+class deriv attribut repres refer
+sourc file class sourcefil attribut
+classfil intent class
+instanti attribut readattribut method
+version sourcefil java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+sourc file sourcefil attribut
+dump sourc file attribut file stream binari format
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+dump file
+file write short writeshort sourcefil index

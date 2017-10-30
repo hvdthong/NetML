@@ -1,0 +1,13 @@
+gauss newton estim gaussnewtonestim
+criterion
+criterion measur weight getweight residu residu
+solv estim problem weight
+measur length
+squar criterion measur residu
+weight measur weightedmeasur measur problem measur getmeasur
+version gauss newton estim gaussnewtonestim java 39z luc
+org apach common math estim
+residu measur residu getresidu
+gauss newton algorithm
+solver estim problem
+evalu criterion evaluatecriterion estim problem estimationproblem problem

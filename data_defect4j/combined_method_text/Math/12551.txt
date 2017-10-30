@@ -1,0 +1,13 @@
+set normal setnorm vector3 vector3d normal
+repres plane dimension space
+math arithmet except matharithmeticexcept local format localizedformat norm
+org apach common math3 geometri euclidean threed
+set normal setnorm vector3 vector3d normal math arithmet except matharithmeticexcept
+except math arithmet except matharithmeticexcept normal norm small
+param normal normal direct plane copi
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+set normal vactor
+vector3 vector3d norm normal
+norm
+norm normal norm getnorm

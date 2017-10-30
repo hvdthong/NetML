@@ -1,0 +1,45 @@
+comput discret fourier transform mathemat
+variant discret fourier transform
+temp mdcm vector subvector
+comput
+current implement discret fourier transform fast
+temp transform temp type
+mdfft multi dimension complex matrix multidimensionalcomplexmatrix mdcm
+fft appli dimens
+deprec
+dimens size dimensions
+zero meet requir flavor fft
+dimens size dimensions vector subvector length
+link dft normal dftnormal
+import recurs
+implement fast fourier transform transform dimension
+fft dimens
+transform type transformtyp type vector subvector
+vector subvector length dimens size dimensions length
+vector subvector
+version
+mdcm set temp vector subvector
+system arraycopi vector subvector vector vector subvector length
+param vector subvector recurs subvector
+dft normal dftnormal
+vector
+greatli simplifi speed code user pad data
+refer winograd
+perform dimens multi dimension fourier transform
+vector vector subvector length
+normal convent paramet
+algebra isbn chapter
+param type type transform forward invers perform
+complex temp complex dimens size dimensions
+split dimens
+deprec math
+fourier transform requir length data set power
+dimens size dimensions mdcm dimens size getdimensions
+mdfft mdcm type vector
+real complex data set refer appli numer linear
+illeg argument except illegalargumentexcept dimens power
+org apach common math transform
+vector subvector length
+param mdcm input matrix
+fast fourier transform fastfouriertransform serializ
+param index dimens process

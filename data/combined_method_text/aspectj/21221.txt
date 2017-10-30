@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+zip file weaver zipfileweav
+weav bcel weaver bcelweav weaver file file outfil except ioexcept
+count
+start time starttim system current time milli currenttimemilli
+weaver add jar file addjarfil file infil file
+weaver weav file outfil
+stop time stoptim system current time milli currenttimemilli
+system println handl count entri
+stop time stoptim start time starttim second

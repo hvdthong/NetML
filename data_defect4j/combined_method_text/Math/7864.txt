@@ -1,0 +1,19 @@
+param col column test ratio link pivot column getpivotcolumn
+solv linear problem phase simplex method
+ratio min ratio minratio
+min ratio po minratiopo
+integ min ratio po minratiopo
+integ pivot row getpivotrow col simplex tableau simplextableau tableau
+min ratio minratio doubl max
+return row minimum ratio minimum ratio test mrt
+tableau num object function getnumobjectivefunct tableau height getheight
+ratio rh tableau entri getentri col
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+tableau entri getentri col
+math util mathutil compar compareto tableau entri getentri col epsilon
+version revis date
+row minimum ratio
+org apach common math optim linear
+param tableau simpl tableau problem
+rh tableau entri getentri tableau width getwidth
+min ratio minratio ratio

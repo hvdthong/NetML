@@ -1,0 +1,26 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+refer type deleg referencetypedeleg resolv deleg resolvedeleg refer type referencetyp
+string getnam
+java class javaclass
+ensur advanc configur process ensureadvancedconfigurationprocess
+unwovenclassfil classfil unwovenclassfil sourcejavaclass
+classfil null classfil getjavaclass
+isfastdelegatesupporten classpath null needsmodifiabledeleg isnotonpackagerestrictedlist
+classpathmanag classfil classpath find
+null
+return null
+referencetypedeleg deleg buildasmdeleg
+fallbacktoloadingbceldelegatesforaspect deleg isaspect
+bugger pr135001 inlin advic aspect load instruct
+fix quick ajdt upgrad good 2dev build
+fix
+record load superclass aspect make bcel deleg
+'fix' reason aspect class
+creat bcel deleg
+null lookupjavaclass classpath
+null return deleg worri situat
+return buildbceldeleg fals
+return deleg
+lookup java class lookupjavaclass class path classpath
+build bcel deleg buildbceldeleg

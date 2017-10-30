@@ -1,0 +1,15 @@
+boundari attribut boundaryattribut euclidean3 euclidean3d attribut
+outlin extractor outlineextractor
+version
+attribut getplusoutsid
+extractor link polygon set polygonsset polyhedron set outlin
+org apach common math3 geometri euclidean threed
+visit intern node visitinternalnod bsp tree bsptree euclidean3 euclidean3d node
+add contribut addcontribut attribut getplusoutsid
+boundari attribut boundaryattribut euclidean3 euclidean3d node attribut getattribut
+polyhedron set project plane
+attribut insid getplusinsid
+add contribut addcontribut attribut insid getplusinsid
+suppress warn suppresswarn uncheck
+inherit doc inheritdoc
+extract outlin link polygon set polygonsset

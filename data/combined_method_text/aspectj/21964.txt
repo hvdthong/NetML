@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+author colyer
+match type method constructor field
+allow declar parent declar type
+member type pattern hasmembertypepattern type pattern typepattern
+string string tostr
+string buffer stringbuff buff string buffer stringbuff
+signatur pattern signaturepattern kind getkind member field
+buff append hasfield
+buff append hasmethod
+buff append signatur pattern signaturepattern string tostr
+buff append
+buff string tostr

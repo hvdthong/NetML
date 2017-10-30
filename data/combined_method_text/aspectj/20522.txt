@@ -1,0 +1,26 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener object aspect method generateperobjecthasaspectmethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+refer type referencetyp interfac type interfacetyp refer type referencetyp bcel world bcelworld make bcel type makebceltyp ajc member maker ajcmembermak object interfac type perobjectinterfacetyp aspect type aspecttyp
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak object aspect method perobjecthasaspectmethod aspect type aspecttyp
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+instruct list instructionlist method bodi getbodi
+append instruct constant instructionconst aload
+append factori creat instanc createinstanceof interfac type interfacetyp
+branch instruct branchinstruct ifeq instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifeq
+append ifeq
+append instruct constant instructionconst aload
+append factori creat check cast createcheckcast interfac type interfacetyp
+append util creat invok createinvok factori constant invokeinterfac ajc member maker ajcmembermak object interfac perobjectinterfaceget aspect type aspecttyp
+branch instruct branchinstruct null ifnul instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifnul
+append null ifnul
+append instruct constant instructionconst iconst
+append instruct factori instructionfactori creat return createreturn type int
+instruct handl instructionhandl ifeqels append instruct constant instructionconst iconst
+ifeq set target settarget ifeqels
+null ifnul set target settarget ifeqels
+append instruct factori instructionfactori creat return createreturn type int

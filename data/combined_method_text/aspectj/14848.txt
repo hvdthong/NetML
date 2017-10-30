@@ -1,0 +1,51 @@
+org aspectj apach bcel verifi
+verifi instanc verifi class file java virtual
+machin specif 2nd edit
+pass verif includ pass verif
+pass verif includ pass verif
+pass verif includ pass verif
+verifi creat passverifi instanc perform actual verif
+verifi instanc gener verifierfactori
+version verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi verifierfactori
+org aspectj apach bcel verifi passverifi
+verifi
+return warn messag collect verif
+prefix show verifi pass messag origin
+string messag getmessag
+arrai list arraylist messag arrai list arraylist
+p1v
+string p1m p1v messag getmessag
+p1m length
+messag add pass p1m
+p2v
+string p2m p2v messag getmessag
+p2m length
+messag add pass p2m
+iter p3a p3av valu iter
+p3a hasnext
+pass3a verifi pass3averifi pass3a verifi pass3averifi p3a
+string p3am messag getmessag
+meth method getmethodno
+p3am length
+messag add pass method meth
+org aspectj apach bcel repositori
+lookup class lookupclass classnam
+method getmethod meth
+p3am
+iter p3b p3bv valu iter
+p3b hasnext
+pass3b verifi pass3bverifi pass3b verifi pass3bverifi p3b
+string p3bm messag getmessag
+meth method getmethodno
+p3bm length
+messag add pass method meth
+org aspectj apach bcel repositori
+lookup class lookupclass classnam
+method getmethod meth
+p3bm
+string ret string messag size
+messag size
+ret string messag
+ret

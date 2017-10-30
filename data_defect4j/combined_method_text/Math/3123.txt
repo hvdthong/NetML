@@ -1,0 +1,13 @@
+org apach common math geometri euclidean threed
+param point point check
+repres plane dimension space
+offset getoffset vector euclidean3 euclidean3d point
+posit point side
+offset point
+offset orient distanc point
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+vector3 vector3d dot product dotproduct vector3 vector3d point origin offset originoffset
+hyperplan natur orient
+offset point underli hyperplan
+hyperplan neg point side

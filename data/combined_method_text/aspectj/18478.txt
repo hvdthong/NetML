@@ -1,0 +1,6 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb inter field initi interfieldiniti resolv member resolvedmemb field unresolv type unresolvedtyp aspect type aspecttyp
+resolv member impl resolvedmemberimpl member method aspect type aspecttyp public static public static
+mangler namemangl inter field initi interfieldiniti aspect type aspecttyp field declar type getdeclaringtyp field getnam
+field static isstat field declar type getdeclaringtyp signatur getsignatur

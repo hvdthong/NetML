@@ -1,0 +1,9 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+resolv member impl resolvedmemberimpl make except handler signatur makeexceptionhandlersignatur unresolv type unresolvedtyp type intyp unresolv type unresolvedtyp catch type catchtyp
+resolv member impl resolvedmemberimpl
+handler
+type intyp
+modifi static
+catch
+catch type catchtyp signatur getsignatur

@@ -1,0 +1,12 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+list late type munger getlatetypemung
+late type munger latetypemung
+arrai list arraylist ret arrai list arraylist
+iter member valu iter hasnext
+ret add addal crosscut member crosscuttingmemb late type munger getlatetypemung
+late type munger latetypemung ret
+late type munger latetypemung

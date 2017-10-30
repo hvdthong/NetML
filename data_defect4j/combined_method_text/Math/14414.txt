@@ -1,0 +1,24 @@
+smaller
+version
+param vec absolut toler vecabsolutetoler allow absolut error
+link adam moulton integr adamsmoultonintegr adam moulton integr
+adam integr adamsintegr string step nstep order
+integr direct forward backward step
+org apach common math3 od nonstiff
+param step nstep number step method exclud comput
+vec absolut toler vecabsolutetoler
+param method
+base link adam bashforth integr adamsbashforthintegr adam bashforth
+param vec rel toler vecrelativetoler allow rel error
+param order order method
+param min step minstep minim step sign irrelev
+step nstep order min step minstep max step maxstep
+vec rel toler vecrelativetoler
+adam integr adamsintegr multistep integr multistepintegr
+transform adam nordsieck transform adamsnordsiecktransform instanc getinst step nstep
+min step minstep max step maxstep
+vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler
+build adam integr order step control paramet
+except illeg argument except illegalargumentexcept order
+param max step maxstep maxim step sign irrelev
+illeg argument except illegalargumentexcept

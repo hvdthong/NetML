@@ -1,0 +1,23 @@
+version
+param row len rowlen size row tabl
+close
+read fulli readfulli
+data buf dbuf
+byte doubl row len rowlen
+param basenam resourc
+param len size tabl
+except ioexcept
+math intern error mathinternalerror
+util save load tabul data
+retriev data
+len
+link fast math fastmath
+data
+fast math resourc fastmathresourc
+org apach common math util
+byte buffer bytebuff buf bbuf byte buffer bytebuff wrap
+data len row len rowlen
+data input stream datainputstream
+load table2d loadtable2d string
+doubl buffer doublebuff buf dbuf buf bbuf doubl buffer asdoublebuff
+row len rowlen

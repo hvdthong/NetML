@@ -1,0 +1,32 @@
+strictli posit except notstrictlypositiveexcept local format localizedformat number point
+param number point numberofpoint number integr point
+org apach common math3 analysi integr gauss
+weight
+point
+base rule factori baserulefactori number
+strictli posit except notstrictlypositiveexcept
+strictli posit except notstrictlypositiveexcept dimens mismatch except dimensionmismatchexcept
+dimens mismatch except dimensionmismatchexcept element rule pair
+base rule determin integr node
+cach convert doubl converttodoubl rule
+pair cach point weight doubl pointsandweightsdoubl number point numberofpoint
+version
+strictli posit except notstrictlypositiveexcept code number point numberofpoint
+cach getsecond clone
+point weight doubl pointsandweightsdoubl put number point numberofpoint cach
+number point numberofpoint
+copi quadratur rule number integr point
+obtain rule cach
+param type number repres point weight
+quadratur rule
+return copi
+pair rule getrul number point numberofpoint
+pair rule rule intern getruleintern number point numberofpoint
+subclass implement link comput rule computerul comput rule computerul method
+rule comput
+copi integr rule
+cach
+pair cach getfirst clone
+copi quadratur rule number integr
+length
+comput rule

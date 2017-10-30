@@ -1,0 +1,8 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+increment imag builder incrementalimagebuild increment imag builder getincrementalimagebuild
+batch build isbatchbuild
+increment imag builder ajincrementalimagebuild

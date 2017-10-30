@@ -1,0 +1,20 @@
+org aspectj ajd swing
+repres configur structur view system render
+code structuretreemanag code
+author mik kersten
+browser view panel browserviewpanel panel jpanel structur view render structureviewrender
+browser view panel browserviewpanel icon registri iconregistri icon java util list view structur view properti structureviewproperti hierarchi visibl view hierarchi visibleviewhierarchi
+view combo box view combobox combo box jcombobox view arrai toarrai
+iter view iter hasnext
+structur view properti structureviewproperti hierarchi hierarchi structur view properti structureviewproperti hierarchi
+hierarchi visibl view hierarchi visibleviewhierarchi
+view combo box view combobox set select item setselecteditem hierarchi
+globalviewproperti visibleview globalviewproperti viewproperti visibleviewhierarchi tostr
+tree manag treemanag structur tree manag structuretreemanag treemanag structuretreemanag visibleview
+init jbinit
+init depth slider initdepthslid
+tree scroll pane tree scrollpan viewport getviewport add tree manag treemanag structur tree getstructuretre
+ajd getdefault getviewmanag getfilestructureview addlisten view listen
+except
+messag msg messag initi gui messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

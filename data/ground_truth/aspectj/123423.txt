@@ -1,0 +1,5 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AspectDeclaration_buildPerClause-ClassScope_void
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AspectDeclaration_generatePerSupportMembers-ClassFile_void
+org.aspectj/modules/weaver/src/org/aspectj/weaver/AjcMemberMaker_perTypeWithinGetInstance-UnresolvedType_ResolvedMember
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelPerClauseAspectAdder_doMunge-LazyClassGen-boolean_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelPerClauseAspectAdder_generatePerClauseMembers-LazyClassGen_void

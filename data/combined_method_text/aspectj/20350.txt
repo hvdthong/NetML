@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+initi super initi map initializesuperinitializermap resolv type resolvedtyp child
+resolv type resolvedtyp super interfac superinterfac child declar interfac getdeclaredinterfac
+len super interfac superinterfac length len
+resolv type getresolvedtypex topmost implementor istopmostimplementor super interfac superinterfac
+add super initi addsuperiniti super interfac superinterfac
+initi super initi map initializesuperinitializermap super interfac superinterfac

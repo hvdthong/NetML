@@ -1,0 +1,111 @@
+Problem in tagdiff.xsl
+Hi 
+
+Some of the file names in my repository contains "&" symbol.
+For example,
+"Medicare Prospect & Renewal CSV Format.doc".
+
+I want to find out the diff between 2 tags
+By using "cvstagdiff" task we generated a xml file and then we convert the same 
+from xml to html format using <style> task you have given in the example.
+
+It thro' following error message.
+
+BUILD FAILED
+D:\Ant_testing\diff_report\diff_report.xml:7: Fatal error during transformation
+        at org.apache.tools.ant.taskdefs.XSLTProcess.process
+(XSLTProcess.java:506)
+        at org.apache.tools.ant.taskdefs.XSLTProcess.execute
+(XSLTProcess.java:209)
+        at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:269)
+        at org.apache.tools.ant.Task.perform(Task.java:364)
+        at org.apache.tools.ant.Target.execute(Target.java:301)
+        at org.apache.tools.ant.Target.performTasks(Target.java:328)
+        at org.apache.tools.ant.Project.executeTarget(Project.java:1215)
+        at org.apache.tools.ant.Project.executeTargets(Project.java:1063)
+        at org.apache.tools.ant.Main.runBuild(Main.java:632)
+        at org.apache.tools.ant.Main.startAnt(Main.java:183)
+        at org.apache.tools.ant.launch.Launcher.run(Launcher.java:197)
+        at org.apache.tools.ant.launch.Launcher.main(Launcher.java:56)
+Caused by: Fatal error during transformation
+        at org.apache.tools.ant.taskdefs.optional.TraXLiaison.fatalError
+(TraXLiaison.java:349)
+        at org.apache.xalan.transformer.TransformerImpl.fatalError(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.tools.ant.taskdefs.optional.TraXLiaison.transform
+(TraXLiaison.java:138)
+        at org.apache.tools.ant.taskdefs.XSLTProcess.process
+(XSLTProcess.java:495)
+        ... 11 more
+Caused by: javax.xml.transform.TransformerException: The entity name must 
+immediately follow the '&'
+ in the entity reference.
+        ... 17 more
+--- Nested Exception ---
+Fatal error during transformation
+        at org.apache.tools.ant.taskdefs.optional.TraXLiaison.fatalError
+(TraXLiaison.java:349)
+        at org.apache.xalan.transformer.TransformerImpl.fatalError(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.tools.ant.taskdefs.optional.TraXLiaison.transform
+(TraXLiaison.java:138)
+        at org.apache.tools.ant.taskdefs.XSLTProcess.process
+(XSLTProcess.java:495)
+        at org.apache.tools.ant.taskdefs.XSLTProcess.execute
+(XSLTProcess.java:209)
+        at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:269)
+        at org.apache.tools.ant.Task.perform(Task.java:364)
+        at org.apache.tools.ant.Target.execute(Target.java:301)
+        at org.apache.tools.ant.Target.performTasks(Target.java:328)
+        at org.apache.tools.ant.Project.executeTarget(Project.java:1215)
+        at org.apache.tools.ant.Project.executeTargets(Project.java:1063)
+        at org.apache.tools.ant.Main.runBuild(Main.java:632)
+        at org.apache.tools.ant.Main.startAnt(Main.java:183)
+        at org.apache.tools.ant.launch.Launcher.run(Launcher.java:197)
+        at org.apache.tools.ant.launch.Launcher.main(Launcher.java:56)
+Caused by: javax.xml.transform.TransformerException: The entity name must 
+immediately follow the '&'
+ in the entity reference.
+        ... 17 more
+--- Nested Exception ---
+; SystemID: file:///D:/Ant_testing/diff_report/datediff.xml; Line#: 219; 
+Column#: 38
+javax.xml.transform.TransformerException: The entity name must immediately 
+follow the '&' in the ent
+ity reference.
+        at org.apache.xalan.transformer.TransformerImpl.fatalError(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.xalan.transformer.TransformerImpl.transform(Unknown 
+Source)
+        at org.apache.tools.ant.taskdefs.optional.TraXLiaison.transform
+(TraXLiaison.java:138)
+        at org.apache.tools.ant.taskdefs.XSLTProcess.process
+(XSLTProcess.java:495)
+        at org.apache.tools.ant.taskdefs.XSLTProcess.execute
+(XSLTProcess.java:209)
+        at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:269)
+        at org.apache.tools.ant.Task.perform(Task.java:364)
+        at org.apache.tools.ant.Target.execute(Target.java:301)
+        at org.apache.tools.ant.Target.performTasks(Target.java:328)
+        at org.apache.tools.ant.Project.executeTarget(Project.java:1215)
+        at org.apache.tools.ant.Project.executeTargets(Project.java:1063)
+        at org.apache.tools.ant.Main.runBuild(Main.java:632)
+        at org.apache.tools.ant.Main.startAnt(Main.java:183)
+        at org.apache.tools.ant.launch.Launcher.run(Launcher.java:197)
+        at org.apache.tools.ant.launch.Launcher.main(Launcher.java:56)

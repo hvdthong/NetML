@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+attribut ajattribut attribut getattribut string
+list result arrai list arraylist
+list bcel attribut bcelattribut read attribut readajattribut java class javaclass class getclassnam java class javaclass attribut getattribut resolv type getresolvedtypex sourc context getsourcecontext resolv type getresolvedtypex world getworld attribut ajattribut weaver version info weaverversioninfo unknown
+iter iter iter iter hasnext
+attribut ajattribut element attribut ajattribut iter
+element string getnamestr equal result add element
+result size
+attribut ajattribut result arrai toarrai attribut ajattribut

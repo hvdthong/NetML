@@ -1,0 +1,26 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+evict weav state evictweavingst
+chuck
+resolv type getresolvedtypex world getworld increment compil follow couldincrementalcompilefollow
+java class javaclass
+forc retriev lazi inform
+ensur annot unpack ensureannotationsunpack
+ensur gener info process ensuregenericinfoprocess
+declar interfac getdeclaredinterfac
+declar field getdeclaredfield
+declar method getdeclaredmethod
+lazyclassgen preserv aspect exist enabl advic
+inlin method 'injecting' affect class
+xnoinlin chuck lazyclassgen requir
+resolv type getresolvedtypex world getworld xno inlin isxnoinlin lazi class gen lazyclassgen
+discard expens bytecod arrai reweav info
+weaver state weaverst
+weaver state weaverst set reweav setreweav
+weaver state weaverst set unwoven class file data setunwovenclassfiledata
+method length method evict weav state evictweavingst
+field length field evict weav state evictweavingst
+java class javaclass
+setsourcecontext sourcecontextimpl unknown sourc context bit naughti
+interfac null forc reinit instanc
+superclass null

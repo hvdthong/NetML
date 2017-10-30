@@ -1,0 +1,8 @@
+org aspectj weaver
+method type munger newmethodtypemung resolv type munger resolvedtypemung
+write data output stream dataoutputstream except ioexcept
+kind write
+signatur write
+write super method call writesupermethodscal
+write sourc locat writesourceloc
+write type alias writeouttypealias

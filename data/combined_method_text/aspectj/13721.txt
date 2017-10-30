@@ -1,0 +1,13 @@
+org aspectj apach bcel gener
+iinc increment local variabl constant
+version iinc java acoly exp
+author href mailto marku dahm berlin dahm
+iinc local variabl instruct localvariableinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit local variabl instruct visitlocalvariableinstruct
+visit iinc visitiinc

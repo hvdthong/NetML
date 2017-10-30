@@ -1,0 +1,11 @@
+repres region set polygon
+param locat vertex locat
+locat locat
+build process vertex own node
+line arrai list arraylist line
+vertex vector2 vector2d locat
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+outgo
+incom
+org apach common math3 geometri euclidean twod

@@ -1,0 +1,14 @@
+org aspectj weaver
+boundedreferencetyp result gener wildcard express
+extend string super foo
+signatur bound refer type gener signatur
+specif section jvm spec signatur string
+bound type variabl super
+bound refer type boundedreferencetyp refer type referencetyp
+unresolv type unresolvedtyp parameter map type bind typebind
+refer type referencetyp parameter addit interfac parameterizedadditionalinterfac refer type referencetyp addit interfac bound additionalinterfacebound addit interfac bound additionalinterfacebound length
+parameter addit interfac parameterizedadditionalinterfac length
+parameter addit interfac parameterizedadditionalinterfac refer type referencetyp addit interfac bound additionalinterfacebound parameter type bind typebind
+extend isextend
+bound refer type boundedreferencetyp refer type referencetyp upper bound getupperbound parameter type bind typebind extend isextend world parameter addit interfac parameterizedadditionalinterfac
+bound refer type boundedreferencetyp refer type referencetyp lower bound getlowerbound parameter type bind typebind extend isextend world parameter addit interfac parameterizedadditionalinterfac

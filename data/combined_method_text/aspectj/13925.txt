@@ -1,0 +1,78 @@
+org aspectj apach bcel gener
+class contain list
+href instruct html instruct object instruct
+append insert move delet instruct
+wrap
+href instructionhandl html instructionhandl object
+return append insert oper give user
+read access list structur travers
+manipul control
+list final dump byte code arrai
+href getbytecod getbytecod
+version instructionlist java aclement exp
+author href mailto marku dahm berlin dahm
+instruct
+instructionhandl
+branchhandl
+instruct list instructionlist serializ
+give instruct posit number offset byte stream
+make list readi dump
+param check perform saniti check target instruct belong
+list
+set posit setposit check
+max addit byte addit byte
+index count
+po length
+pass saniti check
+check
+instruct handl instructionhandl start
+instruct instruct
+branch instruct branchinstruct instanceof branchinstruct target instruct list
+instruct inst branch instruct branchinstruct target gettarget instruct
+inst
+class gen except classgenexcept branch target
+constant opcod name opcod name opcod
+inst instruct list
+select
+instruct handl instructionhandl target select target gettarget
+target length
+inst target instruct
+inst
+class gen except classgenexcept branch target
+constant opcod name opcod name opcod
+inst instruct list
+branch handl branchhandl
+class gen except classgenexcept branch instruct
+constant opcod name opcod name opcod
+inst contain branchhandl
+pass set posit number sum maximum number byte
+instruct shift
+instruct handl instructionhandl start
+instruct instruct
+set posit setposit index
+po count index
+estim addit byte ad
+branchinstruct variabl length depend target
+offset short int align issu tableswitch
+lookupswitch
+opcod getopcod
+constant jsr constant goto
+max addit byte
+constant tableswitch constant lookupswitch
+max addit byte
+index length getlength
+pass expand variabl length branch instruct depend
+target offset short int ensur branch target
+list
+instruct handl instructionhandl start
+addit byte updat posit updateposit addit byte max addit byte
+pass updat posit number chang due
+preced expans pass
+index count
+instruct handl instructionhandl start
+instruct instruct
+set posit setposit index
+po count index
+index length getlength
+byte posit count byte posit int count trim proper size
+system arraycopi po byte posit count

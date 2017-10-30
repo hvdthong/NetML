@@ -1,0 +1,28 @@
+org aspectj util
+file util fileutil
+convert string path file offset base directori
+param basedir null file base directori file creat path
+param path string path creat
+param suffix string suffix limit sourc null
+return file length path
+file base dir file getbasedirfil
+file basedir
+string path
+string suffix
+lang util langutil throw iax null throwiaxifnul basedir basedir
+lang util langutil throw iax null throwiaxifnul path path
+file result
+lang util langutil empti isempti suffix
+arrai list arraylist list arrai list arraylist
+path length
+list
+string path path
+list suffix length
+string suffix suffix
+list path end endswith suffix
+list add file basedir path
+result file list arrai toarrai file
+result file path length
+result length
+result file newfil basedir path
+result

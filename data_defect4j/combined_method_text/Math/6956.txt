@@ -1,0 +1,13 @@
+org apach common math od sampl
+end
+inherit doc inheritdoc
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+interpol deriv interpolatedderiv
+interpol comput dens output current point
+current state currentst length
+interpol equat base taylor seri formula
+interpol deriv interpolatedderiv scale low power lowpow scale
+interpol state interpolatedst current state currentst scale low power lowpow
+version revis date
+adam integr adamsintegr
+interpol integr nordsieck represent

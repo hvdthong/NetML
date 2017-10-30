@@ -1,0 +1,20 @@
+Incorrect JavaAdapter generation for base class that overrides an abstract method
+If you define a class as so:
+public abstract class BaseFoo {
+  public abstract String doSomething();
+}
+public class Foo extends BaseFoo {
+  public String doSomething() {
+     return "hello world";
+  }
+}
+
+and you do in Rhino:
+var aFoo = new JavaAdapter(Packages.com.google.Foo, {});
+
+what is the return of:
+aFoo.doSomething()
+
+The answer is... the string 'undefined'!
+
+Should be "hello world".

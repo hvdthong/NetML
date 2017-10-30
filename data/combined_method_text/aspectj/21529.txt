@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot pattern list annotationpatternlist pattern node patternnod
+annot pattern list annotationpatternlist read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+len read short readshort
+annot type pattern annotationtypepattern argument annot type pattern annotationtypepattern len
+len
+argument annot type pattern annotationtypepattern read context
+annot pattern list annotationpatternlist ret annot pattern list annotationpatternlist argument
+ret read locat readloc context
+ret

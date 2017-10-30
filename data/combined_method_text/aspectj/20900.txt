@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+start
+iter entri iter hasnext
+start start
+buf append file path separ pathsepar
+buf append
+buf string tostr

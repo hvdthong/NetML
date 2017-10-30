@@ -1,0 +1,29 @@
+author stephen colebourn
+pattern languag format
+string format period formatperiod start milli startmilli end milli endmilli string format
+author href mailto sbailliez apach org stephan bailliez
+year
+month
+second
+tabl border
+tabl
+param end milli endmilli end durat
+millisecond
+time string
+author henri yandel
+format period formatperiod start milli startmilli end milli endmilli format time zone timezon default getdefault
+param start milli startmilli start durat
+version
+durat format util constant tabl describ token
+durat format util durationformatutil
+dai
+author href mailto ggregori seagullsw gari gregori
+charact durat element
+author apach ant date util dateutil
+hour
+format time gap string format
+author href mailto stefan bodewig epost stefan bodewig
+param format format durat
+org apach common lang time
+minut
+pad left hand side number zero option

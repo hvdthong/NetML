@@ -1,0 +1,21 @@
+author stephen colebourn
+millisecond instant
+link readabl instant readableinst
+kind date time object referenc
+org joda time base
+author brian neill o'neil
+abstract instant abstractinst thread safe immut subclass
+param formatt formatt mean code string tostr code
+abstract instant abstractinst common behaviour instant class
+implement code readabl instant readableinst code
+mutabl thread safe
+abstract instant abstractinst readabl instant readableinst
+string tostr
+extend
+formatt convert partial string
+formatt print
+format string
+concept chronolog method work
+formatt
+string string tostr date time formatt datetimeformatt formatt
+gener directli api user

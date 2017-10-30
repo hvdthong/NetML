@@ -1,0 +1,123 @@
+org aspectj weaver
+abstract refer type deleg abstractreferencetypedeleg refer type deleg referencetypedeleg
+creat string represent deleg allow
+easili compar deleg implement
+string stringifi deleg stringifydeleg
+string buffer stringbuff result string buffer stringbuff
+result append deleg resolv type getresolvedtypex getnam
+result append isaspect aspect isaspect
+result append isannotationstyleaspect annot style aspect isannotationstyleaspect
+result append isinterfac interfac isinterfac
+result append isenum enum isenum
+result append isclass class isclass
+result append
+result append isannot annot isannot
+result append retentionpolici retent polici getretentionpolici
+result append canannotationtargettyp annot target type canannotationtargettyp
+annot target kind annotationtargetkind kind annot target kind getannotationtargetkind
+kind kind length
+result append annotationtargetkind
+kind length
+annot target kind annotationtargetkind kind kind
+result append kind
+kind length result append
+result append
+result append isannotationwithruntimeretent annot runtim retent isannotationwithruntimeretent
+result append
+result append isanonym anonym isanonym
+result append isnest nest isnest
+result append
+result append isgener gener isgener
+result append declaredgenericsignatur declar gener signatur getdeclaredgenericsignatur
+result append
+annot annotationx ax annot getannot
+ax ax length
+result append getannot return ax length annot
+ax length
+annot annotationx annot annotationx ax
+result append annot annotationx
+result append getannot return
+resolv type resolvedtyp axtyp annot type getannotationtyp
+axtyp axtyp length
+result append getannotationtyp return axtyp length annot
+axtyp length
+resolv type resolvedtyp annot axtyp
+result append annot annot class getclass
+result append getannotationtyp return
+result append isexposedtoweav expos weaver isexposedtoweav
+result append getsuperclass superclass getsuperclass
+result append getresolvedtypex resolv type getresolvedtypex
+result append
+resolv member resolvedmemb field declar field getdeclaredfield
+field field length
+result append field field length
+field length
+resolv member resolvedmemb member field
+result append member debug string todebugstr
+resolv member resolvedmemb method declar method getdeclaredmethod
+method method length
+result append method method length
+method length
+resolv member resolvedmemb member method
+result append member debug string todebugstr
+resolv type resolvedtyp interfac declar interfac getdeclaredinterfac
+interfac interfac length
+result append interfac interfac length
+interfac length
+resolv type resolvedtyp member interfac
+result append member
+result append getmodifi modifi getmodifi
+result append perclaus claus getperclaus
+result append weaverst weaver state getweaverst
+resolv member resolvedmemb pointcut declar pointcut getdeclaredpointcut
+pointcut pointcut length
+result append pointcut pointcut length
+sort damn thing
+list sort set pointcut sortedsetofpointcut arrai list arraylist
+pointcut length sort set pointcut sortedsetofpointcut add pointcut
+collect sort sort set pointcut sortedsetofpointcut
+iter iter sort set pointcut sortedsetofpointcut iter iter hasnext
+resolv member resolvedmemb member resolv member resolvedmemb iter
+result append member debug string todebugstr
+collect declar declar getdeclar
+declar size
+result append declar declar size
+sort damn thing
+list sortedsetofpointcut arraylist
+int pointcut length sortedsetofpointcut add pointcut
+collect sort sortedsetofpointcut
+iter iter declar iter iter hasnext
+declar dec declar iter
+result append dec string tostr
+type variabl typevari type variabl gettypevari
+length
+result append type variabl length
+length
+result append
+collect tmunger type munger gettypemung
+tmunger size
+list sort arrai list arraylist
+sort add addal tmunger
+collect sort sort compar
+compar object arg0 object arg1
+arg0 string tostr compar compareto arg1 string tostr
+result append type munger tmunger size
+iter iter sort iter iter hasnext
+concret type munger concretetypemung mun concret type munger concretetypemung iter
+result append mun string tostr
+result append doesnotexposeshadowmung expos shadow munger doesnotexposeshadowmung
+collect pa privileg access getprivilegedaccess
+pa pa size
+list sort arraylist
+sort addal tmunger
+collect sort sort compar
+public int compar object arg0 object arg1
+return arg0 tostr compareto arg1 tostr
+result append privileg access pa size
+iter iter pa iter iter hasnext
+resolv member resolvedmemb mun resolv member resolvedmemb iter
+result append mun debug string todebugstr
+public collect getprivilegedaccess
+public boolean hasannot unresolvedtyp oftyp
+result append
+result string tostr

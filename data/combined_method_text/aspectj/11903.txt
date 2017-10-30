@@ -1,0 +1,13 @@
+org aspectj ajdt intern core builder
+compil option eclips integr ajdt
+compil option ajcompileropt compil option compileropt
+add warn default set
+set aspect warn default setaspectjwarningdefault
+warn threshold warningthreshold
+warn threshold warningthreshold
+invalid absolut type invalidabsolutetypenam
+unresolv member unresolvablememb
+type expos weaver typenotexposedtoweav
+unmatch super type call unmatchedsupertypeincal
+implement lazi tjp cannotimplementlazytjp
+compil option compileropt swallow except catch block swallowedexceptionincatchblock

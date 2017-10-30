@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+aim method make type 'ok'
+oper deleg type modifi method
+intend undo pr85132
+valid type validatetyp unresolv type unresolvedtyp type
+resolv type resolvedtyp result type map typemap type signatur getsignatur
+result result null return heard
+result expos weaver isexposedtoweav result isexposedtoweav return reset
+refer type referencetyp refer type referencetyp result
+deleg getdeleg ensur deleg consist ensuredelegateconsist
+rebuild 'from scratch'
+classpars classpars bytearrayinputstream newbyt string
+setdeleg makebcelobjecttyp pars true
+catch classformatexcept
+printstacktrac
+catch ioexcept
+printstacktrac

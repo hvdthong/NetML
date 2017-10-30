@@ -1,0 +1,7 @@
+interfac univari real integr algorithm
+org apach common math analysi integr
+number iter
+univari real integr univariaterealintegr
+version
+iter getiter
+number iter run integr

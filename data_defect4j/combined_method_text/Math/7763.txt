@@ -1,0 +1,53 @@
+overrid
+converg checker converg iter previou current
+converg converg
+residu object target valu targetvalu
+solv squar problem solv normal equat
+evalu object function jacobian
+inherit doc inheritdoc
+converg except convergenceexcept local format localizedformat unabl solv singular problem
+converg checker getconvergencecheck
+build contribut matrix measur
+faster decomposit robust difficult problem
+point
+updat estim paramet
+gauss newton squar solver
+wgk grad
+decomposit impl qrdecompositionimpl solver getsolv
+converg checker convergencecheck vectori point pair vectorialpointvaluepair checker
+row
+current
+converg
+org apach common math optim gener
+checker
+solver solv
+updat jacobian updatejacobian
+version
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim
+grad weight residu jacobian weightedresidualjacobian
+weight residu
+vectori point pair vectorialpointvaluepair previou current
+decomposit solv normal equat decomposit
+singular matrix except singularmatrixexcept
+current vectori point pair vectorialpointvaluepair point object
+comput normal equat
+previou
+weight residu weight residualsweight
+col col
+decomposit impl ludecompositionimpl solver getsolv
+target valu targetvalu target ref gettargetref
+updat residu cost updateresidualsandcost
+solv linear squar problem
+vectori point pair vectorialpointvaluepair current
+build linear problem
+linear problem iter decomposit
+decomposit solver decompositionsolv solver uselu
+iter
+check converg
+residu weight residualsweight weight ref getweightref
+wgk weight grad
+vectori point pair vectorialpointvaluepair optim dooptim math user except mathuserexcept
+real matrix realmatrix block real matrix blockrealmatrix
+iter converg reach
+grad
+col

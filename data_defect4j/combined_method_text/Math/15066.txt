@@ -1,0 +1,34 @@
+param start point startpoint start point optim
+org apach common math3 except number small except numberistoosmallexcept
+link org apach common math3 optim differenti multivari optim differentiablemultivariateoptim
+initi valu greater upper bound
+org apach common math3 except number larg except numberistoolargeexcept
+param max eval maxev maximum number function evalu
+link org apach common math3 optim multivari optim multivariateoptim
+org apach common math3 except null argument except nullargumentexcept
+param upper bound upperbound upper bound paramet
+common fast math fastmath user api advis base code
+org apach common math3 optim
+version
+interfac
+param func type object function optim
+point pair pointvaluepair optim max eval maxev func goal type goaltyp goal type goaltyp
+function
+arrai size wrong
+maxim number evalu exceed
+optim object function
+param goal type goaltyp type optim goal
+link goal type goaltyp maxim link goal type goaltyp minim
+org apach common math3 except evalu except toomanyevaluationsexcept
+point pair give optim object
+param object function
+deprec remov
+param lower bound lowerbound lower bound paramet
+link org apach common math3 optim multivari differenti optim multivariatedifferentiableoptim
+code code goal type goaltyp code start point startpoint code
+lower bound lowerbound upper bound upperbound
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+base multivari simpl bound optim basemultivariatesimpleboundsoptim func multivari function multivariatefunct
+initi valu lower bound
+start point startpoint
+intend enforc intern coher

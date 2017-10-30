@@ -1,0 +1,6 @@
+org aspectj ajdt intern core builder
+state environ statefulnameenviron environ inameenviron
+cleanup
+base environ baseenviron cleanup
+class classesfromnam collect empti map empti map
+packag name packagenam collect empti set empti set

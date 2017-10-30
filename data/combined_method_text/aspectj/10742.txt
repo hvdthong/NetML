@@ -1,0 +1,11 @@
+org aspectj ajd swing
+author mik kersten
+browser view browserview panel jpanel
+set slave view visibl setslaveviewvis visibl
+slave view visibl slaveviewvis visibl
+visibl
+view split pane view splitpan add slave view slaveview split pane jsplitpan bottom
+view split pane view splitpan set divid locat setdividerloc height getheight
+masterview scrolltohighlightednod
+view split pane view splitpan remov slave view slaveview
+view split pane view splitpan set divid locat setdividerloc height getheight

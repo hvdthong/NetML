@@ -1,0 +1,52 @@
+entiti entitynam length
+call add entiti addent quot foo quot 0xa1 unescap quot amp foo quot
+buf append entiti entitynam
+string writer stringwrit string tostr
+text
+href http www org rec html40 sgml entiti html html charact entiti refer
+href http www org html401 charset html html charact refer
+str charat
+call add entiti addent quot foo quot 0xa1
+buf string tostr
+escap code string code
+string buffer stringbuff buf string buffer stringbuff str length
+entiti
+code string code escap
+amph str index indexof
+string writer stringwrit string writer stringwrit creat string writer createstringwrit str
+href http www org html401 charset html code posit html code posit
+happen string writer stringwrit method call escap writer string
+entiti entityvalu entiti entityvalu entiti entitynam
+version
+buf append entiti entityvalu
+unescap quot amp foo quot quot u00 u00a1 quot
+param str
+entiti entityvalu
+param str code string code escap
+amph amph semi
+org apach common lang
+str
+amp firstamp
+quot u00 u00a1 quot
+at1 charat1 entiti entitynam charat
+amp firstamp str index indexof
+author href mailto ggregori seagullsw gari gregori
+author href mailto alex purpletech alexand dai chaffe
+unescap entiti code string code
+unescap dounescap string writer stringwrit str amp firstamp
+except ioexcept
+string entiti entitynam str substr semi
+string unescap string str
+href http hotwir lyco webmonkei refer special charact iso entiti
+semi
+number format except numberformatexcept
+semi str index indexof
+buf append
+entiti entityvalu integ valueof entiti entitynam substr intvalu
+entiti entitynam charat
+href http www org rec html32 latin1 html charact entiti iso latin
+str length
+entiti entityvalu integ pars int parseint entiti entitynam substr
+at1 charat1 'x' at1 charat1 'x'
+unhandl except unhandledexcept
+html xml entiti util

@@ -1,0 +1,7 @@
+org apach lucen index
+term vector term writer field termvectorstermswriterperfield term hash consum field termshashconsumerperfield
+copi term vector post arrai termvectorspostingsarrai arrai fromarrai term vector post arrai termvectorspostingsarrai arrai toarrai
+copi arrai fromarrai arrai toarrai
+system arraycopi arrai fromarrai freq arrai toarrai freq arrai fromarrai freq length
+system arraycopi arrai fromarrai offset lastoffset arrai toarrai offset lastoffset arrai fromarrai offset lastoffset length
+system arraycopi arrai fromarrai posit lastposit arrai toarrai posit lastposit arrai fromarrai posit lastposit length

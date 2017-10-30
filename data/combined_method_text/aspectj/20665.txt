@@ -1,0 +1,36 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+make map frame locat frame locat unkei frame
+locat pick copi local
+int map intmap make remap makeremap
+int map intmap ret int map intmap
+reti
+var thisvar
+ret put reti ret put reti thisvar guarante
+target var targetvar target var targetvar var thisvar
+ret put target var targetvar slot getslot reti
+len arg var argvar length len
+ret put arg var argvar slot getslot reti
+reti arg var argvar type gettyp size getsiz
+join point var thisjoinpointvar
+ret put join point var thisjoinpointvar slot getslot reti
+put argument remap
+alias helpfulli put temp begin join
+point
+kind getkind arg stack argsonstack
+oldi
+newi
+pass argsonstack
+pass target
+arg0 hold arg0holdsthi ret put oldi newi
+assert targetvar thisvar
+arg count getargcount
+unresolv type unresolvedtyp type arg type getargtyp
+ret put oldi newi
+oldi type size getsiz
+newi type size getsiz
+system err println make remap
+targetvar null system err println target slot targetvar getslot
+thisvar null system err println slot thisvar getslot
+system err println ret
+ret

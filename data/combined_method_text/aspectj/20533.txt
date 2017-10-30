@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+claus member hasperclausemembersalreadi lazi class gen lazyclassgen class gen classgen
+resolv member resolvedmemb method class gen classgen bcel object type getbcelobjecttyp declar method getdeclaredmethod
+method length
+resolv member resolvedmemb method method
+aspectof equal method getnam
+equal method paramet signatur getparametersignatur kind claus perclaus singleton kind claus perclaus percflow
+ljava lang object equal method paramet signatur getparametersignatur kind claus perclaus perobject
+ljava lang class equal method paramet signatur getparametersignatur kind claus perclaus pertypewithin

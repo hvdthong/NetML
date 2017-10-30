@@ -1,0 +1,10 @@
+author stephen colebourn
+instant
+org joda time chrono
+refactor coptic era date time field copticeradatetimefield
+inherit doc inheritdoc
+set instant era
+author brian neill o'neil
+time calcul coptic era compon time
+basic singl era date time field basicsingleeradatetimefield base date time field basedatetimefield
+field util fieldutil verifi bound verifyvaluebound era era era

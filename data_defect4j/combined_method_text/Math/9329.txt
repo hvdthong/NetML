@@ -1,0 +1,52 @@
+var cov data varcovdata varcov
+matrix symmetr compress format
+global fit info globalfitinfo adjrsq idx
+global fit info globalfitinfo adjrsq idx global fit info globalfitinfo rsq idx
+param varcov varianc covari matrix store squar matrix
+global fit info globalfitinfo sse idx sse
+rank
+constant containsconst constant containsconst
+param constant containsconst model constant model constant
+param symmetr compress issymmetriccompress flag denot varianc covari
+global fit info globalfitinfo adjrsq idx sse nob
+org apach common math stat regress
+param sse sum squar error
+global fit info globalfitinfo
+param nob number observ regress estim
+global fit info globalfitinfo mse idx global fit info globalfitinfo sse idx
+param rank number independ variabl regress
+symmetr compress issymmetriccompress
+param sumi sum independ variabl
+paramet math arrai matharrai copi copyof paramet
+varcov length
+rank rank
+param sumysq sum squar independ variabl
+regress result regressionresult
+version
+var cov data varcovdata varcov length
+param copi data copydata deep copi input data made refer
+nob nob rank
+nob nob
+sumysq sumi sumi nob sumysq
+global fit info globalfitinfo sst idx constant containsconst
+global fit info globalfitinfo rsq idx
+compress
+copi regress result regressionresult mutabl
+regress result regressionresult serializ
+global fit info globalfitinfo sst idx
+nob rank
+result multipl linear regress model fit
+constant containsconst
+paramet varcov
+constructor regress result
+var cov data varcovdata math util mathutil copi copyof varcov
+arrai fill global fit info globalfitinfo doubl nan
+sumi sumysq sse
+symmetr vcd issymmetricvcd symmetr compress issymmetriccompress
+global fit info globalfitinfo sst idx nob rank
+copi data copydata
+paramet paramet
+param paramet arrai regress slope estim
+var cov data varcovdata math arrai matharrai copi copyof varcov
+paramet math util mathutil copi copyof paramet
+global fit info globalfitinfo sse idx

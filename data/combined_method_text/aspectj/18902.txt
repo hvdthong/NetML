@@ -1,0 +1,48 @@
+org aspectj weaver
+iter signatur join point calcul signatur
+lazili minim process avoid unneccessari find type
+error iter cach reus call reset method
+iter
+join point signatur iter joinpointsignatureiter iter
+find signatur supertyp findsignaturesfromsupertyp
+iter discov signatur iteratingoverdiscoveredsignatur
+super type iter supertypeiter
+super type iter supertypeiter defin type firstdefiningtyp direct supertyp getdirectsupertyp
+super type iter supertypeiter hasnext
+resolv type resolvedtyp super type supertyp resolv type resolvedtyp super type iter supertypeiter
+visit super type visitedsupertyp super type supertyp
+find signatur supertyp findsignaturesfromsupertyp
+look type
+visit super type visitedsupertyp add super type supertyp
+super type supertyp miss ismiss
+issu warn stop join point signatur line
+warn miss type warnonmissingtyp super type supertyp
+find signatur supertyp findsignaturesfromsupertyp
+resolv member impl resolvedmemberimpl found member foundmemb resolv member impl resolvedmemberimpl super type supertyp lookup resolv member lookupresolvedmemb defin member firstdefiningmemb
+found member foundmemb visibl isvisibleto defin member firstdefiningmemb found member foundmemb
+list declar type declaringtyp arrai list arraylist
+declar type unresolv member itd
+resolv type resolvedtyp resolv declar type resolveddeclaringtyp found member foundmemb declar type getdeclaringtyp resolv world
+accumul type accumulatetypesinbetween super type supertyp resolv declar type resolveddeclaringtyp declar type declaringtyp
+iter iter declar type declaringtyp iter iter hasnext
+resolv type resolvedtyp declar type declaringtyp resolv type resolvedtyp iter
+resolv member resolvedmemb member found member foundmemb substitut declar type withsubstitutedeclaringtyp declar type declaringtyp
+discov signatur discoveredsignatur add member discoveredsignatur add member time reset
+addit signatur additionalsignatur collect empti list empti list addit signatur additionalsignatur arrai list arraylist
+addit signatur additionalsignatur add member additionalsignatur add member time
+parameter type gener type back
+super type supertyp parameter type isparameterizedtyp found member foundmemb back gener member backinggenericmemb
+resolv member resolvedmemb member join point signatur joinpointsignatur found member foundmemb back gener member backinggenericmemb found member foundmemb declar type declaringtyp resolv world
+discov signatur discoveredsignatur add member discoveredsignatur add member time reset
+addit signatur additionalsignatur collect empti list empti list addit signatur additionalsignatur arrai list arraylist
+addit signatur additionalsignatur add member additionalsignatur add member time
+process super member yettobeprocessedsupermemb process super member yettobeprocessedsupermemb arrai list arraylist
+process super member yettobeprocessedsupermemb add search pair searchpair found member foundmemb super type supertyp
+find signatur supertyp findsignaturesfromsupertyp
+process super member yettobeprocessedsupermemb process super member yettobeprocessedsupermemb empti isempti
+search pair searchpair nextup search pair searchpair process super member yettobeprocessedsupermemb remov
+defin type firstdefiningtyp nextup type
+defin member firstdefiningmemb nextup member
+super type iter supertypeiter
+find signatur supertyp findsignaturesfromsupertyp
+undiscov signatur couldbefurtherasyetundiscoveredsignatur

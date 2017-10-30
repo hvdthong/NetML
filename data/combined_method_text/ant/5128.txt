@@ -1,0 +1,41 @@
+org apach tool ant taskdef
+process set xml document xslt
+build view xml base document
+ant
+ant task xslt categori xml
+xslt process xsltprocess match task matchingtask xslt logger xsltlogger
+evalu paramet express type
+param param paramet ant build file
+return pass xslt paramet
+throw illegalargumentexcept param type unsupport
+throw numberformatexcept express numer type
+desir numer type
+throw xpathexpressionexcept xpath express compil
+ant
+object evalu param evaluateparam param param path express except xpathexpressionexcept
+string type typenam param type gettyp
+string express param express getexpress
+param type paramtyp type
+type typenam equal type typenam
+type param type paramtyp string type paramtyp string string default
+type param type paramtyp valueof type typenam
+illeg argument except illegalargumentexcept
+illeg argument except illegalargumentexcept invalid xslt paramet type type typenam
+type
+string
+express
+boolean
+boolean pars boolean parseboolean express
+doubl
+doubl pars doubl parsedoubl express
+int
+integ pars int parseint express
+long
+long pars long parselong express
+default xpath express
+qname xpath type xpathtyp param type paramtyp xpath type xpath type type
+xpath type xpathtyp
+illeg argument except illegalargumentexcept invalid xslt paramet type type typenam
+path express xpathexpress xpe xpath compil express
+null evalu xpath empti xml document
+xpe evalu object xpath type xpathtyp

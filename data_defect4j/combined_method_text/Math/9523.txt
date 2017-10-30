@@ -1,0 +1,12 @@
+complex real getreal imaginari getimaginari
+real number chang made place
+transform util transformutil
+version
+param complex arrai scale
+function implement transform
+refer scale arrai
+length
+org apach common math transform
+complex scale arrai scalearrai complex
+param real scale coeffici
+multipli compon complex arrai

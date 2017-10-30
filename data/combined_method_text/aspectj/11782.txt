@@ -1,0 +1,11 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+return true config file sourceroot sourcefil injar inpath
+sourc hassourc
+config file configfil
+sourc root sourceroot size
+file size
+jar injar size
+path inpath size

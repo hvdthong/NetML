@@ -1,0 +1,77 @@
+org aspectj weaver
+advic shadow munger shadowmung
+match shadow shadow world world
+match shadow world
+shadow kind getkind shadow except handler exceptionhandl
+kind isaft kind advic kind advicekind
+world show messag showmessag messag imessag warn
+weaver messag weavermessag format weaver messag weavermessag handler handler
+sourc locat getsourceloc shadow sourc locat getsourceloc
+shadow kind getkind shadow synchron lock synchronizationlock
+shadow kind getkind shadow synchron unlock synchronizationunlock
+kind advic kind advicekind
+work comment synchronizationtest
+attribut getproceedcallsignatur null
+attribut getproceedcallsignatur length
+world show messag showmessag messag imessag warn
+weaver messag weavermessag format weaver messag weavermessag synchron synchron
+sourc locat getsourceloc shadow sourc locat getsourceloc
+extra paramet hasextraparamet kind advic kind advicekind return afterreturn
+resolv type resolvedtyp resolv extra paramet type resolvedextraparametertyp extra paramet type getextraparametertyp resolv world
+resolv type resolvedtyp shadow return type shadowreturntyp shadow return type getreturntyp resolv world
+match
+resolv extra paramet type resolvedextraparametertyp convert isconvertablefrom shadow return type shadowreturntyp
+shadow kind getkind return hasreturnvalu
+match resolv extra paramet type resolvedextraparametertyp parameter type isparameterizedtyp
+issu uncheck match warn maybeissueuncheckedmatchwarn resolv extra paramet type resolvedextraparametertyp shadow return type shadowreturntyp shadow world
+match
+extra paramet hasextraparamet kind advic kind advicekind throw afterthrow hasextraparamet kind advicekind afterthrow pr119749
+resolv type resolvedtyp except type exceptiontyp extra paramet type getextraparametertyp resolv world
+except type exceptiontyp check except ischeckedexcept
+unresolv type unresolvedtyp shadow throw shadowthrow shadow signatur getsignatur except getexcept world
+match
+shadow throw shadowthrow length match
+resolv type resolvedtyp type shadow throw shadowthrow resolv world
+except type exceptiontyp assign isassignablefrom type match
+match
+kind advic kind advicekind target entri pertargetentri
+shadow target hastarget
+kind advic kind advicekind entri perthisentri
+shadow hasthi
+kind advic kind advicekind
+shadow kind getkind shadow pre initi preiniti
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag preinit preinit
+sourc locat getsourceloc shadow sourc locat getsourceloc
+shadow kind getkind shadow initi
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag init init
+sourc locat getsourceloc shadow sourc locat getsourceloc
+shadow kind getkind shadow static initi staticiniti
+shadow enclos type getenclosingtyp resolv world interfac isinterfac
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag interfac staticinit interfac staticinit shadow enclos type getenclosingtyp getnam
+sourc locat getsourceloc shadow sourc locat getsourceloc
+system err println getsignatur getreturntyp shadow getreturntyp
+signatur getsignatur return type getreturntyp resolv type resolvedtyp void
+shadow return type getreturntyp resolv type resolvedtyp void
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag void return void return shadow
+sourc locat getsourceloc shadow sourc locat getsourceloc
+signatur getsignatur return type getreturntyp equal unresolv type unresolvedtyp object
+resolv type resolvedtyp shadow return type shadowreturntyp shadow return type getreturntyp resolv world
+resolv type resolvedtyp advic return type advicereturntyp signatur getsignatur gener return type getgenericreturntyp resolv world
+shadow return type shadowreturntyp parameter type isparameterizedtyp advic return type advicereturntyp raw type israwtyp shadowreturntyp isparameterizedtyp advicereturntyp israwtyp set integ set
+resolv type resolvedtyp shadow return gener type shadowreturngenerictyp shadow return type shadowreturntyp gener type getgenerictyp resolvedtyp shadowreturngenerictyp shadowreturntyp getgenerictyp set
+resolv type resolvedtyp advic return gener type advicereturngenerictyp advic return type advicereturntyp gener type getgenerictyp resolvedtyp advicereturngenerictyp advicereturntyp getgenerictyp set
+shadow return gener type shadowreturngenerictyp assign isassignablefrom advic return gener type advicereturngenerictyp
+world lint getlint uncheck advic convers uncheckedadviceconvers enabl isen
+world lint getlint uncheck advic convers uncheckedadviceconvers signal
+string shadow string tostr shadow return type shadowreturntyp getnam advic return type advicereturntyp getnam
+shadow sourc locat getsourceloc
+sourc locat isourceloc sourc locat getsourceloc
+shadow return type shadowreturntyp assign isassignablefrom advic return type advicereturntyp
+system err println sourcecontext start
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag incompat return type incompat return type shadow
+sourc locat getsourceloc shadow sourc locat getsourceloc

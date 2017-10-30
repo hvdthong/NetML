@@ -1,0 +1,31 @@
+org aspectj lang
+repres signatur join point interfac parallel
+code java lang reflect member code
+interfac typic trace log applic
+obtain reflect inform join point
+j2se code java util log code api
+pre
+aspect log
+logger logger logger getlogg methodentri
+bigboxco execut public
+signatur sig thisjoinpoint getsignatur
+logger enter sig getdeclaringtyp getnam
+sig getnam
+pre
+detail inform specif kind signatur
+obtain cast code signatur code object
+specif type
+code org aspectj lang reflect code
+java lang reflect member
+java util log logger
+signatur
+return code java lang class code object repres class
+interfac aspect declar member intra member
+declar type member declar
+type declar lexic written
+code sourceloc getwithintyp code type
+declar occur lexic
+consist code java lang reflect member code
+method name code getdeclaringclass code
+java lang reflect member getdeclaringclass
+class declar type getdeclaringtyp

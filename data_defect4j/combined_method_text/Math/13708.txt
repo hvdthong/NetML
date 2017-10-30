@@ -1,0 +1,13 @@
+rang except outofrangeexcept code row valid index
+row row dimens getrowdimens
+version
+param row row index check
+org apach common math3 linear
+collect method oper matric
+rang except outofrangeexcept
+matrix util matrixutil
+rang except outofrangeexcept local format localizedformat row index
+check row index valid
+check row index checkrowindex matrix anymatrix row
+param matrix
+row

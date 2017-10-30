@@ -1,0 +1,9 @@
+org aspectj weaver loadtim
+adapt gener class pre processor interfac aspectj weaver
+load time weav consist reli bcel setrepositori
+author href mailto alex gnilux dot alexandr vasseur
+class pre processor classpreprocessor
+return namespac base contest aspect
+string namespac getnamespac class loader classload loader
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor class loader weav adaptor classloaderweavingadaptor weaver contain weavercontain weaver getweav loader weav context weavingcontext
+weav adaptor weavingadaptor namespac getnamespac

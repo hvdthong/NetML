@@ -1,0 +1,23 @@
+version
+link initi guess initialguess
+base handl boiler plate method threshold
+org apach common math3 optim direct
+pars optim data parseoptimizationdata optim data optimizationdata opt data optdata
+scan list requir option optim data
+start initi guess initialguess data initi guess getinitialguess
+upper bound upperbound bound upper getupp
+data simpl bound simplebound
+param func type object function optim
+base abstract multivari optim baseabstractmultivariateoptim func multivari function multivariatefunct
+optim data optimizationdata data opt data optdata
+character problem
+exist valu set previou call reus
+evalu count initi guess simpl bound set
+deprec remov
+param opt data optdata optim data data look
+simpl bound simplebound bound simpl bound simplebound data
+lower bound lowerbound bound lower getlow
+base implement optim multivari scalar function
+provid argument list
+link simpl bound simplebound
+data initi guess initialguess

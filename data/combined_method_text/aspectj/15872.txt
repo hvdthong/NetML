@@ -1,0 +1,13 @@
+org aspectj bridg
+wrap imessagehandl count messag handl
+messag deleg imessagehandl count
+count messag handler countingmessagehandl messag handler imessagehandl
+return deleg handlemessag imessag
+handl messag handlemessag messag imessag messag abort except abortexcept
+proxi
+proxi handl messag handlemessag messag
+messag
+messag imessag kind kind messag kind getkind
+ignor isignor kind
+increment kind
+deleg handl messag handlemessag messag

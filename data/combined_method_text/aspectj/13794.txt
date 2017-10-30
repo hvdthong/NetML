@@ -1,0 +1,122 @@
+org aspectj apach bcel gener
+interfac shareabl instruct object
+order save memori instruct multipli
+immut state directli deriv
+instruct instanc field
+chang instruct iconst occur
+frequent save lot time space
+featur adapt flyweight design pattern
+arrai factori
+instruct access directli name
+write append instruct iconst
+version instructionconst java aclement exp
+author href mailto marku dahm berlin dahm
+instruct constant instructionconst
+clinit
+instruct constant nop nop
+instruct constant aconst null aconst null aconst null aconst null
+instruct constant iconst iconst iconst iconst
+instruct constant iconst iconst
+instruct constant iconst iconst
+instruct constant iconst iconst
+instruct constant iconst iconst
+instruct constant iconst iconst
+instruct constant iconst iconst
+instruct constant lconst lconst
+instruct constant lconst lconst
+instruct constant fconst fconst
+instruct constant fconst fconst
+instruct constant fconst fconst
+instruct constant dconst dconst
+instruct constant dconst dconst
+instruct constant iaload iaload
+instruct constant laload laload
+instruct constant faload faload
+instruct constant daload daload
+instruct constant aaload aaload
+instruct constant baload baload
+instruct constant caload caload
+instruct constant saload saload
+instruct constant iastor iastor
+instruct constant lastor lastor
+instruct constant fastor fastor
+instruct constant dastor dastor
+instruct constant aastor aastor
+instruct constant bastor bastor
+instruct constant castor castor
+instruct constant sastor sastor
+instruct constant pop pop
+instruct constant pop2 pop2
+instruct constant dup dup
+instruct constant dup dup dup dup
+instruct constant dup dup dup dup
+instruct constant dup2 dup2
+instruct constant dup2 dup2 dup2 dup2
+instruct constant dup2 dup2 dup2 dup2
+instruct constant swap swap
+instruct constant iadd iadd
+instruct constant ladd ladd
+instruct constant fadd fadd
+instruct constant dadd dadd
+instruct constant isub isub
+instruct constant lsub lsub
+instruct constant fsub fsub
+instruct constant dsub dsub
+instruct constant imul imul
+instruct constant lmul lmul
+instruct constant fmul fmul
+instruct constant dmul dmul
+instruct constant idiv idiv
+instruct constant ldiv ldiv
+instruct constant fdiv fdiv
+instruct constant ddiv ddiv
+instruct constant irem irem
+instruct constant lrem lrem
+instruct constant frem frem
+instruct constant drem drem
+instruct constant ineg ineg
+instruct constant lneg lneg
+instruct constant fneg fneg
+instruct constant dneg dneg
+instruct constant ishl ishl
+instruct constant lshl lshl
+instruct constant ishr ishr
+instruct constant lshr lshr
+instruct constant iushr iushr
+instruct constant lushr lushr
+instruct constant iand iand
+instruct constant land land
+instruct constant ior ior
+instruct constant lor lor
+instruct constant ixor ixor
+instruct constant lxor lxor
+instruct constant i2l i2l
+instruct constant i2f i2f
+instruct constant i2d i2d
+instruct constant l2i l2i
+instruct constant l2f l2f
+instruct constant l2d l2d
+instruct constant f2i f2i
+instruct constant f2l f2l
+instruct constant f2d f2d
+instruct constant d2i d2i
+instruct constant d2l d2l
+instruct constant d2f d2f
+instruct constant i2b i2b
+instruct constant i2c i2c
+instruct constant i2 i2
+instruct constant lcmp lcmp
+instruct constant fcmpl fcmpl
+instruct constant fcmpg fcmpg
+instruct constant dcmpl dcmpl
+instruct constant dcmpg dcmpg
+instruct constant ireturn ireturn
+instruct constant lreturn lreturn
+instruct constant freturn freturn
+instruct constant dreturn dreturn
+instruct constant areturn areturn
+instruct constant return return
+instruct constant arraylength arraylength
+instruct constant athrow athrow
+instruct constant monitorent monitorent
+instruct constant monitorexit monitorexit

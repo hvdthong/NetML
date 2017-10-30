@@ -1,0 +1,21 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+string print arrai printarrai object obj brace
+quot
+obj
+string buffer stringbuff buf string buffer stringbuff
+brace
+buf append
+obj length
+obj
+buf append quot obj string tostr quot
+buf append null
+obj length
+buf append
+brace
+buf append
+buf string tostr

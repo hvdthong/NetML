@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+string paramet name getparameternam
+determin paramet name determineparameternam
+paramet name getparameternam

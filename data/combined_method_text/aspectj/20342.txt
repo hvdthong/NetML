@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+call method assum call method class
+refer exact invokespeci
+param invokeinstruct instructionhandl point call method
+lazi method gen lazymethodgen call method getcalledmethod
+instruct handl instructionhandl
+invok instruct invokeinstruct inst invok instruct invokeinstruct instruct getinstruct
+string method methodnam inst getnam cpg
+string signatur inst signatur getsignatur cpg
+clazz lazi method gen getlazymethodgen method methodnam signatur

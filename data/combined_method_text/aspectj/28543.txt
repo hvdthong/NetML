@@ -1,0 +1,11 @@
+testmethod testmethod testmethod testmethod
+pattern
+object
+equal equal
+ifpointcut ifpointcut ifpointcut ifpointcut
+pointcut pointcut pointcut pointcut pointcut
+test test test test
+org
+weaver
+method method method method
+aspectj

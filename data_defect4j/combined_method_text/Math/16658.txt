@@ -1,0 +1,49 @@
+statist perform sampl test compar
+comput sampl statist compar mean dataset
+sampl stats1 samplestats1 varianc getvari sampl stats2 samplestats2 varianc getvari
+number small except numberistoosmallexcept number sampl
+check sampl data checksampledata sampl stats1 samplestats1
+side side
+input test code code arrai
+link homoscedast homoscedastict statist summari statisticalsummari statist summari statisticalsummari
+homoscedast equal varianc assumpt heteroscedast
+check sampl data checksampledata sampl stats2 samplestats2
+sampl mean
+dataset univari
+test method code code valu method valu
+sampl test
+nbsp nbsp code sqrt var1 var2 code
+common math link org apach common math3 distribut distribut tdistribut
+sampl sampl
+strong precondit strong
+return statist
+assumpt equal subpopul varianc
+statist summari statisticalsummari sampl stats2 samplestats2
+comput statist equal varianc assumpt
+version
+test statist test method includ test
+test
+name perform test method statist
+org apach common math3 stat infer
+sampl stats1 samplestats1 getmean sampl stats2 samplestats2 getmean
+strong code code strong sampl
+strong code var2 code strong varianc sampl
+test level code alpha code
+signific level number
+param sampl stats2 samplestats2 statist summari statisticalsummari describ data sampl
+test ttest
+sampl stats1 samplestats1 getn sampl stats2 samplestats2 getn
+fix signific level valu return valu
+strong code var1 code strong varianc sampl
+null argument except nullargumentexcept sampl statist code code
+code code valu method perform fix signific level test
+pair unpair sampl test
+strong code code strong size sampl
+implement student' test
+param sampl stats1 samplestats1 statist summari statisticalsummari describ data sampl
+null argument except nullargumentexcept number small except numberistoosmallexcept
+statist summari statisticalsummari sampl stats1 samplestats1
+implement estim exact valu
+statist
+link statist summari statisticalsummari instanc
+observ

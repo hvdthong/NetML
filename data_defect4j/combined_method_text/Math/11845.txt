@@ -1,0 +1,56 @@
+pre
+dimens control vector match
+error covari matrix
+version
+hat xhat hat xhat
+kalman filter kalmanfilt
+add control input
+add process model processmodel process nois getprocessnois
+link measur model measurementmodel transform
+stochast differ equat
+measur model measurementmodel
+param
+vector fit
+resourc
+kalman filter cycl involv step
+correspond name commonli mathemat
+state transit matrix
+control vector
+nois covari matric paramet name respect model
+discret time control process govern linear
+saniti check
+dimens mismatch except dimensionmismatchexcept dimens control
+process measur nois assum independ
+control matrix controlmatrix column dimens getcolumndimens
+process nois covari matrix
+dimens getdimens control matrix controlmatrix column dimens getcolumndimens
+control input matrix
+project state estim ahead priori state
+predict real vector realvector dimens mismatch except dimensionmismatchexcept
+state estim stateestim transit matrix transitionmatrix oper state estim stateestim
+predict project current state estim ahead time
+distribut normal probabl white nois
+correct adjust project estim actual measur
+project error covari ahead
+introduct kalman filter greg welch gari bishop
+measur nois covari matrix
+href http www unc welch media pdf kalman intro pdf
+org apach common math3 filter
+implement kalman filter estim state
+dimens mismatch except dimensionmismatchexcept
+random variabl repres
+param control vector
+href http academ csuohio simond cours eec644 kalman pdf
+kalman filter dan simon
+href http www unc welch kalman kalman filter
+kalman filter initi link process model processmodel
+measur
+predict intern state estim time step ahead
+state estim stateestim state estim stateestim add control matrix controlmatrix oper
+measur matrix
+literatur
+dimens mismatch except dimensionmismatchexcept dimens getdimens
+multipli transit matrix transitionmatrixt
+error covari errorcovari transit matrix transitionmatrix multipli error covari errorcovari
+process model processmodel
+predict real vector realvector

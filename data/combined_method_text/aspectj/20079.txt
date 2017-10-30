@@ -1,0 +1,5 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+java5 mode isinjava5mod
+behav java5 behaveinjava5wai

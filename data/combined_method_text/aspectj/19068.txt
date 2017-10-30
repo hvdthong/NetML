@@ -1,0 +1,20 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+string signatur string getsignaturestr world world
+getnam equal clinit static initi signatur string getstaticinitializationsignaturestr world
+kind kind kind getkind
+kind method
+method signatur string getmethodsignaturestr world
+kind constructor
+constructor signatur string getconstructorsignaturestr world
+kind field
+field signatur string getfieldsignaturestr world
+kind handler
+handler signatur string gethandlersignaturestr world
+kind static initi static initi
+static initi signatur string getstaticinitializationsignaturestr world
+kind advic
+advic signatur string getadvicesignaturestr world
+kind monitorent kind monitorexit
+monitor signatur string getmonitorsignaturestr world
+runtim except runtimeexcept unimpl

@@ -1,0 +1,14 @@
+org aspectj apach bcel classfil
+class deriv attribut repres constant
+default initi class field
+class instanti attribut readattribut method
+version constantvalu java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+constant constantvalu attribut
+call object travers node tree implicit
+defin content java class hierarchi method
+field attribut spawn tree object
+param visitor object
+accept visitor
+visit constant visitconstantvalu

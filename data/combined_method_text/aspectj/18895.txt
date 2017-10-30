@@ -1,0 +1,11 @@
+org aspectj weaver
+iter
+creat iter base object return
+iter object
+iter
+avail
+hasnext avail
+object
+avail element except nosuchelementexcept
+avail
+remov unsupport oper except unsupportedoperationexcept

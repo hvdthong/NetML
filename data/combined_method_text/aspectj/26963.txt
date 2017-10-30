@@ -1,0 +1,136 @@
+code
+tempvar tempvar tempvar tempvar tempvar tempvar
+aload
+bcelvar
+cflowcount cflowcount cflowcount cflowcount cflowcount cflowcount
+find
+paramet paramet
+note
+resolvedtypex
+point
+munger munger munger munger munger
+aspectj aspectj aspectj aspectj aspectj
+add
+lorg lorg
+instructionhandl instructionhandl instructionhandl instructionhandl instructionhandl
+weaveafterreturn
+unresolvedtyp unresolvedtyp
+return return return return return return return return return return return return return return return return return return return return return return return return return
+handl handl handl handl handl
+void void
+util util
+bcel bcel bcel bcel
+join
+shadow shadow shadow shadow
+nop nop
+gen gen
+gototarget gototarget
+getafterreturningadvicedispatchinstruct
+list list list list list list list list list list list list list list
+resolv
+iter iter
+factori factori factori factori
+achiev
+weaver
+set
+instructionfactori instructionfactori instructionfactori
+replac
+jump jump
+intern intern intern intern
+isempti
+appendstor appendstor
+guarante
+returnvaluevar returnvaluevar returnvaluevar
+append append append append append append append append append
+goto goto goto
+variabl
+athrow
+bceladvic
+ret ret ret ret ret ret ret ret ret ret ret ret
+hasextraparamet
+ajc ajc
+method method method method
+getsiz
+run
+hasdynamictest
+gener
+weav
+enclosingmethod
+getfactori getfactori getfactori
+invokevirtu invokevirtu
+copyinstruct
+actual
+getstart getstart getstart getstart
+arraylist
+equal
+retargetreturninstruct
+getinstruct getinstruct
+block block
+rang rang rang rang rang rang
+extra
+arrai
+dispatch dispatch dispatch
+instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct instruct
+empti
+org org org
+size
+getnext
+gentempvar gentempvar
+ultim
+java
+top
+init
+tempvartyp tempvartyp tempvartyp tempvartyp
+stack
+start start start start
+statement
+basic
+var var var var var var var var var var var var var
+returninstruct
+type type type type type type type type type
+store store
+strategi
+invokespeci
+createbranchinstruct
+copi
+retarget
+dup
+enclos
+hold
+getend
+case
+getadviceinstruct getadviceinstruct
+hasnext
+target target target
+temp temp temp temp temp temp temp temp temp temp temp temp
+restor
+retlist retlist retlist retlist retlist retlist retlist retlist
+afteradvic afteradvic afteradvic afteradvic afteradvic
+dec dec
+constant constant constant
+creat creat
+replaceinstruct
+instructionconst instructionconst
+null null null
+end end
+advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic
+d2i
+field field
+branch
+findreturninstruct
+aconst aconst
+createdup
+instructionlist instructionlist instructionlist instructionlist instructionlist instructionlist
+bcelshadow
+object object
+resolvedtyp
+typex typex
+getstat getstat
+lang
+unresolv unresolv
+generatereturninstruct
+bind
+hasreturninstruct hasreturninstruct hasreturninstruct
+runtim runtim runtim runtim
+getreturntyp
+fact

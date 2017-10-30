@@ -1,0 +1,19 @@
+org aspectj weaver pattern
+pattern parser patternpars
+claus perclaus pars claus maybeparseperclaus
+token itoken tok token sourc tokensourc peek
+tok token itoken eof
+tok identifi isidentifi
+string tok string getstr
+equal issingleton
+pars singleton parsepersingleton
+equal perthi
+pars object parseperobject
+equal pertarget
+pars object parseperobject
+equal percflow
+pars cflow parsepercflow
+equal percflowbelow
+pars cflow parsepercflow
+equal pertypewithin equal pertypewithin ptwimpl pars pertypewithin claus
+pars type parsepertypewithin

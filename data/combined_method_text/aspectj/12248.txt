@@ -1,0 +1,15 @@
+org aspectj apach bcel classfil
+abstract super class fieldref methodref constant
+version constantcp java aclement exp
+author href mailto marku dahm berlin dahm
+constantfieldref
+constantmethodref
+constantinterfacemethodref
+constant constantcp constant
+param class index refer class field
+param type index field signatur
+constant constantcp tag class index
+type index
+tag
+class index class index
+type index type index

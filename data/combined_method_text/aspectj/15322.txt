@@ -1,0 +1,44 @@
+org aspectj apach bcel verifi structur
+visitor class test valid precondit jvm instruct
+instanc class throw structuralcodeconstraintexcept
+instanc instruct visitxxx precondit
+satisfi
+todo jvm' behaviour monitor monitorent
+monitorexit model justic
+version instconstraintvisitor java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi exc structuralcodeconstraintexcept
+org aspectj apach bcel verifi exc linkingconstraintexcept
+inst constraint visitor instconstraintvisitor empti visitor emptyvisitor org aspectj apach bcel gener visitor
+ensur specif precondit instruct
+visit getfield visitgetfield getfield
+type objectref stack peek
+objectref object type objecttyp objectref type null
+constraint violat constraintviol stack top object refer arrai refer objectref
+string field field getfieldnam cpg
+java class javaclass repositori lookup class lookupclass class type getclasstyp cpg class getclassnam
+field field field getfield
+field
+field length
+field getnam equal field
+field
+assert violat except assertionviolatedexcept field found
+protect isprotect
+object type objecttyp classtyp class type getclasstyp cpg
+object type objecttyp curr object type objecttyp class getclassnam
+classtyp equal curr
+curr subclass subclassof classtyp
+type stack peek
+type null
+object type objecttyp
+constraint violat constraintviol 'objectref' refer object arrai found
+object type objecttyp objreftyp object type objecttyp
+objreftyp equal curr
+objreftyp subclass subclassof curr
+todo dai move staerk al' set object type wider object type
+creat verif
+wider object type check thing
+constraintviol referenc field acc protect modifi member current class superclass current class referenc object type stack peek current class subclass current class
+todo pass
+static isstat
+constraint violat constraintviol referenc field static

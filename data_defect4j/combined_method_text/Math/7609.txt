@@ -1,0 +1,23 @@
+pre
+org apach common math optim fit
+gaussian function gaussianfunct fit function fitfunct fitter fit
+illeg argument except illegalargumentexcept code curv fitter curvefitt fit code
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+function evalu except functionevaluationexcept optim except optimizationexcept
+parametr gaussian function parametricgaussianfunct
+call base
+gaussian function gaussianfunct fitter fit parametr gaussian function parametricgaussianfunct
+fit point gaussian function link gaussian function gaussianfunct
+version revis date
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+curv fitter curvefitt
+function evalu except functionevaluationexcept code curv fitter curvefitt fit code
+link curv fitter curvefitt fit parametr real function parametricrealfunct fit method
+usag
+fit gaussian function observ point
+creat paramet guesser createparametersguess fitter observ getobserv guess
+gaussian fitter gaussianfitt
+optim except optimizationexcept code curv fitter curvefitt fit code
+gaussian function gaussianfunct fit
+gaussian function fit observ point

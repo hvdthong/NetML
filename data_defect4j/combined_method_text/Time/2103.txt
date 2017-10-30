@@ -1,0 +1,14 @@
+author stephen colebourn
+kind period object referenc
+link readabl period readableperiod
+manag singl durat field dai minut
+base singl field period basesinglefieldperiod implement readabl period readableperiod
+set setvalu
+param period
+period iperiod
+base singl field period basesinglefieldperiod subclass mutabl thread safe
+make subclass immut declar block method
+org joda time base
+base singl field period basesinglefieldperiod
+gener directli api user
+set amount period

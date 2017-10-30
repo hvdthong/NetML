@@ -1,0 +1,32 @@
+pre
+vector element wise perform oper ad scalar
+param end index entri subvector inclus
+rang except outofrangeexcept local format localizedformat index end
+version creat vector hold result chang instanc
+check indic checkindic start end
+vector element index base code entri getentri
+style
+code code map code map maptoself method oper
+start start dim
+dim
+code map maptoself version instanc store
+return element vector
+real vector realvector result map add mapaddtoself map maptoself tan map maptoself power
+version
+end start
+appli function element turn code map
+number small except numberistoosmallexcept code end start
+real vector realvector
+number small except numberistoosmallexcept local format localizedformat initi row final row
+rang except outofrangeexcept local format localizedformat index start
+result instanc chang method case result
+param start index entri subvector
+org apach common math3 linear
+rang except outofrangeexcept code start code end valid
+vector return method allow fluent api
+todo specif error messag
+class defin real valu vector basic algebra oper
+check indic subvector valid
+number small except numberistoosmallexcept rang except outofrangeexcept
+dim dimens getdimens
+end end dim

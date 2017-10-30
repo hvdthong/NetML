@@ -1,0 +1,11 @@
+shuffl list
+param rng random number gener
+math arrai matharrai
+param list arrai entri shuffl place
+org apach common math3 util
+random gener randomgener rng
+arrai util
+shuffl list posit tail rng
+shuffl entri arrai
+shuffl posit random gener randomgener
+version

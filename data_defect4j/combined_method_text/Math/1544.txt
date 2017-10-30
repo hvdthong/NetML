@@ -1,0 +1,12 @@
+code
+default implement provid method
+cumul probabl cumulativeprob number larg except numberistoolargeexcept
+abstract real distribut abstractrealdistribut
+base probabl distribut real
+implement ident
+number larg except numberistoolargeexcept local format localizedformat lower endpoint upper endpoint
+version
+vari distribut distribut
+cumul probabl cumulativeprob cumul probabl cumulativeprob
+org apach common math distribut
+inherit doc inheritdoc

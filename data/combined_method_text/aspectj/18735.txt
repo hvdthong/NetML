@@ -1,0 +1,13 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+list declar parent getdeclarepar
+declar parent declarepar
+set ret hash set hashset
+iter member valu iter hasnext
+ret add addal crosscut member crosscuttingmemb declar parent getdeclarepar
+declar parent declarepar arrai list arraylist
+declar parent declarepar add addal ret
+declar parent declarepar

@@ -1,0 +1,7 @@
+org aspectj ajdt intern compil
+act bridg ajde' outputlocationmanag interfac compil intern
+author adrian
+compil result destin manag compilationresultdestinationmanag
+return default output locat project bin
+class inpath
+file default output locat getdefaultoutputloc

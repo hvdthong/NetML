@@ -1,0 +1,17 @@
+org aspectj apach bcel classfil
+class repres type local variabl item stack
+stackmap entri
+version stackmaptyp java aclement exp
+author href mailto marku dahm berlin dahm
+stackmapentri
+stackmap
+constant
+stack map type stackmaptyp cloneabl
+construct object file stream
+param file input stream
+throw ioexcept
+stack map type stackmaptyp data input stream datainputstream file constant pool constantpool constant pool except ioexcept
+file read byte readbyt constant pool
+index hasindex
+set index setindex file read short readshort
+set constant pool setconstantpool constant pool

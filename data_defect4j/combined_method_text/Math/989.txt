@@ -1,0 +1,9 @@
+solv func min max
+param func type function solv
+solver
+inherit doc inheritdoc
+solv min max min max min
+provid implement function gener
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+org apach common math analysi solver
+version revis date wed nov

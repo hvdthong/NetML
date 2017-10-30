@@ -1,0 +1,1 @@
+numberutils handle upper case hex numberutils createnumber work equally 0x1234 0x1234 0x1234 generates numberformatexception integer decode handles upper lower case hex

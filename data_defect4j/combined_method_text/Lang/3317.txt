@@ -1,0 +1,134 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+string util stringutil center abcd abcd
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+size string length string return
+remov lead trail whitespac
+append suffix end string present
+string center string str size string pad str padstr
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+string
+neg size treat
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+space space charact code
+code code string return code code
+author arun mammen thoma
+string util stringutil center
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+code string return code
+pad size str len strlen
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+param str string center
+whitespac charact defin link charact whitespac iswhitespac
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+split join
+str left pad leftpad str str len strlen pad pad str padstr
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+code string util stringutil handl code input string quietli
+trim strip
+illeg argument except illegalargumentexcept pad str padstr code empti
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+center string code code string input
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+pad str padstr
+code code
+empti length string code code
+suppli string pad string
+safe substr extract
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+symbol code input includ code
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+str len strlen str length
+differ
+org apach common lang3
+side effect code handl
+illeg argument except illegalargumentexcept pad str padstr code code empti
+count match countmatch
+center string larger string size code size code
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+param pad str padstr string pad string empti
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+string util stringutil center abc abc
+code code safe
+center string larger string size code size
+remov part string
+str
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+pad str padstr space
+code input code
+code null pointer except nullpointerexcept consid bug
+center string code string input
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+pad
+str pad rightpad str size pad str padstr
+code string util stringutil
+code safe
+string util stringutil
+thread safe threadsaf
+param size size string neg treat
+check charact string
+string util stringutil center yayz
+append miss appendifmiss
+prepend miss prependifmiss
+str size
+symbol code code input includ code code
+empti isempti pad str padstr

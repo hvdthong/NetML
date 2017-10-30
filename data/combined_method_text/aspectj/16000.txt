@@ -1,0 +1,19 @@
+org aspectj bridg
+conveni api' construct print send messag
+messag util messageutil
+handl messag handler
+param handler imessagehandl sink messag sourc
+param holder imessagehold sourc messag handl
+param kind imessag kind select null
+param orgreat true accept greater kind
+param fastfail true stop failur
+return fals sink handlemessag fail
+handl handleal
+messag handler imessagehandl sink
+messag holder imessagehold sourc
+messag imessag kind kind
+greater orgreat
+fast fail fastfail
+lang util langutil throw iax null throwiaxifnul sink sink
+lang util langutil throw iax null throwiaxifnul sourc sourc
+handl handleal sink sourc messag getmessag kind greater orgreat fast fail fastfail

@@ -1,0 +1,20 @@
+list pair doubl multivari normal distribut multivariatenormaldistribut creat compon createcompon weight
+param mean vector compon
+list compon
+weight length
+multivari normal distribut multivariatenormaldistribut dist
+mixtur multivari normal distribut mixturemultivariatenormaldistribut
+mvn add pair doubl multivari normal distribut multivariatenormaldistribut weight dist
+multivari normal mixtur distribut
+mixtur multivari real distribut mixturemultivariaterealdistribut
+covari
+list pair doubl multivari normal distribut multivariatenormaldistribut mvn
+multivari normal distribut multivariatenormaldistribut mean covari
+version
+syntact sugar
+arrai list arraylist pair doubl multivari normal distribut multivariatenormaldistribut
+org apach common math3 distribut
+param weight weight compon
+mean
+mvn
+param covari covari matrix compon

@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+target arg repres access annot
+'thing' main creat instruct retriev
+annot 'thing' createloadinstruct
+type annot access var typeannotationaccessvar bcel var bcelvar
+instruct creat store createstor instruct factori instructionfactori fact
+runtim except runtimeexcept unimpl

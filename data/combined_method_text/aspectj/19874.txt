@@ -1,0 +1,20 @@
+org aspectj weaver
+repres type variabl bound
+type variabl typevari
+answer true type satisfi bound constraint
+type variabl
+type variabl resolv throw illegalstateexcept
+bound canbeboundto resolv type resolvedtyp candid type acandidatetyp
+resolv isresolv illeg state except illegalstateexcept answer bind question prior resolv
+candid type acandidatetyp type variabl refer istypevariablerefer
+match bound matchingbound type variabl refer type typevariablereferencetyp candid type acandidatetyp
+wildcard accept bind
+candid type acandidatetyp gener wildcard isgenericwildcard acandidatetyp isgenericwildcard amc robust test
+bound iff
+acandidatetyp subtyp upperbound
+subtyp isasubtypeof upper bound upperbound candid type acandidatetyp
+acandidatetyp subtyp additionalinterfacebound
+addit interfac bound additionalinterfacebound length
+subtyp isasubtypeof addit interfac bound additionalinterfacebound candid type acandidatetyp
+lowerbound subtyp acandidatetyp
+lower bound lowerbound subtyp isasubtypeof candid type acandidatetyp lower bound lowerbound

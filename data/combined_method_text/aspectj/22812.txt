@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+match signatur paramet canmatchsignaturewithnparamet num param numparam
+ellipsi count ellipsiscount
+num param numparam size
+size ellipsi count ellipsiscount num param numparam

@@ -1,0 +1,10 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+program element iprogramel find element set findelementforoffset string sourc file path sourcefilepath line number linenumb set offset
+string canon sfp canonicalsfp asm manag asmmanag default getdefault canon file path getcanonicalfilepath
+file sourc file path sourcefilepath
+program element iprogramel node find node sourc line helper findnodeforsourcelinehelp root canon sfp canonicalsfp line number linenumb set offset
+node
+node
+creat file structur node createfilestructurenod sourc file path sourcefilepath

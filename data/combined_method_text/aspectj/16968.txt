@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+aspectdeclar dom ast node
+ajtypedeclar
+astnod call 'perclause'
+boolean call 'privileged'
+author ajh02
+aspect declar aspectdeclar type declar ajtypedeclar
+aspect declar aspectdeclar ast ast
+ast

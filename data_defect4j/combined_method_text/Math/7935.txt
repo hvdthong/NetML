@@ -1,0 +1,10 @@
+optim goal min max min max min
+abstract univari real optim abstractunivariaterealoptim
+optim
+inherit doc inheritdoc
+optim univari real function univariaterealfunct goal type goaltyp goal
+org apach common math optim univari
+min max
+provid implement function gener
+version revis date
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept

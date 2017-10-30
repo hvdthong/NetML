@@ -1,0 +1,28 @@
+overrid
+param refer integr arrai hold state
+reiniti scale scalingh scale
+bewar arrai refer integr
+end step
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+interpol equat base taylor seri formula
+state variat statevari length
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+scale deriv
+scale scale
+param scale scalingh step size scale nordsieck arrai
+version revis date
+adam integr adamsintegr
+real matrix realmatrix nordsieck
+interpol integr nordsieck represent
+org apach common math od sampl
+param forward integr direct indic
+scale scalingh scale scalingh
+nordsieck vector
+interpol comput dens output current point
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+param nordsieck refer integr matrix hold
+param scale refer integr arrai hold
+arrai order ensur proper updat copi
+reiniti instanc
+reiniti forward
+nordsieck nordsieck

@@ -1,0 +1,17 @@
+creat link measur model measurementmodel take arrai input
+org apach common math filter
+default implement link measur model measurementmodel
+mea nois measnois
+param mea matrix measmatrix
+measur matrix
+paramet respect measur matrix nois
+array2 row real matrix array2drowrealmatrix mea matrix measmatrix
+param mea nois measnois measur nois matrix
+default measur model defaultmeasurementmodel mea matrix measmatrix
+array2 row real matrix array2drowrealmatrix mea nois measnois
+version
+param mea matrix measmatrix measur matrix
+default measur model defaultmeasurementmodel measur model measurementmodel
+link kalman filter kalmanfilt
+measur nois matrix
+param mea nois measnois

@@ -1,0 +1,11 @@
+store time storetim
+version dormand prince54 step interpol dormandprince54stepinterpol java 39z luc
+version revis date
+dormand prince54 step interpol dormandprince54stepinterpol
+repres interpol step
+vector initi vectorsiniti
+param current time
+store current step time
+dormand prince54 integr dormandprince54integr
+org apach common math od
+od integr dormand princ integr

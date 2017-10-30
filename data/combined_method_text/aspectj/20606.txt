@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+instruct factori instructionfactori factori getfactori
+enclos class getenclosingclass factori getfactori

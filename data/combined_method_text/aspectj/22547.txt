@@ -1,0 +1,31 @@
+org aspectj weaver pattern
+singleton persingleton claus perclaus
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+todo comment code slow aspect aspectof style remov
+expr myinstanc
+expr makecallexpr ajcmembermak persingletonaspectofmethod inaspect
+expr inaspect
+state setaspectinst myinstanc
+test
+noaspectboundexcept thrown instanc
+aspect bound
+return liter true
+ajc5membermak isslowaspect inaspect
+expr instanc myinstanc
+expr make call expr makecallexpr ajc member maker ajcmembermak singleton aspect method persingletonaspectofmethod aspect inaspect
+expr aspect inaspect
+state set aspect instanc setaspectinst instanc myinstanc
+test
+noaspectboundexcept thrown instanc
+aspect bound
+liter true
+callexpr callaspectof expr makecallexpr
+ajc5membermak persingletonaspectofmethod inaspect
+expr
+expr makestringconstantexpr inaspect getnam inaspect
+fieldget resolvedtyp
+fieldgeton member ajclassfield shadow getenclosingtyp
+inaspect
+expr castedcallaspectof castexpr callaspectof inaspect getnam
+state setaspectinst castedcallaspectof
+return liter true

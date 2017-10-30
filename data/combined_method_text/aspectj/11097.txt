@@ -1,0 +1,44 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener singleton aspect method generatepersingletonaspectofmethod class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil aspect method aspectofmethod bodi gener bodygener
+gener code stream codestream code stream codestream
+style aspectof method confus decompil
+bodi start
+codestream getstat world makefieldbind ajcmembermak persingletonfield
+typex
+label isnul label codestream
+codestream dup
+codestream ifnul isnul
+codestream areturn
+isnul place
+codestream incrstacks dup trick confus stack counter
+codestream world maketypebind ajcmembermak aspect bound except
+codestream dup
+codestream ldc typex getnameasidentifi
+codestream getstat initfailurefield
+codestream invokespeci world makemethodbindingforcal
+ajcmembermak noaspectboundexceptioninitwithcaus
+codestream athrow
+bodi end
+stuff gener code
+ajc persingletoninst null
+throw noaspectboundexcept ajc initfailurecaus
+return ajc persingletoninst
+bodi start end line
+field bind fieldbind world make field bind makefieldbind ajc member maker ajcmembermak singleton field persingletonfield type typex
+code stream codestream getstat codestream getstat getstat
+branch label branchlabel null isnonnul branch label branchlabel code stream codestream
+code stream codestream ifnonnul null isnonnul codestream ifnonnul isnonnul ifnonnul
+code stream codestream world make type bind maketypebind ajc member maker ajcmembermak aspect bound except aspect bound except codestream world maketypebind ajcmembermak aspect bound except
+code stream codestream dup codestream dup dup
+code stream codestream ldc type typex identifi getnameasidentifi codestream ldc typex getnameasidentifi ldc
+code stream codestream getstat init failur field initfailurefield codestream getstat initfailurefield getstat
+code stream codestream invokespeci world make method bind call makemethodbindingforcal
+ajc member maker ajcmembermak aspect bound except init noaspectboundexceptioninitwithcaus ajcmembermak noaspectboundexceptioninitwithcaus invokespeci
+code stream codestream athrow codestream athrow athrow
+null isnonnul place
+code stream codestream getstat codestream getstat getstat
+code stream codestream areturn codestream areturn areturn
+bodi end

@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+util
+instruct creat constant createconst
+instruct factori instructionfactori fact
+instruct inst
+inst instruct constant instructionconst iconst iconst
+inst instruct constant instructionconst iconst
+inst instruct constant instructionconst iconst
+inst instruct constant instructionconst iconst
+inst instruct constant instructionconst iconst
+inst instruct constant instructionconst iconst
+inst instruct constant instructionconst iconst
+byte max max byte min min
+inst bipush
+short max max short min min
+inst sipush
+inst ldc fact class gen getclassgen constant pool getconstantpool add integ addinteg
+inst

@@ -1,0 +1,45 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+advic public
+advic void return type advic
+advic aspectj annot
+throw advic declar thrown formal
+return advic declar return formal
+advic static
+valid advic validateadvic method declar methoddeclar method declar methoddeclar
+insid aspect insideaspect
+method declar methoddeclar scope problem report problemreport signal error signalerror method declar methoddeclar sourc start sourcestart
+method declar methoddeclar sourc end sourceend
+advic declar insid aspect type
+modifi public ispubl method declar methoddeclar modifi
+method declar methoddeclar scope problem report problemreport
+signal error signalerror method declar methoddeclar sourc start sourcestart method declar methoddeclar sourc end sourceend advic public
+modifi static isstat method declar methoddeclar modifi
+method declar methoddeclar scope problem report problemreport
+signal error signalerror method declar methoddeclar sourc start sourcestart method declar methoddeclar sourc end sourceend advic declar static
+annot ajannot multipl advic annot hasmultipleadviceannot
+method declar methoddeclar scope problem report problemreport disallow target annot disallowedtargetforannot annot ajannot duplic advic annot duplicateadviceannot
+annot ajannot pointcut annot haspointcutannot
+method declar methoddeclar scope problem report problemreport disallow target annot disallowedtargetforannot annot ajannot pointcut annot pointcutannot
+annot ajannot aspect annot hasaspectannot
+method declar methoddeclar scope problem report problemreport disallow target annot disallowedtargetforannot annot ajannot aspect annot aspectannot
+annot ajannot advic annot hasadvicenameannot
+method declar methoddeclar scope problem report problemreport disallow target annot disallowedtargetforannot annot ajannot advic annot advicenameannot
+annot ajannot advic kind advicekind advic kind advicekind
+ensur void return type ensurevoidreturntyp method declar methoddeclar
+annot ajannot advic kind advicekind advic kind advicekind throw afterthrow
+throw locat throwingloc
+string thrown formal thrownform string liter getstringliteralfor throw annot ajannot advic annot adviceannot throw locat throwingloc
+thrown formal thrownform
+argument argument method declar methoddeclar argument
+argument name toargumentnam method declar methoddeclar argument thrown formal thrownform
+method declar methoddeclar scope problem report problemreport
+signal error signalerror method declar methoddeclar sourc start sourcestart method declar methoddeclar sourc end sourceend throw formal thrown formal thrownform declar paramet advic signatur
+annot ajannot advic kind advicekind advic kind advicekind return afterreturn
+throw locat throwingloc
+string return formal returningform string liter getstringliteralfor return annot ajannot advic annot adviceannot throw locat throwingloc
+return formal returningform
+argument name toargumentnam method declar methoddeclar argument return formal returningform
+method declar methoddeclar scope problem report problemreport
+signal error signalerror method declar methoddeclar sourc start sourcestart method declar methoddeclar sourc end sourceend return formal return formal returningform declar paramet advic signatur
+resolv set pointcut resolveandsetpointcut method declar methoddeclar annot ajannot advic annot adviceannot

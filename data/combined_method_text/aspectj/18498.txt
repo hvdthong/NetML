@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb object bind perobjectbind unresolv type unresolvedtyp declar type declaringtyp
+resolv member impl resolvedmemberimpl
+member method
+declar type declaringtyp
+public static public static
+mangler namemangl perobject bind method perobject bind method
+ljava lang object

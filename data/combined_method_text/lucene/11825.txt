@@ -1,0 +1,10 @@
+org apach lucen index
+lucen experiment
+format post term consum formatpostingstermsconsum
+format post doc consum formatpostingsdocsconsum add term addterm string text except ioexcept
+len text length
+term buffer termbuff term buffer termbuff length len
+term buffer termbuff arrai util arrayutil overs len ram usag estim ramusageestim num byte char num byte char
+text char getchar len term buffer termbuff
+term buffer termbuff len
+add term addterm term buffer termbuff

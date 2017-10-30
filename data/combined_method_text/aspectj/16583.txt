@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+afterreturningadvicedeclar dom ast node
+afteradvicedeclar
+option return properti
+inherit properti descriptor advicedeclar
+add return properti
+mix descript class properti list
+redefin
+'returning' prefix distinguish defin advicedeclar
+work
+author ajh02
+return advic declar afterreturningadvicedeclar advic declar afteradvicedeclar
+singl variabl declar singlevariabledeclar return getreturn
+return

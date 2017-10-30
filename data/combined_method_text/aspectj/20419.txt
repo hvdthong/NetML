@@ -1,0 +1,43 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+determin paramet name determineparameternam
+paramet name initi parameternamesiniti
+paramet name initi parameternamesiniti
+local variabl tabl localvariablet var tabl vartabl method local variabl tabl getlocalvariablet
+len ariti getar
+var tabl vartabl
+annot argnam
+annot hasannot
+annot annotationx ax annot getannot
+ax length
+annot annotationx annot annotationx ax
+string typenam annot annotationx type gettypenam
+typenam equal org aspectj lang annot pointcut
+typenam equal org aspectj lang annot
+typenam equal org aspectj lang annot
+typenam start startswith org aspectj lang annot
+annot annot annotationx bcel annot getbcelannot
+list valu valu getvalu
+iter iter valu iter iter
+hasnext
+element pair elementnamevaluepair pair nvpair element pair elementnamevaluepair iter
+pair nvpair string getnamestr equal argnam
+string arg name argnam pair nvpair getvalu stringifi stringifyvalu
+string token stringtoken arg token argnametoken string token stringtoken arg name argnam
+list arg list argslist arrai list arraylist
+arg token argnametoken token hasmoretoken
+arg list argslist add arg token argnametoken token nexttoken
+requir count requiredcount paramet type getparametertyp length
+arg list argslist size requir count requiredcount
+arg list argslist add arg arg list argslist size
+set paramet name setparameternam string arg list argslist arrai toarrai string
+set paramet name setparameternam util make arg name makeargnam len
+unresolv type unresolvedtyp param type paramtyp paramet type getparametertyp
+string param name paramnam string len
+index static isstat
+len
+local variabl localvari var tabl vartabl local variabl getlocalvari index
+param name paramnam arg
+param name paramnam getnam
+index param type paramtyp size getsiz
+set paramet name setparameternam param name paramnam

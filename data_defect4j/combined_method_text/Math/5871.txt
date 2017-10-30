@@ -1,0 +1,106 @@
+link solv place solveinplac real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+link solv real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+link solv place solveinplac real linear oper reallinearoper real vector realvector real vector realvector
+link adjoint oper except nonselfadjointoperatorexcept linear oper
+href http www stanford group sol softwar symmlq ps75 pdf
+count iter user requir check symmetri
+accuraci
+middot xhat residu rhat bhat ahat
+definit adjoint work iter
+precondit
+comput middot solv middot
+perform symmetri check linear oper
+solut transform system rhat current estim
+paig1975 paig saunder
+present context iter understood evalu
+word number iter requir reach converg
+present definit iter count differ adopt
+implement symmlq iter linear solver propos
+number iter symmlq slightli work iter
+matrix vector product middot initi phase
+solut spars indefinit system linear equat siam
+set
+real vector realvector real vector realvector real vector realvector
+context except context
+kei code vector2 point offend vector
+comput vector approxim unnorm eigenvector
+middot middot
+entail matrix vector product initi phase
+ident check requir
+larg base fortran code michael saunder
+version
+middot accuraci
+slightli shift
+refer
+epsa mach prec cbrt mach prec
+real vector realvector
+xhat bhat ahat middot shift middot
+href paig1975 paig saunder implement
+initi phase good approxim
+conjug gradient prefer requir
+middot bhat middot solut
+code paramet
+fast math fastmath ab epsa
+middot middot middot middot
+precondition symmetr link except context exceptioncontext
+middot xhat middot shift middot middot
+method invers iter rayleigh quotient iter
+link real linear oper reallinearoper vector oper
+param linear oper
+link solv place solveinplac real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+dot product dotproduct
+adjoint oper except nonselfadjointoperatorexcept
+param candid vector
+middot middot xhat middot ahat middot
+vector method check
+stop criterion implement iter stop rhat
+adjoint oper except nonselfadjointoperatorexcept test fail
+org apach common math linear
+provid posit definit precondition middot
+initguess initi guess solut
+linear oper shift middot posit
+journal numer analysi
+kei code vector1 point offend vector
+param vector
+context set setvalu oper
+residu delta user toler
+account
+standard link dimens mismatch except dimensionmismatchexcept
+iter count
+paig saunder
+real vector realvector real vector realvector
+precondit reduc number iter requir solver
+accuraci middot
+product account iter count
+link solv real linear oper reallinearoper real vector realvector real vector realvector
+stopcrit default stop criterion
+kei code vector point offend vector
+system form middot solv effici symmlq
+precondition posit definit relev kei
+symm symmlq
+shift scalar shift suitabl chosen
+context set setvalu vector2
+context set setvalu vector1
+delta ahat xhat xhat current estim
+requir posit definit definit method
+link solv real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+except context exceptioncontext context context getcontext
+param candid vector middot
+check symmetri checksymmetri real linear oper reallinearoper
+href http www stanford group sol softwar symmlq f77
+symmlq design solv system linear equat middot
+context set setvalu threshold doubl valueof epsa
+link except context exceptioncontext
+link posit definit oper except nonpositivedefiniteoperatorexcept thrown
+origin fotran code initi phase
+param vector middot
+kei code oper point offend linear oper
+middot
+approxim shift middot sens
+time adjoint linear oper defin
+symmlq design solv system shift middot middot
+inform
+except check fail linear oper
+implicitli solv system equat middot shift middot
+middot middot middot
+consid initi guess set

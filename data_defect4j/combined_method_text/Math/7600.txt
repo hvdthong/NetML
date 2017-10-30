@@ -1,0 +1,18 @@
+org apach common math analysi function gaussian parametr gaussian function
+pre
+org apach common math optim fit
+gaussian fitter gaussianfitt curv fitter curvefitt
+guess paramet base observ point
+fit point link
+usag
+paramet fitter fit
+guess
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+version
+paramet basic guess basicguess observ
+version revis date
+paramet clone
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+guess paramet norm sigma
+paramet

@@ -1,0 +1,13 @@
+org apach lucen search
+queri match document match boolean combin
+queri link termqueri link phrasequeri
+booleanqueri
+boolean queri booleanqueri queri iter boolean claus booleanclaus
+overrid
+similar similar getsimilar index searcher indexsearch searcher
+similar result similar getsimilar searcher
+disabl coord disablecoord disablecoord disabl coord request
+result similar deleg similaritydeleg result
+overrid
+coord overlap max overlap maxoverlap
+result

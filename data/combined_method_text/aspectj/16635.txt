@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+express convert org aspectj org eclips jdt intern compil ast refer refer
+refer org aspectj org eclips jdt intern compil ast refer namerefer
+convert org aspectj org eclips jdt intern compil ast refer namerefer refer
+refer org aspectj org eclips jdt intern compil ast refer thisrefer
+convert org aspectj org eclips jdt intern compil ast refer thisrefer refer
+refer org aspectj org eclips jdt intern compil ast arrai refer arrayrefer
+convert org aspectj org eclips jdt intern compil ast arrai refer arrayrefer refer
+refer org aspectj org eclips jdt intern compil ast field refer fieldrefer
+convert org aspectj org eclips jdt intern compil ast field refer fieldrefer refer
+return null reach

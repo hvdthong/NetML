@@ -1,0 +1,24 @@
+check row index checkrowindex start row startrow
+check column index checkcolumnindex start column startcolumn
+method implement link entri getentri access
+param start row startrow initi row index
+start row startrow end row endrow
+except matrix index except matrixindexexcept indic valid
+row column count
+org apach common math linear
+param start column startcolumn initi column index
+param end column endcolumn final column index
+param end row endrow final row index
+check submatrix rang indic valid
+start column startcolumn end column endcolumn
+object start column startcolumn end column endcolumn
+check column index checkcolumnindex end column endcolumn
+version revis date
+matrix index except matrixindexexcept initi column column
+matrix index except matrixindexexcept initi row row
+check matrix index checksubmatrixindex start row startrow end row endrow
+matrix element deriv provid faster implement
+abstract real matrix abstractrealmatrix real matrix realmatrix serializ
+check row index checkrowindex end row endrow
+basic implement real matrix realmatrix method underli storag
+object start row startrow end row endrow

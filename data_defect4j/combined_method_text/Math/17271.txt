@@ -1,0 +1,13 @@
+math arrai matharrai
+creat copi arrai scale
+org apach common math3 util
+param val scalar
+arrai util
+scale copi arrai entri multipli val
+arr newarr
+param arr arrai scale
+arr length
+arr newarr arr val
+version
+arr newarr arr length
+scale val arr

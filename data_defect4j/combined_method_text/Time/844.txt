@@ -1,0 +1,40 @@
+author stephen colebourn
+set
+chronolog set intern utc time zone
+code month year getmonthofyear code
+calcul local date locald perform link chronolog
+method focu kei field
+local date locald ad period week
+add subtract
+instant chronolog getchronolog week add local milli getlocalmilli week
+local date locald immut datetim repres date
+local date locald
+pre
+maximum minimum valu
+techniqu access method
+return copi date number week
+local date locald increas week
+param week amount week add neg
+field
+date field fact queri
+text
+week
+time zone
+individu field queri wai
+numer
+local date locald instanc immut unaffect method call
+local date locald ad field ad withfieldad durat field type durationfieldtyp week
+local milli withlocalmilli instant
+year month year monthofyear dai month dayofmonth
+standard chronolog class suppli thread safe immut
+local date locald differ date midnight datemidnight
+local date locald link readabl partial readableparti
+local date locald week plusweek week
+local date locald thread safe immut provid chronolog
+time zone repres singl instant time
+line ident effect
+local date locald ad week plusweek
+code month year monthofyear code
+calcul
+org joda time
+round

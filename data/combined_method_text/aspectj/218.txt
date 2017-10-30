@@ -1,0 +1,26 @@
+org aspectj tool ajbrows swing
+standalon oper
+author mik kersten
+top frame topfram frame jframe
+open config button action perform openconfig button actionperform action event actionev
+file chooser jfilechoos file chooser filechoos file chooser jfilechoos
+file chooser filechoos set current directori setcurrentdirectori chosen dir lastchosendir
+file chooser filechoos set file filter setfilefilt file filter filefilt
+accept file
+path getpath end endswith lst directori isdirectori
+string descript getdescript
+aspectj build configur lst
+return val returnv file chooser filechoos show open dialog showopendialog
+return val returnv file chooser jfilechoos approv option approv option
+file result file chooser filechoos select file getselectedfil
+string path result absolut path getabsolutepath string path result getabsolutepath replac
+ajd default getdefault build config manag getbuildconfigmanag
+build config file getallbuildconfigfil path
+ajd default getdefault build config manag getbuildconfigmanag
+build config file getallbuildconfigfil add path
+ajd default getdefault build config manag getbuildconfigmanag set activ config file setactiveconfigfil
+path
+chosen dir lastchosendir result parent file getparentfil
+chosen dir lastchosendir
+chosen dir lastchosendir current dir current dir
+refresh build menu refreshbuildmenu

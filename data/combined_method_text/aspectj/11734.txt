@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil problem
+extend problem report support compil side implement declar soft
+overrid error report implement abstract method
+account inter type declar pointcut declar
+job directli sourcetypebind classscop class
+author jim hugunin
+problem report ajproblemreport problem report problemreport
+javadoc miss param tag javadocmissingparamtag sourc start sourcestart sourc end sourceend modifi
+report reportit
+string sname string
+sname start startswith ajc report reportit
+sname equal thisjoinpoint report reportit
+sname equal thisjoinpointstaticpart report reportit
+sname equal thisenclosingjoinpointstaticpart report reportit
+sname equal ajc aroundclosur report reportit
+report reportit
+javadoc miss param tag javadocmissingparamtag sourc start sourcestart sourc end sourceend modifi

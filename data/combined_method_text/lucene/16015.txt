@@ -1,0 +1,18 @@
+org apach lucen search
+link filter accept numer valu
+rang index
+numer valu link numericfield expert link
+numerictokenstream
+creat numericrangefilt static
+factori method
+pre
+filter numericrangefilt newfloatrang weight 03f 10f true true
+pre
+accept document float valu weight field
+rang inclus
+link numericrangequeri detail lucen
+index search numer valu field
+lucen experiment
+numer rang filter numericrangefilt number multi term queri wrapper filter multitermquerywrapperfilt numer rang queri numericrangequeri
+return field filter
+string field getfield queri field getfield

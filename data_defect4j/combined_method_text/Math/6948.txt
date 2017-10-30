@@ -1,0 +1,23 @@
+version
+repres handler call
+success fix step
+need
+fix time step object implement
+init
+fix time step
+param target time integr
+gener link step handler stephandl integr
+step normal stepnorm
+org apach common math od sampl
+intern algorithm call object implement
+implement interest
+fix step handler fixedstephandl
+param start independ time variabl
+link step normal stepnorm object call integr
+param arrai start state vector
+step handler initi intern data
+wrap instanc link step normal stepnorm
+solut ordinari differenti equat
+step handler stephandl
+method call start integr
+initi step handler start od integr

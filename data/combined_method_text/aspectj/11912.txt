@@ -1,0 +1,19 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+add depend adddependentsof string qualifi type qualifiedtypenam
+dot lastdot qualifi type qualifiedtypenam index lastindexof
+string type typenam
+dot lastdot
+string packag packagenam qualifi type qualifiedtypenam substr dot lastdot replac
+qualifi string qualifiedstr packag packagenam qualifiedstr packagenam
+qualifi string qualifiedstr add packag packagenam
+type typenam qualifi type qualifiedtypenam substr dot lastdot
+qualifi string qualifiedstr add
+type typenam qualifi type qualifiedtypenam
+member index memberindex type typenam index indexof
+member index memberindex
+type typenam type typenam substr member index memberindex
+simpl string simplestr type typenam simplestr typenam
+simpl string simplestr add type typenam
+system err println ad qualifiedtypenam

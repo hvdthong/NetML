@@ -1,0 +1,25 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+fuzzi boolean fuzzyboolean match matchesexactli join point signatur joinpointsignatur member amemb world world inaworld bridg method allowbridgemethod subject match subjectmatch
+java5 introduc bridg method match call
+member amemb bridg method isbridgemethod bridg method allowbridgemethod
+fuzzi boolean fuzzyboolean
+modifi match subject
+subject match subjectmatch modifi match member amemb modifi getmodifi
+fuzzi boolean fuzzyboolean
+amemb ispriv return fuzzyboolean
+return fuzzyboolean
+fuzzi boolean fuzzyboolean match ignor annot matchesignoringannot fuzzi boolean fuzzyboolean
+kind member static initi static initi
+match ignor annot matchesignoringannot match static initi matchesexactlystaticiniti member amemb world inaworld
+kind member field
+match ignor annot matchesignoringannot match field matchesexactlyfield member amemb world inaworld
+kind member method
+match ignor annot matchesignoringannot match method matchesexactlymethod member amemb world inaworld subject match subjectmatch
+kind member constructor
+match ignor annot matchesignoringannot match constructor matchesexactlyconstructor member amemb world inaworld
+match ignor annot matchesignoringannot fals alwaysfals fuzzi boolean fuzzyboolean
+annot match subject
+subject match subjectmatch match annot matchesannot member amemb world inaworld true alwaystru
+fuzzi boolean fuzzyboolean
+match ignor annot matchesignoringannot

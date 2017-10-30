@@ -1,0 +1,8 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+inter type declar intertypedeclar compil result compilationresult result type refer typerefer type ontyp
+result
+set type setontyp type ontyp
+modifi class file constant classfileconst acc public accpubl class file constant classfileconst acc static accstat

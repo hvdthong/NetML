@@ -1,0 +1,24 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+string link label string tolinklabelstr fulli qualifi arg type getfullyqualifiedargtyp
+string label
+kind kind code kind kind initi
+label parent parent getpar getnam
+kind inter type member isintertypememb
+short itd name shortitdnam
+indexof return tolabelstr substr indexof
+label
+dot index dotindex index indexof
+dot index dotindex
+parent getnam label string tolabelstr substr dot index dotindex
+label parent getnam
+kind kind class kind kind aspect kind kind interfac
+label
+kind equal kind declar parent declar parent
+label
+parent
+label parent getnam
+label injar aspect
+label label string tolabelstr fulli qualifi arg type getfullyqualifiedargtyp
+label

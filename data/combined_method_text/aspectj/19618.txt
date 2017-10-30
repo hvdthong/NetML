@@ -1,0 +1,14 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+crosscut member crosscuttingmemb collect crosscut member collectcrosscuttingmemb concret need shouldconcretizeifneed
+crosscut member crosscuttingmemb crosscut member crosscuttingmemb concret need shouldconcretizeifneed
+crosscut member crosscuttingmemb set claus setperclaus claus getperclaus
+crosscut member crosscuttingmemb add shadow munger addshadowmung collect shadow munger collectshadowmung
+genericitdfix
+crosscuttingmemb addtypemung collecttypemung
+crosscut member crosscuttingmemb add type munger addtypemung type munger gettypemung
+fixm skip need crosscuttingmemb addlatetypemung getlatetypemung
+crosscut member crosscuttingmemb add declar adddeclar collect declar collectdeclar expos shadow munger doesnotexposeshadowmung
+crosscut member crosscuttingmemb add privileg access addprivilegedaccess privileg access getprivilegedaccess
+system err println collect member collectdeclar
+crosscut member crosscuttingmemb

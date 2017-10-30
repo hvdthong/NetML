@@ -1,0 +1,21 @@
+overrid
+method implement link entri getentri access
+inherit doc inheritdoc
+real matrix realmatrix matrix getsubmatrix select row selectedrow
+abstract real matrix abstractrealmatrix
+real matrix realmatrix matrix getsubmatrix select row selectedrow select column selectedcolumn
+copi entri
+null argument except nullargumentexcept data except nodataexcept rang except outofrangeexcept
+version
+matrix submatrix walk optim order walkinoptimizedord default real matrix chang visitor defaultrealmatrixchangingvisitor
+safeti check
+matrix util matrixutil check matrix index checksubmatrixindex select row selectedrow select column selectedcolumn
+creat matrix creatematrix select row selectedrow length select column selectedcolumn length
+visit row column
+entri getentri select row selectedrow row select column selectedcolumn column
+matrix submatrix
+org apach common math3 linear
+matrix element deriv provid faster implement
+real matrix realmatrix matrix submatrix
+select column selectedcolumn
+basic implement real matrix realmatrix method underli storag

@@ -1,0 +1,6 @@
+org aspectj intern lang reflect
+author colyer
+pointcut impl pointcutimpl pointcut
+pointcut impl pointcutimpl string string method method type ajtyp declar type declaringtyp
+base method basemethod method
+declar type declaringtyp declar type declaringtyp

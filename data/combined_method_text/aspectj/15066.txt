@@ -1,0 +1,55 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+util method calcul successor instructionhandl
+mean ret successor defin
+jsrinstruct target successor
+oppos physic successor defin
+todo implement cach
+instruct handl instructionhandl successor getsuccessor
+instruct handl instructionhandl empti instruct handl instructionhandl
+instruct handl instructionhandl singl instruct handl instructionhandl
+instruct handl instructionhandl pair instruct handl instructionhandl
+instruct inst instruct getinstruct instruct getinstruct
+inst ret
+subroutin subroutin subroutin subroutineof instruct getinstruct
+null return empti ret dead code empti correct answer surround project
+assert violat except assertionviolatedexcept successor ret dead code
+todo remov
+assert violat except assertionviolatedexcept ret' succ
+instructionhandl jsr getenteringjsrinstruct
+instructionhandl ret instructionhandl jsr length
+int jsr length
+ret jsr getnext
+return ret
+termin method
+inst return instruct returninstruct
+empti
+termin method abnorm justic mandat
+subroutin protect except handler
+inst athrow
+empti
+method comment
+inst jsr instruct jsrinstruct
+singl jsr instruct jsrinstruct inst target gettarget
+singl
+inst goto instruct gotoinstruct
+singl goto instruct gotoinstruct inst target gettarget
+singl
+inst branch instruct branchinstruct
+inst select
+bcel' gettarget return default target
+eli tilevich report
+instruct handl instructionhandl match target matchtarget select inst target gettarget
+instruct handl instructionhandl ret instruct handl instructionhandl match target matchtarget length
+ret select inst target gettarget
+system arraycopi match target matchtarget ret match target matchtarget length
+ret
+pair instruct getinstruct getnext
+pair branch instruct branchinstruct inst target gettarget
+pair
+default case fall
+singl instruct getinstruct getnext
+singl

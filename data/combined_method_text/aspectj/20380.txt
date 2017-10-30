@@ -1,0 +1,89 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+weav declar field statement field suppli class
+interest case relat public itdd field annot store
+interfieldinit method aspect public field target
+type process 2nd pass field occur
+expens avoid put annot insert public field
+put interfieldinit method
+weav declar field weavedeclareatfield lazi class gen lazyclassgen clazz
+bugwarn warn declar field
+potenti problem warn come
+occur creat iter round loop
+deactiv error report time round
+solut record annot ad
+decaf check error report
+expens let skip
+list report problem reportedproblem arrai list arraylist
+list decaf alldecaf world declar annot field getdeclareannotationonfield
+decaf alldecaf empti isempti alldecaf isempti return fals
+chang ischang
+list itd field itdfield itd subset getitdsubset clazz resolv type munger resolvedtypemung field
+itd field itdfield
+chang ischang weav field repeatedli weaveatfieldrepeatedli decaf alldecaf itd field itdfield report problem reportedproblem
+list deca decaf match subset getmatchingsubset decaf alldecaf clazz type gettyp
+deca decaf empti isempti decaf isempti return fals
+field field clazz field gen getfieldgen
+field
+set unus decaf unuseddecaf hash set hashset
+unus decaf unuseddecaf add addal deca decaf
+field counter fieldcount field counter fieldcount field length field counter fieldcount
+bcel field bcelfield bcel field abcelfield bcel field bcelfield clazz bcel object type getbcelobjecttyp field field counter fieldcount
+bcel field abcelfield getnam start startswith mangler namemangl prefix
+singl pass
+list worth retri worthretri arrai list arraylist
+modif occur modificationoccur
+annot dont add dontaddmetwic field field counter fieldcount annot getannot
+declar field statement
+iter iter deca decaf iter iter hasnext
+declar annot declareannot deca decaf declar annot declareannot iter
+deca decaf match bcel field abcelfield world
+dont add dontaddtwic deca decaf dont add dontaddmetwic
+annot doesalreadyhaveannot bcel field abcelfield deca decaf report problem reportedproblem
+remov declar field error
+annot
+unus decaf unuseddecaf remov deca decaf
+deca decaf annot getannotationx runtim visibl isruntimevis decaf getannotationx isruntimevis isannotationwithruntimeretent clazz getjavaclass world
+decaf getannotationtypex isannotationwithruntimeretent world
+runtim visibl put field
+annot deca decaf annot getannotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen clazz constant pool gen getconstantpoolgen
+field gen fieldgen gen mygen field gen fieldgen field field counter fieldcount clazz constant pool gen getconstantpoolgen
+gen mygen add annot addannot
+field field newfield gen mygen field getfield
+bcel field abcelfield add annot addannot deca decaf annot getannotationx
+clazz replac field replacefield field field counter fieldcount field newfield
+field field counter fieldcount field newfield
+bcel field abcelfield add annot addannot deca decaf annot getannotationx
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decaf sourc locat getsourceloc clazz getnam field field counter fieldcount
+report field annot weav messag reportfieldannotationweavingmessag clazz field field counter fieldcount deca decaf
+chang ischang
+modif occur modificationoccur
+remov declar field match
+unus decaf unuseddecaf remov deca decaf
+deca decaf star annot pattern isstarredannotationpattern
+worth retri worthretri add deca decaf worthretri add decaf annot put subsequ decaf
+multipl secondari pass
+worth retri worthretri empti isempti modif occur modificationoccur
+modif occur modificationoccur
+let
+list remov forremov arrai list arraylist
+iter iter worth retri worthretri iter iter hasnext
+declar annot declareannot deca decaf declar annot declareannot iter
+deca decaf match bcel field abcelfield world
+code recurs thing
+annot doesalreadyhaveannot bcel field abcelfield deca decaf report problem reportedproblem
+remov declar field error
+annot
+unus decaf unuseddecaf remov deca decaf
+continu skip
+bcel field abcelfield add annot addannot deca decaf annot getannotationx
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decaf sourc locat getsourceloc clazz getnam field field counter fieldcount
+chang ischang
+modif occur modificationoccur
+remov forremov add deca decaf
+remov declar field match
+unus decaf unuseddecaf remov deca decaf
+worth retri worthretri remov removeal remov forremov
+check unus declar type checkunuseddeclareattyp unus decaf unuseddecaf
+chang ischang

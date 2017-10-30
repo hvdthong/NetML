@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+match instruct matchgetinstruct lazi method gen lazymethodgen instruct handl instructionhandl bcel shadow bcelshadow enclos shadow enclosingshadow list shadow accumul shadowaccumul
+field instruct fieldinstruct field instruct fieldinstruct instruct getinstruct
+member field bcel world bcelworld make field join point signatur makefieldjoinpointsignatur clazz
+synthet field join point
+field getnam start startswith mangler namemangl prefix
+resolv member resolvedmemb resolv field resolvedfield field resolv world
+resolv field resolvedfield
+find field join point
+resolv field resolvedfield synthet issynthet
+set synthet join point
+bcel shadow bcelshadow bcel shadow bcelshadow make field makefieldget world resolv field resolvedfield enclos shadow enclosingshadow
+string cname class getclassnam cpg
+resolv field resolvedfield declar type getdeclaringtyp getnam equal cname
+set actual target type setactualtargettyp cname
+match shadow accumul shadowaccumul

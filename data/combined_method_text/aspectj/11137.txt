@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+type refer typerefer make type refer maketyperefer type bind typebind bind
+work primit
+qualifi type refer qualifiedtyperefer ref
+qualifi type refer qualifiedtyperefer bind sourc sourcenam qualifiedtyperefer char bind sourcenam long
+ref resolv type resolvedtyp bind
+ref constant constant constant notaconst
+ref

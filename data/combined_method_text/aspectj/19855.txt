@@ -1,0 +1,12 @@
+org aspectj weaver
+repres type variabl type gener method declar
+type variabl refer type typevariablereferencetyp bound refer type boundedreferencetyp type variabl refer typevariablerefer
+type variabl refer type typevariablereferencetyp
+type variabl typevari type variabl atypevari
+world world aworld
+type variabl atypevari gener signatur getgenericsignatur
+type variabl atypevari erasur signatur geterasuresignatur
+world aworld
+type variabl typevari type variabl atypevari
+extend isextend
+super issup

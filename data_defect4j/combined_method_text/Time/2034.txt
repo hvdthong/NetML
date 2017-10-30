@@ -1,0 +1,16 @@
+author sean geoghegan
+millisecond instant t00 01t00 00z
+kind interv object referenc
+end time interv exclus
+author stephen colebourn
+end milli getendmilli
+link readabl interv readableinterv
+base interv baseinterv
+data code code millisecond field
+org joda time base
+author brian neill o'neil
+end time interv
+base interv baseinterv subclass mutabl thread safe
+gener directli api user
+end milli iendmilli
+base interv baseinterv implement readabl interv readableinterv store

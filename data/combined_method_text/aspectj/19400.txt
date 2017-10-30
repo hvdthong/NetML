@@ -1,0 +1,31 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+member defin parameter super type return erasur
+member
+interfac foo atea
+class implement string
+string foo string astr return
+resolv member foo signatur string foo string
+erasur member object foo object upper bound type
+variabl
+type supertyp
+resolv member resolvedmemb erasur geterasur
+calcul erasur calculatedmyerasur erasur myerasur
+calcul erasur calculatedmyerasur
+resolv type resolvedtyp resolv declar type resolveddeclaringtyp resolv type resolvedtyp declar type getdeclaringtyp
+test fast result cach
+resolv declar type resolveddeclaringtyp parameter super type hasparameterizedsupertyp
+parameter super type
+member defin find
+collect declar type declaringtyp declar type getdeclaringtyp resolv declar type resolveddeclaringtyp world getworld
+iter iter declar type declaringtyp iter iter hasnext
+resolv type resolvedtyp declar type adeclaringtyp resolv type resolvedtyp iter
+declar type adeclaringtyp parameter type isparameterizedtyp
+found parameter type defin member
+erasur
+resolv member impl resolvedmemberimpl match member matchingmemb resolv member impl resolvedmemberimpl declar type adeclaringtyp lookup member super lookupmembernosup
+match member matchingmemb match member matchingmemb back gener member backinggenericmemb
+erasur myerasur match member matchingmemb back gener member backinggenericmemb
+erasur myerasur

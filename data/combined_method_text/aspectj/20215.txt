@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+unresolv type unresolvedtyp lookup type lookuptyp string posit ihasposit locat
+bug
+enclos type enclosingtyp
+add packag list import
+prefix find type packag
+string pkg pkgname enclos type enclosingtyp packag getpackagenam
+pkg pkgname pkg pkgname equal
+string current import currentimport import prefix getimportedprefix
+string import newimport string current import currentimport length
+current import currentimport length
+import newimport current import currentimport
+import newimport current import currentimport length pkg pkgname concat
+set import prefix setimportedprefix import newimport
+lookup type lookuptyp locat

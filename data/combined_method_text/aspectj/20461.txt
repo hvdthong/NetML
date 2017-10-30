@@ -1,0 +1,60 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+ensur gener signatur unpack ensuregenericsignatureunpack
+bitflag unpack gener signatur unpack gener signatur
+bitflag unpack gener signatur unpack gener signatur
+resolv type getresolvedtypex world getworld java5 mode isinjava5mod
+signatur class signatur classsignatur sig csig gener class type signatur getgenericclasstypesignatur
+sig csig
+formal resolut formalsforresolut sig csig formal type paramet formaltypeparamet
+nest isnest
+find type variabl outer type proceed resolut
+signatur formal type paramet formaltypeparamet extra formal extraform formal type paramet outer class getformaltypeparametersfromouterclass
+extra formal extraform length
+list formal allform arrai list arraylist
+formal resolut formalsforresolut length
+formal allform add formal resolut formalsforresolut
+extra formal extraform length
+formal allform add extra formal extraform
+formal resolut formalsforresolut signatur formal type paramet formaltypeparamet formal allform size
+formal allform arrai toarrai formal resolut formalsforresolut
+signatur class type signatur classtypesignatur super sig supersig sig csig superclass signatur superclasssignatur
+superclass
+bcelgenericsignaturetotypexconvert classtypesignature2typex
+supersig formalsforresolut getresolvedtypex getworld
+resolv type resolvedtyp
+bcel gener signatur type convert bcelgenericsignaturetotypexconvert class type signature2 type classtypesignature2typex
+super sig supersig formal resolut formalsforresolut resolv type getresolvedtypex world getworld
+superclass signatur superclasssignatur signatur getsignatur
+superclass superclassnam getnam
+gener signatur format except genericsignatureformatexcept
+develop bug fail fast good info
+illeg state except illegalstateexcept
+determin gener superclass class classnam
+gener signatur declar gener signatur getdeclaredgenericsignatur error detect
+messag getmessag
+interfac resolvedtyp csig superinterfacesignatur length
+interfac signatur interfacesignatur string sig csig super interfac signatur superinterfacesignatur length
+sig csig super interfac signatur superinterfacesignatur length
+interfac
+bcelgenericsignaturetotypexconvert classtypesignature2typex
+csig superinterfacesignatur
+formalsforresolut
+getresolvedtypex getworld
+interfac signatur interfacesignatur
+bcel gener signatur type convert bcelgenericsignaturetotypexconvert class type signature2 type classtypesignature2typex
+sig csig super interfac signatur superinterfacesignatur
+formal resolut formalsforresolut
+resolv type getresolvedtypex world getworld signatur getsignatur
+gener signatur format except genericsignatureformatexcept
+develop bug fail fast good info
+illeg state except illegalstateexcept
+determ gener superinterfac class classnam
+gener signatur declar gener signatur getdeclaredgenericsignatur error detect
+messag getmessag
+gener isgener
+updat resolv typex point gener type raw type
+refer type referencetyp gener type generictyp refer type referencetyp resolv type resolvedtypex gener type getgenerictyp
+generictyp setsourcecontext resolvedtypex getsourcecontext
+gener type generictyp set start po setstartpo resolv type resolvedtypex start po getstartpo
+resolv type resolvedtypex gener type generictyp

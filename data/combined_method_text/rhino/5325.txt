@@ -1,0 +1,16 @@
+org mozilla javascript tool shell
+jline consolereaderinputstream longer public
+implement
+consol input stream consoleinputstream input stream inputstream
+overrid
+read len
+except ioexcept
+null pointer except nullpointerexcept
+len len length
+index bound except indexoutofboundsexcept
+len
+ensur input ensureinput
+math min len buffer length cursor
+buffer cursor
+len
+cursor

@@ -1,0 +1,18 @@
+function
+solv interv start code start startvalu
+param func type function solv
+solver requir interv bracket singl root
+param start startvalu start
+interfac univari real rootfind algorithm
+implement search interv
+endpoint root
+satisfi requir solver
+solv func min max start startvalu
+solver requir bracket handl
+version revis date
+param function solv
+param min lower bound interv
+param max upper bound interv
+org apach common math analysi solver
+base univari real solver baseunivariaterealsolv func univari real function univariaterealfunct
+illeg argument except illegalargumentexcept code min max argument

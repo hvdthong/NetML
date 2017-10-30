@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart axi
+
+
+
+
+tick
+
+tick valuetick tick
+
+
+
+
+
+creat tick
+
+param
+param label label
+param text anchor textanchor part label align anchor
+point
+param rotat anchor rotationanchor defin rotat point rel label
+param angl rotat angl radian
+
+tick valuetick string label
+text anchor textanchor text anchor textanchor text anchor textanchor rotat anchor rotationanchor
+angl
+
+label text anchor textanchor rotat anchor rotationanchor angl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

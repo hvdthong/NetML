@@ -1,0 +1,41 @@
+author stephen colebourn
+method return instanc
+set
+chronolog set intern utc time zone
+copi object field set
+code month year getmonthofyear code
+calcul local date locald perform link chronolog
+method focu kei field
+weekyear chang
+add subtract
+local date locald immut datetim repres date
+local date locald
+standard iso8601 week algorithm week year
+maximum minimum valu
+techniqu access method
+param weekyear weekyear set
+field
+date field fact queri
+definit dai week previou year
+text
+weekyear queri effect year dai
+time zone
+individu field queri wai
+return copi date weekyear field updat
+numer
+dai year result
+weekyear year match week weekyear weekofweekyear field
+year month year monthofyear dai month dayofmonth
+standard chronolog class suppli thread safe immut
+local date locald differ date midnight datemidnight
+local date locald link readabl partial readableparti
+local date locald weekyear withweekyear weekyear
+local date locald thread safe immut provid chronolog
+time zone repres singl instant time
+code month year monthofyear code
+calcul
+org joda time
+local milli withlocalmilli chronolog getchronolog weekyear set local milli getlocalmilli weekyear
+local date locald immut set method
+illeg argument except illegalargumentexcept invalid
+round

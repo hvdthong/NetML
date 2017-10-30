@@ -1,0 +1,12 @@
+org aspectj apach bcel verifi structur
+class easi access exceptionhandl object
+version exceptionhandl java aclement exp
+author href http www inf berlin ehaas enver haas
+except handler exceptionhandl
+return exceptionhandl instanc repres except
+handler protect instruct
+except handler exceptionhandl except handler getexceptionhandl instruct handl instructionhandl
+hash set hashset hash set hashset exceptionhandl
+except handler exceptionhandl
+except handler exceptionhandl ret except handler exceptionhandl size
+except handler exceptionhandl arrai toarrai ret

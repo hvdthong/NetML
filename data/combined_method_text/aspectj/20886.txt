@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+ensur open ensureopen except ioexcept
+zip file zipfil open archiv openarch zip file zipfil
+open isreallyopen
+open archiv openarch size max open archiv maxopenarch
+close archiv closesomearch open archiv openarch size closesomearch openarch size close open
+zip file zipfil zip file zipfil file
+open isreallyopen
+file found except filenotfoundexcept open archiv file getnam size check fail
+open archiv openarch add zip file zipfil

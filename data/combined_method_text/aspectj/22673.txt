@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+refer pointcut referencepointcut pointcut
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+type ontyp
+buf append type ontyp
+buf append
+int len fromtyp length len
+buf append fromtyp
+buf append
+buf append
+buf append argument string tostr
+buf string tostr

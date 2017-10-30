@@ -1,0 +1,17 @@
+pre
+org apach common math od nonstiff
+interpol adam bashforth multipl step
+inherit doc inheritdoc
+theta theta
+step comput interpol equat consist
+step interpol stepinterpol copi docopi
+adam bashforth step interpol adamsbashforthstepinterpol
+overrid
+theta belong interpol polynomi base
+integr step end interpol date
+interpol comput dens output insid
+adam bashforth integr adamsbashforthintegr
+deriv previou step
+integr scheme base kind rollback
+version revis date
+adam bashforth step interpol adamsbashforthstepinterpol multistep step interpol multistepstepinterpol

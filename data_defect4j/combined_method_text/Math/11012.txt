@@ -1,0 +1,14 @@
+org apach common math3 dfp
+dfp dec dfpdec dfp field dfpfield factori sign nan
+give outward appear decim number digit
+param sign sign dfp creat
+creat instanc finit
+param nan code link infinit
+factori sign nan
+decim digit subclass arbitrari number
+dfp dec dfpdec dfp
+version
+link snan link qnan
+decim digit digit
+subclass link dfp hide radix artifact superclass
+param factori factori link instanc

@@ -1,0 +1,29 @@
+default maximum iter absolut accuraci absoluteaccuraci
+version
+brent solver brentsolv abstract univari real solver abstractunivariaterealsolv
+brent algorithm find zero real univari function
+link solv univari real function univariaterealfunct
+deprec
+link univari real solver impl univariaterealsolverimpl solv univari real function univariaterealfunct
+code solv method return code function code
+param absolut accuraci absoluteaccuraci lower bound absolut accuraci solut return solver
+function continu necessarili smooth
+code ep ab code ep rel accuraci
+absolut accuraci absoluteaccuraci
+construct solver absolut accuraci
+method
+version revis date lun juin
+deprec function solv pass argument
+interv code toler
+param function solv
+brent solver brentsolv univari real function univariaterealfunct
+construct solver
+construct solver function
+implement href http mathworld wolfram brent method brentsmethod html
+brent solver brentsolv absolut accuraci absoluteaccuraci
+code absolut accuraci
+param absolut accuraci absoluteaccuraci absolut accuraci
+interv bracket root
+org apach common math analysi solver
+href http mathworld wolfram brent method brentsmethod html
+brent solver brentsolv univari real solver impl univariaterealsolverimpl

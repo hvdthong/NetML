@@ -1,0 +1,37 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+pars java type char java lang string return
+signatur byte code format ljava lang string
+param type java type
+return byte code signatur
+string signatur getsignatur string type
+string buffer stringbuff buf string buffer stringbuff
+char type char arrai tochararrai
+char found delim
+index
+loop
+char length
+char
+char found delim
+char found runtim except runtimeexcept illeg type type
+index
+loop
+char found
+delim buf append char
+bracket
+index bracket count bracket countbracket type substr index
+type buf string tostr
+buf set length setlength
+bracket buf append
+found
+constant boolean boolean constant void void found
+constant type name type name equal type
+found
+buf append constant short type name short type name
+class
+found buf append type replac
+buf string tostr

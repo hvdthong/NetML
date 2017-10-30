@@ -1,0 +1,12 @@
+provid monitor current iter count lightweight event
+creat instanc
+org apach common math3 util
+framework provid
+iter incrementor max iter maxiter
+gener framework manag iter
+param max iter maxiter maximum number iter
+iter manag iterationmanag max iter maxiter
+algorithm maximum number iter set method
+version
+iter manag iterationmanag
+listen copi write arrai list copyonwritearraylist iter listen iterationlisten

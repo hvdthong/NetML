@@ -1,0 +1,18 @@
+org aspectj weaver pattern
+correspond target pcd
+type initi wildtypepattern stai foo
+type deal
+resolvebind method convert bindingtypepattern
+case foo type deal
+author erik hilsdal
+author jim hugunin
+target pointcut thisortargetpointcut bind pointcut namebindingpointcut
+residu remaind pointcut match
+perform pure static inform compil time
+method return residu pointcut shadow
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+match couldmatch shadow liter fals
+prefer true mean residu
+type type pattern typepattern liter true
+var var isthi shadow var getthisvar shadow target var gettargetvar
+expos state var exposestateforvar var type state shadow world getiworld

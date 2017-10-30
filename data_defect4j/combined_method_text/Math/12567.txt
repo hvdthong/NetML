@@ -1,0 +1,7 @@
+plane appli hyperplan euclidean3 euclidean3d hyperplan
+version
+inherit doc inheritdoc
+org apach common math3 geometri euclidean threed
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron
+plane hyperplan translat translat

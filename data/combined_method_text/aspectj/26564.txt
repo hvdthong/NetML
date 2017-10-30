@@ -1,0 +1,29 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+method recurs type method overrid pass
+return method overridden null found
+resolv member resolvedmemb check overrid checkforoverrid resolv type resolvedtyp type string methodnam string methodparam string methodreturntyp methodmodifi string methodpackag
+check type check supertyp
+type
+type miss resolv type signatur missingresolvedtypewithknownsignatur type instanceof missingresolvedtypewithknownsignatur return null
+string packag packagenam type packag getpackagenam
+packag packagenam packag packagenam
+packag insamepackag packag packagenam equal methodpackag boolean insamepackag packagenam equal methodpackag visibl rule
+iter iter type method getmethod iter hasnext
+resolv member resolvedmemb method amethod resolv member resolvedmemb iter
+method amethod static isstat
+method amethod privat ispriv method amethod getnam equal methodnam method amethod paramet signatur getparametersignatur equal methodparam
+visibl check
+visibl overrid isvisibilityoverrid methodmodifi method amethod packag insamepackag
+check return type bridg method
+method amethod return type getreturntyp erasur signatur geterasuresignatur equal methodreturntyp modifi privat ispriv method amethod modifi getmodifi
+method amethod
+type equal unresolv type unresolvedtyp object
+resolv type resolvedtyp superclass type superclass getsuperclass
+resolv member resolvedmemb overridden method overriddenmethod check overrid checkforoverrid superclass methodnam methodparam methodreturntyp methodmodifi methodpackag
+overridden method overriddenmethod overridden method overriddenmethod
+resolv type resolvedtyp interfac type declar interfac getdeclaredinterfac
+interfac length
+resolv type resolvedtyp interfac aninterfac interfac
+overridden method overriddenmethod check overrid checkforoverrid interfac aninterfac methodnam methodparam methodreturntyp methodmodifi methodpackag
+overridden method overriddenmethod overridden method overriddenmethod

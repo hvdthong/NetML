@@ -1,0 +1,91 @@
+org aspectj ajd swing
+set user configur option
+author mik kersten
+option frame optionsfram frame jframe
+init jbinit except
+titl border1 titledborder1 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color sort
+titl border2 titledborder2 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color associ navig relat sturctur node
+titl border3 titledborder3 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color member filter node exclud view
+border factori borderfactori creat line border createlinebord color black
+titl border4 titledborder4 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color compil option
+titl border5 titledborder5 titl border titledbord
+border factori borderfactori creat line border createlinebord color black
+titl border6 titledborder6 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color run option
+border factori borderfactori creat etch border createetchedbord color white color
+titl border7 titledborder7 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color granular node select level hidden
+border4 border factori borderfactori creat etch border createetchedbord color white color
+titl border8 titledborder8 titl border titledbord border4 member visibl
+border5 border factori borderfactori creat etch border createetchedbord color white color
+titl border9 titledborder9 titl border titledbord border5 member modifi
+border factori borderfactori creat empti border createemptybord
+titl border10 titledborder10 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color structur view properti
+border7 border factori borderfactori creat etch border createetchedbord color white color
+titl border11 titledborder11 titl border titledbord border7 member kind
+border8 border factori borderfactori creat etch border createetchedbord color white color
+titl border12 titledborder12 titl border titledbord border8 build path
+border9 border factori borderfactori creat empti border createemptybord
+panel1 jpanel1 set layout setlayout border layout1 borderlayout1
+label1 jlabel1 set font setfont java awt font dialog
+label1 jlabel1 set text settext aspectj develop environ ajd
+version label set font setfont java awt font dialog
+version label set text settext version
+appli button set font setfont java awt font dialog
+appli button set maximum size setmaximums dimens
+appli button set minimum size setminimums dimens
+appli button set prefer size setpreferreds dimens
+appli button set text settext appli
+appli button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+appli button action perform appli button actionperform
+cancel button set font setfont java awt font dialog
+cancel button set maximum size setmaximums dimens
+cancel button set minimum size setminimums dimens
+cancel button set prefer size setpreferreds dimens
+cancel button set text settext cancel
+cancel button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+cancel button action perform cancel button actionperform
+button set font setfont java awt font dialog
+button set maximum size setmaximums dimens
+button set minimum size setminimums dimens
+button set prefer size setpreferreds dimens
+button set text settext
+button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+button action perform button actionperform
+main tab pane main tabbedpan set font setfont java awt font dialog
+titl border1 titledborder1 set titl settitl order sort order node
+titl border1 titledborder1 set titl font settitlefont java awt font dialog
+titl border2 titledborder2 set titl settitl associ navig relat structur node
+titl border2 titledborder2 set titl font settitlefont java awt font dialog
+titl border3 titledborder3 set titl font settitlefont java awt font dialog
+titl border6 titledborder6 set titl font settitlefont java awt font dialog
+titl border5 titledborder5 set titl font settitlefont java awt font dialog
+titl border4 titledborder4 set titl settitl ajcompil flag
+titl border4 titledborder4 set titl font settitlefont java awt font dialog
+titl border7 titledborder7 set titl font settitlefont java awt font dialog
+titl border8 titledborder8 set titl settitl access modifi
+titl border8 titledborder8 set titl font settitlefont java awt font dialog
+titl border9 titledborder9 set titl font settitlefont java awt font dialog
+titl border10 titledborder10 set titl font settitlefont java awt font dialog
+titl border11 titledborder11 set titl font settitlefont java awt font dialog
+titl border12 titledborder12 set titl font settitlefont java awt font dialog
+panel set layout setlayout border layout9 borderlayout9
+text area1 jtextarea1 set background setbackground manag uimanag color getcolor colorchoos background
+text area1 jtextarea1 set font setfont java awt font sansserif
+text area1 jtextarea1 set edit setedit
+text area1 jtextarea1 set text settext text text
+panel set border setbord border9
+built label set text settext built
+built label set font setfont java awt font dialog
+main tab pane main tabbedpan add panel ajd
+content pane getcontentpan add button panel border layout borderlayout south
+button panel add button
+button panel add cancel button
+button panel add appli button
+content pane getcontentpan add main tab pane main tabbedpan border layout borderlayout center
+panel add text area1 jtextarea1 border layout borderlayout center
+panel add panel1 jpanel1 border layout borderlayout north
+panel1 jpanel1 add label1 jlabel1 border layout borderlayout north
+panel1 jpanel1 add version label border layout borderlayout center
+panel1 jpanel1 add built label border layout borderlayout south

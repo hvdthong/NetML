@@ -1,0 +1,14 @@
+org aspectj weaver
+resolv type world requir present
+fail find return instanc class class
+defer product find type error time
+ask question answer sole signatur
+enabl weaver toler miss type
+miss resolv type signatur missingresolvedtypewithknownsignatur resolv type resolvedtyp
+rais warn miss interfac whilst find method raisewarningonmissinginterfacewhilstfindingmethod
+issu miss interfac warn issuedmissinginterfacewarn
+string messag weaver messag weavermessag format weaver messag weavermessag find type interfac method find type interfac method getnam signatur
+messag compil weav context compilationandweavingcontext current context getcurrentcontext
+world lint getlint find type affect join point match cantfindtypeaffectingjoinpointmatch signal messag
+messageutil warn world getmessagehandl messag
+issu miss interfac warn issuedmissinginterfacewarn

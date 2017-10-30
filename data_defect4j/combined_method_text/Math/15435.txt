@@ -1,0 +1,10 @@
+deprec remov
+abstract linear optim abstractlinearoptim linear optim linearoptim
+max iter getmaxiter
+base handl boilerpl method threshold
+inherit doc inheritdoc
+org apach common math3 optim linear
+version
+max iter maxiter
+base implement linear optim
+set iter counter

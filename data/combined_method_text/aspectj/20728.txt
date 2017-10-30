@@ -1,0 +1,32 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung privileg access mungeprivilegedaccess
+bcel class weaver bcelclassweav weaver
+privileg access munger privilegedaccessmung munger
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+resolv member resolvedmemb member munger member getmemb
+resolv type resolvedtyp type ontyp weaver world getworld resolv member declar type getdeclaringtyp munger sourc locat getsourceloc
+type ontyp raw type israwtyp type ontyp type ontyp gener type getgenerictyp
+system println mung gen member
+type ontyp equal gen type gettyp
+member kind getkind member field
+system println match gen
+add field getter addfieldgett gen member
+ajc member maker ajcmembermak privileg access method field privilegedaccessmethodforfieldget aspect type aspecttyp member
+add field setter addfieldsett gen member
+ajc member maker ajcmembermak privileg access method field set privilegedaccessmethodforfieldset aspect type aspecttyp member
+member kind getkind member method
+add method dispatch addmethoddispatch gen member
+ajc member maker ajcmembermak privileg access method method privilegedaccessmethodformethod aspect type aspecttyp member
+member kind getkind member constructor
+iter gen method gen getmethodgen iter hasnext
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+member view getmemberview
+member view getmemberview kind getkind member constructor
+getmemberview equal member
+forc public forcepubl
+return true
+throw bcexcept match member gen
+member kind getkind member static initi static initi
+gen forc public forcepubl
+runtim except runtimeexcept unimpl

@@ -1,0 +1,11 @@
+author stephen colebourn
+basic year date time field basicyeardatetimefield imprecis date time field imprecisedatetimefield
+org joda time chrono
+minuend instant minuendinst subtrahend instant subtrahendinst
+author gui allard
+chronolog ichronolog year differ getyeardiffer minuend instant minuendinst subtrahend instant subtrahendinst
+refactor year date time field gjyeardatetimefield
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+chronolog ichronolog year differ getyeardiffer subtrahend instant subtrahendinst minuend instant minuendinst
+author brian neill o'neil
+year field suitabl calendar

@@ -1,0 +1,10 @@
+org aspectj weaver
+lint
+load default properti loaddefaultproperti
+input stream inputstream class getclass resourc stream getresourceasstream xlintdefault properti
+messag util messageutil warn world messag handler getmessagehandl
+weaver messag weavermessag format weaver messag weavermessag xlintdefault load error xlintdefault load error
+set properti setfromproperti
+except ioexcept ioe
+messag util messageutil error world messag handler getmessagehandl
+weaver messag weavermessag format weaver messag weavermessag xlintdefault load problem xlintdefault load problem ioe messag getmessag

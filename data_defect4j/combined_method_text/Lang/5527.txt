@@ -1,0 +1,18 @@
+org apach common lang3 tupl
+refer element 'left' 'middle' 'right'
+implement defin basic api
+version
+subclass implement mutabl immut
+string string tostr
+return string represent tripl format code left middl
+string builder stringbuild append append left getleft append append middl getmiddl append
+param left element type
+append getright append string tostr
+mutabl object store tripl tripl effect mutabl
+overrid
+tripl consist element
+tripl compar tripl serializ
+string describ object
+restrict type store object store
+param element type
+param middl element type

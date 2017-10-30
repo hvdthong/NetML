@@ -1,0 +1,14 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+resolv member impl resolvedmemberimpl
+kind kind
+unresolv type unresolvedtyp declar type declaringtyp
+modifi
+unresolv type unresolvedtyp return type returntyp
+string
+unresolv type unresolvedtyp paramet type parametertyp
+unresolv type unresolvedtyp check except checkedexcept
+kind declar type declaringtyp modifi return type returntyp paramet type parametertyp
+check except checkedexcept check except checkedexcept

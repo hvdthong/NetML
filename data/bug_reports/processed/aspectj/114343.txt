@@ -1,0 +1,46 @@
+generics field problems generic field
+guys
+downloaded development 20051029200407
+issue open
+
+java code
+
+public class test1
+set integer intsset
+public set integer foo
+return intsset
+
+
+public class test2
+set double dset
+public set double foo
+return dset
+
+
+aspect
+
+public privileged aspect testaspect
+pointcut gettingmembercollection test
+target
+public set number
+testaspect
+set test gettingmembercollection
+set proceed
+return
+
+
+replace access member set
+derives number problem advice stricted
+return exact type member error earlier
+incompatible return type applying field java util set
+mprv secsph test intsset
+incompatible return type applying field java util set
+mprv secsph test dset
+declared advice worked fine
+declare advice
+set extends number test gettingmembercollection
+set proceed
+return
+
+
+misha

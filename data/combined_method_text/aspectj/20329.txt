@@ -1,0 +1,38 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+report error reason declar method ctor field member
+exist method pass set declar statement
+match flag indic set declar field declar method ctor
+entri
+check unus declar type checkunuseddeclareattyp set unus deca unuseddecat declar field isdeclareatfield
+iter iter unus deca unuseddecat iter iter hasnext
+declar annot declareannot decl decla declar annot declareannot iter
+error exact type pattern
+decl decla exact pattern isexactpattern
+decl decla signatur pattern getsignaturepattern declar type getdeclaringtyp exact type pattern exacttypepattern
+decl decla signatur pattern getsignaturepattern getnam isani
+decl decla kind getkind declar annot declareannot constructor constructor
+quickli check itd meet suppli 'missing' member
+itd match itdmatch
+list lst clazz type gettyp inter type munger getintertypemung
+iter iter lst iter iter hasnext itd match itdmatch
+bcel type munger bceltypemung element bcel type munger bceltypemung iter
+element munger getmung field type munger newfieldtypemung
+field type munger newfieldtypemung nftm field type munger newfieldtypemung element munger getmung
+itd match itdmatch decl decla signatur pattern getsignaturepattern match nftm signatur getsignatur world
+element munger getmung method type munger newmethodtypemung
+method type munger newmethodtypemung nmtm method type munger newmethodtypemung element munger getmung
+itd match itdmatch decl decla signatur pattern getsignaturepattern match nmtm signatur getsignatur world
+element munger getmung constructor type munger newconstructortypemung
+constructor type munger newconstructortypemung nctm constructor type munger newconstructortypemung element munger getmung
+itd match itdmatch decl decla signatur pattern getsignaturepattern match nctm signatur getsignatur world
+itd match itdmatch
+messag imessag messag
+declar field isdeclareatfield
+messag messag
+field decl decla signatur pattern getsignaturepattern string tostr
+exist decl decla sourc locat getsourceloc
+messag messag
+method decl decla signatur pattern getsignaturepattern string tostr
+exist decl decla sourc locat getsourceloc
+world messag handler getmessagehandl handl messag handlemessag messag

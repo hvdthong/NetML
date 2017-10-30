@@ -1,0 +1,100 @@
+code
+oper link java lang string
+levenshtein distanc levenshteindist
+code char sequenc charsequ code
+remov lead trail whitespac
+charact high surrog ishighsurrog
+basic multilingu plane
+len cslen length
+safe substr extract
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+cslast len cslen
+substr extract rel string
+string util stringutil containsnon abab 'xyz'
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+search string replac string
+empti char sequenc charsequ length return
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+param search char searchchar arrai invalid char
+check string end suffix safe
+code string util stringutil defin word relat
+default string defaultstr
+whitespac charact defin link charact whitespac iswhitespac
+replac overlai
+empti length string code
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+charat
+start startswith
+abbrevi
+version
+append suffix end string present
+method give sampl code explain oper
+search searchlast
+trim strip
+remov delet
+chang signatur containsnon string containsnon char sequenc charsequ
+compar string safe
+symbol code input includ code
+param char sequenc charsequ check
+org apach common lang3
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+protect input string
+code input code
+code safe
+containsonli containsnon containsani
+revers revers delimit reversedelimit
+detail vari method
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+revers string
+end endswith
+code invalid charact arrai code
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+invalid char
+check string start prefix safe
+len cslen
+empti isempti blank isblank
+space space charact code
+string util stringutil containsnon ab1 'xyz'
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+string util stringutil containsnon abz 'xyz'
+pre
+search len searchlen search char searchchar length
+substr left mid
+containsnon char sequenc charsequ search char searchchar
+equal
+code null pointer except nullpointerexcept consid bug
+code code return
+search char searchchar
+chomp chop
+string charact
+java lang string
+search len searchlen
+search searchlast search len searchlen
+safe index check
+miss low surrog fine string index indexof string
+cslast search char searchchar charat
+code string util stringutil
+check char sequenc charsequ charact
+string util stringutil
+thread safe threadsaf
+check charact string
+append miss appendifmiss
+prepend miss prependifmiss
+string util stringutil containsnon

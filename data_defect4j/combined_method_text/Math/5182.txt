@@ -1,0 +1,11 @@
+real matrix chang visitor realmatrixchangingvisitor
+end
+version
+interfac defin visitor matrix entri
+org apach common math linear
+end visit matrix
+method call entri matrix visit
+default real matrix chang visitor defaultrealmatrixchangingvisitor
+code walk xxx order walkinxxxord code
+version revis date
+real matrix chang visitor realmatrixchangingvisitor serializ

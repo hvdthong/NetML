@@ -1,0 +1,6 @@
+org aspectj weaver tool
+default implement matchingcontext back
+map
+default match context defaultmatchingcontext match context matchingcontext
+context bind hascontextbind string context paramet contextparameternam
+context map contextmap kei containskei context paramet contextparameternam

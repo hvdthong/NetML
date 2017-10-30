@@ -1,0 +1,32 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+creat copi annot deep deep copi field troubl 'recipient'
+annot creat annot copi createannotationcopi annot ann
+normal annot normalannot ann2 normal annot normalannot ann type ann sourc start sourcestart
+ann2 member pair membervaluepair ann member pair membervaluepair
+ann2 resolv type resolvedtyp ann resolv type resolvedtyp
+ann2 bit ann bit
+ann2
+string annx gettypenam
+typebind factori maketypebind annx getsignatur
+string thenam annx getsignatur getbasenam
+char typenam charoper spliton replac tochararrai pr149293 bulletproof
+long posit long typenam length
+int posit length posit po
+typerefer anntyp qualifiedtyperefer typenam posit
+normalannot ann normalannot anntyp po
+ann resolvedtyp yuck case
+membervalu
+express pcexpr stringliter pointcutexpress tochararrai po po
+membervaluepair mvp membervaluepair
+mvp membervaluepair tochararrai po po pcexpr
+express argnamesexpr stringliter argnam tochararrai po po
+mvp membervaluepair argnam tochararrai po po argnamesexpr
+ann membervaluepair mvp
+return ann

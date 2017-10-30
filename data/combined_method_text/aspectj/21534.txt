@@ -1,0 +1,17 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot pattern list annotationpatternlist pattern node patternnod
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+buf append
+len type pattern typepattern length len
+annot type pattern annotationtypepattern type type pattern typepattern
+buf append
+type annot type pattern annotationtypepattern ellipsi
+buf append
+string ann patt annpatt type string tostr
+buf append ann patt annpatt start startswith ann patt annpatt substr ann patt annpatt
+buf append
+buf string tostr

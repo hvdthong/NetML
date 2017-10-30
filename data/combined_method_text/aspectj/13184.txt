@@ -1,0 +1,26 @@
+org aspectj apach bcel gener
+templat class build java class initi
+exist java class file
+javaclass
+version classgen java aclement exp
+author href mailto marku dahm berlin dahm
+upgrad andi clement 9th mar calcul suid
+class gen classgen access flag accessflag cloneabl
+return final built java class object
+java class javaclass java class getjavaclass
+interfac interfac getinterfac
+field field field getfield
+method method method getmethod
+attribut attribut
+annot vec size
+attribut attribut getattribut
+todo trash attribut call 'runtimevisibleannotations' 'runtimeinvisibleannotations'
+attribut ann attribut annattribut util annot attribut getannotationattribut annot vec
+attribut attribut attribut vec size ann attribut annattribut length
+attribut vec arrai toarrai attribut
+system arraycopi ann attribut annattribut attribut attribut vec size ann attribut annattribut length
+call add
+constant pool constantpool final constant pool getfinalconstantpool
+java class javaclass class index superclass index
+file major minor access flag
+interfac field method attribut

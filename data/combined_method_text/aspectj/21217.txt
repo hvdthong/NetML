@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+util
+replac instruct replaceinstruct
+instruct handl instructionhandl
+instruct list instructionlist replac instruct replacementinstruct
+lazi method gen lazymethodgen enclos method enclosingmethod
+instruct list instructionlist enclos method enclosingmethod bodi getbodi
+instruct handl instructionhandl fresh append replac instruct replacementinstruct
+delet instruct deleteinstruct fresh enclos method enclosingmethod

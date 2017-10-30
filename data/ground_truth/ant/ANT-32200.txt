@@ -1,0 +1,8 @@
+src/main/org/apache/tools/bzip2/CBZip2InputStream_init_void
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_doReversibleTransformation_void
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_fullGtU-int-int_boolean
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_generateMTFValues_void
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_hbAssignCodes-int[]-char[]-int-int-int_void
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_mainSort_void
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_qSort3-int-int-int_void
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_sendMTFValues_void

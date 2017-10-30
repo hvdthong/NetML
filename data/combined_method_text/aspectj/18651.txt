@@ -1,0 +1,9 @@
+org aspectj weaver
+boundedreferencetyp result gener wildcard express
+extend string super foo
+signatur bound refer type gener signatur
+specif section jvm spec signatur string
+bound type variabl super
+bound refer type boundedreferencetyp refer type referencetyp
+resolv member resolvedmemb declar field getdeclaredfield
+resolv type resolvedtypex declar field getdeclaredfield

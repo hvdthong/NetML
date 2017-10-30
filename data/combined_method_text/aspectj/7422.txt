@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil
+act bridg ajde' outputlocationmanag interfac compil intern
+author adrian
+compil result destin manag compilationresultdestinationmanag
+return list output locat handl outputlocationmanag
+list output locat getalloutputloc list file getalloutputloc

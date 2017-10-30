@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+bcel world bcelworld class path manag classpathmanag cpm messag handler imessagehandl handler cross refer handler icrossreferencehandl xref handler xrefhandl
+class path classpath cpm
+set messag handler setmessagehandl handler
+set cross refer handler setcrossreferencehandl xref handler xrefhandl
+bcel resolv class
+deleg
+todo alex call org aspectj apach bcel repositori setrepositori deleg
+safe j2ee static stuff bcel

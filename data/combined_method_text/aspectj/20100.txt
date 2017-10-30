@@ -1,0 +1,9 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+conveni method find type resolv step
+resolv type resolvedtyp resolv string
+trace enter resolv object
+resolv type resolvedtyp ret resolv unresolv type unresolvedtyp fornam
+trace exit resolv ret
+ret

@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+lazi method gen lazymethodgen locat annot holder method ctor munger locateannotationholderformethodctormung lazi class gen lazyclassgen clazz bcel type munger bceltypemung method ctor munger methodctormung
+method ctor munger methodctormung munger getmung method type munger newmethodtypemung
+method type munger newmethodtypemung nftm method type munger newmethodtypemung method ctor munger methodctormung munger getmung
+resolv member resolvedmemb lookingfor ajc member maker ajcmembermak inter method dispatch intermethoddispatch nftm signatur getsignatur method ctor munger methodctormung aspect type getaspecttyp
+list meth clazz method gen getmethodgen
+iter iter meth iter iter hasnext
+lazi method gen lazymethodgen element lazi method gen lazymethodgen iter
+element getnam equal lookingfor getnam element paramet signatur getparametersignatur equal lookingfor paramet signatur getparametersignatur element
+method ctor munger methodctormung munger getmung constructor type munger newconstructortypemung
+constructor type munger newconstructortypemung nftm constructor type munger newconstructortypemung method ctor munger methodctormung munger getmung
+resolv member resolvedmemb lookingfor ajc member maker ajcmembermak post introduc constructor postintroducedconstructor method ctor munger methodctormung aspect type getaspecttyp nftm signatur getsignatur declar type getdeclaringtyp nftm signatur getsignatur paramet type getparametertyp
+list meth clazz method gen getmethodgen
+iter iter meth iter iter hasnext
+lazi method gen lazymethodgen element lazi method gen lazymethodgen iter
+element getnam equal lookingfor getnam element paramet signatur getparametersignatur equal lookingfor paramet signatur getparametersignatur element
+runtim except runtimeexcept method ctor munger methodctormung

@@ -1,0 +1,15 @@
+org aspectj weaver pattern
+bind annot type pattern bindingannotationtypepattern exact annot type pattern exactannotationtypepattern bind pattern bindingpattern
+resolv bind resolvebind world world
+resolv
+resolv
+annot type annotationtyp annot type annotationtyp resolv world
+resolv type resolvedtyp resolv annot type resolvedannotationtyp resolv type resolvedtyp annot type annotationtyp
+resolv annot type resolvedannotationtyp annot isannot
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag refer annot type refer annot type annot type annotationtyp getnam
+sourc locat getsourceloc
+world messag handler getmessagehandl handl messag handlemessag
+resolv
+annot type annotationtyp type variabl refer istypevariablerefer annotationtyp istypevariablerefer return deal check type var bound
+verifi runtim retent verifyruntimeretent world resolv annot type resolvedannotationtyp

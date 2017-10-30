@@ -1,0 +1,14 @@
+org apach lucen index
+indexread read index multipl segment
+directori reader directoryread index reader indexread cloneabl
+index reader indexread open directori directori index delet polici indexdeletionpolici delet polici deletionpolici index commit indexcommit commit read readonli
+term info index divisor terminfosindexdivisor corrupt index except corruptindexexcept except ioexcept
+index reader indexread segment info segmentinfo find segment file findsegmentsfil directori
+overrid
+object bodi dobodi string segment file segmentfilenam corrupt index except corruptindexexcept except ioexcept
+segment info segmentinfo info segment info segmentinfo
+info read directori segment file segmentfilenam
+read readonli
+read directori reader readonlydirectoryread directori info delet polici deletionpolici term info index divisor terminfosindexdivisor
+directori reader directoryread directori info delet polici deletionpolici term info index divisor terminfosindexdivisor
+run commit

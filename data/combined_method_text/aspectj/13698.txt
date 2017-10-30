@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+icmpeq branch int comparison succe
+pre stack value1 value2 pre
+version icmpeq java aclement exp
+author href mailto marku dahm berlin dahm
+icmpeq icmpeq instruct ifinstruct
+return negat instruct
+instruct ifinstruct negat
+icmpn icmpn target

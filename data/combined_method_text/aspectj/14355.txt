@@ -1,0 +1,7 @@
+org aspectj apach bcel gener
+type instruct int iload type
+field putfield instruct
+version typedinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+type instruct typedinstruct
+type type gettyp constant pool gen constantpoolgen cpg

@@ -1,0 +1,28 @@
+Destructuring Assignment does not allow 'this'
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+
+Steps to reproduce:
+
+function F(var_args) {
+  [this.x, this.y] = arguments;
+}
+
+
+
+Actual results:
+
+java.lang.IllegalStateException "unexpected token THIS"
+
+
+Expected results:
+
+Should have the same semantics as
+
+function F(var_args) {
+  var t = this;
+  [t.x, t.y] = arguments;
+}
+var f = new F(1,2);
+// f.x === 1, f.y === 2
+
+which works fine.

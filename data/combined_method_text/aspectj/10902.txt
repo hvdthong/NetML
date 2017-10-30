@@ -1,0 +1,8 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+list bootclasspath getbootclasspath ajc config parser ajcconfigpars parser
+list ret arrai list arraylist
+parser bootclasspath
+add classpath addclasspath system properti getproperti sun boot class path ret
+add classpath addclasspath parser bootclasspath ret
+ret

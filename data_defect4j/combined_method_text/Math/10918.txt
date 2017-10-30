@@ -1,0 +1,20 @@
+replac 'j' number format real
+pars posit parseposit error index geterrorindex
+org apach common math3 complex
+format complex number cartesian format 'i'
+pars posit parseposit pars posit parseposit pars posit parseposit
+pars link complex object
+pars posit parseposit index getindex
+math pars except mathparseexcept sourc
+complex pars string sourc math pars except mathparseexcept
+pars string produc link complex object
+version
+pars
+complex result pars sourc pars posit parseposit
+math pars except mathparseexcept begin string
+complex pars string sourc
+complex
+complex format complexformat
+result
+imaginari part configur
+param sourc string pars

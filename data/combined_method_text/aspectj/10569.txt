@@ -1,0 +1,13 @@
+org aspectj ajd
+author mik kersten
+structur view structureview
+structur view node istructureviewnod find view node helper findcorrespondingviewnodehelp structur view node istructureviewnod node program element iprogramel node pnode
+node
+node structur node getstructurenod
+node structur node getstructurenod equal node pnode
+node kind getkind structur view node istructureviewnod kind declar
+node
+node node children getchildren
+iter node children getchildren iter hasnext
+structur view node istructureviewnod found node foundnod find view node helper findcorrespondingviewnodehelp structur view node istructureviewnod node pnode
+found node foundnod found node foundnod

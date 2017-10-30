@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+basic token basictoken token itoken
+basic token basictoken string identifi isidentifi string liter kind literalkind start end
+identifi isidentifi identifi isidentifi
+liter kind literalkind liter kind literalkind
+start start
+end end

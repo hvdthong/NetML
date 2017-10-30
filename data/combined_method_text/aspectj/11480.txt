@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+show messag showmessag
+kind kind
+string messag
+sourc locat isourceloc loc1
+sourc locat isourceloc loc2
+world getworld show messag showmessag kind messag loc1 loc2

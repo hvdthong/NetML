@@ -1,0 +1,37 @@
+org aspectj util
+file util fileutil
+run pipe
+halt throwabl thrown read return
+end file demand
+run
+total written totalwritten
+halt
+max
+buf max
+todo block hang har
+count read buf max
+byte arrai output stream bytearrayoutputstream snoop mysnoop
+halt finish stream finishstream count
+halt count
+write buf count
+snoop mysnoop snoop
+snoop mysnoop
+snoop mysnoop write buf count
+total written totalwritten count
+halt finish stream finishstream
+halt sleep
+thread sleep sleep
+halt finish stream finishstream
+count read buf max
+throwabl
+thrown
+halt
+close input closeinput
+close
+except ioexcept
+ignor
+close output closeoutput
+close
+except ioexcept
+ignor
+complet total written totalwritten thrown

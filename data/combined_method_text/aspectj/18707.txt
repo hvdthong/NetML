@@ -1,0 +1,9 @@
+org aspectj weaver
+concret type munger concretetypemung partial order partialord partial compar partialcompar
+compar compareto object
+concret type munger concretetypemung concret type munger concretetypemung
+resolv type resolvedtyp aspect otheraspect aspect type aspecttyp
+aspect type aspecttyp equal aspect otheraspect
+signatur getsignatur start getstart signatur getsignatur start getstart
+aspect type aspecttyp assign isassignablefrom aspect type aspecttyp
+aspect type aspecttyp assign isassignablefrom aspect type aspecttyp

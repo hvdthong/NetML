@@ -1,0 +1,14 @@
+org aspectj weaver
+iter signatur join point calcul signatur
+lazili minim process avoid unneccessari find type
+error iter cach reus call reset method
+iter
+join point signatur iter joinpointsignatureiter iter
+build list type subtyp supertyp inclus
+accumul type accumulatetypesinbetween resolv type resolvedtyp type subtyp resolv type resolvedtyp super type supertyp list type
+type add type subtyp
+type subtyp super type supertyp
+iter iter type subtyp direct supertyp getdirectsupertyp iter hasnext
+resolv type resolvedtyp parent resolv type resolvedtyp iter
+super type supertyp assign isassignablefrom parent
+accumul type accumulatetypesinbetween parent super type supertyp type

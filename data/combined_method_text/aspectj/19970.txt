@@ -1,0 +1,98 @@
+org aspectj weaver
+unresolvedtyp repres type weaver basic signatur
+type variabl type paramet typex resolv world
+repositori type unresolvedtyp resolv turn
+resolvedtyp primit type arrai type referencetyp
+referencetyp refer simpl gener parameter type variabl
+base refer type referencetyp back deleg
+inform type base repositori bcel
+eclipsesourcetyp futur support
+java lang reflect base deleg
+unresolvedtyp signatur uniqu kei type world
+typex fulli awar complet type inform
+erasur unresolvedtyp world achiev signatur typex
+combin basic java signatur gener signatur inform
+complet signatur
+format unresolvedtyp signatur
+simpl gener parameter type signatur
+java signatur
+ljava lang string
+gener type signatur
+typeparamsopt classsig superclasssig superintflistopt
+gener signatur grammar jvm spec
+addit classsignatur gener signatur addit
+type variabl name replac simpl number repres
+declar order type declar
+public class foo extend number signatur
+ljava lang number lorg xyz foo ljava lang object
+parameter type distinct type world signatur
+grammar
+typeparamsopt classsig paramsiglist
+class sig replac list string
+signatur
+pjava util list ljava lang string
+list class
+class foo list
+signatur
+pjava util list
+typex repres type variabl uniqu signatur
+grammar formaltypeparamet jvm spec
+gener typex true signatur erasur signatur
+kei point unresolvedtyp world
+list signatur
+ljava util list ljava lang object
+erasur signatur
+ljava util list
+gener wildcard introduc special signatur type paramet
+wildcard signatur
+wildcard extend foo signatur lfoo
+wildcard super foo signatur lfoo
+unresolv type unresolvedtyp traceabl type variabl declar element typevariabledeclaringel
+string signatur signaturetonam string signatur
+signatur char charat
+byte
+char
+doubl
+float
+int
+long
+string signatur substr signatur length replac
+string buffer stringbuff buff2 namebuff2 string buffer stringbuff
+colon signatur index indexof
+string tvar tvarnam signatur substr colon
+buff2 namebuff2 append tvar tvarnam
+buff2 namebuff2 string tostr
+case 'p' parameter type sig
+string buffer stringbuff buff namebuff string buffer stringbuff
+signatur parameter type
+list string ljava util list ljava lang string
+map string list integ ljava util map java lang string ljava util list ljava lang integ
+param nest level paramnestlevel
+signatur length
+signatur char charat
+buff namebuff append
+buff namebuff append
+param nest level paramnestlevel
+string buffer stringbuff buff innerbuff string buffer stringbuff
+param nest level paramnestlevel
+signatur char charat
+param nest level paramnestlevel
+param nest level paramnestlevel
+param nest level paramnestlevel buff innerbuff append
+param nest level paramnestlevel
+buff namebuff append signatur signaturetonam buff innerbuff string tostr
+signatur char charat buff namebuff append
+buff innerbuff string buffer stringbuff
+buff namebuff append
+buff namebuff append
+buff namebuff string tostr
+short
+void
+boolean
+signatur signaturetonam signatur substr signatur length
+case
+gener
+signatur charat return signaturetonam signatur substr
+extend signatur signaturetonam signatur substr signatur length
+super signatur signaturetonam signatur substr signatur length
+except bcexcept bad type signatur signatur

@@ -1,0 +1,28 @@
+replac 'j' number format real
+org apach common math3 complex
+pass append toappendto
+offset align field
+field posit fieldposit po
+po set end index setendindex
+format sign imaginari
+append toappendto
+version
+complex imaginari getimaginari
+string buffer stringbuff append imappendto
+append imappendto format imaginari formatimaginari string buffer stringbuff po
+format complex number cartesian format 'i'
+composit format compositeformat format doubl formatdoubl real format getrealformat append toappendto po
+complex real getreal
+format real
+param complex object format
+param po input align field desir output
+format link complex object produc string
+append toappendto append append imappendto
+string buffer stringbuff format complex complex string buffer stringbuff append toappendto
+append toappendto append
+doubl isnan
+po set begin index setbeginindex
+append toappendto append imaginari charact getimaginarycharact
+complex format complexformat
+imaginari part configur
+param append toappendto text append

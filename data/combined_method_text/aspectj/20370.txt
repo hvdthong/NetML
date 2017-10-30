@@ -1,0 +1,38 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+report method ctor weav messag reportmethodctorweavingmessag lazi class gen lazyclassgen clazz resolv member resolvedmemb member declar annot declareannot deca decam member line number memberlinenumb
+world getworld messag handler getmessagehandl ignor isignor messag imessag weaveinfo
+string buffer stringbuff parm string parmstr string buffer stringbuff
+unresolv type unresolvedtyp param type paramtyp member paramet type getparametertyp
+param type paramtyp length
+unresolv type unresolvedtyp type param type paramtyp
+string org aspectj apach bcel classfil util signatur string signaturetostr type signatur getsignatur
+index lastindexof substr index lastindexof
+parm string parmstr append
+param type paramtyp length parm string parmstr append
+parm string parmstr append
+string method methodnam member getnam
+string buffer stringbuff sig string buffer stringbuff
+sig append org aspectj apach bcel classfil util access string accesstostr member modifi getmodifi
+sig append
+sig append member return type getreturntyp string tostr
+sig append
+sig append member declar type getdeclaringtyp string tostr
+sig append
+sig append method methodnam equal init method methodnam
+sig append parm string parmstr
+string buffer stringbuff loc string buffer stringbuff
+clazz file getfilenam
+loc append debug info
+loc append clazz file getfilenam
+member line number memberlinenumb
+loc append member line number memberlinenumb
+world getworld messag handler getmessagehandl handl messag handlemessag
+weav messag weavemessag construct weav messag constructweavingmessag weav messag weavemessag weavemessag annot weavemessag annot
+string
+sig string tostr
+loc string tostr
+deca decam annot string getannotationstr
+method methodnam start startswith init constructor method
+deca decam aspect getaspect string tostr
+util beautifi locat beautifyloc deca decam sourc locat getsourceloc

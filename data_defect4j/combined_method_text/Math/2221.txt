@@ -1,0 +1,12 @@
+shape getshap
+weibul distribut impl weibulldistributionimpl abstract continu distribut abstractcontinuousdistribut
+alpha
+shape paramet
+shape
+link org apach common math distribut weibul distribut weibulldistribut
+access shape paramet
+version revis date sat jul
+version revis date
+default implement
+org apach common math distribut
+inherit doc inheritdoc

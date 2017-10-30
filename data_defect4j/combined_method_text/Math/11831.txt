@@ -1,0 +1,9 @@
+default implement link process model processmodel link kalman filter kalmanfilt
+real matrix realmatrix control matrix getcontrolmatrix
+control matrix controlmatrix
+inherit doc inheritdoc
+default implement link process model processmodel
+default process model defaultprocessmodel process model processmodel
+org apach common math3 filter
+version
+link kalman filter kalmanfilt

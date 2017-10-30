@@ -1,0 +1,23 @@
+dimens
+dot ydotklast dimens
+system arraycopi interpol dot ydotklast dot ydotklast
+param interpol interpol copi copi deep
+od integr dormand princ integr
+system arraycopi interpol dimens
+dimens interpol current state currentst length
+copi arrai separ origin arrai
+version
+org apach common math3 od nonstiff
+dot ydotklast length
+vector initi vectorsiniti
+interpol current state currentst
+copi constructor
+dormand prince853 step interpol dormandprince853stepinterpol
+dormand prince853 integr dormandprince853integr
+vector initi vectorsiniti interpol vector initi vectorsiniti
+repres interpol step
+dormand prince853 step interpol dormandprince853stepinterpol dormand prince853 step interpol dormandprince853stepinterpol interpol
+length
+instanc
+interpol
+dot ydotklast

@@ -1,0 +1,5 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+set captur messag getothermessag boolean
+build arg parser buildargpars messag handler imessagehandl handler
+string print writer stringprintwrit string writer stringwrit handler

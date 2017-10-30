@@ -1,0 +1,34 @@
+pre
+restrict neg restricttononneg neg mostneg
+extra decis variabl neg valu
+basic row basicrow basic row basicrow
+integ neg var basic row negativevarbasicrow neg var column negativevarcolumn basic row getbasicrow neg var column negativevarcolumn
+multipl variabl
+neg mostneg neg var basic row negativevarbasicrow entri getentri neg var basic row negativevarbasicrow rh offset getrhsoffset
+real point pair realpointvaluepair solut getsolut
+phase object function
+coeffici restrict neg restricttononneg neg mostneg
+amp decis variabl
+version revis date
+rh hand side
+rh
+basic row basicrow add basic row basicrow
+current solut
+artifici variabl
+coeffici
+col index colindex
+neg var column negativevarcolumn column label columnlabel index indexof neg var column label
+coeffici origin num decis variabl getoriginalnumdecisionvari
+coeffici length
+org apach common math optim linear
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+choos set rest equal
+set integ basic row basicrow hash set hashset integ
+tableau simplex method
+real point pair realpointvaluepair coeffici getvalu coeffici
+basic row basicrow entri getentri basic row basicrow rh offset getrhsoffset
+integ basic row basicrow basic row getbasicrow col index colindex
+col index colindex column label columnlabel index indexof

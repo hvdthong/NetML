@@ -1,0 +1,4 @@
+org aspectj weaver
+method type munger newmethodtypemung resolv type munger resolvedtypemung
+resolv member resolvedmemb inter method dispatch getintermethoddispatch unresolv type unresolvedtyp aspect type aspecttyp
+ajc member maker ajcmembermak inter method dispatch intermethoddispatch signatur aspect type aspecttyp

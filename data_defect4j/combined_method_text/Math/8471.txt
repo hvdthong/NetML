@@ -1,0 +1,11 @@
+row dimens rowdimens
+version
+store memori
+data getdata illeg argument except illegalargumentexcept
+data cov matrix covmatrix result getresult
+col dimens coldimens
+storeless covari storelesscovari covari
+covari implement requir input data
+data row dimens rowdimens row dimens rowdimens
+data
+org apach common math stat correl

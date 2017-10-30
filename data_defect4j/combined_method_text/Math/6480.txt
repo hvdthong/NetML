@@ -1,0 +1,26 @@
+pre
+euler integr eulerintegr
+version rung kutta integr rungekuttaintegr java 39z luc
+method explicit rung kutta method butcher
+arrai
+step size stepsiz
+current sign integr stepsiz
+need
+rung kutta integr rungekuttaintegr
+gill integr gillintegr
+org apach common math od
+differenti equat problem sign current stepsiz
+midpoint integr midpointintegr
+current sign stepsiz
+object implement link order differenti equat firstorderdifferentialequ
+a31 a32
+version revis date
+method call integr typic
+as1 as2 ass
+call link integr
+current sign stepsiz getcurrentsignedsteps
+integr ordinari differenti equat
+a21
+common part fix step rung kutta
+result undefin method call
+classic rung kutta integr classicalrungekuttaintegr

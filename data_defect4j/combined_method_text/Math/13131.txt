@@ -1,0 +1,7 @@
+interfac defin basic matrix oper
+matrix anymatrix
+return number column matrix
+column dimens columndimens
+version
+column dimens getcolumndimens
+org apach common math3 linear

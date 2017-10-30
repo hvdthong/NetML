@@ -1,0 +1,19 @@
+org aspectj apach bcel gener
+instanceof determin object type
+pre stack objectref result pre
+version instanceof java aclement exp
+author href mailto marku dahm berlin dahm
+instanceof instruct cpinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit load class visitloadclass
+visit except thrower visitexceptionthrow
+visit stack produc visitstackproduc
+visit stack consum visitstackconsum
+visit type instruct visittypedinstruct
+visit instruct visitcpinstruct
+visit instanceof visitinstanceof

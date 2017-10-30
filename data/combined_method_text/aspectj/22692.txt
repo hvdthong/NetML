@@ -1,0 +1,5 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+object visit annot type pattern anywithannotationtypepattern node object data
+node annot pattern getannotationpattern accept data
+node

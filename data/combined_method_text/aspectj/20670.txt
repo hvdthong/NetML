@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bcel shadow bcelshadow make unfinish preiniti makeunfinishedpreiniti
+bcel world bcelworld world
+lazi method gen lazymethodgen constructor
+bcel shadow bcelshadow ret bcel shadow bcelshadow
+world
+pre initi preiniti
+world make join point signatur makejoinpointsignatur constructor
+constructor
+ret fallsthrough true
+constructor effect signatur geteffectivesignatur
+ret set match signatur setmatchingsignatur constructor effect signatur geteffectivesignatur effect signatur geteffectivesignatur
+ret

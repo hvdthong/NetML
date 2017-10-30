@@ -1,0 +1,8 @@
+org aspectj ajd javaopt
+class handl set java option
+java option map requir icompilerconfigur getjavaoptionsmap
+java build option javabuildopt
+set debug variabl setdebugvari string option
+java option javaopt gener isgenerateornot option
+java build option javabuildopt put
+java option javaopt debug var debug var option

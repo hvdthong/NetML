@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+class path manag classpathmanag list classpath messag handler imessagehandl handler
+trace trace enabl istraceen trace enter init object classpath handler
+entri arrai list arraylist
+iter classpath iter hasnext
+string string
+add path addpath handler
+trace trace enabl istraceen trace exit init

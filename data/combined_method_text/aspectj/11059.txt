@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+type bind typebind resiz size newsiz type bind typebind bind
+len bind length
+type bind typebind ret type bind typebind size newsiz
+system arraycopi bind ret math min size newsiz len
+ret

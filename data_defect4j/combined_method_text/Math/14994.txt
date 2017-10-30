@@ -1,0 +1,21 @@
+optim provid move
+dec squar root getsquareroot
+sqrt sqrtm set entri setentri fast math fastmath sqrt entri getentri
+diagon matrix diagonalmatrix
+comput squar root weight matrix
+deprec class interfac deprec
+version
+link org apach common math3 fit leastsquar
+math
+dim row dimens getrowdimens
+abstract squar optim abstractleastsquaresoptim
+base implement squar optim
+real matrix realmatrix squar root squareroot real matrix realmatrix
+dim
+param symmetr posit definit weight matrix
+real matrix realmatrix sqrt sqrtm diagon matrix diagonalmatrix dim
+eigen decomposit eigendecomposit dec eigen decomposit eigendecomposit
+squar root weight matrix
+org apach common math3 optim nonlinear vector jacobian
+sqrt sqrtm
+method error estim

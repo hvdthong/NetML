@@ -1,0 +1,110 @@
+org aspectj apach bcel gener
+templat class build method defin except
+handler ad thrown except local variabl attribut
+localvariabletable' linenumbertable' attribut set
+automat code stripattribut
+gener code insert nop oper
+removenops' method rid
+result method object obtain getmethod method
+version methodgen java aclement exp
+author href mailto marku dahm berlin dahm
+author href http www vmeng beard patrick beard setmaxstack
+instructionlist
+method
+method gen methodgen field gen method gen fieldgenormethodgen
+method gen methodgen method string class constant pool gen constantpoolgen tag usetag
+access flag getaccessflag
+type return type getreturntyp signatur getsignatur
+type argument type getargumenttyp signatur getsignatur
+null overridden
+getnam
+class
+access flag getaccessflag constant acc abstract acc abstract constant acc nativ acc nativ instruct list instructionlist code getcod code getcod
+attribut attribut attribut getattribut
+attribut length
+attribut attribut
+code
+code code
+set max stack setmaxstack max stack getmaxstack
+set max local setmaxloc max local getmaxloc
+code except codeexcept ce except tabl getexceptiont
+instruct handl instructionhandl arrai instruct arrayofinstruct instruct arrai getinstructionsasarrai
+process except tabl
+ce
+ce length
+code except codeexcept ce
+type catch type getcatchtyp
+object type objecttyp type
+type
+string cen constant pool getconstantpool constant string getconstantstr type constant constant class constant class
+type object type objecttyp cen
+end end getendpc
+length code getcod code getcod length
+instruct handl instructionhandl end
+length end length end happen end exclus
+end end getend
+end find handl findhandl end arrai instruct arrayofinstruct end findhandl end arrayofinstruct findhandl end
+end end prev getprev end end getprev make inclus
+add except handler addexceptionhandl
+find handl findhandl start getstartpc arrai instruct arrayofinstruct
+end
+find handl findhandl handler gethandlerpc arrai instruct arrayofinstruct
+type
+attribut code attr codeattr attribut getattribut
+code attr codeattr length
+code attr codeattr
+line number tabl linenumbert
+line number linenumb line number tabl linenumbert line number tabl getlinenumbert
+tag usetag
+abracadabra let creat tag linenumbergen
+length
+line number linenumb
+lnum line number getlinenumb
+lnum highest line number highestlinenumb highest line number highestlinenumb lnum
+line number tag linenumbertag line number tag linenumbertag lnum
+find handl findhandl start getstartpc arrai instruct arrayofinstruct add target addtarget
+length
+line number linenumb
+add line number addlinenumb find handl findhandl start getstartpc arrai instruct arrayofinstruct
+line number getlinenumb
+local variabl tabl localvariablet
+let creat tag directli
+tag usetag
+local variabl localvari local variabl tabl localvariablet local variabl tabl getlocalvariablet
+length
+local variabl localvari
+type type type gettyp signatur getsignatur
+local variabl tag localvariabletag lvt local variabl tag localvariabletag signatur getsignatur getnam index getindex start getstartpc
+instruct handl instructionhandl start find handl findhandl start getstartpc arrai instruct arrayofinstruct
+type gettyp
+constant address address
+increment size getsiz
+index getindex increment max local max local index getindex increment
+end start getstartpc length getlength
+start add target addtarget lvt
+start start getnext
+start start posit getposit end
+local variabl localvari local variabl tabl localvariablet local variabl tabl getlocalvariablet
+remov local variabl removelocalvari
+length
+local variabl localvari
+instruct handl instructionhandl start find handl findhandl start getstartpc arrai instruct arrayofinstruct
+instruct handl instructionhandl end find handl findhandl start getstartpc length getlength arrai instruct arrayofinstruct
+amc instruct rang
+move back findhandl cope mid instruct indic
+end end end prev getprev
+repair malform handl
+start start start getstart
+end end end getend
+add local variabl addlocalvari getnam type type gettyp signatur getsignatur index getindex start end
+add code attribut addcodeattribut
+except tabl exceptiont
+string name except tabl exceptiont except name getexceptionnam
+name length add except addexcept name
+runtim annot runtimeannot
+runtim annot runtimeannot runtim annot runtimeannot runtim annot runtimeannot
+list runtim annot runtimeannot annot getannot
+iter iter hasnext
+annot element annot
+add annot addannot annot gen annotationgen element
+add attribut addattribut

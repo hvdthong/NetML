@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+declarewarningdeclar dom ast node
+declaredeclar
+pointcutdesign call 'pointcut'
+stringliter call 'message'
+declar warn declar declarewarningdeclar declar declar declaredeclar
+ast node astnod clone0 ast target
+declar warn declar declarewarningdeclar result declar warn declar declarewarningdeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+result set pointcut setpointcut pointcut design pointcutdesign ast node astnod copi subtre copysubtre target pointcut getpointcut
+result set messag setmessag string liter stringliter ast node astnod copi subtre copysubtre target messag getmessag
+result

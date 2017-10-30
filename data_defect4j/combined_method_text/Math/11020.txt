@@ -1,0 +1,17 @@
+overrid
+org apach common math3 dfp
+dfp instanc newinst dfp
+field getfield set ieee flag bit setieeeflagsbit dfp field dfpfield flag invalid
+make mix number precis
+give outward appear decim number digit
+inherit doc inheritdoc
+field getfield radix digit getradixdigit field getfield radix digit getradixdigit
+result nan qnan
+decim digit subclass arbitrari number
+dfp dec dfpdec dfp
+dfp dec dfpdec
+version
+dotrap dfp field dfpfield flag invalid instanc newinst result
+decim digit digit
+subclass link dfp hide radix artifact superclass
+dfp result instanc newinst getzero

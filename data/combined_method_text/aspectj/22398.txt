@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+pattern parser patternpars
+eat string expect expectedvalu string expect messag expectedmessag
+token itoken token nexttoken
+string getstr expect expectedvalu
+expect expectedvalu equal string getstr start startswith
+handl problem lex singl token
+pend arrow pendingrightarrow basic token basictoken make liter makeliter string getstr substr intern string start getstart end getend
+parser except parserexcept expect messag expectedmessag

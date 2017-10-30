@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+referencepointcut dom ast node
+note
+paramet list method invok
+author ajh02
+refer pointcut referencepointcut pointcut design pointcutdesign
+simpl simplenam getnam
+pointcut pointcutnam
+lazi init thread safe reader
+pointcut pointcutnam
+pre lazi init prelazyinit
+pointcut pointcutnam simpl simplenam ast
+post lazi init postlazyinit pointcut pointcutnam properti properti
+pointcut pointcutnam

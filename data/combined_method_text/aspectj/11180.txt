@@ -1,0 +1,15 @@
+org aspectj ajdt intern compil ast
+method declar ifmethoddeclar method declar ajmethoddeclar
+resolv statement resolvestat
+resolv statement resolvestat
+bind
+join point visitor thisjoinpointvisitor tjp join point visitor thisjoinpointvisitor
+pointcut ifpointcut extra paramet flag extraparameterflag tjp remov unus extra argument removeunusedextraargu
+xxx remov unavail arg cflow
+eclips factori eclipsefactori factori eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+pointcut ifpointcut test method testmethod resolv member impl resolvedmemberimpl
+member method
+factori bind frombind bind declar class declaringclass
+modifi resolv type resolvedtyp boolean
+string selector
+factori bind frombind bind paramet

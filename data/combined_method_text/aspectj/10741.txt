@@ -1,0 +1,7 @@
+org aspectj ajd swing
+author mik kersten
+browser view browserview panel jpanel
+set select config setselectedconfig string config
+config combo box config combobox item count getitemcount
+config combo box config combobox item getitemat equal config
+config combo box config combobox set select index setselectedindex

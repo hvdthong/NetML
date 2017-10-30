@@ -1,0 +1,46 @@
+org apach lucen search
+multiphrasequeri gener version phrasequeri ad
+method link add term
+class search phrase microsoft app
+add term term microsoft find term app
+prefix indexread term term multiphrasequeri add term
+term add queri
+version
+multi phrase queri multiphrasequeri queri
+overrid
+scorer scorer atom reader context atomicreadercontext context score doc order scoredocsinord top scorer topscor except ioexcept
+term arrai termarrai size termarrai size optim term case
+index reader indexread reader context reader
+bit del doc deldoc reader delet doc getdeleteddoc
+phrase queri phrasequeri post freq postingsandfreq post freq postingsfreq phrase queri phrasequeri post freq postingsandfreq term arrai termarrai size
+po po post freq postingsfreq length po
+term term term arrai termarrai po
+doc posit enum docsandpositionsenum post enum postingsenum
+doc freq docfreq
+term length
+post enum postingsenum union doc posit enum uniondocsandpositionsenum reader term
+coars overcount doc
+term
+doc freq docfreq
+term idx termidx term idx termidx term length term idx termidx
+doc freq docfreq reader doc freq docfreq term term idx termidx
+term term term
+post enum postingsenum reader term posit enum termpositionsenum del doc deldoc
+term field
+term byte
+post enum postingsenum
+reader term doc enum termdocsenum del doc deldoc term field term byte
+term exist posit
+illeg state except illegalstateexcept field term field index field omittermfreqandposit true run phrasequeri term term text
+term exist
+doc freq docfreq reader doc freq docfreq term field term byte
+post freq postingsfreq po phrase queri phrasequeri post freq postingsandfreq post enum postingsenum doc freq docfreq posit po int intvalu
+sort increas docfreq order
+slop
+arrai util arrayutil quick sort quicksort post freq postingsfreq
+slop
+exact phrase scorer exactphrasescor exact phrase scorer exactphrasescor post freq postingsfreq similar
+reader norm field
+doc nodoc
+sloppi phrase scorer sloppyphrasescor post freq postingsfreq similar
+slop reader norm field

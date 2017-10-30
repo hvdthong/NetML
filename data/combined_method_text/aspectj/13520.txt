@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+fcmpg compar float value1 value2
+pre stack value1 value2 result pre
+version fcmpg java aclement exp
+author href mailto marku dahm berlin dahm
+fcmpg instruct
+fcmpg
+org aspectj apach bcel constant fcmpg

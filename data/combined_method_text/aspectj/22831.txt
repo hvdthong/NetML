@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+write data output stream dataoutputstream except ioexcept
+write short writeshort type pattern typepattern length
+type pattern typepattern length
+type pattern typepattern write
+write locat writeloc

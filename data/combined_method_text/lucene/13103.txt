@@ -1,0 +1,18 @@
+org apach lucen index
+segment term posit segmenttermposit
+payload getpayload data offset except ioexcept
+load payload needtoloadpayload
+except ioexcept payload exist term posit attempt made load
+read payload lazili
+ret arrai retarrai
+ret offset retoffset
+data data length offset payload length payloadlength
+arrai small store payload data
+alloc
+ret arrai retarrai payload length payloadlength
+ret offset retoffset
+ret arrai retarrai data
+ret offset retoffset offset
+prox stream proxstream read byte readbyt ret arrai retarrai ret offset retoffset payload length payloadlength
+load payload needtoloadpayload
+ret arrai retarrai

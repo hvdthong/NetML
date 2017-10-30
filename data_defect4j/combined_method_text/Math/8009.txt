@@ -1,0 +1,15 @@
+optim max eval maxev goal min max min max min
+param func type object function optim
+inherit doc inheritdoc
+version
+turn start point order avoid trap
+multi start univari real optim multistartunivariaterealoptim func univari real function univariaterealfunct
+wrap classic optim time
+org apach common math optim univari
+min max
+special implement link univari real optim univariaterealoptim
+local extremum global
+version revis date
+goal type goaltyp goal
+univari real point pair univariaterealpointvaluepair optim max eval maxev func
+ad multi start featur exist optim

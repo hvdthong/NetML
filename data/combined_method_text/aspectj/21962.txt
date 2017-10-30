@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+author colyer
+match type method constructor field
+allow declar parent declar type
+member type pattern hasmembertypepattern type pattern typepattern
+type pattern typepattern read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+signatur pattern signaturepattern signatur pattern signaturepattern read context
+member type pattern hasmembertypepattern ret member type pattern hasmembertypepattern
+ret read locat readloc context
+ret

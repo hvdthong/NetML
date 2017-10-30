@@ -1,0 +1,9 @@
+replac 'j' number format real
+org apach common math3 complex
+format complex number cartesian format 'i'
+real format realformat
+number format numberformat real format getrealformat
+version
+access real format realformat
+complex format complexformat
+imaginari part configur

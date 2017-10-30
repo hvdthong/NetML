@@ -1,0 +1,9 @@
+author stephen colebourn
+defin durat time queri modifi datetim field
+clear
+clear period set valu back
+read writabl period readwritableperiod readabl period readableperiod
+implement mutabl
+org joda time
+provid advanc method
+author brian neill o'neil

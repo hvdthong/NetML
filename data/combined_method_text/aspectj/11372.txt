@@ -1,0 +1,36 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+visit method declar methoddeclar method declar methoddeclar class scope classscop scope
+method declar methoddeclar error haserror
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext valid aspectj annot valid aspectj annot method declar methoddeclar selector
+annot ajannot aspect annot aspectjannot method declar methoddeclar annot
+method declar methoddeclar class getclass equal method declar ajmethoddeclar
+simpli test innapropri annot code style member
+method declar methoddeclar pointcut declar pointcutdeclar
+annot ajannot multipl pointcut annot hasmultiplepointcutannot
+annot ajannot advic annot hasadviceannot
+annot ajannot aspect annot hasaspectannot
+annot ajannot advic annot hasadvicenameannot
+method declar methoddeclar scope problem report problemreport signal error signalerror
+method declar methoddeclar sourc start sourcestart
+method declar methoddeclar sourc end sourceend
+aspectj annot declar aspect member
+method declar methoddeclar advic declar advicedeclar
+annot ajannot multipl advic annot hasmultipleadviceannot
+annot ajannot aspect annot hasaspectannot
+annot ajannot pointcut annot haspointcutannot
+method declar methoddeclar scope problem report problemreport signal error signalerror
+method declar methoddeclar sourc start sourcestart
+method declar methoddeclar sourc end sourceend
+advicenam aspectj annot allow advic
+annot ajannot aspect annot hasaspectjannot
+method declar methoddeclar scope problem report problemreport signal error signalerror
+method declar methoddeclar sourc start sourcestart
+method declar methoddeclar sourc end sourceend
+aspectj annot declar aspect member
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+annot ajannot advic annot hasadviceannot
+valid advic validateadvic method declar methoddeclar
+annot ajannot pointcut annot haspointcutannot
+convert pointcut declar converttopointcutdeclar method declar methoddeclar scope
+compil weav context compilationandweavingcontext leav phase leavingphas tok

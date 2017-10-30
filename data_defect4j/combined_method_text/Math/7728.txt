@@ -1,0 +1,33 @@
+optim algorithm inherit
+exceed
+evalu except toomanyevaluationsexcept max getmax
+comput object computeobjectivevalu point
+param type object function optim
+base handl boiler plate method threshold
+param evalu point evaluationpoint point object function evalu
+function point
+evalu point evaluationpoint
+evalu max evalu maxevalu
+set iter evalu count
+org apach common math optim gener
+object function point
+version revis date
+function evalu except functionevaluationexcept max evalu exceed except maxevaluationsexceededexcept max evalu maxevalu
+function evalu point evaluationpoint
+comput object function
+common fast math fastmath
+param point point object function evalu
+link abstract scalar optim abstractscalaroptim
+comput object computeobjectivevalu evalu point evaluationpoint
+link abstract scalar differenti optim abstractscalardifferentiableoptim
+function evalu except functionevaluationexcept
+base abstract scalar optim baseabstractscalaroptim multivari real function multivariaterealfunct
+common math
+max count exceed except maxcountexceededexcept
+evalu increment count incrementcount
+dimens match problem dimens maxim number
+evalu except toomanyevaluationsexcept maxim number evalu
+base implement optim multivari scalar function
+function evalu except functionevaluationexcept function evalu
+intend enforc intern coher
+iter exceed

@@ -1,0 +1,12 @@
+param arg argument
+construct except specif context argument
+error thrown numer comput perform
+numer result fail converg finit
+converg except convergenceexcept localiz pattern
+org apach common math3 except
+object arg
+converg except convergenceexcept math illeg state except mathillegalstateexcept
+version
+param pattern messag pattern provid specif context
+context getcontext add messag addmessag pattern arg
+error

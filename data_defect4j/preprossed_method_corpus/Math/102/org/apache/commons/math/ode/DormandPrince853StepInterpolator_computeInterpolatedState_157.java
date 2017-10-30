@@ -1,0 +1,405 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math od
+
+
+
+
+
+
+repres interpol step
+od integr dormand princ integr
+
+dormand prince853 integr dormandprince853integr
+
+version dormand prince853 step interpol dormandprince853stepinterpol java 39z luc
+
+
+
+dormand prince853 step interpol dormandprince853stepinterpol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+comput state interpol time
+main process method implement
+deriv class perform interpol
+param theta normal interpol abscissa step
+theta previou time step current time step
+param minu theta oneminusthetah time gap interpol time
+current time
+deriv except derivativeexcept except propag caller
+underli user function trigger
+
+comput interpol state computeinterpolatedst theta
+minu theta oneminusthetah
+deriv except derivativeexcept
+
+vector initi vectorsiniti
+
+
+
+
+interpol state interpolatedst length
+
+
+
+perform evalu
+final step finalizestep
+
+comput interpol vector time step
+interpol state interpolatedst length
+dot ydotk dot ydotk dot ydotk
+dot ydotk dot ydotk dot ydotk
+dot ydotk dot ydotk
+dot ydotk
+dot ydotk
+length
+dot ydotk dot ydotk dot ydotk
+dot ydotk dot ydotk dot ydotk
+dot ydotk dot ydotk dot ydotk
+dot ydotklast
+dot ydotklast
+dot ydotklast
+
+
+
+vector initi vectorsiniti
+
+
+
+eta minu theta oneminusthetah
+
+interpol state interpolatedst length
+interpol state interpolatedst current state currentst
+eta
+theta
+theta
+eta
+theta
+eta
+theta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

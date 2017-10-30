@@ -1,0 +1,44 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+weav parent annot type declar parent declar type
+algorithm
+pass parent annot pass record
+parent munger match wild annot type pattern
+annot munger match
+multipl subsequ pass munger list construct
+pass repeatedli appli
+fixm asc confirm algorithm optim
+weav parent type munger weaveparenttypemung resolv type resolvedtyp type ontyp
+type ontyp raw type israwtyp type ontyp type ontyp gener type getgenerictyp
+type ontyp clear inter type munger clearintertypemung
+list decp repeat decptorepeat arrai list arraylist
+parent chang occur aparentchangeoccur
+annot chang occur anannotationchangeoccur
+pass appli decp munger
+iter declar parent list declareparentslist iter hasnext
+declar parent declarepar decp declar parent declarepar
+type chang typechang appli declar parent applydeclarepar decp type ontyp
+type chang typechang
+parent chang occur aparentchangeoccur
+decp repeat decptorepeat add decp
+pass appli dec type munger
+iter xcut set xcutset declar annot type getdeclareannotationontyp iter hasnext
+declar annot declareannot dec deca declar annot declareannot
+type chang typechang appli declar type applydeclareattyp dec deca type ontyp
+type chang typechang
+annot chang occur anannotationchangeoccur
+parent chang occur aparentchangeoccur annot chang occur anannotationchangeoccur decp repeat decptorepeat empti isempti
+annot chang occur anannotationchangeoccur parent chang occur aparentchangeoccur
+list decp repeat time decptorepeatnexttim arrai list arraylist
+iter iter decp repeat decptorepeat iter iter hasnext
+declar parent declarepar decp declar parent declarepar iter
+type chang typechang appli declar parent applydeclarepar decp type ontyp
+type chang typechang
+parent chang occur aparentchangeoccur
+decp repeat time decptorepeatnexttim add decp
+iter iter xcut set xcutset declar annot type getdeclareannotationontyp iter iter hasnext
+declar annot declareannot dec deca declar annot declareannot iter
+type chang typechang appli declar type applydeclareattyp dec deca type ontyp
+type chang typechang
+annot chang occur anannotationchangeoccur
+decp repeat decptorepeat decp repeat time decptorepeatnexttim

@@ -1,0 +1,13 @@
+math arrai matharrai
+param val valu
+org apach common math3 util
+check order checkord val dir strict
+monoton sequenc except nonmonotonicsequenceexcept arrai sort
+arrai util
+check arrai sort
+param dir order direct
+strict
+version
+strict monoton sequenc except nonmonotonicsequenceexcept
+param strict order strict
+check order checkord val order direct orderdirect dir

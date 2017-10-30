@@ -1,0 +1,16 @@
+basic implement method
+iter entri iter
+hasnext
+org apach common math linear
+entri
+inherit doc inheritdoc
+check vector dimens checkvectordimens
+distanc getdist real vector realvector
+abstract real vector abstractrealvector real vector realvector
+math sqrt
+link real vector realvector
+fast math fastmath sqrt
+version revis date
+diff diff
+diff getvalu entri getentri index getindex
+distanc getdist real vector realvector illeg argument except illegalargumentexcept

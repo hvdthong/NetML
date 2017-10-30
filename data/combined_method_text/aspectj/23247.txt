@@ -1,0 +1,13 @@
+org aspectj weaver tool
+abstract trace abstracttrac trace
+string format messag formatmessag string kind string class classnam string method methodnam object thiz object arg
+string buffer stringbuff messag string buffer stringbuff
+date date
+messag append format date formatd append
+messag append thread current thread currentthread getnam append
+messag append kind append
+messag append class classnam
+messag append append method methodnam
+thiz messag append append format obj formatobj thiz
+arg messag append append format arg formatarg arg
+messag string tostr

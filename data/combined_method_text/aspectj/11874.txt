@@ -1,0 +1,7 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+increment build incrementalbuild
+build config ajbuildconfig build config buildconfig
+messag handler imessagehandl base handler basehandl
+except ioexcept abort except abortexcept
+build dobuild build config buildconfig base handler basehandl

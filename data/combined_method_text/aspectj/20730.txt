@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+concret type munger concretetypemung parameter parameterizedfor resolv type resolvedtyp target
+bcel type munger bceltypemung munger parameter parameterizedfor target aspect type aspecttyp

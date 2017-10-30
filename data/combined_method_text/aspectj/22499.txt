@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+claus perclaus pointcut
+kind read version data input stream versioneddatainputstream except ioexcept
+kei read byte readbyt
+kei
+singleton
+percflow
+perobject
+fromsup
+pertypewithin
+except bcexcept weird kind kei

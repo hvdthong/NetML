@@ -1,0 +1,20 @@
+function
+org apach common math analysi
+param min lower bound interv
+solver requir interv bracket singl root
+param start startvalu start
+deprec
+interfac univari real rootfind algorithm
+illeg argument except illegalargumentexcept min max argument
+function evalu except functionevaluationexcept error occur evalu
+implement search interv
+solv interv start start startvalu
+solver detect converg problem
+univari real solver univariaterealsolv
+deprec replac link solv univari real function univariaterealfunct
+satisfi requir solver
+solv min max start startvalu
+version revis date
+converg except convergenceexcept maximum iter count exceed
+param max upper bound interv
+converg except convergenceexcept function evalu except functionevaluationexcept

@@ -1,0 +1,15 @@
+org aspectj apach bcel util
+class take javaclass object convert
+java program creat class bcel
+user bcel show thing
+bcel cover featur bcel
+mimic hand written code close
+version bcelifi java aclement exp
+author href mailto marku dahm berlin dahm
+bce lifier bcelifi org aspectj apach bcel classfil empti visitor emptyvisitor
+param clazz java class decompil
+param output java program
+bce lifier bcelifi java class javaclass clazz output stream outputstream
+clazz clazz
+print writer printwrit
+constant pool gen constantpoolgen clazz constant pool getconstantpool

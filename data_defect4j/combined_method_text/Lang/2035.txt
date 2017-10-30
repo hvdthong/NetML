@@ -1,0 +1,21 @@
+set attempt
+po set error index seterrorindex start
+po error index geterrorindex
+contrast link composit format compositeformat
+pars object deleg
+length
+return deleg encount
+author matt benson
+org apach common lang text
+version
+format number deleg turn success
+multi format multiformat format
+start po index getindex
+param po current pars posit
+po set error index seterrorindex
+po set index setindex start
+object pars object parseobject string sourc pars posit parseposit po
+error
+format deleg getdeleg
+param sourc string
+object pars object parseobject sourc po

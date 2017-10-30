@@ -1,0 +1,83 @@
+org apach tool zip
+replac code java util zipfil code
+class add support file encod utf
+requir work zip file creat nativ zip tool
+skip preambl found
+extract archiv return instanc
+code org apach tool zip zipentri code
+code java util zip zipentri code
+extend code java util zip zipfil code
+reimplement method
+code java util zipfil code randomaccessfil
+cover support compress uncompress entri
+method signatur mimic
+code java util zip zipfil code coupl except
+getnam method
+entri renam getentri
+getentri getentri return
+code org apach tool zip zipentri code instanc
+close allow throw ioexcept
+zip file zipfil
+read central directori archiv popul
+intern tabl zipentri instanc
+zipentri data obtain
+central directori data requir
+local file header addit data read
+popul central directori populatefromcentraldirectori empti mustnotbeempti
+except ioexcept
+posit central directori positionatcentraldirectori
+cfh cfh len cfh len
+signatur byte signaturebyt word
+archiv read fulli readfulli signatur byte signaturebyt
+sig zip long ziplong getvalu signatur byte signaturebyt
+cfh sig cfhsig zip long ziplong getvalu zip output stream zipoutputstream cfh sig cfh sig
+empti mustnotbeempti sig cfh sig cfhsig
+except ioexcept central directori empti expand
+archiv
+sig cfh sig cfhsig
+archiv read fulli readfulli cfh
+zip entri zipentri zip entri zipentri
+version made versionmadebi zip short zipshort getvalu cfh
+short
+set platform setplatform version made versionmadebi byte shift byte shift niblet mask niblet mask
+word word skip version info gener purpos byte
+set method setmethod zip short zipshort getvalu cfh
+short
+fixm cpu cycl friendli convert
+do java underli sun implement convert
+java do time intern storag
+time do java time dostojavatim zip long ziplong getvalu cfh
+set time settim time
+word
+set crc setcrc zip long ziplong getvalu cfh
+word
+set compress size setcompresseds zip long ziplong getvalu cfh
+word
+set size setsiz zip long ziplong getvalu cfh
+word
+file len filenamelen zip short zipshort getvalu cfh
+short
+extra len extralen zip short zipshort getvalu cfh
+short
+comment len commentlen zip short zipshort getvalu cfh
+short
+short short disk number
+set intern attribut setinternalattribut zip short zipshort getvalu cfh
+short
+set extern attribut setexternalattribut zip long ziplong getvalu cfh
+word
+file filenam file len filenamelen
+archiv read fulli readfulli file filenam
+set setnam string getstr file filenam
+lfh offset
+offset entri offsetentri offset offset entri offsetentri
+offset header offset headeroffset zip long ziplong getvalu cfh
+data offset fill
+entri put offset
+map namemap put getnam
+archiv skip byte skipbyt extra len extralen
+comment comment len commentlen
+archiv read fulli readfulli comment
+set comment setcom string getstr comment
+archiv read fulli readfulli signatur byte signaturebyt
+sig zip long ziplong getvalu signatur byte signaturebyt

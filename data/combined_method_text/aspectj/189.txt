@@ -1,0 +1,20 @@
+org aspectj tool ajbrows
+respons control editor
+todo remov coupl code basiceditor code
+author mik kersten
+editor manag editormanag
+add view sourc line addviewforsourcelin string file path filepath line number linenumb
+basic editor basiceditor
+editor box remov basic editor basiceditor panel getpanel
+basic editor basiceditor editor neweditor basic editor basiceditor
+editor add editor neweditor
+runnabl updat runnabl
+run
+editor box add editor neweditor panel getpanel
+editor neweditor show sourc line showsourcelin file path filepath line number linenumb
+ajdeuimanag getdefault getideuiadapt resetgui
+swing util swingutil event dispatch thread iseventdispatchthread
+updat run
+swing util swingutil invok wait invokeandwait updat
+except
+browser error handler browsererrorhandl handl error handleerror add view sourc line

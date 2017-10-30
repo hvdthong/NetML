@@ -1,0 +1,11 @@
+org aspectj weaver reflect
+subtyp resolvedmemberimpl reflect world
+annot java lang reflect member
+reflect base resolv member impl reflectionbasedresolvedmemberimpl resolv member impl resolvedmemberimpl
+annot annotationx annot type getannotationoftyp unresolv type unresolvedtyp type oftyp
+unpack annot unpackannot
+annot finder annotationfind
+iter iter annot type annotationtyp iter iter hasnext
+resolv type resolvedtyp type resolv type resolvedtyp iter
+type signatur getsignatur equal type oftyp signatur getsignatur
+annot finder annotationfind annot type getannotationoftyp type oftyp reflect member reflectmemb

@@ -1,0 +1,10 @@
+param func type function solv
+version
+solver
+search max searchmax
+max getmax
+provid implement function gener
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+higher end search interv
+org apach common math analysi solver
+version revis date wed nov

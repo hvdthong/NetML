@@ -1,0 +1,19 @@
+comput interpol function data set
+param zval valu interpol point grid knot
+math except mathexcept
+bivari real function bivariaterealfunct interpol xval yval zval
+interfac repres bivari real interpol function
+bivari real function bivariaterealfunct interpol xval yval fval
+param fval valu interpol point grid knot
+increas order
+code zval xval yval
+bivari real grid interpol bivariaterealgridinterpol
+param yval coordin interpol point sort
+math except mathexcept argument violat assumpt made
+interpol algorithm
+version revis date
+code fval xval yval
+function interpol data set
+org apach common math analysi interpol
+sampl point regular grid
+param xval coordin interpol point sort

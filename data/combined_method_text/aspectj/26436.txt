@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+return runtim riv annot type annotationtyp null annot
+param rv
+param annotationtyp
+return
+annot annot getannot runtim annot runtimeannot rv type typex annot type annotationtyp
+string annot type annotationtypenam annot type annotationtyp getnam
+iter iter rv annot getannot iter iter hasnext
+annot annot iter
+annot type annotationtypenam equal type gettypenam

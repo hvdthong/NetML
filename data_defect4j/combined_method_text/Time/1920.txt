@@ -1,0 +1,19 @@
+abstract instant abstractinst thread safe immut subclass
+millisecond instant
+object date time datetim chronolog zone
+link readabl instant readableinst
+extend
+author stephen colebourn
+param chronolog chronolog appli iso chronolog isochronolog
+abstract instant abstractinst common behaviour instant class
+implement code readabl instant readableinst code
+abstract instant abstractinst readabl instant readableinst
+date time datetim date time todatetim chronolog chronolog
+kind date time object referenc
+date time datetim milli getmilli chronolog
+org joda time base
+author brian neill o'neil
+date time datetim milli
+gener directli api user
+mutabl thread safe
+concept chronolog method work

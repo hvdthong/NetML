@@ -1,0 +1,42 @@
+set initi paramet jacobian setinitialparameterjacobian string pname dydp
+version
+set initi column jacobian matrix respect paramet
+org apach common math3 od
+efod
+jacobian matric jacobianmatric
+check dimens checkdimens state dim statedim dydp
+pname equal param paramet getparameternam
+store column global singl dimens arrai
+defin set link secondari equat secondaryequ secondari equat
+state dim statedim state dim statedim
+column jacobian matrix respect paramet set
+efod set secondari state setsecondaryst index matric data matricesdata
+link paramet jacobian provid parameterjacobianprovid
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+system arraycopi dydp matric data matricesdata state dim statedim
+param dydp initi jacobian column vector respect paramet
+link order differenti equat firstorderdifferentialequ
+math illeg argument except mathillegalargumentexcept
+method call paramet initi
+parameter od parameterizedod
+order comput jacobian matric respect paramet
+link parameter od parameterizedod
+unknown paramet except unknownparameterexcept dimens mismatch except dimensionmismatchexcept
+except math illeg argument except mathillegalargumentexcept paramet support
+primari od set paramet jacobian provid set
+comput jacobian matric respect initi state vector
+except unknown paramet except unknownparameterexcept paramet support
+intend pack link expand state od expandablestatefulod
+param pname paramet
+conjunct primari set od
+paramet configur parameterconfigur param select paramet selectedparamet
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+state dim statedim
+check dimens
+link main state jacobian provid mainstatejacobianprovid
+dimens mismatch except dimensionmismatchexcept column vector match state dimens
+unknown paramet except unknownparameterexcept pname
+order differenti equat firstorderdifferentialequ
+math illeg argument except mathillegalargumentexcept local format localizedformat unknown paramet pname

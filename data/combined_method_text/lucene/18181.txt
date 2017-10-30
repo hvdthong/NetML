@@ -1,0 +1,45 @@
+org apach lucen util
+class encod java utf16 char utf8 byte
+alloc byte
+string getbyt utf
+lucen intern
+unicod util unicodeutil
+encod charact char sourc start
+offset stop charact 0xffff
+return number byte written bytesout
+utf16to utf8 utf16toutf8 sourc offset utf8 result utf8result result
+upto
+offset
+result result
+code sourc
+upto length
+result result arrai util arrayutil grow upto
+code
+upto code
+code
+upto code
+upto code
+code code
+code
+end
+upto code
+upto code
+upto code
+surrog pair
+confirm valid high surrog
+code sourc
+utf32 sourc
+confirm valid low surrog write pair
+utf32 utf32
+utf32 code utf32
+upto utf32
+upto utf32
+upto utf32
+upto utf32
+replac unpair surrog order low surrog
+substitut charact
+upto
+upto
+upto
+assert match sourc offset offset upto
+result length upto

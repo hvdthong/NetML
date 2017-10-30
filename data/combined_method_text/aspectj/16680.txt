@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+retriev proper bracket posit retrieveproperrightbracketposit bracket number bracketnumb start
+scanner reset resetto start compil unit sourc length compilationunitsourcelength
+token count
+token scanner token getnexttoken termin token terminaltoken token eof tokennameeof
+token
+termin token terminaltoken token rbracket tokennamerbracket
+count
+count bracket number bracketnumb
+scanner current posit currentposit
+invalid input except invalidinputexcept
+ignor

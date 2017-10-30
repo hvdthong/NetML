@@ -1,0 +1,16 @@
+org aspectj ajd
+singleton class initi ajd properti requir
+run compil user call ajd init
+getter method properti set
+initi
+author mik kersten
+ajd
+set build thread
+param configfil
+param buildfresh
+true full build fals
+run build thread runbuildinsamethread string config file configfil build fresh buildfresh
+compil ajcompil compil config file getcompilerforconfigfil config file configfil
+build fresh buildfresh
+build fresh buildfresh
+build

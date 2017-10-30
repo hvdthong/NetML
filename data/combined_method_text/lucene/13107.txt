@@ -1,0 +1,9 @@
+org apach lucen index
+segment term posit segmenttermposit
+posit nextposit except ioexcept
+current field omit term freq posit currentfieldomittermfreqandposit
+field store term freq posit payload
+perform lazi skip
+lazi skip lazyskip
+prox count proxcount
+posit read delta posit readdeltaposit

@@ -1,0 +1,32 @@
+org aspectj intern tool build
+repres prospect build result requir
+test normal jar assembl jar classesdir
+result
+init requir result initrequiredresult
+modul modul modul getmodul
+kind kind kind getkind
+kind assembl
+kind normal
+assert kind assertkind releas releas
+requir result requiredresult add modul result getresult releas
+assert kind assertkind test test
+requir result requiredresult add modul result getresult test
+requir result requiredresult add modul result getresult releas
+kind normal
+assert kind assertkind test
+requir result requiredresult add modul result getresult releas
+assert kind assertkind releas
+extern requir
+list modul modul requir modul requiredmodul
+adopt test adopttest kind normal test modul istestingmodul modul
+iter iter modul iter iter hasnext
+modul requir modul iter
+adopt test adopttest
+test build reli releas test result
+requir result requiredresult add requir result getresult test
+requir result requiredresult add requir result getresult releas
+test modul istestingmodul requir
+releas build reli test result
+test modul
+requir result requiredresult add requir result getresult releas
+skip releas depend test test util

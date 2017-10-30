@@ -1,0 +1,100 @@
+author href mailto hp intermeta hen schmiedehausen
+oper link java lang string
+author href mailto apach org korthof
+string util stringutil empti defaultifempti bat null bat
+string util stringutil empti isempti str str defaultstr str
+remov lead trail whitespac
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+string util stringutil empti defaultifempti
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+empti code code code str defaultstr code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+code code
+empti length string code code
+safe substr extract
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+string util stringutil string defaultstr string string
+input empti code code
+differ
+org apach common lang3
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+return pass char sequenc charsequ char sequenc charsequ
+code string util stringutil code defin word relat
+pass char sequenc charsequ
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+code code safe
+remov part string
+string util stringutil empti defaultifempti null null
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+param str char sequenc charsequ check
+param str defaultstr char sequenc charsequ
+char sequenc charsequ empti defaultifempti char sequenc charsequ str char sequenc charsequ str defaultstr
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+string util stringutil
+thread safe threadsaf
+check charact string
+symbol code code input includ code code

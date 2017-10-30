@@ -1,0 +1,141 @@
+decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl decl
+astconvert
+identifi
+afterreturn
+thrownexcept thrownexcept thrownexcept thrownexcept thrownexcept thrownexcept
+currentproblem currentproblem currentproblem currentproblem
+iproblem iproblem iproblem
+retrievestartblockposit retrievestartblockposit
+paramet paramet paramet paramet paramet paramet paramet paramet paramet paramet paramet paramet paramet paramet paramet
+retrieverightbraceorsemicolonposit
+setsourcerang setsourcerang setsourcerang setsourcerang setsourcerang
+except except except except except except except except
+pointcut pointcut pointcut pointcut pointcut pointcut pointcut
+local local
+sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc sourc
+return return return return return return return return return
+getsourceend
+advicekind advicekind advicekind advicekind advicekind
+getid
+setthrow
+setbodi setbodi
+syntax
+aspectj aspectj aspectj aspectj aspectj aspectj aspectj aspectj aspectj aspectj aspectj
+pointcutdesign
+insert
+semi
+declarationsourceend declarationsourceend declarationsourceend declarationsourceend declarationsourceend declarationsourceend
+level
+retrieveidentifierendposit
+list
+getpointcut
+method method method
+ajastconvert
+weaver
+compil compil compil compil compil compil compil compil compil compil
+set set set set set set set set set set set set set set set
+recordnod
+resolv
+intern intern intern intern intern intern intern intern intern intern
+design
+result result
+close close close
+interface' interface'
+variabl variabl
+problemcount
+sourceend
+pattern
+current current current current
+setpointcut
+getsourcestart
+astnod astnod astnod
+public
+refer refer refer refer refer
+core core core core
+typerefer typerefer typerefer typerefer typerefer
+ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast ast
+ajh02 ajh02
+parenthesi
+getstartposit getstartposit
+setflag setflag
+org org org org org org org org org org org org org org org org org org org org org
+eclips eclips eclips eclips eclips eclips eclips eclips eclips eclips
+throw throw throw throw throw throw throw
+thrown thrown thrown thrown thrown thrown thrown thrown
+bodi bodi bodi bodi bodi bodi
+convert convert convert convert convert convert convert convert convert convert convert convert convert convert
+extraargu extraargu extraargu extraargu
+equal equal equal equal equal equal equal
+length length length length length length length length length length
+jls3
+jls2 jls2
+block block block block block block block block block block block block block block block block block block
+comment
+parsingerrorinserttocomplet
+rang rang rang rang rang
+extra extra extra extra
+api
+colon
+advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar advicedeclar
+unit
+getflag getflag
+bodyend bodyend bodyend
+thrownexceptionslength thrownexceptionslength
+add add add add add
+start start start start start start start start start start start start start start start start start start start start start start start start start start start start start start start start
+statement statement statement statement statement statement statement statement statement statement statement statement statement
+typeparamet typeparamet typeparamet typeparamet typeparamet typeparamet typeparamet
+type type type type type type type type type type type type type type type type type type
+afteradvicedeclar
+advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl advicedecl
+retrieveendblockposit
+statementslength statementslength
+sourcestart sourcestart sourcestart sourcestart
+argument argument argument argument argument argument
+flag flag flag flag
+pars
+localdeclar
+count
+kind kind kind kind kind kind kind kind kind kind
+retriev retriev retriev retriev retriev
+singlevariabledeclar singlevariabledeclar
+afterreturningadvicedeclar afterreturningadvicedeclar
+record
+returntyp returntyp returntyp returntyp
+store
+error error
+posit posit posit posit posit posit posit posit posit posit posit posit posit posit posit posit posit posit
+jdt jdt jdt jdt jdt jdt jdt jdt jdt jdt
+problem problem problem problem problem problem problem problem problem problem problem problem
+closingposit closingposit closingposit
+malform malform
+ad
+beforeadvicedeclar
+parameterslength parameterslength
+javadoc javadoc javadoc javadoc
+settypeforaroundadvicedeclar
+aroundadvicedeclar aroundadvicedeclar aroundadvicedeclar
+check
+compilationresult compilationresult
+null
+end end end end end end end end end end end end end end end end end end end end end end end end end
+advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic advic
+afterthrowingadvicedeclar afterthrowingadvicedeclar
+brace
+apilevel
+singl singl
+complet
+node node node node
+converttyp
+startposit startposit startposit startposit startposit startposit
+declarationsourcestart declarationsourcestart declarationsourcestart declarationsourcestart
+max max max max
+setreturn
+multipl
+resolvebind resolvebind resolvebind
+class
+dom dom dom dom
+bind
+checkandaddmultiplelocaldeclar
+declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar declar
+afterthrow

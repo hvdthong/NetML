@@ -1,0 +1,18 @@
+author stephen colebourn
+pre
+char util charutil ascii alpha isasciialpha copi
+oper primit charact object
+char util charutil ascii alpha isasciialpha 'a'
+inclus
+'a' 'z' 'a' 'z'
+handl code code input gracefulli
+version
+ascii alpha isasciialpha
+check charact ascii bit alphabet
+char util charutil ascii alpha isasciialpha '3'
+except thrown code code input
+char util charutil
+char util charutil ascii alpha isasciialpha
+param charact check
+method document behaviour detail
+org apach common lang

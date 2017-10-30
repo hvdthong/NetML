@@ -1,0 +1,10 @@
+org apach common math3 dfp
+give outward appear decim number digit
+decim digit subclass arbitrari number
+dfp dec dfpdec dfp
+copi constructor
+version
+decim digit digit
+param instanc copi
+subclass link dfp hide radix artifact superclass
+round

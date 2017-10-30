@@ -1,0 +1,11 @@
+author stephen colebourn
+chronolog ichronolog chronolog
+time calcul week week base year compon time
+org joda time chrono
+author gui allard
+restrict constructor
+date time field type datetimefieldtyp week weekyear weekofweekyear week
+basic week weekyear date time field basicweekofweekyeardatetimefield precis durat date time field precisedurationdatetimefield
+basic week weekyear date time field basicweekofweekyeardatetimefield basic chronolog basicchronolog chronolog durat field durationfield week
+author brian neill o'neil
+refactor week weekyear date time field gjweekofweekyeardatetimefield

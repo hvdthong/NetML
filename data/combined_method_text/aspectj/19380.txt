@@ -1,0 +1,24 @@
+org aspectj weaver
+refer type repres 'real' type primit arrai
+real type java util list referencetyp deleg
+underli artifact eclips artifact
+bcel artifact type repres raw type
+gener form generictyp field set point
+gener type parameter type gener type
+set point gener form
+refer type referencetyp resolv type resolvedtyp
+parameter signatur start place
+comment signatur unresolvedtyp
+param agenerictyp
+param someparamet
+return
+string make parameter signatur makeparameterizedsignatur resolv type resolvedtyp gener type agenerictyp resolv type resolvedtyp paramet someparamet
+string raw signatur rawsignatur gener type agenerictyp erasur signatur geterasuresignatur
+string prefix parameter type identifi parameter type identifi raw signatur rawsignatur substr raw signatur rawsignatur length
+string buffer stringbuff ret string buffer stringbuff
+ret append prefix
+ret append
+paramet someparamet length
+ret append paramet someparamet signatur getsignatur
+ret append
+ret string tostr

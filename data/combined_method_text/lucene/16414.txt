@@ -1,0 +1,6 @@
+org apach lucen search
+queri match document term
+combin term link booleanqueri
+term queri termqueri queri
+set weight context setweightcontext index searcher indexsearch searcher
+weight context weightcontext searcher top reader context gettopreadercontext

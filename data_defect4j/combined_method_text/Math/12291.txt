@@ -1,0 +1,16 @@
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+code doubl neg infin instanc
+inf getinf
+repres region set interv
+inf locat getloc getx
+node cut getcut
+boolean node attribut getattribut doubl neg infin inf
+node direct isdirect node minu getminu node getplu
+version
+orient point orientedpoint orient point orientedpoint node cut getcut hyperplan gethyperplan
+bsp tree bsptree euclidean1 euclidean1d node tree gettre
+org apach common math3 geometri euclidean on
+low bound code doubl posit infin
+inf doubl posit infin
+instanc empti
+lowest belong instanc

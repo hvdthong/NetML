@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+extract field level annot turn ajattribut
+param field
+param type
+param context
+param msghandler
+return list ajattribut empti
+list read aj5 field attribut readaj5fieldattribut field field resolv type resolvedtypex type sourc context isourcecontext context messag handler imessagehandl msg handler msghandler
+collect empti list empti list

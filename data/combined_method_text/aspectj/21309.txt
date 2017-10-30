@@ -1,0 +1,57 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+configur weaver option direct
+todo good reus small subset option ltw
+param weaver
+param loader
+param definit
+regist option registeropt bcel weaver bcelweav weaver class loader classload loader list definit
+string buffer stringbuff option allopt string buffer stringbuff
+iter iter definit iter iter hasnext
+definit definit definit iter
+option allopt append definit weaver option getweaveropt append
+option weaver option weaveropt weaver option weaveropt option pars option allopt string tostr loader messag handler getmessagehandl
+configur weaver world
+code duplic aspectjbuild initworldandweav
+world world weaver world getworld
+set messag handler setmessagehandl weaver option weaveropt messag handler messagehandl
+world set xlazi tjp setxlazytjp weaver option weaveropt lazi tjp lazytjp
+world set member support enabl setxhasmembersupporten weaver option weaveropt member hasmemb
+world set option joinpoint setoptionaljoinpoint weaver option weaveropt option joinpoint optionaljoinpoint
+world set pinpoint mode setpinpointmod weaver option weaveropt pinpoint
+weaver set reweav mode setreweavablemod weaver option weaveropt weavabl notreweav
+world perform extra configur performextraconfigur weaver option weaveropt set xset
+world set xno inlin setxnoinlin weaver option weaveropt inlin noinlin
+amc autodetect line need atajltwtest testltwunweav
+world set behav java5 setbehaveinjava5wai lang util langutil is15 greater is15vmorgreat
+world set add serial ver uid setaddserialveruid weaver option weaveropt add serial version uid addserialversionuid
+load default
+bcel world bcelworld lint getlint load default properti loaddefaultproperti
+overlai ltw default
+bcel world bcelworld lint getlint advic match advicedidnotmatch set kind setkind
+load user file xlintfil xlint win
+weaver option weaveropt lint file lintfil
+input stream inputstream resourc
+resourc loader resourc stream getresourceasstream weaver option weaveropt lint file lintfil
+except failur
+resourc
+properti properti properti
+properti load resourc
+world lint getlint set properti setfromproperti properti
+except ioexcept
+failur
+failur resourc
+warn access resourc xlintfil weaver option weaveropt lint file lintfil failur
+world getmessagehandl handlemessag messag
+access resourc xlintfil weaveropt lintfil
+imessag warn
+failur
+null
+resourc close throwabl
+fourth overrid xlint
+weaver option weaveropt lint
+weaver option weaveropt lint equal default weaveropt lint equal default fixm ajbuildconfig ajlint default yetanoth dep
+bcel world bcelworld lint getlint load default properti loaddefaultproperti
+bcel world bcelworld lint getlint set setal weaver option weaveropt lint
+todo proceedonerror option

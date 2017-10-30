@@ -1,0 +1,19 @@
+org aspectj ajdt intern compil ast
+walk bodi advic
+make member access public member
+convert access method need ensur
+make simpler modular inlin bodi
+constructor handl requir access
+target type org eclips jdt intern compil ast allocationexpress
+requir fix issu
+author jim hugunin
+access inlin visitor accessforinlinevisitor ast visitor astvisitor
+end visit endvisit messag send messagesend send block scope blockscop scope
+send proce
+send bind send bind valid bind isvalidbind
+send super access issuperaccess send bind static isstat
+send receiv refer thisrefer send sourc start sourcestart send sourc end sourceend
+method bind methodbind super access bind superaccessbind super access method getsuperaccessmethod send bind
+ast util astutil replac method bind replacemethodbind send super access bind superaccessbind
+public ispubl send bind
+send synthet accessor syntheticaccessor access method getaccessiblemethod send bind send actual receiv type actualreceivertyp

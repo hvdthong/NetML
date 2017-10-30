@@ -1,0 +1,25 @@
+org aspectj apach bcel classfil
+class deriv attribut declar class
+synthetic' special handl jvm specif
+state class member sourc code
+mark synthet attribut classfil
+attribut tabl field info tabl method info tabl class
+intend instanti
+attribut readattribut method
+version synthet java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+synthet attribut
+construct object file stream
+param index index constant pool constant utf8
+param length content length byte
+param file input stream
+param constant pool arrai constant
+throw ioexcept
+synthet index length data input stream datainputstream file
+constant pool constantpool constant pool except ioexcept
+index length constant pool
+length
+byte length
+file read fulli readfulli byte
+system err println synthet attribut length

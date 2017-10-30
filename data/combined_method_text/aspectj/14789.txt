@@ -1,0 +1,13 @@
+org aspectj apach bcel util
+abstract definit class repositori instanc
+load class sourc
+repositori setrepositori method
+org aspectj apach bcel repositori
+version repositori java aclement exp
+author href mailto marku dahm berlin dahm
+author david dixon peugh
+repositori java serializ
+find class provid class
+make attempt load
+java class javaclass load class loadclass string class classnam
+java lang class found except classnotfoundexcept

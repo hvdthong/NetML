@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+instruct list instructionlist test advic instruct getnontestadviceinstruct bcel shadow bcelshadow shadow
+instruct list instructionlist
+util creat invok createinvok shadow factori getfactori shadow world getworld origin signatur getoriginalsignatur

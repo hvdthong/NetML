@@ -1,0 +1,28 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+collect declar advic getdeclaredadvic
+list arrai list arraylist
+resolv member resolvedmemb method declar method getdeclaredmethod
+parameter type isparameterizedtyp method gener type getgenerictyp declar method getdeclaredmethod
+map type variabl map typevariablemap member parameter map getajmemberparameterizationmap
+len method length len
+shadow munger shadowmung munger method shadow munger getassociatedshadowmung
+munger
+member parameter ajmembersneedparameter
+munger setpointcut munger getpointcut parameterizewith typevariablemap
+munger munger parameter parameterizewith type variabl map typevariablemap
+munger advic
+advic advic advic munger
+updat parameter signatur
+unresolv type unresolvedtyp ptype method gener paramet type getgenericparametertyp
+unresolv type unresolvedtyp type newptyp unresolv type unresolvedtyp ptype length
+ptype length
+ptype type variabl refer type typevariablereferencetyp
+type variabl refer type typevariablereferencetyp tvrt type variabl refer type typevariablereferencetyp ptype
+type variabl map typevariablemap kei containskei tvrt type variabl gettypevari getnam
+type newptyp unresolv type unresolvedtyp type variabl map typevariablemap tvrt type variabl gettypevari getnam
+type newptyp ptype
+type newptyp ptype
+advic set bind paramet type setbindingparametertyp type newptyp
+munger set declar type setdeclaringtyp
+add munger

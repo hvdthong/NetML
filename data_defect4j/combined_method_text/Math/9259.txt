@@ -1,0 +1,12 @@
+real vector realvector calcul beta calculatebeta
+estim regress paramet estimateregressionparamet
+abstract multipl linear regress abstractmultiplelinearregress
+column getcolumn
+inherit doc inheritdoc
+version
+version revis date
+data getdata
+real matrix realmatrix calcul beta calculatebeta
+org apach common math stat regress
+arrai toarrai
+abstract base implement multipl linear regress multiplelinearregress

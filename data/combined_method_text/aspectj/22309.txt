@@ -1,0 +1,33 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+object visit signatur pattern signaturepattern node object data
+node annot pattern getannotationpattern annot type pattern annotationtypepattern
+node annot pattern getannotationpattern accept data
+append
+node modifi getmodifi modifi pattern modifierspattern
+node modifi getmodifi accept data
+append
+node kind getkind member static initi static initi
+node declar type getdeclaringtyp accept data
+node kind getkind member handler
+append handler
+node paramet type getparametertyp accept data node getparametertyp accept data note child
+append
+node kind getkind member constructor
+node return type getreturntyp accept data
+append
+node declar type getdeclaringtyp type pattern typepattern
+node declar type getdeclaringtyp accept data
+append
+node kind getkind member constructor
+append
+node getnam accept data
+node kind getkind member method node kind getkind member constructor
+append
+node paramet type getparametertyp accept data
+append
+node throw pattern getthrowspattern
+append
+node throw pattern getthrowspattern accept data

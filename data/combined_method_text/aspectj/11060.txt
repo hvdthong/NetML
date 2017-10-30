@@ -1,0 +1,62 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+resolv statement resolvestat
+bind ignor investig ignorefurtherinvestig
+class scope classscop upper scope upperscop class scope classscop scope parent classscop upperscop classscop scope parent safeti
+modifi check set modifi checkandsetmodifi modifi upper scope upperscop
+bind modifi bindingmodifi modifi bind modifi extra compil modifi extracompilermodifi acc gener signatur accgenericsignatur
+bind modifi bind modifi bindingmodifi
+kind advic kind advicekind throw afterthrow extra argument extraargu
+type bind typebind arg argtb extra argument extraargu bind type
+type bind typebind expect expectedtb upper scope upperscop java lang throwabl getjavalangthrow
+arg argtb compat iscompatiblewith expect expectedtb
+scope problem report problemreport type mismatch error typemismatcherror arg argtb expect expectedtb extra argument extraargu
+ignor investig ignorefurtherinvestig
+pointcut design pointcutdesign finish resolv type finishresolvetyp bind
+base argument count baseargumentcount upper scope upperscop refer context referencecontext bind
+bind ignor investig ignorefurtherinvestig
+kind advic kind advicekind
+refer bind referencebind except
+refer bind referencebind upper scope upperscop java lang throwabl getjavalangthrow
+proce method bind proceedmethodbind method bind methodbind modifi static flag acc synthet accsynthet
+proce char arrai tochararrai bind return type returntyp
+resiz base argument count baseargumentcount bind paramet
+except bind declar class declaringclass
+proce method bind proceedmethodbind selector
+char oper charoper concat selector proce method bind proceedmethodbind selector
+resolv statement resolvestat super resolvestat upperscop
+bind determin extra argument flag determineextraargumentflag
+kind advic kind advicekind
+proce call proceedcal size
+eclipsefactori world eclipsefactori fromscopelookupenviron upperscop
+system err println access arrai aslist handler getmemb
+xxx set correctli
+formal unchang proce formalsunchangedtoproce base argument count baseargumentcount
+proce call signatur proceedcallsignatur resolv member resolvedmemb
+proce inner proceedininn
+declar except declaredexcept unresolv type unresolvedtyp
+proce call proce proce call proceedcal
+call ininn
+system err println proce call
+proce inner proceedininn
+xxx wrong
+proceedcallsignatur world makeresolvedmemb call bind
+reorgan aspectdeclar
+proce inner inlin code unneed
+proce inner proceedininn
+privileg handler privilegedhandl handler privileg handler privilegedhandl upper scope upperscop refer context referencecontext bind privileg handler privilegedhandl
+handler
+handler privileg handler privilegedhandl aspect declar aspectdeclar upper scope upperscop refer context referencecontext
+upperscop referencecontext bind privilegedhandl handler
+travers make decl public visitor makedeclspublicvisitor class scope classscop
+access inlin visitor accessforinlinevisitor access inlin visitor accessforinlinevisitor aspect declar aspectdeclar upper scope upperscop refer context referencecontext handler
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext access inlin access inlin selector
+travers class scope classscop
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+found construct inlin set
+proceedininn inlin bodi
+inlin isinlin proce inner proceedininn

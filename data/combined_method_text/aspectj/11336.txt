@@ -1,0 +1,14 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+join point visitor thisjoinpointvisitor ast visitor astvisitor
+treat static cantreatasstat string
+equal tostr
+equal toshortstr
+equal tolongstr
+equal getkind
+equal getsignatur
+equal getsourceloc
+todo good optim requir work
+replac call direct refer call
+equal getstaticpart

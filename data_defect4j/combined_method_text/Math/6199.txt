@@ -1,0 +1,22 @@
+current time
+state end current step
+theta previou time step current time step
+org apach common math od
+deriv except derivativeexcept
+method interpol state
+dummi step interpol dummystepinterpol
+step interpol
+link step handler stephandl step handler
+set interpol time setinterpolatedtim call impli interpol state
+version revis date
+system arraycopi current state currentst interpol state interpolatedst current state currentst length
+underli user function trigger
+version dummi step interpol dummystepinterpol java 39z luc
+deriv except derivativeexcept except propag caller
+param theta normal interpol abscissa step
+comput state interpol time
+recomput state link abstract step interpol abstractstepinterpol set interpol time setinterpolatedtim
+comput interpol state computeinterpolatedst theta minu theta oneminusthetah
+set user step interpol
+param minu theta oneminusthetah time gap interpol time
+step handler stephandl

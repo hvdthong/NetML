@@ -1,0 +1,64 @@
+pre
+interpol deriv interpolatedderiv
+org apach common math od nonstiff
+theta belong
+interpol state interpolatedst
+order rung kutta integr
+inherit doc inheritdoc
+coeff dot1 coeffdot1 dot1 ydot1 coeff dot2 coeffdot2 dot2 ydot2 coeff dot3 coeffdot3 dot3 ydot3 coeff dot4 coeffdot4 dot4 ydot4
+step comput interpol equat consist
+overrid
+theta2 fourtheta2 theta twotheta theta twotheta
+coeff dot2 coeffdot2 dot23 cdot23 minu sqrt
+interpol comput dens output insid
+current state currentst coeff1 dot1 ydot1 coeff2 dot2 ydot2 coeff3 dot3 ydot3 coeff4 dot4 ydot4
+gill integr gillintegr
+interpol state interpolatedst length
+deriv except derivativeexcept
+omt theta
+theta fourtheta theta
+theta theta radic radic
+coeff4 theta theta fourtheta
+coeff1 theta theta2 fourtheta2
+theta theta theta
+coeff3 c23 inv sqrt
+dot4 ydot4 dot ydotk
+evalu deriv comput
+version
+version revis date
+theta
+previou state previousst theta
+coeff dot2 coeffdot2 dot23 cdot23 minu inv sqrt
+c23 theta theta2 fourtheta2
+c23 somt theta twotheta
+coeff1 somt theta fourtheta
+refer point step start
+coeff dot3 coeffdot3 dot23 cdot23 sqrt
+coeff dot3 coeffdot3 dot23 cdot23 tpq
+gill step interpol gillstepinterpol
+integr scheme
+coeff dot4 coeffdot4 theta theta twotheta
+step
+previou state previousst coeff1 dot1 ydot1 coeff2 dot2 ydot2 coeff3 dot3 ydot3 coeff4 dot4 ydot4
+step interpol gill fourth
+dot2 ydot2 dot ydotk
+coeff3 c23 tpq
+coeff2 c23 tmq
+coeff3 c23 sqrt
+comput interpol state deriv computeinterpolatedstateandderiv theta
+coeff2 c23 minu inv sqrt
+dot23 cdot23 theta twotheta theta
+coeff dot1 coeffdot1 theta theta twotheta
+theta belong sqrt
+c23 theta twotheta theta2 fourtheta2
+theta theta
+dot3 ydot3 dot ydotk
+coeff2 c23 minu sqrt
+theta twotheta theta
+coeff4 theta theta2 fourtheta2
+somt omt
+dot23 cdot23 theta omt
+coeff dot2 coeffdot2 dot23 cdot23 tmq
+minu theta oneminusthetah
+dot1 ydot1 dot ydotk
+coeff dot3 coeffdot3 dot23 cdot23 inv sqrt

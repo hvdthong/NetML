@@ -1,0 +1,15 @@
+org apach common math3 analysi solver
+exceed
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+param point point object function evalu
+evalu except toomanyevaluationsexcept maxim number evalu
+provid implement function gener
+object function point
+increment evalu count incrementevaluationcount
+comput object computeobjectivevalu point
+function point
+evalu except toomanyevaluationsexcept
+comput object function

@@ -1,0 +1,17 @@
+org aspectj weaver
+shadow
+string resolv string toresolvedstr world world
+string buffer stringbuff string buffer stringbuff
+append kind getkind
+append
+member signatur getsignatur
+append miss signatur
+resolv member resolvedmemb world resolv
+append unresolvablememb append append
+string gen string genstr gener string togenericstr
+gen string genstr
+append unabletogetgenericstringfor append append
+append gen string genstr
+append
+string tostr
+return getkind world resolv getsignatur togenericstr

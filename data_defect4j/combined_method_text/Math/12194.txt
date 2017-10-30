@@ -1,0 +1,16 @@
+point crossov polici iter random crossov point
+pre
+parameter chromosom length
+denot crossov point
+crossov point crossoverpoint
+select part parent copi
+return number crossov point link crossov polici crossoverpolici
+polici work link abstract list chromosom abstractlistchromosom
+number crossov point
+version
+org apach common math3 genet
+child part copi crosswis
+param gener type link abstract list chromosom abstractlistchromosom crossov
+point crossov npointcrossov crossov polici crossoverpolici
+point crossov
+crossov point getcrossoverpoint

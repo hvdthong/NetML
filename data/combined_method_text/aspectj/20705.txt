@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+rule5 method overrid chang static word overrid make instanc
+method static overrid make static method instanc method
+enforc decp rule5 chang static nonstat enforcedecprule5 cantchangefromstatictononstat bcel class weaver bcelclassweav weaver sourc locat isourceloc munger loc mungerloc resolv member resolvedmemb super method supermethod lazi method gen lazymethodgen method submethod
+super method supermethod static isstat method submethod static isstat
+error weaver instanc method method submethod getnam method submethod paramet signatur getparametersignatur
+overrid static method super method supermethod declar type getdeclaringtyp getnam
+method submethod sourc locat getsourceloc sourc locat isourceloc munger loc mungerloc
+super method supermethod static isstat method submethod static isstat
+error weaver static method method submethod getnam method submethod paramet signatur getparametersignatur
+hide instanc method super method supermethod declar type getdeclaringtyp getnam
+method submethod sourc locat getsourceloc sourc locat isourceloc munger loc mungerloc

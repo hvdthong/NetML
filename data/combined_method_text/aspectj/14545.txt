@@ -1,0 +1,7 @@
+org aspectj apach bcel gener annot
+annot gen annotationgen
+annot gen annotationgen object type objecttyp type list element vi constant pool gen constantpoolgen cpool public annotationgen objecttyp type list elementnamevaluepairgen element boolean vi constantpoolgen cpool
+cpool cpool
+type index typeindex cpool add utf8 addutf8 type signatur getsignatur
+ev element
+runtim visibl isruntimevis vi

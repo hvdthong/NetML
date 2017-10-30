@@ -1,0 +1,25 @@
+pre
+column label columnlabel add rh
+restrict neg restricttononneg
+num artifici variabl getnumartificialvari
+extra decis variabl neg valu
+column label columnlabel add
+column label columnlabel add neg var column label
+initi label column
+origin num decis variabl getoriginalnumdecisionvari
+phase object function
+initi column label initializecolumnlabel
+version
+amp decis variabl
+version simplex tableau simplextableau java 14z
+rh hand side
+rh
+num object function getnumobjectivefunct
+artifici variabl
+num slack variabl getnumslackvari
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+tableau simplex method
+org apach common math3 optim linear

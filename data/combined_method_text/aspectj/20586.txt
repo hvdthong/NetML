@@ -1,0 +1,22 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+lazi method gen lazymethodgen extract method extractmethod string method newmethodnam visibl modifi visibilitymodifi shadow munger shadowmung munger
+lazi method gen lazymethodgen assert good bodi assertgoodbodi rang bodi getbodi method newmethodnam
+kind getkind extract allowsextract except bcexcept attempt extract method shadow kind support oper kind getkind
+lazi method gen lazymethodgen fresh method freshmethod creat method gen createmethodgen method newmethodnam visibl modifi visibilitymodifi
+system err println
+system err println extract method
+enclosingmethod print system err
+system err println
+freshmethod print system err
+system err println remap
+system err println makeremap
+rang extract instruct extractinstructionsinto fresh method freshmethod make remap makeremap
+kind getkind pre initi preiniti
+fall isfallsthrough
+kind getkind pre initi preiniti
+add pre initi return code addpreinitializationreturncod
+fresh method freshmethod
+super constructor paramet type getsuperconstructorparametertyp
+enclos class getenclosingclass add method gen addmethodgen fresh method freshmethod munger sourc locat getsourceloc
+fresh method freshmethod

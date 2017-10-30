@@ -1,0 +1,9 @@
+param specif specif context pattern
+version
+specif argument
+org apach common math3 except
+construct except specif context
+param argument argument
+except zeroexcept math illeg number except mathillegalnumberexcept
+except zeroexcept localiz specif object argument
+except thrown provid allow

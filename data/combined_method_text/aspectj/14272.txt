@@ -1,0 +1,63 @@
+org aspectj apach bcel gener
+super class object arrai type
+version referencetyp java aclement exp
+author href mailto marku dahm berlin dahm
+refer type referencetyp type
+commut oper return common superclass narrowest referencetyp
+referenc class interfac
+type superclass return
+type null return
+type null return
+equal 'thi equal return
+arraytyp type object return
+dimens match arraytyp
+number dimens return basic type
+common super class basic type
+referencetyp referenc interfac type object return
+classes' superclass found null return
+jvm specif edit bytecod verifi
+refer type referencetyp common superclass getfirstcommonsuperclass refer type referencetyp
+equal type null
+equal type null
+equal
+todo sound arbitrari hand
+object referenc type null object
+referenc type null deriv java lang object
+java language' instanceof oper prove wrong
+null refer instanc java lang object
+code bug report konstantin shagin konst technion
+arrai type arraytyp arrai type arraytyp
+arrai type arraytyp arr type1 arrtype1 arrai type arraytyp
+arrai type arraytyp arr type2 arrtype2 arrai type arraytyp
+arr type1 arrtype1 dimens getdimens arr type2 arrtype2 dimens getdimens
+arr type1 arrtype1 basic type getbasictyp object type objecttyp
+arr type2 arrtype2 basic type getbasictyp object type objecttyp
+arrai type arraytyp
+object type objecttyp arr type1 arrtype1 basic type getbasictyp common superclass getfirstcommonsuperclass object type objecttyp arr type2 arrtype2 basic type getbasictyp
+arr type1 arrtype1 dimens getdimens
+arrai type arraytyp arrai type arraytyp
+type object
+todo proof object direct ancestor arraytyp
+object type objecttyp object type objecttyp refer interfac referencesinterfac
+object type objecttyp object type objecttyp refer interfac referencesinterfac
+type object
+todo line correct compar vmspec2
+make class file verif bit stronger notion
+superinterfac castabl assign compat
+objecttyp
+object type objecttyp thiz object type objecttyp
+object type objecttyp object type objecttyp
+java class javaclass thiz sup repositori super class getsuperclass thiz class getclassnam
+java class javaclass sup repositori super class getsuperclass class getclassnam
+thiz sup sup
+waaahh
+java class javaclass sup java class javaclass thiz sup length
+java class javaclass sup java class javaclass sup length
+system arraycopi thiz sup sup thiz sup length
+system arraycopi sup sup sup length
+sup repositori lookup class lookupclass thiz class getclassnam
+sup repositori lookup class lookupclass class getclassnam
+sup length
+sup length
+sup equal sup object type objecttyp sup class getclassnam
+huh type object' superclass

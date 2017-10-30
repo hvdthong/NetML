@@ -1,0 +1,41 @@
+org aspectj weaver reflect
+variabl reflect shadow residu test
+reflect var reflectionvar var
+join point target arg return object
+var bound
+param thisobject
+param targetobject
+param arg
+return
+object bind join point getbindingatjoinpoint
+object object thisobject
+object target object targetobject
+object arg
+member subject
+member code withincod
+class type withintyp
+var type vartyp
+var var object thisobject
+target var target var target object targetobject
+arg var arg var
+arg index argsindex arg length
+arg arg index argsindex
+var var
+annot finder annotationfind
+annot finder annotationfind annot getannot type gettyp object thisobject
+target var target var
+annot finder annotationfind
+annot finder annotationfind annot getannot type gettyp target object targetobject
+arg var arg var
+arg index argsindex arg length
+annot finder annotationfind
+annot finder annotationfind annot getannot type gettyp arg arg index argsindex
+var var
+annot finder annotationfind
+annot finder annotationfind annot class getannotationfromclass type gettyp type withintyp
+withincod var withincod var
+annot finder annotationfind
+annot finder annotationfind annot member getannotationfrommemb type gettyp code withincod
+annot var annot var
+annot finder annotationfind
+annot finder annotationfind annot member getannotationfrommemb type gettyp subject

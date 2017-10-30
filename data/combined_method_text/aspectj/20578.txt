@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bind bindsthi bcel advic bceladvic munger
+visitor usesthisvisitor utv visitor usesthisvisitor
+munger pointcut getpointcut accept utv
+utv usesthi

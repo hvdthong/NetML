@@ -1,0 +1,18 @@
+org aspectj asm intern
+creat jdt handl
+method string argument tjp demo java demo main qstring
+method gener argument pkg myclass java myclass mymethod qlist qstring
+aspect pkg
+advic integ arg pkg afterreturn qinteg
+method call pkg a10 method call void pkg
+jdt handl provid jdtlikehandleprovid element handl provid ielementhandleprovid
+string file handl getfileforhandl string handl
+program element iprogramel node asm manag asmmanag default getdefault hierarchi gethierarchi element getel handl
+node
+asm manag asmmanag default getdefault canon file path getcanonicalfilepath node sourc locat getsourceloc sourc file getsourcefil
+handl char charat handl provid delimit handleproviderdelimit aspect aspect delimit getdelimit
+handl char charat handl provid delimit handleproviderdelimit compilationunit delimit getdelimit
+myaspect myclass java word
+file node creat children parent
+backslash handl substr
+empti string emptystr

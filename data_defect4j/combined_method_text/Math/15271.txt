@@ -1,0 +1,9 @@
+param dimens simplex
+version
+multi direct simplex multidirectionalsimplex
+valu khi gamma
+org apach common math3 optim direct
+multi direct direct search method
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+deprec remov
+build multi direct simplex coeffici

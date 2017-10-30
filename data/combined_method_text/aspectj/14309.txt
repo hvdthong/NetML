@@ -1,0 +1,16 @@
+org aspectj apach bcel gener
+select abstract super class lookupswitch tableswitch instruct
+version select java aclement exp
+author href mailto marku dahm berlin dahm
+lookupswitch
+tableswitch
+instructionlist
+select branch instruct branchinstruct
+dump instruct byte code stream
+param output stream
+dump data output stream dataoutputstream except ioexcept
+write byte writebyt opcod
+pad int pad pad byte
+write byte writebyt
+index target offset gettargetoffset index gettargetoffset write default target offset
+write int writeint index

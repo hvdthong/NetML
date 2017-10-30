@@ -1,0 +1,14 @@
+org apach lucen search
+altern booleanscor minimum number
+option scorer match
+implement skipto limit number ad scorer
+conjunctionscor disjunctionscor reqoptscor reqexclscor
+boolean scorer2 booleanscorer2 scorer
+scorer dual conjunct sum scorer dualconjunctionsumscor disabl coord disablecoord
+similar similar
+scorer req1 scorer req2 except ioexcept scorer req1 scorer req2 throw ioexcept count
+conjunct scorer conjunctionscor disabl coord disablecoord similar coord req1 req2
+scorer match defaultsimilar
+coordin factor
+sum score scorer
+score

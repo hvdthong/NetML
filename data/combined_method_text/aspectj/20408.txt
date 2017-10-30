@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+util class assist unpack constitu part
+gener signatur attribut return equival
+unresolvedtyp world
+bcel gener signatur type convert bcelgenericsignaturetotypexconvert
+resolv type resolvedtyp field type signature2 type fieldtypesignature2typex
+signatur field type signatur fieldtypesignatur field type signatur afieldtypesignatur
+signatur formal type paramet formaltypeparamet type param typeparam
+world world
+gener signatur format except genericsignatureformatexcept
+map type map typemap hash map hashmap
+resolv type resolvedtyp ret field type signature2 type fieldtypesignature2typex field type signatur afieldtypesignatur type param typeparam world type map typemap
+fix circular depend fixupcirculardepend ret type map typemap
+ret

@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+field class field declar
+resolv member resolvedmemb inter field class field interfieldclassfield resolv member resolvedmemb field unresolv type unresolvedtyp aspect type aspecttyp
+resolv member impl resolvedmemberimpl member field field declar type getdeclaringtyp
+make public final makepublicnonfin field modifi getmodifi
+field return type getreturntyp
+mangler namemangl inter field class field interfieldclassfield field modifi getmodifi aspect type aspecttyp field declar type getdeclaringtyp field getnam
+unresolv type unresolvedtyp unresolv type unresolvedtyp

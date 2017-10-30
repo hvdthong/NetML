@@ -1,0 +1,13 @@
+jira
+open map real vector openmaprealvector spars real vector sparserealvector
+open map entri openmapentri iter iter
+build entri iter point element
+org apach common math3 linear
+link open int doubl hash map openinttodoublehashmap back store
+param iter iter point entri
+href http issu apach org jira brows math ticket
+link real vector realvector
+version
+remov version
+deprec version deprec reason expos
+iter iter

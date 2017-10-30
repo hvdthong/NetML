@@ -1,0 +1,5 @@
+org apach lucen search
+exact phrase scorer exactphrasescor phrase scorer phrasescor
+exact phrase scorer exactphrasescor weight weight term posit termposit tp offset
+similar similar norm
+weight tp offset similar norm

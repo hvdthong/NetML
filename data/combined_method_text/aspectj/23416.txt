@@ -1,0 +1,24 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+construct weavingad refer
+code generatedclasshandl code full search path resolv
+class complet set aspect search path includ
+class load class loader construct weavingadaptor
+parent hierarchi
+param handler code generatedclasshandl code
+param classurl url resolv class
+param aspecturl aspect weav class defin class loader
+weav adaptor weavingadaptor gener class handler generatedclasshandl handler url class classurl url aspect aspecturl
+system err println weavingadaptor init
+gener class handler generatedclasshandl handler
+init file util fileutil make classpath makeclasspath class classurl file util fileutil make classpath makeclasspath aspect aspecturl

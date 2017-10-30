@@ -1,0 +1,30 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+attribut ajattribut aspect process attribut processattribut list attribut list attributelist list pointcut annot fromannot
+attribut ajattribut aspect defer aspect attribut deferredaspectattribut
+iter iter attribut list attributelist iter iter hasnext
+attribut ajattribut attribut ajattribut iter
+system err println unpack
+attribut ajattribut aspect
+annot fromannot
+defer aspect attribut deferredaspectattribut attribut ajattribut aspect
+claus perclaus attribut ajattribut aspect reifi resolv type getresolvedtypex
+code style aspect iscodestyleaspect
+attribut ajattribut pointcut declar attribut pointcutdeclarationattribut
+pointcut add attribut ajattribut pointcut declar attribut pointcutdeclarationattribut reifi
+attribut ajattribut weaver state weaverst
+weaver state weaverst attribut ajattribut weaver state weaverst reifi
+attribut ajattribut type munger typemung
+type munger typemung add attribut ajattribut type munger typemung reifi resolv type getresolvedtypex world getworld resolv type getresolvedtypex
+attribut ajattribut declar attribut declareattribut
+declar add attribut ajattribut declar attribut declareattribut declar getdeclar
+attribut ajattribut privileg attribut privilegedattribut
+privileg access privilegedaccess attribut ajattribut privileg attribut privilegedattribut access member getaccessedmemb
+attribut ajattribut sourc context attribut sourcecontextattribut
+resolv type getresolvedtypex sourc context getsourcecontext sourc context impl sourcecontextimpl
+attribut ajattribut sourc context attribut sourcecontextattribut sca attribut ajattribut sourc context attribut sourcecontextattribut
+sourc context impl sourcecontextimpl resolv type getresolvedtypex sourc context getsourcecontext configur attribut configurefromattribut sca sourc file getsourcefilenam sca line break getlinebreak
+attribut ajattribut weaver version info weaverversioninfo
+info wvinfo attribut ajattribut weaver version info weaverversioninfo wvinfo ajattribut weaverversioninfo set weaver version build type
+except bcexcept bad attribut
+defer aspect attribut deferredaspectattribut

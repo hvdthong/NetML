@@ -1,0 +1,278 @@
+ldc ldc ldc ldc
+ltype ltype ltype ltype ltype ltype ltype ltype ltype ltype ltype ltype
+code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code
+typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo typeinfo
+execut execut execut execut execut execut execut execut execut execut execut execut execut execut execut
+putstat
+imul
+bastor
+aload aload aload aload aload aload
+count count
+lookupswitch
+checkcast
+data data data data
+paramet paramet paramet
+ddiv
+d2i
+const const const const
+itscodebuff itscodebuff
+lxor
+indexof
+ldiv
+writer
+except except except except
+param
+bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod
+getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand getoperand
+add add
+astor astor astor astor astor astor
+fadd
+ltype2 ltype2 ltype2
+desc desc
+alter
+aastor
+d2l
+iflt
+return return return return return return return
+string string string string string string string string string string string string string
+isub
+executeastor executeastor
+dstore dstore dstore dstore dstore dstore
+dneg dneg
+monitorent
+classfil
+initi
+lload lload lload lload lload
+pop2 pop2 pop2 pop2 pop2 pop2 pop2
+newtyp newtyp
+arraylength
+lsub
+lastor
+nop
+faload faload
+iushr
+addclass addclass
+instanceof
+putfield putfield
+itsthisclassindex
+rparen rparen
+newarrai
+fstore fstore fstore fstore fstore fstore
+aconst aconst
+integ integ integ integ integ integ integ integ integ
+iinc
+bad bad bad bad
+ifg
+roger
+ifl
+ifn
+fieldtyp fieldtyp
+ixor
+l2d
+l2f
+l2i
+invokestat invokestat
+methodnam methodnam
+bipush
+intern intern intern
+aaload
+illegalargumentexcept illegalargumentexcept
+operand operand operand operand operand operand operand operand operand operand operand operand operand operand operand
+opcodelength
+todo
+variabl variabl variabl variabl
+index index index index index index index index index index index index index index index index index index index
+charat
+ishr
+executeaload executeaload
+ret
+rhino
+state state
+ifnul
+ishl
+invokevirtu
+switchstart switchstart switchstart switchstart
+ref ref ref ref
+method method method method method method method method method method method method method
+getnam
+dreturn
+push2 push2 push2 push2 push2 push2 push2 push2
+goto goto goto
+frem
+getconstanttyp
+caload
+iaload iaload
+behaviour
+dastor
+drem
+typeindex typeindex typeindex typeindex
+fcmpl
+componenttyp componenttyp
+byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte
+bci bci bci bci bci bci bci bci bci bci bci bci bci bci bci bci bci bci bci bci bci
+classnam classnam classnam classnam classnam
+saload
+fconst fconst fconst fconst
+monitorexit
+insttyp insttyp insttyp
+dcmpg
+f2i
+clearstack clearstack
+equal equal
+lushr
+illegalstateexcept illegalstateexcept
+invokeinterfac
+instanc
+sastor
+dcmpl
+chang
+tableswitch
+lrem
+arraytyp arraytyp arraytyp
+ldc2 ldc2
+load load
+sipush
+fsub
+lawrenc
+arrai arrai arrai arrai arrai
+float float float float float float float float float
+fdiv
+pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop pop
+lshl
+fmul
+substr substr
+instruct instruct instruct instruct
+dconst dconst dconst
+itsconstantpool itsconstantpool itsconstantpool itsconstantpool itsconstantpool itsconstantpool itsconstantpool itsconstantpool itsconstantpool itsconstantpool itsconstantpool
+opcod opcod
+fload fload fload fload fload
+size
+ifgt
+icmplt icmplt
+constantpool constantpool constantpool constantpool constantpool
+java java java
+creat
+fcmpg
+doubl doubl doubl doubl doubl doubl doubl doubl doubl
+ineg ineg
+long long long long long long long long long
+lshr
+lor
+start start start start
+low low
+illeg illeg illeg illeg
+paren paren
+type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type
+store store store store store store store store store store
+swap
+daload daload
+field field field field field field field
+areturn
+mozilla
+acmpn acmpn
+classfilewrit classfilewrit classfilewrit
+dup dup dup dup dup
+part
+i2d
+laload laload
+arraytypetonam
+icmpeq icmpeq
+case case case case case case case case case case case case case case case case
+wide wide wide wide wide wide wide wide wide wide wide wide
+ifnonnul
+lstore lstore lstore lstore lstore lstore
+provid
+getstat
+f2d
+fneg fneg
+descriptor descriptor descriptor
+fieldormethodref fieldormethodref fieldormethodref fieldormethodref
+returntyp returntyp returntyp returntyp returntyp
+dadd
+iconst iconst iconst iconst iconst iconst iconst iconst iconst
+lcmp
+clear clear
+lmul
+uniniti uniniti uniniti uniniti uniniti uniniti
+constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant constant
+iastor iastor
+ladd
+getfield
+fromtyp fromtyp
+dmul
+deprec
+argument argument
+compon compon
+char
+anewarrai
+executestor executestor executestor executestor executestor executestor executestor executestor
+tag tag tag tag
+iand
+file file
+lneg lneg
+null null null
+iadd
+type2 type2 type2 type2 type2 type2 type2 type2
+ifeq ifeq
+castor
+gettag
+author
+dup2 dup2 dup2 dup2 dup2
+length length length length length length length
+idiv
+f2l
+write write
+elementdesc elementdesc
+high high
+freturn
+icmpl icmpl
+dsub
+icmpn icmpn
+invokespeci
+ignor
+iload iload iload iload iload
+singl
+icmpg icmpg
+fastor
+lconst lconst lconst
+acmpeq acmpeq
+athrow
+buffer buffer
+i2b
+org
+object object object object object object
+consttyp consttyp consttyp
+ior
+getconstantdata getconstantdata getconstantdata getconstantdata
+initializetypeinfo
+sizeofparamet
+irem
+inst inst inst
+jsr jsr jsr jsr jsr
+methodtyp methodtyp methodtyp methodtyp
+icmpgt icmpgt
+stack stack
+pool pool pool pool pool pool pool pool pool pool pool pool pool pool pool pool
+baload
+lang
+land
+ireturn
+d2f
+gettyp gettyp
+info info info info info info info info info info info info info info info info info info info info info info info info info info info info info info
+i2
+multianewarrai
+init
+elementtyp elementtyp
+descriptortointernalnam descriptortointernalnam descriptortointernalnam
+dload dload dload dload dload
+class class class class class class class class class class
+switch switch switch switch
+i2l
+istor istor istor istor istor istor
+push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push push
+lreturn
+element element element element
+i2c
+parametercount parametercount
+i2f

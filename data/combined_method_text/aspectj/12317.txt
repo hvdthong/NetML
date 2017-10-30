@@ -1,0 +1,15 @@
+org aspectj apach bcel classfil
+class deriv abstract
+href org aspectj apach bcel classfil constant html constant class
+repres refer signatur
+field method
+version constantnameandtyp java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+constant type constantnameandtyp constant
+call object travers node tree implicit
+defin content java class hierarchi method
+field attribut spawn tree object
+param visitor object
+accept visitor
+visit constant type visitconstantnameandtyp

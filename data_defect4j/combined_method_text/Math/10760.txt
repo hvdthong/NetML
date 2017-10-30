@@ -1,0 +1,12 @@
+org apach common math3 analysi solver
+param function accuraci functionvalueaccuraci maximum function error
+function accuraci functionvalueaccuraci
+absolut accuraci absoluteaccuraci
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci function accuraci functionvalueaccuraci
+base solver
+construct solver accuraci
+abstract polynomi solver abstractpolynomialsolv
+version
+abstract polynomi solver abstractpolynomialsolv rel accuraci relativeaccuraci
+param absolut accuraci absoluteaccuraci maximum absolut error
+param rel accuraci relativeaccuraci maximum rel error

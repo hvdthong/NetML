@@ -1,0 +1,16 @@
+simpl constructor
+fast math fastmath sin alpha co delta cosdelta
+param delta elev delta plane
+org apach common math3 geometri euclidean threed
+fast math fastmath sin delta
+vector dimension space
+param alpha azimuth alpha
+instanc guarante immut
+version
+fast math fastmath co alpha co delta cosdelta
+delta getdelta
+vector3 vector3d serializ vector euclidean3 euclidean3d
+alpha getalpha
+build vector azimuth coordin
+co delta cosdelta fast math fastmath co delta
+vector3 vector3d alpha delta

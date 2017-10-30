@@ -1,0 +1,31 @@
+org aspectj weaver bcel
+bcel field bcelfield resolv member impl resolvedmemberimpl
+unpack gener signatur unpackgenericsignatur
+unpack gener signatur unpackedgenericsignatur
+world java5 mode isinjava5mod
+gener field type genericfieldtyp return type getreturntyp
+unpack gener signatur unpackedgenericsignatur
+string sig gsig field gener signatur getgenericsignatur
+sig gsig
+gener
+signatur field type signatur fieldtypesignatur ft gener signatur parser genericsignaturepars pars field signatur parseasfieldsignatur sig gsig
+signatur class signatur classsignatur gener type sig generictypesig bcel object type bcelobjecttyp gener class type signatur getgenericclasstypesignatur
+signatur formal type paramet formaltypeparamet parent formal parentform bcel object type bcelobjecttyp formal getallform
+signatur formal type paramet formaltypeparamet type var typevar
+gener type sig generictypesig signatur formal type paramet formaltypeparamet gener type sig generictypesig formal type paramet formaltypeparamet
+signatur formal type paramet formaltypeparamet formal
+signatur formal type paramet formaltypeparamet parent formal parentform length type var typevar length
+put method formal front type formal overrid
+lookup
+system arraycopi type var typevar formal type var typevar length
+system arraycopi parent formal parentform formal type var typevar length parent formal parentform length
+gener field type genericfieldtyp bcel gener signatur type convert bcelgenericsignaturetotypexconvert
+field type signature2 type fieldtypesignature2typex ft formal world
+gener signatur format except genericsignatureformatexcept
+develop bug fail fast good info
+illeg state except illegalstateexcept
+determ gener field type
+string tostr gener signatur
+sig gsig error detect
+messag getmessag
+gener field type genericfieldtyp return type getreturntyp

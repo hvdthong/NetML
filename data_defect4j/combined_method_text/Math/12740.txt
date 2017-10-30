@@ -1,0 +1,16 @@
+repres region set polygon
+connect vertic back edg
+start start
+node
+line line
+param line line support edg
+edg vertex start vertex end line line
+build edg contain node
+param start start vertex
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+start set outgo setoutgo
+end set incom setincom
+end end
+param end end vertex
+org apach common math3 geometri euclidean twod

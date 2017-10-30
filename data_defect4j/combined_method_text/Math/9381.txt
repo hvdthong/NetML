@@ -1,0 +1,11 @@
+ad regress model updat
+param independ variabl form design matrix
+entir data set load memori observ
+param depend respons variabl
+estim regress statist calcul
+regress model allow dynam updat data
+version
+add observ addobserv
+add observ regress model
+org apach common math stat regress
+updat multipl linear regress updatingmultiplelinearregress

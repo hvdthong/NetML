@@ -1,0 +1,8 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+program element iprogramel walk hierarchi walker hierarchywalk walker
+children
+iter children iter hasnext
+program element iprogramel child program element iprogramel
+walker process child

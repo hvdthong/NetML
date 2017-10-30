@@ -1,0 +1,15 @@
+org apach common math3 analysi solver
+end
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+check argument form strictli increas sequenc
+param end number
+mid
+univari solver util univariatesolverutil sequenc issequ start mid end
+param mid number
+provid implement function gener
+param start number
+sequenc issequ start
+code argument form increas sequenc

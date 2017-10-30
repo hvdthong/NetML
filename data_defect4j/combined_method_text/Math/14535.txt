@@ -1,0 +1,27 @@
+overrid
+max kmax
+inherit doc inheritdoc
+rung kutta integr rungekuttaintegr
+except ioexcept class found except classnotfoundexcept
+interpol time interpolatedtim
+set interpol time state
+current state currentst
+embed rung kutta integr embeddedrungekuttaintegr
+dot ydotk max kmax max kmax
+dot ydotk read doubl readdoubl
+version
+read base
+previou state previousst read doubl readdoubl
+set interpol time setinterpolatedtim
+rung kutta step interpol rungekuttastepinterpol
+org apach common math3 od nonstiff
+previou state previousst
+dot ydotk
+read base extern readbaseextern
+max kmax read int readint
+repres interpol step
+od integr rung kutta embed rung kutta integr
+read local attribut
+integr
+current state currentst current state currentst length
+read extern readextern object input objectinput

@@ -1,0 +1,10 @@
+org/joda/time/MutableDateTime_add-DurationFieldType-int_void
+org/joda/time/MutableDateTime_addYears-int_void
+org/joda/time/MutableDateTime_addWeekyears-int_void
+org/joda/time/MutableDateTime_addMonths-int_void
+org/joda/time/MutableDateTime_addWeeks-int_void
+org/joda/time/MutableDateTime_addDays-int_void
+org/joda/time/MutableDateTime_addHours-int_void
+org/joda/time/MutableDateTime_addMinutes-int_void
+org/joda/time/MutableDateTime_addSeconds-int_void
+org/joda/time/MutableDateTime_addMillis-int_void

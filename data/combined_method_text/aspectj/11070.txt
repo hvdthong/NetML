@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil ast
+aspect clinit aspectclinit clinit
+gener post synthet code generatepostsyntheticcod
+class scope classscop class scope classscop
+code stream codestream code stream codestream
+gener post synthet code generatepostsyntheticcod class scope classscop code stream codestream
+post haspost
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron class scope classscop
+code stream codestream invokestat world make method bind call makemethodbindingforcal
+ajc member maker ajcmembermak ajc post clinit method ajcpostclinitmethod
+world bind frombind class scope classscop refer context referencecontext bind
+init failur field initfailurefield
+except handl code requir
+bcelclassweav isinitfailurehandl
+handler label handlerlabel place end placeend
+branch label branchlabel end label endlabel branch label branchlabel code stream codestream
+code stream codestream goto end label endlabel
+handler label handlerlabel place
+code stream codestream astor codestream astor bug
+check
+code stream codestream add variabl addvari local variabl bind localvariablebind caughtexcept char arrai tochararrai init failur field initfailurefield type class file constant classfileconst acc privat accpriv
+code stream codestream aload
+code stream codestream putstat init failur field initfailurefield
+end label endlabel place

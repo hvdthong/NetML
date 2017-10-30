@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+throw pattern throwspattern pattern node patternnod
+match unresolv type unresolvedtyp ty world world
+system println match arrai aslist ty
+resolv type resolvedtyp type world resolv ty
+int len type length
+lenj requir size lenj
+match matchesani requir type
+lenj forbidden size lenj
+match matchesani forbidden type

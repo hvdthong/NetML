@@ -1,0 +1,20 @@
+pre
+euler integr eulerintegr
+integr ordinari differenti equat
+version rung kutta integr rungekuttaintegr java 39z luc
+method explicit rung kutta method butcher
+arrai
+step size stepsiz doubl nan
+step start stepstart doubl nan
+midpoint integr midpointintegr
+a21
+reset intern state resetinternalst
+rung kutta integr rungekuttaintegr
+a31 a32
+common part fix step rung kutta
+classic rung kutta integr classicalrungekuttaintegr
+gill integr gillintegr
+org apach common math od
+reset intern state dummi valu
+version revis date
+as1 as2 ass

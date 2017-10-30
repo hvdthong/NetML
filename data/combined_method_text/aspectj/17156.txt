@@ -1,0 +1,25 @@
+org aspectj org eclips jdt core dom
+intertypemethoddeclar dom ast node
+methoddeclar
+note
+type declar
+author ajh02
+inter type method declar intertypemethoddeclar method declar methoddeclar
+accept0 ast visitor astvisitor visitor
+visitor ast visitor ajastvisitor
+ast visitor ajastvisitor ajvi ast visitor ajastvisitor visitor
+visit children visitchildren ajvi visit
+visit children visitchildren
+visit children normal left read order
+accept child acceptchild ajvi javadoc getjavadoc
+ast api level apilevel ast jls2 intern jls2 intern
+accept child acceptchild ajvi return type getreturntyp
+accept children acceptchildren ajvi modifi
+accept children acceptchildren ajvi node list nodelist type paramet typeparamet
+accept child acceptchild ajvi return type2 getreturntype2
+visit return type constructor
+accept child acceptchild ajvi getnam
+accept children acceptchildren ajvi paramet
+accept children acceptchildren ajvi node list nodelist thrown except thrownexcept
+accept child acceptchild ajvi bodi getbodi
+ajvi end visit endvisit

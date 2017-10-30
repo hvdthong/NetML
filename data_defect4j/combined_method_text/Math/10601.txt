@@ -1,0 +1,12 @@
+function
+org apach common math3 analysi integr gauss
+weight getweight index
+weight
+link integr univari function univariatefunct integr weight
+index valid rang check perform
+weight index
+class gaussian rule
+version
+param index index integr point
+gauss integr gaussintegr
+weight integr point index

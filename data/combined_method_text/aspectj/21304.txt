@@ -1,0 +1,14 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+regist aspect includ registeraspectinclud bcel weaver bcelweav weaver class loader classload loader list definit
+string fast match info fastmatchinfo
+iter iter definit iter iter hasnext
+definit definit definit iter
+iter iterator1 definit aspect includ pattern getaspectincludepattern iter iterator1 hasnext
+string includ string iterator1
+type pattern typepattern includ pattern includepattern pattern parser patternpars includ pars type pattern parsetypepattern
+aspect includ type pattern aspectincludetypepattern add includ pattern includepattern
+fast match info fastmatchinfo start lookslikestartswith includ
+fast match info fastmatchinfo
+aspect includ start aspectincludestartswith add fast match info fastmatchinfo

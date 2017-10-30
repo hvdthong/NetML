@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+basic token sourc basictokensourc token sourc itokensourc
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+buf append
+token length
+token itoken token
+buf append
+buf append string tostr
+buf append
+buf string tostr

@@ -1,0 +1,13 @@
+org aspectj ajd
+todo schitzophrenia buildconfignod iprogramel fix
+author mik kersten
+build config model buildconfigmodel
+match build config node buildconfignod node string sourc file path sourcefilepath line number linenumb
+node
+node sourc locat getsourceloc
+node sourc locat getsourceloc sourc file getsourcefil canon path getcanonicalpath equal sourc file path sourcefilepath
+node sourc locat getsourceloc line getlin line number linenumb
+node sourc locat getsourceloc end line getendlin line number linenumb
+line number linenumb
+node build config node buildconfignod
+except ioexcept ioe

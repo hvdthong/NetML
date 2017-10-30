@@ -1,0 +1,124 @@
+state vector dimens
+abstract step interpol abstractstepinterpol interpol
+switch function chang step
+rki reiniti equat tmp ytmp dot ydotk forward
+step reject error estim phase
+tmp ytmp sum
+step laststep
+a31 a32
+switch handler switcheshandl reset current currentt step laststep
+equat comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+dot ydotk stage
+handler handl step handlestep interpol step laststep
+param initi time
+deriv except derivativeexcept except propag caller
+set smaller code code backward integr
+equat comput deriv computederiv step start stepstart dot ydotk
+recomput step
+param equat differenti equat integr
+stage length
+euler integr eulerintegr
+method qualifi fsal
+method explicit rung kutta method butcher
+switch function handl
+switch function trigger
+rung kutta integr rungekuttaintegr
+equat dimens getdimens length
+org apach common math od
+step start stepstart step nextstep
+integr ordinari differenti equat
+interpol store time storetim current currentt
+step size stepsiz step nbstep
+method store intern state variabl made
+switch handler switcheshandl step accept stepaccept step nextstep
+step start stepstart
+dot ydotk length
+version revis date
+step accept
+step step
+system arraycopi tmp ytmp length
+rung kutta step interpol rungekuttastepinterpol rki rung kutta step interpol rungekuttastepinterpol prototyp copi
+recomput stepsiz
+tmp ytmp step size stepsiz sum
+set interpol share integr arrai
+interpol store time storetim step nextstep
+reset intern state resetinternalst
+switch handler switcheshandl step accept stepaccept current currentt
+asi
+stage
+handler requir dens output requiresdenseoutput switch handler switcheshandl empti isempti
+system arraycopi dot ydotk stage dot ydotk length
+step end integr object
+loop loop
+length
+provid step data step handler
+updat needupd
+integr differenti equat time
+switch handler switcheshandl reset step start stepstart step laststep
+time firsttim fsal
+method solv initi problem ivp
+step nextstep step start stepstart step size stepsiz
+arrai
+switch handler switcheshandl event time geteventtim current currentt
+rung kutta step interpol rungekuttastepinterpol rki rung kutta step interpol rungekuttastepinterpol prototyp clone
+midpoint integr midpointintegr
+saniti check
+switch handler switcheshandl evalu step evaluatestep interpol
+param target time integr
+math ab math max math ab math ab
+switch handler switcheshandl stop
+forward
+deriv except derivativeexcept integr except integratorexcept
+current sign stepsiz getcurrentsignedsteps thread safe
+param initi state vector
+estim state end step
+step size stepsiz switch handler switcheshandl event time geteventtim step start stepstart
+creat intern work arrai
+method evalu method
+save evalu step
+tmp ytmp length
+integr order differenti equat firstorderdifferentialequ equat
+integr except integratorexcept integr perform integr
+step nbstep
+invalid deriv recomput
+interpol shift
+stage behaviour success step
+evalu save fsal method
+interpol rki
+evalu reus step cost
+integr link
+step laststep step nbstep
+as1 as2 ass
+loop
+pre
+a21
+fsal
+version rung kutta integr rungekuttaintegr java 39z luc
+step size stepsiz step start stepstart step nbstep
+doubl string tostr math ab
+interpol store time storetim
+gill integr gillintegr
+interpol store time storetim step start stepstart step size stepsiz
+string
+sum dot ydotk
+system arraycopi length
+interpol dummi step interpol dummystepinterpol tmp ytmp forward
+integ string tostr equat dimens getdimens
+saniti check sanitycheck equat
+integ string tostr length
+underli user function trigger
+integr except integratorexcept dimens mismatch od problem dimens
+handler reset
+integr except integratorexcept small integr interv length
+common part fix step rung kutta
+classic rung kutta integr classicalrungekuttaintegr
+step nbstep math max math ab math round step
+step nbstep math max math ab math round current currentt step
+time firsttim
+equat comput deriv computederiv current currentt dot ydotk
+current currentt step nbstep
+equat comput deriv computederiv current currentt tmp ytmp dot ydotk
+current currentt
+step nbstep math max math ab math round step start stepstart step
+method mean evalu deriv
+param placehold put state vector success

@@ -1,0 +1,68 @@
+code decompos ludecompos code recomput decomposit
+solut invers
+col luicol col
+decompost perform need support oper
+lui
+row nrowb col ncolb
+matrix solut vector
+decomposit support linear system
+row prow permut row
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+decomposit perform need support oper
+data modifi refer underli arrai obtain
+row bprow col entri getentri permut row col
+org apach common math linear
+col col ncol col col
+bpi col bpcol col luicol
+invers
+col bpcol col
+bpi
+real matrix impl realmatriximpl mat outmat real matrix impl realmatriximpl
+code code
+version revis date
+discard explicitli invok
+col col col
+base code entri getentri code
+method
+row dimens getrowdimens row dimens getrowdimens
+mat outmat
+col bpcol diag ludiag
+appli permut
+row bprow col entri getentri row prow col
+invalid matrix except invalidmatrixexcept matrix singular
+decomposit cach reus subsequ call
+real matrix impl realmatriximpl
+return matrix column solut vector linear system
+invalid matrix except invalidmatrixexcept matrix squar singular
+real matrix impl realmatriximpl real matrix realmatrix serializ
+link real matrix realmatrix matrix element index
+bpi col lui col
+col col
+illeg argument except illegalargumentexcept row dimens rowdimens row dimens
+squar issquar
+col col col ncolb col
+solv
+real matrix realmatrix solv real matrix realmatrix illeg argument except illegalargumentexcept invalid matrix except invalidmatrixexcept
+col ncol column dimens getcolumndimens
+param matrix constant vector form rh linear system
+diag ludiag col col
+row bprow row
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+col col col ncol col
+illeg argument except illegalargumentexcept incorrect row dimens
+return element row column matrix
+col ncolb
+decompost support linear system
+href http www math gatech bourbaki math2601 web note 2num pdf
+row nrowb row dimens getrowdimens
+coeffici matrix constant vector column
+row row row nrowb row
+col col ncol
+col ncolb column dimens getcolumndimens
+row col entri getentri permut row col
+col
+invalid matrix except invalidmatrixexcept coeffici matrix squar
+singular issingular side effect comput decomp

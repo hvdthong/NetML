@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+jvm spec 2ed
+resolv member resolvedmemb lookup field lookupfield member
+lookup member lookupmemb field getfield

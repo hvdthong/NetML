@@ -1,0 +1,13 @@
+creat instanc
+param diag diagon coeffici linear oper
+org apach common math3 linear
+perform
+jacobi precondition jacobiprecondition diag deep
+precondit
+jacobi precondition jacobiprecondition real linear oper reallinearoper
+diag arrai real vector arrayrealvector diag deep
+matrix precondition
+version
+diag hellip
+standard jacobi diagon precondition
+param deep code deep copi arrai

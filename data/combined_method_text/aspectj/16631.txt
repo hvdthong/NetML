@@ -1,0 +1,46 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+express convert org aspectj org eclips jdt intern compil ast qualifi alloc express qualifiedallocationexpress alloc
+class instanc creation classinstancecr class instanc creation classinstancecr class instanc creation classinstancecr ast
+alloc enclos instanc enclosinginst
+class instanc creation classinstancecr set express setexpress convert alloc enclos instanc enclosinginst
+ast api level apilevel
+ast jls2 intern jls2 intern
+class instanc creation classinstancecr intern set internalsetnam convert alloc type
+ast jls3
+class instanc creation classinstancecr set type settyp convert type converttyp alloc type
+org aspectj org eclips jdt intern compil ast express argument alloc argument
+argument
+length argument length
+length
+express argument convert argument
+resolv bind resolvebind
+record node recordnod argument argument
+class instanc creation classinstancecr argument add argument
+alloc type argument typeargu
+ast api level apilevel
+ast jls2 intern jls2 intern
+class instanc creation classinstancecr set flag setflag class instanc creation classinstancecr flag getflag ast node astnod malform
+ast jls3
+max alloc type argument typeargu length max
+class instanc creation classinstancecr type argument typeargu add convert type converttyp alloc type argument typeargu
+alloc anonym type anonymoustyp
+declar sourc start declarationsourcestart alloc sourc start sourcestart
+class instanc creation classinstancecr set sourc rang setsourcerang declar sourc start declarationsourcestart alloc anonym type anonymoustyp bodi end bodyend declar sourc start declarationsourcestart
+anonym class declar anonymousclassdeclar anonym class declar anonymousclassdeclar anonym class declar anonymousclassdeclar ast
+start retriev start block posit retrievestartblockposit alloc anonym type anonymoustyp sourc end sourceend alloc anonym type anonymoustyp bodi end bodyend
+anonym class declar anonymousclassdeclar set sourc rang setsourcerang start alloc anonym type anonymoustyp bodi end bodyend start
+class instanc creation classinstancecr set anonym class declar setanonymousclassdeclar anonym class declar anonymousclassdeclar
+build bodi declar buildbodydeclar alloc anonym type anonymoustyp anonym class declar anonymousclassdeclar
+resolv bind resolvebind
+record node recordnod class instanc creation classinstancecr alloc anonym type anonymoustyp
+record node recordnod anonym class declar anonymousclassdeclar alloc anonym type anonymoustyp
+anonym class declar anonymousclassdeclar resolv bind resolvebind
+class instanc creation classinstancecr
+start alloc sourc start sourcestart
+class instanc creation classinstancecr set sourc rang setsourcerang start alloc sourc end sourceend start
+resolv bind resolvebind
+record node recordnod class instanc creation classinstancecr alloc
+remov trail comment express end paren removetrailingcommentfromexpressionendingwithaparen class instanc creation classinstancecr
+class instanc creation classinstancecr

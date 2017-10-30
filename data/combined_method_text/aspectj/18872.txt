@@ -1,0 +1,4 @@
+org aspectj weaver
+int map intmap
+member advic signatur getadvicesignatur
+enclos advic enclosingadvic advic advic enclos advic enclosingadvic signatur getsignatur

@@ -1,0 +1,21 @@
+author stephen colebourn
+param start start instant
+immut time period repres number week
+code divid dividedbi code
+type safe repres number week applic
+param end end instant
+creat code week code repres number week
+code week getweek code basic mathemat oper provid
+code code code minu code code multipli multipliedbi code
+store year month hour
+code week code immut period store week
+period week
+week base singl field period basesinglefieldperiod
+amount base singl field period basesinglefieldperiod start end durat field type durationfieldtyp week
+code week code thread safe immut
+illeg argument except illegalargumentexcept instant invalid
+number week set constructor queri
+datetim
+org joda time
+week week weeksbetween readabl instant readableinst start readabl instant readableinst end
+week week amount

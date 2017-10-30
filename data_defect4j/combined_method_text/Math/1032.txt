@@ -1,0 +1,20 @@
+differenti univari real solver differentiableunivariaterealsolv
+code solv method root function
+exist interv code epsilon code epsilon
+param func type function solv
+interfac univari real rootfind algorithm
+absolut accuraci solver code return
+solver accur toler epsilon
+implement search interv
+librari regular user reli specif interfac
+univari real solver univariaterealsolv
+polynomi solver polynomialsolv
+version
+absolut accuraci getabsoluteaccuraci
+version revis date
+intend apach common math
+absolut accuraci
+absolut accuraci solver solut return
+org apach common math analysi solver
+base univari real solver baseunivariaterealsolv func univari real function univariaterealfunct
+link univari real solver univariaterealsolv link polynomi solver polynomialsolv link

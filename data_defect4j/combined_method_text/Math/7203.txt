@@ -1,0 +1,12 @@
+optim algorithm find input point set link goal type goaltyp
+set max evalu setmaxevalu max evalu maxevalu
+set maxim number function evalu
+repres optim algorithm link multivari real function multivariaterealfunct
+multivari real optim multivariaterealoptim
+org apach common math optim
+param max evalu maxevalu maxim number function evalu
+version revis date
+scalar object function
+maxim minim object function
+differenti multivari vectori optim differentiablemultivariatevectorialoptim
+differenti multivari real optim differentiablemultivariaterealoptim

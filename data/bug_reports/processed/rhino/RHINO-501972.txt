@@ -1,0 +1,6 @@
+parsefloat correctly trim leading white spaces
+user agent mozilla x11 linux i686 gecko ubuntu jaunty firefox
+build identifier
+ecma spec parsefloat trim leading spaces instance returns nan
+parsefloat
+reproducible

@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener type type method generatepertypewithingetwithintypenamemethod class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+code
+code
+stack local arg size
+aload
+getfield field ajc withintyp ljava lang string
+areturn
+gener method generatemethod class file classfil ajc member maker ajcmembermak type type method pertypewithingetwithintypenamemethod world bind frombind bind world world getworld java5 mode isinjava5mod
+bodi gener bodygener
+gener code stream codestream code stream codestream
+except label exceptionlabel exc except label exceptionlabel code stream codestream world make type bind maketypebind unresolv type unresolvedtyp java lang except java lang except
+exc place start placestart
+code stream codestream aload
+code stream codestream getfield world make field bind makefieldbind ajc member maker ajcmembermak type type field pertypewithinwithintypefield type typex type typex
+code stream codestream areturn

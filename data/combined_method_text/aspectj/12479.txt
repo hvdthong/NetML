@@ -1,0 +1,9 @@
+org aspectj apach bcel classfil
+attribut exist local
+anonym class
+enclos method enclosingmethod attribut
+constant type constantnameandtyp enclos method getenclosingmethod
+method index methodindex
+constant type constantnameandtyp nat
+constant type constantnameandtyp constant pool constant getconst method index methodindex constant constant type constant nameandtyp
+nat

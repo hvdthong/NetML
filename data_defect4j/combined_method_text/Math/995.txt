@@ -1,0 +1,15 @@
+param upper upper endpoint
+param func type function solv
+version
+solver
+upper
+org apach common math except number larg except numberistoolargeexcept
+param lower lower endpoint
+check endpoint interv
+provid implement function gener
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+code lower upper
+verifi interv verifyinterv lower
+org apach common math analysi solver
+univari real solver util univariaterealsolverutil verifi interv verifyinterv lower upper
+version revis date wed nov

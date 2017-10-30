@@ -1,0 +1,23 @@
+org aspectj apach bcel gener
+templat class build method defin except
+handler ad thrown except local variabl attribut
+localvariabletable' linenumbertable' attribut set
+automat code stripattribut
+gener code insert nop oper
+removenops' method rid
+result method object obtain getmethod method
+version methodgen java aclement exp
+author href mailto marku dahm berlin dahm
+author href http www vmeng beard patrick beard setmaxstack
+instructionlist
+method
+method gen methodgen field gen method gen fieldgenormethodgen
+return exceptions' attribut except thrown method
+except tabl exceptiont except tabl getexceptiont constant pool gen constantpoolgen
+size throw vec size
+size
+size
+add class addclass string throw vec
+arrai index bound except arrayindexoutofboundsexcept
+except tabl exceptiont add utf8 addutf8 except
+size constant pool getconstantpool

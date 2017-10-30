@@ -1,0 +1,10 @@
+kei map access matrix element
+param row row index matrix element
+org apach common math linear
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+comput kei computekei row column
+comput kei access matrix element
+row column dimens columndimens column
+spars matrix implement base open address map
+version revis date
+param column column index matrix element

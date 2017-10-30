@@ -1,0 +1,23 @@
+higham hall54 integr highamhall54integr embed rung kutta integr embeddedrungekuttaintegr
+smaller
+param vec absolut toler vecabsolutetoler allow absolut error
+simpl constructor
+method static static static higham hall54 step interpol highamhall54stepinterpol
+integr direct forward backward step
+comput high order formula stepsiz control
+org apach common math3 od nonstiff
+version
+vec absolut toler vecabsolutetoler
+param vec rel toler vecrelativetoler allow rel error
+higham hall integr
+param min step minstep minim step sign irrelev
+build order higham hall integr step bound
+vec rel toler vecrelativetoler
+ordinari differenti equat
+automat step initi continu output
+min step minstep max step maxstep vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler
+integr embed rung kutta integr
+method function evalu step
+higham hall54 integr highamhall54integr min step minstep max step maxstep
+param max step maxstep maxim step sign irrelev
+order local extrapol mode solut

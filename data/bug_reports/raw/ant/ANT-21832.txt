@@ -1,0 +1,9 @@
+sync task to ignore destination files
+Using <fileset>, source files and directories can be excluded from the sync. 
+However, it would be very useful to ignore files and directories from the
+destination.
+
+For example, I have a subdirectory 'xdocs' in my destination directory that has
+lots of files in it and my source directory doesn't have 'xdocs'.  When I do a
+<sync>, 'xdocs' is deleted.  I want to ignore 'xdocs' and just synchronize
+everything else.

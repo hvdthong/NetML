@@ -1,0 +1,9 @@
+Add option to allow setting... read only properties
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Build Identifier: 
+
+Properties defined as read only (with only a GetterSlot) could be set without problem until Rhino 1.7R2 and we used this feature in HtmlUnit.
+
+Since 1.7R2 an exception is thrown in such a case what breaks our code. Attached patch adds a new Context feature allowing to have this "feature" again
+
+Reproducible: Always

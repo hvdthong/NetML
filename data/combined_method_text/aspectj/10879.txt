@@ -1,0 +1,28 @@
+org aspectj ajd swing
+automat updat build configur file lst
+project configur chang
+author mik kersten
+updat configur dialog updateconfigurationdialog frame jframe
+updat configur dialog updateconfigurationdialog vector file updat filestoupd vector build config file buildconfigfil add configur addtoconfigur compon parent compon parentcompon
+buildconfigfil buildconfigfil
+filestoupd filestoupd
+addtoconfigur addtoconfigur
+updat file list updatedfileslist set list data setlistdata file updat filestoupd
+string action remov
+add configur addtoconfigur action ad
+message1 file action project affect build configur
+message2 list build configur list updat automat
+buildconfiglist setcellrender checklistcellrender
+checklisten listen checklisten buildconfiglist
+build config list buildconfiglist set list data setlistdata build config file buildconfigfil
+init jbinit
+layout dolayout
+set titl settitl build configur updat
+set size setsiz
+center
+po posx parent compon parentcompon getx int posx parentcompon getx parentcompon getwidth
+po posi parent compon parentcompon geti int posi parentcompon geti parentcompon getheight
+set locat setloc po posx po posi
+except
+messag msg messag open configur dialog messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

@@ -1,0 +1,21 @@
+org aspectj weaver pattern
+pattern parser patternpars
+map pars annot valu parseannotationvalu public map string string parseannotationvalu
+map valu hash map hashmap
+default seendefaultvalu
+string kei string possiblekeystr pars annot pattern parseannotationnamevaluepattern
+kei string possiblekeystr
+parser except parserexcept expect simpl liter token sourc tokensourc peek
+singl entri 'v' keyvalu pair
+eat maybeeat
+kei
+string string valuestr pars annot pattern parseannotationnamevaluepattern
+string valuestr
+parser except parserexcept expect simpl liter token sourc tokensourc peek
+valu put kei string possiblekeystr string valuestr
+default seendefaultvalu
+parser except parserexcept default valu token sourc tokensourc peek
+default seendefaultvalu
+valu put kei string possiblekeystr
+eat maybeeat maybeeat whilst
+valu

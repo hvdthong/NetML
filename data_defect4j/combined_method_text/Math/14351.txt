@@ -1,0 +1,25 @@
+param arrai current main state vector
+org apach common math3 od
+main state vector
+string param paramnam dfdp
+math illeg argument except mathillegalargumentexcept paramet support
+except max count exceed except maxcountexceededexcept number function evalu exceed
+paramet belong collect return
+interfac comput jacobian matrix paramet
+link paramet name getparametersnam jacobian set
+math illeg argument except mathillegalargumentexcept
+version
+except unknown paramet except unknownparameterexcept paramet support
+comput jacobian matrix od respect paramet
+dimens mismatch except dimensionmismatchexcept max count exceed except maxcountexceededexcept unknown paramet except unknownparameterexcept
+param param paramnam paramet
+param dfdp placehold arrai put jacobian matrix
+param dot ydot arrai current time deriv
+od respect paramet
+comput link jacobian matric jacobianmatric partial deriv equat
+paramet jacobian provid parameterjacobianprovid parameteriz
+comput paramet jacobian computeparameterjacobian dot ydot
+paramet link paramet name getparametersnam
+except dimens mismatch except dimensionmismatchexcept arrai dimens match equat set
+error trigger
+param current independ time variabl

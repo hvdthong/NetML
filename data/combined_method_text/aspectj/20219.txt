@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+method argument methodargu string index stack indexonstack
+index stack indexonstack index stack indexonstack

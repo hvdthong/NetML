@@ -1,0 +1,51 @@
+org aspectj apach bcel util
+class take javaclass object convert
+java program creat class bcel
+user bcel show thing
+bcel cover featur bcel
+mimic hand written code close
+version bcelifi java aclement exp
+author href mailto marku dahm berlin dahm
+bce lifier bcelifi org aspectj apach bcel classfil empti visitor emptyvisitor
+visit java class visitjavaclass java class javaclass clazz
+string class clazz class getclassnam
+string super clazz superclass getsuperclassnam
+string packag clazz packag getpackagenam
+string inter util print arrai printarrai clazz interfac name getinterfacenam
+equal packag
+class class substr packag length
+println packag packag
+println import org aspectj apach bcel gener
+println import org aspectj apach bcel classfil
+println import org aspectj apach bcel
+println import java
+println public class class creator implement constant
+println privat instructionfactori factori
+println privat constantpoolgen
+println privat classgen
+println public class creator
+println classgen
+equal packag class
+packag class
+super
+clazz sourc file getsourcefilenam
+print flag printflag clazz access flag getaccessflag
+string inter
+println getconstantpool
+println factori instructionfactori
+println
+print creat printcreat
+field field clazz field getfield
+field length
+println privat void createfield
+println fieldgen field
+field length
+field accept
+println
+method method clazz method getmethod
+method length
+println privat void createmethod
+method accept
+println
+print main printmain
+println

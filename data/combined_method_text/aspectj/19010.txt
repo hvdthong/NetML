@@ -1,0 +1,6 @@
+org aspectj weaver
+lint messag lintmessag messag
+lint messag lintmessag string messag string extra detail extradetail org aspectj weaver lint kind kind2 kind kind sourc locat isourceloc sourc locat sourceloc throwabl object
+sourc locat isourceloc locat seealsoloc declar sourc start sourcestart sourc end sourceend
+messag extra detail extradetail kind sourc locat sourceloc object locat seealsoloc declar sourc start sourcestart sourc end sourceend
+lint kind lintkind kind2 getnam

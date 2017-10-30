@@ -1,0 +1,8 @@
+param dimens simplex
+org apach common math3 optim nonlinear scalar noderiv
+version
+multi direct simplex multidirectionalsimplex
+valu khi gamma
+multi direct direct search method
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+build multi direct simplex coeffici

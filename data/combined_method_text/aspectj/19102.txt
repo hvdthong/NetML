@@ -1,0 +1,10 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+walk walkup collect acc resolv type resolvedtyp curr
+acc curr
+iter curr direct supertyp getdirectsupertyp hasnext
+walk walkup acc resolv type resolvedtyp
+curr parameter type isparameterizedtyp
+walk walkup acc curr gener type getgenerictyp
+curr lookup member super lookupmembernosup
+acc add curr

@@ -1,0 +1,61 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return true overrid legal
+note call showmessag locat issu messag messag
+addit sourc locat
+check legal overrid checklegaloverrid resolv member resolvedmemb parent resolv member resolvedmemb child
+system err println check child getdeclaringtyp overrid parent getdeclaringtyp
+modifi final isfin parent modifi getmodifi
+world show messag showmessag messag error
+weaver messag weavermessag format weaver messag weavermessag overrid final member overrid final member parent
+child sourc locat getsourceloc
+incompat return type incompatiblereturntyp
+mode covari return type
+world java5 mode isinjava5mod parent kind getkind member method
+gener type comparison
+resolv type resolvedtyp parent return type rtparentreturntyp parent gener return type getgenericreturntyp resolv world
+resolv type resolvedtyp child return type rtchildreturntyp child gener return type getgenericreturntyp resolv world
+incompat return type incompatiblereturntyp parent return type rtparentreturntyp assign isassignablefrom child return type rtchildreturntyp
+incompat return type incompatiblereturntyp
+incompat return type incompatiblereturntyp parent return type rtparentreturntyp assign isassignablefrom child return type rtchildreturntyp
+incompat return type incompatiblereturntyp parent return type getreturntyp equal child return type getreturntyp
+incompat return type incompatiblereturntyp
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag itd return type mismatch itd return type mismatch parent child
+child sourc locat getsourceloc parent sourc locat getsourceloc
+parent kind getkind member pointcut
+unresolv type unresolvedtyp type ptype parent paramet type getparametertyp
+unresolv type unresolvedtyp type ctype child paramet type getparametertyp
+arrai equal type ptype type ctype
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag itd param type mismatch itd param type mismatch parent child
+child sourc locat getsourceloc parent sourc locat getsourceloc
+system err println check child getmodifi visibl parent getmodifi
+visibl ismorevis parent modifi getmodifi child modifi getmodifi
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag itd visibl reduct itd visibl reduct parent child
+child sourc locat getsourceloc parent sourc locat getsourceloc
+check declar except
+resolv type resolvedtyp child except childexcept world resolv child except getexcept
+resolv type resolvedtyp parent except parentexcept world resolv parent except getexcept
+resolv type resolvedtyp runtim except runtimeexcept world resolv java lang runtimeexcept
+resolv type resolvedtyp error world resolv java lang error
+outer
+leni child except childexcept length leni
+system err println check childexcept
+runtim except runtimeexcept assign isassignablefrom child except childexcept
+error assign isassignablefrom child except childexcept
+lenj parent except parentexcept length lenj
+parent except parentexcept assign isassignablefrom child except childexcept outer
+messag handl methodverifi jdt core
+world showmessag imessag error
+weavermessag format weavermessag itd doesnt throw childexcept getnam
+child getsourceloc null
+parent static isstat child static isstat
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag itd overridden static itd overridden static child parent
+child sourc locat getsourceloc
+child static isstat parent static isstat
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag itd overid static itd overid static child parent
+child sourc locat getsourceloc

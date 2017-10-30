@@ -1,0 +1,77 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+delet dup deletenewanddup
+constant pool gen constantpoolgen cpg enclos class getenclosingclass constant pool gen getconstantpoolgen
+depth
+instruct handl instructionhandl rang start getstart
+back 'new' take stack depth invokespeci init
+instruct inst instruct getinstruct
+inst invokespeci
+invokespeci inst getnam cpg equal init
+depth
+inst
+depth
+depth
+inst dup dup
+code wild brad
+class java lang stringbuff
+stack stringbuff
+dup
+stack stringbuff stringbuff
+aload
+stack stringbuff stringbuff
+dup
+stack stringbuff stringbuff
+getfield field ljava lang string
+stack stringbuff stringbuff string
+invokestat method java lang string valueof ljava lang object ljava lang string
+stack stringbuff stringbuff string
+invokespeci method java lang stringbuff init ljava lang string
+stack stringbuff
+aload
+stack stringbuff local1
+invokevirtu method java lang stringbuff append ljava lang string ljava lang stringbuff
+stack stringbuff
+invokevirtu method java lang stringbuff tostr ljava lang string
+stack string
+putfield field ljava lang string
+stack empti
+return
+attempt match ctor call stringbuff init troubl
+simpli delet dup pair fix dup dup fail due
+element stack work fix situat chang
+simpl 'dup'
+fix clean gener purpos decent solut longer
+bytecod sequenc wild
+set instruct setinstruct instruct constant instructionconst dup
+prev getprev
+point dup
+actual instruct care
+instruct handl instructionhandl handl newhandl
+instruct handl instructionhandl end handl endhandl handl newhandl getnext
+instruct handl instructionhandl handl nexthandl
+end handl endhandl instruct getinstruct dup
+handl nexthandl end handl endhandl getnext
+retarget retargetfrom handl newhandl handl nexthandl
+retarget retargetfrom end handl endhandl handl nexthandl
+end handl endhandl instruct getinstruct dup dup
+instruct handl instructionhandl dup handl duphandl end handl endhandl
+end handl endhandl end handl endhandl getnext
+handl nexthandl end handl endhandl getnext
+end handl endhandl instruct getinstruct swap
+xxx xxx comment
+runtim except runtimeexcept unhandl kind end handl endhandl
+make jump 'new' 'dup' 'end' target nexthandl
+retarget retargetfrom handl newhandl handl nexthandl
+retarget retargetfrom dup handl duphandl handl nexthandl
+retarget retargetfrom end handl endhandl handl nexthandl
+end handl endhandl handl newhandl
+handl nexthandl end handl endhandl getnext
+retarget retargetfrom handl newhandl handl nexthandl
+add pop found dup
+statement context
+rang getrang insert instruct constant instructionconst pop rang outsideaft
+assert duphandl getinstruct instanceof dup
+rang bodi getbodi delet handl newhandl end handl endhandl
+target lost except targetlostexcept
+except bcexcept happen

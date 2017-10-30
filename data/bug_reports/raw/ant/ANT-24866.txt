@@ -1,0 +1,16 @@
+java.io.FileNotFoundException in <style>
+When I using <style> task to transform xml ant throws FileNotFoundException.
+at org.apache.tools.ant.taskdefs.XSLTProcess.process(XSLTProcess.java:497)
+at org.apache.tools.ant.taskdefs.XSLTProcess.execute(XSLTProcess.java:267)
+...
+The problem is with path names, when basedir (of style task) contains subdirectories
+It occurs if I don't use the includes attribute or use it with **/*. or **/*.*
+but not if **/*.ext (fortunatelly)
+It does not occur if basedir of task contains no directory.
+An example 
+If I have basedir/subdir/foo.xml it reports basedir/foo.xml not found
+so subdir dissappears, as I find out from sources.
+Hope it helps.
+
+
+Franc,ois

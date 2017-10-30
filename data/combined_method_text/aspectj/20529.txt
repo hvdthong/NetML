@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener type method generatepertwgetwithintypenamemethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak type type method pertypewithingetwithintypenamemethod aspect type aspecttyp class gen classgen world getworld java5 mode isinjava5mod
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+aload
+getfield field ajc withintyp ljava lang string
+areturn
+instruct list instructionlist method bodi getbodi
+append instruct constant instructionconst aload
+append util creat createget factori ajc member maker ajcmembermak type type field pertypewithinwithintypefield aspect type aspecttyp aspect type aspecttyp
+append instruct constant instructionconst areturn

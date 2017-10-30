@@ -1,0 +1,18 @@
+repres region set polygon
+vertex split vertex splitvertex vertex line intersect split line splitlin
+split vertex incom outgo edg halv
+param split line splitlin line split edg halv
+edg start half starthalf edg start split vertex splitvertex line
+start half starthalf node node
+split vertex splitvertex bind bindwith split line splitlin
+replac half edg intermedi split
+split vertex splitvertex
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+edg end half endhalf edg split vertex splitvertex end line
+split edg referenc anymor vertic
+end half endhalf node node
+vertex split line split line splitlin
+org apach common math3 geometri euclidean twod
+vertex introduc connect halv
+split edg

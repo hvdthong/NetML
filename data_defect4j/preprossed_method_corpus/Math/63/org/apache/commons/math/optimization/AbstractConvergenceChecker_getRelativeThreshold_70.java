@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math optim
+
+
+
+
+base converg checker implement
+
+version revis date
+
+
+abstract converg checker abstractconvergencecheck
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inherit doc inheritdoc
+
+rel threshold getrelativethreshold
+rel threshold relativethreshold
+
+
+
+
+
+
+
+
+
+
+
+
+
+

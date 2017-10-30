@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+referencepointcut dom ast node
+note
+paramet list method invok
+author ajh02
+refer pointcut referencepointcut pointcut design pointcutdesign
+set setnam simpl simplenam pointcut pointcutnam
+pointcut pointcutnam
+illeg argument except illegalargumentexcept
+ast node astnod child oldchild pointcut pointcutnam
+pre replac child prereplacechild child oldchild pointcut pointcutnam properti properti
+pointcut pointcutnam pointcut pointcutnam
+post replac child postreplacechild child oldchild pointcut pointcutnam properti properti

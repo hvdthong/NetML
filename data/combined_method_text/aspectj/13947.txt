@@ -1,0 +1,12 @@
+org aspectj apach bcel gener
+abstract super class java byte code
+version instruct java aclement exp
+author href mailto marku dahm berlin dahm
+instruct cloneabl serializ
+method result instruct
+effect stack depend constant pool entri
+refer
+return number word produc stack instruct
+constant unpredict comput static
+produc stack producestack constant pool gen constantpoolgen cpg
+constant produc stack produc stack opcod

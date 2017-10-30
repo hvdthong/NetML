@@ -1,0 +1,17 @@
+org aspectj intern tool ant taskdef
+copi inlin stylesheet copyandinlinestylesheet task
+style sheet dostylesheet string line print stream printstream file file except ioexcept
+src index srcindex line index indexof href
+start quot index startquotindex line index indexof src index srcindex
+end quot index endquotindex line index indexof start quot index startquotindex
+string stylesheet locat stylesheetloc line substr start quot index startquotindex end quot index endquotindex
+file style sheet file stylesheetfil file file parent getpar stylesheet locat stylesheetloc
+println style type text css
+println
+buffer reader bufferedread style instyl buffer reader bufferedread file reader fileread style sheet file stylesheetfil
+string line2 style instyl read line readlin
+line2
+println line2
+style instyl close
+println
+println style

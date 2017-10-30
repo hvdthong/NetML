@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+fmul multipli float
+pre stack value1 value2 result pre
+version fmul java aclement exp
+author href mailto marku dahm berlin dahm
+fmul arithmet instruct arithmeticinstruct
+multipli float
+fmul
+org aspectj apach bcel constant fmul

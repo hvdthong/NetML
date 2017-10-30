@@ -1,0 +1,41 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+appli set declar method ctor construct list declareannot bunch
+itdmemb list bceltypemung iter field repeatedli
+appli
+weav method itd repeatedli weaveatmethodonitdsrepeatedli list deca decamc list itd method ctor itdmethodsctor list report error reportederror
+chang ischang
+iter iter itd method ctor itdmethodsctor iter iter hasnext
+bcel type munger bceltypemung methodctor munger methodctormung bcel type munger bceltypemung iter
+resolv member resolvedmemb mangl inter method unmangledintermethod methodctor munger methodctormung signatur getsignatur
+list worth retri worthretri arrai list arraylist
+modif occur modificationoccur
+iter iter2 deca decamc iter iter2 hasnext
+declar annot declareannot deca decamc declar annot declareannot iter2
+deca decamc match mangl inter method unmangledintermethod world
+lazi method gen lazymethodgen annot holder annotationhold locat annot holder method ctor munger locateannotationholderformethodctormung clazz methodctor munger methodctormung
+annot holder annotationhold annot doesalreadyhaveannot annot holder annotationhold mangl inter method unmangledintermethod deca decamc report error reportederror
+continu skip
+annot holder annotationhold add annot addannot deca decamc annot getannotationx
+chang ischang
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decamc sourc locat getsourceloc mangl inter method unmangledintermethod sourc locat getsourceloc
+report method ctor weav messag reportmethodctorweavingmessag clazz mangl inter method unmangledintermethod deca decamc
+modif occur modificationoccur
+deca decamc star annot pattern isstarredannotationpattern
+worth retri worthretri add deca decamc worthretri add decamc annot put subsequ decaf
+worth retri worthretri empti isempti modif occur modificationoccur
+modif occur modificationoccur
+list remov forremov arrai list arraylist
+iter iter2 worth retri worthretri iter iter2 hasnext
+declar annot declareannot deca decamc declar annot declareannot iter2
+deca decamc match mangl inter method unmangledintermethod world
+lazi method gen lazymethodgen annot holder annotationhold locat annot holder field munger locateannotationholderforfieldmung clazz methodctor munger methodctormung
+annot doesalreadyhaveannot annot holder annotationhold mangl inter method unmangledintermethod deca decamc report error reportederror doesalreadyhaveannot annotationhold unmangledintermethod decamc reportederror continu skip
+annot holder annotationhold add annot addannot deca decamc annot getannotationx
+mangl inter method unmangledintermethod add annot addannot deca decamc annot getannotationx
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decamc sourc locat getsourceloc mangl inter method unmangledintermethod sourc locat getsourceloc
+chang ischang
+modif occur modificationoccur
+remov forremov add deca decamc
+worth retri worthretri remov removeal remov forremov
+chang ischang

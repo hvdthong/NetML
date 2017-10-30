@@ -1,0 +1,19 @@
+deprec remov
+gamma gamma
+refer simplex referencesimplex
+version
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+org apach common math3 except strictli posit except notstrictlypositiveexcept
+multi direct simplex multidirectionalsimplex refer simplex referencesimplex
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+param khi expans coeffici
+org apach common math3 optim direct
+multi direct direct search method
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+refer simplex point
+param refer simplex referencesimplex refer simplex
+khi gamma
+dimens mismatch refer simplex
+khi khi
+build multi direct simplex coeffici

@@ -1,0 +1,8 @@
+org aspectj tool ajbrows core
+build progress monitor show progress dialog
+jprogressbar updat progress bar bottom ajbrows
+build progress inform
+browser build progress monitor browserbuildprogressmonitor thread build progress monitor ibuildprogressmonitor
+set progress text setprogresstext string text
+ajd default getdefault id adapt getideuiadapt displai statu inform displaystatusinform text
+progress dialog progressdialog set progress text setprogresstext text

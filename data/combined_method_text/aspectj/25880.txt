@@ -1,0 +1,13 @@
+org aspectj weaver
+type typex annot element annotatedel
+call process parameter type set raw type typex call subroutin
+handl sort type paramet type
+process signatur processsignatur string sig
+determin raw type
+paramet type start parametertypesstart signatur index indexof
+paramet type end parametertypesend signatur index lastindexof
+string buffer stringbuff raw type rawtypesb string buffer stringbuff
+raw type rawtypesb append signatur substr paramet type start parametertypesstart append
+raw type signatur rawtypesignatur raw type rawtypesb string tostr
+type paramet typeparamet process parameter processparameter signatur paramet type start parametertypesstart paramet type end parametertypesend
+parameter isparameter

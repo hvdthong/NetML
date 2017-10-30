@@ -1,0 +1,29 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+resolv set pointcut resolveandsetpointcut method declar methoddeclar method declar methoddeclar annot advic ann adviceann
+locat pclocat
+string pointcut express pointcutexpress string liter getstringliteralfor pointcut advic ann adviceann locat pclocat
+pointcut express pointcutexpress pointcut express pointcutexpress string liter getstringliteralfor advic ann adviceann locat pclocat
+sourc context isourcecontext context eclips sourc context eclipsesourcecontext unit compil result compilationresult locat pclocat
+pointcut pattern parser patternpars pointcut express pointcutexpress context pars pointcut parsepointcut
+formal bind formalbind bind build formal advic bind buildformaladvicebindingsfrom method declar methoddeclar
+resolv eclips scope eclipsescop bind method declar methoddeclar scope
+eclips factori eclipsefactori factori eclips factori eclipsefactori scope lookup environ fromscopelookupenviron method declar methoddeclar scope
+creat resolvedpointcutdefinit make attribut add method
+unresolv type unresolvedtyp param type paramtyp unresolv type unresolvedtyp bind length
+param type paramtyp length param type paramtyp bind type gettyp
+resolv pointcut definit resolvedpointcutdefinit re pcut def respcutdef
+resolv pointcut definit resolvedpointcutdefinit
+factori bind frombind type declar typedeclar type stack typestack peek bind
+method declar methoddeclar modifi
+anonym
+param type paramtyp
+attribut ajattribut attr attribut ajattribut pointcut declar attribut pointcutdeclarationattribut re pcut def respcutdef
+method declar ajmethoddeclar method declar methoddeclar add attribut addattribut eclips attribut adapt eclipseattributeadapt attr
+parser except parserexcept pex
+method declar methoddeclar scope problem report problemreport pars error parseerror
+locat pclocat pex locat getloc start getstart
+locat pclocat pex locat getloc end getend
+pointcut express pointcutexpress char arrai tochararrai
+pointcut express pointcutexpress
+string pex messag getmessag

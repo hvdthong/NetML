@@ -1,0 +1,22 @@
+org apach lucen index
+store monoton increas set term terminfo pair
+directori terminfo written order
+term info writer terminfoswrit
+write term writeterm field number fieldnumb term byte termbyt term byte length termbyteslength
+except ioexcept
+todo utf16toutf8 prefix
+comput prefix common term
+start
+limit term byte length termbyteslength term byte length lasttermbyteslength term byte length termbyteslength term byte length lasttermbyteslength
+start limit
+term byte termbyt start term byte lasttermbyt start
+start
+length term byte length termbyteslength start
+output write int writevint start output writevint start write share prefix length
+output write int writevint length output writevint length write delta length
+output write byte writebyt term byte termbyt start length output writebyt termbyt start length write delta byte
+output write int writevint field number fieldnumb output writevint fieldnumb write field num
+term byte lasttermbyt length term byte length termbyteslength
+term byte lasttermbyt arrai util arrayutil grow term byte lasttermbyt term byte length termbyteslength
+system arraycopi term byte termbyt start term byte lasttermbyt start length
+term byte length lasttermbyteslength term byte length termbyteslength

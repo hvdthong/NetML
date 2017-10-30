@@ -1,0 +1,16 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+pre
+param optim optim fit
+optim
+construct instanc optim
+fit point link
+usag
+paramet fitter fit
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+version
+org apach common math3 optim fit
+deprec remov
+levenberg marquardt optim levenbergmarquardtoptim
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+fitter add observ point addobservedpoint
+gaussian fitter gaussianfitt differenti multivari vector optim differentiablemultivariatevectoroptim optim

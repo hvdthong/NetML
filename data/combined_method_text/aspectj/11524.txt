@@ -1,0 +1,48 @@
+org aspectj ajdt intern compil lookup
+declar soft
+compil time match case
+target pcd behav correctli
+case
+eclips shadow eclipseshadow shadow
+eclips shadow eclipseshadow make shadow makeshadow eclips factori eclipsefactori world ast node astnod ast node astnod
+refer context referencecontext context
+xxx make correct declar type call site
+ast node astnod alloc express allocationexpress
+alloc express allocationexpress alloc express allocationexpress ast node astnod
+eclips shadow eclipseshadow world shadow constructor call constructorcal
+world make resolv member makeresolvedmemb bind ast node astnod context
+ast node astnod messag send messagesend
+messag send messagesend messag send messagesend ast node astnod
+super access issuperaccess issuperaccess return null super call shadow
+eclips shadow eclipseshadow world shadow method call methodcal
+world make resolv member makeresolvedmemb bind ast node astnod context
+ast node astnod explicit constructor call explicitconstructorcal
+shadow
+ast node astnod abstract method declar abstractmethoddeclar
+abstract method declar abstractmethoddeclar abstract method declar abstractmethoddeclar ast node astnod
+shadow kind kind
+advic declar advicedeclar
+kind shadow advic execut adviceexecut
+inter type method declar intertypemethoddeclar
+eclips shadow eclipseshadow world shadow method execut methodexecut
+inter type declar intertypedeclar signatur getsignatur ast node astnod context
+inter type constructor declar intertypeconstructordeclar
+eclips shadow eclipseshadow world shadow constructor execut constructorexecut
+inter type declar intertypedeclar signatur getsignatur ast node astnod context
+inter type field declar intertypefielddeclar
+method declar methoddeclar
+kind shadow method execut methodexecut
+constructor declar constructordeclar
+kind shadow constructor execut constructorexecut
+clinit
+kind shadow static initi staticiniti
+throw runtimeexcept unimpl
+eclips shadow eclipseshadow world kind
+world make resolv member makeresolvedmemb bind kind ast node astnod context
+ast node astnod type declar typedeclar
+eclips shadow eclipseshadow world shadow static initi staticiniti
+member impl memberimpl member static initi static initi
+world bind frombind type declar typedeclar ast node astnod bind
+resolv type resolvedtyp void clinit unresolv type unresolvedtyp
+ast node astnod context
+throw runtimeexcept unimpl astnod

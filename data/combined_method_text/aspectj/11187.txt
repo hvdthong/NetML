@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil ast
+walk bodi inter type declar replac superrefer intersuperrefer
+author jim hugunin
+inter super fixer visitor intersuperfixervisitor ast visitor astvisitor
+end visit endvisit field refer fieldrefer ref block scope blockscop scope
+ref receiv fix receiv fixreceiv ref receiv scope

@@ -1,0 +1,31 @@
+param dot ydot deriv state vector state vector
+version
+repres handler call
+handl step handlestep dot ydot islast
+success fix step
+instanc call
+step normal stepnorm reus arrai call
+fix time step object implement
+arrai call
+handl accept step
+fix time step
+gener link step handler stephandl integr
+param state vector effici purpos link
+step normal stepnorm
+deriv except derivativeexcept
+org apach common math od sampl
+fix step handler fixedstephandl serializ
+param islast step
+intern algorithm call object implement
+effici purpos link step normal stepnorm reus
+version revis date
+implement interest
+deriv except derivativeexcept error condit encount
+fix step handler fixedstephandl
+link step normal stepnorm object call integr
+param time current step
+step build local copi store copi
+wrap instanc link step normal stepnorm
+solut ordinari differenti equat
+step handler stephandl
+provid end integr complet arrai

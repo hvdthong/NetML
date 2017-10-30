@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math random
+
+
+
+interfac extract code java util random code
+implement link abstract random gener abstractrandomgener
+
+
+version revis date
+
+random gener randomgener
+
+
+
+
+
+
+
+
+
+
+
+gener random byte place user suppli
+arrai number random byte produc equal
+length arrai
+
+param byte arrai put
+random byte
+
+byte nextbyt byte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

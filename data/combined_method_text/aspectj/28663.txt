@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+pointcut notpointcut pointcut
+fuzzi boolean fuzzyboolean fast match fastmatch class target type targettyp
+bodi fast match fastmatch target type targettyp

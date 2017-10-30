@@ -1,0 +1,13 @@
+shape alpha
+modifi shape paramet
+weibul distribut impl weibulldistributionimpl abstract continu distribut abstractcontinuousdistribut
+alpha
+shape posit
+set shape intern setshapeintern alpha
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+link org apach common math distribut weibul distribut weibulldistribut
+param alpha shape paramet
+version revis date
+default implement
+local format localizedformat posit shape
+org apach common math distribut

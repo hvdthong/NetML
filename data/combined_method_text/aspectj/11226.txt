@@ -1,0 +1,8 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+set munger setmung resolv type munger resolvedtypemung munger
+munger signatur getsignatur set posit setposit sourc start sourcestart sourc end sourceend
+munger signatur getsignatur set sourc context setsourcecontext eclips sourc context eclipsesourcecontext compil result compilationresult
+munger munger

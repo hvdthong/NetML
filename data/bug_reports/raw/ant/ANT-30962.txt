@@ -1,0 +1,142 @@
+cvschangelog crashes with NullPointerException
+Hi,
+I try to make cvschangelog running and face a strange problem that nobody else 
+seems to have: cvschangelog crashes with a NullPointerException.
+My task looks like:
+<target name="cvs.changelog">
+        <cvschangelog 
+               dir="somedir" 
+               destfile="changelog.xml"/>
+</target>
+
+The error that I get (with ant 1.5.3 and 1.6.1) looks like (full trace 
+attached at end of file):
+java.lang.NullPointerException
+        at java.util.Calendar.setTime(Calendar.java:902)
+
+Using  plain cvs works:
+cvs log -N -d "11 Aug 2004<31 Aug 2004" somedir
+outputs a correct result (for a full trace, see end of file):
+cvs log: Logging somedir
+...
+...
+So the cvs configuration seems to be ok.
+I tried to add the daysinpast="7" option to only report for one week in the 
+past but it still crashes with a slightly different problem: a 
+NullPointerException in java.util.Date. 
+If I specify a daysinpast="1" so that no entries are generated at all (because 
+there was no change yesterday...), cvschangelog task runs and generates an 
+empty report successfully.
+Could this be caused by an incompatible cvs.exe - optional.jar combination? Or 
+may the cvs-server version (1.12.7) be incompatible with ant 1.5.3 
+optional.jar? I also tried combinations with ant 1.6.1 optional.jar ... but 
+did result in the same error.
+The cvs.exe that is in my path belongs to wincvs1.3 and reports version 
+2.0.41a.
+I'm working on winxp sp2.
+
+Any ideas what the problem could be? I hardly can't believe that it is a bug 
+in ant, but I just don’t find any solution.
+
+Best Regards
+Benno
+
+
+==================== CVS OUTPUT ===============
+cvs log: Logging src/de/traleon/vsd/gui/variants
+
+RCS file: /cvs/bel/vsd/src/de/traleon/vsd/gui/variants/DocumentDiagram.gif,v
+Working file: src/de/traleon/vsd/gui/variants/DocumentDiagram.gif
+head: 1.4
+branch:
+locks: strict
+access list:
+keyword substitution: b
+total revisions: 4;     selected revisions: 0
+description:
+=============================================================================
+
+RCS file: /cvs/bel/vsd/src/de/traleon/vsd/gui/variants/Gearwheel.gif,v
+Working file: src/de/traleon/vsd/gui/variants/Gearwheel.gif
+head: 1.4
+branch:
+locks: strict
+access list:
+keyword substitution: b
+total revisions: 4;     selected revisions: 0
+description:
+=============================================================================
+
+RCS 
+file: /cvs/bel/vsd/src/de/traleon/vsd/gui/variants/JPanelProductSelector.java,v
+Working file: src/de/traleon/vsd/gui/variants/JPanelProductSelector.java
+head: 1.45
+branch:
+locks: strict
+access list:
+keyword substitution: kv
+total revisions: 45;    selected revisions: 3
+description:
+----------------------------
+revision 1.45
+date: 2004-08-27 09:28:18 +0000;  author: sgb;  state: Exp;  lines: +13 -0
+Fixed bug 00050, NullPointerEx in JpanelSpeicherKante.beforeDeletion
+----------------------------
+revision 1.44
+date: 2004-08-14 06:48:27 +0000;  author: bel;  state: Exp;  lines: +22 -5
+disabling functions according to license settings
+----------------------------
+revision 1.43
+date: 2004-08-12 18:21:05 +0000;  author: arr;  state: Exp;  lines: +4 -4
+Sim Menu Item up one level
+Export Menu Item removed
+PluginsPanel resizing corrected
+register for changed notifications now with 3 levels
+timline diagramm shows calculated static dlz
+=============================================================================
+
+RCS 
+file: /cvs/bel/vsd/src/de/traleon/vsd/gui/variants/JSpinnerVariantValue.java,v
+Working file: src/de/traleon/vsd/gui/variants/JSpinnerVariantValue.java
+head: 1.8
+branch:
+locks: strict
+access list:
+keyword substitution: kv
+total revisions: 8;     selected revisions: 0
+description:
+
+
+==================== ANT TRACE ================
+(enabling verbose does not bring more infos)
+
+C:\projects\vsd>ant cvs.changelog
+Buildfile: build.xml
+
+cvs.changelog:
+[cvschangelog] cvs log: Logging .
+
+BUILD FAILED
+java.lang.NullPointerException
+        at java.util.Calendar.setTime(Calendar.java:902)
+        at java.text.SimpleDateFormat.format(SimpleDateFormat.java:782)
+        at java.text.SimpleDateFormat.format(SimpleDateFormat.java:775)
+        at java.text.DateFormat.format(DateFormat.java:314)
+        at org.apache.tools.ant.taskdefs.cvslib.ChangeLogWriter.printEntry
+(ChangeLogWriter.java:110)
+        at org.apache.tools.ant.taskdefs.cvslib.ChangeLogWriter.printChangeLog
+(ChangeLogWriter.java:94)
+        at org.apache.tools.ant.taskdefs.cvslib.ChangeLogTask.writeChangeLog
+(ChangeLogTask.java:423)
+        at org.apache.tools.ant.taskdefs.cvslib.ChangeLogTask.execute
+(ChangeLogTask.java:307)
+        at org.apache.tools.ant.Task.perform(Task.java:341)
+        at org.apache.tools.ant.Target.execute(Target.java:309)
+        at org.apache.tools.ant.Target.performTasks(Target.java:336)
+        at org.apache.tools.ant.Project.executeTarget(Project.java:1339)
+        at org.apache.tools.ant.Project.executeTargets(Project.java:1255)
+        at org.apache.tools.ant.Main.runBuild(Main.java:609)
+        at org.apache.tools.ant.Main.start(Main.java:196)
+        at org.apache.tools.ant.Main.main(Main.java:235)
+
+Total time: 3 seconds

@@ -1,0 +1,83 @@
+getprop
+ltype ltype ltype ltype ltype
+getlastchild
+shne
+optfunctionnod
+getelem
+org
+number number number number number
+lsh
+hook
+arraylit
+boolean
+comma
+result result result result
+sheq
+rsh
+bitor
+find find find find find find find find
+gettyp
+getnext getnext getnext getnext
+index
+null
+objectlit
+iffalsetyp iffalsetyp
+typeofnam
+neg
+setnam
+setprop
+bitnot
+lh
+delprop
+ursh
+fals fals fals fals fals
+add
+nyi nyi nyi
+call call call
+var var var var var var var var var var
+mul
+type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type
+po
+function
+javascript
+return return
+string string string string
+optim optim optim optim optim optim optim optim optim optim optim
+void
+mozilla
+notyp
+express express express express express express express express
+setvar
+bitand
+vartyp vartyp vartyp vartyp vartyp vartyp vartyp vartyp vartyp
+getfirstchild getfirstchild getfirstchild
+bitxor
+child child child child child child child child child child child
+distinguish
+getvar
+arraycomp
+true true true true true true
+mod
+instanceof
+iftru iftru iftru
+node node node node node node
+findexpressiontyp findexpressiontyp findexpressiontyp findexpressiontyp findexpressiontyp findexpressiontyp findexpressiontyp findexpressiontyp
+opt
+ref ref ref ref
+regexp
+numbertyp numbertyp
+iffals iffals
+setelem
+anytyp anytyp anytyp anytyp anytyp anytyp anytyp anytyp
+rh
+token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token
+del del
+typeof
+iftruetyp iftruetyp
+undefin
+div
+dec
+xxx
+getvarindex
+block
+rtype rtype rtype rtype rtype

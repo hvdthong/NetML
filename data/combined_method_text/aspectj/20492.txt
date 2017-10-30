@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+annot runtim retent isannotationwithruntimeretent
+retent polici getretentionpolici retent polici getretentionpolici equal runtim

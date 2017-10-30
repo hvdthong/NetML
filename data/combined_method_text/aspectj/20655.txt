@@ -1,0 +1,28 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+make shadow except handler make empti shadow
+advic woven
+bcel shadow bcelshadow make except handler makeexceptionhandl
+bcel world bcelworld world
+except rang exceptionrang except rang exceptionrang
+lazi method gen lazymethodgen enclos method enclosingmethod
+instruct handl instructionhandl start handler startofhandl
+bcel shadow bcelshadow enclos shadow enclosingshadow
+instruct list instructionlist bodi enclos method enclosingmethod bodi getbodi
+unresolv type unresolvedtyp catch type catchtyp except rang exceptionrang catch type getcatchtyp
+unresolv type unresolvedtyp type intyp enclos method enclosingmethod enclos class getenclosingclass type gettyp
+resolv member impl resolvedmemberimpl sig member impl memberimpl make except handler signatur makeexceptionhandlersignatur type intyp catch type catchtyp
+sig set paramet name setparameternam string find handler param findhandlerparamnam start handler startofhandl
+bcel shadow bcelshadow
+bcel shadow bcelshadow
+world
+except handler exceptionhandl
+sig
+enclos method enclosingmethod
+enclos shadow enclosingshadow
+shadow rang shadowrang shadow rang shadowrang bodi
+associ shadow associatewithshadow
+instruct handl instructionhandl start rang gen start genstart bodi start handler startofhandl
+instruct handl instructionhandl end rang gen end genend bodi start
+associ target associatewithtarget start end
+except rang exceptionrang updat target updatetarget start handler startofhandl start bodi

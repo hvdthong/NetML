@@ -1,0 +1,4 @@
+multiphrasequeri sum idf similar
+multiphrasequeri gener version phrasequeri comput idf default sum term
+problem similar phrasequeri call similar idfexplain collect term term indexsearch searcher
+multiphrasequeri sum call similar idf int int term

@@ -1,0 +1,13 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+verifi assumpt verifyassumpt string info
+system err println assert true
+system err println info
+thread dump stack dumpstack
+system err println assert true
+runtim except runtimeexcept assert fals

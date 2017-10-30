@@ -1,0 +1,32 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+updat handl map updatehandlemap set delet file deletedfil
+delet entri handl map perform reason
+list remov forremov arrai list arraylist
+set handl map handlemap kei set keyset
+iter iter iter iter hasnext
+string handl string iter
+program element iprogramel ip program element iprogramel handl map handlemap handl
+delet file deletedfil canon file path getcanonicalfilepath ip remov forremov add handl
+iter iter remov forremov iter iter hasnext
+string handl string iter
+handl map handlemap remov handl
+remov forremov clear
+type map typemap kei set keyset
+iter iter iter iter hasnext
+string type typenam string iter
+program element iprogramel ip program element iprogramel type map typemap type typenam
+delet file deletedfil canon file path getcanonicalfilepath ip remov forremov add type typenam
+iter iter remov forremov iter iter hasnext
+string type typenam string iter
+type map typemap remov type typenam
+remov forremov clear
+file map filemap kei set keyset
+iter iter iter iter hasnext
+string file path filepath string iter
+program element iprogramel ip program element iprogramel file map filemap file path filepath
+delet file deletedfil canon file path getcanonicalfilepath ip remov forremov add file path filepath
+iter iter remov forremov iter iter hasnext
+string file path filepath string iter
+file map filemap remov file path filepath

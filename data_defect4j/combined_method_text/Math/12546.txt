@@ -1,0 +1,13 @@
+param point belong plane
+set frame setfram
+repres plane dimension space
+reset vector3 vector3d vector3 vector3d normal
+reset vector3 vector3d vector3 vector3d normal math arithmet except matharithmeticexcept
+org apach common math3 geometri euclidean threed
+reset instanc built point normal
+param normal normal direct plane
+except math arithmet except matharithmeticexcept normal norm small
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+origin offset originoffset dot product dotproduct
+set normal setnorm normal

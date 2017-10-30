@@ -1,0 +1,9 @@
+overrid
+version
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+string string tostr
+instanc guarante immut
+vector2 format vector2dformat instanc getinst format
+org apach common math geometri euclidean twod
+string represent vector

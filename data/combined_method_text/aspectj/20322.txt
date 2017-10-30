@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+add replac lazi method gen addorreplacelazymethodgen lazi method gen lazymethodgen
+defin alreadydefin clazz
+iter ad lazi method gen addedlazymethodgen iter hasnext
+lazi method gen lazymethodgen exist lazi method gen lazymethodgen
+signatur match signaturesmatch exist
+exist defin type definingtyp
+mean exist introduc class
+defin type definingtyp assign isassignablefrom exist defin type definingtyp
+exist mg' subtyp domin
+exist defin type definingtyp assign isassignablefrom defin type definingtyp
+existing' subtyp domin exist
+remov
+ad lazi method gen addedlazymethodgen add
+except bcexcept conflict exist
+ad lazi method gen addedlazymethodgen add

@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+pattern parser patternpars
+type pattern typepattern set annot pattern type pattern setannotationpatternfortypepattern type pattern typepattern annot type pattern annotationtypepattern paramet annot pattern parameterannotationspattern
+type pattern typepattern ret
+paramet annot pattern parameterannotationspattern set paramet annot match setforparameterannotationmatch
+annot type pattern annotationtypepattern
+type pattern typepattern
+ret wild type pattern wildtypepattern pattern namepattern pattern namepattern
+annot pattern annotationpattern annot type pattern annotationtypepattern
+ret set annot type pattern setannotationtypepattern
+ret set annot type pattern setannotationtypepattern annot type pattern andannotationtypepattern annot pattern annotationpattern ret setannotationtypepattern andannotationtypepattern annotationpattern
+ret

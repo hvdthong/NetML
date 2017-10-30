@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+annot type pattern notannotationtypepattern annot type pattern annotationtypepattern
+fuzzi boolean fuzzyboolean match annot element annotatedel annot
+negat pattern negatedpattern match annot

@@ -1,0 +1,23 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+delet resourc directori deleteresourcesfromdirectori file dir list resourc oldresourc
+file file file util fileutil list file listfil dir file filter filefilt
+accept file
+accept directori isdirectori getnam end endswith class
+accept
+file add real class file resourc
+file length
+assert file getabsolutepath startswith infil getabsolutepath
+troubl
+string filenam
+filenam file canon path getcanonicalpath substr
+dir canon path getcanonicalpath length
+except ioexcept
+troubl
+messag imessag msg messag call getcanonicalpath fail file file messag getmessag
+sourc locat sourceloc file
+build manag buildmanag handler handl messag handlemessag msg
+filenam file absolut path getabsolutepath substr
+dir absolut path getabsolutepath length
+delet resourc maybedeleteresourc filenam resourc oldresourc

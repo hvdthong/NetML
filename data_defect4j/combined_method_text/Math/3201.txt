@@ -1,0 +1,8 @@
+org apach common math geometri euclidean threed
+param segment singl segment form line
+creat line segment
+repres subset link line
+line sublin segment segment
+version
+line sublin
+segment line getlin build interv set buildintervalset segment start getstart segment end getend

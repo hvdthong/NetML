@@ -1,0 +1,18 @@
+link real field element realfieldel
+link extend field element extendedfieldel
+length
+version
+org apach common math3 util
+decimal64 number
+decimal64 linear combin linearcombin decimal64 decimal64
+doubl bdoubl
+doubl bdoubl length
+dimens mismatch except dimensionmismatchexcept length length
+wrap code object similar
+dimens mismatch except dimensionmismatchexcept
+doubl adoubl length
+decimal64 math arrai matharrai linear combin linearcombin doubl adoubl doubl bdoubl
+standard link doubl implement
+doubl adoubl
+inherit doc inheritdoc
+length length

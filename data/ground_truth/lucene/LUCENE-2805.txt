@@ -1,0 +1,13 @@
+contrib/misc/src/java/org/apache/lucene/index/IndexSplitter_remove-String[]_void
+contrib/misc/src/java/org/apache/lucene/index/IndexSplitter_split-File-String[]_void
+src/java/org/apache/lucene/index/CheckIndex_fixIndex-Status_void
+src/java/org/apache/lucene/index/DirectoryReader_doCommit-Map<String,String>_void
+src/java/org/apache/lucene/index/IndexWriter_IndexWriter-Directory-IndexWriterConfig_<init>
+src/java/org/apache/lucene/index/IndexWriter_checkpoint_void
+src/java/org/apache/lucene/index/IndexWriter_deleteAll_void
+src/java/org/apache/lucene/index/IndexWriter_newSegmentName_String
+src/java/org/apache/lucene/index/IndexWriter_nrtIsCurrent-SegmentInfos_boolean
+src/java/org/apache/lucene/index/IndexWriter_startCommit-Map<String,String>_void
+src/java/org/apache/lucene/index/SegmentInfos_totalDocCount_int
+src/java/org/apache/lucene/index/SegmentInfos_updateGeneration-SegmentInfos_void
+src/java/org/apache/lucene/index/codecs/DefaultSegmentInfosWriter_writeInfos-Directory-String-SegmentInfos_IndexOutput

@@ -1,0 +1,62 @@
+org aspectj weaver bcel
+util
+instruct list instructionlist creat convers createconvers
+instruct factori instructionfactori fact
+type type fromtyp
+type type totyp
+autobox allowautobox
+system println cast totyp
+instruct list instructionlist instruct list instructionlist
+pr71273
+type fromtyp equal type byte type fromtyp equal type char type fromtyp equal type short
+type totyp equal type int
+type fromtyp equal type totyp
+type totyp equal type void
+append instruct factori instructionfactori creat pop createpop type fromtyp size getsiz
+type fromtyp equal type void
+type totyp basic type basictyp
+except bcexcept attempt cast void basic type
+append instruct factori instructionfactori creat null createnul type object
+type fromtyp equal type object
+type totyp basic type basictyp
+string type totyp string tostr
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type totyp
+type type object
+constant invokestat
+type totyp equal type object
+type fromtyp basic type basictyp
+string type fromtyp string tostr object
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type object
+type type fromtyp
+constant invokestat
+type fromtyp refer type referencetyp
+runtim except runtimeexcept
+type fromtyp refer type referencetyp
+refer type referencetyp type fromtyp assign compat isassignmentcompatiblewith type totyp
+autobox allowautobox
+type totyp basic type basictyp type fromtyp refer type referencetyp
+unbox
+string type totyp string tostr
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type totyp
+type type object
+constant invokestat
+type fromtyp basic type basictyp type totyp refer type referencetyp
+box
+string type fromtyp string tostr object
+append
+fact creat invok createinvok
+org aspectj runtim intern convers
+type object
+type type fromtyp
+constant invokestat
+append fact creat cast createcast type object type totyp
+append fact creat cast createcast type fromtyp type totyp

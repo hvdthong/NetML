@@ -1,0 +1,56 @@
+org aspectj apach bcel gener
+class build constant pool user add
+constant addxxx' method addstring' addclass'
+method return index constant
+pool final getfinalconstantpool return constant pool
+built intermedi version constant pool
+obtain getconstantpool constant pool capac
+constant max short entri note
+jvm doubl long constant slot
+version constantpoolgen java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+constant pool gen constantpoolgen java serializ
+initi arrai constant
+param arrai constant append
+constant pool gen constantpoolgen constant
+length size
+size length
+constant constant size
+system arraycopi constant length
+length
+index length
+index
+constant constant
+constant string constantstr
+constant string constantstr constant string constantstr
+constant utf8 constantutf8 constant utf8 constantutf8 constant string index getstringindex
+string tabl put byte getbyt index
+constant class constantclass
+constant class constantclass constant class constantclass
+constant utf8 constantutf8 constant utf8 constantutf8 constant index getnameindex
+class tabl put byte getbyt index
+constant type constantnameandtyp
+constant type constantnameandtyp constant type constantnameandtyp
+constant utf8 constantutf8 constant utf8 constantutf8 constant index getnameindex
+constant utf8 constantutf8 constant utf8 constantutf8 constant signatur index getsignatureindex
+tabl put byte getbyt nat delim nat delim byte getbyt index
+constant utf8 constantutf8
+constant utf8 constantutf8 constant utf8 constantutf8
+utf8 tabl put byte getbyt index
+constant constantcp
+constant constantcp constant constantcp
+constant class constantclass clazz constant class constantclass constant class index getclassindex
+constant type constantnameandtyp constant type constantnameandtyp constant type index getnameandtypeindex
+constant utf8 constantutf8 constant utf8 constantutf8 constant clazz index getnameindex
+string class byte getbyt replac
+constant utf8 constantutf8 constant index getnameindex
+string method byte getbyt
+constant utf8 constantutf8 constant signatur index getsignatureindex
+string signatur byte getbyt
+string delim methodref delim methodref delim
+constant interfac methodref constantinterfacemethodref
+delim imethodref delim imethodref delim
+constant fieldref constantfieldref
+delim fieldref delim fieldref delim
+tabl put class delim method delim signatur index

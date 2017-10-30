@@ -1,0 +1,19 @@
+author stephen colebourn
+author apach ant date util dateutil
+fast date format fastdateformat format calendar
+version
+param pattern pattern format calendar
+author href mailto sbailliez apach org stephan bailliez
+string format calendar calendar string pattern local local
+format calendar specif pattern local
+date time format util constant
+author href mailto ggregori seagullsw gari gregori
+author href mailto stefan bodewig epost stefan bodewig
+org apach common lang time
+format perform
+param local local code code
+param calendar calendar format
+date format util dateformatutil
+link org apach common lang time fast date format fastdateformat
+format calendar pattern local
+format calendar

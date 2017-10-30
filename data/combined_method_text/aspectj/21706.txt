@@ -1,0 +1,102 @@
+org aspectj weaver pattern
+cflow pointcut cflowpointcut pointcut
+pointcut concretize1 resolv type resolvedtyp aspect inaspect resolv type resolvedtyp declar type declaringtyp int map intmap bind
+pointcut mark concret return
+call skip concret
+entri state pointcut symbol
+earli concret return unchang
+return
+enforc rule design support declar
+declar isdeclar bind enclos advic getenclosingadvic
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag cflow declar cflow declar isbelow
+bind enclos advic getenclosingadvic sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+make remap formal posit arrayindic
+int map intmap entri bind entrybind int map intmap
+free var freevar
+len free var freevar length len
+free var freevar free var freevar
+int formalindex bind freevar
+entri bind entrybind put free var freevar
+entri bind entrybind copi context copycontext bind
+system println bind entrybind
+world world aspect inaspect world getworld
+pointcut concret entri concreteentri
+resolv type resolvedtyp concret aspect concreteaspect bind concret aspect getconcreteaspect
+crosscut member crosscuttingmemb xcut concret aspect concreteaspect crosscut member crosscuttingmemb
+collect previou cflow entri previouscflowentri xcut cflow entri getcflowentri
+entri bind entrybind push enclos definit pushenclosingdefinit cflow marker cflow marker
+block concret pointcut cflow pointcut
+concret entri concreteentri entri concret aspect inaspect declar type declaringtyp entri bind entrybind
+entri bind entrybind pop enclos definitit popenclosingdefinitit
+list cflow entri innercflowentri arrai list arraylist xcut cflow entri getcflowentri
+cflow entri innercflowentri remov removeal previou cflow entri previouscflowentri
+rout interest code hear refactor
+state cflow counter pointcut
+counter
+state cflow counter time
+pointcut build infrastructur
+state cflow stack pointcut
+share stack
+state cflow stack time
+pointcut build infrastructur
+free var freevar free var freevar length freevar null freevar length state stack counter
+resolv member resolvedmemb local cflow field localcflowfield
+object field cflowfield getcflowfield concret entri concreteentri concret aspect concreteaspect counter
+check counter cflow pointcut
+field
+local cflow field localcflowfield resolv member resolvedmemb field localcflowfield resolvedmemb field
+creat counter field aspect
+local cflow field localcflowfield resolv member impl resolvedmemberimpl member field concret aspect concreteaspect modifi static modifi public modifi final
+mangler namemangl cflow counter cflowcount xcut unresolv type unresolvedtyp fornam mangler namemangl cflow counter type cflow counter type signatur getsignatur
+creat type munger add field aspect
+concret aspect concreteaspect crosscut member crosscuttingmemb add type munger addtypemung world make cflow counter field adder makecflowcounterfieldadd local cflow field localcflowfield
+creat shadow munger push stuff stack
+concret aspect concreteaspect crosscut member crosscuttingmemb add concret shadow munger addconcreteshadowmung
+advic make cflow entri makecflowentri world concret entri concreteentri isbelow local cflow field localcflowfield free var freevar free var freevar length cflow entri innercflowentri aspect inaspect
+put cflowfield putcflowfield concret entri concreteentri concret aspect concreteaspect local cflow field localcflowfield counter putcflowfield concreteentri concreteaspect localcflowfield counter rememb
+pointcut ret concret cflow pointcut concretecflowpointcut local cflow field localcflowfield
+ret copi locat copylocationfrom
+ret
+list slot arrai list arraylist
+len free var freevar length len
+free var freevar free var freevar
+state expos advic
+mean store state optim
+bind kei haskei free var freevar
+formal index formalindex bind free var freevar
+place type formal suppos advic
+string somepointcut
+argument somepointcut type number
+free variabl pointcut type argument
+advic type argument wrong type pr86903
+resolv pointcut definit resolvedpointcutdefinit enclos def enclosingdef bind peek enclos definit peekenclosingdefinit
+resolv type resolvedtyp formal type formaltyp
+enclos pointcut
+enclos def enclosingdef enclos def enclosingdef paramet type getparametertyp length
+formal type formaltyp enclos def enclosingdef paramet type getparametertyp free var freevar resolv world
+formal type formaltyp bind advic signatur getadvicesignatur paramet type getparametertyp formal index formalindex resolv world
+concret cflow pointcut concretecflowpointcut slot slot
+concret cflow pointcut concretecflowpointcut slot formal index formalindex formal type formaltyp
+slot add slot
+resolv member resolvedmemb local cflow field localcflowfield
+object field cflowfield getcflowfield concret entri concreteentri concret aspect concreteaspect stack
+field
+local cflow field localcflowfield resolv member resolvedmemb field
+local cflow field localcflowfield resolv member impl resolvedmemberimpl
+member field concret aspect concreteaspect modifi static modifi public modifi final
+mangler namemangl cflow stack cflowstack xcut
+unresolv type unresolvedtyp fornam mangler namemangl cflow stack type cflow stack type signatur getsignatur
+system println ad field inaspect field cflowfield
+add field initi inaspect
+xxx info map
+xxx expos state
+concret aspect concreteaspect crosscut member crosscuttingmemb add concret shadow munger addconcreteshadowmung
+advic make cflow entri makecflowentri world concret entri concreteentri isbelow local cflow field localcflowfield free var freevar length cflow entri innercflowentri aspect inaspect
+concret aspect concreteaspect crosscut member crosscuttingmemb add type munger addtypemung
+world make cflow stack field adder makecflowstackfieldadd local cflow field localcflowfield
+put cflowfield putcflowfield concret entri concreteentri concret aspect concreteaspect local cflow field localcflowfield stack
+pointcut ret concret cflow pointcut concretecflowpointcut local cflow field localcflowfield slot
+ret copi locat copylocationfrom
+ret

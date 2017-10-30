@@ -1,0 +1,7 @@
+param checker converg checker
+base univari scalar function optim
+univari optim univariateoptim converg checker convergencecheck univari point pair univariatepointvaluepair checker
+univari optim univariateoptim
+org apach common math3 optim univari
+checker
+version

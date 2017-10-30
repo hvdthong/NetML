@@ -1,0 +1,44 @@
+org aspectj weaver
+weaverstateinfo repres type process weaver determin type
+previous treat reweav allow
+format data stream
+byte kind untouch woven extend extend extra bit set 'reweavable' 'reweav compress bit'
+short typemungercount type munger affect type
+unresolvedtyp resolvedtypemung type munger
+reweav
+short number aspect touch type previous woven
+string fulli qualifi type
+int length class file data unwovenclassfil
+byte class file data compress reweav compress bit set
+weaver state info weaverstateinfo
+read reweav data readanyreweavabledata weaver state info weaverstateinfo wsi data input stream datainputstream except ioexcept
+wsi reweav isreweav
+load list aspect exist world reweav 'legal'
+number aspect affect type numberaspectsaffectingtyp read short readshort
+number aspect affect type numberaspectsaffectingtyp wsi add aspect affect type addaspectaffectingtyp read utf readutf
+unwoven class file size unwovenclassfiles read int readint
+class data classdata
+unwovenclassfil compress
+wsi reweav compress mode reweavablecompressedmod
+class data classdata unwoven class file size unwovenclassfiles
+zip input stream zipinputstream zi zip input stream zipinputstream
+zip entri zipentri zen zi entri getnextentri
+current
+byte bytestogo unwoven class file size unwovenclassfiles
+byte bytestogo
+amount zi read class data classdata current byte bytestogo
+current amount
+byte bytestogo amount
+zi close entri closeentri
+byte bytestogo
+except ioexcept error whilst read compress reweav data expect
+unwoven class file size unwovenclassfiles byte found current
+class data classdata unwoven class file size unwovenclassfiles
+bytesread read class data classdata
+bytesread unwoven class file size unwovenclassfiles
+except ioexcept error whilst read reweav data expect
+unwoven class file size unwovenclassfiles byte found bytesread
+diffmod rememb appli diff
+ask unwovenclassfil
+wsi unwoven class file diff unwovenclassfileisadiff wsi reweav diff mode reweavablediffmod
+wsi set unwoven class file data setunwovenclassfiledata class data classdata

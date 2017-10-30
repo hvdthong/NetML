@@ -1,0 +1,23 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+param type type element arrai arrai getelementtyp
+arrai instruct arrayinstruct creat arrai store createarraystor type type
+type type gettyp
+constant boolean boolean
+constant byte byte bastor
+constant char char castor
+constant short short sastor
+constant int int iastor
+constant float float fastor
+constant doubl doubl dastor
+constant long long lastor
+constant arrai arrai
+constant object object aastor
+runtim except runtimeexcept invalid type type

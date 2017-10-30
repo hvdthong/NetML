@@ -1,0 +1,20 @@
+org apach lucen search
+boolean scorer booleanscor scorer
+boolean scorer booleanscor weight weight disabl coord disablecoord similar similar min match minnrshouldmatch
+list scorer option scorer optionalscor list scorer prohibit scorer prohibitedscor max coord maxcoord except ioexcept
+weight super null weight similar
+min match minnrshouldmatch min match minnrshouldmatch
+option scorer optionalscor option scorer optionalscor size
+scorer scorer option scorer optionalscor
+scorer doc nextdoc doc doc
+scorer scorer subscor scorer bucket tabl buckett collector newcollector scorer
+prohibit scorer prohibitedscor prohibit scorer prohibitedscor size
+scorer scorer prohibit scorer prohibitedscor
+mask mask nextmask
+mask nextmask mask nextmask
+prohibit mask prohibitedmask mask prohibitedmask mask updat prohibit mask
+scorer doc nextdoc doc doc
+scorer scorer subscor scorer bucket tabl buckett collector newcollector mask scorer
+coord factor coordfactor option scorer optionalscor size
+coord factor coordfactor length
+coord factor coordfactor disabl coord disablecoord similar coord max coord maxcoord

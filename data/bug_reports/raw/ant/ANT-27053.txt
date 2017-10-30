@@ -1,0 +1,10 @@
+xmlproperty to support xmlcatalog
+I have an xml file that with a doctype declaration of <!DOCTYPE skinconfig
+PUBLIC "-//Apache Software Foundation//DTD Forrest Skin Configuration 1.0//EN"
+"http://xml.apache.org/forrest/dtd/skinconf_1_0.dtd">  Without network access
+(and presumable with it to, since the dtd hasn't been posted), I cannot load
+this xml file using xmlproperty.  I can succesfully use xmlvalidate (with an
+xmlcatalog element) to validate the file.
+
+Please add support for an <xmlcatalog> subelement to the <xmlproperty> task. 
+Thanks!

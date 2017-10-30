@@ -1,0 +1,131 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+string util stringutil equal
+oper link java lang string
+author href mailto apach org korthof
+cs1 string cs2 string
+levenshtein distanc levenshteindist
+object equal object
+remov lead trail whitespac
+append suffix end string present
+containsonli containsnon containsani
+check string text
+code char sequenc charsequ equal sensit code
+abbrevi string ellipsi
+string util stringutil equal abc
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+space space charact code
+author arun mammen thoma
+param cs2 char sequenc charsequ code
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+code char sequenc charsequ equal sensit
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+equal char sequenc charsequ cs1 char sequenc charsequ cs2
+cs1 cs2
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+param cs2 char sequenc charsequ
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+prepend prefix start string present
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+compar char sequenc charsequ return code equal
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+equal sequenc charact
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+param cs1 char sequenc charsequ
+code code
+empti length string code code
+safe substr extract
+compar char sequenc charsequ return code code equal
+side effect code code handl
+code code handl except code code
+cs1 equal cs2
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+cs1 cs2 cs1 equal cs2
+symbol code input includ code
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+string util stringutil equal abc abc
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+java lang string equal object
+code code char sequenc charsequ equal sensit
+author href mailto jon latchkei jon steven
+chang signatur equal string string equal char sequenc charsequ char sequenc charsequ
+index indexof index lastindexof
+code code input code code
+code handl except code
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+code code safe
+compar char sequenc charsequ return code repres
+char sequenc util charsequenceutil region match regionmatch cs1 cs2 math max cs1 length cs2 length
+param cs1 char sequenc charsequ code
+remov part string
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+refer consid equal comparison sensit
+code input code
+code null pointer except nullpointerexcept consid bug
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+code string util stringutil
+code safe
+string util stringutil
+thread safe threadsaf
+check charact string
+append miss appendifmiss
+prepend miss prependifmiss
+symbol code code input includ code code

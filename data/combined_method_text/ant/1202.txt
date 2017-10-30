@@ -1,0 +1,118 @@
+org apach tool ant
+class scan directori file directori match
+criteria
+criteria consist selector pattern
+selector select file includ
+file select exclud pattern includ
+exclud file base filenam
+idea simpl directori recurs scan file
+directori file directori match set selector
+includ special support match filenam includ
+exclud pattern file directori match
+pattern includ pattern list file selector match
+pattern exclud pattern list fail match requir
+selector list file directori found
+list includ pattern suppli
+mean match list exclud pattern
+suppli empti list exclud
+selector suppli appli
+filenam pattern match
+match split path segment path segment
+directori file bound
+code file separ code unix window
+abc def ghi xyz java split segment abc
+def ghi xyz java
+pattern match
+segment pattern match
+path segment pattern match
+path segment
+special case code file separ code
+begin pattern string match
+pattern start code file separ code string
+match start code file separ code
+pattern start code file separ code
+string match start code file separ code
+rule obei string
+match
+path segment match pattern path segment
+special charact
+match charact
+match charact
+exampl
+class match class file dir directori tree
+test java match file dir start a
+charact java directori call test
+match directori tree
+test xyz match file dir start xyz
+parent directori call test abc test def ghi xyz123
+case sensit turn default
+turn
+usag
+pre
+string includ class
+string exclud modul
+setinclud includ
+setexclud exclud
+setbasedir file test
+setcasesensit true
+scan
+system println file
+string file getincludedfil
+int file length
+system println file
+pre
+scan directori call test class file exclud
+file proper subdirectori directori call modul
+directori scanner directoryscann
+scandir file dir string vpath fast
+string newfil stack directori name directorynamesfollow
+avoid doubl scan directori happen fast mode
+fast scan hasbeenscan vpath
+follow symlink followsymlink
+vector link nolink vector
+newfil length
+file util file util symbol link issymboliclink dir newfil
+string vpath newfil
+file file file dir newfil
+file directori isdirectori
+dir exclud dirsexclud file exclud filesexclud add element addel
+link nolink add element addel newfil
+except ioexcept ioe
+string msg ioexcept caught check
+link canon path
+caught redirect ant log system
+system err println msg
+link nolink add element addel newfil
+newfil string link nolink arrai toarrai string link nolink size
+directori name directorynamesfollow push dir getnam
+newfil length
+string vpath newfil
+file file file dir newfil
+string children list file
+children children null file
+includ isinclud
+account includ file accountforincludedfil file
+includ everythinginclud
+file includ filesnotinclud add element addel
+dir
+follow symlink followsymlink
+illeg symlink loop causesillegalsymlinkloop newfil dir
+directori name directorynamesfollow
+caught redirect ant log system
+system err println skip symbol link
+file absolut path getabsolutepath
+level symbol
+link
+includ isinclud
+account includ dir accountforincludeddir file fast children
+directori name directorynamesfollow
+includ everythinginclud
+dir includ dirsnotinclud add element addel
+fast hold includ couldholdinclud
+scandir file file separ fast children
+directori name directorynamesfollow
+fast
+scandir file file separ fast children
+directori name directorynamesfollow
+follow symlink followsymlink
+directori name directorynamesfollow pop

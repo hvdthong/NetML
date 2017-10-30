@@ -1,0 +1,8 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb type field pertypewithinfield unresolv type unresolvedtyp declar type declaringtyp resolv type resolvedtyp aspect type aspecttyp
+modifi modifi privat modifi static
+serializ aspect isserializableaspect aspect type aspecttyp
+modifi modifi transient
+resolv member impl resolvedmemberimpl member field declar type declaringtyp modifi
+aspect type aspecttyp mangler namemangl type field target pertypewithinfieldfortarget aspect type aspecttyp unresolv type unresolvedtyp

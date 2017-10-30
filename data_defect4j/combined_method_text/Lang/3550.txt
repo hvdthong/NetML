@@ -1,0 +1,170 @@
+author href mailto hp intermeta hen schmiedehausen
+note method correctli remov ligatur
+code
+oper link java lang string
+author href mailto apach org korthof
+runtim except runtimeexcept method except nosuchmethodexcept occur backcompat code nsme
+levenshtein distanc levenshteindist
+note jdk method fail jdk
+remov lead trail whitespac
+runtim except runtimeexcept secur except securityexcept occur backcompat code
+append suffix end string present
+java text normal form
+accent pattern accentpattern matcher decompos replac replaceal
+string strip accent stripacc string input
+safe substr extract
+check string text
+abbrevi string ellipsi
+java lang reflect field nfd normal form class normalizerformclass field getfield nfd
+index set string
+input
+compar string report differ
+substr extract rel string
+invok method
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+string result
+author href mailto fredrik westermarck fredrik westermarck
+string util stringutil strip accent stripacc control control
+search string replac string
+code code safe
+remov diacrit accent string alter
+note correctli remov ligatur
+author arun mammen thoma
+class normal form class normalizerformclass class util classutil class getclass java text normal form
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+java6 java6avail
+illeg access except illegalaccessexcept iae
+code string util stringutil defin word relat
+default string defaultstr
+note ligatur left
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+method implement
+strip accent stripacc char sequenc charsequ method requir java sun jvm
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+java util regex pattern accent pattern accentpattern java util regex pattern compil combin diacrit mark incombiningdiacriticalmark
+split join
+end reflect
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+unsupport oper except unsupportedoperationexcept strip accent stripacc string method support java
+runtim except runtimeexcept illeg argument except illegalargumentexcept occur backcompat code iae
+string accent text
+abbrevi
+version
+method give sampl code explain oper
+illeg argument except illegalargumentexcept iae
+trim strip
+remov delet
+compar string safe
+code string util stringutil code
+method normal
+symbol code input includ code
+method except nosuchmethodexcept nsme
+org apach common lang3
+secur except securityexcept
+lucene' ascii fold filter asciifoldingfilt lucen replac accent charact unacc equival uncommit bug fix http issu apach org jira brows lucen focus comment focusedcommentid page atlassian jira plugin system issuetabpanel acom 3acom tabpanel action
+input text diacrit remov
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+runtim except runtimeexcept class found except classnotfoundexcept occur backcompat code cnfe
+author holger krauth
+runtim except runtimeexcept field except nosuchfieldexcept occur backcompat code nsfe
+code input code
+code code
+code safe
+runtim except runtimeexcept invoc target except invocationtargetexcept occur backcompat code it
+containsonli containsnon containsani
+side effect code code handl
+author href mailto gcoladonato yahoo greg coladonato
+system util systemutil java version isjavaversionatleast
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+java 6' link java text normal java ndash 5' code sun text normal
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+normliz
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+runtim except runtimeexcept invoc target except invocationtargetexcept occur it
+invoc target except invocationtargetexcept it
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+prepend miss prependifmiss
+author href mailto jon latchkei jon steven
+class normal class normalizerclass class util classutil class getclass java text normal
+runtim except runtimeexcept illeg argument except illegalargumentexcept occur iae
+empti isempti blank isblank
+code code input code code
+class found except classnotfoundexcept cnfe
+java lang reflect invoc target except invocationtargetexcept it
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+string util stringutil strip accent stripacc eacut clair eclair
+java lang reflect method method normal class normalizerclass method getmethod normal char sequenc charsequ normal form class normalizerformclass
+runtim except runtimeexcept secur except securityexcept occur
+remov accent string
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+result
+pre
+result remov accent java6 removeaccentsjava6 input
+author michael davei
+substr left mid
+equal
+code null pointer except nullpointerexcept consid bug
+runtim except runtimeexcept illeg access except illegalaccessexcept occur backcompat code iae
+code code return
+chomp chop
+author apach softwar foundat
+runtim except runtimeexcept illeg access except illegalaccessexcept occur iae
+string charact
+java lang string
+pattern matcher decompos replac replaceal nl
+param input string strip
+author gari gregori
+pattern pattern pattern compil combin diacrit mark incombiningdiacriticalmark nl
+safe index check
+normal nfd field
+code string util stringutil
+start reflect line comment
+string util stringutil strip accent stripacc ecut clair eclair
+instanc agrav replac 'a'
+string util stringutil
+append miss appendifmiss
+thread safe threadsaf
+result remov accent sun removeaccentssun input
+sun sunavail
+string util stringutil strip accent stripacc
+check charact string
+string decompos normal normal input normal form nfd
+field except nosuchfieldexcept nsfe
+string decompos string method invok input nfd
+unsupport oper except unsupportedoperationexcept
+symbol code code input includ code code

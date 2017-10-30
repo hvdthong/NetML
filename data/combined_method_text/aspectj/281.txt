@@ -1,0 +1,8 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+string format map formatmap map option
+option default
+option empti isempti
+option string tostr

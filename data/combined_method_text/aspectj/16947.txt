@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+andpointcut dom ast node
+pointcutdesign 'left'
+pointcutdesign 'right'
+author ajh02
+pointcut andpointcut pointcut design pointcutdesign
+set left setleft pointcut design pointcutdesign left
+left
+illeg argument except illegalargumentexcept
+ast node astnod child oldchild left
+pre replac child prereplacechild child oldchild left left properti left properti
+left left
+post replac child postreplacechild child oldchild left left properti left properti

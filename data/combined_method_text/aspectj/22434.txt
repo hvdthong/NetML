@@ -1,0 +1,17 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars design pointcut parsedesignatorpointcut pointcut design handler pointcutdesignatorhandl pcd handler pcdhandler
+eat
+paren count parencount
+string buffer stringbuff pointcut bodi pointcutbodi string buffer stringbuff
+paren count parencount
+eat maybeeat
+paren count parencount
+pointcut bodi pointcutbodi append
+eat maybeeat
+paren count parencount
+paren count parencount
+pointcut bodi pointcutbodi append
+pointcut bodi pointcutbodi append token nexttoken string getstr
+context base matcher contextbasedmatch expr pcexpr pcd handler pcdhandler pars pointcut bodi pointcutbodi string tostr
+pointcut design handler base pointcut pointcutdesignatorhandlerbasedpointcut expr pcexpr world

@@ -1,0 +1,52 @@
+org aspectj weaver reflect
+find annot present object
+java15 annot finder java15annotationfind annot finder annotationfind arg finder argnamefind
+resolv type resolvedtyp paramet annot type getparameterannotationtyp member member onmemb
+member onmemb access object accessibleobject paramet annot paramet annot
+runtim visibl class visibl annot
+bail bcel chuck javaclass hog
+memori
+java class javaclass bcel repositori bcelrepositori load class loadclass member onmemb declar class getdeclaringclass
+org aspectj apach bcel classfil annot annot ann
+member onmemb method
+org aspectj apach bcel classfil method bcel method bcelmethod method getmethod method member onmemb
+bcel method bcelmethod
+pr220430
+system err println unexpect problem java15annotationfind retriev annot method onmemb getnam class getclassnam
+ann bcel method bcelmethod paramet annot getparameterannot
+member onmemb constructor
+org aspectj apach bcel classfil method bcel con bcelcon method getmethod constructor member onmemb
+ann bcel con bcelcon paramet annot getparameterannot
+member onmemb field
+ann
+answer cach hold memori
+bcel repositori bcelrepositori clear
+ann paramet annot paramet annot
+resolv type resolvedtyp result resolv type resolvedtyp ann length
+cach
+ann length
+ann
+result resolv type resolvedtyp ann length
+ann length
+result world resolv unresolv type unresolvedtyp signatur forsignatur ann type signatur gettypesignatur
+result
+class found except classnotfoundexcept cnf cnfex
+reflect
+reflect
+access object accessibleobject access object accessibleobject member onmemb
+annot ann
+member onmemb method
+ann method paramet annot getparameterannot
+member onmemb constructor
+ann constructor paramet annot getparameterannot
+member onmemb field
+ann
+ann paramet annot paramet annot
+resolv type resolvedtyp result resolv type resolvedtyp ann length
+cach
+ann length
+ann
+result resolv type resolvedtyp ann length
+ann length
+result unresolv type unresolvedtyp fornam ann annot type annotationtyp getnam resolv world
+result

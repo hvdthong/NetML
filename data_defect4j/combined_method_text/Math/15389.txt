@@ -1,0 +1,61 @@
+cost doubl posit infin
+multivari differenti vector function multivariatedifferentiablevectorfunct
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+row equal dimens
+org apach common math3 optim gener
+deprec
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+jacobian evalu jacobianevalu
+optim intern optimizeintern max eval maxev target weight start point startpoint
+handl boilerpl method threshold set
+optim consid weight squar minim
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+col point length
+target weight
+jacobian error estim
+param max eval maxev maximum number function evalu
+param object function
+initi guess initialguess start point startpoint
+org apach common math3 except null argument except nullargumentexcept
+cost function minim
+weight weight
+link optim multivari differenti vector function multivariatedifferentiablevectorfunct
+point vector pair pointvectorvaluepair optim max eval maxev
+param target target object function optimum
+version
+construct jacobian matrix function argument method
+argument code
+optim assum matrix return
+function
+weight residu jacobian weightedresidualjacobian row col
+store squar problem characterist
+target target
+abstract squar optim abstractleastsquaresoptim
+link jacobian function jacobianfunct method row
+number column equal length code start point startpoint arrai
+arrai share method
+maxim number evalu exceed
+optim object function
+reset counter
+point start point startpoint clone
+start point dimens wrong
+row target length
+link org apach common math3 optim target target
+org apach common math3 except evalu except toomanyevaluationsexcept
+point pair give optim object
+code sum weight object target code
+deprec remov
+optim intern optimizeintern max eval maxev
+iter model function column iter paramet
+link jacobian function jacobianfunct jacobian function argument method
+param weight weight squar cost comput
+param start point startpoint start point optim
+optim multivari differenti vector function multivariatedifferentiablevectorfunct optim data optimizationdata
+number row equal length code target arrai
+optim assum row matrix iter model
+start point startpoint
+base implement squar optim
+function column iter paramet number
+jacobian function jacobianfunct
+weight residu weightedresidu row

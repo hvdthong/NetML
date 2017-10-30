@@ -1,0 +1,18 @@
+org aspectj weaver
+repres type variabl bound
+type variabl typevari
+string displai getdisplaynam
+string buffer stringbuff ret string buffer stringbuff
+ret append
+bound getfirstbound getnam equal java lang object
+ret append extend
+ret append bound getfirstbound getnam
+addit interfac bound additionalinterfacebound
+addit interfac bound additionalinterfacebound length
+bound getfirstbound equal addit interfac bound additionalinterfacebound
+ret append
+ret append addit interfac bound additionalinterfacebound getnam
+lower bound lowerbound
+ret append super
+ret append lower bound lowerbound getnam
+ret string tostr

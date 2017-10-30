@@ -1,0 +1,18 @@
+org apach common math3 random
+gaussian nextgaussian fast math fastmath sin alpha
+random gaussian nextgaussian
+bit stream gener bitsstreamgener
+random fast math fastmath co alpha
+alpha fast math fastmath
+bit stream gener bitsstreamgener random gener randomgener
+random
+gaussian nextgaussian
+element pair gener
+fast math fastmath sqrt fast math fastmath log
+version
+doubl isnan gaussian nextgaussian
+doubl nextdoubl
+gener pair gaussian number
+inherit doc inheritdoc
+gaussian nextgaussian doubl nan
+base random number gener gener bit stream

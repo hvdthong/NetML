@@ -1,0 +1,9 @@
+org aspectj ajdt intern core builder
+author mik kersten
+asm element formatt asmelementformatt
+string gen preced list label genprecedencelistlabel type pattern list typepatternlist list
+string list tplist
+list size
+list tplist gen type pattern label gentypepatternlabel list
+list size list tplist
+list tplist

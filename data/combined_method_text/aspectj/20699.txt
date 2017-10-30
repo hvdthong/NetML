@@ -1,0 +1,25 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+creat bridg method itdf createbridgemethodforitdf bcel class weaver bcelclassweav weaver lazi class gen lazyclassgen gen resolv member resolvedmemb itdfield setter itdfieldsett resolv member resolvedmemb bridg setter bridgingsett
+instruct factori instructionfactori fact
+lazi method gen lazymethodgen bridg method bridgemethod make method gen makemethodgen gen bridg setter bridgingsett
+type param type paramtyp bcel world bcelworld make bcel type makebceltyp bridg setter bridgingsett paramet type getparametertyp
+type bridg parm bridgingtoparm bcel world bcelworld make bcel type makebceltyp itdfield setter itdfieldsett paramet type getparametertyp
+type return type returntyp bcel world bcelworld make bcel type makebceltyp bridg setter bridgingsett return type getreturntyp
+instruct list instructionlist bodi bridg method bridgemethod bodi getbodi
+fact gen factori getfactori
+po
+bridg setter bridgingsett static isstat
+bodi append instruct factori instructionfactori creat createthi
+po
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+bridg setter bridgingsett paramet type getparametertyp erasur signatur geterasuresignatur equal itdfield setter itdfieldsett paramet type getparametertyp erasur signatur geterasuresignatur
+un cast est requir
+system err println put cast param type paramtyp bridg parm bridgingtoparm
+bodi append fact creat cast createcast param type paramtyp bridg parm bridgingtoparm
+po param type paramtyp size getsiz
+bodi append util creat invok createinvok fact weaver world getworld itdfield setter itdfieldsett
+bodi append instruct factori instructionfactori creat return createreturn return type returntyp
+gen add method gen addmethodgen bridg method bridgemethod

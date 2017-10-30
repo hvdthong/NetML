@@ -1,0 +1,8 @@
+org aspectj ajd intern
+user prefer store userpreferencesstor user prefer adapt userpreferencesadapt
+set project multiv prefer setprojectmultivalprefer string list valu
+string valu string valuesstr
+iter valu iter hasnext
+valu string valuesstr string
+properti set properti setproperti valu string valuesstr
+save properti saveproperti

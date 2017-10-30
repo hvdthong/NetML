@@ -1,0 +1,16 @@
+order integr jacobian firstorderintegratorwithjacobian
+od jacobian odewithjacobian
+extend jacobian raw od variat equat
+order comput state deriv od problem
+org apach common math od jacobian
+step handler jacobian stephandlerwithjacobian handler gethandl
+ad form compound problem higher dimens origin od
+dimens time
+comput partial deriv solut respect initi state
+handler
+parameter od parameterizedod
+version revis date
+enhanc order integr differenti equat
+problem dimens paramet compound problem
+underli step handler jacobian
+paramet

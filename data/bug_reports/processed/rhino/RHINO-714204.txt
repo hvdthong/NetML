@@ -1,0 +1,17 @@
+destructuring assignment this
+user agent mozilla macintosh intel mac applewebkit khtml gecko chrome safari
+steps reproduce
+function var args
+arguments
+
+actual results
+java lang illegalstateexception unexpected token
+expected results
+semantics
+function var args
+var
+arguments
+
+var
+
+works fine

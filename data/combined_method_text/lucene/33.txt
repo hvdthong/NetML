@@ -1,0 +1,62 @@
+matchedtoken matchedtoken matchedtoken matchedtoken matchedtoken
+constant
+stream stream stream stream stream stream stream stream stream
+demo
+move move move move move move move move
+char char char char char
+jjnewlexst jjnewlexst jjnewlexst jjnewlexst
+liter liter liter liter liter liter liter liter
+org
+getnexttoken
+jjtotoken
+jjfilltoken jjfilltoken
+tokenmgrerror tokenmgrerror
+fill fill
+jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo jjmatchedpo
+htmlparsertokenmanag
+end end
+cur cur cur cur cur cur cur cur cur cur cur cur cur cur cur cur cur cur cur cur cur
+eofloop eofloop
+apach
+except except
+curlexst curlexst curlexst curlexst
+state state state state state state state state
+html html html
+readchar
+input input input input input input input input input
+begintoken
+po po po po po po po po po po po po po po po po po po po po po po po po
+match match match match match
+jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch jjmatch
+begin
+parser parser
+getendcolumn
+jjmovestringliteraldfa0 jjmovestringliteraldfa0 jjmovestringliteraldfa0 jjmovestringliteraldfa0 jjmovestringliteraldfa0 jjmovestringliteraldfa0 jjmovestringliteraldfa0 jjmovestringliteraldfa0
+read
+dfa0 dfa0 dfa0 dfa0 dfa0 dfa0 dfa0 dfa0
+imag imag
+jjnew jjnew jjnew jjnew
+lexic lexic
+ioexcept ioexcept
+mgr mgr
+getimag getimag
+lex lex lex lex lex lex lex lex
+htmlparserconst
+line line line line
+string string string string string string string string string
+curchar curchar curchar curchar
+kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind kind
+jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind jjmatchedkind
+eof eof eof eof eof eof
+java java
+column column column column column
+curpo curpo curpo curpo curpo curpo curpo curpo curpo curpo curpo curpo curpo
+getendlin
+token token token token token token token token token token token token token token token token token
+jjto
+lucen
+error error error error error error error error error error error error error error error
+backup backup backup
+manag manag
+loop loop
+eofseen eofseen eofseen eofseen

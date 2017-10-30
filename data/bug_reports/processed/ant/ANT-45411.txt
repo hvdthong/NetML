@@ -1,0 +1,51 @@
+junit prints portions internal logging junk
+junk output junit task test failures internal logging facility assumes logged output single line guarantee case
+ant standard distribution mac junit
+ant version
+apache ant version compiled february
+output
+simple test
+junit messed
+junit crashed
+junit test simpletest failed
+junit lines
+reproduce target source
+target simple test
+junit fork
+classpath
+pathelement location classes test
+classpath
+test simpletest
+junit
+target
+simpletest classs source
+public class simpletest extends junit framework testcase
+public void testfoo asserttrue testfoo nmessed false
+public void testbar asserttrue testbar ndidnt work true
+public void testfee asserttrue testfee ncrashed false
+public void testfie asserttrue testfie nbroke true
+
+avoid junk output turning forking removing characters assertion failure messages
+workaround forking multi line failures reflection turn logging
+private void turnofflogging testresult result
+
+java lang reflect field listenersf result getclass getdeclaredfield flisteners
+listenersf setaccessible true
+object listener iterable listenersf result
+object antrunner listener default listener runner
+
+java lang reflect field antrunnerf listener getclass getdeclaredfield
+antrunnerf setaccessible true
+antrunner antrunnerf listener
+
+catch throwable anonymous class
+
+java lang reflect field logflagf antrunner getclass getdeclaredfield logtestlistenerevents
+logflagf setaccessible true
+logflagf setboolean antrunner false
+
+catch throwable ant test runner
+
+
+catch throwable standard junit testresult
+

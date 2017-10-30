@@ -1,0 +1,29 @@
+pre
+org apach common math3 fit
+observ
+weight getweight weight getweight
+ob add
+optim valu return order
+org apach common math3 analysi function gaussian parametr gaussian
+fit point link
+param unsort input observ
+weight observ point weightedobservedpoint
+weight observ point weightedobservedpoint ob weight observ point weightedobservedpoint
+version
+input observ sort
+function
+normal
+usag
+compar weight observ point weightedobservedpoint cmp compar weight observ point weightedobservedpoint
+list weight observ point weightedobservedpoint sort observ sortobserv collect weight observ point weightedobservedpoint unsort
+link start point withstartpoint initi guess valu pass
+sort observ
+collect sort observ cmp
+gaussian curv fitter gaussiancurvefitt abstract curv fitter abstractcurvefitt levenberg marquardt optim levenbergmarquardtoptim
+paramet gaussian curv fitter gaussiancurvefitt creat fit ob
+getx getx
+geti geti
+compar weight observ point weightedobservedpoint
+list weight observ point weightedobservedpoint observ arrai list arraylist weight observ point weightedobservedpoint unsort
+sigma
+order

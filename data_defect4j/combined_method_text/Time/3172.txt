@@ -1,0 +1,17 @@
+author stephen colebourn
+param upper bound upperbound upper bound allow
+illeg field except illegalfieldvalueexcept bound
+param lower bound lowerbound lower bound allow
+illeg field except illegalfieldvalueexcept
+param check
+org joda time field
+integ lower bound lowerbound integ upper bound upperbound
+verifi input valu bound
+field util fieldutil thread safe immut
+field type fieldtyp integ
+gener util fit
+lower bound lowerbound upper bound upperbound
+verifi bound verifyvaluebound date time field type datetimefieldtyp field type fieldtyp
+integ valueof lower bound lowerbound integ valueof upper bound upperbound
+field util fieldutil
+field type fieldtyp integ valueof

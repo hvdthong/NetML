@@ -1,0 +1,11 @@
+org aspectj util
+org aspectj org eclips jdt core compil charoper
+char oper charoper
+org aspectj org eclips jdt core compil charoper
+concat
+length1 length
+length2 length
+result length1 length2
+system arraycopi result length1
+system arraycopi result length1 length2
+result

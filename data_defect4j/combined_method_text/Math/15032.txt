@@ -1,0 +1,17 @@
+search interv option start
+lower
+search interv searchinterv optim data optimizationdata
+upper
+param lower bound
+init
+param upper bound
+org apach common math3 optim univari
+search interv searchinterv
+version
+number larg except numberistoolargeexcept
+start init
+immut
+rang except outofrangeexcept code init code init
+number larg except numberistoolargeexcept code
+rang except outofrangeexcept init
+param init start

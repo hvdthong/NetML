@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+type repres type pattern annot
+color
+annot type pattern anywithannotationtypepattern type pattern typepattern
+match matchesexactli resolv type resolvedtyp type
+annot pattern annotationpattern resolv type world getworld
+type temporari annot type temporaryannotationtyp
+annot pattern annotationpattern match type type temporari annot type temporaryannotationtyp true alwaystru
+annot pattern annotationpattern match type true alwaystru

@@ -1,0 +1,9 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+sort model sortmodel build config node buildconfignod node compar compar
+node node children getchildren
+collect sort node children getchildren compar
+iter node children getchildren iter hasnext
+build config node buildconfignod node nextnod build config node buildconfignod
+node nextnod sort model sortmodel node nextnod compar

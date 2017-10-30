@@ -1,0 +1,5 @@
+org apach lucen index
+term vector term writer field termvectorstermswriterperfield term hash consum field termshashconsumerperfield
+overrid
+byte post bytesperpost
+parallel post arrai parallelpostingsarrai byte post byte post document writer documentswrit int num byte int num byte

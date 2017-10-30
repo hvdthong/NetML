@@ -1,0 +1,17 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+pre
+param optim optim fit
+optim
+usag
+fit point link
+org apach common math3 fit
+paramet fitter fit
+version gaussian fitter gaussianfitt java 14z
+deprec link gaussian curv fitter gaussiancurvefitt
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+construct instanc optim
+link weight observ point weightedobservedpoint
+levenberg marquardt optim levenbergmarquardtoptim
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+fitter add observ point addobservedpoint
+gaussian fitter gaussianfitt multivari vector optim multivariatevectoroptim optim

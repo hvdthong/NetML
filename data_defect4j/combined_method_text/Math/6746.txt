@@ -1,0 +1,71 @@
+pre
+org apach common math od nonstiff
+rel tol reltol compon
+param scale scale vector state vector shorter state vector
+adapt stepsiz integr adaptivestepsizeintegr
+dot scale2 ydotonscale2
+algorithm perform integr stepsiz control
+param dot1 ydot1 work arrai time deriv
+step reject attempt made
+main set dimens step accept
+step size comput
+fast math fastmath max fast math fastmath ab avoid cancel comput
+link expand state od expandablestatefulod primari state getprimaryst primari part
+dot scale2 ydotonscale2 ratio ratio
+initi integr step
+order max tol y'' tol
+ratio
+comput deriv computederiv dot1 ydot1
+max inv2 maxinv2 fast math fastmath max fast math fastmath sqrt dot scale2 ydotonscale2 dot scale yddotonscal
+param state vector
+param start time
+param dot0 ydot0 time deriv
+max step getmaxstep
+guess perform euler step
+length
+estim deriv solut
+state vector stepsiz control complet state vector
+version
+dot scale yddotonscal
+compon user scalar valu ab tol abstol
+forward
+user provid
+dot scale yddotonscal ratio ratio
+sqrt sum err est errest threshold
+scale2 yonscale2 dot scale2 ydotonscale2
+state vector rel tol reltol rel toler
+integr step
+initi step initializestep forward order scale
+threshold ab tol abstol rel tol reltol max ab ab
+org apach common math od order differenti equat firstorderdifferentialequ basic od
+param order order method
+toler error error threshold comput
+fast math fastmath max fast math fastmath ab
+stepsiz integr ordinari differenti equat
+dot0 ydot0
+ratio scale
+ab tol abstol absolut toler compon
+mean user integr step
+hold common part adapt
+fast math fastmath min fast math fastmath ab
+extend od link
+param forward forward integr indic
+ratio dot1 ydot1 dot0 ydot0 scale
+dot scale yddotonscal fast math fastmath sqrt dot scale yddotonscal
+initi step initialstep
+ordinari differenti equat link expand state od expandablestatefulod
+dot1 ydot1
+forward initi step initialstep initi step initialstep
+perform euler step preced rough guess
+max inv2 maxinv2
+scale2 yonscale2 ratio ratio
+estim error
+fast math fastmath sqrt scale2 yonscale2 dot scale2 ydotonscale2
+param work arrai state vector
+stepsiz
+scale2 yonscale2
+rough guess scale scale
+scale length
+min step getminstep
+fast math fastmath pow max inv2 maxinv2 order
+ratio dot0 ydot0 scale

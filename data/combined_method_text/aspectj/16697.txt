@@ -1,0 +1,52 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+set modifi setmodifi singl variabl declar singlevariabledeclar variabl decl variabledecl local declar localdeclar local declar localdeclar
+ast api level apilevel
+ast jls2 intern jls2 intern
+variabl decl variabledecl intern set modifi internalsetmodifi local declar localdeclar modifi extra compil modifi extracompilermodifi acc flag accjustflag
+local declar localdeclar annot
+variabl decl variabledecl set flag setflag variabl decl variabledecl flag getflag ast node astnod malform
+ast jls3
+scanner reset resetto local declar localdeclar declar sourc start declarationsourcestart local declar localdeclar sourc start sourcestart
+org aspectj org eclips jdt intern compil ast annot annot local declar localdeclar annot
+index annot indexinannot
+token
+token scanner token getnexttoken termin token terminaltoken token eof tokennameeof
+extend modifi iextendedmodifi modifi
+token
+termin token terminaltoken token nameabstract tokennameabstract
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword abstract keyword abstract keyword
+termin token terminaltoken token namepubl tokennamepubl
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword public keyword public keyword
+termin token terminaltoken token namestat tokennamestat
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword static keyword static keyword
+termin token terminaltoken token nameprotect tokennameprotect
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword protect keyword protect keyword
+termin token terminaltoken token namepriv tokennamepriv
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword privat keyword privat keyword
+termin token terminaltoken token namefin tokennamefin
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword final keyword final keyword
+termin token terminaltoken token namen tokennamen
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword nativ keyword nativ keyword
+termin token terminaltoken token namesynchron tokennamesynchron
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword synchron keyword synchron keyword
+termin token terminaltoken token nametransi tokennametransi
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword transient keyword transient keyword
+termin token terminaltoken token namevolatil tokennamevolatil
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword volatil keyword volatil keyword
+termin token terminaltoken token namestrictfp tokennamestrictfp
+modifi creat modifi createmodifi modifi modifi keyword modifierkeyword strictfp keyword strictfp keyword
+termin token terminaltoken token tokennameat
+annot
+annot index annot indexinannot annot length
+org aspectj org eclips jdt intern compil ast annot annot annot index annot indexinannot
+modifi convert annot
+scanner reset resetto annot declar sourc end declarationsourceend compil unit sourc length compilationunitsourcelength
+termin token terminaltoken token comment block tokennamecom block
+termin token terminaltoken token comment line tokennamecom line
+termin token terminaltoken token comment javadoc tokennamecom javadoc
+modifi
+variabl decl variabledecl modifi add modifi
+invalid input except invalidinputexcept
+ignor

@@ -1,0 +1,12 @@
+author stephen colebourn
+org joda time chrono
+basic chronolog basicgjchronolog thread safe immut subclass
+author gui allard
+abstract chronolog implement chronolog base gregorian julian formula
+dai month max getdaysinmonthmax instant
+author brian neill o'neil
+util method requir subclass
+dai month max set getdaysinmonthmaxforset instant
+basic chronolog basicgjchronolog basic chronolog basicchronolog
+refactor common chronolog commongjchronolog
+reflect intent defin

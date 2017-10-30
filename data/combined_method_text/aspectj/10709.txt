@@ -1,0 +1,19 @@
+org aspectj ajd swing
+repres configur structur view system render
+code structuretreemanag code
+author mik kersten
+browser view panel browserviewpanel panel jpanel structur view render structureviewrender
+init depth slider initdepthslid
+depth slider set minimum setminimum
+depth slider set maximum setmaximum
+depth slider set minor tick space setminortickspac
+depth slider set setvalu
+depth slider set snap tick setsnaptotick
+depth slider set paint track setpainttrack
+depth slider set paint tick setpainttick
+depth slider addchangelisten
+changelisten
+public void statechang changeev
+depthsliderv depth slider getvalu
+ajdeuimanag getdefault getviewmanag updateview
+depthsliderv depth slider getvalu

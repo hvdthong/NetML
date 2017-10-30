@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+super perfromsup claus perclaus
+claus perclaus concret resolv type resolvedtyp aspect inaspect
+claus perclaus lookup concret claus lookupconcreteperclaus aspect inaspect superclass getsuperclass
+aspect inaspect world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil error weaver messag weavermessag format weaver messag weavermessag miss claus miss claus aspect inaspect superclass getsuperclass sourc locat getsourceloc
+singleton persingleton concret aspect inaspect return persingleton concret inaspect fallback npe ajdt
+kind getkind kind
+aspect inaspect world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil error weaver messag weavermessag format weaver messag weavermessag wrong claus wrong claus kind kind getkind
+sourc locat getsourceloc
+concret aspect inaspect

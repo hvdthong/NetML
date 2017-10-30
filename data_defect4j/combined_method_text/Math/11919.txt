@@ -1,0 +1,13 @@
+org apach common math3 fit leastsquar
+cost
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+arrai real vector arrayrealvector arrai real vector arrayrealvector residu
+comput cost
+fast math fastmath sqrt dot product dotproduct weight oper
+comput residu computeresidu
+version
+param optim concret optim
+base implement squar optim
+param residu residu
+method error estim
+comput cost computecost residu

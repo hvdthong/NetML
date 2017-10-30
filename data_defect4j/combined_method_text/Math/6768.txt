@@ -1,0 +1,35 @@
+overrid
+org apach common math od nonstiff
+eta theta
+step final need interpol
+inherit doc inheritdoc
+dot3 theta theta
+od integr dormand princ integr
+dot5 ydot5 dot ydotk
+interpol state interpolatedst length
+deriv except derivativeexcept
+dot0 ydot0
+dot2 ydot2 dot ydotk
+comput interpol vector time step
+interpol state interpolatedst
+dormand prince54 step interpol dormandprince54stepinterpol
+dot2 theta twotheta
+version
+version revis date
+a70 dot0 ydot0 a72 dot2 ydot2 a73 dot3 ydot3 a74 dot4 ydot4 a75 dot5 ydot5
+dot0 ydot0 dot ydotk
+interpol deriv interpolatedderiv dot2 dot3 dot4
+current state currentst minu theta oneminusthetah theta theta eta
+dot4 theta twotheta theta theta twotheta
+dot3 ydot3 dot ydotk
+dot4 ydot4 dot ydotk
+vector initi vectorsiniti
+comput interpol state deriv computeinterpolatedstateandderiv theta
+dot6 ydot6
+dot6 ydot6 dot ydotk
+dot0 ydot0 dot2 ydot2 dot3 ydot3 dot4 ydot4 dot5 ydot5 dot6 ydot6
+repres interpol step
+theta twotheta theta
+interpol
+dormand prince54 integr dormandprince54integr
+minu theta oneminusthetah

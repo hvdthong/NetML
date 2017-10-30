@@ -1,0 +1,53 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+return resolvedmemb type variabl signatur
+replac bind
+'isparameterized' flag tell creat raw type
+version isparameter list turn
+list string isparameter list turn
+list
+resolv member impl resolvedmemberimpl parameter parameterizedwith unresolv type unresolvedtyp type paramet typeparamet resolv type resolvedtyp declar type newdeclaringtyp parameter isparameter list alias
+isparameter bit
+declar type getdeclaringtyp gener type isgenerictyp
+illeg state except illegalstateexcept parameter member gener type declar type getdeclaringtyp kind declar type getdeclaringtyp type kind typekind
+type variabl typevari type variabl typevari declar type getdeclaringtyp type variabl gettypevari
+parameter isparameter type variabl typevari length type paramet typeparamet length
+illeg state except illegalstateexcept wrong number type paramet suppli
+map type map typemap hash map hashmap
+type paramet suppli typeparameterssuppli type paramet typeparamet type paramet typeparamet length
+type variabl typevari
+'replacements' suppli typeparamet arrai collaps
+type variabl bound
+type variabl typevari length
+unresolv type unresolvedtyp type paramet suppli typeparameterssuppli type variabl typevari bound getfirstbound type paramet typeparamet
+type map typemap put type variabl typevari getnam
+itd gener type type variabl target type alias
+record altern name itd express map
+type variabl real
+alias
+posn
+iter iter alias iter iter hasnext
+string type variabl alia typevariablealia string iter
+type map typemap put type variabl alia typevariablealia type paramet suppli typeparameterssuppli type variabl typevari posn bound getfirstbound type paramet typeparamet posn
+posn
+unresolv type unresolvedtyp parameter return type parameterizedreturntyp parameter gener return type getgenericreturntyp type map typemap parameter isparameter
+unresolv type unresolvedtyp parameter paramet type parameterizedparametertyp unresolv type unresolvedtyp gener paramet type getgenericparametertyp length
+unresolv type unresolvedtyp gener paramet type genericparametertyp gener paramet type getgenericparametertyp
+parameter paramet type parameterizedparametertyp length
+parameter paramet type parameterizedparametertyp
+parameter gener paramet type genericparametertyp type map typemap parameter isparameter
+resolv member impl resolvedmemberimpl ret resolv member impl resolvedmemberimpl
+kind getkind
+declar type newdeclaringtyp
+modifi getmodifi
+parameter return type parameterizedreturntyp
+getnam
+parameter paramet type parameterizedparametertyp
+except getexcept
+ret set type variabl settypevari type variabl gettypevari
+ret set sourc context setsourcecontext sourc context getsourcecontext
+ret set posit setposit start getstart end getend
+ret set paramet name setparameternam paramet name getparameternam
+ret

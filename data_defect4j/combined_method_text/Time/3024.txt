@@ -1,0 +1,24 @@
+set instant
+text getastext
+author brian neill o'neil
+param local local select text symbol
+base date time field basedatetimefield common behaviour date time field datetimefield
+implement code convert text converttext string local code
+org joda time field
+set instant string text local local
+param instant millisecond t00 01t00 00z set
+base date time field basedatetimefield date time field datetimefield
+param text text set
+decor date time field decorateddatetimefield
+object referenc
+local local
+convert text converttext text local
+illeg argument except illegalargumentexcept text invalid
+updat millisecond
+base date time field basedatetimefield thread safe immut subclass
+date time field datetimefield kind date time field datetimefield
+set millisecond suppli human readabl text
+note subclass overrid method overrid
+link set
+implement
+gener directli api user

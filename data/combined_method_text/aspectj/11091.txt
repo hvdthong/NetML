@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener cflow push method generatepercflowpushmethod
+class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil world make method bind makemethodbind ajc member maker ajcmembermak cflow push percflowpush
+factori bind frombind bind
+bodi gener bodygener
+gener code stream codestream code stream codestream
+bodi start
+code stream codestream getstat
+world make field bind makefieldbind
+ajc member maker ajcmembermak cflow field percflowfield
+type typex
+code stream codestream bind
+code stream codestream dup
+code stream codestream invokespeci
+method bind methodbind init char arrai tochararrai
+type bind typebind void type bind typebind
+refer bind referencebind bind
+code stream codestream invokevirtu world make method bind call makemethodbindingforcal
+ajc member maker ajcmembermak cflow stack push instanc cflowstackpushinst
+code stream codestream return
+bodi end

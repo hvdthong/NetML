@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+visitor turn pointcut type pattern equival perthi pertarget match
+pertarget target foo foo special case
+pertarget execut foo foo
+perthi call foo
+perthi call foo absorb
+author href mailto alex gnilux dot alexandr vasseur
+target pointcut visitor perthisortargetpointcutvisitor ident pointcut visitor identitypointcutvisitor
+object visit annot pointcut withinannotationpointcut node object data
+target istarget
+annot type pattern anywithannotationtypepattern node annot type pattern getannotationtypepattern

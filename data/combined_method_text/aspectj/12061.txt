@@ -1,0 +1,55 @@
+org aspectj ajdt intern core builder
+eclips adapt util eclipseadapterutil
+extract messag text sourc locat includ context
+param world
+messag imessag make messag makemessag compil unit icompilationunit unit problem iproblem problem world world
+sourc locat isourceloc sourc locat sourceloc make sourc locat makesourceloc unit problem
+problem iproblem seealso problem seealso
+sourc locat isourceloc locat seealsoloc sourc locat isourceloc seealso length
+seealso length
+locat seealsoloc sourc locat sourceloc file string seealso origin file getoriginatingfilenam
+seealso sourc line number getsourcelinenumb
+transform messag type eclips iproblem
+back type time eclips problem
+rememb messag origin declar
+extradetail
+string extra detail extradetail problem supplementari messag info getsupplementarymessageinfo
+declar
+lint messag islintmessag
+string lintkei
+extra detail extradetail extra detail extradetail end endswith deow true
+declar
+extra detail extradetail extra detail extradetail substr extra detail extradetail length deow true length
+extra detail extradetail extra detail extradetail index indexof xlint
+lint messag islintmessag
+lintkei extra detail extradetail substr extra detail extradetail index indexof xlint
+lintkei lintkei substr xlint length
+lintkei lintkei substr lintkei index indexof
+'problem' repres kind thing messag kind
+repres ajdt see correctli
+messag imessag kind kind
+problem getid problem iproblem task
+kind messag imessag tasktag
+problem error iserror kind messag imessag error
+kind messag imessag warn
+messag imessag msg
+lint messag islintmessag
+msg lint messag lintmessag
+problem messag getmessag
+extra detail extradetail
+world lint getlint kei fromkei lintkei
+kind
+sourc locat sourceloc
+locat seealsoloc
+declar
+problem getid
+problem sourc start getsourcestart problem sourc end getsourceend
+msg messag problem messag getmessag
+extra detail extradetail
+kind
+sourc locat sourceloc
+locat seealsoloc
+declar
+problem getid
+problem sourc start getsourcestart problem sourc end getsourceend
+msg

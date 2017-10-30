@@ -1,0 +1,10 @@
+abstract list chromosom abstractlistchromosom represent invalid represent except invalidrepresentationexcept
+arrai list aslist represent
+abstract list chromosom abstractlistchromosom chromosom
+chromosom repres immut list fix length
+param type represent list
+version
+org apach common math3 genet
+constructor
+invalid represent except invalidrepresentationexcept iff code represent code repres valid chromosom
+param represent represent chromosom

@@ -1,0 +1,5 @@
+org apach lucen index
+segment term doc segmenttermdoc term doc termdoc
+seek term term except ioexcept
+term info terminfo parent core term reader gettermsread term
+seek term

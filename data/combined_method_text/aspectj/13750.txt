@@ -1,0 +1,13 @@
+org aspectj apach bcel gener
+invokeinterfac invok interfac method
+pre stack objectref arg1 arg2 pre
+version invokeinterfac java aclement exp
+author href mailto marku dahm berlin dahm
+invokeinterfac invok instruct invokeinstruct
+dump instruct byte code stream
+param output stream
+dump data output stream dataoutputstream except ioexcept
+write byte writebyt opcod
+write short writeshort index
+write byte writebyt narg
+write byte writebyt

@@ -1,0 +1,10 @@
+durat field durationfield dai
+org joda time chrono
+base chronolog basechronolog
+dai durat field chronolog
+class util method defin field unsupport
+base chronolog basechronolog skeleton implement chronolog
+unsupport durat field unsupporteddurationfield instanc getinst durat field type durationfieldtyp dai
+author brian neill o'neil
+durat field durationfield unsupport durat field unsupporteddurationfield unsupport
+base chronolog basechronolog thread safe immut subclass

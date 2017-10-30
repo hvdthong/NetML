@@ -1,0 +1,11 @@
+set degre freedom setdegreesoffreedom degre freedom degreesoffreedom
+param degre freedom degreesoffreedom degre freedom
+gamma getgamma set alpha setalpha degre freedom degreesoffreedom
+modifi degre freedom
+chi squar distribut impl chisquareddistributionimpl
+deprec
+set degre freedom intern setdegreesoffreedomintern degre freedom degreesoffreedom
+version revis date
+implement link chi squar distribut chisquareddistribut
+org apach common math distribut
+deprec immut

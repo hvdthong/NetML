@@ -1,0 +1,22 @@
+pre
+org apach common math optim fit
+isbetween boundary1 boundary2
+paramet fitter fit
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+boundary2 boundary1
+determin valu
+code boundary2 inclus code
+fit point link
+code boundary2
+version
+version revis date
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+param determin code boundary1
+gaussian fitter gaussianfitt curv fitter curvefitt
+usag
+code code code boundary1
+param boundary1 end rang
+boundary1 boundary2
+org apach common math analysi function gaussian parametr gaussian function
+param boundary2 end rang

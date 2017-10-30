@@ -1,0 +1,13 @@
+org apach common math od nonstiff
+instanc
+param interpol interpol copi copi deep
+copi arrai separ origin arrai
+repres interpol step
+copi constructor
+version
+higham hall54 integr highamhall54integr
+higham hall54 step interpol highamhall54stepinterpol
+interpol
+od integr higham hall integr
+version revis date
+higham hall54 step interpol highamhall54stepinterpol higham hall54 step interpol highamhall54stepinterpol interpol

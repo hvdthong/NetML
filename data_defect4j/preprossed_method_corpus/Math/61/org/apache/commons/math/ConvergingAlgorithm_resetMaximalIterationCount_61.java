@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math
+
+
+
+interfac algorithm handl converg set
+
+deal converg paramet set
+execut algorithm
+
+converg except convergenceexcept
+version revis date
+
+deprec remov
+
+converg algorithm convergingalgorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reset upper limit number iter
+
+suppli algorithm implement
+
+set maxim iter count setmaximaliterationcount
+
+reset maxim iter count resetmaximaliterationcount
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

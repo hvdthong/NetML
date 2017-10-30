@@ -1,0 +1,4 @@
+org aspectj apach bcel gener annot
+annot gen annotationgen
+string type gettypenam
+type signatur gettypesignatur return gettypesignatur bcelbug util signaturetostr gettypesignatur

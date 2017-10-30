@@ -1,0 +1,19 @@
+base implement multi start optim
+param goal goal type
+real point pair realpointvaluepair
+common math user api advis base code
+sort pair sortpair goal type goaltyp goal
+org apach common math optim
+goal goal type goaltyp minim
+getvalu
+compar real point pair realpointvaluepair
+version
+link multi start differenti multivari real optim multistartdifferentiablemultivariaterealoptim
+arrai sort optima compar real point pair realpointvaluepair
+param func type object function optim
+version revis date
+base multi start multivari real optim basemultistartmultivariaterealoptim func multivari real function multivariaterealfunct
+link multi start multivari real optim multistartmultivariaterealoptim
+sort optima worst code element
+intend enforc intern coher
+doubl compar doubl compar

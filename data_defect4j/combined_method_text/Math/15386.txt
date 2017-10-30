@@ -1,0 +1,18 @@
+deprec remov
+jacobian error estim
+version
+abstract squar optim abstractleastsquaresoptim
+row equal dimens
+org apach common math3 optim gener
+weight matrix sqrt weightmatrixsqrt copi
+link org apach common math3 optim target target
+squar root weight matrix
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+construct jacobian matrix function argument method
+base implement squar optim
+function column iter paramet number
+handl boilerpl method threshold set
+real matrix realmatrix weight squar root getweightsquareroot
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+optim assum row matrix iter model

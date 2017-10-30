@@ -1,0 +1,51 @@
+univari real point pair univariaterealpointvaluepair optim dooptim
+inherit doc inheritdoc
+parabol interpol step
+function defin interv code
+tol2 tol1
+converg checker getconvergencecheck
+overrid
+base python code sci scipi modul optim
+univari real point pair univariaterealpointvaluepair current
+mid start getstartvalu
+method find approxim code point
+minim deriv find minima real
+univari real point pair univariaterealpointvaluepair previou
+updat tol1
+fast math fastmath ab fast math fastmath ab
+mid
+golden section
+checker
+version
+iter
+user defin converg checker
+current
+option addit converg criteria
+min getmin
+updat
+function attain minimum
+univari function implement adapt partli
+tol2 tol2
+stop fast math fastmath ab tol2
+tol1 rel threshold relativethreshold fast math fastmath ab absolut threshold absolutethreshold
+current univari real point pair univariaterealpointvaluepair minim isminim
+stop
+org apach common math optim univari
+checker converg iter previou current
+brent optim brentoptim abstract univari real optim abstractunivariaterealoptim
+implement richard brent' algorithm book algorithm
+minim isminim
+precis equal
+fast math fastmath ab tol1
+fast math fastmath ab tol1 fit parabola
+tol1
+golden section step
+previou current
+minim isminim goal type getgoaltyp goal type goaltyp minim
+max getmax
+evalu close
+default termin brent' criterion
+comput object computeobjectivevalu
+converg checker convergencecheck univari real point pair univariaterealpointvaluepair checker
+univari real point pair univariaterealpointvaluepair minim isminim
+default stop criterion

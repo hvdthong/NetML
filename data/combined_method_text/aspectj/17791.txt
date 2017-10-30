@@ -1,0 +1,41 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+compil ajc set
+except buildexcept compil problem
+compil error failonerror true
+execut build except buildexcept
+logger task logger tasklogg
+execut
+illeg state except illegalstateexcept execut
+execut
+setup option setupopt
+verifi option verifyopt
+string arg make command makecommand
+log command logcommand
+log ajc arrai list aslist arg
+log verbos logverbos ajc arrai list aslist arg
+fork
+execut executeinsamevm arg
+fork adapt handl failonerror
+execut executeinothervm arg
+build except buildexcept
+throwabl
+logger error main render except user renderexceptionforus
+build except buildexcept ignor
+lang util langutil unqualifi class unqualifiedclassnam
+render ant logger
+execut
+tmp outjar tmpoutjar
+tmp outjar tmpoutjar delet

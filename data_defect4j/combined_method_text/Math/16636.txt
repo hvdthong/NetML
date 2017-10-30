@@ -1,0 +1,23 @@
+pre
+implement anova analysi varianc statist
+dfbg dfbg
+param statist
+implement base descript
+anova onewayanova
+link org apach common math3 distribut distribut fdistribut
+group
+param dfbg degre freedom numer group
+version
+anova stat anovastat dfbg dfwg
+param dfwg degre freedom denomin group
+dfwg dfwg
+org apach common math3 stat infer
+link org apach common math3 stat infer test ttest
+common math distribut implement estim exact valu
+abbrevi group
+test differ categori univari data
+sum squar deviat
+bodi mass index account lawyer doctor
+comput programm categori equival
+http faculti vassar lowri ch13pt1 html
+constructor

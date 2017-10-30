@@ -1,0 +1,10 @@
+org aspectj ajd javaopt
+option panel displai java compil debug option
+user add ajd getoptionsfram
+java debug option panel javadebugoptionspanel option panel optionspanel
+add border panel addborderstopanel
+parent panel parentpanel panel jpanel
+parent panel parentpanel set layout setlayout border layout borderlayout
+debug panel debugpanel panel jpanel
+debug panel debugpanel set border setbord debug compound border debugcompoundbord
+parent panel parentpanel add debug panel debugpanel border layout borderlayout center

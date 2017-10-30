@@ -1,0 +1,39 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+creat bridg method requir covari return method case
+itd appli type overrid relationship method supertyp
+due covari mismatch return valu
+requir
+super defin object string
+defin string string
+bridg method call 'object string forward 'string string
+creat bridg method covari createanybridgemethodsforcovari bcel class weaver bcelclassweav weaver method type munger newmethodtypemung munger resolv member resolvedmemb mangl inter method unmangledintermethod resolv type resolvedtyp type ontyp lazi class gen lazyclassgen gen type param type paramtyp
+perform bottleneck investig method analysi type hierarchi expens
+covari bridg
+algorithm step1 check type creat bridg method
+step2 'override' method differ return type covari
+step3 creat forward bridg method
+resolv type resolvedtyp superclass type ontyp superclass getsuperclass
+quit quitrightnow
+string local method localmethodnam mangl inter method unmangledintermethod getnam
+string local paramet sig localparametersig mangl inter method unmangledintermethod paramet signatur getparametersignatur
+string local return type sig localreturntypeesig mangl inter method unmangledintermethod return type getreturntyp erasur signatur geterasuresignatur
+step1
+alreadydon boolean alreadydon fals compil
+resolv member resolvedmemb local method localmethod type ontyp declar method getdeclaredmethod
+local method localmethod length
+resolv member resolvedmemb member local method localmethod
+member getnam equal local method localmethodnam
+check param
+member paramet signatur getparametersignatur equal local paramet sig localparametersig alreadydon
+step2
+alreadydon
+iter form 'getmethod work
+iter iter type ontyp superclass getsuperclass method getmethod iter hasnext quit quitrightnow
+resolv member resolvedmemb method amethod resolv member resolvedmemb iter
+method amethod getnam equal local method localmethodnam method amethod paramet signatur getparametersignatur equal local paramet sig localparametersig
+check return type bridg method
+method amethod return type getreturntyp erasur signatur geterasuresignatur equal local return type sig localreturntypeesig modifi privat ispriv method amethod modifi getmodifi
+step3
+creat bridg method createbridgemethod weaver world getworld munger mangl inter method unmangledintermethod gen param type paramtyp method amethod
+quit quitrightnow

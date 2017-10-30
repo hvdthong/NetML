@@ -1,0 +1,22 @@
+org aspectj weaver
+refer type repres 'real' type primit arrai
+real type java util list referencetyp deleg
+underli artifact eclips artifact
+bcel artifact type repres raw type
+gener form generictyp field set point
+gener type parameter type gener type
+set point gener form
+refer type referencetyp resolv type resolvedtyp
+constructor creat raw type
+refer type referencetyp
+resolv type resolvedtyp gener type thegenerictyp
+world world aworld
+gener type thegenerictyp erasur signatur geterasuresignatur
+gener type thegenerictyp erasur signatur geterasuresignatur
+world aworld
+refer type referencetyp gener refer type genericreferencetyp refer type referencetyp gener type thegenerictyp
+type paramet typeparamet
+gener type generictyp gener refer type genericreferencetyp
+type kind typekind type kind typekind raw
+deleg gener refer type genericreferencetyp deleg getdeleg
+gener refer type genericreferencetyp add depend type adddependenttyp

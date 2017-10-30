@@ -1,0 +1,9 @@
+org aspectj util
+lang util langutil
+init string command string label
+command string lang util langutil safe copi safecopi command string
+command length
+illeg argument except illegalargumentexcept empti command
+label lang util langutil empti isempti label command label
+init
+reinit

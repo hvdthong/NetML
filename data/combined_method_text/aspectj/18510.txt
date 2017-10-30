@@ -1,0 +1,11 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb type instanc pertypewithingetinst unresolv type unresolvedtyp declar type declaringtyp
+privat static ajc getinst java lang class
+resolv member impl resolvedmemberimpl resolv member impl resolvedmemberimpl
+member method
+declar type declaringtyp
+privat static privat static
+declar type declaringtyp declaringtyp return
+mangler namemangl pertypewithin getinst method pertypewithin getinst method
+unresolv type unresolvedtyp unresolv type unresolvedtyp java lang class java lang class

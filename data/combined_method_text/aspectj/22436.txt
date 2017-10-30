@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+pattern parser patternpars
+list pars dot identifi parsedottedidentifi
+list ret arrai list arraylist
+ret add pars identifi parseidentifi
+eat maybeeat
+ret add pars identifi parseidentifi
+ret

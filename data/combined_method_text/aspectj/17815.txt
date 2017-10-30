@@ -1,0 +1,22 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+flag copi class content injar
+outjar compil complet
+requir injar outjar
+param docopi
+set copi injar setcopyinjar copi docopi
+ignor copyinjar
+log copyinjar requir project msg warn msg warn
+copyinjar docopi

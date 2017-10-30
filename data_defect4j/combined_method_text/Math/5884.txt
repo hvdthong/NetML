@@ -1,0 +1,104 @@
+link solv place solveinplac real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+null argument except nullargumentexcept paramet code
+inherit doc inheritdoc
+link solv real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+link solv place solveinplac real linear oper reallinearoper real vector realvector real vector realvector
+link adjoint oper except nonselfadjointoperatorexcept linear oper
+href http www stanford group sol softwar symmlq ps75 pdf
+count iter user requir check symmetri
+middot xhat residu rhat bhat ahat
+definit adjoint work iter
+precondit
+dimens mismatch except dimensionmismatchexcept adjoint oper except nonselfadjointoperatorexcept
+comput middot solv middot
+ill condit oper except illconditionedoperatorexcept code ill condit
+solut transform system rhat current estim
+paig1975 paig saunder
+present context iter understood evalu
+word number iter requir reach converg
+adjoint oper except nonselfadjointoperatorexcept link check getcheck
+code code adjoint
+present definit iter count differ adopt
+implement symmlq iter linear solver propos
+number iter symmlq slightli work iter
+matrix vector product middot initi phase
+solut spars indefinit system linear equat siam
+set
+context except context
+kei code vector2 point offend vector
+param linear oper system
+comput vector approxim unnorm eigenvector
+middot middot
+entail matrix vector product initi phase
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+ident check requir
+larg base fortran code michael saunder
+version
+middot accuraci
+real vector realvector arrai real vector arrayrealvector column dimens getcolumndimens
+slightli shift
+refer
+math util mathutil check null checknotnul
+xhat bhat ahat middot shift middot
+href paig1975 paig saunder implement
+initi phase good approxim
+conjug gradient prefer requir
+middot bhat middot solut
+code paramet
+precondition symmetr link except context exceptioncontext
+method invers iter rayleigh quotient iter
+link real linear oper reallinearoper vector oper
+link solv place solveinplac real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+middot middot xhat middot ahat middot
+inconsist code
+param hand side vector
+stop criterion implement iter stop rhat
+custom link max count exceed callback maxcountexceededcallback callback set
+real vector realvector solv real linear oper reallinearoper real vector realvector
+org apach common math linear
+provid posit definit precondition middot
+dimens mismatch except dimensionmismatchexcept code dimens
+construct
+initguess initi guess solut
+linear oper shift middot posit
+journal numer analysi
+kei code vector1 point offend vector
+residu delta user toler
+account
+standard link dimens mismatch except dimensionmismatchexcept
+ill condit oper except illconditionedoperatorexcept max count exceed except maxcountexceededexcept
+iter count
+paig saunder
+precondit reduc number iter requir solver
+return estim solut linear system middot
+middot xhat middot shift middot middot
+product account iter count
+overrid
+link solv real linear oper reallinearoper real vector realvector real vector realvector
+stopcrit default stop criterion
+kei code vector point offend vector
+system form middot solv effici symmlq
+precondition posit definit relev kei
+symm symmlq
+shift scalar shift suitabl chosen
+vector solut
+delta ahat xhat xhat current estim
+requir posit definit definit method
+link solv real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+max count exceed except maxcountexceededexcept exhaust iter count
+solv place solveinplac
+href http www stanford group sol softwar symmlq f77
+symmlq design solv system linear equat middot
+link except context exceptioncontext
+link posit definit oper except nonpositivedefiniteoperatorexcept thrown
+squar oper except nonsquareoperatorexcept code squar
+origin fotran code initi phase
+kei code oper point offend linear oper
+middot
+approxim shift middot sens
+time adjoint linear oper defin
+symmlq design solv system shift middot middot
+inform
+implicitli solv system equat middot shift middot
+middot middot middot
+consid initi guess set

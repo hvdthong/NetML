@@ -1,0 +1,22 @@
+org aspectj weaver
+iter
+creat iter base base iter getter
+return order foral
+iter map mapov iter getter
+iter
+iter deleg
+iter
+hasnext
+hasnext
+object
+deleg append1
+deleg hasnext
+object
+hasnext unsupport oper except unsupportedoperationexcept
+deleg
+remov unsupport oper except unsupportedoperationexcept
+hasnext
+deleg hasnext
+object
+deleg
+remov unsupport oper except unsupportedoperationexcept

@@ -1,0 +1,18 @@
+pre
+gill integr gillintegr
+step interpol stepinterpol copi docopi
+gill step interpol gillstepinterpol
+copi final instanc
+order rung kutta integr
+theta theta
+step comput interpol equat consist
+integr scheme
+theta theta theta
+evalu deriv comput
+step
+step interpol gill fourth
+interpol comput dens output insid
+theta
+theta belong sqrt
+org apach common math od
+version revis date

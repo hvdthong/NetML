@@ -1,0 +1,20 @@
+overrid
+fast math fastmath exp gamma log gamma loggamma plus1 over2 nplus1over2
+param point densiti comput
+fast math fastmath exp gamma log gamma loggamma plus1 over2 nplus1over2 fast math fastmath log fast math fastmath fast math fastmath log
+version
+return probabl densiti point
+inherit doc inheritdoc
+densiti
+pdf point
+math exp gamma log gamma loggamma plus1 over2 nplus1over2 math log math math log
+link org apach common math distribut distribut tdistribut
+plus1 over2 nplus1over2
+gamma log gamma loggamma plus1 over2 nplus1over2 math log
+distribut impl tdistributionimpl
+version revis date
+degre freedom degreesoffreedom
+default implement
+org apach common math distribut
+gamma log gamma loggamma plus1 over2 nplus1over2 fast math fastmath log
+fast math fastmath log fast math fastmath fast math fastmath log

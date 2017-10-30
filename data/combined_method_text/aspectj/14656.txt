@@ -1,0 +1,28 @@
+org aspectj apach bcel util
+class take javaclass object convert
+java program creat class bcel
+user bcel show thing
+bcel cover featur bcel
+mimic hand written code close
+version bcelifi java aclement exp
+author href mailto marku dahm berlin dahm
+bce lifier bcelifi org aspectj apach bcel classfil empti visitor emptyvisitor
+visit method visitmethod method method
+method gen methodgen method gen methodgen method clazz class getclassnam
+type result type return type getreturntyp
+type arg type argument type getargumenttyp
+println instructionlist instructionlist
+println methodgen method methodgen
+print flag printflag method access flag getaccessflag
+print type printtyp result type
+print argument type printargumenttyp arg type
+string
+util print arrai printarrai argument name getargumentnam
+method getnam
+clazz class getclassnam
+bcel factori bcelfactori factori bcel factori bcelfactori
+factori start
+println method setmaxstack
+println method setmaxloc
+println addmethod method getmethod
+println dispos

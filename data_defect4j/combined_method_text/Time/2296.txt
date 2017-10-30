@@ -1,0 +1,13 @@
+author stephen colebourn
+base param min dai week mindaysinfirstweek
+basic chronolog basicgjchronolog chronolog base object param min dai week mindaysinfirstweek
+org joda time chrono
+basic chronolog basicgjchronolog thread safe immut subclass
+author gui allard
+abstract chronolog implement chronolog base gregorian julian formula
+constructor
+author brian neill o'neil
+util method requir subclass
+basic chronolog basicgjchronolog basic chronolog basicchronolog
+refactor common chronolog commongjchronolog
+reflect intent defin

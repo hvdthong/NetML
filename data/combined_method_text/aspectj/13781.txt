@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+isub substract int
+pre stack value1 value2 result pre
+version isub java aclement exp
+author href mailto marku dahm berlin dahm
+isub arithmet instruct arithmeticinstruct
+substract int
+isub
+org aspectj apach bcel constant isub

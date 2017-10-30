@@ -1,0 +1,12 @@
+author stephen colebourn
+durat field type durationfieldtyp field type getfieldtyp
+kind period object referenc
+link readabl period readableperiod
+manag singl durat field dai minut
+base singl field period basesinglefieldperiod implement readabl period readableperiod
+base singl field period basesinglefieldperiod subclass mutabl thread safe
+durat field type
+org joda time base
+base singl field period basesinglefieldperiod
+gener directli api user
+singl durat field type

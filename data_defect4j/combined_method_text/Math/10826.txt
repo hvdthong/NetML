@@ -1,0 +1,19 @@
+org apach common math3 analysi solver
+param rel accuraci relativeaccuraci rel accuraci
+version
+brent algorithm find zero real univari function
+function accuraci functionvalueaccuraci
+brent solver brentsolv abstract univari solver abstractunivariatesolv
+param function accuraci functionvalueaccuraci function accuraci
+brent solver brentsolv rel accuraci relativeaccuraci
+interv code toler
+function continu necessarili smooth
+code ep ab code ep rel accuraci
+code absolut accuraci
+absolut accuraci absoluteaccuraci
+code solv method return code function code
+param absolut accuraci absoluteaccuraci absolut accuraci
+interv bracket root
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci function accuraci functionvalueaccuraci
+href http mathworld wolfram brent method brentsmethod html
+construct solver

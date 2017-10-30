@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math3 optim nonlinear vector jacobian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gauss newton squar solver
+
+constraint support call
+link optim optim data optimizationdata optim
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+
+
+solv squar problem solv normal equat
+linear problem iter decomposit
+decomposit solv normal equat decomposit
+faster decomposit robust difficult problem
+
+
+version
+
+deprec class interfac deprec
+optim provid move
+link org apach common math3 fit leastsquar
+math
+
+
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+math unsupport oper except mathunsupportedoperationexcept bound pass
+link optim optim data optimizationdata optim method
+
+check paramet checkparamet
+lower bound getlowerbound
+upper bound getupperbound
+math unsupport oper except mathunsupportedoperationexcept local format localizedformat constraint
+
+
+

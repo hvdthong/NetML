@@ -1,0 +1,12 @@
+org aspectj bridg
+wrap imessagehandl count messag handl
+messag deleg imessagehandl count
+count messag handler countingmessagehandl messag handler imessagehandl
+increment messag imessag kind kind
+proxi
+illeg state except illegalstateexcept call proxi
+int holder inthold counter int holder inthold counter kind
+counter
+counter int holder inthold
+counter put kind counter
+counter count

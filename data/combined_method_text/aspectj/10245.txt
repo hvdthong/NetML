@@ -1,0 +1,42 @@
+org aspectj ajd
+singleton class initi ajd properti requir
+run compil user call ajd init
+getter method properti set
+initi
+author mik kersten
+ajd
+initi ajd set compil
+init compil configur icompilerconfigur compil config compilerconfig
+iui build messag handler iuibuildmessagehandl build messag handler uibuildmessagehandl
+build progress monitor ibuildprogressmonitor monitor editor adapt editoradapt editor adapt editoradapt
+id adapt ideuiadapt id adapt ideuiadapt icon registri iconregistri icon registri iconregistri
+frame root frame rootfram runtim properti iruntimeproperti runtim properti runtimeproperti
+file view usefileview
+instanc compil config compilerconfig compil config compilerconfig
+instanc build msg handler uibuildmsghandl build messag handler uibuildmessagehandl
+instanc build progress monitor buildprogressmonitor monitor
+instanc icon registri iconregistri icon registri iconregistri
+instanc id adapt ideuiadapt id adapt ideuiadapt
+instanc build config editor buildconfigeditor tree view build config editor treeviewbuildconfigeditor
+instanc root frame rootfram root frame rootfram
+instanc runtim properti runtimeproperti runtim properti runtimeproperti
+instanc configur manag configurationmanag
+add listen addlisten instanc structur updat config listen structur updat config listen
+instanc id adapt ideuiadapt id adapt ideuiadapt
+instanc editor adapt editoradapt editor adapt editoradapt
+instanc structur search manag structuresearchmanag structur search manag structuresearchmanag
+instanc structur view manag structureviewmanag structur view manag structureviewmanag
+swing tree view node factori swingtreeviewnodefactori icon registri iconregistri
+file view usefileview
+file structur view filestructureview structur view structureview structur view manag structureviewmanag
+creat view sourc file createviewforsourcefil editor adapt editoradapt curr file getcurrfil
+structur view manag structureviewmanag default view properti getdefaultviewproperti
+structur view manag structureviewmanag set default file view setdefaultfileview structur view structureview
+file structur panel filestructurepanel structur view panel structureviewpanel structur view structureview
+view manag viewmanag browser view manag browserviewmanag
+option frame optionsfram option frame optionsfram icon registri iconregistri
+initi
+throwabl
+messag error messag ajd fail initil
+messag imessag abort
+build msg handler uibuildmsghandl handl messag handlemessag error

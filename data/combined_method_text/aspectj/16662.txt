@@ -1,0 +1,43 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+infix express infixexpress oper oper getoperatorfor oper operatorid
+oper operatorid
+org aspectj org eclips jdt intern compil ast oper id operatorid equal equal equal equal
+infix express infixexpress oper equal
+org aspectj org eclips jdt intern compil ast oper id operatorid equal equal
+infix express infixexpress oper equal equal
+org aspectj org eclips jdt intern compil ast oper id operatorid greater equal greater equal
+infix express infixexpress oper greater equal greater equal
+org aspectj org eclips jdt intern compil ast oper id operatorid equal equal
+infix express infixexpress oper equal equal
+org aspectj org eclips jdt intern compil ast oper id operatorid left shift left shift
+infix express infixexpress oper left shift left shift
+org aspectj org eclips jdt intern compil ast oper id operatorid shift shift
+infix express infixexpress oper shift sign shift sign
+org aspectj org eclips jdt intern compil ast oper id operatorid unsign shift unsign shift
+infix express infixexpress oper shift unsign shift unsign
+org aspectj org eclips jdt intern compil ast oper id operatorid
+infix express infixexpress oper condit condit
+org aspectj org eclips jdt intern compil ast oper id operatorid
+infix express infixexpress oper condit condit
+org aspectj org eclips jdt intern compil ast oper id operatorid
+infix express infixexpress oper
+org aspectj org eclips jdt intern compil ast oper id operatorid minu
+infix express infixexpress oper minu
+org aspectj org eclips jdt intern compil ast oper id operatorid remaind
+infix express infixexpress oper remaind
+org aspectj org eclips jdt intern compil ast oper id operatorid xor
+infix express infixexpress oper xor
+org aspectj org eclips jdt intern compil ast oper id operatorid
+infix express infixexpress oper
+org aspectj org eclips jdt intern compil ast oper id operatorid multipli
+infix express infixexpress oper time
+org aspectj org eclips jdt intern compil ast oper id operatorid
+infix express infixexpress oper
+org aspectj org eclips jdt intern compil ast oper id operatorid divid
+infix express infixexpress oper divid
+org aspectj org eclips jdt intern compil ast oper id operatorid greater
+infix express infixexpress oper greater
+org aspectj org eclips jdt intern compil ast oper id operatorid
+infix express infixexpress oper

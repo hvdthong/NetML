@@ -1,0 +1,18 @@
+unit milli iunitmilli unit unit milli getunitmilli
+unit precis isprecis
+param type field type
+precis datetim field precis unit durat field
+unit milli iunitmilli
+precis durat date time field precisedurationdatetimefield date time field type datetimefieldtyp type durat field durationfield unit
+org joda time field
+illeg argument except illegalargumentexcept durat field imprecis
+subclass
+param unit precis unit durat dai
+precis durat date time field precisedurationdatetimefield base date time field basedatetimefield
+illeg argument except illegalargumentexcept unit durat field precis
+constructor
+author brian neill o'neil
+precis durat date time field precisedurationdatetimefield thread safe immut
+illeg argument except illegalargumentexcept unit millisecond
+type
+unit field iunitfield unit

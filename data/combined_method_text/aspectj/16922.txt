@@ -1,0 +1,89 @@
+org aspectj org eclips jdt core dom
+intern ast visitor serial ast quick dirti fashion
+reason result string necessarili legal
+java code legal java code necessarili string
+correspond ast useless purpos
+fine gener debug print string
+usag
+code
+pre
+naiveastflatten naiveastflatten
+node accept
+string result getresult
+pre
+code
+call code reset code method clear previou result reus
+exist instanc
+naiv ast flatten ajnaiveastflatten ast visitor ajastvisitor
+visit type declar typedeclar node
+node javadoc getjavadoc
+node javadoc getjavadoc accept
+node ast getast api level apilevel ast jls2 intern jls2 intern
+print modifi printmodifi node modifi getmodifi
+node ast getast api level apilevel ast jls3
+print modifi printmodifi node modifi
+buffer append node isinterfac interfac class nl nl
+node interfac isinterfac
+buffer append interfac buffer append interfac nl
+type declar ajtypedeclar node aspect isaspect
+buffer append aspect buffer append aspect nl
+buffer append class buffer append class nl
+node getnam accept
+node ast getast api level apilevel ast jls3
+node type paramet typeparamet empti isempti
+buffer append buffer append nl
+iter node type paramet typeparamet iter hasnext
+type paramet typeparamet type paramet typeparamet
+accept
+hasnext
+buffer append buffer append nl
+buffer append buffer append nl
+buffer append buffer append nl
+node ast getast api level apilevel ast jls2 intern jls2 intern
+node intern superclass internalgetsuperclass
+buffer append extend buffer append extend nl
+node intern superclass internalgetsuperclass accept
+buffer append buffer append nl
+node intern super interfac internalsuperinterfac empti isempti
+buffer append node isinterfac extend implement nl nl
+node interfac isinterfac
+buffer append extend buffer append extend nl
+buffer append implement buffer append implement nl
+iter node intern super interfac internalsuperinterfac iter hasnext
+accept
+hasnext
+buffer append buffer append nl
+buffer append buffer append nl
+node ast getast api level apilevel ast jls3
+node superclass type getsuperclasstyp
+buffer append extend buffer append extend nl
+node superclass type getsuperclasstyp accept
+buffer append buffer append nl
+node super interfac type superinterfacetyp empti isempti
+buffer append node isinterfac extend implement nl nl
+node interfac isinterfac
+buffer append extend buffer append extend nl
+buffer append implement buffer append implement nl
+iter node super interfac type superinterfacetyp iter hasnext
+type type
+accept
+hasnext
+buffer append buffer append nl
+buffer append buffer append nl
+buffer append buffer append nl
+indent
+bodi declar bodydeclar prev
+iter node bodi declar bodydeclar iter hasnext
+bodi declar bodydeclar bodi declar bodydeclar
+prev enum constant declar enumconstantdeclar
+enum constant declar includ punctuat
+enum constant declar enumconstantdeclar
+enum constant declar separ comma
+buffer append buffer append nl
+semicolon separ enum constant declar
+class bodi declar
+buffer append buffer append nl
+accept
+indent
+print indent printind
+buffer append buffer append nl

@@ -1,0 +1,11 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+string extract destin path sourc file extractdestinationpathfromsourcefil compil result compilationresult result
+compil unit icompilationunit compil unit compilationunit result compil unit compilationunit
+compil unit compilationunit
+file filenam compil unit compilationunit file getfilenam
+index lastindex char oper charoper index lastindexof java file separ char separatorchar file filenam
+index lastindex
+system properti getproperti user dir return system getproperti user dir nl
+string char oper charoper subarrai file filenam index lastindex
+system properti getproperti user dir return system getproperti user dir nl

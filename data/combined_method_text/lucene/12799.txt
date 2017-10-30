@@ -1,0 +1,11 @@
+org apach lucen index
+inform segment directori file relat
+segment
+lucen experiment
+segment info segmentinfo
+construct segmentinfo instanc read
+previous save segmentinfo input
+param dir directori load
+param format format segment info file
+param input input handl read segment info
+segment info segmentinfo directori dir format index input indexinput input except ioexcept

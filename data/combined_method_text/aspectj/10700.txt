@@ -1,0 +1,20 @@
+org aspectj ajd swing
+browser structur view tool panel browserstructureviewtoolpanel panel jpanel
+init jbinit except
+set layout setlayout border layout2 borderlayout2
+button panel set layout setlayout border layout3 borderlayout3
+button panel set minimum size setminimums dimens
+button panel set prefer size setpreferreds dimens
+view combo box view combobox add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+view combo box action perform view combobox actionperform
+view label set font setfont java awt font dialog
+view label set text settext global view
+view combo box view combobox set font setfont java awt font sansserif
+view combo box view combobox set prefer size setpreferreds dimens
+view panel set layout setlayout border layout4 borderlayout4
+view panel add view label border layout borderlayout west
+add button panel border layout borderlayout east
+add spacer panel border layout borderlayout center
+add view panel border layout borderlayout west
+view panel add view combo box view combobox border layout borderlayout center

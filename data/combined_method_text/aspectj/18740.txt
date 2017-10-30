@@ -1,0 +1,7 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+chang reset haschangedsincelastreset
+chang reset changedsincelastreset

@@ -1,0 +1,15 @@
+regress result regressionresult act contain regress output
+ad regress model updat
+param variabl includ variablestoinclud arrai indic regressor includ
+index variabl includ variablestoinclud output regress result regressionresult object
+perform regress data present buffer includ regressor
+entir data set load memori observ
+estim regress statist calcul
+regress model allow dynam updat data
+regress result regressionresult regress variabl includ variablestoinclud model specif except modelspecificationexcept
+version
+model specif except modelspecificationexcept model correctli
+regress result regressionresult regress variabl includ variablestoinclud math except mathexcept
+math except mathexcept wide varieti except case check messag
+org apach common math stat regress
+updat multipl linear regress updatingmultiplelinearregress

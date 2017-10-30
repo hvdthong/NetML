@@ -1,0 +1,6 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+pipelin compil shouldpipelinecompil
+ensur advanc configur process ensureadvancedconfigurationprocess
+pipelin compil shouldpipelinecompil

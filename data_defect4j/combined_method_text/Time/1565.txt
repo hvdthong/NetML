@@ -1,0 +1,19 @@
+definit simpli inherit code compar
+approach preserv binari compat
+method applic defin code readabl instant readableinst code
+author stephen colebourn
+param field field type check return
+defin instant datetim continuum
+check field type support implement
+access retriev data chang
+support issupport date time field type datetimefieldtyp field
+readabl instant readableinst compar readabl instant readableinst
+express datetim millisecond t00 01t00 00z
+specif datetim field
+implementor recommend extend code abstract instant abstractinst
+org joda time
+field support
+paramet method read instant need
+definit comparison ascend order millisecond instant
+code compar compareto method longer defin version
+implement mutabl immut

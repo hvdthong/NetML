@@ -1,0 +1,16 @@
+open map real vector openmaprealvector dimens epsilon
+open map real vector openmaprealvector spars real vector sparserealvector
+param dimens size vector
+org apach common math3 linear
+param epsilon toler consid
+link open int doubl hash map openinttodoublehashmap back store
+remov version
+epsilon epsilon
+href http issu apach org jira brows math ticket
+link real vector realvector
+virtual size virtuals dimens
+version
+entri open int doubl hash map openinttodoublehashmap
+construct vector zero toler
+jira
+deprec version deprec reason expos

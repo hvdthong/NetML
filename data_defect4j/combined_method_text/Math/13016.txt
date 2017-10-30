@@ -1,0 +1,46 @@
+overrid
+method implement link entri getentri access
+initi column index
+inherit doc inheritdoc
+start row startrow end row endrow start column startcolumn end column endcolumn
+column count columnscount end column endcolumn start column startcolumn
+destin
+start column startcolumn start column startcolumn
+initi row index
+destin length row count rowscount destin length column count columnscount
+start row column
+start column startcolumn
+copi entri
+rang except outofrangeexcept
+basic implement link field matrix fieldmatrix method underli storag
+null argument except nullargumentexcept rang except outofrangeexcept
+check matrix index checksubmatrixindex select row selectedrow select column selectedcolumn
+destin length select column selectedcolumn length
+walk optim order walkinoptimizedord default field matrix preserv visitor defaultfieldmatrixpreservingvisitor field getzero
+row count rowscount
+version
+start column startcolumn end column endcolumn
+safeti check
+row count rowscount end row endrow start row startrow
+destin destinationi destin
+copi matrix copysubmatrix select row selectedrow select column selectedcolumn destin
+abstract field matrix abstractfieldmatrix field element fieldel
+param type field element
+destin length select row selectedrow length
+destin row start row startrow column start column startcolumn
+copi matrix copysubmatrix start row startrow end row endrow
+select column selectedcolumn length
+check matrix index checksubmatrixindex start row startrow end row endrow start column startcolumn end column endcolumn
+visit row column
+matrix dimens mismatch except matrixdimensionmismatchexcept number small except numberistoosmallexcept
+select row selectedrow length
+org apach common math3 linear
+matrix element deriv provid faster implement
+start row startrow
+matrix dimens mismatch except matrixdimensionmismatchexcept destin length
+destin length
+destin destinationi entri getentri select row selectedrow select column selectedcolumn
+start row startrow start row startrow
+matrix dimens mismatch except matrixdimensionmismatchexcept data except nodataexcept
+start row startrow end row endrow
+column count columnscount

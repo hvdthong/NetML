@@ -1,0 +1,20 @@
+open map real vector openmaprealvector abstract real vector abstractrealvector spars real vector sparserealvector serializ
+open map real vector openmaprealvector spars real vector sparserealvector serializ
+param dimens size vector
+build vector spars toler set advanc
+version
+org apach common math linear
+open map real vector openmaprealvector spars real vector sparserealvector
+param epsilon toler consid
+set advanc
+link open int doubl hash map openinttodoublehashmap back store
+build vector spars toler
+open map real vector openmaprealvector dimens expect size expecteds epsilon
+epsilon epsilon
+link real vector realvector
+virtual size virtuals dimens
+param expect size expecteds expect number entri
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+open map real vector openmaprealvector abstract real vector abstractrealvector
+entri open int doubl hash map openinttodoublehashmap expect size expecteds

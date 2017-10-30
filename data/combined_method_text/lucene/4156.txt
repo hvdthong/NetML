@@ -1,0 +1,12 @@
+org apach lucen store
+abstract base class input file link directori
+random access input stream lucen index input oper
+directori
+index input indexinput cloneabl closeabl
+read number byte arrai offset
+param arrai read byte
+param offset offset arrai start store byte
+param len number byte read
+indexoutput writebyt byte int
+read byte readbyt offset len
+except ioexcept

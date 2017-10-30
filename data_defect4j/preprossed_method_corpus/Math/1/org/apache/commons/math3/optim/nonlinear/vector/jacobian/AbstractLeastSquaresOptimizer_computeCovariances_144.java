@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math3 optim nonlinear vector jacobian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+base implement squar optim
+method error estim
+
+version
+
+deprec class interfac deprec
+optim provid move
+link org apach common math3 fit leastsquar
+math
+
+
+abstract squar optim abstractleastsquaresoptim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+covari matrix optim paramet
+
+note oper involv invers
+code code matrix code
+jacobian matrix
+code threshold paramet caller
+result comput consid meaningless
+trigger except
+
+param param model paramet
+param threshold singular threshold
+covari matrix
+org apach common math3 linear singular matrix except singularmatrixexcept
+covari matrix comput singular problem
+
+comput covari computecovari param
+threshold
+set jacobian
+real matrix realmatrix comput weight jacobian computeweightedjacobian param
+
+comput transpos
+real matrix realmatrix jtj transpos multipli
+
+comput covari matrix
+decomposit solver decompositionsolv solver
+decomposit qrdecomposit jtj threshold solver getsolv
+solver invers getinvers data getdata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

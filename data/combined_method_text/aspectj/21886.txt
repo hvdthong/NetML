@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+resolv world world
+resolv
+annot type annotationtyp annot type annotationtyp resolv world
+resolv

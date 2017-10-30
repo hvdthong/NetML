@@ -1,0 +1,6 @@
+org aspectj weaver
+mangler namemangl
+string make closur class makeclosureclassnam
+unresolv type unresolvedtyp enclos type enclosingtyp
+index
+enclos type enclosingtyp getnam ajcclosur index

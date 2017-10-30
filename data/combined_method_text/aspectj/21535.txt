@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot pattern list annotationpatternlist pattern node patternnod
+object travers pattern node visitor patternnodevisitor visitor object data
+object ret accept visitor data
+type pattern typepattern length
+type pattern typepattern travers visitor ret
+ret

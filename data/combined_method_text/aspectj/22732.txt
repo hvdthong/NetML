@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+simpl scope simplescop scope iscop
+resolv type resolvedtyp enclos type getenclosingtyp
+enclos type enclosingtyp

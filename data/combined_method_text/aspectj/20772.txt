@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+list fast match fastmatch list list resolv type resolvedtyp type
+list collect empti list empti list
+coarsest grain fast match kind constraint
+remov obviou match weav
+fast match info fastmatchinfo info fast match info fastmatchinfo type
+list result arrai list arraylist
+iter iter list iter
+iter hasnext
+shadow munger shadowmung munger shadow munger shadowmung iter
+fuzzi boolean fuzzyboolean munger pointcut getpointcut fast match fastmatch info
+weaver metric weavermetr record fast match type result recordfastmatchtyperesult weavermetr recordfastmatchtyperesult pass munger getpointcut tostr info
+true maybetru
+result add munger
+result

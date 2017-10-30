@@ -1,0 +1,29 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener object bind method generateperobjectbindmethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+refer type referencetyp interfac type interfacetyp refer type referencetyp bcel world bcelworld make bcel type makebceltyp ajc member maker ajcmembermak object interfac type perobjectinterfacetyp aspect type aspecttyp
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak object bind perobjectbind aspect type aspecttyp
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+instruct list instructionlist method bodi getbodi
+append instruct constant instructionconst aload
+append factori creat instanc createinstanceof interfac type interfacetyp
+branch instruct branchinstruct ifeq instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifeq
+append ifeq
+append instruct constant instructionconst aload
+append factori creat check cast createcheckcast interfac type interfacetyp
+append util creat invok createinvok factori constant invokeinterfac ajc member maker ajcmembermak object interfac perobjectinterfaceget aspect type aspecttyp
+branch instruct branchinstruct null ifnonnul instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifnonnul
+append null ifnonnul
+append instruct constant instructionconst aload
+append factori creat check cast createcheckcast interfac type interfacetyp
+append factori creat createnew aspect type aspecttyp getnam
+append instruct constant instructionconst dup
+append factori creat invok createinvok aspect type aspecttyp getnam init type void type arg arg constant invokespeci
+append util creat invok createinvok factori constant invokeinterfac ajc member maker ajcmembermak object interfac set perobjectinterfaceset aspect type aspecttyp
+instruct handl instructionhandl end append instruct factori instructionfactori creat return createreturn type void
+ifeq set target settarget end
+null ifnonnul set target settarget end

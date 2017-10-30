@@ -1,0 +1,19 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+structur children getallstructurechildren program element iprogramel node list result show member showsubmemb show member type showmemberandtyp
+list children node children getchildren
+node children getchildren
+iter children iter hasnext
+program element iprogramel program element iprogramel
+list rel asm manag asmmanag default getdefault relationship map getrelationshipmap
+kind getkind program element iprogramel kind code show member showsubmemb
+kind getkind program element iprogramel kind code show member type showmemberandtyp
+rel
+rel size
+result add
+structur children getallstructurechildren program element iprogramel result show member showsubmemb show member type showmemberandtyp

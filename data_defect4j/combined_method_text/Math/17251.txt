@@ -1,0 +1,14 @@
+precis equal
+param arrai
+math arrai matharrai
+length length
+org apach common math3 util
+element equal defin
+arrai util
+equal
+equal element
+link precis equal
+length
+version
+return iff argument dimens
+valu dimens

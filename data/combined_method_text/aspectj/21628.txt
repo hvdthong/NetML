@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+fuzzi boolean fuzzyboolean fast match fastmatch fast match info fastmatchinfo type
+fuzzi boolean fuzzyboolean

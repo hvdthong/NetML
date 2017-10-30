@@ -1,0 +1,16 @@
+org aspectj org eclips jdt core dom
+aspectdeclar dom ast node
+ajtypedeclar
+astnod call 'perclause'
+boolean call 'privileged'
+author ajh02
+aspect declar aspectdeclar type declar ajtypedeclar
+list advic getadvic
+ajh02 method ad
+list bodi declar bodydeclar
+list advic arrai list arraylist
+iter list iter listiter hasnext
+object decl
+decl advic declar advicedeclar
+advic add decl
+advic

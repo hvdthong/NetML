@@ -1,0 +1,21 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+return list string classpath bootclasspath injar inpath aspectpath
+entri classpath extdir classpath output dir jar
+list full classpath getfullclasspath
+list full arrai list arraylist
+full add addal bootclasspath getbootclasspath full addal getbootclasspath xxx boot classpath overrid inpath injar aspectpath
+iter jar injar iter hasnext
+full add file absolut path getabsolutepath
+iter path inpath iter hasnext
+full add file absolut path getabsolutepath
+iter aspectpath iter hasnext
+full add file absolut path getabsolutepath
+full add addal classpath getclasspath
+null outputdir
+full add outputdir getabsolutepath
+null outputjar
+full add outputjar getabsolutepath
+full

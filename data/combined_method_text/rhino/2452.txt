@@ -1,0 +1,62 @@
+org mozilla javascript
+class implement javascript parser
+base sourc file jspars jspars
+jsref packag
+tokenstream
+author mike mccabe
+author brendan eich
+parser
+pars var const statement var init list
+statement
+param infor true midst init
+claus
+param instat true call statement oppos
+express context
+param decltyp token var const depend
+context
+return pars statement
+throw ioexcept
+throw parserexcept
+node variabl infor statement instat decl type decltyp
+except ioexcept parser except parserexcept
+node result creat variabl createvari statement instat decl type decltyp token comma
+lineno getlineno
+node destructur init destructuringinit
+node destructur
+string
+peek token peektoken
+token token
+destructur assign var
+destructur primari expr primaryexpr
+simpl variabl
+match token mustmatchtoken token msg bad var
+string getstr
+decompil add token addtoken token comma
+decompil add addnam
+defin symbol definesymbol decl type decltyp
+node init
+match token matchtoken token assign
+decompil add token addtoken token assign
+init assign expr assignexpr infor
+destructur
+init
+infor
+report error reporterror msg destruct assign init
+add child back addchildtoback result destructur
+destructur init destructuringinit
+destructur init destructuringinit node token comma
+add child back addchildtoback result
+creat destructur assign createdestructuringassign decl type decltyp
+destructur init
+statement instat
+node creat createnam
+init
+add child back addchildtoback init
+add child back addchildtoback result
+init
+node string creat string createstr
+string set scope setscop current scope currentscop
+add child back addchildtoback result
+creat binari createbinari token setvar string init
+match token matchtoken token comma
+result

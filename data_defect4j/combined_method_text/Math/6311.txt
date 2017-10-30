@@ -1,0 +1,266 @@
+state vector dimens
+code
+abstract step interpol abstractstepinterpol interpol
+gragg bulirsch stoer step interpol graggbulirschstoerstepinterpol gb interpol gbsinterpol
+neglig aris
+redistribut binari form reproduc copyright
+implement basic reimplement java
+dens output denseoutput
+increas
+dot0 ydot0 length
+hnew filter step filterstep optim step optimalstep
+math ab math max math ab math ab
+fac math max pow step control4 stepcontrol4 math min pow fac
+method step size order
+od problem dimens
+max error maxerror math max error
+stepsiz control
+step laststep
+limit impli warranti merchant fit
+hnew hnew
+tmp ytmp
+diagon length
+gragg bulirsch stoer integr graggbulirschstoerintegr
+suit high precis need
+modif permit provid
+estim chanc converg
+fortran code hairer wanner redistribut polici
+factor math pow sequenc
+mid dot ymiddot sequenc length
+switch handler switcheshandl reset current currentt step laststep
+substep comput successfulli
+invalid deriv recomput
+hnew math ab filter step filterstep stabil reduct stabilityreduct
+string
+iter data
+handler handl step handlestep interpol step laststep
+version revis date
+deriv except derivativeexcept except propag caller
+ordinari differenti equat
+diag y1diag sequenc length
+set smaller code code backward integr
+dot1 ydot1 length
+embed rung kutta method link dormand prince853 integr dormandprince853integr
+current currentt dot0 ydot0 tmp ytmp tmp dot ytmpdot
+optim iter optimalit math min sequenc length
+modifi midpoint integr current substep
+softwar advis possibl damag strong
+target iter targetit math max
+initi scale
+dot1 ydot1
+cost time unit costpertimeunit
+diagon sequenc length
+mid dot ymiddot
+extrapol diagon mid dot ymiddot
+contributor liabl direct indirect incident special
+param equat differenti equat integr
+interpol gragg bulirsch stoer step interpol graggbulirschstoerstepinterpol dot0 ydot0
+comput optim stepsiz order
+reus slope begin step
+hnew math min math ab step size stepsiz optim step optimalstep target iter targetit
+equat author note problem extrem sensit
+gragg bulirsch stoer algorithm effici
+step adjust bound
+gragg bulirsch stoer step interpol graggbulirschstoerstepinterpol interpol
+hnew math min hnew int hint
+error math sqrt error length
+exemplari consequenti damag includ limit
+href http www unig hairer prog licenc txt
+strong softwar provid copyright holder
+equat comput deriv computederiv step start stepstart dot0 ydot0
+integ string tostr length
+order control1 ordercontrol1 cost time unit costpertimeunit target iter targetit
+converg reach target iter targetit
+math log
+org apach common math od
+profit busi interrupt caus theori
+smooth problem richardson
+error integr step
+step start stepstart step nextstep
+notic list condit disclaim
+step laststep forward nextt nextt
+forward current currentt
+interpol store time storetim current currentt
+author hairer wanner fortran version
+target iter targetit math min optim iter optimalit
+integr order minim comput cost
+dens output handl
+switch handler switcheshandl step accept stepaccept step nextstep
+copyright ernst hairer
+deriv end step
+step start stepstart
+gb interpol gbsinterpol comput coeffici computecoeffici
+integr except integratorexcept dimens mismatch
+hnew math ab switch handler switcheshandl event time geteventtim current currentt
+cost time unit costpertimeunit order control2 ordercontrol2 cost time unit costpertimeunit
+tmp dot ytmpdot length
+conveni reproduc
+hnew initi step initializestep equat forward
+ratio sequenc sequenc
+reach iter
+evalu begin step
+error ratio ratio
+href http www unig math folk hairer prog nonstiff odex odex
+hnew math ab filter step filterstep step size stepsiz stabil reduct stabilityreduct
+bodi pleiad problem involv quasi collis
+error
+interpol error limit stepsiz
+set interpol share integr arrai
+interpol store time storetim step nextstep
+equat comput deriv computederiv step start stepstart step size stepsiz dot1 ydot1
+expect converg iter
+hnew math ab switch handler switcheshandl event time geteventtim step start stepstart
+switch function handl
+int hint max step getmaxstep
+step start stepstart dot0 ydot0 tmp ytmp tmp dot ytmpdot
+mid dot ymiddot step size stepsiz
+mudif
+cost time unit costpertimeunit target iter targetit
+tabl border width cellpad align center bgcolor e0e0e0
+redistribut sourc binari form
+substep start point share arrai
+procur substitut good servic loss data
+step end integr object
+rescal scale
+loop loop
+length
+provid step data step handler
+iter substep size
+nextt step start stepstart step size stepsiz
+reject step immedi reduc order
+integr differenti equat time
+mid dot ymiddot length
+deriv middl point step
+vec rel toler vecrelativetoler
+step nextstep step start stepstart step size stepsiz
+math ab diag y1diag scale
+step trystep equat current currentt scale
+gragg bulirsch stoer integr
+log10 log10r math log math max
+rung kutta fehlberg method link dormand prince853 integr dormandprince853integr
+hnew
+equat comput deriv computederiv current currentt dot1 ydot1
+interp error interperror
+redistribut sourc code retain copyright
+switch handler switcheshandl step accept stepaccept current currentt
+version gragg bulirsch stoer integr graggbulirschstoerintegr java 39z luc
+saniti check
+estim error end step
+switch function trigger
+check stop iter
+diag y1diag length
+reject step immedi
+initi order select
+int hint math ab math max math pow interp error interperror
+dens output denseoutput switch handler switcheshandl empti isempti
+interpol dummi step interpol dummystepinterpol forward
+reject step order stepsiz
+doubl string tostr math ab
+switch handler switcheshandl evalu step evaluatestep interpol
+param target time integr
+error 0e15 error max error maxerror
+tol
+hnew optim step optimalstep optim iter optimalit
+forward
+hnew optim step optimalstep target iter targetit
+deriv except derivativeexcept integr except integratorexcept
+current sign stepsiz getcurrentsignedsteps thread safe
+cost time unit costpertimeunit cost step costperstep optim step optimalstep
+mid dot ymiddot factor middl index middleindex
+switch handler switcheshandl stop
+dimension celesti mechan problem
+automat step size control essenti
+target iter targetit scale
+interp error interperror gb interpol gbsinterpol estim error estimateerror scale
+limit method effici high order
+math min sequenc length
+cost step costperstep optim iter optimalit cost step costperstep
+tmp ytmp length
+int hint math ab step size stepsiz math max math pow interp error interperror
+integr order differenti equat firstorderdifferentialequ equat
+integr except integratorexcept integr perform integr
+step size stepsiz hnew
+condit met
+param initi state vector
+interpol shift
+optim step optimalstep math ab filter step filterstep step size stepsiz fac
+previou reject previousreject
+log10 log10r math log math max tol math log
+step trystep equat step start stepstart step size stepsiz scale
+max error maxerror doubl max
+comput center differ evalu deriv
+equat comput deriv computederiv current currentt dot0 ydot0
+param initi time
+integr link
+dens output denseoutput reject
+step size stepsiz step start stepstart
+vec rel toler vecrelativetoler scal rel toler scalrelativetoler vec rel toler vecrelativetoler
+gb interpol gbsinterpol comput coeffici computecoeffici step size stepsiz
+optim step optimalstep math ab filter step filterstep fac
+loop
+equat dimens getdimens length
+purpos disclaim event regent
+mid dot ymiddot forward
+mid dot ymiddot diagon
+size decreas
+diag y1diag
+interpol store time storetim
+target iter targetit optim iter optimalit
+forward step start stepstart step size stepsiz
+cost time unit costpertimeunit order control2 ordercontrol2 cost time unit costpertimeunit optim iter optimalit
+target iter targetit previou reject previousreject
+tabl
+interpol store time storetim step start stepstart step size stepsiz
+extrapol state middl point step
+step newstep
+integ string tostr equat dimens getdimens
+dormand princ depend problem result
+hnew int hint
+system arraycopi dot1 ydot1 dot0 ydot0 length
+dot0 ydot0
+diagon factor middl index middleindex
+liabil contract strict liabil tort includ
+pow math pow step control3 stepcontrol3 exp
+estim dens output coeffici
+error big reduc global step
+creat intern work arrai
+system arraycopi length
+math floor log10 log10r
+reject
+contributor express impli warranti includ
+switch handler switcheshandl reset step start stepstart step laststep
+step comput firststepalreadycomput
+nextt current currentt
+sequenc sequenc
+saniti check sanitycheck equat
+extrapol estim solut step
+underli user function trigger
+interpol error useinterpolationerror
+extrapol diag y1diag
+hnew math min math ab optim step optimalstep target iter targetit
+sequenc
+handler reset
+cost time unit costpertimeunit order control1 ordercontrol1 cost time unit costpertimeunit
+integr except integratorexcept small integr interv length
+method solv initi problem ivp
+stabil check fail reduc global step
+middl index middleindex length
+fac step control2 stepcontrol2 math pow error step control1 stepcontrol1 exp
+extrapol state end step
+document materi provid distribut
+occur accuraci integr saltzam lorenz
+method store intern state variabl made
+check converg
+asymptot evolut error
+hairer norsett wanner book show limit
+time firsttim
+store end step state
+sequenc length
+optim iter optimalit
+current currentt
+exp
+scale length
+scal rel toler scalrelativetoler
+target iter targetit
+time firsttim step laststep error
+param placehold put state vector success

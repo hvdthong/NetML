@@ -1,0 +1,36 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+visit type declar typedeclar member type declar membertypedeclar class scope classscop scope
+string string member type declar membertypedeclar
+optim dont call kind time
+program element iprogramel kind kind program element iprogramel kind class
+member type declar membertypedeclar aspect declar aspectdeclar kind program element iprogramel kind aspect
+type declar typedeclar kind member type declar membertypedeclar modifi type declar typedeclar interfac decl interfac decl kind program element iprogramel kind interfac
+type declar typedeclar kind member type declar membertypedeclar modifi type declar typedeclar enum decl enum decl kind program element iprogramel kind enum
+type declar typedeclar kind member type declar membertypedeclar modifi type declar typedeclar annot type decl annot type decl kind program element iprogramel kind annot
+support
+member type declar membertypedeclar annot
+member type declar membertypedeclar annot length
+annot annot member type declar membertypedeclar annot
+arrai equal annot type type bind public gettypebindingpubl scope signatur
+lorg aspectj lang annot aspect char arrai tochararrai
+kind program element iprogramel kind aspect
+type modifi typemodifi member type declar membertypedeclar modifi
+member type declar membertypedeclar aspect declar aspectdeclar
+type modifi typemodifi aspect declar aspectdeclar member type declar membertypedeclar declar modifi getdeclaredmodifi
+program element iprogramel node penod program element programel
+kind
+make locat makeloc member type declar membertypedeclar
+type modifi typemodifi
+node penod set sourc signatur setsourcesignatur gen sourc signatur gensourcesignatur member type declar membertypedeclar
+node penod set formal comment setformalcom gener javadoc comment generatejavadoccom member type declar membertypedeclar
+program element iprogramel stack peek add child addchild node penod
+stack push node penod

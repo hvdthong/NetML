@@ -1,0 +1,15 @@
+org apach lucen index
+segment term posit segmenttermposit
+lazi skip lazyskip except ioexcept
+prox stream proxstream
+clone lazili
+prox stream proxstream index input indexinput parent core prox stream proxstream clone
+skip current payload
+read
+skip payload skippayload
+lazi skip pointer lazyskippoint
+prox stream proxstream seek lazi skip pointer lazyskippoint
+lazi skip pointer lazyskippoint
+lazi skip prox count lazyskipproxcount
+skip posit skipposit lazi skip prox count lazyskipproxcount
+lazi skip prox count lazyskipproxcount

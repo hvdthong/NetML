@@ -1,0 +1,16 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+attempt resolv type sourc locat context
+resolut take place case error find
+type report sourc locat resolv
+resolv type resolvedtyp resolv unresolv type unresolvedtyp sourc locat isourceloc isl
+resolv type resolvedtyp ret resolv
+resolv type resolvedtyp miss ismiss
+imessag msg null
+lint getlint find type cantfindtyp signal weaver messag weavermessag format weaver messag weavermessag find type find type getnam isl
+isl null
+msg messageutil error weavermessag format weavermessag find type getnam isl
+msg messageutil error weavermessag format weavermessag find type getnam
+messagehandl handlemessag msg
+ret

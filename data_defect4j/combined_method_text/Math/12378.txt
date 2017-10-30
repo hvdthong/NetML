@@ -1,0 +1,21 @@
+param rotat appli rotat
+vector3 ddsd vector3ddsd
+org apach common math3 geometri euclidean threed
+rotat composit instanc
+comp appli applyto
+multipli getq3 add multipli getq0 add multipli getq1 subtract multipli getq2
+multipli getq2 add multipli getq0 add multipli getq3 subtract multipli getq1
+multipli getq1 add multipli getq0 add multipli getq2 subtract multipli getq3
+version
+implement link rotat link extend field element extendedfieldel
+field rotat fieldrot multipli getq0 subtract multipli getq1 add multipli getq2 add multipli getq3
+rotat order rotationord
+param type field element
+instanc appli applyto comp appli applyto
+order compliant rule
+field rotat fieldrot appli applyto rotat
+field rotat fieldrot extend field element extendedfieldel serializ
+appli instanc rotat comput composit
+vector imag appli applyto imag
+instanc guarante immut
+appli instanc rotat

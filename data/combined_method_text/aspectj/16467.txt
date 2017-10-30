@@ -1,0 +1,13 @@
+org aspectj intern tool build
+build util
+mirror util modul api
+util
+param manifestinputstream
+inputstream manifest close
+throw ioexcept
+unabl read close manifest input stream
+osgi bundl osgibundl input stream inputstream manifest input stream manifestinputstream except ioexcept
+manifest manifest
+manifest read manifest input stream manifestinputstream
+manifest input stream manifestinputstream close
+attribut manifest main attribut getmainattribut

@@ -1,0 +1,4 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+problem factori iproblemfactori problem factori getproblemfactori
+default problem factori defaultproblemfactori local default getdefault

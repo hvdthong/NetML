@@ -1,0 +1,24 @@
+overrid
+code
+diagon matrix diagonalmatrix
+code math unsupport oper except mathunsupportedoperationexcept
+product row nrow col ncol
+product data entri getentri
+param matrix postmultipli
+real matrix realmatrix multipli real matrix realmatrix
+version
+multipli diagon matrix diagonalmatrix
+matrix util matrixutil check multipl compat checkmultiplicationcompat
+dimens mismatch except dimensionmismatchexcept
+col ncol
+code column dimens columndimens row dimens rowdimens
+col ncol column dimens getcolumndimens
+caveat implement minim sole aim
+org apach common math3 linear
+solv issu math method
+return result postmultipli code code
+row nrow row dimens getrowdimens
+row nrow
+diagon matrix diagonalmatrix abstract real matrix abstractrealmatrix
+implement diagon matrix
+array2 row real matrix array2drowrealmatrix product

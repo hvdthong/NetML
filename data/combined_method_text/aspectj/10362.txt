@@ -1,0 +1,12 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+switch relationshipmap hierarchi asmmanag
+current compil
+static natur remov asm
+updat asm manag inform updateasmmanagerinform
+state ajstat updat state updatedst increment state manag incrementalstatemanag retriev state retrievestatefor compil getid
+updat state updatedst
+asm manag asmmanag default getdefault set relationship map setrelationshipmap updat state updatedst relationship map getrelationshipmap
+asm manag asmmanag default getdefault set hierarchi sethierarchi updat state updatedst structur model getstructuremodel

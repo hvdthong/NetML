@@ -1,0 +1,600 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math random
+
+
+
+
+
+
+
+
+
+implement link random data randomdata link random gener randomgener
+instanc gener secur data
+link java secur secur random securerandom instanc provid data
+code secur xxx nextsecurexxx code method code random gener randomgener code
+provid constructor gener base
+link java util random plug implement
+implement code random gener randomgener code directli extend
+link abstract random gener abstractrandomgener
+
+support reseed underli pseudo random number gener prng
+code secur provid securityprovid code code algorithm code
+code secur random securerandom code instanc reset
+
+detail prn prng link java util random
+link java secur secur random securerandom
+
+strong usag note strong
+
+instanc variabl maintain code random gener randomgener code
+code secur random securerandom code instanc data gener
+gener random sequenc valu string
+strong strong code random data impl randomdataimpl code instanc repeatedli
+
+secur method slower
+cryptograph secur random sequenc requir secur random
+sequenc sequenc pseudo random valu addit
+dispers subsequ valu
+subsequ length addit properti
+knowledg valu gener point sequenc make
+easier predict subsequ valu
+
+code random data impl randomdataimpl code creat underli random
+number gener strong strong intial
+explicitli seed secur gener seed current time
+millisecond hold secur gener
+provid code random gener randomgener code constructor
+gener reseed constructor reseed
+
+
+code seed rese code code seed secur reseedsecur code method deleg
+method underli code random gener randomgener code
+code secur random securerandom code instanc
+code seed rese code fulli reset initi state secur
+random number gener reseed specif
+result subsequ random sequenc seed secur reseedsecur
+strong strong reiniti secur random number gener
+secur sequenc start call rese secur reseedsecur
+ident
+
+implement
+
+
+version revis date
+
+random data impl randomdataimpl random data randomdata serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+strong algorithm descript strong hex string gener
+segment step process
+
+random byte gener underli
+code secur random securerandom code
+
+sha hash appli yield binari digest
+
+binari digest convert hex digit
+
+param len length gener string
+random string
+
+string secur hex string nextsecurehexstr len
+len
+illeg argument except illegalargumentexcept length posit
+
+
+secur random securerandom setup digest provid
+secur random securerandom sec ran secran sec ran getsecran
+messag digest messagedigest alg
+
+alg messag digest messagedigest instanc getinst sha
+algorithm except nosuchalgorithmexcept
+gulp fixm fail
+
+alg reset
+
+comput number iter requir byte
+num iter numit len
+
+string buffer stringbuff buffer outbuff string buffer stringbuff
+iter iter num iter numit iter
+random byte randombyt
+sec ran secran byte nextbyt random byte randombyt
+alg updat random byte randombyt
+
+comput hash creat binari hash
+hash alg digest
+
+loop hash convert hex digit
+hash length
+integ integ hash
+
+add make interv
+guarante hex digit hex string tohexstr
+hex string tohexstr add neg
+argument
+
+string hex integ hex string tohexstr intvalu
+
+string uniform length guarante byte
+hex length
+hex hex
+
+buffer outbuff append hex
+
+
+buffer outbuff string tostr substr len
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

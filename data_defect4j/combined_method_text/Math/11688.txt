@@ -1,0 +1,14 @@
+implement zipf distribut
+expon getexpon
+hs1 gener harmon generalizedharmon
+varianc distribut
+hs2 hs1 hs1
+gener harmon generalizedharmon
+link numer varianc getnumericalvari
+number element getnumberofel
+calcul numer varianc calculatenumericalvari
+version
+href http mathworld wolfram zipf distribut zipfdistribut html zipf distribut math world mathworld
+zipf distribut zipfdistribut abstract integ distribut abstractintegerdistribut
+org apach common math3 distribut
+hs2 gener harmon generalizedharmon

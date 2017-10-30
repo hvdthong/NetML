@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+weav complet weavingcomplet
+woven hasbeenwoven
+resolv type getresolvedtypex world getworld run minim memori isrunminimalmemori evict weav state evictweavingst
+sourc context getsourcecontext resolv type getresolvedtypex aspect isaspect sourc context getsourcecontext tidi

@@ -1,0 +1,8 @@
+org apach common math geometri euclidean threed
+repres plane dimension space
+build region cover hyperplan
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+region cover hyperplan
+plane subplan hyperplan wholehyperplan
+plane subplan polygon set polygonsset

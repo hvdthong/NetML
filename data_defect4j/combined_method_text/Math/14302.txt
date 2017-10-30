@@ -1,0 +1,50 @@
+param jode primari order differenti equat set extend
+org apach common math3 od
+paramet belong support link
+jacobian matric jacobianmatric
+efod
+jacobian matric jacobianmatric main state jacobian provid mainstatejacobianprovid jode
+note select clear previou select paramet
+simpl constructor secondari equat set comput jacobian matric
+paramet
+index
+paramet length
+link paramet jacobian provid parameterjacobianprovid
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+link order differenti equat firstorderdifferentialequ
+param dim paramdim
+matric data matricesdata state dim statedim
+set initi state jacobian ident
+math illeg argument except mathillegalargumentexcept
+jacobian provid jacobianprovid arrai list arraylist paramet jacobian provid parameterjacobianprovid
+version
+parameter od parameterizedod
+defin set link secondari equat secondaryequ secondari equat
+order comput jacobian matric respect paramet
+link parameter od parameterizedod
+matric data matricesdata state dim statedim param dim paramdim state dim statedim
+except math illeg argument except mathillegalargumentexcept paramet support
+param dim paramdim paramet length
+primari od set paramet jacobian provid set
+paramet jacobian desir
+param paramet paramet jacobian matric process
+string paramet
+select paramet selectedparamet paramet configur parameterconfigur paramet doubl nan
+comput jacobian matric respect initi state vector
+state dim statedim jode dimens getdimens
+select paramet selectedparamet paramet configur parameterconfigur paramet length
+dirti paramet dirtyparamet
+intend pack link expand state od expandablestatefulod
+conjunct primari set od
+select paramet selectedparamet
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+pode
+equat link parameteriz
+link main state jacobian provid mainstatejacobianprovid
+jode jode
+initi paramet jacobian matrix
+order differenti equat firstorderdifferentialequ
+state dim statedim
+parameteriz paramet name getparametersnam primari set differenti

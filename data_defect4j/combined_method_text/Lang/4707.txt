@@ -1,0 +1,13 @@
+lang
+link formatt basic control format
+version
+standard program method invok
+instanc oper
+org apach common lang3 text
+code formatt util formattableutil instanc construct
+code formatt primarili concern numer precis
+static
+formatt util formattableutil
+constructor permit tool requir java bean javabean
+pad design generalis altern format
+util work code formatt

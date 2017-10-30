@@ -1,0 +1,18 @@
+org aspectj weaver
+checker shadow munger shadowmung
+match shadow shadow world world
+match shadow world
+messag imessag messag messag
+msg
+shadow string tostr
+error iserror messag imessag error messag imessag warn
+shadow sourc locat getsourceloc
+sourc locat isourceloc sourc locat getsourceloc
+sourc start end
+world messag handler getmessagehandl handl messag handlemessag messag
+world cross refer handler getcrossreferencehandl
+world cross refer handler getcrossreferencehandl add cross refer addcrossrefer sourc locat getsourceloc
+shadow sourc locat getsourceloc
+error iserror relationship irelationship kind declar error declar error relationship irelationship kind declar warn declar warn
+world model getmodel
+asm relationship provid asmrelationshipprovid default getdefault checker munger checkermung world model getmodel shadow

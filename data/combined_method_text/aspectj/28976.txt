@@ -1,0 +1,30 @@
+set
+modifierspattern modifierspattern modifierspattern modifierspattern
+tokensourc tokensourc tokensourc
+forbiddenflag forbiddenflag forbiddenflag forbiddenflag
+forbidden forbidden forbidden forbidden forbidden forbidden forbidden
+parser
+requiredflag requiredflag requiredflag requiredflag
+index index
+pattern pattern pattern pattern pattern pattern pattern
+setindex
+getstr
+start start start
+maybeeat
+getindex
+sourc sourc sourc
+string
+itoken
+flag flag flag flag flag flag flag flag flag flag flag flag flag
+pars
+org
+getmodifierflag
+modifi modifi modifi modifi modifi modifi
+aspectj
+requir requir requir requir
+isforbidden isforbidden isforbidden
+patternpars
+eat
+parsemodifierspattern
+token token token token
+weaver

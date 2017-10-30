@@ -1,0 +1,6 @@
+org aspectj weaver tool
+default trace defaulttrac abstract trace abstracttrac
+templat method choic destin output
+param messag trace
+println string
+print println

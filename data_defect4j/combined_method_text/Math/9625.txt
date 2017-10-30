@@ -1,0 +1,12 @@
+dimens mismatch except dimensionmismatchexcept
+param actual actual length
+expect len expectedlen actual
+org apach common math util
+except dimens mismatch except dimensionmismatchexcept length equal
+check len checklen expect len expectedlen actual
+dimens mismatch except dimensionmismatchexcept actual expect len expectedlen
+version
+param expect len expectedlen expect length
+class comput classic function tabl
+fast math calc fastmathcalc
+check length equal

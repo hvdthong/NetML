@@ -1,0 +1,25 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+push push constant stack
+param type number boolean charact string
+instruct creat constant createconst object
+push push
+number
+push push number
+string
+push push string
+boolean
+push push boolean
+charact
+push push charact
+object type objecttyp
+push push object type objecttyp
+class gen except classgenexcept illeg type class getclass
+push instruct getinstruct

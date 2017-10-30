@@ -1,0 +1,31 @@
+pre
+pre minuend row minuendrow minuend row minuendrow multipl subtrahend row subtrahendrow pre
+applic oper hold
+extra decis variabl neg valu
+result
+width getwidth
+phase object function
+multipl
+param subtrahend row subtrahendrow row index
+version
+amp decis variabl
+fast math fastmath ab result cutoff threshold
+version simplex tableau simplextableau java 14z
+rh hand side
+rh
+param minuend row minuendrow row index
+artifici variabl
+subtract multipl row
+result tableau entri getentri minuend row minuendrow tableau entri getentri subtrahend row subtrahendrow multipl
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+cut valu smaller cutoff threshold lead numer instabl
+fast math fastmath ab result cut cutoff
+tableau simplex method
+org apach common math3 optim linear
+param multipl multipl factor
+cut valu smaller cut threshold lead numer instabl
+tableau set entri setentri minuend row minuendrow result
+subtract row subtractrow minuend row minuendrow subtrahend row subtrahendrow

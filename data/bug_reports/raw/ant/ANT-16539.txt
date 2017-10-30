@@ -1,0 +1,21 @@
+MD5 signature file format
+This description uses the real data for: jakarta-ant-1.5.1-bin.tar.gz
+
+Currently the MD5 
+signature file is
+
+    2be27d9e09011bf1cc3d1967ee34f7d1
+
+Why not change it to the md5sum 
+output of:
+
+    2be27d9e09011bf1cc3d1967ee34f7d1 *jakarta-ant-1.5.1-bin.tar.gz
+
+This 
+way one can easily check the file using
+
+    $ md5sum -c jakarta-ant-1.5.1-
+bin.tar.gz.md5
+
+Cheers,
+Ryan

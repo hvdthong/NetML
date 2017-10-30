@@ -1,0 +1,10 @@
+org aspectj ajd javaopt
+option panel displai java compil complianc option
+user add ajd getoptionsfram
+java complianc option panel javacomplianceoptionspanel option panel optionspanel
+add border panel addborderstopanel
+parent panel parentpanel panel jpanel
+parent panel parentpanel set layout setlayout border layout borderlayout
+complianc panel compliancepanel panel jpanel
+complianc panel compliancepanel set border setbord complianc compound border compliancecompoundbord
+parent panel parentpanel add complianc panel compliancepanel border layout borderlayout center

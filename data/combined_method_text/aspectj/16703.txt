@@ -1,0 +1,53 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+qualifi qualifiednam set qualifi sourc rang setqualifiednamenameandsourcerang type typenam posit end index endingindex org aspectj org eclips jdt intern compil ast ast node astnod node
+length end index endingindex
+simpl simplenam token firsttoken simpl simplenam ast
+token firsttoken intern set identifi internalsetidentifi string type typenam
+token firsttoken index
+start0 posit
+start start0
+end posit
+token firsttoken set sourc rang setsourcerang start end start
+simpl simplenam token secondtoken simpl simplenam ast
+token secondtoken intern set identifi internalsetidentifi string type typenam
+token secondtoken index
+start posit
+end posit
+token secondtoken set sourc rang setsourcerang start end start
+qualifi qualifiednam qualifi qualifiednam qualifi qualifiednam ast
+qualifi qualifiednam set qualifi setqualifi token firsttoken
+qualifi qualifiednam set setnam token secondtoken
+resolv bind resolvebind
+record node recordnod qualifi qualifiednam node
+record pend scope resolut recordpendingnamescoperesolut qualifi qualifiednam
+record node recordnod token firsttoken node
+record node recordnod token secondtoken node
+record pend scope resolut recordpendingnamescoperesolut token firsttoken
+record pend scope resolut recordpendingnamescoperesolut token secondtoken
+qualifi qualifiednam index
+qualifi qualifiednam set sourc rang setsourcerang start0 end start0
+simpl simplenam part newpart
+length
+part newpart simpl simplenam ast
+part newpart intern set identifi internalsetidentifi string type typenam
+part newpart index
+start posit
+end posit
+part newpart set sourc rang setsourcerang start end start
+qualifi qualifiednam qualifi name2 qualifiedname2 qualifi qualifiednam ast
+qualifi name2 qualifiedname2 set qualifi setqualifi qualifi qualifiednam
+qualifi name2 qualifiedname2 set setnam part newpart
+qualifi qualifiednam qualifi name2 qualifiedname2
+qualifi qualifiednam index part newpart index
+qualifi qualifiednam set sourc rang setsourcerang start0 end start0
+resolv bind resolvebind
+record node recordnod qualifi qualifiednam node
+record node recordnod part newpart node
+record pend scope resolut recordpendingnamescoperesolut qualifi qualifiednam
+record pend scope resolut recordpendingnamescoperesolut part newpart
+part newpart resolv bind resolvebind
+record node recordnod qualifi qualifiednam node
+record pend scope resolut recordpendingnamescoperesolut qualifi qualifiednam
+qualifi qualifiednam

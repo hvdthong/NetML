@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+bind annot type pattern bindingannotationtypepattern exact annot type pattern exactannotationtypepattern bind pattern bindingpattern
+param annotationtyp
+bind annot type pattern bindingannotationtypepattern unresolv type unresolvedtyp annot type annotationtyp index
+annot type annotationtyp
+formal index formalindex index

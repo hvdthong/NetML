@@ -1,0 +1,30 @@
+pre
+current sign integr stepsiz
+rel tol reltol compon
+step size stepsiz
+current sign stepsiz
+algorithm perform integr stepsiz control
+step reject attempt made
+need
+org apach common math od
+differenti equat problem sign current stepsiz
+object implement link order differenti equat firstorderdifferentialequ
+compon user scalar valu ab tol abstol
+version revis date
+method call integr typic
+sqrt sum err est errest threshold
+call link integr
+current sign stepsiz getcurrentsignedsteps
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+state vector dimens step accept
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+ab tol abstol absolut toler compon
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+mean user integr step
+result undefin method call
+estim error
+stepsiz
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc

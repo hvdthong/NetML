@@ -1,0 +1,23 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener object aspect method generateperobjecthasaspectmethod class file classfil class file classfil
+type bind typebind interfac type interfacetyp
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil aspect method hasaspectmethod bodi gener bodygener
+gener code stream codestream code stream codestream
+bodi start
+branch label branchlabel wrong type wrongtyp branch label branchlabel code stream codestream
+code stream codestream aload
+code stream codestream instanc interfac type interfacetyp
+code stream codestream ifeq wrong type wrongtyp
+code stream codestream aload
+code stream codestream checkcast interfac type interfacetyp
+code stream codestream invokeinterfac world make method bind call makemethodbindingforcal
+ajc member maker ajcmembermak object interfac perobjectinterfaceget type typex
+code stream codestream ifnul wrong type wrongtyp
+code stream codestream iconst
+code stream codestream ireturn
+wrong type wrongtyp place
+code stream codestream iconst
+code stream codestream ireturn
+bodi end

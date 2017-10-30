@@ -1,0 +1,37 @@
+org aspectj util
+file util fileutil
+line base search liter text sourc file
+return line found string
+form sourcepath line column submit
+collect paramet sink
+error render string return result
+param sought string text seek file
+param sourc list string path sourc file
+param listal fals list match file
+param list sink list string entri form sourcepath line column
+return string error add string entri sink
+string line seek lineseek string sought string sourc path sourcepath list listal
+arrai list arraylist sink
+lang util langutil empti isempti sought lang util langutil empti isempti sourc path sourcepath
+sought
+lang util langutil empti isempti sourc path sourcepath
+sourcepath
+file file file sourc path sourcepath
+file read canread file file isfil
+sourcepath readabl file
+line num linenum
+file reader fileread fin
+fin file reader fileread file
+buffer reader bufferedread reader buffer reader bufferedread fin
+string line
+line reader read line readlin
+line num linenum
+loc line index indexof sought
+loc
+sink add sourc path sourcepath line num linenum loc
+list listal
+except ioexcept
+lang util langutil unqualifi class unqualifiedclassnam read sourc path sourcepath
+line num linenum
+fin fin close
+except ioexcept catch ioexcept ignor

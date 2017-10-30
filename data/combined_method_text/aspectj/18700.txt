@@ -1,0 +1,6 @@
+org aspectj weaver
+checker shadow munger shadowmung
+default true
+fixm alex ataj case
+return
+check except mustcheckexcept

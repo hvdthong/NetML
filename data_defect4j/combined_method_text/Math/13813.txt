@@ -1,0 +1,14 @@
+overrid
+open map real vector openmaprealvector spars real vector sparserealvector
+set
+org apach common math3 linear
+inherit doc inheritdoc
+link open int doubl hash map openinttodoublehashmap back store
+remov version
+set entri setentri
+link real vector realvector
+href http issu apach org jira brows math ticket
+version
+jira
+deprec version deprec reason expos
+virtual size virtuals

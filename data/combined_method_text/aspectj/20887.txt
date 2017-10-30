@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+class file classfil find string except ioexcept
+ensur open ensureopen
+string kei replac class
+zip entri zipentri entri zip file zipfil entri getentri kei
+entri zip entri class file zipentryclassfil entri
+return null zip close

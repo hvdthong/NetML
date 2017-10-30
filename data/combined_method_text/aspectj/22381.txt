@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pattern node patternnod sourc locat ihassourceloc
+copi locat copylocationfrom pattern node patternnod
+start start
+end end
+sourc context sourcecontext sourc context sourcecontext

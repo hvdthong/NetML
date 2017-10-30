@@ -1,0 +1,18 @@
+author stephen colebourn
+defin instant time queri datetim field
+paramet method read datetim perform
+standard iso8601 week algorithm week year
+weekyear getweekyear
+implement mutabl immut
+dai year result
+weekyear year match week weekyear weekofweekyear field
+access retriev data chang
+weekyear field
+definit dai week previou year
+org joda time
+method applic defin code readabl date time readabledatetim code
+advanc manipul
+author brian neill o'neil
+year week base year
+readabl date time readabledatetim readabl instant readableinst
+weekyear queri effect year dai

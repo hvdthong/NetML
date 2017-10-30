@@ -1,0 +1,8 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv member resolvedmemb lookup method lookupmethodinitd member
+inter type munger intertypemung
+iter inter type munger intertypemung iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+match signatur getsignatur
+signatur getsignatur

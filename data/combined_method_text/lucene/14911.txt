@@ -1,0 +1,34 @@
+org apach lucen search
+altern booleanscor minimum number
+option scorer match
+implement skipto limit number ad scorer
+conjunctionscor disjunctionscor reqoptscor reqexclscor
+boolean scorer2 booleanscorer2 scorer
+creat link scorer similar list requir
+prohibit option scorer requir scorer ad
+option scorer match search
+param similar
+similar
+param minnrshouldmatch
+minimum number option ad scorer match
+search case requir scorer ad
+option scorer match search
+param requir
+list requir scorer
+param prohibit
+list prohibit scorer
+param option
+list option scorer
+boolean scorer2 booleanscorer2 similar similar min match minnrshouldmatch
+list scorer requir list scorer prohibit list scorer option max coord maxcoord except ioexcept
+similar
+min match minnrshouldmatch
+illeg argument except illegalargumentexcept minimum number option scorer neg
+coordin coordin
+min match minnrshouldmatch min match minnrshouldmatch
+coordin max coord maxcoord max coord maxcoord
+option scorer optionalscor option
+requir scorer requiredscor requir
+prohibit scorer prohibitedscor prohibit
+coordin init
+count sum scorer countingsumscor make count sum scorer makecountingsumscor

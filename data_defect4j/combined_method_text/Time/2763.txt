@@ -1,0 +1,8 @@
+author stephen colebourn
+zone chronolog zonedchronolog thread safe immut
+org joda time chrono
+maximum text length getmaximumtextlength local local
+wrap chronolog add support time zone
+field ifield maximum text length getmaximumtextlength local
+author brian neill o'neil
+zone chronolog zonedchronolog assembl chronolog assembledchronolog

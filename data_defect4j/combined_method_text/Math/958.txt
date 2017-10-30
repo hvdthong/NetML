@@ -1,0 +1,10 @@
+absolut accuraci absoluteaccuraci
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+param rel accuraci relativeaccuraci maximum rel error
+base solver
+construct solver accuraci
+abstract polynomi solver abstractpolynomialsolv
+abstract polynomi solver abstractpolynomialsolv rel accuraci relativeaccuraci
+version revis date
+param absolut accuraci absoluteaccuraci maximum absolut error
+org apach common math analysi solver

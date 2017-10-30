@@ -1,0 +1,18 @@
+author stephen colebourn
+fix divisor field' unit durat scale
+set instant
+remaind date time field remainderdatetimefield
+org joda time field
+param instant time instant milli updat
+wrap field getwrappedfield set instant divisor idivisor remaind
+divid date time field divideddatetimefield decor date time field decorateddatetimefield
+field util fieldutil verifi bound verifyvaluebound min imin max imax
+remaind remaind getremaind wrap field getwrappedfield instant
+illeg argument except illegalargumentexcept larg small
+set amount scale unit time instant
+author brian neill o'neil
+param scale unit set
+divid date time field divideddatetimefield thread safe immut
+divid date time field datetimefield retriev valu reduc
+updat time instant
+rang durat unchang

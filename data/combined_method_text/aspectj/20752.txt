@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+list add aspect directori addaspectsfromdirectori file dir file found except filenotfoundexcept except ioexcept
+list ad aspect addedaspect arrai list arraylist
+file class file classfil file util fileutil list file listfil dir file filter filefilt
+accept file pathnam
+pathnam getnam end endswith class
+class file classfil length
+file input stream fileinputstream fi file input stream fileinputstream class file classfil
+byte file util fileutil read byte arrai readasbytearrai fi
+add aspect addifaspect byte class file classfil absolut path getabsolutepath ad aspect addedaspect
+fi close
+ad aspect addedaspect

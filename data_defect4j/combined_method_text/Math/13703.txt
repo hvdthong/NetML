@@ -1,0 +1,41 @@
+comput invers matrix split
+squar matrix except nonsquarematrixexcept row dimens getrowdimens
+result set matrix setsubmatrix result01 data getdata split index1 splitindex1
+row dimens getrowdimens
+real matrix realmatrix result11 tmp2 dec tmp2dec solver getsolv invers getinvers
+element index part
+invers code
+result set matrix setsubmatrix result10 data getdata split index1 splitindex1
+real matrix realmatrix matrix getsubmatrix split index1 splitindex1 split index splitindex
+real matrix realmatrix result00 tmp1 dec tmp1dec solver getsolv invers getinvers
+real matrix realmatrix result01 inv ainv multipli multipli result11 scalar multipli scalarmultipli
+param matrix invers comput
+singular decomposit singularvaluedecomposit dec adec singular decomposit singularvaluedecomposit
+singular decomposit singularvaluedecomposit dec ddec singular decomposit singularvaluedecomposit
+real matrix realmatrix tmp2 subtract multipli inv ainv multipli
+real matrix realmatrix result10 inv dinv multipli multipli result00 scalar multipli scalarmultipli
+split index splitindex
+version
+singular decomposit singularvaluedecomposit tmp2 dec tmp2dec singular decomposit singularvaluedecomposit tmp2
+upper left matrix
+column dimens getcolumndimens
+matric
+result set matrix setsubmatrix result11 data getdata split index1 splitindex1 split index1 splitindex1
+singular decomposit singularvaluedecomposit tmp1 dec tmp1dec singular decomposit singularvaluedecomposit tmp1
+real matrix realmatrix result array2 row real matrix array2drowrealmatrix
+real matrix realmatrix inv dinv dec ddec solver getsolv invers getinvers
+squar matrix except nonsquarematrixexcept code squar
+collect method oper matric
+matrix util matrixutil
+split index1 splitindex1 split index splitindex
+real matrix realmatrix matrix getsubmatrix split index1 splitindex1 split index1 splitindex1
+real matrix realmatrix tmp1 subtract multipli inv dinv multipli
+org apach common math3 linear
+column
+real matrix realmatrix matrix getsubmatrix split index splitindex split index splitindex
+param split index splitindex index determin split line
+real matrix realmatrix block invers blockinvers real matrix realmatrix
+real matrix realmatrix matrix getsubmatrix split index splitindex split index1 splitindex1
+result set matrix setsubmatrix result00 data getdata
+real matrix realmatrix inv ainv dec adec solver getsolv invers getinvers
+result

@@ -1,0 +1,33 @@
+interfac defin field valu matrix basic algebra oper
+param start row startrow initi row index
+walk row order walkinroword field matrix preserv visitor fieldmatrixpreservingvisitor visitor
+start row startrow end row endrow start column startcolumn end column endcolumn
+number small except numberistoosmallexcept code end row endrow start row startrow
+return link field matrix preserv visitor fieldmatrixpreservingvisitor end end
+field matrix fieldmatrix field element fieldel matrix anymatrix
+indic valid
+rang except outofrangeexcept indic valid
+row
+rang except outofrangeexcept
+param start column startcolumn initi column index
+walk row order walkinroword field matrix chang visitor fieldmatrixchangingvisitor
+param end column endcolumn final column index
+walk column order walkincolumnord field matrix chang visitor fieldmatrixchangingvisitor
+walk
+version
+walk row order walkinroword field matrix preserv visitor fieldmatrixpreservingvisitor
+param type field element
+matrix element index base code entri getentri code
+param visitor visitor process matrix entri
+code end column endcolumn start column startcolumn
+walk optim order walkinoptimizedord field matrix preserv visitor fieldmatrixpreservingvisitor
+walk column order walkincolumnord field matrix preserv visitor fieldmatrixpreservingvisitor
+param end row endrow final row index inclus
+visit chang matrix entri row order
+row left leftmost element
+org apach common math3 linear
+rang except outofrangeexcept number small except numberistoosmallexcept
+row order start upper left iter element
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+walk optim order walkinoptimizedord field matrix chang visitor fieldmatrixchangingvisitor

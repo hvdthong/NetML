@@ -1,0 +1,24 @@
+pre
+extra decis variabl neg valu
+check column basic
+param col index column check
+row
+phase object function
+start num object function getnumobjectivefunct
+amp decis variabl
+row variabl basic column basic
+version revis date
+rh hand side
+rh
+start height getheight
+math util mathutil equal entri getentri col epsilon row
+integ basic row getbasicrow col ignor object row ignoreobjectiverow
+artifici variabl
+org apach common math optim linear
+math util mathutil equal entri getentri col epsilon
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+integ row
+tableau simplex method

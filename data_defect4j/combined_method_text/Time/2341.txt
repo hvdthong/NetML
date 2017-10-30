@@ -1,0 +1,11 @@
+author stephen colebourn
+time calcul week week base year compon time
+org joda time chrono
+author gui allard
+chronolog ichronolog week year getweeksinyear weekyear
+basic week weekyear date time field basicweekofweekyeardatetimefield precis durat date time field precisedurationdatetimefield
+author brian neill o'neil
+partial support issupport date time field type datetimefieldtyp weekyear
+maximum getmaximumvalu readabl partial readableparti partial
+refactor week weekyear date time field gjweekofweekyeardatetimefield
+weekyear partial date time field type datetimefieldtyp weekyear

@@ -1,0 +1,28 @@
+param start point startpoint start point optim
+org apach common math3 optim gener
+multivari differenti function multivariatedifferentiablefunct
+differenti function
+param max eval maxev maximum number function evalu
+param object function
+org apach common math3 except null argument except nullargumentexcept
+version
+function util functionutil differenti multivari function todifferentiablemultivariatefunct
+function
+argument code
+boiler plate code deal gradient evalu
+maxim number evalu exceed
+optim object function
+abstract scalar differenti optim abstractscalardifferentiableoptim
+start point dimens wrong
+link goal type goaltyp maxim link goal type goaltyp minim
+org apach common math3 except evalu except toomanyevaluationsexcept
+point pair give optim object
+optim intern optimizeintern max eval maxev
+deprec remov
+goal type goaltyp
+point pair pointvaluepair optim max eval maxev
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+goal type goaltyp goal type goaltyp
+start point startpoint
+base implement optim multivari scalar
+param goal type goaltyp type optim goal

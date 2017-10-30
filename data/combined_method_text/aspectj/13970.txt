@@ -1,0 +1,16 @@
+org aspectj apach bcel gener
+jsr jump subroutin
+version jsr java aclement exp
+author href mailto marku dahm berlin dahm
+jsr jsr instruct jsrinstruct variabl length instruct variablelengthinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack produc visitstackproduc
+visit variabl length instruct visitvariablelengthinstruct
+visit branch instruct visitbranchinstruct
+visit jsr instruct visitjsrinstruct
+visit jsr visitjsr

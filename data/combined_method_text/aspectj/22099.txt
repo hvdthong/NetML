@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+kind pointcut kindedpointcut pointcut
+match join point couldevermatchsamejoinpointsa kind pointcut kindedpointcut
+kind kind
+string mynam signatur getnam simpl maybegetsimplenam
+string yournam signatur getnam simpl maybegetsimplenam
+mynam yournam
+mynam equal yournam
+signatur paramet type getparametertyp ellipsi count ellipsiscount
+signatur paramet type getparametertyp ellipsi count ellipsiscount
+signatur paramet type getparametertyp type pattern gettypepattern length
+signatur paramet type getparametertyp type pattern gettypepattern length

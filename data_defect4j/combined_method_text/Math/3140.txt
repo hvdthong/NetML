@@ -1,0 +1,15 @@
+vector3 vector3d instanc
+org apach common math geometri euclidean threed
+param point point space link vector3 vector3d
+repres plane dimension space
+plane point link
+space tospac
+vector3 vector3d dot product dotproduct p3d
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+org apach common math geometri euclidean twod vector2 vector2d vector2 vector2d instanc
+vector2 vector2d point dot product dotproduct point dot product dotproduct
+transform space point plane point
+vector2 vector2d vector3 vector3d dot product dotproduct p3d
+vector3 vector3d p3d vector3 vector3d point
+vector2 vector2d space tosubspac vector euclidean3 euclidean3d point

@@ -1,0 +1,24 @@
+pre
+parameter chromosom length
+version
+math illeg argument except mathillegalargumentexcept local format localizedformat invalid fix length chromosom
+suppress warn suppresswarn uncheck check
+denot crossov point
+pair children
+dimens mismatch except dimensionmismatchexcept math illeg argument except mathillegalargumentexcept
+crossov abstract list chromosom abstractlistchromosom abstract list chromosom abstractlistchromosom
+dimens mismatch except dimensionmismatchexcept length chromosom
+part parent copi child
+polici work link abstract list chromosom abstractlistchromosom
+point crossov onepointcrossov crossov polici crossoverpolici
+chromosom pair chromosomepair crossov chromosom chromosom
+param gener type link abstract list chromosom abstractlistchromosom crossov
+part copi crosswis
+math illeg argument except mathillegalargumentexcept iff chromosom
+instanc link abstract list chromosom abstractlistchromosom
+param parent
+abstract list chromosom abstractlistchromosom abstract list chromosom abstractlistchromosom
+perform point crossov random crossov point select
+org apach common math3 genet
+point crossov polici random crossov point select
+parametr chromosom length

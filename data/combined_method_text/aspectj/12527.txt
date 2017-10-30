@@ -1,0 +1,25 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+amc
+pars signatur string interpret classsignatur
+grammar defin section jvm specif
+signatur class signatur classsignatur pars class signatur parseasclasssignatur string sig
+input string inputstr sig
+token stream tokenstream token sig
+token index tokenindex
+signatur class signatur classsignatur class sig classsig signatur class signatur classsignatur
+formaltypeparamet opt
+eat maybeeat
+list formal type paramet list formaltypeparameterslist arrai list arraylist
+formal type paramet list formaltypeparameterslist add pars formal type paramet parseformaltypeparamet
+eat maybeeat
+class sig classsig formal type paramet formaltypeparamet formal type paramet formaltypeparamet formal type paramet list formaltypeparameterslist size
+formal type paramet list formaltypeparameterslist arrai toarrai class sig classsig formal type paramet formaltypeparamet
+class sig classsig superclass signatur superclasssignatur pars class type signatur parseclasstypesignatur
+list super int sig superintsig arrai list arraylist
+token index tokenindex token stream tokenstream length
+super int sig superintsig add pars class type signatur parseclasstypesignatur
+class sig classsig super interfac signatur superinterfacesignatur class type signatur classtypesignatur super int sig superintsig size
+super int sig superintsig arrai toarrai class sig classsig super interfac signatur superinterfacesignatur
+class sig classsig

@@ -1,0 +1,7 @@
+real vector realvector map atan mapatan
+org apach common math linear
+inherit doc inheritdoc
+spars real vector sparserealvector real vector realvector
+copi map atan mapatantoself
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date

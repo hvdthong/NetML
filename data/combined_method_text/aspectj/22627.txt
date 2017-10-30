@@ -1,0 +1,27 @@
+org aspectj weaver pattern
+author colyer
+perform term rewrit pointcut express
+pointcut rewrit pointcutrewrit
+remov match pointcut
+pointcut remov noth removenoth pointcut
+isand
+pointcut andpointcut apc pointcut andpointcut
+pointcut remov noth removenoth apc getright
+pointcut left remov noth removenoth apc left getleft
+left match pointcut matchesnothingpointcut match pointcut matchesnothingpointcut match pointcut matchesnothingpointcut
+pointcut andpointcut left
+isor
+pointcut orpointcut opc pointcut orpointcut
+pointcut remov noth removenoth opc getright
+pointcut left remov noth removenoth opc left getleft
+left match pointcut matchesnothingpointcut
+match pointcut matchesnothingpointcut
+match pointcut matchesnothingpointcut
+left match pointcut matchesnothingpointcut
+left
+left match pointcut matchesnothingpointcut
+match pointcut matchesnothingpointcut
+pointcut orpointcut left
+left match pointcut matchesnothingpointcut
+match pointcut matchesnothingpointcut
+match pointcut matchesnothingpointcut

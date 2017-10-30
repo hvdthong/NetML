@@ -1,0 +1,28 @@
+org aspectj util
+lang util langutil
+handl termin demand abrupt normal
+destroi halt process pipe
+param thrown null
+param result integ min
+stop throwabl thrown result
+complet
+illeg state except illegalstateexcept complet
+thrown
+illeg state except illegalstateexcept set thrown thrown
+assert null thrown
+thrown make thrown makethrown thrown
+process
+process destroi
+stream instream
+stream instream halt instream halt fals true block wait
+stream instream
+stream outstream
+stream outstream halt
+stream outstream
+err stream errstream
+err stream errstream halt
+err stream errstream
+integ min min result
+result result
+complet
+complet docomplet thrown result

@@ -1,0 +1,10 @@
+org apach lucen search
+altern booleanscor minimum number
+option scorer match
+implement skipto limit number ad scorer
+conjunctionscor disjunctionscor reqoptscor reqexclscor
+boolean scorer2 booleanscorer2 scorer
+init similar sim disabl coord disablecoord void init similar sim boolean disablecoord scorer ad
+coord factor coordfactor option scorer optionalscor size requir scorer requiredscor size
+coord factor coordfactor length
+coord factor coordfactor disabl coord disablecoord sim coord max coord maxcoord

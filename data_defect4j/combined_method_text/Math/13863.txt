@@ -1,0 +1,15 @@
+real matrix chang visitor realmatrixchangingvisitor
+param column number column matrix
+interfac defin visitor matrix entri
+org apach common math3 linear
+param start column startcolumn initi column index
+param row number row matrix
+start row startrow end row endrow start column startcolumn end column endcolumn
+param end column endcolumn final column index inclus
+method call entri matrix visit
+version
+default real matrix chang visitor defaultrealmatrixchangingvisitor
+start visit matrix
+param end row endrow final row index inclus
+param start row startrow initi row index
+start row column

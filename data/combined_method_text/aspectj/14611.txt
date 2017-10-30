@@ -1,0 +1,5 @@
+org aspectj apach bcel gener annot
+simpl element gen simpleelementvaluegen element gen elementvaluegen
+simpl element gen simpleelementvaluegen type constant pool gen constantpoolgen gen cpgen
+type gen cpgen
+idx gen cpgen add long addlong

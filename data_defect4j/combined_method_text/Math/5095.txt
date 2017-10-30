@@ -1,0 +1,20 @@
+open map real vector openmaprealvector abstract real vector abstractrealvector spars real vector sparserealvector serializ
+entri remov index
+open map real vector openmaprealvector abstract real vector abstractrealvector
+version
+org apach common math linear
+entri put index
+inherit doc inheritdoc
+link open int doubl hash map openinttodoublehashmap back store
+open map real vector openmaprealvector spars real vector sparserealvector serializ
+open map real vector openmaprealvector spars real vector sparserealvector
+link real vector realvector
+overrid
+default isdefaultvalu
+set entri setentri index
+entri kei containskei index
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+check index checkindex index
+set entri setentri index matrix index except matrixindexexcept
+iszero

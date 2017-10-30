@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+aspect annot isaspectjannot annot ann
+ann resolv type resolvedtyp
+sig ann resolv type resolvedtyp signatur
+char oper charoper org aspect lang annot orgaspectjlangannot sig

@@ -1,0 +1,21 @@
+extend deriv extendedderiv interpol interpol deriv getinterpolatedderiv
+org apach common math od jacobian
+inherit doc inheritdoc
+ad form compound problem higher dimens origin od
+comput partial deriv solut respect initi state
+problem dimens paramet compound problem
+paramet
+interpol dot getinterpolateddydpdot deriv except derivativeexcept
+extend jacobian raw od variat equat
+dimens time
+start
+parameter od parameterizedod
+version revis date
+dydp dot dydpdot length
+system arraycopi extend deriv extendedderiv start dydp dot dydpdot
+od jacobian odewithjacobian
+order comput state deriv od problem
+order integr jacobian firstorderintegratorwithjacobian
+dydp dot dydpdot
+length
+enhanc order integr differenti equat

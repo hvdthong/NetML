@@ -1,0 +1,12 @@
+simpl bound simplebound
+upper clone
+param lower bound
+direct
+param upper bound
+org apach common math3 optim
+version
+valid rang paramet interv infinit
+immut
+simpl optim constraint lower upper bound
+simpl bound simplebound optim data optimizationdata
+lower clone

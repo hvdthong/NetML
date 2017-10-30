@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+ast ajast ast
+creat unpar advic declar node own ast
+default declar advic pointcut
+doc comment bodi oppos empti bodi
+return unpar advic declar node
+advic declar afteradvicedeclar advic declar newafteradvicedeclar
+advic declar afteradvicedeclar result advic declar afteradvicedeclar
+result

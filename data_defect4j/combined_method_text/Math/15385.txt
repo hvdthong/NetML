@@ -1,0 +1,31 @@
+sigma getsigma
+org apach common math3 optim gener
+cov covari getcovari
+handl boilerpl method threshold set
+covari matrix
+jacobian error estim
+link optim differenti multivari vector function differentiablemultivariatevectorfunct
+number row equal length code target arrai
+sig col
+link optim multivari differenti vector function multivariatedifferentiablevectorfunct
+version
+sig
+function argument method
+optim assum matrix return
+org apach common math3 linear singular matrix except singularmatrixexcept
+link multivari matrix function multivariatematrixfunct method row
+abstract squar optim abstractleastsquaresoptim
+link jacobian function jacobianfunct method row
+number column equal length code start point startpoint arrai
+return estim standard deviat paramet
+covari matrix comput
+optim code paramet code
+iter model function column iter paramet
+link jacobian function jacobianfunct jacobian function argument method
+link differenti multivari vector function differentiablemultivariatevectorfunct jacobian
+sig fast math fastmath sqrt cov
+estim standard deviat optim paramet
+return valu squar root diagon coeffici
+covari matrix code sqrt code
+base implement squar optim
+sig length

@@ -1,0 +1,11 @@
+overrid
+link iter linear solver event iterativelinearsolverev
+real vector realvector residu getresidu
+org apach common math3 linear
+inherit doc inheritdoc
+math unsupport oper except mathunsupportedoperationexcept
+implement link math unsupport oper except mathunsupportedoperationexcept
+version
+default iter linear solver event defaultiterativelinearsolverev iter linear solver event iterativelinearsolverev
+residu vector code provid construct time
+concret implement

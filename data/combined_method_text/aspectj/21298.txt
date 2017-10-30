@@ -1,0 +1,8 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+return return kei
+string namespac getnamespac
+system println classloaderweavingadaptor getnamespac classload weavingcontext getclassloadernam namespac namespac
+namespac
+string namespac

@@ -1,0 +1,28 @@
+org aspectj org eclips jdt core dom
+aspectdeclar dom ast node
+ajtypedeclar
+astnod call 'perclause'
+boolean call 'privileged'
+author ajh02
+aspect declar aspectdeclar type declar ajtypedeclar
+accept0 ast visitor astvisitor visitor
+visit children visitchildren visitor visit
+visit children visitchildren
+visit children normal left read order
+ast api level apilevel ast jls2 intern jls2 intern
+accept child acceptchild visitor javadoc getjavadoc
+accept child acceptchild visitor getnam
+accept child acceptchild visitor superclass getsuperclass
+accept children acceptchildren visitor super interfac name superinterfacenam
+accept child acceptchild visitor claus perclaus
+accept children acceptchildren visitor bodi declar bodydeclar
+ast api level apilevel ast jls3
+accept child acceptchild visitor javadoc getjavadoc
+accept children acceptchildren visitor modifi
+accept child acceptchild visitor getnam
+accept children acceptchildren visitor type paramet typeparamet
+accept child acceptchild visitor superclass type getsuperclasstyp
+accept children acceptchildren visitor super interfac type superinterfacetyp
+accept child acceptchild visitor claus perclaus
+accept children acceptchildren visitor bodi declar bodydeclar
+visitor end visit endvisit

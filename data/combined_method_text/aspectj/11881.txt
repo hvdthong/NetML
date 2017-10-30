@@ -1,0 +1,5 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+overrid default hierarchi builder
+set asm hierarchi builder setasmhierarchybuild asm hierarchi builder asmhierarchybuild builder newbuild
+asm hierarchi builder asmhierarchybuild builder newbuild

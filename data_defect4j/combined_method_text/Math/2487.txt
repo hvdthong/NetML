@@ -1,0 +1,15 @@
+multi dimens mismatch except multidimensionmismatchexcept localiz specif
+param expect expect dimens
+except thrown set dimens differ
+param wrong wrong dimens
+specif local format localizedformat dimens mismatch wrong expect
+error
+expect expect clone
+param specif messag pattern provid specif context
+integ expect
+version revis date
+integ wrong
+construct except mismatch dimens
+multi dimens mismatch except multidimensionmismatchexcept math illeg argument except mathillegalargumentexcept
+wrong wrong clone
+org apach common math except

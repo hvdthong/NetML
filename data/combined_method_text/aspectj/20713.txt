@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+return list type variabl alias munger
+itd 'int list la list lb return list
+string
+list type variabl alias gettypevariablealias public list string gettypevariablealias
+munger type variabl alias gettypevariablealias

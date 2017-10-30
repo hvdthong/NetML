@@ -1,0 +1,14 @@
+org aspectj weaver
+except insid bcweaver
+except bcexcept runtim except runtimeexcept
+print stack trace printstacktrac print writer printwrit
+print stack trace printstacktrac
+thrown
+print caus
+print thrown class getclass getnam
+string messag thrown messag getmessag
+messag
+print
+print messag
+println
+thrown print stack trace printstacktrac

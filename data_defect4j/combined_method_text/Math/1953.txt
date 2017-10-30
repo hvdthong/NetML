@@ -1,0 +1,10 @@
+interfac distribut integ
+interfac discret distribut integ valu random variabl
+rese random gener reseedrandomgener seed
+integ distribut integerdistribut
+rese random gener gener sampl
+version
+param seed seed
+version revis date
+integ distribut integerdistribut discret distribut discretedistribut
+org apach common math distribut

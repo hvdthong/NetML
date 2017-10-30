@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript moment
+
+
+
+
+
+
+
+
+
+return covari matrix vector
+
+version revis date
+
+vectori covari vectorialcovari serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+construct vectori vectorialmean
+param dimens vector dimens
+param bia correct isbiascorrect comput unbias sampl covari
+comput bias popul covari
+
+vectori covari vectorialcovari dimens bia correct isbiascorrect
+sum dimens
+product sum productssum dimens dimens
+
+bia correct isbiascorrect bia correct isbiascorrect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

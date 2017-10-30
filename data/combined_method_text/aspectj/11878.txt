@@ -1,0 +1,39 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+perform compil performcompil list file
+progress listen progresslisten
+compil count compiledcount
+sourc file count sourcefilecount file size
+progress listen progresslisten set text settext compil sourc file
+system err println file file
+string filenam string file size
+string encod string file size
+system err println filenam filenam
+file size
+filenam file file path getpath
+list cp build config buildconfig full classpath getfullclasspath
+dump save full classpath savefullclasspath cp
+string classpath string cp size
+cp size
+classpath string cp
+system println compil
+environ librari access getlibraryaccess classpath filenam
+state getclassnametofilemap isempti pr133532 disabl state answer question
+environ state environ statefulnameenviron environ state class file map getclassnametofilemap state
+org aspectj ajdt intern compil compil adapt compileradapt set compil adapt factori setcompileradapterfactori
+org aspectj org eclips jdt intern compil compil compil
+org aspectj org eclips jdt intern compil compil environ
+default error handl polici defaulterrorhandlingpolici proce problem proceedwithallproblem
+build config buildconfig option getopt map getmap
+batch requestor getbatchrequestor
+problem factori getproblemfactori
+compil option compileropt option compil option
+option produc refer info producereferenceinfo option producereferenceinfo true todo turn need
+compil compil compil unit getcompilationunit filenam encod
+oper cancel except operationcanceledexcept oc
+handler handl messag handlemessag messag build cancel oc messag getmessag messag imessag warn
+cleanup
+org aspectj ajdt intern compil compil adapt compileradapt set compil adapt factori setcompileradapterfactori
+anonym class publish anonymousclasspublish aspect aspectof set anonym class creation listen setanonymousclasscreationlisten
+environ cleanup
+environ

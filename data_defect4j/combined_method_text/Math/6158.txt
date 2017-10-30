@@ -1,0 +1,133 @@
+dt1 time max tmax
+direct extrapol
+code serializ code mean result
+mimic behaviour analyt model
+step index set interpol time setinterpolatedtim time
+estim index revers quadrat polynom
+min tmin previou time getprevioustim current time getcurrenttim
+locat
+locat point locatepoint time max smax
+max tmax max smax previou time getprevioustim max smax current time getcurrenttim
+comput index time solv quadrat equat
+step interpol stepinterpol max smax step interpol stepinterpol step max imax
+solut
+step interpol stepinterpol med smed step interpol stepinterpol step med im
+problem model separ
+import featur
+step interpol stepinterpol med smed step med im
+dt3 time min tmin
+d12 max tmax med tmed
+max imax index
+integr intern variabl set
+variabl set step handl
+model time navig
+low fast math fastmath max min imin min imin max imax
+store inform provid od integr
+locat locat point locatepoint time
+complex model includ thruster model
+index low
+adapt stepsiz integr adaptivestepsizeintegr adapt step size integr
+numer model abil
+continu output model continuousoutputmodel
+bother maneuv begin end
+low math max min imin min imin max imax
+integr serial reus store
+close bound estim simpl dichotomi
+step interpol stepinterpol step index
+integr phase perform order
+data transpar manner
+found target step search
+ad simplifi implement search algorithm
+store copi step inform sort collect
+link set interpol time setinterpolatedtim set interpol time setinterpolatedtim link
+care accuraci interpol
+max tmax previou time getprevioustim current time getcurrenttim
+applic result integr
+index max imax
+org apach common math od
+d23 med tmed min tmin
+index
+index high
+param time time interpol point
+view call iter integr process
+set interpol time setinterpolatedtim set interpol time setinterpolatedtim intern
+version
+persist medium filesystem databas
+version revis date
+step interpol stepinterpol min smin step min imin
+step interpol stepinterpol min smin step interpol stepinterpol step min imin
+step interpol stepinterpol step interpol stepinterpol step index
+step
+handl point integr interv
+allow allow version mantissa
+index math rint lagrang ilagrang
+index min imin
+main loop user
+integr process user
+set time integr interv
+comput estim index reduc tabl slice
+tabl slice small perform iter search
+differenti equat begin maneuv
+max imax step size
+revers mean allow simpli
+min imin index
+integr process build continu model
+integr attempt call link
+dt1 dt2 d12 min imin
+lagrang ilagrang dt2 dt3 d23 max imax
+version continu output model continuousoutputmodel java 39z luc
+set interpol time setinterpolatedtim time
+step interpol stepinterpol max smax step max imax
+estim index split index
+inform time import wait
+deriv except derivativeexcept
+output model handl step integr phase user
+poor interv allow
+locat point locatepoint time step interpol stepinterpol step index
+set time interpol point
+med tmed med smed previou time getprevioustim med smed current time getcurrenttim
+high math min max imax min imin max imax
+math runtim except mathruntimeexcept unexpect except caught
+org apach common math od nonstiff adapt stepsiz integr adaptivestepsizeintegr adapt
+high fast math fastmath min max imax min imin max imax
+min smin set interpol time setinterpolatedtim time
+med im min imin max imax
+awar amount data store
+store refer integr problem
+index med im
+dt2 time med tmed
+step handl
+interpol state getinterpolatedst interpol state getinterpolatedst retriev
+integr phase contigu interv
+dt1 dt3 d13 med im
+initi search complet step tabl
+math ab med tmed min tmin math ab max tmax med tmed
+act step handler integr point
+continu output model continuousoutputmodel instanc import state vector
+d12 d23 d13
+max imax min imin
+runtim except runtimeexcept unexpect deriv except derivativeexcept caught
+messag getmessag
+continu output model continuousoutputmodel step handler
+min imin
+min tmin min smin previou time getprevioustim min smin current time getcurrenttim
+index fast math fastmath rint lagrang ilagrang
+forc size reduct tenth
+locat point locatepoint time min smin
+model end maneuv continu
+reduct tabl slice size
+step interpol stepinterpol
+d13 max tmax min tmin
+data
+interv endpoint
+max smax set interpol time setinterpolatedtim time
+index max imax locat point locatepoint time step index
+accur attitud control maneuv revert
+fast math fastmath ab med tmed min tmin fast math fastmath ab max tmax med tmed
+step size integr
+trajectori satellit model set
+small result small toler set link
+larg integr interv step
+step handler stephandl
+applic remain independ integr process
+method strong strong call

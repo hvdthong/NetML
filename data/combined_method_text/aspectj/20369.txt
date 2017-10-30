@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+report field annot weav messag reportfieldannotationweavingmessag lazi class gen lazyclassgen clazz field field field counter fieldcount declar annot declareannot deca decaf
+world getworld messag handler getmessagehandl ignor isignor messag imessag weaveinfo
+field field thefield field field counter fieldcount
+world messag handler getmessagehandl handl messag handlemessag
+weav messag weavemessag construct weav messag constructweavingmessag weav messag weavemessag weavemessag annot weavemessag annot
+string
+field thefield string tostr type clazz getnam
+clazz file getfilenam
+deca decaf annot string getannotationstr
+field
+deca decaf aspect getaspect string tostr
+util beautifi locat beautifyloc deca decaf sourc locat getsourceloc

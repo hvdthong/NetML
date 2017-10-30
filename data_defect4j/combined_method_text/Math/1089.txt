@@ -1,0 +1,10 @@
+version revis date lun juin
+implement href http mathworld wolfram brent method brentsmethod html
+brent algorithm find zero real univari function
+inherit doc inheritdoc
+solv min max initi
+deprec
+function continu necessarili smooth
+org apach common math analysi solver
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept
+brent solver brentsolv univari real solver impl univariaterealsolverimpl

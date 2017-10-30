@@ -1,0 +1,19 @@
+author stephen colebourn
+oper primit boolean object
+code 'yes' code code 'no' code
+author matthew hawthorn
+boolean util booleanutil string tostringyesno
+pre
+string tostr bool
+author gari gregori
+boolean util booleanutil
+handl code code input gracefulli
+version
+convert string return code 'yes' code
+string string tostringyesno bool
+code code
+except thrown code code input
+code 'no' code
+param bool boolean check
+method document behaviour detail
+org apach common lang

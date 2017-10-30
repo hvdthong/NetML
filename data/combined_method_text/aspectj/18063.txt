@@ -1,0 +1,16 @@
+org aspectj util
+file util fileutil
+recurs copi file fromdir fromsuffix todir
+replac fromsuffix tosuffix
+silent ignor dir file readabl
+throw ioexcept directori writabl
+clean origin content todir
+subdirectori renam directori rule
+param fromsuffix select file suffix select null empti
+param tosuffix replac fromsuffix tosuffix destin file
+null empti
+append fromsuffix null empti
+return total number file copi
+copi dir copydir file dir fromdir file dir todir
+string suffix fromsuffix string suffix tosuffix except ioexcept
+copi dir copydir dir fromdir dir todir suffix fromsuffix suffix tosuffix file filter filefilt

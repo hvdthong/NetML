@@ -1,0 +1,17 @@
+author stephen colebourn
+arrai field type period support
+abstract period abstractperiod common behaviour period class
+durat field type durationfieldtyp field type getfieldtyp
+kind period referenc
+abstract period abstractperiod readabl period readableperiod
+field return largest smallest hour minut second
+link readabl period readableperiod
+result length
+result field type getfieldtyp
+result
+org joda time base
+durat field type durationfieldtyp result durat field type durationfieldtyp size
+author brian neill o'neil
+gener directli api user
+abstract period abstractperiod subclass mutabl thread safe
+field support arrai alter largest smallest

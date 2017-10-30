@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+annot runtimevis visit runtimeinvis
+param attribut
+return true runtim visibl annot
+accept attribut acceptattribut attribut attribut
+attribut runtim visibl annot runtimevisibleannot

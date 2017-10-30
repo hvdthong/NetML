@@ -1,0 +1,20 @@
+param invers cum accuraci inversecumaccuraci maximum absolut error invers cumul probabl estim
+cumul probabl estim
+param invers cum accuraci inversecumaccuraci maximum absolut error invers
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+invers cumul probabl absolut accuraci
+default link default invers absolut accuraci
+param degre freedom degreesoffreedom degre freedom
+set degre freedom intern setdegreesoffreedomintern degre freedom degreesoffreedom
+distribut impl tdistributionimpl degre freedom degreesoffreedom invers cum accuraci inversecumaccuraci
+link org apach common math distribut distribut tdistribut
+strictli posit except notstrictlypositiveexcept local format localizedformat degre freedom
+version
+distribut impl tdistributionimpl
+version revis date
+degre freedom degreesoffreedom
+default implement
+org apach common math distribut
+degre freedom degreesoffreedom degre freedom degreesoffreedom
+strictli posit except notstrictlypositiveexcept code degre freedom degreesoffreedom
+creat distribut degre freedom

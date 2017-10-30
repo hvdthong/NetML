@@ -1,0 +1,9 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+start notifi interest build progress
+start notifi startnotifi
+compil build progress monitor getbuildprogressmonitor begin
+curr notifi currnotifi ajd core build notifi adapt ajdecorebuildnotifieradapt compil build progress monitor getbuildprogressmonitor
+build manag ajbuildmanag set progress listen setprogresslisten curr notifi currnotifi

@@ -1,0 +1,21 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+write outxml file writeoutxmlfil except ioexcept
+ignor outxml ignoreoutxml
+string filenam build config buildconfig outxml getoutxmlnam
+system err println ajbuildmanag writeoutxmlfil outxml filenam
+map output dir aspect outputdirsandaspect find output dir aspect findoutputdirsforaspect
+set output dir outputdir output dir aspect outputdirsandaspect entri set entryset
+iter iter output dir outputdir iter iter hasnext
+map entri entri map entri iter
+file output dir outputdir file entri kei getkei
+list aspect list entri getvalu
+byte arrai output stream bytearrayoutputstream bao outxml content getoutxmlcont aspect
+zo
+zip entri zipentri entri newentri zip entri zipentri filenam
+zo put entri putnextentri entri newentri
+zo write bao byte arrai tobytearrai
+zo close entri closeentri
+output stream outputstream fo file util fileutil make output stream makeoutputstream file output dir outputdir filenam
+fo write bao byte arrai tobytearrai
+fo close

@@ -1,0 +1,12 @@
+param kei format keyedformat string format map
+kei meta format namekeyedmetaformat map kei format keyedformat
+kei meta format namekeyedmetaformat meta format support metaformatsupport
+link extend messag format extendedmessageformat
+author matt benson
+org apach common lang text
+version
+creat kei meta format namekeyedmetaformat
+basic meta format metaformat requir configur inform
+kei format keyedformat kei format keyedformat
+extend messag format extendedmessageformat
+pars format format extend messag format extendedmessageformat

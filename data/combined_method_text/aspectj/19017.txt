@@ -1,0 +1,4 @@
+org aspectj weaver
+lint
+kind lint kind getlintkind string
+kind kind

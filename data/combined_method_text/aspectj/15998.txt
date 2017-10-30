@@ -1,0 +1,20 @@
+org aspectj bridg
+conveni api' construct print send messag
+messag util messageutil
+extract messag type kind input list
+param messag null return empti list
+param kind null return messag
+messagehandl getmessag kind
+list messag getmessag list messag messag imessag kind kind
+messag
+collect empti list empti list
+kind
+messag
+arrai list arraylist result arrai list arraylist
+iter iter messag iter iter hasnext
+messag imessag element messag imessag iter
+kind element kind getkind
+result add element
+result size
+collect empti list empti list
+result

@@ -1,0 +1,14 @@
+multivari optim multivariateoptim
+evalu counter limit
+param param point object function evalu
+base multivari scalar function optim
+function param
+version
+object function point
+org apach common math3 optim nonlinear scalar
+evalu except toomanyevaluationsexcept maxim number
+increment evalu count incrementevaluationcount
+comput object computeobjectivevalu param
+evalu exceed
+method call subclass enforc
+comput object function

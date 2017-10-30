@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil lookup
+privileg handler privilegedhandl privileg handler iprivilegedhandl
+resolv member resolvedmemb member getmemb
+collect accessor kei set keyset
+len size
+resolv member resolvedmemb ret resolv member resolvedmemb len
+index
+iter iter hasnext
+ret index resolv member resolvedmemb
+ret

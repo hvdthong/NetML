@@ -1,0 +1,11 @@
+assembl chronolog assembledchronolog base chronolog basechronolog
+assembl chronolog assembledchronolog thread safe immut
+contain field
+org joda time chrono
+unsupport instanc
+assembl field field
+invok constructor deseri subclass
+abstract chronolog enabl chronolog assembl
+author brian neill o'neil
+param field contain field
+defin support field unset field

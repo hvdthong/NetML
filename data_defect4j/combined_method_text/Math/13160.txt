@@ -1,0 +1,20 @@
+overrid
+rang except outofrangeexcept number small except numberistoosmallexcept
+array2 row field matrix array2drowfieldmatrix field element fieldel
+start column startcolumn end column endcolumn
+org apach common math3 linear
+param type field element
+inherit doc inheritdoc
+walk column order walkincolumnord field matrix chang visitor fieldmatrixchangingvisitor visitor
+link field matrix fieldmatrix matrix element index
+return element row column matrix
+visitor end
+version
+check matrix index checksubmatrixindex start row startrow end row endrow start column startcolumn end column endcolumn
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+start row startrow end row endrow start column startcolumn end column endcolumn
+row rowi visitor visit row rowi
+base code entri getentri code
+start row startrow end row endrow
+row rowi data
+visitor start row dimens getrowdimens column dimens getcolumndimens

@@ -1,0 +1,15 @@
+org apach lucen index
+store monoton increas set term terminfo pair
+directori pair access term ordin posit
+set
+term info reader terminfosread
+return posit term set
+posit getposit term term except ioexcept
+size
+ensur index read ensureindexisread
+index offset indexoffset index offset getindexoffset term
+segment term enum segmenttermenum enumer thread resourc getthreadresourc term enum termenum
+seek enum seekenum enumer index offset indexoffset
+term compar compareto enumer term enumer
+term compar compareto enumer term
+enumer posit

@@ -1,0 +1,17 @@
+org aspectj apach bcel verifi structur
+class easi access exceptionhandl object
+version exceptionhandl java aclement exp
+author href http www inf berlin ehaas enver haas
+except handler exceptionhandl
+constructor creat exceptionhandl instanc
+except handler exceptionhandl method gen methodgen
+exceptionhandl hashtabl
+code except gen codeexceptiongen ceg except handler getexceptionhandl
+ceg length
+except handler exceptionhandl except handler exceptionhandl ceg catch type getcatchtyp ceg handler gethandlerpc
+instruct handl instructionhandl ceg start getstartpc ceg end getendpc getnext getnext
+hash set hashset
+hash set hashset exceptionhandl
+hash set hashset
+exceptionhandl put
+add

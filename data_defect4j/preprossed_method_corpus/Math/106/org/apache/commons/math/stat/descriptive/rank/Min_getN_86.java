@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript rank
+
+
+
+
+
+
+return minimum valu
+
+
+result code nan code iff valu code nan code
+code nan code valu impact statist
+valu equal code doubl neg infin code
+result code doubl neg infin code
+
+
+strong note implement strong
+multipl thread access instanc concurr
+thread invok code increment code
+code clear code method extern
+
+version revis date
+
+min abstract storeless univari statist abstractstorelessunivariatestatist serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript storeless univari statist storelessunivariatestatist getn
+
+getn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

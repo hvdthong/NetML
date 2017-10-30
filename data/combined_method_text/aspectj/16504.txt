@@ -1,0 +1,15 @@
+org aspectj lang
+user work level java prior java5 aspects14 handl gener aspectof method
+aspect ad load time weav user java5
+class aspect
+aspects14 aspectof reflect call aspect aspectof perform
+ajc compil aspect binari depend project
+aspects14
+return true pertypewithin aspect bound
+param aspectclass
+param pertypewithin class
+return
+throw noaspectboundexcept bound
+aspect hasaspect class aspect class aspectclass class type pertypewithin aspect bound except noaspectboundexcept
+boolean type aspect getpertypewithinhasaspect aspect class aspectclass invok object type pertypewithin boolean booleanvalu
+except

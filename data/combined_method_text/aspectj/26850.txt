@@ -1,0 +1,139 @@
+origin
+isprotect
+getkind getkind getkind getkind
+proceedingtjptyp
+gettargettyp
+paramet paramet paramet paramet paramet paramet paramet paramet paramet
+fix
+extra
+except
+bytecod bytecod
+add add add
+case case
+return return return return return return return
+string string
+void
+mung
+piec
+initi
+tjp tjp
+isexpressionkind
+bcel bcel bcel bcel bcel bcel bcel bcel bcel bcel
+world world world world world world world world world world world
+shadow shadow
+aspectj
+getexcept
+alex
+addtyp addtyp
+correct
+bad
+getmodifi
+weaver
+woven
+unnecessari
+resolv resolv resolv resolv resolv resolv resolv resolv resolv resolv resolv
+'x' 'x'
+makebceltyp makebceltyp makebceltyp makebceltyp
+argsonfram
+argsonstack
+targetvar targetvar
+static static
+getactualtargettyp getactualtargettyp getactualtargettyp
+pass pass
+extract
+newmethodnam newmethodnam
+objectarrai
+bcelworld bcelworld bcelworld bcelworld
+getpackagenam getpackagenam
+rewrit
+thisjoinpoint
+samepackag
+method method method method method method method method
+getnam getnam getnam
+refer refer
+signatur signatur signatur
+tjptype
+resolvedtyp
+getthistyp getthistyp getthistyp
+bodi
+lazi lazi lazi
+org
+modifi modifi modifi modifi modifi modifi modifi modifi modifi modifi modifi
+getenclosingtyp
+protect
+actual actual actual
+equal equal
+constructor
+assign
+sometyp
+fieldget fieldget
+getsignatur getsignatur getsignatur getsignatur getsignatur
+point point
+arrai
+instruct instruct
+set
+visibl visibl
+ensur
+mention
+pr109728
+isassignablefrom
+thisjoinpointvar
+strict
+call
+pr137496
+var var var var var
+type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type
+final
+share
+xxx xxx
+gen gen gen gen
+thisvar thisvar
+enclos enclos
+line
+bug
+createmethodgen
+getdeclaringtyp
+kind kind kind kind
+join join
+target target target target target target target target target target target target target target target target target target target
+ensuretargettypeiscorrect
+visibilitymodifi visibilitymodifi
+returntyp returntyp returntyp returntyp returntyp returntyp returntyp
+pre
+creat
+unresolvedtyp unresolvedtyp unresolvedtyp unresolvedtyp unresolvedtyp unresolvedtyp
+getfield
+bcexcept
+arg
+thistyp thistyp
+argument
+accept
+packag packag packag
+fieldset
+end
+advic advic
+make make make make make
+addtypetoend addtypetoend
+member member member member member
+field field field
+targettyp targettyp targettyp targettyp targettyp targettyp targettyp targettyp targettyp
+fixm
+singl
+isstrict
+bcelshadow
+clone
+lazyclassgen lazyclassgen
+fornam
+constructorcal
+parametertyp parametertyp parametertyp parametertyp parametertyp parametertyp parametertyp parametertyp parametertyp parametertyp
+typex typex typex typex typex
+preiniti
+getenclosingclass
+class class class
+lazymethodgen lazymethodgen
+unresolv unresolv unresolv unresolv unresolv
+resolvedmemb resolvedmemb resolvedmemb resolvedmemb resolvedmemb
+declar declar declar
+subtyp subtyp
+getreturntyp getreturntyp
+getargtyp

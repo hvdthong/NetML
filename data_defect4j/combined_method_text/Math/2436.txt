@@ -1,0 +1,27 @@
+len msg pattern msgpattern size
+object arg msg argument msgargument
+arg serializ
+write object writeobject serializ replac nonserializablereplac arg
+len alen arg length
+write object writeobject arg
+math runtim except mathruntimeexcept runtim except runtimeexcept
+except ioexcept happen
+base except
+localiz pat msg pattern msgpattern
+serial link msg pattern msgpattern link msg argument msgargument
+version revis date
+len alen
+org apach common math except
+object arg pair getvalu
+len
+len messag size
+step
+param stream
+except ioexcept
+serial messag serializemessag object output stream objectoutputstream
+serializ pair serializablepair localiz object pair messag
+write object writeobject pat
+write object writeobject pair kei getkei
+write int writeint len alen
+serial link messag
+write int writeint len

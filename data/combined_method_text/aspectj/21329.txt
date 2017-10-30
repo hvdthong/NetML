@@ -1,0 +1,7 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+return classnam hashcod
+string class loader getclassloadernam
+loader loader class getclass getnam integ hex string tohexstr system ident hash code identityhashcod loader null

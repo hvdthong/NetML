@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+comput flag xxxjoinpoint extra argument
+param method
+return extra arg flag
+extract extra argument extractextraargu method method
+type method arg methodarg method argument type getargumenttyp
+string sig string method arg methodarg length
+method arg methodarg length
+sig method arg methodarg signatur getsignatur
+extract extra argument extractextraargu sig

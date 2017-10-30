@@ -1,0 +1,18 @@
+simplex point
+org apach common math3 optim nonlinear scalar noderiv
+link abstract simplex abstractsimplex constructor set step
+version
+simplex concept
+point pair pointvaluepair copi point pair pointvaluepair simplex length
+copi
+abstract simplex abstractsimplex optim data optimizationdata
+creat data structur act method
+point pair pointvaluepair point getpoint
+intend conjunct link simplex optim simplexoptim
+link abstract simplex abstractsimplex link abstract simplex abstractsimplex
+point simplex
+simplex optim simplexoptim
+user call link build build method order
+build configur unit hypercub
+initi configur simplex set constructor
+system arraycopi simplex copi simplex length

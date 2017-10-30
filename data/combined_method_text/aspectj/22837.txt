@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+type pattern question typepatternquest
+question anychang
+iter question answer questionsandansw entri set entryset iter hasnext
+map entri entri map entri
+question question question entri kei getkei
+fuzzi boolean fuzzyboolean expect answer expectedansw fuzzi boolean fuzzyboolean entri getvalu
+fuzzi boolean fuzzyboolean current answer currentansw question
+system println question currentansw
+current answer currentansw expect answer expectedansw
+question

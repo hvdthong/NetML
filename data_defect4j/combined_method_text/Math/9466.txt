@@ -1,0 +1,37 @@
+data sampl min max
+point
+scale coeffici math sqrt
+transform real function sampl interv
+comment method
+complex transform2 univari real function univariaterealfunct
+implement href http mathworld wolfram fast fourier transform fastfouriertransform html
+requir length data set power greatli simplifi
+math except mathexcept illeg argument except illegalargumentexcept
+coeffici expon equat list
+version
+version revis date
+param max upper bound interv
+univari real function univariaterealfunct min max
+illeg argument except illegalargumentexcept paramet invalid
+complex transform2
+speed code user pad data zero meet
+requir flavor fft refer winograd
+min max
+scale arrai scalearrai fft data scale coeffici
+refer appli numer linear algebra isbn
+fast fourier transform transform dimension data set
+complex transform arrai
+param number sampl point
+chapter
+param min lower bound interv
+illeg argument except illegalargumentexcept
+formula sqrt sigma
+org apach common math transform
+math except mathexcept math relat error occur
+param function sampl transform
+convent definit fft invers fft
+fast fourier transform fastfouriertransform serializ
+function evalu except functionevaluationexcept function evalu
+function evalu except functionevaluationexcept illeg argument except illegalargumentexcept
+comput discret fourier transform mathemat comput
+scale coeffici fast math fastmath sqrt

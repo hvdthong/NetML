@@ -1,0 +1,14 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+type bind typebind gener object interfac generateperobjectinterfac
+class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+unresolv type unresolvedtyp interfac type interfacetypex
+ajc member maker ajcmembermak object interfac type perobjectinterfacetyp type typex
+helper interfac bind helperinterfacebind interfac type interfacetyp
+helper interfac bind helperinterfacebind bind interfac type interfacetypex
+world add type bind store world addtypebindingandstoreinworld interfac type interfacetyp
+interfac type interfacetyp add method addmethod world ajc member maker ajcmembermak object interfac perobjectinterfaceget type typex
+interfac type interfacetyp add method addmethod world ajc member maker ajcmembermak object interfac set perobjectinterfaceset type typex
+interfac type interfacetyp gener class generateclass compil result compilationresult class file classfil
+interfac type interfacetyp

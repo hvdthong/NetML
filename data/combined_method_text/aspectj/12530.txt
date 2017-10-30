@@ -1,0 +1,47 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+class type signatur classtypesignatur pars class type signatur parseclasstypesignatur
+simpl class type signatur simpleclasstypesignatur outer type outertyp
+simpl class type signatur simpleclasstypesignatur nest type nestedtyp simpl class type signatur simpleclasstypesignatur
+string buffer stringbuff ret string buffer stringbuff
+string identifi eat identifi eatidentifi
+ret append identifi
+eat maybeeat
+ret append ret append dont forget
+ret append eat identifi eatidentifi
+identifi ret string tostr
+indic start nest type
+indic type argument
+eat maybeeat
+eat maybeeat
+outer type complet
+outer type outertyp simpl class type signatur simpleclasstypesignatur identifi
+list nest type list nestedtypelist arrai list arraylist
+ret append
+simpl class type signatur simpleclasstypesignatur sig pars simpl class type signatur parsesimpleclasstypesignatur
+ret append sig string tostr
+nest type list nestedtypelist add sig
+eat maybeeat
+nest type nestedtyp simpl class type signatur simpleclasstypesignatur nest type list nestedtypelist size
+nest type list nestedtypelist arrai toarrai nest type nestedtyp
+token stream tokenstream token index tokenindex equal
+ret append
+type argument typeargu arg targ pars type argument maybeparsetypeargu
+arg targ length
+ret append arg targ string tostr
+ret append
+outer type outertyp simpl class type signatur simpleclasstypesignatur identifi arg targ
+pars nest
+list nest type list nestedtypelist arrai list arraylist
+eat maybeeat
+ret append
+simpl class type signatur simpleclasstypesignatur sig pars simpl class type signatur parsesimpleclasstypesignatur
+ret append sig string tostr
+nest type list nestedtypelist add sig
+nest type nestedtyp simpl class type signatur simpleclasstypesignatur nest type list nestedtypelist size
+nest type list nestedtypelist arrai toarrai nest type nestedtyp
+illeg state except illegalstateexcept expect found token stream tokenstream token index tokenindex unpack input string inputstr
+ret append
+outer type outertyp outer type outertyp simpl class type signatur simpleclasstypesignatur ret string tostr
+class type signatur classtypesignatur ret string tostr outer type outertyp nest type nestedtyp

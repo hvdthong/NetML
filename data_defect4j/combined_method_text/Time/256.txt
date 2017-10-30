@@ -1,0 +1,13 @@
+design extens extract field
+date time field datetimefield
+debug string
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+string string tostr
+author gui allard
+defin calcul engin date time field
+org joda time
+author brian neill o'neil
+suitabl debug string
+millisecond number standard implement provid assist

@@ -1,0 +1,28 @@
+repres point time irrespect
+instant pars string str
+author stephen colebourn
+factor chronolog time zone
+link iso date time format isodatetimeformat date time parser datetimepars
+note code perform check
+instant repres exact point time line
+string fromstr
+param formatt formatt
+intern hold piec data instant millisecond
+instant thread safe immut
+instant sameinst dt1 equal isequ dt2
+pars str iso date time format isodatetimeformat date time parser datetimepars
+java epoch t00 01t00 00z
+instant pars string str date time formatt datetimeformatt formatt
+limit precis millisecond code instant code
+pars code instant string formatt
+instant sameinst dt1 instant toinstant equal dt2 instant toinstant
+pars code instant string
+instant compar code date time datetim code
+pre
+instant
+param str string pars
+instant standard implement fulli immut instant time
+code instant code implement link readabl instant readableinst
+formatt pars date time parsedatetim str instant toinstant
+org joda time
+object irrespect chronolog time zone

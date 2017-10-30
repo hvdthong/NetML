@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+join point visitor thisjoinpointvisitor ast visitor astvisitor
+replac effect static ref replaceeffectivelystaticref messag send messagesend call
+refer namerefer receiv refer namerefer call receiv
+continu call bind null report error line code
+call bind
+system err println replac static ref receiv system identityhashcod receiv
+receiv bind join point static part dec local thisjoinpointstaticpartdecloc receiv bind thisjoinpointstaticpartdecloc thisjoinpointstaticpartdec
+receiv codegen bind codegenbind join point static part dec local thisjoinpointstaticpartdecloc
+refer bind referencebind join point static part type thisjoinpointstaticparttyp
+refer bind referencebind join point static part dec thisjoinpointstaticpartdec type
+receiv actual receiv type actualreceivertyp
+receiv resolv type resolvedtyp join point static part type thisjoinpointstaticparttyp
+call set actual receiv type setactualreceivertyp join point static part type thisjoinpointstaticparttyp
+ast util astutil replac method bind replacemethodbind call equival static bind getequivalentstaticbind call bind

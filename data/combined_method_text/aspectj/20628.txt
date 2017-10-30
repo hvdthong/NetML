@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bcel world bcelworld world getworld
+world

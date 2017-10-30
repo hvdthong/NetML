@@ -1,0 +1,10 @@
+org aspectj ajd core
+interfac handl messag compil
+implement defin messag log
+handler abort process
+build messag handler ibuildmessagehandl
+signal ignor messag type
+client avoid construct send
+messag
+return true handler ignor messag type
+ignor isignor messag imessag kind kind

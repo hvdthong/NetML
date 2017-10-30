@@ -1,0 +1,17 @@
+set bit ieee statu flag chang set bit
+dfp field dfpfield field dfp
+org apach common math3 dfp
+flag underflow
+call method equival call code set ieee flag setieeeflag ieee flag getieeeflag bit
+field decim float point instanc
+flag invalid
+flag inexact
+set ieee flag bit setieeeflagsbit bit
+flag div
+ieee flag getieeeflag
+version
+param bit bit set
+set ieee flag setieeeflag
+flag overflow
+clear ieee flag clearieeeflag
+ieee flag ieeeflag bit flag invalid flag div flag overflow flag underflow flag inexact

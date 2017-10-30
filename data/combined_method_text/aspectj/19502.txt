@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv member resolvedmemb member annot element annotatedel type variabl declar element typevariabledeclaringel
+resolv member impl resolvedmemberimpl parameter parameterizedwith
+unresolv type unresolvedtyp type paramet typeparamet resolv type resolvedtyp declar type newdeclaringtyp
+parameter isparameter list alias

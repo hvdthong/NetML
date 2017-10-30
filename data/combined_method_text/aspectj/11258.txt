@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil ast
+field refer knownfieldrefer qualifi refer qualifiednamerefer
+field refer knownfieldrefer field bind fieldbind bind po
+bind
+bind codegen bind codegenbind bind
+constant constant constant notaconst
+actual receiv type actualreceivertyp bind declar class declaringclass
+bit bind field
+receiv astutil maketyperefer bind declaringclass

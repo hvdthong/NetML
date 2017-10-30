@@ -1,0 +1,54 @@
+org aspectj weaver bcel
+lazymethodgen treat methodgen abstract
+low level method object convert link methodgen creat
+serial
+rate wai creat lazymethodgen
+method
+work methodgen correct thing
+creation complet empti
+lazymethodgen construct code scratch
+stai target rangei thing shadow except
+lazi method gen lazymethodgen traceabl
+method gen methodgen pack
+forc synthet ajc magic member forcesyntheticforajcmagicmemb
+killnop
+flag access flag getaccessflag
+enclos class enclosingclass world getworld joinpoint synchron enabl isjoinpointsynchronizationen
+enclos class enclosingclass world getworld synchron pointcut aresynchronizationpointcutsinus
+flag access flag synchron getaccessflagswithoutsynchron
+method gen methodgen gen
+method gen methodgen
+flag
+return type getreturntyp
+argument type getargumenttyp
+null getargumentnam
+getnam
+enclos class getenclosingclass getnam
+instruct list instructionlist
+enclos class getenclosingclass constant pool gen getconstantpoolgen
+len declar except declaredexcept length len
+gen add except addexcept declar except declaredexcept
+len attribut length len
+gen add attribut addattribut attribut
+annot newannot
+iter iter annot newannot iter iter hasnext
+annot annotationx element annot annotationx iter
+gen add annot addannot annot gen annotationgen element bcel annot getbcelannot gen constant pool getconstantpool
+member view memberview member view memberview annot getannot member view memberview annot getannot length
+annot annotationx an member view memberview annot getannot
+len an length len
+annot an bcel annot getbcelannot
+gen add annot addannot annot gen annotationgen gen constant pool getconstantpool
+synthet issynthet
+enclos class enclosingclass world getworld java5 mode isinjava5mod
+gen set modifi setmodifi gen modifi getmodifi acc synthet acc synthet
+belt brace attribut java addit modifi flag
+constant pool gen constantpoolgen cpg gen constant pool getconstantpool
+index cpg add utf8 addutf8 synthet
+gen add attribut addattribut synthet index cpg constant pool getconstantpool
+bodi hasbodi
+pack bodi packbodi gen
+gen set max local setmaxloc
+gen set max stack setmaxstack
+gen set instruct list setinstructionlist
+gen

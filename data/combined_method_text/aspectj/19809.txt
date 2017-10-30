@@ -1,0 +1,8 @@
+org aspectj weaver
+shadow
+target pcd match
+target hastarget
+kind getkind target neverhastarget
+kind getkind target istargetsameasthi
+hasthi
+signatur getsignatur static isstat

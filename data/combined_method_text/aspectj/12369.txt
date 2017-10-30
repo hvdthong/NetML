@@ -1,0 +1,24 @@
+org aspectj apach bcel classfil
+class deriv attribut repres constant
+default initi class field
+class instanti attribut readattribut method
+version constantvalu java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+constant constantvalu attribut
+return string represent constant
+string string tostr
+constant constant pool constant getconst constantvalu index
+string buf
+print constant string depend type
+tag gettag
+constant constant long constant long buf constant long constantlong byte getbyt
+constant constant float constant float buf constant float constantfloat byte getbyt
+constant constant doubl constant doubl buf constant doubl constantdoubl byte getbyt
+constant constant integ constant integ buf constant integ constantinteg byte getbyt
+constant constant string constant string
+constant string constantstr string index getstringindex
+constant pool constant getconst constant constant utf8 constant utf8
+buf util convert string convertstr constant utf8 constantutf8 byte getbyt
+illeg state except illegalstateexcept type constvalu invalid
+buf

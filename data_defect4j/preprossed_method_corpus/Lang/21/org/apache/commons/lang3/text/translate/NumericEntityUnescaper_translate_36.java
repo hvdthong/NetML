@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common lang3 text translat
+
+
+
+
+
+translat xml numer entiti form
+specif codepoint
+
+author apach softwar foundat
+
+version
+
+numer entiti unescap numericentityunescap char sequenc translat charsequencetransl
+
+
+inherit doc inheritdoc
+
+overrid
+translat char sequenc charsequ input index writer except ioexcept
+input charat index index input length input charat index
+start index
+hex ishex
+
+char firstchar input charat start
+char firstchar 'x' char firstchar 'x'
+start
+hex ishex
+
+
+end start
+input charat end
+end
+
+
+entiti entityvalu
+
+hex ishex
+entiti entityvalu integ pars int parseint input sequenc subsequ start end string tostr
+
+entiti entityvalu integ pars int parseint input sequenc subsequ start end string tostr
+
+number format except numberformatexcept nfe
+
+
+
+entiti entityvalu ffff 0xffff
+chr charact char tochar entiti entityvalu
+write chr
+write chr
+
+write entiti entityvalu
+
+end start hex ishex
+
+
+
+

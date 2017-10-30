@@ -1,0 +1,8 @@
+includ exclud fileset refer
+defin fileset webapp
+fileset webapp
+
+fileset
+constrain refer includ web inf
+directori webapp
+fileset refid webapp includ web inf

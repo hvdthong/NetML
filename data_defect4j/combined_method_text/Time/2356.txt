@@ -1,0 +1,20 @@
+author stephen colebourn
+differ
+subtrahend weekyear subtrahendweekyear subtrahend instant subtrahendinst
+subtrahend rem subtrahendrem date time constant datetimeconst milli week
+minuend weekyear minuendweekyear minuend instant minuendinst
+org joda time chrono
+minuend instant minuendinst subtrahend instant subtrahendinst
+author gui allard
+refactor weekyear date time field gjweekyeardatetimefield
+differ getdiffer subtrahend instant subtrahendinst minuend instant minuendinst
+time calcul week weekyear compon time
+balanc leap weekyear differ remaind
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+subtrahend rem subtrahendrem week chronolog ichronolog week year getweeksinyear minuend weekyear minuendweekyear
+author brian neill o'neil
+minuend rem minuendrem remaind minuend instant minuendinst
+minuend rem minuendrem subtrahend rem subtrahendrem
+basic weekyear date time field basicweekyeardatetimefield imprecis date time field imprecisedatetimefield
+differ minuend weekyear minuendweekyear subtrahend weekyear subtrahendweekyear
+subtrahend rem subtrahendrem remaind subtrahend instant subtrahendinst

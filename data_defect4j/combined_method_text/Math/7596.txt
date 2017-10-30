@@ -1,0 +1,29 @@
+pre
+org apach common math optim fit
+fwhm fwhmx2 interpol interpolatexati point max idx maxyidx half halfi
+fwhm approx fwhmapprox
+paramet fitter fit
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+fwhm approx fwhmapprox fwhm fwhmx2 fwhm fwhmx1
+rang except outofrangeexcept
+fit point link
+param
+param point max idx maxyidx geti
+version
+version revis date
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+param point max idx maxyidx getx
+fwhm approx fwhmapprox point point length getx point getx
+gaussian fitter gaussianfitt curv fitter curvefitt
+guess paramet base observ point
+arrai sort point creat weight observ point compar createweightedobservedpointcompar
+usag
+param fwhm approx fwhmapprox math sqrt math log
+org apach common math analysi function gaussian parametr gaussian function
+fwhm fwhmx1 interpol interpolatexati point max idx maxyidx half halfi
+param point observ point base guess
+basic guess basicguess weight observ point weightedobservedpoint point
+max idx maxyidx find max findmaxi point
+half halfi param param param
+guess paramet norm sigma

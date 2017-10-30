@@ -1,0 +1,5 @@
+org/apache/commons/math/optimization/univariate/BrentOptimizer_BrentOptimizer_<init>
+org/apache/commons/math/optimization/univariate/BrentOptimizer_doOptimize_double
+org/apache/commons/math/optimization/univariate/BrentOptimizer_optimize-UnivariateRealFunction-GoalType-double-double-double_double
+org/apache/commons/math/optimization/univariate/BrentOptimizer_optimize-UnivariateRealFunction-GoalType-double-double_double
+org/apache/commons/math/optimization/univariate/BrentOptimizer_localMin-boolean-UnivariateRealFunction-GoalType-double-double-double-double-double_double

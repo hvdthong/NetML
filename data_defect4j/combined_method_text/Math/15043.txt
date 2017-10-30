@@ -1,0 +1,14 @@
+param point object function evalu
+base univari scalar function optim
+evalu counter limit
+function
+univari optim univariateoptim
+increment evalu count incrementevaluationcount
+org apach common math3 optim univari
+version
+object function point
+evalu except toomanyevaluationsexcept maxim number
+comput object computeobjectivevalu
+evalu exceed
+method call subclass enforc
+comput object function

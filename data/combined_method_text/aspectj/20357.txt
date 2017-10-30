@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+lazi method gen lazymethodgen locat annot holder field munger locateannotationholderforfieldmung lazi class gen lazyclassgen clazz bcel type munger bceltypemung field munger fieldmung
+field type munger newfieldtypemung nftm field type munger newfieldtypemung field munger fieldmung munger getmung
+resolv member resolvedmemb lookingfor ajc member maker ajcmembermak inter field initi interfieldiniti nftm signatur getsignatur clazz type gettyp
+list meth clazz method gen getmethodgen
+iter iter meth iter iter hasnext
+lazi method gen lazymethodgen element lazi method gen lazymethodgen iter
+element getnam equal lookingfor getnam element

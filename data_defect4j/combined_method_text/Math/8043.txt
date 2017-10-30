@@ -1,0 +1,22 @@
+set seed underyl random number gener
+method strong strong provid
+data gener method base code code doubl nextdoubl
+data gener method base code doubl nextdoubl code
+set seed setse seed
+suppli
+perform implement method underli prng
+code gaussian nextgaussian code includ call link clear
+code seed sequenc valu gener start
+code gaussian nextgaussian includ call link clear
+abstract random gener abstractrandomgener random gener randomgener
+version revis date
+default implement method link doubl nextdoubl
+concret implement strong strong overrid
+implement method
+seed ident
+param seed seed
+link set seed setse provid
+code code seed sequenc valu gener start
+abstract implement link random gener randomgener
+org apach common math random
+implement overrid implement

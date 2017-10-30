@@ -1,0 +1,572 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree data time
+
+
+
+
+
+
+
+
+
+
+
+structur link time period timeperiodvalu instanc
+time period overlap maintain order
+ad collect
+
+similar link time seri timeseri time
+period irregular length
+
+time period valu timeperiodvalu seri serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+updat index valu maximum minimum bound
+
+param period time period
+param index index time period
+
+updat bound updatebound time period timeperiod period index
+
+start period start getstart time gettim
+end period end getend time gettim
+middl start end start
+
+min start index minstartindex
+min start minstart data item getdataitem min start index minstartindex period getperiod
+start getstart time gettim
+start min start minstart
+min start index minstartindex index
+
+
+
+min start index minstartindex index
+
+
+max start index maxstartindex
+max start maxstart data item getdataitem max start index maxstartindex period getperiod
+start getstart time gettim
+start max start maxstart
+max start index maxstartindex index
+
+
+
+max start index maxstartindex index
+
+
+min middl index minmiddleindex
+data item getdataitem min middl index minmiddleindex period getperiod start getstart
+time gettim
+data item getdataitem min middl index minmiddleindex period getperiod end getend
+time gettim
+min middl minmiddl
+middl min middl minmiddl
+min middl index minmiddleindex index
+
+
+
+min middl index minmiddleindex index
+
+
+max middl index maxmiddleindex
+data item getdataitem min middl index minmiddleindex period getperiod start getstart
+time gettim
+data item getdataitem min middl index minmiddleindex period getperiod end getend
+time gettim
+max middl maxmiddl
+middl max middl maxmiddl
+max middl index maxmiddleindex index
+
+
+
+max middl index maxmiddleindex index
+
+
+min end index minendindex
+min end minend data item getdataitem min end index minendindex period getperiod end getend
+time gettim
+end min end minend
+min end index minendindex index
+
+
+
+min end index minendindex index
+
+
+max end index maxendindex
+max end maxend data item getdataitem max end index maxendindex period getperiod end getend
+time gettim
+end max end maxend
+max end index maxendindex index
+
+
+
+max end index maxendindex index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

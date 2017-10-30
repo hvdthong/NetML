@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+modifi getmodifi
+mask modifi public modifi privat modifi protect
+compon type componenttyp modifi getmodifi mask modifi final

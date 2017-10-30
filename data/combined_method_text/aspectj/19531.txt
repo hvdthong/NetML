@@ -1,0 +1,9 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv member resolvedmemb declar method getdeclaredmethod
+return clone
+code
+resolvedmemb clonemethod
+resolvedmemb member method modifi public unresolvedtyp object clone unresolvedtyp
+return resolvedmemb clonemethod
+resolv member resolvedmemb

@@ -1,0 +1,10 @@
+link real field element realfieldel
+version
+org apach common math3 util
+decimal64 fast math fastmath iee eremaind ieeeremaind
+decimal64 number
+decimal64 remaind
+wrap code object similar
+standard link doubl implement
+link extend field element extendedfieldel
+inherit doc inheritdoc

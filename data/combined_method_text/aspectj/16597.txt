@@ -1,0 +1,100 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+ast node astnod convert advic declar advicedeclar advic declar advicedeclar
+ajh02 method ad
+org aspectj org eclips jdt core dom advic declar advicedeclar advic decl advicedecl
+advic declar advicedeclar kind equal advic kind advicekind
+advic decl advicedecl org aspectj org eclips jdt core dom advic declar beforeadvicedeclar ast
+advic declar advicedeclar kind equal advic kind advicekind
+advic decl advicedecl org aspectj org eclips jdt core dom advic declar afteradvicedeclar ast
+advic declar advicedeclar kind equal advic kind advicekind throw afterthrow
+advic decl advicedecl throw advic declar afterthrowingadvicedeclar ast
+advic declar advicedeclar extra argument extraargu
+singl variabl declar singlevariabledeclar throw convert advic declar advicedeclar extra argument extraargu
+throw advic declar afterthrowingadvicedeclar advic decl advicedecl set throw setthrow throw
+advic declar advicedeclar kind equal advic kind advicekind return afterreturn
+advic decl advicedecl return advic declar afterreturningadvicedeclar ast
+advic declar advicedeclar extra argument extraargu
+singl variabl declar singlevariabledeclar return convert advic declar advicedeclar extra argument extraargu
+return advic declar afterreturningadvicedeclar advic decl advicedecl set return setreturn return
+advic declar advicedeclar kind equal advic kind advicekind
+advic decl advicedecl advic declar aroundadvicedeclar ast
+set returntyp
+org aspectj org eclips jdt intern compil ast type refer typerefer type refer typerefer advic declar advicedeclar return type returntyp
+type refer typerefer
+type return type returntyp convert type converttyp type refer typerefer
+posit parenthesi
+set type advic declar settypeforaroundadvicedeclar advic declar aroundadvicedeclar advic decl advicedecl return type returntyp
+org aspectj org eclips jdt intern compil ast type paramet typeparamet type paramet typeparamet advic declar advicedeclar type paramet typeparamet
+type paramet typeparamet
+ast api level apilevel
+ast jls2 intern jls2 intern
+advic decl advicedecl set flag setflag advic decl advicedecl flag getflag ast node astnod malform
+ast jls3
+max type paramet typeparamet length max
+advic declar aroundadvicedeclar advic decl advicedecl type paramet typeparamet add convert type paramet typeparamet
+set javadoc paramet throw pointcut bodi
+org aspectj weaver pattern pointcut pointcut advic declar advicedeclar pointcut design pointcutdesign pointcut getpointcut
+advic decl advicedecl set pointcut setpointcut convert pointcut
+org aspectj org eclips jdt intern compil ast type refer typerefer thrown except thrownexcept advic declar advicedeclar thrown except thrownexcept
+thrown except thrownexcept
+thrown except length thrownexceptionslength thrown except thrownexcept length
+thrown except length thrownexceptionslength
+advic decl advicedecl thrown except thrownexcept add convert thrown except thrownexcept
+org aspectj org eclips jdt intern compil ast argument paramet advic declar advicedeclar argument
+paramet
+paramet length parameterslength paramet length
+paramet length parameterslength
+advic decl advicedecl paramet add convert paramet
+start advic declar advicedeclar sourc start sourcestart
+end retriev identifi end posit retrieveidentifierendposit start advic declar advicedeclar sourc end sourceend
+declar sourc start declarationsourcestart advic declar advicedeclar declar sourc start declarationsourcestart
+declar sourc end declarationsourceend advic declar advicedeclar bodi end bodyend
+advic decl advicedecl set sourc rang setsourcerang declar sourc start declarationsourcestart declar sourc end declarationsourceend declar sourc start declarationsourcestart
+close posit closingposit retriev brace semi colon posit retrieverightbraceorsemicolonposit advic declar advicedeclar bodi end bodyend advic declar advicedeclar declar sourc end declarationsourceend
+close posit closingposit
+start posit startposit advic decl advicedecl start posit getstartposit
+advic decl advicedecl set sourc rang setsourcerang start posit startposit close posit closingposit start posit startposit
+org aspectj org eclips jdt intern compil ast statement statement advic declar advicedeclar statement
+start retriev start block posit retrievestartblockposit advic declar advicedeclar sourc start sourcestart declar sourc end declarationsourceend
+end retriev end block posit retrieveendblockposit advic declar advicedeclar sourc start sourcestart advic declar advicedeclar declar sourc end declarationsourceend
+block block
+start end
+start end equal interface' method
+block block ast
+block set sourc rang setsourcerang start end start
+advic decl advicedecl set bodi setbodi block
+block statement
+statement length statementslength statement statement length
+statement length statementslength
+statement org aspectj org eclips jdt intern compil ast local declar localdeclar
+check add multipl local declar checkandaddmultiplelocaldeclar statement block statement
+block statement add convert statement
+block
+advic decl advicedecl set flag setflag advic decl advicedecl flag getflag ast node astnod malform
+syntax error advic declar
+start retriev start block posit retrievestartblockposit advic declar advicedeclar sourc start sourcestart declar sourc end declarationsourceend
+end advic declar advicedeclar bodi end bodyend
+end posit
+problem iproblem problem advic declar advicedeclar compil result compilationresult problem
+problem
+max advic declar advicedeclar compil result compilationresult problem count problemcount max
+problem iproblem current problem currentproblem problem
+current problem currentproblem sourc start getsourcestart start current problem currentproblem getid problem iproblem pars error insert complet parsingerrorinserttocomplet
+end current problem currentproblem sourc end getsourceend
+start posit startposit advic decl advicedecl start posit getstartposit
+advic decl advicedecl set sourc rang setsourcerang start posit startposit end start posit startposit
+start end
+start end equal interface' method
+block block block ast
+block set sourc rang setsourcerang start end start
+advic decl advicedecl set bodi setbodi block
+javadoc comment list store compil unit declar
+resolv bind resolvebind
+record node recordnod advic decl advicedecl advic declar advicedeclar
+advicedecl resolvebind null
+ajh02 resolvebind
+convert advicedeclar javadoc advicedecl
+convert advic declar advicedeclar javadoc advic decl advicedecl
+advic decl advicedecl

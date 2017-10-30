@@ -1,0 +1,53 @@
+overrid
+compar compar reflect secondbest
+compar compar contract outcontract reflect
+compar real point pair realpointvaluepair compar
+inherit doc inheritdoc
+centroid scale
+real point pair realpointvaluepair worst point getpoint
+accept expans point
+real point pair realpointvaluepair expand
+smallest xsmallest sigma smallest xsmallest
+centroid gamma centroid worst xworst
+replac worst point replaceworstpoint contract outcontract compar
+point getpoint point getpoint
+simplex point dimens
+accept reflect point
+scale
+iter multivari real function multivariaterealfunct evalu function evaluationfunct
+worst xworst worst point ref getpointref
+real point pair realpointvaluepair point getpoint
+compar compar reflect worst
+nelder mead simplex algorithm
+real point pair realpointvaluepair evalu function evaluationfunct
+version
+centroid
+centroid rho centroid worst xworst
+point getpoint point ref getpointref
+replac worst point replaceworstpoint reflect compar
+compar compar contract incontract worst
+real point pair realpointvaluepair reflect
+replac worst point replaceworstpoint expand compar
+compar compar reflect
+compar compar expand reflect
+nelder mead simplex neldermeadsimplex abstract simplex abstractsimplex
+centroid khi centroid
+real point pair realpointvaluepair contract incontract
+comput reflect point
+real point pair realpointvaluepair secondbest point getpoint
+centroid gamma centroid
+replac worst point replaceworstpoint contract incontract compar
+interest valu
+comput expans point
+smallest xsmallest point getpoint point ref getpointref
+accept contract point
+org apach common math optim direct
+perform shrink
+comput centroid vertic dismiss worst
+dimens getdimens
+set point setpoint real point pair realpointvaluepair doubl nan
+evalu evalu function evaluationfunct compar
+perform insid contract
+point index
+real point pair realpointvaluepair contract outcontract
+perform contract

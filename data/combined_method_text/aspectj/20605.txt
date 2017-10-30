@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+unresolv type unresolvedtyp enclos type getenclosingtyp
+enclos class getenclosingclass type gettyp

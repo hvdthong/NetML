@@ -1,0 +1,24 @@
+org aspectj weaver pattern
+annot foo annot foo
+match join point subject join point
+annot match annotationtypepattern
+join point kind subject
+method call target method
+method execut method
+constructor call constructor
+constructor execut constructor
+target field
+set target field
+adviceexecut advic
+initi constructor
+preiniti constructor
+staticiniti type initi
+handler declar type handl except
+annot pointcut annotationpointcut bind pointcut namebindingpointcut
+build declar text builddeclarationtext
+string buffer stringbuff buf string buffer stringbuff
+buf append annot
+string ann patt annpatt annot type pattern annotationtypepattern string tostr
+buf append ann patt annpatt start startswith ann patt annpatt substr ann patt annpatt
+buf append
+declar text declarationtext buf string tostr

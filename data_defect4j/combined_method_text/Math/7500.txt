@@ -1,0 +1,35 @@
+overrid
+serializ
+inherit doc inheritdoc
+multi direct direct search method
+real point pair realpointvaluepair origin simplex
+iter
+comput expand simplex
+comput contract simplex
+nelder mead neldermead
+real point pair realpointvaluepair expand evalu simplex evaluatenewsimplex origin khi compar
+multi direct multidirect direct search optim directsearchoptim
+real point pair realpointvaluepair reflect evalu simplex evaluatenewsimplex origin compar
+real point pair realpointvaluepair origin
+compar compar reflect expand
+converg checker convergencecheck real point pair realpointvaluepair checker converg checker getconvergencecheck
+increment iter counter incrementiterationscount
+converg checker converg iter origin simplex
+version revis date
+real point pair realpointvaluepair contract evalu simplex evaluatenewsimplex origin gamma compar
+simplex length
+iter simplex iteratesimplex compar real point pair realpointvaluepair compar
+function evalu except functionevaluationexcept optim except optimizationexcept illeg argument except illegalargumentexcept
+compar compar reflect
+real point pair realpointvaluepair reflect simplex reflectedsimplex simplex
+simplex reflect simplex reflectedsimplex
+function evalu except functionevaluationexcept
+check converg
+save origin vertex
+org apach common math optim direct
+compar compar contract
+converg
+accept reflect simplex
+multi direct multidirect direct search optim directsearchoptim serializ
+accept contract simplex
+perform reflect step

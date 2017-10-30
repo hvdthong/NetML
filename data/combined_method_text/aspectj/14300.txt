@@ -1,0 +1,28 @@
+org aspectj apach bcel gener
+switch branch depend int gener lookupswitch
+tableswitch instruct depend match valu int
+sort gap number
+version switch java aclement exp
+author href mailto marku dahm berlin dahm
+switch compound instruct compoundinstruct
+fillup max gap instruct handl instructionhandl target
+max size match length match length max gap
+vec max size
+instruct handl instructionhandl vec instruct handl instructionhandl max size
+count
+vec match
+vec target
+match length
+prev match
+gap match prev
+gap
+vec count prev
+vec count target
+count
+vec count match
+vec count target
+count
+match count
+target instruct handl instructionhandl count
+system arraycopi vec match count
+system arraycopi vec target count

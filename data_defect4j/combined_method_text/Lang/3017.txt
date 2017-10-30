@@ -1,0 +1,20 @@
+char set charset
+code char set util charsetutil evalu set evaluateset
+version
+char set util charsetutil instanc construct standard program
+oper code char set charset code
+oper
+code char set util charsetutil evalu set evaluateset code
+author gari gregori
+author phil steitz
+handl code code input gracefulli
+author apach softwar foundat
+thread safe threadsaf
+except thrown code input
+oper code char set charset instanc
+except thrown code code input
+char set util charsetutil
+org apach common lang3
+constructor permit tool requir java bean javabean instanc
+method document behaviour detail
+handl code input gracefulli

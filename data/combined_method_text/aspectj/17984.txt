@@ -1,0 +1,13 @@
+org aspectj tool ant taskdef compil
+ajc compileradapt
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef ajc
+ajc default compil adapt defaultcompileradapt
+check command line argument allow ajc
+disallow ajc call code compil code method
+return true good compil fals
+throw org apach tool ant buildexcept
+execut build except buildexcept
+attribut log ajc project msg verbos msg verbos
+compil add ajc option addajcopt setup javac command setupjavaccommand

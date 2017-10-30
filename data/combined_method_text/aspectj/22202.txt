@@ -1,0 +1,18 @@
+org aspectj weaver pattern
+typepattern
+bind formal explicitli forbidden composit
+wrong case
+author erik hilsdal
+author jim hugunin
+type pattern nottypepattern type pattern typepattern
+string string tostr
+string buffer stringbuff buff string buffer stringbuff
+annot pattern annotationpattern annot type pattern annotationtypepattern
+buff append
+buff append annot pattern annotationpattern string tostr
+buff append
+buff append
+buff append negat pattern negatedpattern
+annot pattern annotationpattern annot type pattern annotationtypepattern
+buff append
+buff string tostr

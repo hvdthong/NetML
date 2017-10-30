@@ -1,0 +1,4 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+make mangl makemanglednam refer bind referencebind type
+char oper charoper concat concatwith type compound compoundnam

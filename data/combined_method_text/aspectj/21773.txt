@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+declar parameter parameterizewith map type variabl bind map typevariablebindingmap world
+declar annot declareannot ret
+kind type type
+ret declar annot declareannot kind type pattern typepattern parameter parameterizewith type variabl bind map typevariablebindingmap
+ret declar annot declareannot kind sig pattern sigpattern parameter parameterizewith type variabl bind map typevariablebindingmap
+ret annot method annotationmethod annot method annotationmethod
+ret annot string annotationstr annot string annotationstr
+ret aspect containingaspect aspect containingaspect
+ret annot annot
+ret copi locat copylocationfrom
+ret

@@ -1,0 +1,19 @@
+design extens extract field
+return fraction durat millisecond field
+date time field datetimefield
+remaind instant
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+word call remaind return durat round floor roundfloor
+remaind durat millisecond
+author gui allard
+hour minut second
+defin calcul engin date time field
+remaind
+org joda time
+author brian neill o'neil
+datetim t23 02t23 remaind
+subtract
+param instant millisecond t00 01t00 00z
+millisecond number standard implement provid assist

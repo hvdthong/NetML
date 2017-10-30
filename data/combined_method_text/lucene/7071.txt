@@ -1,0 +1,73 @@
+fieldnam fieldnam fieldnam fieldnam fieldnam fieldnam fieldnam
+gettermset
+code code
+getoffset
+termvectoroffsetinfo
+fieldtermstack fieldtermstack fieldtermstack
+offset offset offset offset
+utf8tostr utf8tostr
+except except
+set set set set set
+classcastexcept
+org
+stack stack stack
+null null null null null null null null
+freq freq
+tvoi tvoi tvoi tvoi tvoi tvoi
+index index index index index index
+fieldqueri fieldqueri fieldqueri fieldqueri fieldqueri
+docid docid docid
+getendoffset
+field field field field field field field field field field field field
+indexof
+make make make make make
+apach
+fieldmatch
+param param param param
+termfreqvector
+snippet snippet snippet snippet snippet
+start
+add
+reader reader reader reader
+indexread indexread
+document document document
+ref
+match
+getstartoffset
+vectorhighlight
+termset termset termset
+termlist termlist
+return return return return return return return return return
+string string string string
+utf8 utf8
+class
+object
+termpositionvector termpositionvector
+search
+ioexcept ioexcept
+sort sort
+bytesref
+getterm
+gettermposit
+end
+byte
+tfv tfv tfv tfv
+true
+throw
+info info
+term term term term term term term term term term term term term term term term term term term term term
+tpv tpv tpv tpv tpv tpv
+queri queri queri queri
+doc doc
+list list
+lucen
+gettermfreqvector
+constructor
+cast
+length
+vector vector vector vector vector
+poss poss poss poss
+terminfo
+collect
+posit posit posit posit
+highlight highlight highlight

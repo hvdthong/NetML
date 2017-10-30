@@ -1,0 +1,19 @@
+author stephen colebourn
+param chronolog chronolog
+implement simpli return instant
+check instant store potenti alter
+author kandarp shah
+instant store datetim
+instant
+link readabl date time readabledatetim
+param instant millisecond t00 01t00 00z round
+base date time basedatetim implement readabl date time readabledatetim store
+kind date time object referenc
+check instant checkinst instant chronolog chronolog
+base date time basedatetim
+org joda time base
+author brian neill o'neil
+method access instanc variabl
+gener directli api user
+base date time basedatetim subclass mutabl thread safe
+data code code code chronolog code field

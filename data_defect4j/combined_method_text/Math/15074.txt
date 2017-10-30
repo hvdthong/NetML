@@ -1,0 +1,31 @@
+param start point startpoint start point optim
+link org apach common math3 optim differenti multivari vector optim differentiablemultivariatevectoroptim
+point vector pair pointvectorvaluepair optim max eval maxev func target
+deprec
+deprec replac declar
+link org apach common math3 optim direct base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata method
+optim consid weight squar minim
+weight start point startpoint
+param max eval maxev maximum number function evalu
+param object function
+org apach common math3 except null argument except nullargumentexcept
+cost function minim
+org apach common math3 optim
+param target target object function optimum
+version
+interfac
+param func type object function optim
+function
+common math user api advis base code
+argument code
+maxim number evalu exceed
+optim object function
+start point dimens wrong
+org apach common math3 except evalu except toomanyevaluationsexcept
+point pair give optim object
+code sum weight object target code
+deprec remov
+param weight weight squar cost comput
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+base multivari vector optim basemultivariatevectoroptim func multivari vector function multivariatevectorfunct
+intend enforc intern coher

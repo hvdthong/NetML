@@ -1,0 +1,34 @@
+author tetsuya kaneuchi
+match getosmatch string prefix osnameprefix
+param version prefix osversionprefix
+decid oper system match
+match isosmatch version prefix osnameprefix version prefix osversionprefix
+helper code java lang system
+prefix
+start startswith prefix osnameprefix version start startswith version prefix osversionprefix
+param prefix osnameprefix prefix
+param prefix osnameprefix
+author jason gritman
+messag written code system err code
+author base code lucen
+author apach softwar foundat
+author rafal krupinski
+system util systemutil
+system properti read due secur restrict
+author gari gregori
+start startswith prefix osnameprefix
+version
+match getosmatch string prefix osnameprefix string version prefix osversionprefix
+author href mailto sdownei panix steve downei
+helper code java lang system code
+prefix version
+author base code avalon excalibur
+match determin
+thread safe threadsaf
+org apach common lang3
+field set code code
+author michael beck
+param version prefix osversionprefix prefix version
+system properti read due secur restrict field set code code
+system properti read due secur restrict field set
+code messag written code system err

@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pattern namepattern pattern node patternnod
+method maybegetsimplenam
+return string
+string simpl maybegetsimplenam
+star count starcount pattern length string pattern

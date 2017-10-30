@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+creat nice signatur ctor int integ string
+string creat readabl ctor sig createreadablectorsig resolv type resolvedtyp parent newpar constant pool gen constantpoolgen cpg invokespeci invok special invokespeci
+string buffer stringbuff string buffer stringbuff
+type ctor arg ctorarg invok special invokespeci argument type getargumenttyp cpg
+append parent newpar class getclassnam
+append
+ctor arg ctorarg length
+string argtyp ctor arg ctorarg string tostr
+argtyp index lastindexof
+append argtyp substr argtyp index lastindexof
+append argtyp
+ctor arg ctorarg length append
+append
+string tostr

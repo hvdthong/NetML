@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+common super type pointcut bind formal paramet
+author erik hilsdal
+author jim hugunin
+bind pointcut namebindingpointcut pointcut
+list bind type pattern getbindingtypepattern public abstract list bindingtypepattern getbindingtypepattern

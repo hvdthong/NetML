@@ -1,0 +1,17 @@
+param poisson
+normal
+param distribut
+normal set standard deviat setstandarddevi fast math fastmath sqrt
+posit code illeg argument illegalargu code thrown
+set poisson distribut
+implement link poisson distribut poissondistribut
+poisson distribut impl poissondistributionimpl abstract integ distribut abstractintegerdistribut
+normal set setmean
+local format localizedformat posit poisson
+version revis date
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+set normal intern setnormalandmeanintern normal distribut normaldistribut
+org apach common math distribut
+normal set standard deviat setstandarddevi math sqrt
+illeg argument except illegalargumentexcept
+poisson posit

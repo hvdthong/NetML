@@ -1,0 +1,44 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+visit constructor declar constructordeclar constructor declar constructordeclar class scope classscop scope
+constructor declar constructordeclar bit ast node astnod default constructor isdefaultconstructor
+stack push stack push null weird job
+string buffer stringbuff argument signatur argumentssignatur string buffer stringbuff
+argument signatur argumentssignatur append
+constructor declar constructordeclar argument
+constructor declar constructordeclar argument length
+argument signatur argumentssignatur append constructor declar constructordeclar argument type
+constructor declar constructordeclar argument length argument signatur argumentssignatur append
+argument signatur argumentssignatur append
+program element iprogramel node penod program element programel
+string constructor declar constructordeclar selector
+program element iprogramel kind constructor
+make locat makeloc constructor declar constructordeclar
+constructor declar constructordeclar modifi
+formatt set paramet setparamet constructor declar constructordeclar node penod
+node penod set modifi setmodifi constructor declar constructordeclar modifi
+node penod set sourc signatur setsourcesignatur gen sourc signatur gensourcesignatur constructor declar constructordeclar
+fix enabl anchor thing ctor node
+constructor declar constructordeclar bind
+string member membernam
+string member bytecod signatur memberbytecodesignatur
+eclips factori eclipsefactori factori lookup environ ajlookupenviron constructor declar constructordeclar scope environ factori
+member member factori make resolv member makeresolvedmemb constructor declar constructordeclar bind
+member membernam member getnam
+member bytecod signatur memberbytecodesignatur member signatur getsignatur
+except bcexcept bce catch bcexcept bce bad type
+member membernam undefin
+null pointer except nullpointerexcept npe
+member membernam undefin
+node penod set bytecod setbytecodenam member membernam
+node penod set bytecod signatur setbytecodesignatur member bytecod signatur memberbytecodesignatur
+program element iprogramel stack peek add child addchild node penod
+stack push node penod

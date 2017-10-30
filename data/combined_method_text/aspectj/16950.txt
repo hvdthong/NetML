@@ -1,0 +1,10 @@
+org aspectj org eclips jdt core dom
+andpointcut dom ast node
+pointcutdesign 'left'
+pointcutdesign 'right'
+author ajh02
+pointcut andpointcut pointcut design pointcutdesign
+tree size treesiz
+mem size memsiz
+left left getleft tree size treesiz
+getright tree size treesiz

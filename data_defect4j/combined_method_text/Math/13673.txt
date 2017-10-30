@@ -1,0 +1,13 @@
+overrid
+org apach common math3 linear
+inherit doc inheritdoc
+jacobi precondition jacobiprecondition real linear oper reallinearoper
+arrai real vector arrayrealvector math arrai matharrai eb divid ebedivid arrai toarrai
+matrix precondition
+version
+eb divid ebedivid diag
+dimens check carri eb divid ebedivid
+diag hellip
+standard jacobi diagon precondition
+real vector realvector oper real vector realvector
+diag arrai toarrai

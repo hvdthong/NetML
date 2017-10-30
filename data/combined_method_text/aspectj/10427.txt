@@ -1,0 +1,66 @@
+org aspectj ajd
+factori pattern
+author mik kersten
+abstract icon registri abstracticonregistri
+assum public visibl icon
+return null kind resolv
+abstract icon abstracticon icon geticon program element iprogramel kind kind
+kind program element iprogramel kind project
+project
+kind program element iprogramel kind packag
+packag
+kind program element iprogramel kind file
+file
+kind program element iprogramel kind file java file java
+file java file java
+kind program element iprogramel kind file aspectj file aspectj
+file aspectj file aspectj
+kind program element iprogramel kind file lst file lst
+file lst file lst
+kind program element iprogramel kind class
+class
+kind program element iprogramel kind interfac
+interfac
+kind program element iprogramel kind aspect
+aspect
+kind program element iprogramel kind initi
+initi
+kind program element iprogramel kind inter type constructor inter type constructor
+introduct
+kind program element iprogramel kind inter type field inter type field
+introduct
+kind program element iprogramel kind inter type method inter type method
+introduct
+kind program element iprogramel kind constructor
+constructor
+kind program element iprogramel kind method
+method
+kind program element iprogramel kind field
+field
+kind program element iprogramel kind enum enum
+enum enum
+kind program element iprogramel kind pointcut
+pointcut
+kind program element iprogramel kind advic
+advic
+kind program element iprogramel kind declar parent declar parent
+declar parent declar parent
+kind program element iprogramel kind declar warn declar warn
+declar warn declar warn
+kind program element iprogramel kind declar error declar error
+declar error declar error
+kind program element iprogramel kind declar soft declar soft
+declar soft declar soft
+kind program element iprogramel kind declar preced declar preced
+declar soft declar soft
+kind program element iprogramel kind code
+code
+kind program element iprogramel kind error
+error
+kind program element iprogramel kind import refer import refer
+relat refer forward relat refer forward
+kind program element iprogramel kind annot
+annot
+kind program element iprogramel kind enum
+enum
+system err println ajd messag unresolv icon kind kind

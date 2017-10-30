@@ -1,0 +1,19 @@
+current
+popul current initi
+param condit stop condit stop evolut
+evolv popul evolut stop stop condit
+org apach common math genet
+implement genet algorithm factor govern oper
+satisfi
+satisfi updat link gener evolv getgenerationsevolv gener evolv generationsevolv
+genet algorithm geneticalgorithm
+popul satisfi stop condit
+popul evolv popul initi stop condit stoppingcondit condit
+version
+version revis date
+param initi initi seed popul
+algorithm configur specif problem
+condit satisfi issatisfi current
+current gener nextgener current
+gener evolv generationsevolv
+properti number gener evolv stop condit stoppingcondit

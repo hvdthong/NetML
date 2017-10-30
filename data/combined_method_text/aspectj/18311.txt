@@ -1,0 +1,6 @@
+org aspectj util
+type safe enum typesafeenum
+type safe enum typesafeenum string kei
+kei byte max max kei byte min min
+illeg argument except illegalargumentexcept kei fit byte kei
+kei kei

@@ -1,0 +1,6 @@
+org aspectj ajdt intern core builder
+state environ statefulnameenviron environ inameenviron
+environ answer nameenvironmentansw find type findtyp compound compoundnam
+environ answer nameenvironmentansw ret find type findtyp string char oper charoper concat concatwith compound compoundnam
+ret ret
+base environ baseenviron find type findtyp compound compoundnam

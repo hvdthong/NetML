@@ -1,0 +1,7 @@
+version
+org apach common math analysi integr
+minim iter count minimaliterationcount
+inherit doc inheritdoc
+minim iter count getminimaliterationcount
+base abstract univari integr baseabstractunivariateintegr univari integr univariateintegr
+provid implement gener function

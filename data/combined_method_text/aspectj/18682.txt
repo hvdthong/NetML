@@ -1,0 +1,16 @@
+org aspectj weaver
+boundedreferencetyp result gener wildcard express
+extend string super foo
+signatur bound refer type gener signatur
+specif section jvm spec signatur string
+bound type variabl super
+bound refer type boundedreferencetyp refer type referencetyp
+resolv type resolvedtyp declar interfac getdeclaredinterfac
+resolv type resolvedtyp interfac declar interfac getdeclaredinterfac
+addit interfac bound additionalinterfacebound length
+resolv type resolvedtyp interfac allinterfac
+resolv type resolvedtyp interfac length addit interfac bound additionalinterfacebound length
+system arraycopi interfac interfac allinterfac interfac length
+system arraycopi addit interfac bound additionalinterfacebound interfac allinterfac interfac length addit interfac bound additionalinterfacebound length
+interfac allinterfac
+interfac

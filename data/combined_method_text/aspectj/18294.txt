@@ -1,0 +1,31 @@
+org aspectj util
+reflect
+run main runmaininsamevm
+url url
+file lib
+file dir
+string class classnam
+string arg
+secur except securityexcept method except nosuchmethodexcept
+illeg argument except illegalargumentexcept illeg access except illegalaccessexcept
+invoc target except invocationtargetexcept class found except classnotfoundexcept
+lang util langutil throw iax null throwiaxifnul class classnam class
+lang util langutil throw iax assign throwiaxifnotassign lib file jar
+lang util langutil throw iax assign throwiaxifnotassign dir file dir
+url lib url liburl file util fileutil file getfileurl lib
+lang util langutil empti isempti lib url liburl
+lang util langutil empti isempti url
+url temp url lib url liburl length url length
+system arraycopi url temp url length
+system arraycopi url temp lib url liburl length url length
+url temp
+url lib url liburl
+util class loader utilclassload loader util class loader utilclassload url dir
+class target class targetclass
+target class targetclass loader load class loadclass class classnam
+class found except classnotfoundexcept
+string unabl load class class classnam
+class loader loader
+class found except classnotfoundexcept
+method main target class targetclass method getmethod main main parm type main parm type
+main invok object arg

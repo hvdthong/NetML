@@ -1,0 +1,6 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+enabl check runtim version ant command line main
+param main main unus limit null client
+enabl runtim version check enableruntimeversioncheck main caller
+runtim version check runtim version check caller

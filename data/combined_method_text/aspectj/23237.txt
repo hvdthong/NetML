@@ -1,0 +1,4 @@
+org aspectj weaver tool
+abstract trace abstracttrac trace
+event string method methodnam object thiz object arg
+event method methodnam thiz object arg

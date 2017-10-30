@@ -1,0 +1,18 @@
+jira
+open map real vector openmaprealvector spars real vector sparserealvector
+param dimens size vector
+param expect size expecteds expect number entri
+org apach common math3 linear
+param epsilon toler consid
+set advanc
+link open int doubl hash map openinttodoublehashmap back store
+virtual size virtuals dimens
+open map real vector openmaprealvector dimens expect size expecteds epsilon
+epsilon epsilon
+href http issu apach org jira brows math ticket
+link real vector realvector
+build vector spars toler
+version
+remov version
+deprec version deprec reason expos
+entri open int doubl hash map openinttodoublehashmap expect size expecteds

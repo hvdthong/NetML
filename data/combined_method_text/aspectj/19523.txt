@@ -1,0 +1,12 @@
+org aspectj weaver
+resolv pointcut definit resolvedpointcutdefinit resolv member impl resolvedmemberimpl
+resolv pointcut definit resolvedpointcutdefinit read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+resolv pointcut definit resolvedpointcutdefinit rpd
+resolv pointcut definit resolvedpointcutdefinit
+unresolv type unresolvedtyp read
+read int readint
+read utf readutf
+unresolv type unresolvedtyp read arrai readarrai
+pointcut read context
+rpd set sourc context setsourcecontext context rpd setsourcecontext context whilst sourc context rememb
+rpd

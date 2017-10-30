@@ -1,0 +1,74 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file pass
+java virtual machin specif 2nd edit
+detail inform found verifi method'
+document
+version pass1verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass1 verifi pass1verifi pass verifi passverifi
+pass verif basic mean load class file
+java virtual machin specif precis
+make differ pass
+answer pass perform class file
+long resolut request pass
+pass perform resolut process
+constraint check explicit state
+java virtual machin specif 2nd edit
+byte magic number 0xcafebab
+recogn attribut proper length
+class file truncat extra byte end
+constant pool superfici unrecogniz inform
+depth document pass written
+href mailto pwfong sfu philip fong
+file truncat
+file extra byte end
+variabl length structur format
+constant pool count entri constant pool
+constant pool entri size type tag
+interfac count entri interfac arrai class file
+field count entri field arrai class file
+method count entri method arrai class file
+attribut count entri attribut arrai class file field method code attribut
+attribut length byte attribut inconsist attribut length size attribut content uncov except attribut actual number except requir number except field yeild attribut size match attribut length anomali detect
+attribut proper length context pars method info recogniz attribut code attribut correct format attribut length
+constant valu check valid
+magic number 0xcafebab
+major minor version number valid
+constant pool type tag recogniz
+undocu access flag mask strictli speak check
+field class point string repres legal arrai class class file load
+field super class point string repres legal arrai class
+check requir cross referenc constant pool entri guard set make referenc entri type indic legal rang index constant pool count
+extra check pass
+constant valu static field type field
+number word paramet list exce local max
+signatur field method verifi legal format
+paper href http www sfu peopl gradstud pwfong person jvm pass1 mysteri pass draft septemb
+pars class file gener class file bcel' intern data structur
+class file bcel' repositori
+motiv fact omit thing
+check extra byte end class file handi bcel repair class file
+load bcel
+org aspectj apach bcel repositori
+verif result verificationresult verifi
+java class javaclass
+java class getjavaclass getjavaclass load class file
+find constraint check method
+owner myowner class getclassnam equal class getclassnam
+caught bcel case renam class file wrong
+javaclass object
+load except loadingexcept wrong intern class file class getclassnam match file' owner myowner class getclassnam
+load except loadingexcept
+verif result verificationresult verif result verificationresult verifi reject verifi reject messag getmessag
+class format error classformaterror
+bcel harsh describ exceptu situat
+verif result verificationresult verif result verificationresult verifi reject verifi reject messag getmessag
+runtim except runtimeexcept
+bcel catch runtimeexcept
+constant pool index referenc exist
+verif result verificationresult verif result verificationresult verifi reject verifi reject pars bcel succe class getclass getnam occur util stack trace getstacktrac
+verif result verificationresult
+todo chang repository' behaviour throw loadingexcept return null
+class file found look
+verif result verificationresult verif result verificationresult verifi reject verifi reject repositori lookup fail file found

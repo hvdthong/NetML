@@ -1,0 +1,12 @@
+field matrix fieldmatrix creat matrix creatematrix row dimens rowdimens column dimens columndimens
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+column dimens columndimens
+field matrix fieldmatrix creat matrix creatematrix row dimens rowdimens
+version
+strictli posit except notstrictlypositiveexcept
+param type field element

@@ -1,0 +1,6 @@
+org aspectj weaver
+lint
+set setal string messag kind messagekind
+trace trace enabl istraceen trace enter setal messag kind messagekind
+set setal messag kind getmessagekind messag kind messagekind
+trace trace enabl istraceen trace exit setal

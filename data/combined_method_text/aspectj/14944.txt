@@ -1,0 +1,32 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass java virtual machin
+specif 2nd edit
+detail inform found verifi
+method' document
+version pass2verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass2 verifi pass2verifi pass verifi passverifi constant
+visit constant visitconstantvalu constant constantvalu obj public void visitconstantvalu constantvalu obj vmspec2
+attribut
+constant
+check index checkindex obj obj index getnameindex const utf8 const utf8
+string constant utf8 constantutf8 constant getconst obj index getnameindex byte getbyt
+equal constantvalu
+class constraint except classconstraintexcept constantvalu attribut tostr obj correctli name 'constantvalue'
+object pred carrier predecessor
+pred field pred instanceof field constantvalu attribut senseless predecessor field
+field field pred
+field constraint check safe type inform
+type field type type type gettyp constant utf8 constantutf8 constant getconst signatur index getsignatureindex byte getbyt
+index obj constant index getconstantvalueindex
+index index cplen
+class constraint except classconstraintexcept invalid index index tostr obj
+constant constant getconst index
+const long const long instanc isinst field type equal type long
+const float const float instanc isinst field type equal type float
+const doubl const doubl instanc isinst field type equal type doubl
+const integ const integ instanc isinst field type equal type int field type equal type short field type equal type char field type equal type byte field type equal type boolean
+const string const string instanc isinst field type equal type string
+class constraint except classconstraintexcept illeg type constantvalu obj embed constant referenc field tostr expect type field type

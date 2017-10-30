@@ -1,0 +1,15 @@
+org aspectj apach bcel classfil
+class deriv attribut repres refer
+href http www inf berlin bokowski pmgjava index html pmg
+attribut
+version pmgclass java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+pmg class pmgclass attribut
+dump sourc file attribut file stream binari format
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+dump file
+file write short writeshort pmg index
+file write short writeshort pmg class index

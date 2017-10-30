@@ -1,0 +1,8 @@
+org aspectj ajd javaopt
+class handl set java option
+java option map requir icompilerconfigur getjavaoptionsmap
+java build option javabuildopt
+set warn method constructor setwarnmethodwithconstructornam string option
+java option javaopt ignor warn isignoreorwarn option
+java build option javabuildopt put
+java option javaopt warn method constructor warn method constructor option

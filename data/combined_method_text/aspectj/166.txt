@@ -1,0 +1,10 @@
+org aspectj tool ajbrows
+bare bone editor implement framework
+standalon
+author mik kersten
+basic editor basiceditor editor adapt editoradapt
+save content savecont except ioexcept
+file path filepath equal file file file path filepath equal editor pane editorpan text gettext equal
+buffer writer bufferedwrit writer buffer writer bufferedwrit file writer filewrit file path filepath
+writer write editor pane editorpan text gettext
+writer close

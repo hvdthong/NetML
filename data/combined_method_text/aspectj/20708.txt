@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+type munger creat pure implement shadow munger
+support cflow pointcut creat cflow field aspect
+ad bcelcflowcounterfieldadd
+compil compar set type munger
+exist 'shadowy' type thing process ignor
+comparison
+return true method type munger exist support 'shadowy' stuff
+comparison
+exist support shadow mung existstosupportshadowmung
+munger
+munger exist support shadow mung existstosupportshadowmung

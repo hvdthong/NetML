@@ -1,0 +1,15 @@
+org aspectj weaver
+resolv pointcut definit resolvedpointcutdefinit resolv member impl resolvedmemberimpl
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+buf append pointcut
+buf append declar type getdeclaringtyp nulldeclaringtyp declar type getdeclaringtyp getnam
+buf append
+buf append getnam
+buf append
+paramet type getparametertyp length
+buf append
+buf append paramet type getparametertyp string tostr
+buf append
+buf append pointcut
+buf string tostr

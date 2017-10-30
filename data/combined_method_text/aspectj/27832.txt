@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+left
+bind formal explicitli forbidden composit languag
+author erik hilsdal
+author jim hugunin
+type pattern andtypepattern type pattern typepattern
+type pattern typepattern parameter parameterizewith map type variabl map typevariablemap world
+type pattern typepattern left newleft left parameter parameterizewith type variabl map typevariablemap
+type pattern typepattern newright parameter parameterizewith type variabl map typevariablemap
+type pattern andtypepattern ret type pattern andtypepattern left newleft newright
+ret copi locat copylocationfrom
+ret

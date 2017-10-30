@@ -1,0 +1,12 @@
+vector3 vector3d getv
+link normal getnorm normal getnorm rigth hand orthonorm
+repres plane dimension space
+frame
+org apach common math3 geometri euclidean threed
+frame defin link getu getu link getv getv
+getu
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+normal getnorm
+plane canon vector
+normal canon vector

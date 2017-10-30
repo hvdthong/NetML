@@ -1,0 +1,9 @@
+overrid
+org apach common math geometri euclidean threed
+abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d build buildnew hyperplan euclidean3 euclidean3d hyperplan
+inherit doc inheritdoc
+repres hyperplan link plane
+plane subplan abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d
+version
+plane subplan hyperplan remain region remainingregion
+region euclidean2 euclidean2d remain region remainingregion

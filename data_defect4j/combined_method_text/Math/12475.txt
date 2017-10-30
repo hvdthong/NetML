@@ -1,0 +1,11 @@
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+elev delta vector
+param type field element
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+instanc guarante immut
+version
+divid norm getnorm asin
+delta getdelta
+elev vector
+vector3 vector3d

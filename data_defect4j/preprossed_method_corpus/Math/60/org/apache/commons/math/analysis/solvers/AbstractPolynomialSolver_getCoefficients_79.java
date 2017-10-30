@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi solver
+
+
+
+
+base solver
+
+version revis date
+
+
+abstract polynomi solver abstractpolynomialsolv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+coeffici polynomi function
+
+coeffici getcoeffici
+polynomi function polynomialfunct coeffici getcoeffici
+
+

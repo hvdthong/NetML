@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+daload load doubl arrai
+pre stack arrayref index result word1 result word2 pre
+version daload java aclement exp
+author href mailto marku dahm berlin dahm
+daload arrai instruct arrayinstruct stack produc stackproduc
+load doubl arrai
+daload
+org aspectj apach bcel constant daload

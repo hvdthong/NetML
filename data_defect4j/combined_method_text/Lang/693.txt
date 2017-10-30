@@ -1,0 +1,105 @@
+author href mailto hp intermeta hen schmiedehausen
+oper link java lang string
+author href mailto apach org korthof
+split charact type splitbycharactertyp str
+remov lead trail whitespac
+containsonli containsnon containsani
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+code java lang charact type gettyp code group contigu
+org apach common lang
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+code string util stringutil code
+search string replac string
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+author stephen colebourn
+whitespac charact defin link charact whitespac iswhitespac
+code charact uppercas letter code immedi
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+pad string
+split join
+string split charact type camel case splitbycharactertypecamelcas string str
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+string util stringutil split charact type camel case splitbycharactertypecamelcas
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+except charact type
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+code code
+empti length string code code
+arrai pars string code code string input
+safe substr extract
+param str string split code code
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+differ
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+string util stringutil split charact type camel case splitbycharactertypecamelcas number5 number
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+charact type return complet token
+code null pointer except nullpointerexcept code consid bug
+code code safe
+code charact uppercas letter code token
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+belong token preced
+author michael davei
+substr left mid
+chomp chop
+string charact
+java lang string
+author gari gregori
+safe index check
+string util stringutil split charact type camel case splitbycharactertypecamelcas foo200 bar foo200bar foo bar
+string util stringutil
+preced token type code charact lowercas letter code
+string util stringutil split charact type camel case splitbycharactertypecamelcas asf rule asfrul asf rule
+check charact string
+split string charact type return
+string util stringutil split charact type camel case splitbycharactertypecamelcas foo bar foobar foo bar
+code string util stringutil code deprec method
+symbol code code input includ code code

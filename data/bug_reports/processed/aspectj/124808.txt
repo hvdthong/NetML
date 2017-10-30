@@ -1,0 +1,34 @@
+generics detecting field field parameterized type
+
+generics issue
+java code
+
+public class test extends integer
+set ints hashset
+public set foo
+return ints
+
+public static void main string args
+test integer test integer
+set integer ints foo
+
+
+aspect
+
+public privileged aspect testaspect
+pointcut gettingmembercollection test
+target
+public set number mprv secsph
+testaspect
+test test gettingmembercollection test
+system println aspects
+
+
+compiler output
+
+warning test test gettingmembercollection test
+
+root ideaprojects aspectstest src mprv secsph testaspect advice defined mprv secsph testaspect applied xlint advicedidnotmatch
+expect gettingmembercollection catch access ints member test
+lot
+misha

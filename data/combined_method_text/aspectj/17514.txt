@@ -1,0 +1,6 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+set statu inform setstatusinform string text
+top frame topfram statu text label statustext label set text settext text

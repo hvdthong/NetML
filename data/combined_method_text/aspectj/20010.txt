@@ -1,0 +1,40 @@
+org aspectj weaver
+weaverstateinfo repres type process weaver determin type
+previous treat reweav allow
+format data stream
+byte kind untouch woven extend extend extra bit set 'reweavable' 'reweav compress bit'
+short typemungercount type munger affect type
+unresolvedtyp resolvedtypemung type munger
+reweav
+short number aspect touch type previous woven
+string fulli qualifi type
+int length class file data unwovenclassfil
+byte class file data compress reweav compress bit set
+weaver state info weaverstateinfo
+comment write
+weaver state info weaverstateinfo read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+read byte readbyt
+reweav isreweav reweav bit reweav bit
+reweav isreweav
+reweav bit reweav bit
+reweav compress isreweavablecompress reweav compress bit reweav compress bit
+reweav compress isreweavablecompress
+reweav compress bit reweav compress bit
+reweav diff isreweavablediff reweav diff bit reweav diff bit
+reweav diff isreweavablediff
+reweav diff bit reweav diff bit
+untouch
+runtim except runtimeexcept unexpect unwoven
+woven
+weaver state info weaverstateinfo collect empti list empti list reweav isreweav reweav compress isreweavablecompress reweav diff isreweavablediff
+extend
+read short readshort
+list arrai list arraylist
+unresolv type unresolvedtyp aspect type aspecttyp unresolv type unresolvedtyp read
+resolv type munger resolvedtypemung type munger typemung
+resolv type munger resolvedtypemung read context
+add entri aspect type aspecttyp type munger typemung
+weaver state info weaverstateinfo wsi weaver state info weaverstateinfo reweav isreweav reweav compress isreweavablecompress reweav diff isreweavablediff
+read reweav data readanyreweavabledata wsi
+wsi
+runtim except runtimeexcept bad weaverst kind file context unknown context make sourc locat makesourceloc string tostr

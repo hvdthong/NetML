@@ -1,0 +1,48 @@
+org aspectj ajdt intern compil lookup
+inter type field bind intertypefieldbind field bind fieldbind
+canbeseenbi type bind typebind receiv type receivertyp invoc site invocationsit invoc site invocationsit scope scope
+scope compil unit scope compilationunitscop record type refer recordtyperefer declar class declaringclass
+system err println canbeseenbi ispubl
+public ispubl
+sourc type bind sourcetypebind invoc type invocationtyp scope invoc type invocationtyp
+system println receiv receivertyp invocationtyp
+refer bind referencebind declar type declaringtyp declar class declaringclass
+fixm asc parameter type privat itd gener field interfac
+work raw type work gener type
+declar class declaringclass raw type israwtyp
+declar type declaringtyp raw type bind rawtypebind declar class declaringclass type
+invoc type invocationtyp declar type declaringtyp
+invocationtyp isprivileg
+system println privileg access
+return true
+protect isprotect
+runtim except runtimeexcept unimpl
+xxx make walk correctli
+privat ispriv
+answer true receivertyp declaringclass
+invocationtyp declaringclass common enclosingtyp
+pr149071 caus comment block
+achiev possibl scope parentscop class scope
+refer made receiv type
+receivertyp innertyp declar type
+boolean receivertypeissameorinsidedeclaringtyp receivertyp declaringtyp
+referencebind typetochecknext receivertyp enclosingtyp
+receivertypeissameorinsidedeclaringtyp typetochecknext null
+typetochecknext declaringtyp receivertypeissameorinsidedeclaringtyp true
+receivertypeissameorinsidedeclaringtyp return fals
+code replac line pr118698
+receivertyp declaringtyp return fals
+invoc type invocationtyp declar type declaringtyp
+refer bind referencebind outer invoc type outerinvocationtyp invoc type invocationtyp
+refer bind referencebind temp outer invoc type outerinvocationtyp enclos type enclosingtyp
+temp
+outer invoc type outerinvocationtyp temp
+temp temp enclos type enclosingtyp
+refer bind referencebind outer declar class outerdeclaringclass declar type declaringtyp
+temp outer declar class outerdeclaringclass enclos type enclosingtyp
+temp
+outer declar class outerdeclaringclass temp
+temp temp enclos type enclosingtyp
+outer invoc type outerinvocationtyp outer declar class outerdeclaringclass
+isdefault
+invoc type invocationtyp packag fpackag declar class declaringclass packag fpackag

@@ -1,0 +1,18 @@
+sqlexec runstatements problems jdk
+sql task read sql file populate database
+insert statements populate variable unlimited length
+column declared text postgresql million characters long
+ant jdk task completes seconds
+version ant jdk build b05 takes
+minutes
+debugging sqlexec class appears runstatements method
+inefficient line code line code
+delimitertype equals delimitertype normal
+sql tostring endswith delimiter
+buffers tostring entire buffer searched
+addition unneccessarily creating string line
+read locate delimiter
+change
+delimitertype equals delimitertype normal
+line endswith delimiter
+problem fixed

@@ -1,0 +1,12 @@
+allow for regular expressions in FileSet include and exclude
+In fileset includes and excludes, it would be helpful to be able to use regular expressions, not just wild cards.
+My immediate problem is that we have previous directories which are dates, eg /20080624/, containing archived files, which I want to exclude from my fileset.
+
+Also, in current directories, we have obsolete files which include the date in the name. eg., a common pattern for this is : abc.jarOLD20080624
+I can't excluded files using *old* because "old" is part of legitimate names.
+
+I ended up renaming the folders consisting of a date by adding "BAK" to the end; I was already excluding this pattern ("**/*bak/"
+
+But I don't have control over what other people name files and folders, so I have to spend time checking that I'm not copying and jarring stuff I don't want that's been added since the last time, w/o excluding stuff I do want.
+
+Being able to test for a filename using a regular expression (eg., containing 8 consecutive numerals) would be very useful.

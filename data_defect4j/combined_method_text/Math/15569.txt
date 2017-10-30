@@ -1,0 +1,20 @@
+org apach common math3 random
+method strong strong provid
+implement return
+link set seed setse provid
+default implement method link doubl nextdoubl
+concret implement strong strong overrid
+return pseudorandom uniformli distribut
+code random number generator'
+data gener method base code code doubl nextdoubl
+abstract implement link random gener randomgener
+pseudorandom uniformli distribut
+sequenc
+version
+boolean nextboolean
+abstract random gener abstractrandomgener random gener randomgener
+suppli
+perform implement method underli prng
+doubl nextdoubl
+code doubl nextdoubl code
+pre

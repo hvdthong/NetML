@@ -1,0 +1,9 @@
+singleton
+version
+inherit doc inheritdoc
+org apach common math complex
+complex
+version revis date
+complex getzero
+complex field complexfield field complex serializ
+represent complex number field

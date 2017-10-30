@@ -1,0 +1,15 @@
+model model xxx thread safe
+org apach common math3 fit leastsquar
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+optim model jacobian withmodelandjacobian multivari vector function multivariatevectorfunct model
+multivari matrix function multivariatematrixfunct jacobian
+model model newmodel xxx thread safe
+inherit doc inheritdoc
+version
+jacobian jacobian xxx thread safe
+param optim concret optim
+base implement squar optim
+method error estim
+multivari matrix function multivariatematrixfunct jacobian newjacobian
+optim model jacobian withmodelandjacobian multivari vector function multivariatevectorfunct model newmodel
+jacobian jacobian newjacobian xxx thread safe

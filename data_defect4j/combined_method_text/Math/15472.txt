@@ -1,0 +1,21 @@
+overrid
+restrict neg restricttononneg
+goal type getgoaltyp
+inherit doc inheritdoc
+solv phase1 solvephase1 tableau
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+constraint getconstraint
+max count exceed except maxcountexceededexcept unbound solut except unboundedsolutionexcept feasibl solut except nofeasiblesolutionexcept
+solv linear problem phase simplex method
+simplex tableau simplextableau tableau
+version
+max ulp maxulp
+epsilon
+simplex tableau simplextableau function getfunct
+iter doiter tableau
+tableau drop phase1 object dropphase1object
+deprec remov
+org apach common math3 optim linear
+tableau solut getsolut
+point pair pointvaluepair optim dooptim
+tableau optim isoptim

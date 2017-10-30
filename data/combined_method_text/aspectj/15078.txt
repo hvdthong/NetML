@@ -1,0 +1,12 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+return simpl string represent instructioncontext
+string string tostr
+todo put inform bracket
+exceptionhandl ret start
+subroutin
+string ret instruct getinstruct string tostr instructioncontext
+ret

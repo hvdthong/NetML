@@ -1,0 +1,15 @@
+illeg argument except illegalargumentexcept larg small
+precis datetim field precis unit durat field
+set instant
+org joda time field
+param instant millisecond t00 01t00 00z set
+subclass
+param unit set
+updat time instant
+precis durat date time field precisedurationdatetimefield base date time field basedatetimefield
+instant instant unit milli iunitmilli
+author brian neill o'neil
+precis durat date time field precisedurationdatetimefield thread safe immut
+maximum set getmaximumvalueforset instant
+set amount unit time instant
+field util fieldutil verifi bound verifyvaluebound minimum getminimumvalu

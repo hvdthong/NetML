@@ -1,0 +1,36 @@
+Unable to obtain resource from pom: java.util.zip.ZipException: error in opening zip file
+...
+Unable to obtain resource from /home/matti/.ivy2/cache/org.jboss.ejb3.depchain/jboss-ejb3-depchain-as6/poms/jboss-ejb3-depchain-as6-1.0.4.pom: java.util.zip.ZipException: error in opening zip file
+    [junit] Unable to obtain resource from /home/matti/.ivy2/cache/org.jboss.ejb3.depchain/jboss-ejb3-depchain-as6/poms/jboss-ejb3-depchain-as6-1.0.4.pom: 
+    [junit] java.util.zip.ZipException: error in opening zip file
+    [junit] 	at java.util.zip.ZipFile.open(Native Method)
+    [junit] 	at java.util.zip.ZipFile.<init>(ZipFile.java:127)
+    [junit] 	at java.util.jar.JarFile.<init>(JarFile.java:135)
+    [junit] 	at java.util.jar.JarFile.<init>(JarFile.java:99)
+    [junit] 	at org.apache.tools.ant.AntClassLoader.getResourceURL(AntClassLoader.java:1002)
+    [junit] 	at org.apache.tools.ant.AntClassLoader$ResourceEnumeration.findNextResource(AntClassLoader.java:145)
+    [junit] 	at org.apache.tools.ant.AntClassLoader$ResourceEnumeration.nextElement(AntClassLoader.java:130)
+    [junit] 	at org.apache.tools.ant.util.CollectionUtils$CompoundEnumeration.nextElement(CollectionUtils.java:241)
+    [junit] 	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTask.checkForkedPath(JUnitTask.java:1179)
+    [junit] 	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTask.executeAsForked(JUnitTask.java:1057)
+    [junit] 	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTask.execute(JUnitTask.java:917)
+    [junit] 	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTask.execute(JUnitTask.java:818)
+    [junit] 	at org.apache.tools.ant.UnknownElement.execute(UnknownElement.java:291)
+    [junit] 	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+    [junit] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+    [junit] 	at java.lang.reflect.Method.invoke(Method.java:597)
+    [junit] 	at org.apache.tools.ant.dispatch.DispatchUtils.execute(DispatchUtils.java:106)
+    [junit] 	at org.apache.tools.ant.Task.perform(Task.java:348)
+    [junit] 	at org.apache.tools.ant.Target.execute(Target.java:390)
+    [junit] 	at org.apache.tools.ant.Target.performTasks(Target.java:411)
+    [junit] 	at org.apache.tools.ant.Project.executeSortedTargets(Project.java:1399)
+    [junit] 	at org.apache.tools.ant.Project.executeTarget(Project.java:1368)
+    [junit] 	at org.apache.tools.ant.helper.DefaultExecutor.executeTargets(DefaultExecutor.java:41)
+    [junit] 	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:32)
+    [junit] 	at org.apache.tools.ant.Project.executeTargets(Project.java:1251)
+    [junit] 	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:424)
+    [junit] 	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:138)
+    [junit] WARNING: multiple versions of ant detected in path for junit 
+    [junit]          jar:file:/usr/share/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant.jar!/org/apache/tools/ant/Project.class
+    [junit]      and jar:file:/home/matti/.ivy2/cache/org.apache.ant/ant/jars/ant-1.7.1.jar!/org/apache/tools/ant/Project.class
+...

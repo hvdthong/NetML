@@ -1,0 +1,4 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv member resolvedmemb declar method getdeclaredmethod
+resolv member resolvedmemb

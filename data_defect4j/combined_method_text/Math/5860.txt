@@ -1,0 +1,138 @@
+daxpi alpha beta1
+link solv place solveinplac real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+link solv real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+link solv place solveinplac real linear oper reallinearoper real vector realvector real vector realvector
+gmax fast math fastmath ab alpha mach prec
+link adjoint oper except nonselfadjointoperatorexcept linear oper
+href http www stanford group sol softwar symmlq ps75 pdf
+count iter user requir check symmetri
+minv copi minv oper
+beta beta
+middot xhat residu rhat bhat ahat
+definit adjoint work iter
+wbar
+precondit
+init
+comput middot solv middot
+solut transform system rhat current estim
+copi solv
+paig1975 paig saunder
+present context iter understood evalu
+word number iter requir reach converg
+stop
+cgnorm beta1
+present definit iter count differ adopt
+beta1 dot product dotproduct
+implement symmlq iter linear solver propos
+number iter symmlq slightli work iter
+matrix vector product middot initi phase
+wbar set
+solut spars indefinit system linear equat siam
+set
+daxpi shift
+context except context
+kei code vector2 point offend vector
+check symmetri checksymmetri oper
+set lanczo vector beta
+link real linear oper reallinearoper vector oper
+comput vector approxim unnorm eigenvector
+middot middot
+entail matrix vector product initi phase
+minv oper
+alpha dot product dotproduct
+ident check requir
+larg base fortran code michael saunder
+version
+oldb beta
+perform initi phase symmlq algorithm
+middot accuraci
+npdlo except thrownpdloexcept
+slightli shift
+refer
+beta1 beta
+xhat bhat ahat middot shift middot
+href paig1975 paig saunder implement
+initi phase good approxim
+conjug gradient prefer requir
+middot bhat middot solut
+code paramet
+npdlo except thrownpdloexcept minv
+precondition symmetr link except context exceptioncontext
+method invers iter rayleigh quotient iter
+goodb
+state variabl code object correspond
+wbar arrai real vector arrayrealvector row dimens getrowdimens
+gbar alpha
+link solv place solveinplac real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+oper
+middot middot xhat middot ahat middot
+point
+beta1 fast math fastmath sqrt beta1
+small eigenvector
+solv
+make orthogon
+stop criterion implement iter stop rhat
+ynorm2
+org apach common math linear
+provid posit definit precondition middot
+check symmetri checksymmetri solv
+beta1
+snprod
+initguess initi guess solut
+daxpi vty vtv
+oldb beta1
+linear oper shift middot posit
+tnorm alpha alpha beta beta
+copi
+journal numer analysi
+kei code vector1 point offend vector
+residu delta user toler
+gamma zeta gammazeta beta1
+real vector realvector map multipli mapmultipli beta1
+account
+standard link dimens mismatch except dimensionmismatchexcept
+check symmetri checksymmetri minv minv oper
+alpha alpha
+iter count
+paig saunder
+precondit reduc number iter requir solver
+vtv dot product dotproduct
+middot xhat middot shift middot middot
+product account iter count
+gmin gmax
+link solv real linear oper reallinearoper real vector realvector real vector realvector
+stopcrit default stop criterion
+kei code vector point offend vector
+system form middot solv effici symmlq
+precondition posit definit relev kei
+check
+minv
+symm symmlq
+set lanczo vector beta1
+updat norm updatenorm
+shift scalar shift suitabl chosen
+delta ahat xhat xhat current estim
+requir posit definit definit method
+link solv real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector
+vty dot product dotproduct
+bstep
+href http www stanford group sol softwar symmlq f77
+symmlq design solv system linear equat middot
+minv check
+dbar beta
+link except context exceptioncontext
+link posit definit oper except nonpositivedefiniteoperatorexcept thrown
+beta
+origin fotran code initi phase
+minu ep zeta minusepszeta
+kei code oper point offend linear oper
+middot
+approxim shift middot sens
+beta dot product dotproduct
+time adjoint linear oper defin
+symmlq design solv system shift middot middot
+inform
+beta fast math fastmath sqrt beta
+implicitli solv system equat middot shift middot
+middot middot middot
+consid initi guess set

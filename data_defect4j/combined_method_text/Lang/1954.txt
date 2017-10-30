@@ -1,0 +1,12 @@
+link extend messag format extendedmessageformat
+stock choic meta format metaformat
+inherit doc inheritdoc
+choic format choiceformat sourc substr start po index getindex
+choic meta format choicemetaformat meta format support metaformatsupport
+author matt benson
+org apach common lang text
+version
+object pars object parseobject string sourc pars posit parseposit po
+start po index getindex
+seek format element end seekformatelementend sourc po
+extend messag format extendedmessageformat

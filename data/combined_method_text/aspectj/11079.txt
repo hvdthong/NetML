@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener attribut generateattribut class file classfil class file classfil
+abstract isabstract gener support member generatepersupportmemb class file classfil
+gener inlin access member generateinlineaccessmemb class file classfil
+add version attribut addversionattributeifnecessari class file classfil
+class file classfil extra attribut extraattribut add
+eclips attribut adapt eclipseattributeadapt attribut ajattribut aspect claus perclaus
+bind privileg handler privilegedhandl
+resolv member resolvedmemb member privileg handler privilegedhandl bind privileg handler privilegedhandl member getmemb
+class file classfil extra attribut extraattribut add
+eclips attribut adapt eclipseattributeadapt attribut ajattribut privileg attribut privilegedattribut member
+xxx attribut pointcut good error
+class file classfil extra attribut extraattribut add
+eclips attribut adapt eclipseattributeadapt attribut ajattribut sourc context attribut sourcecontextattribut
+string compil result compilationresult file getfilenam
+compil result compilationresult line separ posit lineseparatorposit
+gener attribut generateattribut class file classfil

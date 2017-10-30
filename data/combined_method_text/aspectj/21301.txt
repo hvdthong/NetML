@@ -1,0 +1,22 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+check type pattern handl startswith check
+todo enhanc support char sss fqn direclti match iff equal
+add support charss endswith style
+param typepattern
+return null startwith sequenc test
+string start lookslikestartswith string type pattern typepattern
+type pattern typepattern index indexof
+type pattern typepattern index indexof
+type pattern typepattern index indexof
+type pattern typepattern char charat type pattern typepattern length
+charsss cha rss
+note fast match
+charsss
+length type pattern typepattern length
+type pattern typepattern end endswith length
+type pattern typepattern index indexof length typepattern indexof length sequenc
+type pattern typepattern index indexof length typepattern indexof length sequenc
+type pattern typepattern substr length replac
+charsss char rss

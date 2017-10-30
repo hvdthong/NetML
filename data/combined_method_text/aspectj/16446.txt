@@ -1,0 +1,36 @@
+org aspectj intern tool build
+sampl util sampleutil
+render
+sampl sampl
+string field delim fielddelim
+string delim valuedelim
+string buffer stringbuff sink
+sink sampl
+field delim fielddelim
+field delim fielddelim
+delim valuedelim
+delim valuedelim
+sink append anchornam
+sink append delim valuedelim
+sink append sampl anchor anchornam
+sink append field delim fielddelim
+sink append author
+sink append delim valuedelim
+sink append sampl author
+sink append field delim fielddelim
+sink append sourcepath
+sink append delim valuedelim
+sink append sampl sourc path sourcepath string tostr
+sink append field delim fielddelim
+sink append startlin
+sink append delim valuedelim
+sink append sampl start line startlin
+sink append field delim fielddelim
+sink append endlin
+sink append delim valuedelim
+sink append sampl end line endlin
+sink append field delim fielddelim
+sink append samplecod
+sink append delim valuedelim
+sink append sampl sampl code samplecod string tostr
+sink append field delim fielddelim

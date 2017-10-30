@@ -1,0 +1,15 @@
+org aspectj weaver tool
+extend aspectj' pointcut pars
+match custom pointcutdesignatorhandl
+match base context inform
+join point expos simpli java lang reflect
+member inform argument valu match context
+interfac extens point specif
+addit shadow join point context
+account match process
+defaultmatchingcontext
+match context matchingcontext
+return true iff match context defin
+bind context paramet
+param contextparameternam
+context bind hascontextbind string context paramet contextparameternam

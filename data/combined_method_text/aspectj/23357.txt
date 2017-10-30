@@ -1,0 +1,30 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+valid kind pointcut validatekindedpointcut kind pointcut kindedpointcut string express
+shadow kind kind kind getkind
+kind shadow method call methodcal kind shadow constructor call constructorcal
+support primit supportedprimit pointcut primit pointcutprimit call
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit call
+kind shadow method execut methodexecut kind shadow constructor execut constructorexecut
+support primit supportedprimit pointcut primit pointcutprimit execut
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit execut
+kind shadow advic execut adviceexecut
+support primit supportedprimit pointcut primit pointcutprimit advic execut advic execut
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit advic execut advic execut
+kind shadow field fieldget
+support primit supportedprimit pointcut primit pointcutprimit
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit
+kind shadow field set fieldset
+support primit supportedprimit pointcut primit pointcutprimit set
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit set
+kind shadow initi
+support primit supportedprimit pointcut primit pointcutprimit initi
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit initi
+kind shadow pre initi preiniti
+support primit supportedprimit pointcut primit pointcutprimit pre initi pre initi
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit pre initi pre initi
+kind shadow static initi staticiniti
+support primit supportedprimit pointcut primit pointcutprimit static initi static initi
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept express pointcut primit pointcutprimit static initi static initi

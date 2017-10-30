@@ -1,0 +1,27 @@
+nested record tasks produces empty output file
+setup
+compile list java projects logging output project
+basic setup project
+
+target parent
+record javalog action start loglevel info
+antfetch dir target child
+record javalog action stop
+target
+
+child target write logfile basically calling
+
+target child
+record javalog action start append true
+
+record javalog action stop
+
+ant noticed output looked fine starting ant
+output strange stop parent target
+logfile empty bytes insert fail immediately
+stop command parent target fine
+close log file parent target logfile
+cases cases line output
+lot binary zeros content
+logfile overwritten zeros flushed behavior
+reproducable

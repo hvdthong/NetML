@@ -1,0 +1,61 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+annot class store attribut kind
+runtimevisibleparameterannot
+runtimeinvisibleparameterannot
+attribut paramet annot attribut getparameterannotationattribut constant pool gen constantpoolgen list vec public static attribut getparameterannotationattribut constantpoolgen list arrai list arrai size depend param vec
+vi count viscount vec length
+total vi count totalviscount
+invi count inviscount vec length
+total invi count totalinviscount
+vec length
+list vec
+iter iter iter iter hasnext
+annot gen annotationgen element annot gen annotationgen iter
+element runtim visibl isruntimevis vi count viscount total vi count totalviscount
+invi count inviscount total invi count totalinviscount
+let visibl
+byte arrai output stream bytearrayoutputstream rva byte rvabyt byte arrai output stream bytearrayoutputstream
+data output stream dataoutputstream rva do rvado data output stream dataoutputstream rva byte rvabyt
+rva do rvado write byte writebyt vec length rvado writebyt vec length number paramet
+vec length
+rva do rvado write short writeshort vi count viscount
+vi count viscount
+list vec
+iter iter iter iter hasnext
+annot gen annotationgen element annot gen annotationgen iter
+element runtim visibl isruntimevis element dump rva do rvado
+rva do rvado close
+let invis
+byte arrai output stream bytearrayoutputstream ria byte riabyt byte arrai output stream bytearrayoutputstream
+data output stream dataoutputstream ria do riado data output stream dataoutputstream ria byte riabyt
+ria do riado write byte writebyt vec length riado writebyt vec length number paramet
+vec length
+ria do riado write short writeshort invi count inviscount
+invi count inviscount
+list vec
+iter iter iter iter hasnext
+annot gen annotationgen element annot gen annotationgen iter
+element runtim visibl isruntimevis element dump ria do riado
+ria do riado close
+rva data rvadata rva byte rvabyt byte arrai tobytearrai
+ria data riadata ria byte riabyt byte arrai tobytearrai
+rva index rvaindex
+ria index riaindex
+total vi count totalviscount rva index rvaindex add utf8 addutf8 runtimevisibleparameterannot
+total invi count totalinviscount ria index riaindex add utf8 addutf8 runtimeinvisibleparameterannot
+list attribut newattribut arrai list arraylist
+total vi count totalviscount
+attribut newattribut add
+runtim visibl paramet annot runtimevisibleparameterannot rva index rvaindex rva data rvadata length rva data rvadata constant pool getconstantpool
+total invi count totalinviscount
+attribut newattribut add
+runtim invis paramet annot runtimeinvisibleparameterannot ria index riaindex ria data riadata length ria data riadata constant pool getconstantpool
+attribut attribut newattribut arrai toarrai attribut
+except ioexcept
+system err println ioexcept whilst process paramet annot
+print stack trace printstacktrac

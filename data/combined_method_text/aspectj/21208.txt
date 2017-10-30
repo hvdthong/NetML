@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+util
+constant push instruct isconstantpushinstruct instruct
+constant push instruct constantpushinstruct ldc

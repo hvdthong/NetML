@@ -1,0 +1,26 @@
+modifi copi
+occur subtract perform explicitli
+state vector variat current interpol state
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+current accur avoid cancel error
+interpol equat base taylor seri formula
+interpol state variat getinterpolatedstatevari
+deriv except derivativeexcept
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+method aim comput interpol
+interpol state getinterpolatedst
+make state variat comput side effect
+version
+version revis date
+comput ignor interpol state
+step final
+interpol integr nordsieck represent
+org apach common math od sampl
+interpol deriv getinterpolatedderiv
+state vector time link interpol time getinterpolatedtim
+interpol comput dens output current point
+return vector refer reus arrai
+preserv call
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+deriv except derivativeexcept call induc automat
+state variat statevari

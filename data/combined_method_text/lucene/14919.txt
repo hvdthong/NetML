@@ -1,0 +1,28 @@
+org apach lucen search
+altern booleanscor minimum number
+option scorer match
+implement skipto limit number ad scorer
+conjunctionscor disjunctionscor reqoptscor reqexclscor
+boolean scorer2 booleanscorer2 scorer
+scorer count conjunct sum scorer countingconjunctionsumscor disabl coord disablecoord
+similar similar
+list scorer requir scorer requiredscor except ioexcept
+scorer list count singl matcher
+requir matcher requirednrmatch requir scorer requiredscor size
+conjunct scorer conjunctionscor disabl coord disablecoord similar coord requir scorer requiredscor size requir scorer requiredscor size requir scorer requiredscor
+score doc lastscoreddoc
+save score lastscoreddoc comput
+score
+doc score lastdocscor float nan
+overrid score except ioexcept
+doc doc docid
+doc score doc lastscoreddoc
+doc score doc lastscoreddoc
+doc score lastdocscor score
+score doc lastscoreddoc doc
+coordin matcher nrmatcher requir matcher requirednrmatch
+scorer match defaultsimilar super score
+coordin factor
+sum score requiredscor
+score
+doc score lastdocscor

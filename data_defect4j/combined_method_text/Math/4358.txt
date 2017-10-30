@@ -1,0 +1,24 @@
+param iter number iter perform time
+return constructor
+sourc iter
+code sourc calll link residu getresidu instanc
+code event creat
+param sourc iter solver fire event
+unmodifi view deep copi vector
+link residu providesresidu return code
+deep copi vector code code
+org apach common math linear
+version
+param rnorm norm current estim residu
+creat instanc implement
+user make vector
+link iter linear solver event iterativelinearsolverev
+link math unsupport oper except mathunsupportedoperationexcept
+rnorm rnorm
+code sourc failur compromis subsequ iter
+param hand side vector
+real vector realvector real vector realvector rnorm
+default iter linear solver event defaultiterativelinearsolverev iter linear solver event iterativelinearsolverev
+param current estim solut
+default iter linear solver event defaultiterativelinearsolverev object sourc iter
+concret implement

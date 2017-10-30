@@ -1,0 +1,28 @@
+math intern error mathinternalerror miae
+inherit doc inheritdoc
+org apach common math3 geometri euclidean threed
+vector3 vector3d p01 plane oplan space tospac vector2 vector2d
+hyperplan euclidean3 euclidean3d origin
+vector2 vector2d p01 tp01 plane tplane space tosubspac appli p01
+p01 tp01 getx p00 tp00 getx p01 tp01 geti p00 tp00 geti
+vector2 vector2d p10 tp10 plane tplane space tosubspac appli p10
+origin cach origin cachedorigin
+affin transform affinetransform p10 tp10 getx p00 tp00 getx p10 tp10 geti p00 tp00 geti
+math illeg argument except mathillegalargumentexcept miae
+version
+vector3 vector3d p10 plane oplan space tospac vector2 vector2d
+repres region set polyhedron
+affin transform affinetransform
+cach origin cachedorigin plane origin
+happen transform built p00 p10 p01 invert
+chang hyperplan reset hyperplan transform
+line sublin appli transform applytransform cach transform cachedtransform
+hyperplan subhyperplan euclidean2 euclidean2d appli hyperplan subhyperplan euclidean2 euclidean2d
+hyperplan euclidean3 euclidean3d transform
+plane plane oplan plane origin
+vector3 vector3d p00 plane oplan origin getorigin
+vector2 vector2d p00 tp00 plane tplane space tosubspac appli p00
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+plane plane tplane plane transform
+cach transform cachedtransform org apach common math3 geometri euclidean twod line transform gettransform
+p00 tp00 getx p00 tp00 geti

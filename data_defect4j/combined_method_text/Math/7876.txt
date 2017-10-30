@@ -1,0 +1,23 @@
+pre
+applic oper hold
+extra decis variabl neg valu
+width getwidth
+phase object function
+tableau set entri setentri dividend row dividendrow tableau entri getentri dividend row dividendrow divisor
+version
+amp decis variabl
+param dividend row dividendrow index row
+rh hand side
+rh
+artifici variabl
+divid row dividerow dividend row dividendrow divisor
+version revis date
+subtract multipl row
+org apach common math optim linear
+param divisor divisor
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+tableau simplex method
+minuend row minuendrow minuend row minuendrow multipl subtrahend row subtrahendrow

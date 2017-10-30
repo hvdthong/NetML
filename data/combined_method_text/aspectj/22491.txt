@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+cflow percflow claus perclaus
+claus perclaus read claus readperclaus version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+cflow percflow ret cflow percflow pointcut read context read boolean readboolean
+ret read locat readloc context
+ret

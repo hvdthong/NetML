@@ -1,0 +1,10 @@
+org aspectj apach bcel classfil annot
+annot immut object annotationgen mutabl variant basic list
+pair
+annot
+dump data output stream dataoutputstream do except ioexcept
+do write short writeshort type index typeindex do writeshort typeindex index type cpool
+do write short writeshort ev size do writeshort ev size element pair count
+ev size
+element pair elementnamevaluepair envp element pair elementnamevaluepair ev
+envp dump do

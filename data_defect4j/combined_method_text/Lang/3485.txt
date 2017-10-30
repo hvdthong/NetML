@@ -1,0 +1,145 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+param search str searchstr string find
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+ordin index ordinalindexof string str string search str searchstr ordin index lastindex
+found ordin
+find index string handl code
+code char sequenc charsequ code
+remov lead trail whitespac
+append suffix end string present
+string util stringutil ordin index ordinalindexof aabaabaa
+check string text
+abbrevi string ellipsi
+index index lastindex str length index found
+code code code index found code match code code string input
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+code code safe
+author arun mammen thoma
+note 'head char sequenc charsequ str implement
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+str search str searchstr ordin
+found
+index str index indexof search str searchstr index
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+index search string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+compar string safe
+code string util stringutil code
+symbol code input includ code
+ordin index ordinalindexof char sequenc charsequ str char sequenc charsequ search str searchstr ordin
+levenstein distanc levensteindist
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+string util stringutil ordin index ordinalindexof
+code input code
+code code
+code safe
+index char sequenc util charsequenceutil index lastindexof str search str searchstr index
+safe substr extract
+param search str searchstr char sequenc charsequ find
+side effect code code handl
+containsonli containsnon containsani
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+ordin index ordinalindexof str search str searchstr ordin
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+find index char sequenc charsequ handl code
+code string util stringutil code defin word relat
+index str index lastindexof search str searchstr index
+author href mailto jon latchkei jon steven
+author daniel rall
+empti isempti blank isblank
+code code input code code
+find index string handl code code
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+index char sequenc util charsequenceutil index indexof str search str searchstr index
+method link string index indexof string
+share code ordin index ordinalindexof string string ordin index lastordinalindexof string string
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author holger krauth
+author michael davei
+substr left mid
+equal
+code null pointer except nullpointerexcept consid bug
+param str char sequenc charsequ check
+code code return
+code code index found match code string input
+chomp chop
+author apach softwar foundat
+index search char sequenc charsequ
+index found
+param index lastindex ordin index lastordinalindexof ordin index ordinalindexof
+string charact
+java lang string
+author gari gregori
+index lastindex
+safe index check
+ordin index ordinalindexof char sequenc charsequ str char sequenc charsequ search str searchstr ordin index lastindex
+param str string check
+code string util stringutil
+str substr ordin index lastordinalindexof str
+index
+string util stringutil
+append miss appendifmiss
+thread safe threadsaf
+param ordin code search str searchstr code find
+chang signatur ordin index ordinalindexof string string ordin index ordinalindexof char sequenc charsequ char sequenc charsequ
+index lastindex str length
+check charact string
+code code string code code
+param ordin code search str searchstr find
+prepend miss prependifmiss
+search str searchstr length
+symbol code code input includ code code

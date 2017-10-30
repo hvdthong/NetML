@@ -1,0 +1,14 @@
+org aspectj util
+file util fileutil
+copi file file
+param fromfil file copi readabl null file
+param tofil file copi null parent dir exist
+throw ioexcept
+copi valid file copyvalidfil file file fromfil file file tofil except ioexcept
+file input stream fileinputstream
+file output stream fileoutputstream
+file input stream fileinputstream file fromfil
+file output stream fileoutputstream file tofil
+copi stream copystream
+close
+close

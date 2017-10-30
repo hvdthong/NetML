@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi target annot var initializetargetannotationvar
+target annot var targetannotationvar
+kind getkind target istargetsameasthi
+hasthi initi annot var initializethisannotationvar
+target annot var targetannotationvar annot var thisannotationvar
+target annot var targetannotationvar hash map hashmap
+resolv type resolvedtyp rtx target type gettargettyp resolv world annot type getannotationtyp resolvedtyp rtx gettargettyp resolv world getannotationtyp annot havent subclass
+rtx length
+resolv type resolvedtyp type typex rtx
+target annot var targetannotationvar put type typex type annot access var typeannotationaccessvar type typex bcel var bcelvar target var gettargetvar
+popul

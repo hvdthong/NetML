@@ -1,0 +1,17 @@
+org aspectj apach bcel gener
+denot unparameter instruct load local
+variabl iload
+version loadinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+load instruct loadinstruct local variabl instruct localvariableinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack produc visitstackproduc
+visit push instruct visitpushinstruct
+visit type instruct visittypedinstruct
+visit local variabl instruct visitlocalvariableinstruct
+visit load instruct visitloadinstruct

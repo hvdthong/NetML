@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+string declar gener signatur getdeclaredgenericsignatur
+ensur gener info process ensuregenericinfoprocess
+declar signatur declaredsignatur

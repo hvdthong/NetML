@@ -1,0 +1,15 @@
+org aspectj weaver
+member
+kind read data input stream datainputstream except ioexcept
+kei read byte readbyt
+kei
+method
+field
+constructor
+static initi static initi
+pointcut
+advic
+handler
+monitorent
+monitorexit
+except bcexcept weird kind kei

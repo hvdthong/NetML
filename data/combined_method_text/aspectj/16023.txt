@@ -1,0 +1,31 @@
+org aspectj bridg
+conveni api' construct print send messag
+messag util messageutil
+run visitor collect messag
+option accumul accept visitor
+param messag null empti return imessag imessag
+param visitor run visitor handlemessag messag
+messag null messag empti illegalargumentexcept
+param accumul true return accept imessag
+param abortonfail true visitor return fals stop visit
+return imessag imessag collect empti accumul
+visitor accept imessag
+imessag accept messag
+throw illegalargumentexcept collect instanceof imessag
+messag imessag visit messag visitmessag collect messag public static imessag visitmessag collect imessag messag
+messag handler imessagehandl visitor accumul abort fail abortonfail
+lang util langutil empti isempti messag
+messag imessag messag imessag
+lang util langutil throw iax null throwiaxifnul visitor visitor
+arrai list arraylist result accumul arrai list arraylist
+iter iter messag iter iter hasnext
+object iter
+lang util langutil throw iax fals throwiaxiffals messag imessag expect imessag
+messag imessag messag imessag
+visitor handl messag handlemessag
+accumul
+result add
+abort fail abortonfail
+accumul result size
+messag imessag messag imessag
+messag imessag result arrai toarrai messag imessag messag imessag

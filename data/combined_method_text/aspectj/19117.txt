@@ -1,0 +1,4 @@
+org aspectj weaver
+member
+signatur join point member signatur
+iter join point signatur getjoinpointsignatur world world

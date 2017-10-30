@@ -1,0 +1,6 @@
+org apach lucen index
+segment merg info segmentmergeinfo
+term posit termposit posit getposit except ioexcept
+post
+post reader term posit termposit
+post

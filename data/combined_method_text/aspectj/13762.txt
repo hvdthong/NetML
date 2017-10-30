@@ -1,0 +1,12 @@
+org aspectj apach bcel gener
+invokestat invok class static method
+pre stack arg1 arg2 pre
+version invokestat java aclement exp
+author href mailto marku dahm berlin dahm
+invokestat invok instruct invokeinstruct
+class except getexcept
+class class except constant exceptionconst exc field method resolut exc field method resolut length
+system arraycopi except constant exceptionconst exc field method resolut exc field method resolut
+except constant exceptionconst exc field method resolut exc field method resolut length
+except constant exceptionconst exc field method resolut exc field method resolut length except constant exceptionconst unsatisfi link error unsatisfi link error
+except constant exceptionconst exc field method resolut exc field method resolut length except constant exceptionconst incompat class chang error incompat class chang error

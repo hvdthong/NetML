@@ -1,0 +1,336 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+input method synchron method remov bit flag synchron
+insert final block
+jump firei hoop requir depend input code level
+ldc instruct take class liter doesnt
+fixm asc promot xjoinpoint synchron standard option bunch
+tidi duplic remov
+transform synchron method transformsynchronizedmethod lazi method gen lazymethodgen synchron method synchronizedmethod
+trace trace enabl istraceen trace enter transformsynchronizedmethod synchron method synchronizedmethod
+system err println debug transform synchron method synchronizedmethod getnam
+instruct factori instructionfactori fact synchron method synchronizedmethod enclos class getenclosingclass factori getfactori
+instruct list instructionlist bodi synchron method synchronizedmethod bodi getbodi
+instruct list instructionlist prepend instruct list instructionlist
+type enclos class type enclosingclasstyp bcel world bcelworld make bcel type makebceltyp synchron method synchronizedmethod enclos class getenclosingclass type gettyp
+type java lang class type javalangclasstyp type type gettyp class
+static method transform
+synchron method synchronizedmethod static isstat
+depend level class file
+ldc handl class liter java5 sigh
+synchron method synchronizedmethod enclos class getenclosingclass java5 isatleastjava5
+monitorent logic
+ldc class
+dup
+astor
+monitorent
+slot lock object slotforlockobject synchron method synchronizedmethod alloc local allocateloc enclos class type enclosingclasstyp
+prepend append fact creat constant createconst enclos class type enclosingclasstyp
+prepend append instruct factori instructionfactori creat dup createdup
+prepend append instruct factori instructionfactori creat store createstor enclos class type enclosingclasstyp slot lock object slotforlockobject
+prepend append instruct factori instructionfactori monitorent
+monitorexit logic
+basic wrap code method final block
+ensur monitorexit call content final block
+aload
+monitorexit
+athrow
+let build
+instruct list instructionlist final block finallyblock instruct list instructionlist
+final block finallyblock append instruct factori instructionfactori creat load createload type type gettyp java lang class slot lock object slotforlockobject
+final block finallyblock append instruct constant instructionconst monitorexit
+final block finallyblock append instruct constant instructionconst athrow
+final
+getstat java lang system ljava printstream line
+ldc
+invokevirtu java printstream println ljava lang string
+aload line
+monitorexit
+final
+goto
+final
+aload
+monitorexit
+final
+athrow
+return line
+search 'returns' make jump aload monitorexit
+instruct handl instructionhandl walker bodi start getstart
+list ret arrai list arraylist
+walker
+walker instruct getinstruct return instruct returninstruct
+ret add walker
+walker walker getnext
+ret size
+ensur target 'return' target load instruct
+jump monitorexit logic
+iter iter ret iter iter hasnext
+instruct handl instructionhandl element instruct handl instructionhandl iter
+instruct list instructionlist monitor exit block monitorexitblock instruct list instructionlist
+monitor exit block monitorexitblock append instruct factori instructionfactori creat load createload enclos class type enclosingclasstyp slot lock object slotforlockobject
+monitor exit block monitorexitblock append instruct constant instructionconst monitorexit
+monitorexitblock append util copyinstruct element getinstruct
+element setinstruct instructionfactori createload classtyp slotforthi
+instruct handl instructionhandl monitor exit block start monitorexitblockstart bodi insert element monitor exit block monitorexitblock
+move target ret start monitorexit block
+instruct target instructiontarget target element target gettarget
+target
+target length
+instruct target instructiontarget target target
+kind
+target local variabl tag localvariabletag
+ignor
+target line number tag linenumbertag
+ignor
+target goto target goto goto
+move
+target updat target updatetarget element monitor exit block start monitorexitblockstart
+target branch instruct branchinstruct
+move
+target updat target updatetarget element monitor exit block start monitorexitblockstart
+runtim except runtimeexcept unexpect target encount transform target
+magic put final block code
+instruct handl instructionhandl final start finallystart final block finallyblock start getstart
+instruct handl instructionhandl posit tryposit bodi start getstart
+instruct handl instructionhandl catch posit catchposit bodi end getend
+bodi insert bodi start getstart prepend bodi insert bodi getstart prepend put monitorent stuff
+synchron method synchronizedmethod bodi getbodi append final block finallyblock
+synchron method synchronizedmethod add except handler addexceptionhandl posit tryposit catch posit catchposit final start finallystart synchronizedmethod addexceptionhandl tryposit catchposit finallystart null final fals
+synchron method synchronizedmethod add except handler addexceptionhandl final start finallystart final start finallystart getnext final start finallystart
+transform static method pre java5
+hideou nightmar class liter refer prior java5
+yike code monitorent
+getstat field class ljava lang class
+dup
+ifnonnul
+pop
+ldc string java lang string
+invokestat method java lang class fornam ljava lang string ljava lang class
+dup
+catch
+putstat field class ljava lang class
+goto
+class java lang noclassdeffounderror
+dup
+swap
+invokevirtu method java lang throwabl getmessag ljava lang string
+invokespeci method java lang noclassdeffounderror init ljava lang string
+athrow
+dup parttwo branch target
+astor
+monitorent
+exceptiont entri
+class java lang classnotfoundexcept
+type class type classtyp bcel world bcelworld make bcel type makebceltyp synchron method synchronizedmethod enclos class getenclosingclass type gettyp
+type clazz type clazztyp type type gettyp class
+instruct list instructionlist parttwo instruct list instructionlist
+parttwo append instruct factori instructionfactori creat dup createdup
+slot slotforthi synchron method synchronizedmethod alloc local allocateloc class type classtyp
+parttwo append instruct factori instructionfactori creat store createstor clazz type clazztyp slot slotforthi parttwo append instructionfactori createstor clazztyp slotforthi real type string
+parttwo append instruct factori instructionfactori monitorent
+string fieldnam synchron method synchronizedmethod enclos class getenclosingclass alloc field allocatefield class
+field field gen fieldgen modifi static modifi privat
+type type gettyp class fieldnam synchron method synchronizedmethod enclos class getenclosingclass constant pool gen getconstantpoolgen field getfield
+synchron method synchronizedmethod enclos class getenclosingclass add field addfield
+invokestat method java lang class fornam ljava lang string ljava lang class
+dup
+putstat field class ljava lang class
+goto
+class java lang noclassdeffounderror
+dup
+swap
+invokevirtu method java lang throwabl getmessag ljava lang string
+invokespeci method java lang noclassdeffounderror init ljava lang string
+athrow
+string synchron method synchronizedmethod enclos class getenclosingclass getnam
+prepend append fact creat static creategetstat fieldnam type type gettyp class
+prepend append instruct factori instructionfactori creat dup createdup
+prepend append instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifnonnul parttwo start getstart
+prepend append instruct factori instructionfactori pop
+prepend append fact creat constant createconst
+instruct handl instructionhandl instruct tryinstruct prepend end getend
+prepend append fact creat invok createinvok java lang class fornam clazz type clazztyp type type type gettyp string constant invokestat
+instruct handl instructionhandl catch instruct catchinstruct prepend end getend
+prepend append instruct factori instructionfactori creat dup createdup
+prepend append fact creat put static createputstat synchron method synchronizedmethod enclos class getenclosingclass type gettyp getnam fieldnam type type gettyp class
+prepend append instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto parttwo start getstart
+start catch block
+instruct list instructionlist catch block liter load fail catchblockforliteralloadingfail instruct list instructionlist
+catch block liter load fail catchblockforliteralloadingfail append fact creat createnew object type objecttyp type type gettyp class def found error noclassdeffounderror
+catch block liter load fail catchblockforliteralloadingfail append instruct factori instructionfactori creat dup createdup
+catch block liter load fail catchblockforliteralloadingfail append instruct factori instructionfactori swap
+catch block liter load fail catchblockforliteralloadingfail append fact creat invok createinvok java lang throwabl getmessag type type gettyp string type constant invokevirtu
+catch block liter load fail catchblockforliteralloadingfail append fact creat invok createinvok java lang noclassdeffounderror init type void type type type gettyp string constant invokespeci
+catch block liter load fail catchblockforliteralloadingfail append instruct factori instructionfactori athrow
+instruct handl instructionhandl catch block start catchblockstart catch block liter load fail catchblockforliteralloadingfail start getstart
+prepend append catch block liter load fail catchblockforliteralloadingfail
+prepend append parttwo
+monitorent
+pseudocod load 'this' var0 dup store local var monitorexit call monitorent
+aload dup astor monitorent
+prepend append instructionfactori createload classtyp
+prepend append instructionfactori createdup
+int slotforthi synchronizedmethod allocateloc classtyp
+prepend append instructionfactori createstor classtyp slotforthi
+prepend append instructionfactori monitorent
+monitorexit
+dragon
+basic wrap code method final block
+ensur monitorexit call content final block
+aload
+monitorexit
+athrow
+let build
+instruct list instructionlist final block finallyblock instruct list instructionlist
+final block finallyblock append instruct factori instructionfactori creat load createload type type gettyp java lang class slot slotforthi
+final block finallyblock append instruct constant instructionconst monitorexit
+final block finallyblock append instruct constant instructionconst athrow
+final
+getstat java lang system ljava printstream line
+ldc
+invokevirtu java printstream println ljava lang string
+aload line
+monitorexit
+final
+goto
+final
+aload
+monitorexit
+final
+athrow
+return line
+frameenv put donorframepo thisslot
+search 'returns' make aload monitorexit
+instruct handl instructionhandl walker bodi start getstart
+list ret arrai list arraylist
+walker walker null walker equal bodi getend
+walker instruct getinstruct return instruct returninstruct
+ret add walker
+walker walker getnext
+ret size
+ensur target 'return' target load instruct
+jump monitorexit logic
+iter iter ret iter iter hasnext
+instruct handl instructionhandl element instruct handl instructionhandl iter
+system err println ad monitor exit block element
+instruct list instructionlist monitor exit block monitorexitblock instruct list instructionlist
+monitor exit block monitorexitblock append instruct factori instructionfactori creat load createload class type classtyp slot slotforthi
+monitor exit block monitorexitblock append instruct constant instructionconst monitorexit
+monitorexitblock append util copyinstruct element getinstruct
+element setinstruct instructionfactori createload classtyp slotforthi
+instruct handl instructionhandl monitor exit block start monitorexitblockstart bodi insert element monitor exit block monitorexitblock
+move target ret start monitorexit block
+instruct target instructiontarget target element target gettarget
+target
+target length
+instruct target instructiontarget target target
+kind
+target local variabl tag localvariabletag
+ignor
+target line number tag linenumbertag
+ignor
+target goto target goto goto
+move
+target updat target updatetarget element monitor exit block start monitorexitblockstart
+target branch instruct branchinstruct
+move
+target updat target updatetarget element monitor exit block start monitorexitblockstart
+runtim except runtimeexcept unexpect target encount transform target
+bodi rewritewithmonitorexitcal bodi fact true slotforthi classtyp
+synchronizedmethod setbodi bodi
+magic put final block code
+instruct handl instructionhandl final start finallystart final block finallyblock start getstart
+instruct handl instructionhandl posit tryposit bodi start getstart
+instruct handl instructionhandl catch posit catchposit bodi end getend
+bodi insert bodi start getstart prepend bodi insert bodi getstart prepend put monitorent stuff
+synchron method synchronizedmethod bodi getbodi append final block finallyblock
+synchron method synchronizedmethod add except handler addexceptionhandl posit tryposit catch posit catchposit final start finallystart synchronizedmethod addexceptionhandl tryposit catchposit finallystart null final fals
+synchron method synchronizedmethod add except handler addexceptionhandl instruct tryinstruct catch instruct catchinstruct catch block start catchblockstart object type objecttyp type type gettyp class found except classnotfoundexcept
+synchron method synchronizedmethod add except handler addexceptionhandl final start finallystart final start finallystart getnext final start finallystart
+transform static method
+type class type classtyp bcel world bcelworld make bcel type makebceltyp synchron method synchronizedmethod enclos class getenclosingclass type gettyp
+monitorent
+pseudocod load 'this' var0 dup store local var monitorexit call monitorent
+aload dup astor monitorent
+prepend append instruct factori instructionfactori creat load createload class type classtyp
+prepend append instruct factori instructionfactori creat dup createdup
+slot slotforthi synchron method synchronizedmethod alloc local allocateloc class type classtyp
+prepend append instruct factori instructionfactori creat store createstor class type classtyp slot slotforthi
+prepend append instruct factori instructionfactori monitorent
+bodi insert bodi getstart prepend
+monitorexit
+basic wrap code method final block
+ensur monitorexit call content final block
+aload
+monitorexit
+athrow
+let build
+instruct list instructionlist final block finallyblock instruct list instructionlist
+final block finallyblock append instruct factori instructionfactori creat load createload class type classtyp slot slotforthi
+final block finallyblock append instruct constant instructionconst monitorexit
+final block finallyblock append instruct constant instructionconst athrow
+final
+getstat java lang system ljava printstream line
+ldc
+invokevirtu java printstream println ljava lang string
+aload line
+monitorexit
+final
+goto
+final
+aload
+monitorexit
+final
+athrow
+return line
+frameenv put donorframepo thisslot
+search 'returns' make aload monitorexit
+instruct handl instructionhandl walker bodi start getstart
+list ret arrai list arraylist
+walker walker null walker equal bodi getend
+walker instruct getinstruct return instruct returninstruct
+ret add walker
+walker walker getnext
+ret size
+ensur target 'return' target load instruct
+jump monitorexit logic
+iter iter ret iter iter hasnext
+instruct handl instructionhandl element instruct handl instructionhandl iter
+system err println ad monitor exit block element
+instruct list instructionlist monitor exit block monitorexitblock instruct list instructionlist
+monitor exit block monitorexitblock append instruct factori instructionfactori creat load createload class type classtyp slot slotforthi
+monitor exit block monitorexitblock append instruct constant instructionconst monitorexit
+monitorexitblock append util copyinstruct element getinstruct
+element setinstruct instructionfactori createload classtyp slotforthi
+instruct handl instructionhandl monitor exit block start monitorexitblockstart bodi insert element monitor exit block monitorexitblock
+move target ret start monitorexit block
+instruct target instructiontarget target element target gettarget
+target
+target length
+instruct target instructiontarget target target
+kind
+target local variabl tag localvariabletag
+ignor
+target line number tag linenumbertag
+ignor
+target goto target goto goto
+move
+target updat target updatetarget element monitor exit block start monitorexitblockstart
+target branch instruct branchinstruct
+move
+target updat target updatetarget element monitor exit block start monitorexitblockstart
+runtim except runtimeexcept unexpect target encount transform target
+magic put final block code
+instruct handl instructionhandl final start finallystart final block finallyblock start getstart
+instruct handl instructionhandl posit tryposit bodi start getstart
+instruct handl instructionhandl catch posit catchposit bodi end getend
+bodi insert bodi start getstart prepend bodi insert bodi getstart prepend put monitorent stuff
+synchron method synchronizedmethod bodi getbodi append final block finallyblock
+synchron method synchronizedmethod add except handler addexceptionhandl posit tryposit catch posit catchposit final start finallystart synchronizedmethod addexceptionhandl tryposit catchposit finallystart null final fals
+synchron method synchronizedmethod add except handler addexceptionhandl final start finallystart final start finallystart getnext final start finallystart
+except handl final block jump
+max local modifi allocateloc call
+synchron bit remov lazymethodgen pack
+gonna chang aload load var variabl
+add variabl var
+trace trace enabl istraceen trace exit transformsynchronizedmethod

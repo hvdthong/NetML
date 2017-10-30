@@ -1,0 +1,39 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+aspect annot aspectjannot annot annot
+annot
+annot length
+annot resolv type resolvedtyp annot resolvedtyp null continu user mess annot declar
+sig annot resolv type resolvedtyp signatur
+char oper charoper equal advic sig afteradvicesig sig
+advic kind advicekind advic kind advicekind
+add advic annot addadviceannot annot
+char oper charoper equal return advic sig afterreturningadvicesig sig
+advic kind advicekind advic kind advicekind return afterreturn
+add advic annot addadviceannot annot
+char oper charoper equal throw advic sig afterthrowingadvicesig sig
+advic kind advicekind advic kind advicekind throw afterthrow
+add advic annot addadviceannot annot
+char oper charoper equal advic sig beforeadvicesig sig
+advic kind advicekind advic kind advicekind
+add advic annot addadviceannot annot
+char oper charoper equal advic sig aroundadvicesig sig
+advic kind advicekind advic kind advicekind
+add advic annot addadviceannot annot
+char oper charoper equal advic sig advicenamesig sig
+advic annot hasadvicenameannot
+advic annot advicenameannot annot
+char oper charoper equal declar parent sig declareparentssig sig
+declar parent hasdeclarepar
+char oper charoper equal aspect sig aspectsig sig
+aspect annot hasaspectannot
+multipl aspect annot hasmultipleaspectannot
+duplic aspect annot duplicateaspectannot annot
+aspect annot hasaspectannot
+aspect annot aspectannot annot
+char oper charoper equal pointcut sig pointcutsig sig
+pointcut annot haspointcutannot
+multipl pointcut annot hasmultiplepointcutannot
+duplic pointcut annot duplicatepointcutannot annot
+pointcut annot haspointcutannot
+pointcut annot pointcutannot annot

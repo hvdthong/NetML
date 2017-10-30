@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math3 stat descript moment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return href http www xycoon geometr htm
+geometr valu
+
+link sum log sumoflog instanc comput sum log return
+code exp sum log code
+
+valu result code nan code
+valu neg
+code doubl posit infin code
+result code code
+code doubl posit infin code
+code doubl neg infin code valu result
+code nan code
+
+
+strong note implement strong
+multipl thread access instanc concurr
+thread invok code increment code
+code clear code method extern
+
+
+version
+
+geometr geometricmean abstract storeless univari statist abstractstorelessunivariatestatist serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return geometr entri portion
+input arrai
+
+link geometr geometricmean detail comput algorithm
+
+throw code illeg argument except illegalargumentexcept code arrai
+
+param valu input arrai valu
+param begin arrai element includ
+param length number element includ
+geometr doubl nan length
+valu
+math illeg argument except mathillegalargumentexcept input arrai arrai
+index paramet valid
+
+overrid
+evalu
+valu begin length
+math illeg argument except mathillegalargumentexcept
+fast math fastmath exp
+sum log sumoflog evalu valu begin length length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

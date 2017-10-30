@@ -1,0 +1,17 @@
+org aspectj weaver pattern
+bind annot type pattern bindingannotationtypepattern exact annot type pattern exactannotationtypepattern bind pattern bindingpattern
+annot type pattern annotationtypepattern parameter parameterizewith map type variabl map typevariablemap world
+unresolv type unresolvedtyp annot type newannotationtyp annot type annotationtyp
+annot type annotationtyp type variabl refer istypevariablerefer
+type variabl refer typevariablerefer type variabl refer typevariablerefer annot type annotationtyp
+string kei type variabl gettypevari getnam
+type variabl map typevariablemap kei containskei kei
+annot type newannotationtyp unresolv type unresolvedtyp type variabl map typevariablemap kei
+annot type annotationtyp parameter type isparameterizedtyp
+annot type newannotationtyp annot type annotationtyp parameter type variabl map typevariablemap
+bind annot type pattern bindingannotationtypepattern ret bind annot type pattern bindingannotationtypepattern annot type newannotationtyp formal index formalindex
+annot type newannotationtyp resolv type resolvedtyp
+resolv type resolvedtyp rat resolv type resolvedtyp annot type newannotationtyp
+verifi runtim retent verifyruntimeretent rat world getworld rat
+ret copi locat copylocationfrom
+ret

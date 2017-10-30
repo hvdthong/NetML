@@ -1,0 +1,8 @@
+assembl chronolog assembledchronolog base chronolog basechronolog
+assembl chronolog assembledchronolog thread safe immut
+contain field
+org joda time chrono
+minut isecondofminut
+abstract chronolog enabl chronolog assembl
+author brian neill o'neil
+date time field datetimefield minut secondofminut

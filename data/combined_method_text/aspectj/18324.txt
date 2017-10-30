@@ -1,0 +1,5 @@
+org aspectj weaver
+abstract refer type deleg abstractreferencetypedeleg refer type deleg referencetypedeleg
+design overriden eclipsetyp disabl collect shadow munger
+pre weav compil phase
+expos shadow munger doesnotexposeshadowmung

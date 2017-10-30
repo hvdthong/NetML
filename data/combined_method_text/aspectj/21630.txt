@@ -1,0 +1,47 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+test find residu ellipsi findresiduenoellipsi shadow shadow expos state exposedst state type pattern typepattern pattern
+resolv type resolvedtyp argument match argumentstomatchagainst argument match getargumentstomatchagainst shadow
+len argument match argumentstomatchagainst length
+system err println boudn len pattern length
+pattern length len
+liter fals
+test ret liter true
+len
+unresolv type unresolvedtyp arg type argtyp shadow gener arg type getgenericargtyp
+type pattern typepattern type pattern
+resolv type resolvedtyp arg rtx argrtx shadow world getiworld resolv arg type argtyp
+type bind type pattern bindingtypepattern
+arg rtx argrtx miss ismiss
+shadow world getiworld lint getlint find type cantfindtyp signal
+string weaver messag weavermessag format weaver messag weavermessag find type arg type find type arg type arg type argtyp getnam
+shadow sourc locat getsourceloc
+sourc locat isourceloc sourc locat getsourceloc
+imessag msg messag
+weavermessag format weavermessag find type arg type argtyp getnam
+imessag error shadow getsourceloc null isourceloc getsourceloc
+shadow getiworld getmessagehandl handlemessag msg
+type match instanceof matchesinstanceof arg rtx argrtx true alwaystru
+world world shadow world getiworld
+resolv type resolvedtyp type expos typetoexpos type exact type getexacttyp resolv world
+type expos typetoexpos parameter type isparameterizedtyp
+doubt indoubt type match instanceof matchesinstanceof arg rtx argrtx fuzzi boolean fuzzyboolean
+doubt indoubt world lint getlint uncheck argument uncheckedargu enabl isen
+string uncheck match uncheckedmatchwith type expos typetoexpos simpl base getsimplebasenam
+arg rtx argrtx parameter type isparameterizedtyp arg rtx argrtx raw type getrawtyp type expos typetoexpos raw type getrawtyp
+uncheck match uncheckedmatchwith arg rtx argrtx simpl getsimplenam
+uncheck argument warn suppress isuncheckedargumentwarningsuppress
+world lint getlint uncheck argument uncheckedargu signal
+string
+type expos typetoexpos simpl getsimplenam
+uncheck match uncheckedmatchwith
+type expos typetoexpos simpl base getsimplebasenam
+shadow resolv string toresolvedstr world
+sourc locat getsourceloc
+sourc locat isourceloc shadow sourc locat getsourceloc
+ret test make makeand ret
+expos state var exposestateforvar shadow arg var getargvar type state shadow world getiworld
+ret

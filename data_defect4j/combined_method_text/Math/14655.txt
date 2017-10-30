@@ -1,0 +1,15 @@
+param checker converg checker
+checker checker
+param pair type point pair return optim
+algorithm
+boiler plate code count number evalu
+base optim baseoptim converg checker convergencecheck pair checker
+org apach common math3 optim
+version
+store converg checker
+iter incrementor max iter callback maxitercallback
+base implement optim
+object function number iter algorithm
+base optim baseoptim pair
+evalu incrementor max eval callback maxevalcallback
+user

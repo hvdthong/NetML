@@ -1,0 +1,9 @@
+assembl chronolog assembledchronolog base chronolog basechronolog
+assembl chronolog assembledchronolog thread safe immut
+contain field
+org joda time chrono
+chronolog base getbas
+base ibas
+return base chronolog pass constructor
+abstract chronolog enabl chronolog assembl
+author brian neill o'neil

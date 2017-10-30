@@ -1,0 +1,26 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+instruct creat append createappend type type
+type type gettyp
+string isstr type
+creat invok createinvok append mo constant invokevirtu
+constant boolean boolean
+constant char char
+constant float float
+constant doubl doubl
+constant byte byte
+constant short short
+constant int int
+constant long long
+creat invok createinvok append mo constant invokevirtu
+constant arrai arrai
+constant object object
+creat invok createinvok append mo constant invokevirtu
+runtim except runtimeexcept oop append type type

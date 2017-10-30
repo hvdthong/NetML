@@ -1,0 +1,5 @@
+org apach lucen index
+format post posit consum formatpostingspositionsconsum
+add posit payload payloadlength
+read byte indexinput
+add posit addposit posit payload payload offset payloadoffset payload length payloadlength except ioexcept

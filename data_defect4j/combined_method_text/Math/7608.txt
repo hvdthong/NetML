@@ -1,0 +1,24 @@
+pre
+org apach common math optim fit
+parametr univari real function parametricunivariaterealfunct parametr univari real function parametricunivariaterealfunct
+paramet fitter fit
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+strictli posit except notstrictlypositiveexcept
+gradient
+fit point link
+paramet gaussian function fit
+doubl posit infin
+version revis date
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+norm
+observ point order
+parametr univari real function parametricunivariaterealfunct gaussian parametr
+gaussian fitter gaussianfitt curv fitter curvefitt
+version
+usag
+fit gaussian function observ point
+org apach common math analysi function gaussian parametr gaussian function
+fit initi guess initialguess
+param initi guess initialguess guess valu order
+sigma

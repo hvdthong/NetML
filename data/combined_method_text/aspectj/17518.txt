@@ -1,0 +1,9 @@
+org aspectj tool ajbrows
+run ajbrows lst file argument ajc
+main
+run ajbrows arg lst file
+ajc
+param arg string arg interpret
+main string arg
+compil main compilermain arg
+browser manag browsermanag default getdefault init arg

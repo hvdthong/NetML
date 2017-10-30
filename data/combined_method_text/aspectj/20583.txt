@@ -1,0 +1,38 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+instruct list instructionlist creat join point createthisjoinpoint
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist instruct list instructionlist
+bcel var bcelvar static part staticpart join point static part bcel var getthisjoinpointstaticpartbcelvar
+static part staticpart append load appendload fact
+hasthi
+bcel var bcelvar var getthisvar append load appendload fact
+append aconst null aconst null
+target hastarget
+bcel var bcelvar target var gettargetvar append load appendload fact
+append aconst null aconst null
+arg count getargcount
+append fact creat invok createinvok org aspectj runtim reflect factori
+makejp lazi class gen lazyclassgen tjp type tjptype
+type lazi class gen lazyclassgen static tjp type statictjptyp
+type object type object
+constant invokestat
+bcel var bcelvar arg var getargvar append load convert appendloadandconvert fact world core type getcoretyp resolv type resolvedtyp object
+append fact creat invok createinvok org aspectj runtim reflect factori
+makejp lazi class gen lazyclassgen tjp type tjptype
+type lazi class gen lazyclassgen static tjp type statictjptyp
+type object type object type object
+constant invokestat
+bcel var bcelvar arg var getargvar append load convert appendloadandconvert fact world core type getcoretyp resolv type resolvedtyp object
+bcel var bcelvar arg var getargvar append load convert appendloadandconvert fact world core type getcoretyp resolv type resolvedtyp object
+append fact creat invok createinvok org aspectj runtim reflect factori
+makejp lazi class gen lazyclassgen tjp type tjptype
+type lazi class gen lazyclassgen static tjp type statictjptyp
+type object type object type object type object
+constant invokestat
+append make arg object arrai makeargsobjectarrai
+append fact creat invok createinvok org aspectj runtim reflect factori
+makejp lazi class gen lazyclassgen tjp type tjptype
+type lazi class gen lazyclassgen static tjp type statictjptyp
+type object type object arrai type arraytyp type object
+constant invokestat

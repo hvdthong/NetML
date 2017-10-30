@@ -1,0 +1,10 @@
+org aspectj org eclips jdt core dom
+cflowpointcut dom ast node
+pointcutdesign call 'body'
+author ajh02
+cflow pointcut cflowpointcut pointcut design pointcutdesign
+ast node astnod clone0 ast target
+cflow pointcut cflowpointcut result cflow pointcut cflowpointcut target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set bodi setbodi pointcut design pointcutdesign bodi getbodi clone target
+result

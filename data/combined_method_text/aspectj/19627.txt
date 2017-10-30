@@ -1,0 +1,15 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+conflict signatur conflictingsignatur member member
+getnam equal getnam
+kind getkind kind getkind
+kind getkind member field
+declar type getdeclaringtyp equal declar type getdeclaringtyp
+kind getkind member pointcut
+unresolv type unresolvedtyp gener paramet type getgenericparametertyp
+unresolv type unresolvedtyp gener paramet type getgenericparametertyp
+paramet type getparametertyp
+paramet type getparametertyp
+length
+length
+equal

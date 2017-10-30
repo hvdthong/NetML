@@ -1,0 +1,15 @@
+org aspectj org eclips jdt core dom
+abstract class declar annot
+declar ast node type
+declaredeclar
+patternnod call 'pattern'
+simplenam call 'annotationname'
+unsupport jls2
+declar annot declar declareannotationdeclar declar declar declaredeclar
+set pattern node setpatternnod pattern node patternnod pattern
+pattern
+illeg argument except illegalargumentexcept
+ast node astnod child oldchild pattern
+pre replac child prereplacechild child oldchild pattern intern pattern node properti internalpatternnodeproperti
+pattern pattern
+post replac child postreplacechild child oldchild pattern intern pattern node properti internalpatternnodeproperti

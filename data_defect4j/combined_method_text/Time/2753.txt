@@ -1,0 +1,8 @@
+author stephen colebourn
+zone chronolog zonedchronolog thread safe immut
+org joda time chrono
+field ifield short text getasshorttext field fieldvalu local
+wrap chronolog add support time zone
+author brian neill o'neil
+string short text getasshorttext field fieldvalu local local
+zone chronolog zonedchronolog assembl chronolog assembledchronolog

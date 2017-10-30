@@ -1,0 +1,5 @@
+tricub spline function tricubicsplinefunct
+org apach common math3 analysi interpol
+param list spline coeffici
+version
+spline function

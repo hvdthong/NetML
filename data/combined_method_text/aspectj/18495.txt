@@ -1,0 +1,4 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb cflow aspect method percflowhasaspectmethod unresolv type unresolvedtyp declar type declaringtyp
+singleton aspect method persingletonhasaspectmethod declar type declaringtyp

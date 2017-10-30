@@ -1,0 +1,32 @@
+org aspectj org eclips jdt core dom
+intertypemethoddeclar dom ast node
+methoddeclar
+note
+type declar
+author ajh02
+inter type method declar intertypemethoddeclar method declar methoddeclar
+ast node astnod clone0 ast target
+inter type method declar intertypemethoddeclar result inter type method declar intertypemethoddeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+ast api level apilevel ast jls2 intern jls2 intern
+result intern set modifi internalsetmodifi modifi getmodifi
+result set return type setreturntyp
+type ast node astnod copi subtre copysubtre target return type getreturntyp
+ast api level apilevel ast jls3
+result modifi add addal ast node astnod copi subtre copysubtre target modifi
+result type paramet typeparamet add addal
+ast node astnod copi subtre copysubtre target type paramet typeparamet
+result set return type2 setreturntype2
+type ast node astnod copi subtre copysubtre target return type2 getreturntype2
+result set constructor setconstructor constructor isconstructor
+result set extra dimens setextradimens extra dimens getextradimens
+result set setnam simpl simplenam getnam clone target
+result paramet add addal
+ast node astnod copi subtre copysubtre target paramet
+result thrown except thrownexcept add addal
+ast node astnod copi subtre copysubtre target thrown except thrownexcept
+result set bodi setbodi
+block ast node astnod copi subtre copysubtre target bodi getbodi
+result

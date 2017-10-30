@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+d2f convert doubl float
+pre stack word1 word2 result pre
+version d2f java aclement exp
+author href mailto marku dahm berlin dahm
+d2f convers instruct conversioninstruct
+convert doubl float
+d2f
+org aspectj apach bcel constant d2f

@@ -1,0 +1,14 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+overrid javac createexclud set code haveexclud code
+code true code
+return patternset nameentri ad exclud list
+org apach tool taskdef javac createexclud
+pattern set patternset entri nameentri creat exclud createexclud
+exclud haveexclud
+creat exclud createexclud

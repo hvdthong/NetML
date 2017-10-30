@@ -1,0 +1,8 @@
+interfac univari real integr algorithm
+org apach common math analysi
+provid implement
+reset rel accuraci
+set rel accuraci setrelativeaccuraci
+univari real integr univariaterealintegr
+version revis date
+reset rel accuraci resetrelativeaccuraci

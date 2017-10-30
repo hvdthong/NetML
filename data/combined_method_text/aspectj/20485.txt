@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+type variabl typevari type variabl gettypevari
+gener isgener type variabl typevari
+type var typevar
+signatur class signatur classsignatur class sig classsig gener class type signatur getgenericclasstypesignatur signatur classsignatur classsig getgenericclasstypesignatur cachedgenericclasstypesignatur javaclass getgenericclasstypesignatur
+type var typevar type variabl typevari class sig classsig formal type paramet formaltypeparamet length
+type var typevar length
+signatur formal type paramet formaltypeparamet ftp class sig classsig formal type paramet formaltypeparamet
+type var typevar bcel gener signatur type convert bcelgenericsignaturetotypexconvert formal type parameter2 type variabl formaltypeparameter2typevari
+ftp
+class sig classsig formal type paramet formaltypeparamet
+resolv type getresolvedtypex world getworld
+gener signatur format except genericsignatureformatexcept
+develop bug fail fast good info
+illeg state except illegalstateexcept
+type variabl type string tostr
+gener signatur class sig classsig
+error condit detect messag getmessag
+type var typevar

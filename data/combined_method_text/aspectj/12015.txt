@@ -1,0 +1,23 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+visit import refer importrefer import ref importref compil unit scope compilationunitscop scope
+dot index dotindex import ref importref string tostr index lastindexof
+string curr packag import currpackageimport
+dot index dotindex
+curr packag import currpackageimport import ref importref string tostr substr dot index dotindex
+program element programel stack peek packag getpackagenam equal curr packag import currpackageimport
+program element iprogramel node penod program element programel
+string import ref importref string tostr
+program element iprogramel kind import refer import refer
+make locat makeloc import ref importref
+program element programel import program element programel program element programel stack peek children getchildren
+import add child addchild node penod
+stack push node penod

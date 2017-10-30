@@ -1,0 +1,13 @@
+norm fast math fastmath exp minu xminusmean minu xminusmean i2s2
+param minu xminusmean code
+param i2s2 invers squar standard deviat
+minu xminusmean
+gaussian code
+org apach common math analysi function
+i2s2
+href http wikipedia org wiki gaussian function
+param norm normal factor
+version revis date
+gaussian function
+norm
+gaussian differenti univari real function differentiableunivariaterealfunct

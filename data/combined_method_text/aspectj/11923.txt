@@ -1,0 +1,15 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+param sourcefil
+param unwovenclassfil
+delet type compil unit time round delet increment deletetypesthatwereinthiscompilationunitlasttimeroundbuthavebeendeletedinthisincr file sourc file sourcefil unwoven class file unwovenclassfil unwoven class file unwovenclassfil
+list class file classfil list fulli qualifi type name result compil unit fullyqualifiedtypenamesresultingfromcompilationunit sourc file sourcefil
+class file classfil
+unwoven class file unwovenclassfil length
+delet delet type weaver
+present time
+remov class file present removefromclassfilesifpres unwoven class file unwovenclassfil class getclassnam class file classfil
+iter iter class file classfil iter iter hasnext
+class file classfil class file classfil iter
+delet class file deleteclassfil

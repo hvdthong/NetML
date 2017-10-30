@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math distribut
+
+
+concret distribut factori factori
+common math
+
+version revis date
+deprec pluggabl distribut instanc provid
+constructor setter
+
+distribut factori impl distributionfactoryimpl distribut factori distributionfactori
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+creat binomi distribut number trial
+probabl success
+
+param number trial numberoftri number trial
+param probabl success probabilityofsuccess probabl success
+binomi distribut
+
+binomi distribut binomialdistribut creat binomi distribut createbinomialdistribut
+number trial numberoftri probabl success probabilityofsuccess
+binomi distribut impl binomialdistributionimpl number trial numberoftri
+probabl success probabilityofsuccess
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

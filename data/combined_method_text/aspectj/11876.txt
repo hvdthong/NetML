@@ -1,0 +1,9 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+string make classpath string makeclasspathstr build config ajbuildconfig build config buildconfig
+build config buildconfig build config buildconfig full classpath getfullclasspath
+string buffer stringbuff buf string buffer stringbuff
+iter build config buildconfig full classpath getfullclasspath iter hasnext
+buf append file path separ pathsepar
+buf append string tostr
+buf string tostr

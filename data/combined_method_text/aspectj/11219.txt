@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+check target itd annot error messag
+signal return true annot caller stop process
+kind 'constructor' 'field' 'method'
+target annot istargetannot class scope classscop class scope classscop string kind
+type bind ontypebind access flag getaccessflag acc annot acc annot
+class scope classscop problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+make inter type kind declar annot type
+ignor investig ignorefurtherinvestig

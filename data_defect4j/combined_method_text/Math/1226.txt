@@ -1,0 +1,21 @@
+converg except convergenceexcept maximum iter count exceed
+deprec
+satisfi requir solver
+solver requir bracket handl
+univari real solver univariaterealsolv converg algorithm convergingalgorithm
+solv min max converg except convergenceexcept
+deprec replac link solv univari real function univariaterealfunct
+interfac univari real rootfind algorithm
+implement search interv
+version revis date
+param max upper bound interv
+function
+solver requir interv bracket singl root
+endpoint root
+function evalu except functionevaluationexcept error occur evalu
+function evalu except functionevaluationexcept
+illeg argument except illegalargumentexcept min max endpoint
+param min lower bound interv
+solver detect converg problem
+solv root interv
+org apach common math analysi solver

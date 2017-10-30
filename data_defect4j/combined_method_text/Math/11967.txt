@@ -1,0 +1,10 @@
+interfac fluent api advert capabl optim
+org apach common math3 fit leastsquar
+instanc argument
+optim instanc field ident
+param max iter maxit maximum number iter
+max iter withmaxiter
+creat instanc paramet
+version
+max iter withmaxiter max iter maxit
+param concret optim implement

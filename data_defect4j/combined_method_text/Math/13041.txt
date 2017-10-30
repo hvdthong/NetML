@@ -1,0 +1,24 @@
+method implement link entri getentri access
+sum sum add entri getentri row multipli entri getentri
+inherit doc inheritdoc
+build arrai buildarrai field row nrow
+sum field getzero
+math arrai matharrai build arrai buildarrai field row nrow
+basic implement link field matrix fieldmatrix method underli storag
+arrai field vector arrayfieldvector field oper arrai field vector arrayfieldvector data ref getdataref
+version
+arrai field vector arrayfieldvector field
+field vector fieldvector oper field vector fieldvector
+row nrow row dimens getrowdimens
+dimens mismatch except dimensionmismatchexcept
+row sum
+abstract field matrix abstractfieldmatrix field element fieldel
+param type field element
+col ncol
+col ncol column dimens getcolumndimens
+row row row nrow row
+dimens mismatch except dimensionmismatchexcept dimens getdimens col ncol
+org apach common math3 linear
+class cast except classcastexcept cce
+matrix element deriv provid faster implement
+dimens getdimens col ncol

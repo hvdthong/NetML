@@ -1,0 +1,10 @@
+org aspectj ajd core
+interfac configur requir
+compil perform build
+compil configur icompilerconfigur
+set java resourc compil
+set member type java file
+empti set null accept option
+return map uniqu resourc absolut path sourc
+resourc string file
+map sourc path resourc getsourcepathresourc public map string java file getsourcepathresourc

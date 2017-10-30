@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+simpl demonstr applic show creat pie chart
+data link default pie dataset defaultpiedataset
+
+pie chart demo1 piechartdemo1 applic frame applicationfram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+start point demonstr applic
+
+param arg
+
+main string arg
+
+
+demo applic includ free chart jfreechart
+develop guid inform
+
+http www object refineri jfreechart guid html
+
+
+
+pie chart demo1 piechartdemo1 demo pie chart demo1 piechartdemo1 pie chart demo
+demo pack
+refineri util refineryutil center frame screen centerframeonscreen demo
+demo set visibl setvis
+
+
+

@@ -1,0 +1,18 @@
+author apach softwar foundat
+replac 'j' number format real
+configur
+version
+format complex number cartesian format 'i'
+return complex format local
+complex format complexformat format serializ
+param local specif local format
+org apach common math complex
+replac 'j' number format real imaginari part
+complex format complexformat instanc getinst local local
+complex format specif local
+number format numberformat default number format getdefaultnumberformat local
+version revis date
+complex format complexformat composit format compositeformat
+complex format complexformat
+imaginari part configur
+number format numberformat composit format compositeformat default number format getdefaultnumberformat local

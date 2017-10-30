@@ -1,0 +1,29 @@
+mea nois measnois
+default measur model defaultmeasurementmodel mea matrix measmatrix mea nois measnois
+link kalman filter kalmanfilt
+measur nois matrix
+param mea nois measnois
+null argument except nullargumentexcept data except nodataexcept dimens mismatch except dimensionmismatchexcept
+input matric code
+default implement link measur model measurementmodel
+input matric rectangular
+paramet respect measur matrix nois
+version
+param mea matrix measmatrix measur matrix
+default measur model defaultmeasurementmodel measur model measurementmodel
+param mea nois measnois measur nois matrix
+dimens mismatch except dimensionmismatchexcept
+param mea matrix measmatrix
+creat link measur model measurementmodel take arrai input paramet
+respect measur matrix nois
+default implement link measur model measurementmodel link kalman filter kalmanfilt
+org apach common math3 filter
+array2 row real matrix array2drowrealmatrix mea matrix measmatrix array2 row real matrix array2drowrealmatrix mea nois measnois
+row column dimens input matric
+creat link measur model measurementmodel take arrai input
+measur matrix
+default measur model defaultmeasurementmodel mea matrix measmatrix
+array2 row real matrix array2drowrealmatrix mea matrix measmatrix
+array2 row real matrix array2drowrealmatrix mea nois measnois
+data except nodataexcept
+null argument except nullargumentexcept

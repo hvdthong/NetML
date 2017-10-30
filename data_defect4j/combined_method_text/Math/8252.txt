@@ -1,0 +1,9 @@
+gener random vector isotrop locat surfac sphere
+order gener individu compon
+param dimens space dimens
+creat object rng link mersenn twister mersennetwist
+unit sphere random vector gener unitsphererandomvectorgener
+unit sphere random vector gener unitsphererandomvectorgener dimens
+dimens mersenn twister mersennetwist
+version revis date
+org apach common math random

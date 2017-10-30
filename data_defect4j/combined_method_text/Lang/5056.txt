@@ -1,0 +1,12 @@
+author apach softwar foundat
+helper subclass char sequenc translat charsequencetransl translat
+param codepoint charact input translat
+translat occur
+translat codepoint
+except ioexcept writer produc except ioexcept
+replac charact time
+version
+param writer option push translat output
+code point translat codepointtransl char sequenc translat charsequencetransl
+org apach common lang3 text translat
+translat codepoint writer except ioexcept

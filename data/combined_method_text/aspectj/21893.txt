@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+exact type pattern exacttypepattern type pattern typepattern
+match type couldevermatchsametypesa type pattern typepattern
+match type couldevermatchsametypesa
+fals suffici
+unresolv type unresolvedtyp type othertyp exact type getexacttyp
+resolv type resolvedtyp miss ismiss type othertyp
+type equal type othertyp
+wild type pattern wildtypepattern
+wild type pattern wildtypepattern owtp wild type pattern wildtypepattern
+string simpl prefix yoursimplenameprefix owtp pattern getnamepattern simpl maybegetsimplenam
+simpl prefix yoursimplenameprefix
+type getnam start startswith simpl prefix yoursimplenameprefix

@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+getstat fetch static field class
+pre stack pre
+pre stack word1 word2 pre
+version getstat java aclement exp
+author href mailto marku dahm berlin dahm
+getstat field instruct fieldinstruct push instruct pushinstruct except thrower exceptionthrow
+produc stack producestack constant pool gen constantpoolgen cpg field size getfields cpg

@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+munger check advic except declar shadow case
+aspect throw throwabl
+return
+check except mustcheckexcept
+concret aspect getconcreteaspect
+concret aspect getconcreteaspect annot style aspect isannotationstyleaspect

@@ -1,0 +1,10 @@
+org aspectj weaver
+store annot member ensur resolv unpack lazili
+set annot unpack discard ensur annot
+ad 'addannot call public accessor
+method 'hasannot getannot getannotationtypes'
+author andycl
+annot member holder annotationsformemberhold
+annot annotationx annot getannot
+ensur annot unpack ensureannotationxsunpack
+annot annotationx

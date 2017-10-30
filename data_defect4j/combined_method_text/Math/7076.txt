@@ -1,0 +1,14 @@
+org apach common math optim simpl scalar checker simplescalarvaluecheck
+org apach common math optim simpl real point checker simplerealpointcheck
+rel threshold getrelativethreshold
+user provid implement
+org apach common math optim
+param pair type point object pair
+converg
+specifi check optim algorithm
+decid converg reach problem depend issu
+rel toler
+version revis date
+converg checker convergencecheck pair
+optim algorithm stop search problem hand
+rel threshold

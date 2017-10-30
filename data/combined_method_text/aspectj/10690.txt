@@ -1,0 +1,6 @@
+org aspectj ajd swing
+browser structur view tool panel browserstructureviewtoolpanel panel jpanel
+check box select menu button checkboxselectionmenubutton string
+set font setfont ajd widget style ajdewidgetstyl default label font default label font
+set background setbackground ajd widget style ajdewidgetstyl default background color default background color
+super setselect true

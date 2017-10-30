@@ -1,0 +1,15 @@
+param dot ydot placehold arrai put time deriv state vector
+base manag common boilerpl integr
+comput deriv computederiv dot ydot
+expand comput deriv computederiv dot ydot
+org apach common math3 od
+evalu increment count incrementcount
+param arrai current state vector
+max count exceed except maxcountexceededexcept dimens mismatch except dimensionmismatchexcept
+comput deriv check number evalu
+abstract integr abstractintegr order integr firstorderintegr
+version
+max count exceed except maxcountexceededexcept
+except dimens mismatch except dimensionmismatchexcept arrai dimens match equat set
+except max count exceed except maxcountexceededexcept number function evalu exceed
+param current independ time variabl

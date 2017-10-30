@@ -1,0 +1,9 @@
+org mozilla javascript tool shell
+author andré bargul
+shell consol shellconsol
+suppress warn suppresswarn uncheck
+invok tryinvok method object obj object arg
+invok obj arg
+illeg argument except illegalargumentexcept
+illeg access except illegalaccessexcept
+invoc target except invocationtargetexcept

@@ -1,0 +1,123 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+param valid char validchar string valid char
+oper link java lang string
+author href mailto apach org korthof
+space space charact code
+levenshtein distanc levenshteindist
+code char sequenc charsequ code
+remov lead trail whitespac
+append suffix end string present
+code code valid charact string code code
+safe substr extract
+check string text
+abbrevi string ellipsi
+chang signatur containsonli string string containsonli char sequenc charsequ string
+index set string
+compar string report differ
+substr extract rel string
+containsonli char sequenc charsequ string valid char validchar
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+string util stringutil containsonli abz abc
+author arun mammen thoma
+valid char
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+empti string length return code
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+code valid charact string code
+split join
+code code char sequenc charsequ code code
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+compar string safe
+code string util stringutil code
+symbol code input includ code
+param char sequenc charsequ check
+org apach common lang3
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+author holger krauth
+code input code
+containsonli valid char validchar char arrai tochararrai
+code code
+code safe
+empti string length return code code
+containsonli containsnon containsani
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+string util stringutil containsonli ab1 abc
+string util stringutil containsonli abab abc
+author href mailto jon latchkei jon steven
+empti isempti blank isblank
+code code input code code
+code null pointer except nullpointerexcept code consid bug
+code code safe
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+equal
+code string util stringutil code defin word relat
+code null pointer except nullpointerexcept consid bug
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+code string util stringutil
+check char sequenc charsequ charact
+valid char validchar
+string util stringutil
+thread safe threadsaf
+check charact string
+append miss appendifmiss
+prepend miss prependifmiss
+string util stringutil containsonli
+symbol code code input includ code code

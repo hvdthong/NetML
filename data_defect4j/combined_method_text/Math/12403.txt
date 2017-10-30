@@ -1,0 +1,17 @@
+simpl constructor
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+field vector3 fieldvector3d alpha delta
+co delta cosdelta delta co
+param type field element
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+param alpha azimuth alpha
+instanc guarante immut
+alpha co multipli co delta cosdelta
+version
+delta sin
+delta getdelta
+param delta elev delta plane
+alpha getalpha
+build vector azimuth coordin
+alpha sin multipli co delta cosdelta

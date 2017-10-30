@@ -1,0 +1,10 @@
+Adding property element to xmlvalidate
+I needed a way to set properties on the XMLReader used for validation, by
+calling the method XMLReader.setProperty(String, Object).
+
+My need for this was to specify an external schema to validate an XML file with.
+ Setting attributes can't get the job done since it only accepts booleans.
+
+It's a fairly simple patch.  It includes a few new methods and an inner classes
+in XmlValidateTask which mimic the logic for setAttribute.  I also added some
+test cases, and 2 test xml files, one which passes the schema and one which doesn't.

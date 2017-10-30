@@ -1,0 +1,32 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+param arglist read strip increment arg
+param sink imessagehandl error messag
+return string remaind arg
+string init string arg messag handler imessagehandl sink
+run
+string unus
+lang util langutil empti isempti arg
+string option lang util langutil copi string copystr option
+lang util langutil extract option extractopt arg option unus langutil extractopt arg option
+increment option
+option
+file file file option
+file exist
+messag util messageutil abort sink tag file exist file
+tag file tagfil file
+file mod time filemodtim tag file tagfil modifi lastmodifi
+arg

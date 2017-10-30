@@ -1,0 +1,11 @@
+chronolog utc withutc
+return instanc chronolog oper utc time
+version chronolog ignor time zone
+org joda time chrono
+zone chronolog oper time zone
+base chronolog basechronolog
+class util method defin field unsupport
+base chronolog basechronolog skeleton implement chronolog
+utc themself
+author brian neill o'neil
+base chronolog basechronolog thread safe immut subclass

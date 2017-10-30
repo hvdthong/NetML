@@ -1,0 +1,12 @@
+org aspectj ajd
+author mik kersten
+structur search manag structuresearchmanag
+param pattern case sensit substr node
+return null node found
+list find match findmatch
+string pattern
+program element iprogramel kind kind
+list match arrai list arraylist
+hierarchi ihierarchi model asm manag asmmanag default getdefault hierarchi gethierarchi
+model equal hierarchi ihierarchi structur structur
+find match helper findmatcheshelp program element iprogramel model root getroot pattern kind match

@@ -1,0 +1,51 @@
+org aspectj apach bcel classfil
+repres java class data structur constant pool
+field method command contain java class file
+href ftp java sun doc spec jvm
+specif detail
+intent class repres pars exist
+class file interest programat gener class
+href gener classgen html classgen class
+version javaclass java acoly exp
+org aspectj apach bcel gener classgen
+author href mailto marku dahm berlin dahm
+java class javaclass access flag accessflag cloneabl node
+return string repres class content
+string string tostr
+string access util access string accesstostr access flag
+access access equal access
+string buffer stringbuff buf string buffer stringbuff access
+util class interfac classorinterfac access flag
+class extend
+util compact class compactclassnam superclass
+size interfac length
+size
+buf append implement
+size
+buf append interfac name
+size
+buf append
+buf append
+buf append filenam file
+buf append compil sourc file
+buf append compil version major minor
+buf append access flag access flag
+buf append constant pool constant pool length getlength entri
+buf append acc super flag super issup
+attribut length
+buf append nattribut
+attribut length
+buf append indent attribut
+annot annot length
+buf append nannot
+annot length
+buf append indent annot
+field length
+buf append field length field
+field length
+buf append field
+method length
+buf append method length method
+method length
+buf append method
+buf string tostr

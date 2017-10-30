@@ -1,0 +1,15 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+add packag node addpackagenod structur view structureview view structur view node istructureviewnod view root viewroot
+file view isfileview view
+iprogramel filenod viewroot getstructurenod
+iprogramel parentnod filenod getpar
+parentnod getkind iprogramel kind packag
+string parentnod getnam
+iprogramel packagenod programel iprogramel kind packag null
+packagenod setsourceloc filenod getsourceloc
+structureviewnod packageviewnod createviewnod
+packagenod
+view getviewproperti
+viewroot getchildren add packageviewnod

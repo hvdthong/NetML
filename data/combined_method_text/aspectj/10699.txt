@@ -1,0 +1,24 @@
+org aspectj ajd swing
+browser structur view tool panel browserstructureviewtoolpanel panel jpanel
+init tool bar inittoolbar
+granular combo granularitycombo button menu combo ajbuttonmenucombo
+visibl granular
+visibl granular
+ajd default getdefault icon registri geticonregistri granular icon getgranularityicon
+creat granular menu creategranularitymenu
+filter combo filtercombo button menu combo ajbuttonmenucombo
+filter member
+filter member
+ajd default getdefault icon registri geticonregistri filter icon getfiltericon
+creat filter menu createfiltermenu
+relat combo relationscombo button menu combo ajbuttonmenucombo
+filter associ
+filter associ
+ajd default getdefault icon registri geticonregistri relat icon getrelationsicon
+creat relat menu createrelationsmenu
+button panel add granular combo granularitycombo border layout borderlayout west
+button panel add filter combo filtercombo border layout borderlayout center
+button panel add relat combo relationscombo border layout borderlayout east
+except
+messag msg messag initi gui messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

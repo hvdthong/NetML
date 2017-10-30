@@ -1,0 +1,6 @@
+org aspectj ajd core
+interfac configur requir
+compil perform build
+compil configur icompilerconfigur
+return classpath
+string classpath getclasspath

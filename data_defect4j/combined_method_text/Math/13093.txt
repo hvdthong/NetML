@@ -1,0 +1,16 @@
+real matrix realmatrix matrix submatrix
+method implement link entri getentri access
+real matrix realmatrix matrix getsubmatrix start row startrow end row endrow
+org apach common math3 linear
+rang except outofrangeexcept number small except numberistoosmallexcept
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+start column startcolumn end column endcolumn
+start row startrow end row endrow
+matrix submatrix
+matrix util matrixutil check matrix index checksubmatrixindex start row startrow end row endrow start column startcolumn end column endcolumn
+creat matrix creatematrix end row endrow start row startrow end column endcolumn start column startcolumn
+version
+abstract real matrix abstractrealmatrix
+basic implement real matrix realmatrix method underli storag
+matrix submatrix set entri setentri start row startrow start column startcolumn entri getentri

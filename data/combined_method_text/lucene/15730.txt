@@ -1,0 +1,37 @@
+org apach lucen search
+implement search singl indexread
+applic call inherit
+link search queri int
+link search queri filter int method perform reason
+recommend open indexsearch search
+thread safeti note code link
+indexsearch code instanc complet
+thread safe mean multipl thread call
+method concurr applic requir
+extern synchron
+synchron code indexsearch code instanc
+lucen object
+index searcher indexsearch
+top field doc topfielddoc call except ioexcept
+top field doc topfielddoc doc searchabl search weight filter doc ndoc sort
+sort field field doc fix valu
+break ti doc properli compar
+rel doc id belong searchabl
+doc field length
+doc field type gettyp sort field sortfield doc
+iter score doc chang field
+doc score doc scoredoc length
+field doc fielddoc field doc fielddoc doc score doc scoredoc
+field integ valueof integ field int intvalu doc base docbas
+lock lock
+set field setfield doc field
+lock unlock
+score doc scoredoc score doc scoredoc doc score doc scoredoc
+score doc scoredoc length int scoredoc length merg scoredoc
+field doc fielddoc field doc fielddoc field doc fielddoc score doc scoredoc
+field doc fielddoc doc doc base docbas fielddoc doc docbas convert doc
+nice thread safe insert
+lock lock
+field doc fielddoc insert overflow insertwithoverflow field doc fielddoc
+lock unlock
+doc

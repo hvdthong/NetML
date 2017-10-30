@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+fcmpl compar float value1 value2
+pre stack value1 value2 result pre
+version fcmpl java aclement exp
+author href mailto marku dahm berlin dahm
+fcmpl instruct
+return type float
+type type gettyp constant pool gen constantpoolgen
+type float

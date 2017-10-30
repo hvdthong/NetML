@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pointcut andpointcut pointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+fuzzi boolean fuzzyboolean left match leftmatch left match shadow
+left match leftmatch fals alwaysfals left match leftmatch
+left match leftmatch match shadow

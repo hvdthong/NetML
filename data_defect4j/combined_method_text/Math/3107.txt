@@ -1,0 +1,66 @@
+previou close loop length
+outlin extractor outlineextractor
+vector2 vector2d vertic
+vector2 vector2d loop vertic
+abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d ab facet absfacet
+extract vertic facet
+loop newloop loop loop length
+close loop
+vector2 vector2d vertic newvertic vector2 vector2d vertic length
+hyperplan subhyperplan euclidean2 euclidean2d edg line hyperplan wholehyperplan
+scal revers
+comput project facet outlin plane
+current previou loop length
+current loop length
+scal vector3 vector3d dot product dotproduct plane normal getnorm
+vector3 vector3d current3 current3d vector3 vector3d plane space tospac loop current
+facet insid
+vector2 vector2d loop newloop vector2 vector2d loop length
+add contribut facet global outlin
+defin bound point edg
+current point real vertex
+org apach common math geometri euclidean twod line point cpoint angl
+org apach common math geometri euclidean twod line point ppoint angl
+vector3 vector3d dot product dotproduct current3 current3d
+vertic vertic newvertic
+version
+vertic newvertic loop newloop
+vector3 vector3d dot product dotproduct previous3 previous3d
+plane plane plane facet hyperplan gethyperplan
+abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d facet
+vertic length
+close previou
+org apach common math geometri euclidean twod line point ppoint point cpoint
+polygon set polygonsset project facet projectedfacet polygon set polygonsset edg
+loop length
+add contribut addcontribut hyperplan subhyperplan euclidean3 euclidean3d facet revers
+angl line angl getangl fast math fastmath
+point ppoint point cpoint
+edg edg split getplu
+extractor link polygon set polygonsset polyhedron set outlin
+loop newloop
+org apach common math geometri euclidean twod line line
+vector3 vector3d previous3 previous3d vector3 vector3d plane space tospac loop previou
+polyhedron set project plane
+edg add edg
+param facet boundari facet
+previou point real vertex
+fast math fastmath ab scal
+revert vertic
+add contribut boundari facet
+edg edg split minu getminu
+extract outlin link polygon set polygonsset
+close current loop length
+project polygon set polygonsset region factori regionfactori euclidean2 euclidean2d union project project facet projectedfacet
+param revers facet insid side
+org apach common math geometri euclidean threed
+invert boundari orient
+polygon set polygonsset ab facet absfacet remain region getremainingregion vertic getvertic
+previou current
+vector2 vector2d point cpoint vector2 vector2d vector3 vector3d dot product dotproduct current3 current3d
+arrai list arraylist hyperplan subhyperplan euclidean2 euclidean2d edg arrai list arraylist hyperplan subhyperplan euclidean2 euclidean2d
+org apach common math geometri euclidean twod line
+suppress warn suppresswarn uncheck
+previous3 previous3d current3 current3d
+loop
+vector2 vector2d point ppoint vector2 vector2d vector3 vector3d dot product dotproduct previous3 previous3d

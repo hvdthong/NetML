@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+super class invokeinstruct fieldinstruct
+method common
+version fieldormethod java aclement exp
+author href mailto marku dahm berlin dahm
+field method fieldormethod instruct cpinstruct load class loadclass
+return type referenc class interfac
+object type objecttyp class type getclasstyp constant pool gen constantpoolgen cpg
+object type objecttyp class getclassnam cpg

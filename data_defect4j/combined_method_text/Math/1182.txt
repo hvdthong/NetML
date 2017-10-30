@@ -1,0 +1,18 @@
+deprec remov
+univari real solver impl univariaterealsolverimpl converg algorithm impl convergingalgorithmimpl
+param maxim iter count defaultmaximaliterationcount maximum number iter
+param absolut accuraci defaultabsoluteaccuraci maximum absolut error
+absolut accuraci defaultabsoluteaccuraci
+solver
+univari real solver impl univariaterealsolverimpl
+univari real solver impl univariaterealsolverimpl maxim iter count defaultmaximaliterationcount
+link abstract univari real solver abstractunivariaterealsolv
+construct solver iter count accuraci
+provid implement function gener
+absolut accuraci defaultabsoluteaccuraci valid
+version revis date
+function accuraci defaultfunctionvalueaccuraci
+function accuraci functionvalueaccuraci function accuraci defaultfunctionvalueaccuraci
+org apach common math analysi solver
+illeg argument except illegalargumentexcept
+maxim iter count defaultmaximaliterationcount absolut accuraci defaultabsoluteaccuraci

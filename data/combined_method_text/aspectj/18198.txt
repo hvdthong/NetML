@@ -1,0 +1,12 @@
+org aspectj util
+lang util langutil
+make copi arrai
+return arrai compon type sourc
+element null
+throw illegalargumentexcept sourc null
+object copi object sourc
+lang util langutil throw iax null throwiaxifnul sourc sourc
+class sourc class getclass compon type getcomponenttyp
+object result object arrai instanc newinst sourc length
+system arraycopi sourc result result length
+result

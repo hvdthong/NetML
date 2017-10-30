@@ -1,0 +1,10 @@
+ad regress model updat
+data deriv valu initi
+clear
+entir data set load memori observ
+estim regress statist calcul
+regress model allow dynam updat data
+clear intern buffer reset regress model mean
+version
+org apach common math stat regress
+updat multipl linear regress updatingmultiplelinearregress

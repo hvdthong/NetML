@@ -1,0 +1,10 @@
+author stephen colebourn
+set period time interv preserv end instant
+param period period interv mean length
+arithmet except arithmeticexcept start instant exce capac
+illeg argument except illegalargumentexcept end start
+org joda time
+writabl interv
+author brian neill o'neil
+read writabl interv readwritableinterv readabl interv readableinterv
+set period end setperiodbeforeend readabl period readableperiod period

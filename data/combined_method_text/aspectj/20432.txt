@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+attribut ajattribut effect signatur attribut effectivesignatureattribut effect signatur geteffectivesignatur
+effect signatur effectivesignatur

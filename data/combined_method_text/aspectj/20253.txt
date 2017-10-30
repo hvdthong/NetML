@@ -1,0 +1,86 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+extract method level annot turn ajattribut
+param method
+param type
+param context
+param msghandler
+return list ajattribut
+list read aj5 method attribut readaj5methodattribut method method bcel method bcelmethod method bmethod resolv type resolvedtyp type resolv pointcut definit resolvedpointcutdefinit pre resolv pointcut preresolvedpointcut sourc context isourcecontext context messag handler imessagehandl msg handler msghandler
+method getnam start startswith mangler namemangl prefix collect empti list empti list method getnam startswith namemangl prefix return collect empti list dealt ajc
+attribut method struct ajattributemethodstruct struct attribut method struct ajattributemethodstruct method method bmethod type context msg handler msghandler
+attribut attribut method attribut getattribut
+rememb found annot minim semant error report
+real report bee ajdt compil map ajatttribut
+apt
+note skip thing type aspect
+warn bypass pointcut advic
+silent
+aspect annot hasataspectjannot
+aspect annot return void hasataspectjannotationmustreturnvoid
+attribut length
+attribut attribut attribut
+accept attribut acceptattribut attribut
+runtim annot runtimeannot rv runtim annot runtimeannot attribut
+aspect annot return void hasataspectjannotationmustreturnvoid aspect annot return void hasataspectjannotationmustreturnvoid handl annot handlebeforeannot
+rv struct pre resolv pointcut preresolvedpointcut
+aspect annot return void hasataspectjannotationmustreturnvoid aspect annot return void hasataspectjannotationmustreturnvoid handl annot handleafterannot
+rv struct pre resolv pointcut preresolvedpointcut
+aspect annot return void hasataspectjannotationmustreturnvoid aspect annot return void hasataspectjannotationmustreturnvoid handl return annot handleafterreturningannot
+rv struct pre resolv pointcut preresolvedpointcut method bmethod
+aspect annot return void hasataspectjannotationmustreturnvoid aspect annot return void hasataspectjannotationmustreturnvoid handl throw annot handleafterthrowingannot
+rv struct pre resolv pointcut preresolvedpointcut method bmethod
+aspect annot hasataspectjannot aspect annot hasataspectjannot handl annot handlearoundannot
+rv struct pre resolv pointcut preresolvedpointcut
+runtimevis bytecod attribut
+return formal declar advic signatur except returningformalnotdeclaredinadvicesignatureexcept
+msg handler msghandler handl messag handlemessag
+messag
+weaver messag weavermessag format weaver messag weavermessag return formal declar advic return formal declar advic formal getformalnam
+messag imessag error
+method bmethod sourc locat getsourceloc
+thrown formal declar advic signatur except thrownformalnotdeclaredinadvicesignatureexcept
+msg handler msghandler handl messag handlemessag
+messag
+weaver messag weavermessag format weaver messag weavermessag thrown formal declar advic thrown formal declar advic formal getformalnam
+messag imessag error
+method bmethod sourc locat getsourceloc
+aspect annot hasataspectjannot aspect annot hasataspectjannot aspect annot return void hasataspectjannotationmustreturnvoid
+semant check aspect remov previou block bypass advanc
+aspect annot hasataspectjannot type annot style aspect isannotationstyleaspect
+msg handler msghandler handl messag handlemessag
+messag
+found aspectj annot aspect type type getnam
+messag imessag warn
+type sourc locat getsourceloc
+ahead
+semant check advic public
+aspect annot hasataspectjannot struct method public ispubl
+msg handler msghandler handl messag handlemessag
+messag
+found aspectj annot public advic method string methodtostr struct method
+messag imessag error
+type sourc locat getsourceloc
+ahead
+semant check advic static
+aspect annot hasataspectjannot struct method static isstat
+msg handler msghandler handl messag handlemessag messag util messageutil error advic declar static method string methodtostr struct method type sourc locat getsourceloc
+messag
+advic declar static methodtostr struct method
+imessag error
+null
+type getsourceloc
+ahead
+semant check advic return void
+aspect annot return void hasataspectjannotationmustreturnvoid type void equal struct method return type getreturntyp
+msg handler msghandler handl messag handlemessag
+messag
+found aspectj annot advic return void method string methodtostr
+struct method
+messag imessag error
+type sourc locat getsourceloc
+ahead
+struct attribut ajattribut

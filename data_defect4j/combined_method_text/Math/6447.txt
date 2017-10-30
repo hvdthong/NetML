@@ -1,0 +1,18 @@
+od respect paramet
+math illeg argument except mathillegalargumentexcept paramet support
+comput link jacobian matric jacobianmatric partial deriv equat
+paramet jacobian provid parameterjacobianprovid parameteriz
+version
+math illeg argument except mathillegalargumentexcept
+param param paramnam paramet
+main state vector
+string param paramnam dfdp
+param dfdp placehold arrai put jacobian matrix
+interfac comput jacobian matrix paramet
+paramet link paramet name getparametersnam
+param dot ydot arrai current time deriv
+org apach common math od
+comput jacobian matrix od respect paramet
+param arrai current main state vector
+comput paramet jacobian computeparameterjacobian dot ydot
+param current independ time variabl

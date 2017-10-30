@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+var join point static part var getthisjoinpointstaticpartvar
+join point static part bcel var getthisjoinpointstaticpartbcelvar

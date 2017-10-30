@@ -1,0 +1,41 @@
+pre
+author matthew hawthorn
+param integ convert
+boolean util booleanutil
+handl code code input gracefulli
+boolean util booleanutil boolean object tobooleanobject integ valueof integ valueof integ valueof integ valueof
+nullvalu
+note return null pointer except nullpointerexcept autobox
+except thrown code input
+author apach softwar foundat
+oper primit boolean object
+org apach common lang3
+boolean util booleanutil boolean object tobooleanobject integ integ integ integ boolean fals
+author gari gregori
+boolean util booleanutil boolean object tobooleanobject integ valueof integ valueof integ valueof integ valueof boolean true
+param truevalu match code code
+version
+boolean true boolean fals code code
+except thrown code code input
+handl code input gracefulli
+boolean boolean object tobooleanobject integ integ truevalu integ falsevalu integ nullvalu
+match
+illeg argument except illegalargumentexcept integ match
+truevalu
+equal falsevalu
+thread safe threadsaf
+boolean true boolean fals code
+equal truevalu
+param falsevalu match code code
+illeg argument except illegalargumentexcept match
+method document behaviour detail
+boolean util booleanutil boolean object tobooleanobject integ valueof integ valueof integ valueof integ valueof boolean fals
+boolean true
+boolean fals
+equal nullvalu
+boolean util booleanutil boolean object tobooleanobject integ integ integ integ boolean true
+code code
+boolean util booleanutil boolean object tobooleanobject integ integ integ integ
+param nullvalu match code code
+convert integ boolean convers valu
+falsevalu

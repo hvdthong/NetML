@@ -1,0 +1,83 @@
+org aspectj apach bcel classfil
+repres java class data structur constant pool
+field method command contain java class file
+href ftp java sun doc spec jvm
+specif detail
+intent class repres pars exist
+class file interest programat gener class
+href gener classgen html classgen class
+version javaclass java acoly exp
+org aspectj apach bcel gener classgen
+author href mailto marku dahm berlin dahm
+java class javaclass access flag accessflag cloneabl node
+constructor content argument
+param class index index constant pool referenc
+constantclass repres class
+param superclass index index constant pool referenc
+constantclass repres class' superclass
+param file file
+param major major compil version
+param minor minor compil version
+param access flag access right defin bit flag
+param constant pool arrai constant
+param interfac implement interfac
+param field class field
+param method class method
+param attribut class attribut
+param sourc read file gener memori
+java class javaclass class index
+superclass index
+string file
+major
+minor
+access flag
+constant pool constantpool constant pool
+interfac
+field field
+method method
+attribut attribut
+sourc
+interfac interfac null allow backward compat
+interfac
+attribut
+attribut attribut
+field
+field field
+method
+method method
+class index class index
+superclass index superclass index
+file file
+major major
+minor minor
+access flag access flag
+constant pool constant pool
+interfac interfac
+field field
+method method
+attribut attribut
+annot date annotationsoutofd
+sourc sourc
+sourc file
+attribut length
+attribut sourc file sourcefil
+sourc file sourc file sourcefil attribut sourc file getsourcefilenam
+specif entri type
+constantclass' check
+constpool getconstant' method
+class constant pool constant string getconstantstr class index
+constant constant class constant class
+class util compact class compactclassnam class
+index class index lastindexof
+index
+packag
+packag class substr index
+superclass index superclass index class java lang object
+superclass constant pool constant string getconstantstr superclass index
+constant constant class constant class
+superclass util compact class compactclassnam superclass
+superclass java lang object
+interfac name string interfac length
+interfac length
+string str constant pool constant string getconstantstr interfac constant constant class constant class
+interfac name util compact class compactclassnam str

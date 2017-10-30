@@ -1,0 +1,52 @@
+overrid
+variabl model estim intercept term
+var mse x'x mse u'u
+xtx invers
+matrix includ initi column ident equal solv normal equat
+ol assum covari matrix error diagon
+calcul varianc beta ol
+equat solv back subsitut
+rinv multipli rinv transpos
+matrix link decomposit impl qrdecompositionimpl detail
+real matrix realmatrix xtx transpos multipli
+code code matrix link decomposit qrdecomposit detail
+org apach common math stat regress
+estim ol
+real matrix realmatrix raug getr matrix getsubmatrix
+code code code code equat solv back substitut
+pre
+decomposit algorithm
+real matrix realmatrix rinv decomposit ludecomposit raug solver getsolv invers getinvers
+version
+beta varianc covari matrix
+beta varianc
+version revis date
+var
+multipl linear regress model
+implement ordinari squar ol estim paramet
+solv normal equat implement decomposit
+varianc
+ol implement multipl linear regress
+real matrix realmatrix calcul beta varianc calculatebetavari
+pre code code pre
+equal varianc
+regress coeffici code code satisfi normal equat
+row sampl observ column independ
+calcul varianc covari matrix regress paramet
+ol multipl linear regress olsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress
+code pre
+includ length beta vector
+code code matrix link decomposit impl qrdecompositionimpl detail
+link intercept isnointercept intercept isnointercept code code
+ol assum covari matrix error diagon equal varianc
+pre code
+decomposit reduc
+decomposit algorithm code code matrix design matrix
+top row
+real matrix realmatrix rinv decomposit impl ludecompositionimpl raug solver getsolv invers getinvers
+var x'x
+column dimens getcolumndimens
+x'x x'y 1x'y
+equat solv back substitut
+sigma
+regress coeffici satisfi normal equat

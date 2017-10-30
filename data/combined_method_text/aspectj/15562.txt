@@ -1,0 +1,8 @@
+org aspectj asm
+author mik kersten
+hierarchi walker hierarchywalk
+program element iprogramel process program element iprogramel node
+pre process preprocess node
+node walk
+post process postprocess node
+node

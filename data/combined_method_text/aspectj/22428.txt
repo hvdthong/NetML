@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+pattern parser patternpars
+signatur pattern signaturepattern pars constructor signatur pattern parseconstructorsignaturepattern
+signatur pattern signaturepattern ret pars method constructor signatur pattern parsemethodorconstructorsignaturepattern
+ret kind getkind member constructor ret
+parser except parserexcept constructor pattern requir found method pattern
+ret

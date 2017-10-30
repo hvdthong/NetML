@@ -1,0 +1,51 @@
+param dimens data
+version revis date
+comput statist stream tupl construct
+version revis date dim févr
+impl meanimpl storeless univari statist storelessunivariatestatist
+min impl minimpl storeless univari statist storelessunivariatestatist
+input tupl code add addvalu code call
+min impl minimpl min
+link add addvalu add tupl code xxx getxxx code
+statist data rang consist element
+code sum getsum code element arrai valu
+org apach common math stat descript
+comput
+geo impl geomeanimpl storeless univari statist storelessunivariatestatist
+paramet method implement
+method xxx statist arrai code code
+call link set impl setmeanimpl storeless univari statist storelessunivariatestatist actual
+memori comput statist larg
+tupl stream
+comput summari statist stream tupl ad
+version
+sum impl sumimpl sum
+link storeless univari statist storelessunivariatestatist configur
+note thread safe
+common math provid implement
+max impl maximpl max
+sum log impl sumlogimpl storeless univari statist storelessunivariatestatist
+multivari statist multivariatestatist instanc dimens
+sum log impl sumlogimpl sum log sumoflog
+implement overridden
+max impl maximpl storeless univari statist storelessunivariatestatist
+covari comput bias popul covari
+construct multivari summari statist multivariatesummarystatist instanc
+covari impl covarianceimpl
+complet code add addvalu code call configur
+link storeless univari statist storelessunivariatestatist instanc maintain
+sum impl sumimpl storeless univari statist storelessunivariatestatist
+multivari summari statist multivariatesummarystatist
+link add addvalu add addvalu method data valu store
+summari state comput statist configur setter
+impl meanimpl
+sum impl sumsqimpl sum squar sumofsquar
+vectori covari vectorialcovari covari bia correct iscovariancebiascorrect
+valu code code arrai element
+geo impl geomeanimpl geometr geometricmean
+multivari summari statist multivariatesummarystatist covari bia correct iscovariancebiascorrect
+actual paramet
+param covari bia correct iscovariancebiascorrect unbias sampl
+sum impl sumsqimpl storeless univari statist storelessunivariatestatist
+link synchron multivari summari statist synchronizedmultivariatesummarystatist concurr access multipl
+thread requir

@@ -1,0 +1,33 @@
+org aspectj apach bcel gener annot
+simpl element gen simpleelementvaluegen element gen elementvaluegen
+string stringifi stringifyvalu
+type
+primit int primit int
+constant integ constantinteg constant integ constantinteg gen cpgen constant getconst idx
+integ string tostr byte getbyt
+primit long primit long
+constant long constantlong constant long constantlong gen cpgen constant getconst idx
+long string tostr byte getbyt
+primit doubl primit doubl
+constant doubl constantdoubl constant doubl constantdoubl gen cpgen constant getconst idx
+doubl string tostr byte getbyt
+primit float primit float
+constant float constantfloat constant float constantfloat gen cpgen constant getconst idx
+float string tostr byte getbyt
+primit short primit short
+constant integ constantinteg constant integ constantinteg gen cpgen constant getconst idx
+integ string tostr byte getbyt
+primit byte primit byte
+constant integ constantinteg constant integ constantinteg gen cpgen constant getconst idx
+integ string tostr byte getbyt
+primit char primit char
+constant integ constantinteg constant integ constantinteg gen cpgen constant getconst idx
+integ string tostr byte getbyt
+primit boolean primit boolean
+constant integ constantinteg constant integ constantinteg gen cpgen constant getconst idx
+byte getbyt fals
+byte getbyt true
+string
+constant utf8 constantutf8 cu8 constant utf8 constantutf8 gen cpgen constant getconst idx
+cu8 byte getbyt
+runtim except runtimeexcept simpleelementvaluegen class stringifi type type

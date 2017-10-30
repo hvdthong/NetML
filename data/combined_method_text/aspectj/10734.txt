@@ -1,0 +1,9 @@
+org aspectj ajd swing
+author mik kersten
+browser view browserview panel jpanel
+config combo box action perform config combobox actionperform action event actionev
+config combo box config combobox select item getselecteditem
+config combo box config combobox select item getselecteditem string tostr equal select config lastselectedconfig
+topmanag instanc view manag readstructureview
+select config lastselectedconfig config combo box config combobox select item getselecteditem string tostr
+ajd default getdefault build config manag getbuildconfigmanag set activ config file setactiveconfigfil select config lastselectedconfig

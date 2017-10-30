@@ -1,0 +1,20 @@
+org apach lucen search
+constrain search result match match provid
+queri
+link termrangequeri suitabl
+format date field implement date filter singl
+queryfilt match document modifi
+week queryfilt termrangequeri reconstruct
+dai
+queri wrapper filter querywrapperfilt filter
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+privat context rewrit createweight score eventu
+reader context readercontext privat context privatecontext context reader top reader context gettopreadercontext
+weight weight queri weight index searcher indexsearch privat context privatecontext
+doc set docidset
+overrid
+doc set iter docidsetiter iter except ioexcept
+weight scorer privat context privatecontext
+overrid
+cacheabl iscach

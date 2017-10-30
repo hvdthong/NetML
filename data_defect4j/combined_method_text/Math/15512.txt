@@ -1,0 +1,9 @@
+deprec remov
+base abstract univari optim baseabstractunivariateoptim
+version
+optim
+inherit doc inheritdoc
+org apach common math3 optim univari
+checker
+provid implement function gener
+converg checker convergencecheck univari point pair univariatepointvaluepair converg checker getconvergencecheck

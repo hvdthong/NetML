@@ -1,0 +1,64 @@
+link homoscedast test homoscedasticttest
+href http www itl nist gov div898 handbook prc section3 prc31 htm
+side side
+statist degre freedom approxim
+input test code code arrai
+homoscedast equal varianc assumpt heteroscedast
+alpha
+rang except outofrangeexcept code alpha code rang
+code sampl code
+href http www basic nwu statguidefil ttest unpair ass viol html
+strong usag note strong
+test side hypothesi code code
+test method code code valu method valu
+sampl test
+number small except numberistoosmallexcept length arrai
+equal reject confid code alpha code
+common math link org apach common math3 distribut distribut tdistribut
+sampl sampl
+perform
+strong precondit strong
+null argument except nullargumentexcept arrai code code
+rang except outofrangeexcept max count exceed except maxcountexceededexcept
+perform side test code alpha code
+version
+test statist test method includ test
+test
+name perform test method statist
+code sample2 code drawn popul
+org apach common math3 stat infer
+code test ttest sample1 sample2 code
+param sample2 arrai sampl data valu
+test level code alpha code
+signific level number
+code alpha code
+equal varianc
+signific level code alpha code test assum
+test ttest sample1 sample2 alpha
+hypothesi reject
+test ttest
+valid test depend assumpt parametr
+fix signific level valu return valu
+code code valu method perform fix signific level test
+subpopul varianc equal perform test assum
+pair unpair sampl test
+href http www itl nist gov div898 handbook eda section3 eda353 htm
+observ arrai length
+implement student' test
+check signific level checksignificancelevel alpha
+level
+param alpha signific level test
+strong exampl strong
+test ttest sample1 sample2
+welch satterthwait approxim
+implement estim exact valu
+confid alpha
+return code code iff hypothesi mean
+max count exceed except maxcountexceededexcept error occur comput
+link statist summari statisticalsummari instanc
+test procedur discuss
+param sample1 arrai sampl data valu
+link formula comput
+null argument except nullargumentexcept number small except numberistoosmallexcept
+level verifi measur code sampl code
+side test evalu hypothesi code sample1 code

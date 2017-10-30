@@ -1,0 +1,10 @@
+org aspectj weaver
+author colyer
+client implement iclassfileprovid set class file
+control woven weaver call weav iclassfileprovid sourc method
+contract call getrequestor acceptresult provid result
+class file recent return getclassfileiter
+class file provid iclassfileprovid
+return true weaver intern mung need
+aspectj aspectof method creation
+appli aspect munger isapplyataspectjmungersonli

@@ -1,0 +1,12 @@
+param beta scale paramet
+gamma distribut impl gammadistributionimpl alpha beta
+gamma distribut impl gammadistributionimpl abstract continu distribut abstractcontinuousdistribut
+set beta setbeta beta
+creat gamma distribut alpha beta valu
+version
+version revis date
+param alpha shape paramet
+org apach common math distribut
+set alpha setalpha alpha
+implement link gamma distribut gammadistribut
+alpha beta default invers absolut accuraci

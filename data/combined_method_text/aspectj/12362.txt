@@ -1,0 +1,17 @@
+org aspectj apach bcel classfil
+class deriv attribut repres constant
+default initi class field
+class instanti attribut readattribut method
+version constantvalu java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+constant constantvalu attribut
+construct object file stream
+param index index constant pool
+param length content length byte
+param file input stream
+param constant pool arrai constant
+throw ioexcept
+constant constantvalu index length data input stream datainputstream file
+constant pool constantpool constant pool except ioexcept
+index length file read unsign short readunsignedshort constant pool

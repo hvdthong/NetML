@@ -1,0 +1,31 @@
+author stephen colebourn
+append appendto buffer calendar field mfield
+version
+simpl date format simpledateformat time zone
+inherit doc inheritdoc
+java introduc pattern letter code 'z' code repres
+addit pattern code zz' 'zz' code made repres
+fast date format fastdateformat fast thread safe version
+format support pattern compat
+author brian neill o'neil
+author tea trove teatrov project
+append appendto string buffer stringbuff buffer calendar calendar
+author gari gregori
+org apach common lang time
+link java text simpl date format simpledateformat
+code simpl date format simpledateformat code thread safe jdk version
+code simpl date format simpledateformat code format situat
+sun close bug rfe
+pattern letter jdk version
+function
+multi thread server environ
+introduc minor incompat java gain
+append appendto string buffer stringbuff buffer
+fast date format fastdateformat format
+author sean schofield
+direct replac
+iso8601 full format time zone code code code code
+buffer append '0'
+buffer append integ string tostr
+time zone rfc822 format code code code code
+author nikolai metchev

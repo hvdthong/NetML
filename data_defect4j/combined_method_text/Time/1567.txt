@@ -1,0 +1,20 @@
+definit simpli inherit code compar
+approach preserv binari compat
+method applic defin code readabl instant readableinst code
+author stephen colebourn
+string string tostr
+defin instant datetim continuum
+access retriev data chang
+readabl instant readableinst compar readabl instant readableinst
+express datetim millisecond t00 01t00 00z
+specif datetim field
+implementor recommend extend code abstract instant abstractinst
+org joda time
+iso8601 string
+string recognis iso8601 format
+constructor correctli pars
+paramet method read instant need
+definit comparison ascend order millisecond instant
+code compar compareto method longer defin version
+implement mutabl immut
+string output iso8601 format enabl string

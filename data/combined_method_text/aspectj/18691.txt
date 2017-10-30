@@ -1,0 +1,4 @@
+org aspectj weaver
+checker shadow munger shadowmung
+checker pointcut start end sourc context isourcecontext context
+start end context

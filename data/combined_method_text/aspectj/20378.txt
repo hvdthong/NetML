@@ -1,0 +1,38 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+appli set declar field construct list declareannot bunch
+itdfield list bceltypemung iter field repeatedli
+appli
+weav field repeatedli weaveatfieldrepeatedli list deca decaf list itd field itdfield list report error reportederror
+chang ischang
+iter iter itd field itdfield iter iter hasnext
+bcel type munger bceltypemung field munger fieldmung bcel type munger bceltypemung iter
+resolv member resolvedmemb itd itdisactu field munger fieldmung signatur getsignatur
+list worth retri worthretri arrai list arraylist
+modif occur modificationoccur
+iter iter2 deca decaf iter iter2 hasnext
+declar annot declareannot deca decaf declar annot declareannot iter2
+deca decaf match itd itdisactu world
+lazi method gen lazymethodgen annot holder annotationhold locat annot holder field munger locateannotationholderforfieldmung clazz field munger fieldmung
+annot doesalreadyhaveannot annot holder annotationhold itd itdisactu deca decaf report error reportederror doesalreadyhaveannot annotationhold itdisactu decaf reportederror continu skip
+annot holder annotationhold add annot addannot deca decaf annot getannotationx
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decaf sourc locat getsourceloc itd itdisactu sourc locat getsourceloc
+chang ischang
+modif occur modificationoccur
+deca decaf star annot pattern isstarredannotationpattern
+worth retri worthretri add deca decaf worthretri add decaf annot put subsequ decaf
+worth retri worthretri empti isempti modif occur modificationoccur
+modif occur modificationoccur
+list remov forremov arrai list arraylist
+iter iter2 worth retri worthretri iter iter2 hasnext
+declar annot declareannot deca decaf declar annot declareannot iter2
+deca decaf match itd itdisactu world
+lazi method gen lazymethodgen annot holder annotationhold locat annot holder field munger locateannotationholderforfieldmung clazz field munger fieldmung
+annot doesalreadyhaveannot annot holder annotationhold itd itdisactu deca decaf report error reportederror doesalreadyhaveannot annotationhold itdisactu decaf reportederror continu skip
+annot holder annotationhold add annot addannot deca decaf annot getannotationx
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decaf sourc locat getsourceloc itd itdisactu sourc locat getsourceloc
+chang ischang
+modif occur modificationoccur
+remov forremov add deca decaf
+worth retri worthretri remov removeal remov forremov
+chang ischang

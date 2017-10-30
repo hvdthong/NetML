@@ -1,0 +1,58 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+type bind typebind make type binding1 maketypebinding1 unresolv type unresolvedtyp type typex
+type typex primit type isprimitivetyp
+type typex resolv type resolvedtyp boolean type bind typebind boolean
+type typex resolv type resolvedtyp byte type bind typebind byte
+type typex resolv type resolvedtyp char type bind typebind char
+type typex resolv type resolvedtyp doubl type bind typebind doubl
+type typex resolv type resolvedtyp float type bind typebind float
+type typex resolv type resolvedtyp int type bind typebind int
+type typex resolv type resolvedtyp long type bind typebind long
+type typex resolv type resolvedtyp short type bind typebind short
+type typex resolv type resolvedtyp void type bind typebind void
+runtim except runtimeexcept weird primit type type typex
+type typex arrai isarrai
+dim
+type typex arrai isarrai
+dim
+type typex type typex compon type getcomponenttyp
+lookup environ lookupenviron creat arrai type createarraytyp make type bind maketypebind type typex dim
+type typex parameter type isparameterizedtyp
+convert back bind unresolvedtyp
+unresolv type unresolvedtyp type paramet typeparamet type typex type paramet gettypeparamet
+refer bind referencebind base type bind basetypebind lookup bind lookupbind type typex base getbasenam
+type bind typebind argument bind argumentbind type bind typebind type paramet typeparamet length
+base type parameter type basetypeforparameterizedtyp base type bind basetypebind
+argument bind argumentbind length
+index type paramet convert indexoftypeparameterbeingconvert
+argument bind argumentbind make type bind maketypebind type paramet typeparamet
+index type paramet convert indexoftypeparameterbeingconvert
+base type parameter type basetypeforparameterizedtyp
+parameter type bind parameterizedtypebind ptb
+lookup environ lookupenviron creat parameter type createparameterizedtyp base type bind basetypebind argument bind argumentbind base type bind basetypebind enclos type enclosingtyp
+ptb
+type typex type variabl refer istypevariablerefer
+return maketypevariablebind typevariablerefer typex
+make type variabl bind type variabl maketypevariablebindingfromajtypevari type variabl refer typevariablerefer type typex type variabl gettypevari
+type typex raw type israwtyp
+refer bind referencebind base type bind basetypebind lookup bind lookupbind type typex base getbasenam
+raw type bind rawtypebind rtb lookup environ lookupenviron creat raw type createrawtyp base type bind basetypebind base type bind basetypebind enclos type enclosingtyp
+rtb
+type typex gener wildcard isgenericwildcard
+translat boundedreferencetyp wildcardbind
+bound refer type boundedreferencetyp brt bound refer type boundedreferencetyp type typex
+work 'kind' wildcardbind
+boundkind wildcard unbound
+type bind typebind bound
+brt extend isextend
+boundkind wildcard extend
+bound make type bind maketypebind brt upper bound getupperbound
+brt super issup
+boundkind wildcard super
+bound make type bind maketypebind brt lower bound getlowerbound
+type bind typebind bound otherbound
+brt addit bound getadditionalbound brt addit bound getadditionalbound length bound otherbound make type bind maketypebind brt addit bound getadditionalbound
+wildcard bind wildcardbind lookup environ lookupenviron creat wildcard createwildcard base type parameter type basetypeforparameterizedtyp index type paramet convert indexoftypeparameterbeingconvert bound bound otherbound boundkind
+lookup bind lookupbind type typex getnam

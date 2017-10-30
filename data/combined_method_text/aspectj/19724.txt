@@ -1,0 +1,19 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+member hierarchi match amemb method
+differ lookupmemb member take account paramet
+type variabl unresolv member
+type variabl
+resolv member resolvedmemb lookup resolv member lookupresolvedmemb resolv member resolvedmemb member amemb miss allowmiss
+iter search tosearch
+resolv member resolvedmemb found
+member amemb kind getkind member method member amemb kind getkind member constructor
+search tosearch method iter getmethodswithoutiter miss allowmiss iter
+member amemb kind getkind member field
+illeg state except illegalstateexcept member kind member amemb kind getkind
+search tosearch field getfield
+search tosearch hasnext
+resolv member impl resolvedmemberimpl candid resolv member impl resolvedmemberimpl search tosearch
+candid match member amemb
+found candid
+found

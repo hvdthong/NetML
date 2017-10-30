@@ -1,0 +1,63 @@
+Targets with identical name work in imported project
+Hi,
+
+here is a real hidden feature of ant which I like quite well :). Consider the
+following  build file:
+
+build.xml:
+
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<project name="test" default="test-id">
+	<target name="test-id" id="case1" if="property">
+		<echo>Property is set.</echo>
+	</target>
+	<target name="test-id" id="case2" unless="property">
+		<echo>Property is not set.</echo>
+	</target>
+</project>
+
+This fails (as expected):
+
+C:\workspace\Utilitiy Project>ant
+Buildfile: build.xml
+
+BUILD FAILED
+C:\workspace\Utilitiy Project\build.xml:6: Duplicate target 'test-id'
+
+Total time: 0 seconds
+
+But consider the following use of an import Statement:
+
+build.xml:
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<project name="test" default="test-id">
+	<import file="test.xml" />
+</project>
+
+test.xml:
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<project default="test-id">
+	<target name="test-id" id="case1" if="property">
+		<echo>Property is set.</echo>
+	</target>
+	<target name="test-id" id="case2" unless="property">
+		<echo>Property is not set.</echo>
+	</target>
+</project>
+
+This should fail as well? Surprise! It works. Output of ant:
+
+C:\workspace\Utilitiy Project>ant
+Buildfile: build.xml
+
+test-id:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+I do not know whether this behavior should be considered as a bug - I like it.
+Could the differentiation of targets by ID instead of names be implemented. It
+would save the use of a dummy target which depends on the two or more case-tags.
+
+Regards,
+Jens

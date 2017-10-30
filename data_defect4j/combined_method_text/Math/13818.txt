@@ -1,0 +1,17 @@
+jira
+open map real vector openmaprealvector spars real vector sparserealvector
+org apach common math3 linear
+inherit doc inheritdoc
+check vector dimens checkvectordimens dimens getdimens
+link open int doubl hash map openinttodoublehashmap back store
+open map real vector openmaprealvector
+remov version
+href http issu apach org jira brows math ticket
+link real vector realvector
+overrid
+version
+dimens mismatch except dimensionmismatchexcept
+real vector realvector subtract real vector realvector
+deprec version deprec reason expos
+subtract
+subtract open map real vector openmaprealvector

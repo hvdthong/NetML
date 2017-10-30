@@ -1,0 +1,26 @@
+interfac defin field valu matrix basic algebra oper
+param matrix row matrix row number column
+row matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+org apach common math except rang except outofrangeexcept
+matrix dimens mismatch except matrixdimensionmismatchexcept
+set entri row number code row code
+org apach common math linear
+instanc
+param matrix row matrix row number
+version revis date
+param row row set
+row matrix row indic start
+invalid matrix except invalidmatrixexcept matrix dimens match
+param type field element
+instanc row
+matrix element index base code entri getentri code
+row index invalid
+matrix index except matrixindexexcept invalid matrix except invalidmatrixexcept
+org apach common math except matrix dimens mismatch except matrixdimensionmismatchexcept
+matrix index except matrixindexexcept row index invalid
+column instanc
+set row matrix setrowmatrix row field matrix fieldmatrix matrix
+return element row column matrix
+set entri row number code row
+matrix dimens match instanc row

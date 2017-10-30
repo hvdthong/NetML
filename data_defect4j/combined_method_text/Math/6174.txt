@@ -1,0 +1,18 @@
+version dormand prince54 step interpol dormandprince54stepinterpol java 39z luc
+param refer integr arrai hold state
+reiniti order differenti equat firstorderdifferentialequ equat
+param dot ydotk refer integr arrai hold
+end step
+param forward integr direct indic
+reiniti equat dot ydotk forward
+param equat set differenti equat integr
+dormand prince54 step interpol dormandprince54stepinterpol
+repres interpol step
+intermedi slope
+vector initi vectorsiniti
+version revis date
+org apach common math od
+od integr dormand princ integr
+dormand prince54 integr dormandprince54integr
+reiniti instanc
+dot ydotk forward

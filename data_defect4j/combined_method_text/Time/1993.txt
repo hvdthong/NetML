@@ -1,0 +1,18 @@
+author stephen colebourn
+abstract period abstractperiod common behaviour period class
+iso period format isoperiodformat standard print
+kind period referenc
+abstract period abstractperiod readabl period readableperiod
+string string tostr
+link readabl period readableperiod
+string iso8601 durat format
+link org joda time format period formatt builder periodformatterbuild period formatt builder periodformatterbuild
+control output
+pt6 pt6h3m7 repres hour minut second
+iso8601 string
+org joda time base
+author brian neill o'neil
+gener directli api user
+abstract period abstractperiod subclass mutabl thread safe
+p6h3m7 repres hour minut second
+string tostr

@@ -1,0 +1,19 @@
+goal goal type goaltyp minim
+param goal goal type
+compar univari real point pair univariaterealpointvaluepair
+param func type object function optim
+arrai sort optima compar univari real point pair univariaterealpointvaluepair
+version
+turn start point order avoid trap
+multi start univari real optim multistartunivariaterealoptim func univari real function univariaterealfunct
+wrap classic optim time
+org apach common math optim univari
+getvalu
+special implement link univari real optim univariaterealoptim
+sort optima worst code element
+univari real point pair univariaterealpointvaluepair
+local extremum global
+version revis date
+sort pair sortpair goal type goaltyp goal
+ad multi start featur exist optim
+doubl compar doubl compar

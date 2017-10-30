@@ -1,0 +1,17 @@
+construct solver
+param rel accuraci relativeaccuraci rel accuraci
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+refer ridder algorithm comput singl root
+version revis date
+system
+ridder solver ridderssolv univari real solver impl univariaterealsolverimpl
+ridder solver ridderssolv abstract univari real solver abstractunivariaterealsolv
+ridder solver ridderssolv rel accuraci relativeaccuraci
+function continu necessarili smooth
+implement href http mathworld wolfram ridder method riddersmethod html
+absolut accuraci absoluteaccuraci
+ridders' method root find real univari function
+param absolut accuraci absoluteaccuraci absolut accuraci
+real continu function ieee transact circuit
+org apach common math analysi solver
+ridder solver ridderssolv

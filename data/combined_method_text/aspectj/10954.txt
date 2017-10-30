@@ -1,0 +1,106 @@
+org aspectj ajdt intern compil
+adapt standard jdt compil add aspectj specif behaviour
+version implement pipelin file compil
+woven immedi unlik ajcompileradapt compil
+weav small note aspect
+weav place weav pipelin 'stalled'
+aspect compil
+basic strategi
+diet pars input sourc file
+implement itd match
+enabl determin aspect
+sort input file aspect
+note file aspect
+aspect mark pipelin 'stalled'
+repeat
+compil file
+compil aspect
+put file weav pend queue
+unstal 'pipeline'
+pipelin stall
+weav pend file
+complex aris
+xterminateaftercompil stage
+compil woven
+compil loop differ pipelin
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajlookupenviron completetypebind
+ajlookupenviron completetypebind
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+bcelweav prepareforweav
+bcelweav prepareforweav
+woven class classon temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+woven class classtwo temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+compil weav mix
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+finish diet pars temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajlookupenviron completetypebind
+ajlookupenviron completetypebind
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+ajcompileradapt weav
+bcelweav prepareforweav
+bcelweav prepareforweav
+woven class classon temp ajcsandbox aspectjhead ajctest23160 tmp classon java
+ajcompileradapt weav
+compil temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+compil process temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+woven class classtwo temp ajcsandbox aspectjhead ajctest23160 tmp classtwo java
+ajcompileradapt weav
+pipelin compil adapt ajpipeliningcompileradapt abstract compil adapt abstractcompileradapt
+pipelin compil system ensur aspect pipelin
+static dynam crosscut
+proce weav effect weav part pipelin stall
+aspect fulli compil method sort compil unit
+aspect fulli compil note long stall pipelin
+commenc weav
+diet pars afterdietpars compil unit declar compilationunitdeclar unit
+debug pipelin debugpipelin system err println afterdietpars unit unit length unit sort
+report error reportederror unit
+unit length
+unit unit compil result compilationresult unit compil result compilationresult error haserror
+report error reportederror
+break todo break exit
+break unit list
+list aspect arrai list arraylist
+list nonaspect arrai list arraylist
+unit length
+aspect containsanaspect unit aspect add unit nonaspect add unit
+unit unit null return
+put back aspect
+posn
+iter iter aspect iter iter hasnext
+unit posn compil unit declar compilationunitdeclar iter
+iter iter nonaspect iter iter hasnext
+unit posn compil unit declar compilationunitdeclar iter
+work long stall pipelin
+wait towaitfor aspect size
+debug pipelin debugpipelin system err println afterdietpars stall pipelin wait towaitfor sourc file
+test
+pipelin test pipelinetest
+pipelin output pipelineoutput pipelin output pipelineoutput hashtabl
+pipelin output pipelineoutput put filescontainingaspect integ wait towaitfor string tostr
+string buffer stringbuff order string buffer stringbuff
+order append
+unit length
+order append
+compil unit declar compilationunitdeclar declar unit
+string filenam string declar file getfilenam
+idx filenam index lastindexof
+idx filenam filenam substr idx
+idx filenam index lastindexof
+idx filenam filenam substr idx
+order append filenam
+order append
+pipelin output pipelineoutput put weaveord order string tostr

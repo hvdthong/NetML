@@ -1,0 +1,7 @@
+org aspectj ajd core
+interfac present user inform
+progress build
+build progress monitor ibuildprogressmonitor
+set current progress
+param percentdon
+set progress setprogress percent percentdon

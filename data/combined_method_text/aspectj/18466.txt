@@ -1,0 +1,15 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+intertyp method requir bridg method alongsid method somei
+put interfac 'interfac extend number concret implement 'class implement float
+itd interfac 'number itd 'topmostimplementor'
+'float bridg method creat topmostimplementor 'number deleg 'float
+resolv member resolvedmemb bridger inter method bridgertointermethod resolv member resolvedmemb meth unresolv type unresolvedtyp aspect type aspecttyp
+modifi make public final makepublicnonfin meth modifi getmodifi
+resolv member impl resolvedmemberimpl rmi resolv member impl resolvedmemberimpl member method aspect type aspecttyp
+modifi
+meth return type getreturntyp
+mangler namemangl inter method intermethod meth modifi getmodifi aspect type aspecttyp meth declar type getdeclaringtyp meth getnam
+meth paramet type getparametertyp meth except getexcept
+rmi set type variabl settypevari meth type variabl gettypevari
+rmi

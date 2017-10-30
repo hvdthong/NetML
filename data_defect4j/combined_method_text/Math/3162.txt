@@ -1,0 +1,8 @@
+overrid
+org apach common math geometri euclidean threed
+version
+inherit doc inheritdoc
+polyhedron set polyhedronsset tree
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron
+polyhedron set polyhedronsset build buildnew bsp tree bsptree euclidean3 euclidean3d tree

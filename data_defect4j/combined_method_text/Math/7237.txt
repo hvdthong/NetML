@@ -1,0 +1,25 @@
+simpl implement link converg checker convergencecheck
+order perform rel check absolut toler
+rel threshold relativethreshold rel threshold relativethreshold
+param rel threshold relativethreshold rel toler threshold
+check rel toler set neg
+absolut threshold absolutethreshold absolut threshold absolutethreshold
+function valu smaller threshold
+set neg order perform absolut
+version revis date
+simpl scalar checker simplescalarvaluecheck real converg checker realconvergencecheck
+object function valu
+rel threshold relativethreshold absolut threshold absolutethreshold
+param absolut threshold absolutethreshold absolut toler threshold
+simpl implement link real converg checker realconvergencecheck
+build instanc threshold
+converg consid reach rel
+simpl scalar checker simplescalarvaluecheck rel threshold relativethreshold
+threshold absolut differ object
+simpl scalar checker simplescalarvaluecheck
+absolut threshold absolutethreshold default absolut threshold
+rel threshold relativethreshold default rel threshold
+org apach common math optim
+absolut threshold absolutethreshold
+differ object function valu smaller
+simpl scalar checker simplescalarvaluecheck real converg checker realconvergencecheck serializ

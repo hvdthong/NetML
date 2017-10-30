@@ -1,0 +1,4 @@
+org aspectj weaver
+shadow
+shadow arrai construct joinpoint isshadowforarrayconstructionjoinpoint
+kind getkind constructor call constructorcal signatur declar type getdeclaringtyp arrai isarrai

@@ -1,0 +1,45 @@
+ant task multiple targets
+ant task multiple targets
+multiple targets command line kicking ant
+made ant java release
+additional logic cut pasted target javas
+code parsing depends attribute error checking
+
+start diff
+256a257
+vector targets vector
+stringtokenizer tok
+stringtokenizer target true
+tok hasmoretokens
+string token tok nexttoken trim
+
+make target empty string
+token equals token equals
+continue
+
+targets addelement token
+
+make target attribute
+end
+tok hasmoretokens
+token tok nexttoken
+tok hasmoretokens token equals
+throw buildexception syntax error target
+attribute
+task gettaskname
+
+ends
+character
+
+
+
+
+261c285
+target equals getowningtarget getname
+
+targets getowningtarget getname
+266c290
+newproject executetarget target
+
+newproject executetargets targets
+end diff

@@ -1,0 +1,17 @@
+org aspectj ajd swing
+ensur sourc line seek repeatedli attempt
+seek line succeed
+author mik kersten
+line thread gotolinethread thread
+run
+string file editor adapt editoradapt curr file getcurrfil
+file
+file equal file seek filetoseekto
+swing util swingutil invok wait invokeandwait runnabl
+run
+editor adapt editoradapt show sourc line showsourcelin line number linenumb
+except
+messag msg messag seek line messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+finish
+short paus shortpaus

@@ -1,0 +1,42 @@
+org aspectj tool ajbrows swing
+standalon oper
+author mik kersten
+top frame topfram frame jframe
+init multi structur view panel multistructureviewpanel multi view panel multiviewpanel
+messag handler panel messagehandlerpanel compil messag panel compilermessagespanel panel jpanel editor panel editorpanel
+multi view panel multiview panel multi view panel multiviewpanel
+messag panel compil messag panel compilermessagespanel
+editor panel editor panel editorpanel
+sourc editor panel sourceeditor panel editor panel editorpanel
+init jbinit
+properti menu item svproperti menuitem set icon seticon ajd default getdefault
+icon registri geticonregistri browser option icon getbrowseroptionsicon
+project build menu item projectbuild menuitem set icon seticon ajd default getdefault
+icon registri geticonregistri build icon getbuildicon
+project run menu item projectrun menuitem set icon seticon ajd default getdefault
+icon registri geticonregistri execut icon getexecuteicon
+project run menu item projectrunoth menuitem set icon seticon ajd default getdefault
+icon registri geticonregistri execut icon getexecuteicon
+project debug menu item projectdebug menuitem set icon seticon ajd default getdefault
+icon registri geticonregistri debug icon getdebugicon
+set menu bar setjmenubar menu bar menubar
+set icon imag seticonimag imag icon imageicon ajd default getdefault
+icon registri geticonregistri structur swing icon getstructureswingicon
+program element iprogramel kind advic imag getimag
+set locat setloc
+set size setsiz
+set titl settitl browser manag browsermanag titl
+bindkei
+fix button border fixbuttonbord
+messag panel set visibl setvis
+popup menu jpopupmenu order menu ordermenu build config popup menu buildconfigpopupmenu
+abstract action abstractact
+serial version uid serialversionuid
+action perform actionperform action event actionev arg0
+browser manag browsermanag default getdefault save saveal
+build combo buildcombo button menu combo ajbuttonmenucombo build build ajd
+default getdefault icon registri geticonregistri build icon getbuildicon order menu ordermenu
+build tool bar build toolbar add build combo buildcombo
+refresh build menu refreshbuildmenu
+except
+print stack trace printstacktrac

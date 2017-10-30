@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil lookup
+helper interfac bind helperinterfacebind sourc type bind sourcetypebind
+helper interfac bind helperinterfacebind sourc type bind sourcetypebind enclos type enclosingtyp unresolv type unresolvedtyp type typex
+packag fpackag enclos type enclosingtyp packag fpackag
+filenam scope referencecompilationunit getfilenam
+modifi class file constant classfileconst acc public accpubl class file constant classfileconst acc interfac accinterfac class file constant classfileconst acc abstract accabstract
+sourc sourcenam enclos type enclosingtyp scope refer context referencecontext
+enclos type enclosingtyp enclos type enclosingtyp
+type typex type typex
+type variabl typevari bind type variabl type variabl
+scope enclos type enclosingtyp scope
+super interfac superinterfac refer bind referencebind

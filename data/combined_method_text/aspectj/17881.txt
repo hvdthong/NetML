@@ -1,0 +1,30 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+throw buildexcept option conflict
+verifi option verifyopt
+string buffer stringbuff string buffer stringbuff
+fork increment mode isinincrementalmod increment file mode isinincrementalfilemod
+append fork increment tag file
+inpath dir copi filter inpathdircopyfilt sourc root copi filter sourcerootcopyfilt
+outjar default destdir default destdir dest dir destdir
+string req requir dest dir output jar
+inpath dir copi filter inpathdircopyfilt
+append sourcerootcopyfilt
+sourc root copi filter sourcerootcopyfilt
+append inpathdircopyfilt
+append sourcerootcopyfilt inpathdircopyfilt
+append req
+length
+build except buildexcept string tostr

@@ -1,0 +1,19 @@
+oper
+row sum
+col ncol
+method implement link entri getentri access
+org apach common math3 linear
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+length col ncol
+sum entri getentri row
+sum
+version
+dimens mismatch except dimensionmismatchexcept
+abstract real matrix abstractrealmatrix
+row nrow
+basic implement real matrix realmatrix method underli storag
+row row row nrow row
+col ncol column dimens getcolumndimens
+dimens mismatch except dimensionmismatchexcept length col ncol
+row nrow row dimens getrowdimens

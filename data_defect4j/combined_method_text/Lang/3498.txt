@@ -1,0 +1,130 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+str substr str length remov length
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+safe substr extract
+string util stringutil remov end ignor case removeendignorecas www domain www domain
+check string text
+abbrevi string ellipsi
+code code string input
+index set string
+compar string report differ
+substr extract rel string
+string
+return sourc string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+code code safe
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+code code search string sourc string
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+split join
+param str sourc string search
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+string util stringutil remov end removeend www domain domain www domain
+start startswith
+prepend prefix start string present
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+code search string sourc string
+compar string safe
+code string util stringutil code
+symbol code input includ code
+org apach common lang3
+string util stringutil remov end removeend
+param remov string search insensit remov
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+author holger krauth
+code input code
+code code
+code safe
+containsonli containsnon containsani
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+end ignor case endswithignorecas str remov
+substr substringbefor substr substringaft substr substringbetween
+string remov end ignor case removeendignorecas string str string remov
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+string util stringutil remov end removeend www domain www domain
+code string util stringutil handl code input string quietli
+substr string remov found
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+code sourc string code
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+author href mailto jon latchkei jon steven
+empti isempti blank isblank
+code code input code code
+string util stringutil remov end ignor case removeendignorecas
+code null pointer except nullpointerexcept code consid bug
+code code sourc string code code
+space space charact code
+remov part string
+str
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+equal
+code null pointer except nullpointerexcept consid bug
+code string input
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+empti isempti str empti isempti remov
+author gari gregori
+safe index check
+code string util stringutil
+case insensit remov substr end sourc string
+string util stringutil remov end removeend abc abc
+string util stringutil
+thread safe threadsaf
+empti sourc string empti string
+check charact string
+string util stringutil remov end ignor case removeendignorecas www domain domain www domain
+append miss appendifmiss
+prepend miss prependifmiss
+string util stringutil remov end ignor case removeendignorecas abc abc
+symbol code code input includ code code

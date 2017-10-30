@@ -1,0 +1,60 @@
+author stephen colebourn
+field centuri era centuryofera divid date time field divideddatetimefield
+field year era yearofera year era date time field gjyearoferadatetimefield field year
+creat datetim field
+field second second field csecondsfield
+field hour halfdai hourofhalfdai hour halfdai field chourofhalfdayfield
+field hour hour field choursfield
+field date time field type datetimefieldtyp centuri era centuryofera
+field dai secondofdai dai field csecondofdayfield
+field dai year dayofyear basic dai year date time field basicdayofyeardatetimefield field dai
+field clockhour halfdai clockhourofhalfdai clockhour halfdai field cclockhourofhalfdayfield
+copi field gregorian julian
+field year basic year date time field basicyeardatetimefield
+author brian neill o'neil
+field year era yearofera
+field week week field cweeksfield
+field date time field type datetimefieldtyp year centuri yearofcenturi
+field era era date time field gjeradatetimefield
+reflect intent defin
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+field milli dai millisofdai milli dai field cmillisofdayfield
+field month year monthofyear month year date time field gjmonthofyeardatetimefield
+field minut minut field cminutesfield
+abstract implement calendar system typic
+field dai month dayofmonth basic dai month date time field basicdayofmonthdatetimefield field dai
+field minut secondofminut minut field csecondofminutefield
+date time field datetimefield field offset date time field offsetdatetimefield
+field halfdai halfdai field chalfdaysfield
+basic chronolog basicchronolog thread safe immut subclass
+dai month year leap year leapyear model
+field dai dai field cdaysfield
+field remaind date time field remainderdatetimefield
+field weekyear field weekyear durat field getdurationfield
+field dai week dayofweek dai week date time field gjdayofweekdatetimefield field dai
+defin base centuri era centuryofera year centuri yearofcenturi
+field minut dai minuteofdai minut dai field cminuteofdayfield
+org joda time chrono
+field milli milli field cmillisfield
+field clockhour dai clockhourofdai clockhour dai field cclockhourofdayfield
+remain imprecis durat newli
+field month field month year monthofyear durat field getdurationfield
+field date time field type datetimefieldtyp weekyear centuri weekyearofcenturi
+field centuri field centuri era centuryofera durat field getdurationfield
+field year centuri yearofcenturi offset date time field offsetdatetimefield
+field weekyear basic weekyear date time field basicweekyeardatetimefield
+field milli millisofsecond milli field cmillisofsecondfield
+field weekyear date time field type datetimefieldtyp weekyear centuri weekyearofcenturi
+divid date time field divideddatetimefield field centuri era centuryofera
+field weekyear centuri weekyearofcenturi offset date time field offsetdatetimefield
+field year field year durat field getdurationfield
+creat field uniqu behavior gregorian julian
+field minut hour minuteofhour minut hour field cminuteofhourfield
+chronolog
+field halfdai dai halfdayofdai halfdai dai field chalfdayofdayfield
+assembl field field
+author gui allard
+renam base chronolog basegjchronolog
+field hour dai hourofdai hour dai field chourofdayfield
+util method requir subclass
+field week weekyear weekofweekyear basic week weekyear date time field basicweekofweekyeardatetimefield field week

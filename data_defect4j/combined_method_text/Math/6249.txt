@@ -1,0 +1,34 @@
+belong state vector dynam model constant
+integr link order integr firstorderintegr integr method
+math user except mathuserexcept user defin except error
+comput deriv computederiv dot ydot
+order differenti equat problem
+repres order differenti equat set
+implement real order
+class implement allow
+order differenti equat secondorderdifferentialequ
+deriv except derivativeexcept
+vector code code dimension arrai
+integr time deriv code code state
+math user except mathuserexcept
+constant complet scope
+integr point view deriv depend
+version
+version revis date
+current time code code state vector
+underli user function trigger
+param dot ydot placehold arrai put time deriv state vector
+handl
+differenti equat problem handl
+param arrai current state vector
+deriv except derivativeexcept except propag caller
+current time deriv state vector
+org apach common math od
+trigger user code
+order integr firstorderintegr
+order convert firstorderconvert
+order differenti equat firstorderdifferentialequ serializ
+real problem deriv depend paramet
+code code
+order differenti equat firstorderdifferentialequ
+param current independ time variabl

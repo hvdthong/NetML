@@ -1,0 +1,22 @@
+param dimens simplex
+nelder mead simplex algorithm
+nelder mead simplex neldermeadsimplex side length sidelength
+rho rho
+gamma sigma
+org apach common math3 optim direct
+simplex link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param rho reflect coeffici
+build nelder mead simplex coeffici
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+side length sidelength
+version
+nelder mead simplex neldermeadsimplex abstract simplex abstractsimplex
+sigma sigma
+param side length sidelength length side hypercub
+khi khi
+deprec remov
+gamma gamma
+param khi expans coeffici
+param sigma shrinkag coeffici
+rho khi

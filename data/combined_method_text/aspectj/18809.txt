@@ -1,0 +1,9 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+regist node registernod class modul node inod node newnod
+trace trace enabl istraceen trace enter registernod object modul node newnod
+node put node newnod weak refer weakrefer node newnod
+trace trace enabl istraceen trace exit registernod node size

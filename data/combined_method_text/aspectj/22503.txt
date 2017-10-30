@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+claus perclaus pointcut
+claus perclaus read claus readperclaus version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+kind kind kind read
+kind singleton singleton persingleton read claus readperclaus context
+kind percflow cflow percflow read claus readperclaus context
+kind perobject object perobject read claus readperclaus context
+kind fromsup super perfromsup read claus readperclaus context
+kind pertypewithin type pertypewithin read claus readperclaus context
+except bcexcept unknown kind kind

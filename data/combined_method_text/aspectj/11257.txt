@@ -1,0 +1,52 @@
+org aspectj ajdt intern compil ast
+inter type method declar
+author jim hugunin
+inter type method declar intertypemethoddeclar inter type declar intertypedeclar
+resolv statement resolvestat
+check set modifi method checkandsetmodifiersformethod
+modifi extra compil modifi extracompilermodifi acc semicolon bodi accsemicolonbodi
+declar modifi declaredmodifi class file constant classfileconst acc abstract accabstract
+scope problem report problemreport method bodi methodneedbodi
+method bodi abstract nativ modifi forbiden
+declar modifi declaredmodifi class file constant classfileconst acc abstract accabstract
+scope problem report problemreport method need bodi methodneedingnobodi
+xxx amc comfort
+return type wrong case
+arg
+munger signatur getsignatur return type getreturntyp raw type israwtyp
+bind return type returntyp raw type israwtyp
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+bind return type returntyp world make type bind maketypebind munger signatur getsignatur return type getreturntyp
+check overrid annot base methoddeclar resolvestat overrid process
+check overrid checkoverrid
+bind check overrid checkoverrid
+scope compil option compileropt sourc level sourcelevel class file constant classfileconst jdk1 check overrid checkoverrid
+overrid annot hasoverrideannot bind tag bit tagbit tag bit tagbit annot overrid annotationoverrid
+verifi
+overrid annot hasoverrideannot
+work real method bind comparison
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+method bind methodbind realth world make method bind makemethodbind munger signatur getsignatur munger type variabl alias gettypevariablealias
+report error reporterror
+hierarchi overrid
+refer bind referencebind supertyp type bind ontypebind superclass
+supertyp report error reporterror
+method bind methodbind possibl supertyp method getmethod declar selector declaredselector
+possibl length
+method bind methodbind possibl
+match couldbematch
+paramet length realth paramet length match couldbematch
+paramet length match couldbematch
+paramet equal realth paramet match couldbematch
+return type compat covari
+match couldbematch return type returntyp resolv type resolvedtyp compat iscompatiblewith return type returntyp match couldbematch
+match couldbematch report error reporterror
+supertyp supertyp superclass supertyp supertyp superclass superclass object null
+find overrid report error
+report error reporterror problem report ajproblemreport scope problem report problemreport itd method overrid itdmethodmustoverrid realth
+modifi abstract isabstract declar modifi declaredmodifi resolv statement resolvestat
+modifi static isstat declar modifi declaredmodifi
+check target itd interfac
+type bind ontypebind interfac isinterfac
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+method interfac declar static

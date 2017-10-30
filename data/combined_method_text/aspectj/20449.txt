@@ -1,0 +1,59 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+unpack gener signatur unpackgenericsignatur
+unpack gener signatur unpackedgenericsignatur
+unpack gener signatur unpackedgenericsignatur
+world java5 mode isinjava5mod
+gener return type genericreturntyp return type getreturntyp
+gener paramet type genericparametertyp paramet type getparametertyp
+string sig gsig method gener signatur getgenericsignatur
+sig gsig
+signatur method type signatur methodtypesignatur sig msig gener signatur parser genericsignaturepars pars method signatur parseasmethodsignatur sig gsig signatur methodtypesignatur msig genericsignaturepars parseasmethodsignatur gsig method getgenericsignatur
+sig msig formal type paramet formaltypeparamet length
+gener method declar
+parameter canbeparameter
+type variabl typevari type variabl typevari sig msig formal type paramet formaltypeparamet length
+type variabl typevari length
+signatur formal type paramet formaltypeparamet method ftp methodftp sig msig formal type paramet formaltypeparamet
+type variabl typevari bcel gener signatur type convert bcelgenericsignaturetotypexconvert formal type parameter2 type variabl formaltypeparameter2typevari
+method ftp methodftp
+sig msig formal type paramet formaltypeparamet
+world
+gener signatur format except genericsignatureformatexcept
+develop bug fail fast good info
+illeg state except illegalstateexcept
+type variabl method string tostr
+gener signatur sig msig
+error condit detect messag getmessag
+signatur formal type paramet formaltypeparamet parent formal parentform bcel object type bcelobjecttyp formal getallform
+signatur formal type paramet formaltypeparamet formal
+signatur formal type paramet formaltypeparamet parent formal parentform length sig msig formal type paramet formaltypeparamet length
+put method formal front type formal overrid lookup
+system arraycopi sig msig formal type paramet formaltypeparamet formal sig msig formal type paramet formaltypeparamet length
+system arraycopi parent formal parentform formal sig msig formal type paramet formaltypeparamet length parent formal parentform length
+signatur type signatur typesignatur return type signatur returntypesignatur sig msig return type returntyp
+gener return type genericreturntyp bcel gener signatur type convert bcelgenericsignaturetotypexconvert type signature2 type typesignature2typex
+return type signatur returntypesignatur formal
+world
+gener signatur format except genericsignatureformatexcept
+develop bug fail fast good info
+illeg state except illegalstateexcept
+determ gener return type string tostr
+gener signatur sig gsig error detect
+messag getmessag
+signatur type signatur typesignatur param type sig paramtypesig sig msig paramet
+gener paramet type genericparametertyp unresolv type unresolvedtyp param type sig paramtypesig length
+param type sig paramtypesig length
+gener paramet type genericparametertyp
+bcel gener signatur type convert bcelgenericsignaturetotypexconvert type signature2 type typesignature2typex
+param type sig paramtypesig formal world
+gener signatur format except genericsignatureformatexcept
+develop bug fail fast good info
+illeg state except illegalstateexcept
+determin gener paramet type string tostr
+gener signatur sig gsig error detect
+messag getmessag
+param type sig paramtypesig type variabl signatur typevariablesignatur
+parameter canbeparameter
+gener return type genericreturntyp return type getreturntyp
+gener paramet type genericparametertyp paramet type getparametertyp

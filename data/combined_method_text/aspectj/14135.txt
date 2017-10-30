@@ -1,0 +1,68 @@
+org aspectj apach bcel gener
+templat class build method defin except
+handler ad thrown except local variabl attribut
+localvariabletable' linenumbertable' attribut set
+automat code stripattribut
+gener code insert nop oper
+removenops' method rid
+result method object obtain getmethod method
+version methodgen java aclement exp
+author href mailto marku dahm berlin dahm
+author href http www vmeng beard patrick beard setmaxstack
+instructionlist
+method
+method gen methodgen field gen method gen fieldgenormethodgen
+declar method method static constructor
+automat declar local variabl this' slot
+actual code contain il' paramet
+manipul user care remov
+instruct handl referenc object
+add local variabl remov
+instruct refer caus havoc safe
+remov local variabl
+param access flag access qualifi
+param return type method type
+param arg type argument type
+param arg name argument name null default name provid
+param method method
+param class class method null care
+param instruct list method null
+abstract nativ method
+param constant pool
+method gen methodgen access flag type return type type arg type
+string arg name string method string class
+instruct list instructionlist constant pool gen constantpoolgen
+set access flag setaccessflag access flag
+set type settyp return type
+set argument type setargumenttyp arg type
+set argument name setargumentnam arg name
+set setnam method
+set class setclassnam class
+set instruct list setinstructionlist
+set constant pool setconstantpool
+abstract abstract isabstract nativ isn
+instruct handl instructionhandl start
+instruct handl instructionhandl end
+abstract
+start start getstart
+end end getend
+add local variabl implicit this' argument
+isstat class null instanc method this' local var
+addlocalvari objecttyp class start end
+arg type
+size arg type length
+size
+type void arg type
+class gen except classgenexcept 'void' illeg argument type method
+arg name arg name null name variabl provid
+size arg name length
+class gen except classgenexcept mismatch argument arrai length
+size arg name length
+give dummi name
+arg name string size
+int size
+arg name arg
+setargumentnam arg name
+abstract
+size
+addlocalvari arg name arg type start end

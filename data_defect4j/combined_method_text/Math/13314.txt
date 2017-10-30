@@ -1,0 +1,15 @@
+overrid
+arrai real vector arrayrealvector real vector realvector serializ
+arrai real vector arrayrealvector
+org apach common math3 linear
+inherit doc inheritdoc
+data vdata arrai real vector arrayrealvector data
+set entri setentri data entri getentri
+real matrix realmatrix outer product outerproduct real vector realvector
+real matrix realmatrix matrix util matrixutil creat real matrix createrealmatrix
+version
+dimens getdimens
+link real vector realvector arrai
+data length
+set entri setentri data data vdata
+data vdata length

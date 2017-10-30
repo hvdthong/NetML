@@ -1,0 +1,6 @@
+org aspectj apach bcel gener annot
+enum element gen enumelementvaluegen element gen elementvaluegen
+return immut variant enumelementvalu
+element elementvalu element getelementvalu
+system err println duplic enum type string getenumtypestr enum string getenumvaluestr
+enum element enumelementvalu type type idx typeidx idx valueidx gen cpgen constant pool getconstantpool

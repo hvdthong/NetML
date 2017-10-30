@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+declaresoftdeclar dom ast node
+declaredeclar
+type call 'type'
+pointcutdesign call 'pointcut'
+declar soft declar declaresoftdeclar declar declar declaredeclar
+ast node astnod clone0 ast target
+declar soft declar declaresoftdeclar result declar soft declar declaresoftdeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+result set pointcut setpointcut pointcut design pointcutdesign ast node astnod copi subtre copysubtre target pointcut getpointcut
+result set type pattern settypepattern type pattern typepattern ast node astnod copi subtre copysubtre target type pattern gettypepattern
+result

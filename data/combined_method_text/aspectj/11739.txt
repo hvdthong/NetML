@@ -1,0 +1,44 @@
+org aspectj ajdt intern compil problem
+extend problem report support compil side implement declar soft
+overrid error report implement abstract method
+account inter type declar pointcut declar
+job directli sourcetypebind classscop class
+author jim hugunin
+problem report ajproblemreport problem report problemreport
+unhandl except unhandledexcept
+type bind typebind except type exceptiontyp
+ast node astnod locat
+factori world getworld declar soft getdeclaresoft empti isempti
+shadow call site callsit factori make shadow makeshadow locat refer context referencecontext
+shadow enclos exec enclosingexec factori make shadow makeshadow refer context referencecontext
+call super constructor part con join point
+call site callsit enclos exec enclosingexec kind getkind shadow constructor execut constructorexecut
+locat explicit constructor call explicitconstructorcal
+unhandl except unhandledexcept except type exceptiontyp locat
+system err println show error unhandl except string exceptiontyp sourcenam
+locat referencecontext
+iter factori world getworld declar soft getdeclaresoft iter hasnext
+declar soft declaresoft declar soft declaresoft
+exceptiontyp match type declar soft statement
+mean type subtyp
+resolv type resolvedtyp throw except throwexcept factori eclips fromeclips refer bind referencebind except type exceptiontyp
+fuzzi boolean fuzzyboolean except type subtyp isexceptiontypeorsubtyp
+except getexcept match instanceof matchesinstanceof throw except throwexcept
+except type subtyp isexceptiontypeorsubtyp true alwaystru
+call site callsit
+fuzzi boolean fuzzyboolean match pointcut getpointcut match call site callsit
+match true alwaystru
+system err println match callsit callsit
+match fals alwaysfals
+check happen sooner
+throw runtimeexcept unimpl fuzzi match
+enclos exec enclosingexec
+fuzzi boolean fuzzyboolean match pointcut getpointcut match enclos exec enclosingexec
+match true alwaystru
+system err println match enclosingexec enclosingexec
+match fals alwaysfals
+check happen sooner
+throw runtimeexcept unimpl fuzzi match
+correct
+locat proce
+unhandl except unhandledexcept except type exceptiontyp locat

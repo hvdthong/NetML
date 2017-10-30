@@ -1,0 +1,11 @@
+SyntaxError with new Function('return true//')
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.10) Gecko/20100915 Ubuntu/10.04 (lucid) Firefox/3.6.10
+Build Identifier: 
+
+new Function('return true//')
+
+causes a SyntaxError: "missing } after function body (test.js#0(Function)#1)"
+
+It comes from the way an anonymous function is built from this string.
+
+Reproducible: Always

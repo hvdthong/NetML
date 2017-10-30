@@ -1,0 +1,17 @@
+set set consecut element
+arrai real vector arrayrealvector real vector realvector serializ
+check index checkindex index length
+rang except outofrangeexcept
+rang except outofrangeexcept index inconsist vector
+org apach common math3 linear
+param index index element set
+system arraycopi data index length
+set vector setsubvector index
+org apach common math3 except rang except outofrangeexcept
+check index checkindex index
+version
+size
+link real vector realvector arrai
+index inconsist vector size
+param vector valu set
+index bound except indexoutofboundsexcept

@@ -1,0 +1,27 @@
+org aspectj intern tool ant taskdef
+push ajpush condit task conditionaltask
+execut org apach tool ant build except buildexcept
+file releasedir src getparentfil
+todo depend ant script variabl releas dir
+releas dir releasedir project resolv file resolvefil project properti getproperti releas dir
+todo depend ant script variabl download dir
+download dir downloaddir project resolv file resolvefil project properti getproperti download dir
+test make directori made
+mkdir mkdir mkdir project creat task createtask mkdir
+mkdir set dir setdir releas dir releasedir
+mkdir execut
+mkdir mkdir project creat task createtask mkdir
+mkdir set dir setdir download dir downloaddir
+mkdir execut
+log push releas dir releasedir download dir downloaddir
+add info releas txt
+file releas file releasefil file releas dir releasedir releas txt
+file download file downloadfil file download dir downloaddir releas txt
+releas file releasefil read canread
+releas file releasefil creat file createnewfil
+add releas info addreleaseinfo src releas file releasefil
+copi stage web server
+project copi file copyfil src file download dir downloaddir src getnam
+project copi file copyfil releas file releasefil download file downloadfil
+except ioexcept ioe
+ioe print stack trace printstacktrac

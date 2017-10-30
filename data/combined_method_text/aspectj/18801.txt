@@ -1,0 +1,20 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+open dump opendump
+print
+date date
+file filenam filenam prefix filenam prefix
+simpl date format simpledateformat yyyymmdd format
+simpl date format simpledateformat hhmmss sss format
+filenam suffix filenam suffix
+file file file directori file filenam
+print print stream printstream file output stream fileoutputstream file
+trace info dump file absolut path getabsolutepath
+except
+print system err
+trace info dump stderr
+file filenam unknown filenam unknown filenam
+dump file lastdumpfilenam file filenam

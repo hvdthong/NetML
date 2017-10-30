@@ -1,0 +1,22 @@
+author href mailto sbailliez apach org stephan bailliez
+note jdk bug call calendar
+param pattern pattern format date
+param local local code code
+format date time specif pattern time zone local
+format date
+author apach softwar foundat
+param time zone timezon time zone code code
+org apach common lang3 time
+version
+string format milli string pattern time zone timezon time zone timezon local local
+link org apach common lang3 time fast date format fastdateformat
+format perform thread safe
+overrid previous call calendar clear call lang
+date time format util constant
+author href mailto ggregori seagullsw gari gregori
+format perform
+date format util dateformatutil
+author apach ant date util dateutil
+format date milli pattern time zone timezon local
+author href mailto stefan bodewig epost stefan bodewig
+param milli date format express millisecond

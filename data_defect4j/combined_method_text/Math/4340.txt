@@ -1,0 +1,87 @@
+real vector realvector oper
+inherit doc inheritdoc
+link real linear oper reallinearoper close templat
+dimens mismatch except dimensionmismatchexcept max count exceed except maxcountexceededexcept
+barr1994 barret
+rho rhonext dot product dotproduct
+stop criterion implement iter stop
+real vector realvector solv place solveinplac real linear oper reallinearoper
+manag fire initi event fireinitializationev event
+kei code vector point offend vector
+present context iter understood evalu
+rho prev rhoprev rho rhonext
+construct copi type
+finit precis comput electron transact
+note call updat residu
+r2max
+dot product dotproduct
+manag reset iter count resetiterationcount
+initi phase count iter
+manag fire termin event fireterminationev event
+check rho rhonext
+precondition posit definit
+r2max delta delta dot product dotproduct
+check paramet checkparamet
+context except context
+href http etna mc kent vol pp56 dir pp56 pdf
+real vector realvector copi
+middot middot
+iter count
+invert real linear oper invertiblereallinearoper
+manag iter getiter
+barrett berri chan demmel donato dongarra
+version
+refer
+link except context exceptioncontext inform
+conjug gradient conjugategradi
+real vector realvector
+eijkhout pozo romin van der vorst
+stra2002 strako tichi
+solv
+rho prev rhoprev
+delta hand side vector current
+posit definit oper except nonpositivedefiniteoperatorexcept
+real vector realvector solut getsolut
+implement conjug gradient method
+real vector realvector combin
+oper
+iter linear solver event iterativelinearsolverev event
+error estim conjug gradient method work
+org apach common math linear
+optim calcul matrix vector product
+arrai real vector arrayrealvector unmodifi real vector unmodifiablerealvector
+hand middot residu middot
+count iter
+context set setvalu vector
+real vector realvector hand side vector getrighthandsidevector
+initi stop criterion
+context set setvalu oper
+standard link dimens mismatch except dimensionmismatchexcept
+method siam
+estim residu delta user toler
+strako tichi
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+real vector realvector real vector realvector
+href stra2002 strako tichi
+overrid
+matrix vector product middot initi phase
+iter manag iterationmanag manag iter manag getiterationmanag
+real vector realvector residu getresidu
+stopcrit default stop criterion
+set vector setsubvector
+check
+numer analysi
+manag increment iter count incrementiterationcount
+combin combinetoself rho rhonext rho prev rhoprev
+event conjug gradient event conjugategradientev
+except context exceptioncontext context context getcontext
+combin combinetoself alpha
+alpha rho rhonext
+href barr1994 barrett figur linear system
+link posit definit oper except nonpositivedefiniteoperatorexcept linear oper
+differ residu due round error
+templat solut linear system build block iter
+manag fire iter perform event fireiterationperformedev event
+kei code oper point offend linear oper
+manag fire iter start event fireiterationstartedev event
+href http www netlib org linalg html templat templat html

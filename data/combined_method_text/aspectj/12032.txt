@@ -1,0 +1,8 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+build notifi buildnotifi creat build notifi createbuildnotifi progress monitor iprogressmonitor monitor
+project iproject current project currentproject
+build notifi ajbuildnotifi monitor current project currentproject

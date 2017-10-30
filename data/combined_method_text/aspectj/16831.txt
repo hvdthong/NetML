@@ -1,0 +1,8 @@
+org aspectj org eclips jdt core dom
+ast ajast ast
+creat unpar refer pointcut node own ast
+default declar refer pointcut
+return unpar refer pointcut node
+refer pointcut referencepointcut refer pointcut newreferencepointcut
+refer pointcut referencepointcut result refer pointcut referencepointcut
+result

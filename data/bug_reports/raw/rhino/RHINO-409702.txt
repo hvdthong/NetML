@@ -1,0 +1,62 @@
+JavaAdapter causes VerifyError with some abstract classes
+This is a regression sometime since 1.6R5.
+
+Here is at least one that fails, running with JDK 1.6 in interpreted mode.  (Results are similar with JDKs 1.4-1.5, but the error messages are not as good.  Same with running with different values for optimization.)
+
+Java:
+package override;
+
+public abstract class WithFinal {
+	public WithFinal() {
+	}
+	
+	public abstract void a();
+	
+	public abstract void b();
+	
+	public static abstract class Subclass extends WithFinal {
+		public final void a() {
+		}
+	}
+}
+
+Rhino shell:
+var instance = new JavaAdapter(
+	Packages.override.WithFinal.Subclass,
+	{
+		b: function() {
+		}
+	}
+);
+print(instance);
+
+Output with Rhino 1.6R5:
+adapter1@18ee9d6
+
+With Rhino 1.6R7:
+Exception in thread "main" java.lang.VerifyError: class adapter1 overrides final method a.()V
+        at java.lang.ClassLoader.defineClass1(Native Method)
+        at java.lang.ClassLoader.defineClass(ClassLoader.java:620)
+        at org.mozilla.javascript.DefiningClassLoader.defineClass(DefiningClassLoader.java:62)
+        at org.mozilla.javascript.JavaAdapter.loadAdapterClass(JavaAdapter.java:466)
+        at org.mozilla.javascript.JavaAdapter.getAdapterClass(JavaAdapter.java:317)
+        at org.mozilla.javascript.JavaAdapter.js_createAdpter(JavaAdapter.java:193)
+        at org.mozilla.javascript.JavaAdapter.execIdCall(JavaAdapter.java:123)
+        at org.mozilla.javascript.IdFunctionObject.call(IdFunctionObject.java:127)
+        at org.mozilla.javascript.BaseFunction.construct(BaseFunction.java:313)
+        at org.mozilla.javascript.Interpreter.interpretLoop(Interpreter.java:3281)
+        at org.mozilla.javascript.Interpreter.interpret(Interpreter.java:2394)
+        at org.mozilla.javascript.InterpretedFunction.call(InterpretedFunction.java:162)
+        at org.mozilla.javascript.ContextFactory.doTopCall(ContextFactory.java:393)
+        at org.mozilla.javascript.ScriptRuntime.doTopCall(ScriptRuntime.java:2834)
+        at org.mozilla.javascript.InterpretedFunction.exec(InterpretedFunction.java:173)
+        at org.mozilla.javascript.tools.shell.Main.evaluateScript(Main.java:524)
+        at org.mozilla.javascript.tools.shell.Main.processFileSecure(Main.java:446)
+        at org.mozilla.javascript.tools.shell.Main.processFile(Main.java:412)
+        at org.mozilla.javascript.tools.shell.Main.processSource(Main.java:403)
+        at org.mozilla.javascript.tools.shell.Main.processFiles(Main.java:179)
+        at org.mozilla.javascript.tools.shell.Main$IProxy.run(Main.java:100)
+        at org.mozilla.javascript.Context.call(Context.java:577)
+        at org.mozilla.javascript.ContextFactory.call(ContextFactory.java:503)
+        at org.mozilla.javascript.tools.shell.Main.exec(Main.java:162)
+        at org.mozilla.javascript.tools.shell.Main.main(Main.java:140)

@@ -1,0 +1,16 @@
+comput
+dfdp tmp dot tmpdot dot ydot
+paramet jacobian wrapper parameterjacobianwrapp paramet jacobian provid parameterjacobianprovid
+inherit doc inheritdoc
+pode set paramet setparamet param paramnam
+comput paramet jacobian computeparameterjacobian dot ydot
+wrapper comput jacobian matric finit differ od
+pode paramet getparamet param paramnam
+tmp dot tmpdot
+fode comput deriv computederiv tmp dot tmpdot
+version
+fode dimens getdimens
+org apach common math od
+string param paramnam dfdp
+comput jacobian paramet
+param hparam param paramnam

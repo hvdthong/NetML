@@ -1,0 +1,26 @@
+org aspectj apach bcel verifi structur
+visitor class test valid precondit jvm instruct
+instanc class throw structuralcodeconstraintexcept
+instanc instruct visitxxx precondit
+satisfi
+todo jvm' behaviour monitor monitorent
+monitorexit model justic
+version instconstraintvisitor java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi exc structuralcodeconstraintexcept
+org aspectj apach bcel verifi exc linkingconstraintexcept
+inst constraint visitor instconstraintvisitor empti visitor emptyvisitor org aspectj apach bcel gener visitor
+assur gener precondit storeinstruct instanc
+visit store instruct visitstoreinstruct store instruct storeinstruct
+visitlocalvariableinstruct call gener
+stack empti isempti stack isempti bother stack slot check implicit type check
+constraint violat constraintviol store stack read empti
+astor
+stack peek type gettyp cpg stack peek gettyp cpg xstore type singleton bcel
+constraint violat constraintviol stack top type store instruct type mismatch stack top stack peek instruct type type gettyp cpg
+deal astor
+type stacktop stack peek
+stacktop refer type referencetyp stacktop returnaddress type returnaddresstyp
+constraint violat constraintviol stack top type store instruct type mismatch stack top stack peek instruct expect referencetyp returnadresstyp
+stacktop refer type referencetyp
+refer type initi referencetypeisiniti refer type referencetyp stacktop

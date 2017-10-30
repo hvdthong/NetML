@@ -1,0 +1,7 @@
+abstract multipl linear regress abstractmultiplelinearregress
+intercept isnointercept
+version
+intercept nointercept
+org apach common math3 stat regress
+model intercept term
+abstract base implement multipl linear regress multiplelinearregress

@@ -1,0 +1,44 @@
+org aspectj weaver bcel
+lazi lazi lazi
+unpack underli class thing
+method annot accumul
+written add underli methodgen
+thing slightli repres aspect
+lazi class gen lazyclassgen
+string sourc debug extens string getsourcedebugextensionstr
+string buffer stringbuff string buffer stringbuff
+string file myfilenam file getfilenam
+header section
+append smap
+append file myfilenam
+append naspectj
+stratum section
+append aspectj
+file section
+append
+append
+append file myfilenam
+append
+iter iter inlin file inlinedfil kei set keyset iter iter hasnext
+string element string iter
+element index lastindexof
+append append
+append element append
+append append append
+append element substr append
+append element append
+emit line section
+append
+append
+append highest line number highestlinenumb
+append
+iter iter inlin file inlinedfil valu iter iter hasnext
+inlin sourc file info inlinedsourcefileinfo element inlin sourc file info inlinedsourcefileinfo iter
+append
+append append
+append element highest line number highestlinenumb append
+append element offset append
+end section
+append
+finish
+string tostr

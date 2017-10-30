@@ -1,0 +1,11 @@
+org aspectj ajd swing
+set user configur option
+author mik kersten
+option frame optionsfram frame jframe
+add panel postion
+add option panel addoptionspanel option panel optionspanel panel
+main tab pane main tabbedpan add panel main tab pane main tabbedpan compon count getcomponentcount
+panel load option loadopt
+except ioexcept
+messag msg messag load option messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

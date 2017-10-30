@@ -1,0 +1,30 @@
+overrid
+nordsieck
+scale hasscal nordsieck hasnordsieck
+org apach common math3 od nonstiff adam bashforth integr adamsbashforthintegr
+inherit doc inheritdoc
+scale read doubl readdoubl
+interpol equat base taylor seri formula
+set interpol time state
+scale hasscal
+set interpol time setinterpolatedtim
+scale
+version
+read base
+interpol integr nordsieck represent
+nordsieck hasnordsieck
+scale scalingh read doubl readdoubl
+interpol comput dens output current point
+refer time referencetim read doubl readdoubl
+except ioexcept class found except classnotfoundexcept
+nordsieck hasnordsieck read boolean readboolean
+org apach common math3 od sampl
+org apach common math3 od nonstiff adam moulton integr adamsmoultonintegr
+scale hasscal read boolean readboolean
+nordsieck array2 row real matrix array2drowrealmatrix read object readobject
+read base extern readbaseextern
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+read local attribut
+current state currentst current state currentst length
+state variat statevari
+read extern readextern object input objectinput

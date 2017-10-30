@@ -1,0 +1,448 @@
+argument npt rhobeg rhoend iprint maxfun
+beta denom knew
+sever cancel occur xopt xbase
+scaden half biglsq
+ksav
+biglsq
+dsq
+sumw vlag entri getentri
+link cmae optim cmaesoptim succe bobyqa
+npt number interpol point numberofinterpolationpoint
+dnorm half rho
+crvmin dsq crvmin dsqcrvmin
+xbase entri getentri xopt entri getentri
+fval entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+fortran arrai fortranarrai xalt
+comput min
+work1 set entri setentri work1 entri getentri temp xpt entri getentri
+return calcul newton raphson step
+fortran arrai fortranarrai gopt
+ndim bmat row dimens getrowdimens
+nptm
+vquad
+ten dist
+param bmat
+sum bmat entri getentri entri getentri
+work1 entri getentri vlag entri getentri
+comput max
+gopt set entri setentri gopt entri getentri temp xpt entri getentri
+npt gopt updat kopt kbase
+vlag entri getentri work1 entri getentri
+put variabl calcul object function
+fsave
+xoptsq delta deltaon delta deltaon
+math min
+complet set requir iter procedur
+constraint mention
+paramet adjust
+param vlag
+delta math min dnorm
+sum
+version
+fsave fval entri getentri
+fval entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex fsave
+param xnew
+xpt set entri setentri knew xnew entri getentri
+vlag entri getentri
+round error damag chosen denomin
+return cauchi choic altern
+calcul vlag beta current choic scalar
+diffb
+diffa
+denomin formula updat matrix
+occur altern iter length
+safeguard invok applic bobyqa
+label ntrit calcul xnew
+part product requir vlag length ndim
+compon xopt satisfi bound
+temp xpt entri getentri entri getentri
+fortran arrai fortranarrai xbase
+updat xopt gopt kopt calcul fopt
+curv entri getentri
+dist math sqrt distsq
+zmat delta
+alpha alpha cauchi alphacauchi
+xopt entri getentri work1 entri getentri
+bound xalt set feasibl point
+cauchi doubl nan
+bmat zmat iter valu
+xnew set entri setentri xnew entri getentri xopt entri getentri
+fortran matrix fortranmatrix xpt
+rho stop trust region radiu stoppingtrustregionradiu
+delta math min
+gisq sum sum
+rho ten rho
+temp half temp
+interpol point minim predict
+ratio hundr fifti
+adapt fortran version
+finit differ
+xpt entri getentri xopt entri getentri
+work1 set entri setentri bmat entri getentri knew
+current currentbest set entri setentri f2jai upper bound upperbound f2jai
+sum zmat entri getentri vlag entri getentri
+bobyqa suit high dimension problem
+vlag set entri setentri sum xpt entri getentri temp xopt entri getentri
+param xbase
+scaden temp den
+fortran arrai fortranarrai vlag
+delta xnew gnew xbdi
+bmat set entri setentri
+trust region center interpol point index trustregioncenterinterpolationpointindex knew
+hold explicit deriv quadrat model
+xopt entri getentri
+sum zmat entri getentri work3 entri getentri
+xopt caus updat quadrat model
+fval hold valu interpol point
+made denomin calcul
+bsum
+xopt set displac xbase trust region centr
+local variabl
+vlag
+interpol point delet make room trust
+altern find interpol point close
+zmat entri getentri
+delta deltaon delta
+ten rho
+npt
+cauchi xxx statement
+set entri setentri
+interpol point reach altern step
+ntrit denomin increas replac
+xopt entri getentri entri getentri
+suitabl posit knew interpol point
+zmat
+knew adelt xnew xalt
+rho initi trust region radiu initialtrustregionradiu
+xoptsq
+deriv current model begin bmat
+diffb diffa
+expens previou shift matric bmat
+gopt set entri setentri gopt entri getentri entri getentri entri getentri
+bdtest bdtol
+temp entri getentri entri getentri
+sum zmat entri getentri
+xalt altern xnew chosen altmov replac xnew
+fortran arrai fortranarrai work3 fortran arrai fortranarrai npt
+xbase set entri setentri xbase entri getentri xopt entri getentri
+math max sum
+round error reduc factor
+bdtest
+gqsq dist sumw sumz diffa diffb diffc hdiag
+correct rank posit semi definit
+zmat hold factor lead npt npt submatrix
+entri getentri
+kbase
+xpt fval gopt bmat
+system gener local
+itest
+vlag set entri setentri work2 entri getentri zmat entri getentri
+xopt constraint boundari
+vquad calcul
+xopt set entri setentri xpt entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+delta half rho
+work2 set entri setentri sum
+comput 2nd power
+work3 set entri setentri suma half suma sumb
+fortran arrai fortranarrai xnew
+vlag entri getentri knew xxx statement line
+temp pqold xpt entri getentri knew
+pick delta trust region step
+xbase hold shift origin reduc contribut
+bmat set entri setentri npt bmat entri getentri npt
+dnorm rho
+function bodi
+distsq delta deltaon delta deltaon
+vlag set entri setentri vlag entri getentri sum zmat entri getentri
+work1 set entri setentri work1 entri getentri entri getentri xpt entri getentri
+leq xopt leq equal
+fortran arrai fortranarrai xopt
+current currentbest dimens getdimens
+href http www optim onlin org html html
+bmat zmat
+paper introduct
+initi xopt set branch label occur maxfun
+bmat entri getentri
+scaden
+fval set entri setentri knew
+dnorm math min delta deltaon delta deltatwo
+work2 entri getentri
+temp math max
+evalu getevalu nfsav
+gener point trust region small
+branch trust region calcul ntrit occur
+sum distsq
+call rescu make call calfun
+ndim dimens bmat npt
+interpol point posit caus linear
+choic label depend
+diffa math ab diff
+xpt entri getentri
+dnorm dnorm
+upper bound upperbound f2jai
+vlag set entri setentri trust region center interpol point index trustregioncenterinterpolationpointindex vlag entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+test replac quadrat model frobeniu
+math illeg state except mathillegalstateexcept local format localizedformat trust region step fail vquad
+comput object computeobjectivevalu current currentbest data getdata
+squar prevent test failur
+product xpt held npt
+delta math max
+evalu getevalu nresc
+max math max npt max
+made bmat
+bobyqa optim bobyqaoptim
+function squar function
+minim isminim
+delta math max delta rho
+distsq sum
+den beta hdiag
+deriv paramet quadrat model
+temp diff zmat entri getentri knew
+vlag entri getentri xpt entri getentri work3 entri getentri
+xopt updat branch label
+deriv case outperform
+org apach common math optim direct
+trust region step provid suffici decreas
+updat gopt iter
+denomin subject xnew xopt leq adelt
+sum half xoptsq
+expens bobyqa consid replac
+dsq crvmin dsqcrvmin trsbox xpt xopt gopt
+calcul object function xbase xnew
+fopt
+alpha cauchi alphacauchi altmov xpt xopt
+trust region iter calcul
+knew
+evalu getevalu npt
+xpt entri getentri xnew entri getentri
+beta
+improv model distanc half rho xopt
+sumpq
+xopt set entri setentri xnew entri getentri
+recalcul knew denom fopt
+kopt number call calfun
+nresc evalu getevalu
+vlag npt
+work3 set entri setentri sum work3 entri getentri
+distsq math max
+ndim npt
+dimension arrai work space length
+temp fracsq half sum
+gopt entri getentri
+quadrat model predict chang due step
+ratio
+bsum sum entri getentri
+xnew chosen subroutin trsbox altmov xbase xnew
+errbig math max delta deltaon diffc
+work2 set entri setentri work3 entri getentri
+factor zmat time zmat
+instruct complet shift includ
+gopt set entri setentri vlag entri getentri npt
+fsave fval entri getentri index offset
+fortran arrai fortranarrai
+gqsq ten gisq
+distsq
+includ interpol point make gopt
+nptm npt
+param gopt
+set entri setentri work2 entri getentri
+href http plato asu ftp softwar bobyqa zip
+norm interpol make replac test satisfi
+order increas denomin updat updat
+xpt offset
+nfsav evalu getevalu
+updat bmat zmat vlag
+fortran arrai fortranarrai hred fortran arrai fortranarrai
+ntrit
+ntrit set number trust region iter
+distsq delsq
+knew interpol point distanc adelt xopt
+work3 set entri setentri work3 entri getentri sum zmat entri getentri
+state
+fortran arrai fortranarrai fval
+vquad entri getentri temp
+current data gradient interpol xopt put
+gopt set entri setentri gopt entri getentri diff work1 entri getentri
+temp suma sumb bsum fopt
+fval xopt gopt bmat
+vquad half entri getentri
+pick altern vector variabl rel xbase
+ratio dnorm vquad pqold
+math min delta
+step altmov cauchi step rescu call
+depend zmat vlag temporarili work space
+vlag valu lagrang function point
+set entri setentri xnew entri getentri xopt entri getentri
+deriv base optim deriv approxim
+sumpq scaden
+ratio sixteen
+temp entri getentri temp
+gqsq
+delta deltaon ten rho
+adelt math max rho
+denom densav
+ratio rho stop trust region radiu stoppingtrustregionradiu
+work3 set entri setentri
+current currentbest set entri setentri f2jai lower bound lowerbound f2jai
+suma zmat entri getentri knew zmat entri getentri
+denom den
+gisq
+temp work1 entri getentri
+denom cauchi cauchi
+work current rho complet rho
+crvmin
+rho math sqrt ratio stop trust region radiu stoppingtrustregionradiu
+fortran arrai fortranarrai xbdi fortran arrai fortranarrai
+quadrat model
+zmat gener scratch includ replac
+param xopt
+dsq adelt adelt
+prelim current currentbest xbase
+vector variabl call calfun xnew satisfi
+sumz zmat entri getentri
+math max delta dnorm rho
+kbase trust region center interpol point index trustregioncenterinterpolationpointindex
+errbig fracsq biglsq densav
+knew ksav
+knew calcul object function
+link powel optim powelloptim significantli stochast algorithm
+interpol point compar favour predict
+xopt set entri setentri
+reserv trial step xopt xnew xopt
+set constant
+xnew set entri setentri xalt entri getentri
+depend interpol condit rescu call
+bobyqb
+sum vlag entri getentri xpt entri getentri
+fortran arrai fortranarrai work2 fortran arrai fortranarrai npt
+math min sum
+dsq xoptsq thousand
+set diff error predict
+dsq doubl nan
+fortran arrai fortranarrai fortran arrai fortranarrai
+work1 set entri setentri bmat entri getentri
+xnew adjust bound
+suma xpt entri getentri entri getentri
+temp xpt entri getentri xopt entri getentri
+fortran arrai fortranarrai work1 fortran arrai fortranarrai
+trust region center interpol point index trustregioncenterinterpolationpointindex kbase
+chosen denomin reason attempt select
+vlag set entri setentri sum
+xnew xopt half rho branch
+bmat hold column
+powell' bobyqa algorithm implement translat
+sumpq entri getentri
+sum bmat entri getentri
+ratio fopt vquad
+param xpt
+delta math max dnorm
+current currentbest set entri setentri f2jai math min
+point
+fopt ten vquad
+param
+knew posit altmov find altern posit
+biglsq math max
+ident argument subroutin bobyqa
+revis bmat depend zmat calcul
+sumz
+sumw
+delta rho
+rescu xbase xpt
+delsq delta delta
+fortran arrai fortranarrai gnew fortran arrai fortranarrai
+calcul paramet frobeniu norm interpol
+sumb
+suma
+set entri setentri knew
+lead trust region iter branch label
+den rho sum diff beta gisq
+hred
+bdtest work1 entri getentri
+beta dsq xoptsq half dsq beta bsum
+work1 entri getentri xopt entri getentri
+decreas termin occur error quadrat model
+system println bobyqb xxx
+delta deltaon xopt entri getentri
+set entri setentri entri getentri xopt entri getentri
+sum fracsq sumz half sumw xopt entri getentri
+xbase entri getentri xnew entri getentri
+gopt set entri setentri gopt entri getentri entri getentri xopt entri getentri
+crvmin doubl nan
+denom alpha beta
+hold differ xbase xbase
+sum xpt entri getentri xopt entri getentri
+current rho complet
+delta deltatwo math sqrt dsq
+bdtol errbig rho
+math max
+firstli xnew set point line xopt
+reach label branch label
+move updat deriv term model
+xbase move xopt call rescu calcul
+xnew entri getentri entri getentri
+cauchi alpha cauchi alphacauchi
+delta deltaon math max diffa diffb
+diffc diffb
+frhosq rho rho
+ksav knew
+call prelim set element xbase xpt fval gopt
+round error valu model lagrang function
+fopt fval entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+updat bmat zmat knew interpol point
+vlag set entri setentri fval entri getentri fval entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+errbig frhosq crvmin
+set entri setentri entri getentri temp xpt entri getentri knew
+lower bound lowerbound f2jai
+valu rho delta
+pqold entri getentri knew
+quadrat model subject constraint variabl
+vlag set entri setentri npt sum
+beta sum sum
+constrain version cauchi step knew lagrang
+work1 set entri setentri half sumpq xopt entri getentri
+sum work3 entri getentri bmat entri getentri
+gopt hold gradient quadrat model xbase xopt
+math illeg state except mathillegalstateexcept local format localizedformat cancel vquad
+delta adelt denom fsave bdtol delsq
+region step rescu call round error damag
+sumb xpt entri getentri xopt entri getentri
+fortran matrix fortranmatrix bmat
+denom half
+dsq dsq crvmin dsqcrvmin
+vquad entri getentri gopt entri getentri
+limit number calcul reach
+fortran matrix fortranmatrix zmat
+ratio ten
+calcul current rho complet pick
+temp suma sumb
+alpha doubl nan
+delta
+updat gopt occur branch label
+hdiag
+fracsq xoptsq
+temp
+diff fopt vquad
+altern ntrit posit set knew index
+interpol point rel xbase
+param fval
+index interpol point trust region centr
+curv
+bdtest half curv rho
+nresc nfsav
+frhosq
+work1 set entri setentri sum
+densav denom
+entri getentri xopt entri getentri
+paramet implicit deriv
+half delta
+xpt set entri setentri xpt entri getentri xopt entri getentri
+half dist
+param zmat
+set entri setentri entri getentri temp zmat entri getentri
+param xalt
+temp den scaden
+xpt dimension arrai hold coordin
+ten delta
+trust region center interpol point index trustregioncenterinterpolationpointindex
+test hold xbase shift xopt
+work2 set entri setentri suma

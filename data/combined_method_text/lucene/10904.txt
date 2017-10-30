@@ -1,0 +1,12 @@
+org apach lucen analysi tokenattribut
+term text token
+term attribut impl termattributeimpl attribut impl attributeimpl term attribut termattribut cloneabl serializ
+copi content buffer start offset
+length charact termbuff arrai
+param buffer buffer copi
+param offset index buffer charact copi
+param length number charact copi
+set term buffer settermbuff buffer offset length
+grow term buffer growtermbuff length
+system arraycopi buffer offset term buffer termbuff length
+term length termlength length

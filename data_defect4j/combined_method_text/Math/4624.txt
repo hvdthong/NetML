@@ -1,0 +1,20 @@
+field matrix impl fieldmatriximpl field element fieldel abstract field matrix abstractfieldmatrix serializ
+start column startcolumn end column endcolumn
+visitor start row dimens getrowdimens column dimens getcolumndimens
+org apach common math linear
+param type field element
+inherit doc inheritdoc
+version revis date
+link field matrix fieldmatrix matrix element index
+visitor visit row rowi
+return element row column matrix
+overrid
+check matrix index checksubmatrixindex start row startrow end row endrow start column startcolumn end column endcolumn
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+start row startrow end row endrow start column startcolumn end column endcolumn
+walk row order walkinroword field matrix preserv visitor fieldmatrixpreservingvisitor visitor
+visitor end
+base code entri getentri code
+start row startrow end row endrow
+row rowi data
+matrix index except matrixindexexcept matrix visitor except matrixvisitorexcept

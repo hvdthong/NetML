@@ -1,0 +1,13 @@
+src/java/org/apache/lucene/index/FilterIndexReader_getFieldCacheKey_Object
+src/java/org/apache/lucene/index/IndexReader_getFieldCacheKey_Object
+src/java/org/apache/lucene/index/SegmentReader_getFieldCacheKey_Object
+src/java/org/apache/lucene/search/CachingSpanFilter_CachingSpanFilter-SpanFilter_<init>
+src/java/org/apache/lucene/search/CachingSpanFilter_getCachedResult-IndexReader_SpanFilterResult
+src/java/org/apache/lucene/search/CachingWrapperFilter_CachingWrapperFilter-Filter_<init>
+src/java/org/apache/lucene/search/CachingWrapperFilter_getDocIdSet-IndexReader_DocIdSet
+src/java/org/apache/lucene/search/FieldCacheImpl$Cache_get-IndexReader-Entry_Object
+src/java/org/apache/lucene/search/FieldCacheImpl$Cache_purge-IndexReader_void
+src/java/org/apache/lucene/search/IndexSearcher_search-Weight-Filter-int_TopDocs
+src/java/org/apache/lucene/search/IndexSearcher_search-Weight-Filter-int-Sort-boolean_TopFieldDocs
+src/java/org/apache/lucene/util/FieldCacheSanityChecker_getAllDecendentReaderKeys-Object_List<Object>
+src/test/org/apache/lucene/search/CachingWrapperFilterHelper_getDocIdSet-IndexReader_DocIdSet

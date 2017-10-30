@@ -1,0 +1,41 @@
+org aspectj ajd
+singleton class initi ajd properti requir
+run compil user call ajd init
+getter method properti set
+initi
+author mik kersten
+ajd
+run properti runproperti compil configur icompilerconfigur compil config compilerconfig
+runtim properti iruntimeproperti runtim properti runtimeproperti
+iui build messag handler iuibuildmessagehandl handler frame root frame rootfram
+xxx run arbitrari handler constructor hmm
+lang util langutil throw iax null throwiaxifnul runtim properti runtimeproperti runtim properti
+lang util langutil throw iax null throwiaxifnul compil config compilerconfig compil configur
+lang util langutil throw iax null throwiaxifnul handler handler
+lang util langutil throw iax null throwiaxifnul root frame rootfram rootfram
+string main class mainclass
+string classpath
+string arg
+valid
+root frame rootfram root frame rootfram
+main class mainclass runtim properti runtimeproperti class execut getclasstoexecut
+lang util langutil empti isempti main class mainclass
+show warn messag showwarningmessag main class
+string buffer stringbuff string buffer stringbuff
+list output dir outputdir compil config compilerconfig output locat manag getoutputlocationmanag
+output locat getalloutputloc
+iter iter output dir outputdir iter iter
+hasnext
+file dir file iter
+append dir absolut path getabsolutepath file path separ pathsepar
+classpath lang util langutil make classpath makeclasspath compil config compilerconfig
+classpath getclasspath string tostr compil config compilerconfig
+jar getoutjar
+lang util langutil empti isempti classpath
+show warn messag showwarningmessag classpath
+arg lang util langutil split runtim properti runtimeproperti execut arg getexecutionarg
+valid
+main class mainclass main class mainclass
+classpath classpath
+arg arg
+valid valid

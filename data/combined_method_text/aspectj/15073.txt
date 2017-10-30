@@ -1,0 +1,7 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+instruct context instructioncontext successor getsuccessor
+context contextsof successor getsuccessor

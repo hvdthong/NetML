@@ -1,0 +1,62 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+method convert string java type declar
+'void main string throw 'classformatexception' pars
+type invalid
+param signatur method signatur
+param method
+param access method access right
+return java type declar
+throw classformatexcept
+string method signatur string methodsignaturetostr string signatur string
+string access chopit local variabl tabl localvariablet var class format except classformatexcept
+signatur charat
+throw classformatexcept invalid method signatur signatur
+break signatur piec param returntyp
+int lastbracketpo signatur lastindexof
+string paramet signatur substr lastbracketpo
+string returntyp signatur substr lastbracketpo
+paramet ljava util list ljava lang string
+returntyp
+break signatur part
+dont lot substring let index
+int posn
+stringbuff piec
+posn paramet length
+piec stringbuff
+posn getsignaturefrom paramet piec
+string buffer stringbuff buf string buffer stringbuff
+string type
+index
+var index access index indexof static
+read declar
+signatur char charat
+class format except classformatexcept invalid method signatur signatur
+index index current string posit
+signatur char charat index
+result holder resulthold signatur string intern signaturetostringintern signatur substr index chopit
+string param type result getresult
+buf append param type
+var
+local variabl localvari var local variabl getlocalvari var index
+buf append getnam
+buf append arg var index
+doubl equal param type long equal param type
+var index
+var index
+buf append
+index consum char getconsumedchar
+index
+read return type
+type signatur string signaturetostr signatur substr index chopit
+string index bound except stringindexoutofboundsexcept catch stringindexoutofboundsexcept occur
+class format except classformatexcept invalid method signatur signatur
+buf length buf length tack extra
+buf set length setlength buf length
+buf append
+access access length return access access length empti string
+type buf string tostr

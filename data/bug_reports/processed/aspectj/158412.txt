@@ -1,0 +1,26 @@
+pointcut declare error results npe
+aspectj pointcut normal aspectj declare error expression results exception
+java lang nullpointerexception
+org aspectj weaver patterns referencepointcut concretize1 referencepointcut java
+org aspectj weaver patterns pointcut concretize pointcut java
+org aspectj weaver patterns notpointcut concretize1 notpointcut java
+org aspectj weaver patterns pointcut concretize pointcut java
+org aspectj weaver patterns andpointcut concretize1 andpointcut java
+org aspectj weaver patterns pointcut concretize pointcut java
+org aspectj weaver patterns pointcut concretize pointcut java
+org aspectj weaver checker concretize checker java
+org aspectj weaver crosscuttingmembers addshadowmunger crosscuttingmembers java
+org aspectj weaver crosscuttingmembers adddeclare crosscuttingmembers java
+org aspectj weaver crosscuttingmembers adddeclares crosscuttingmembers java
+org aspectj weaver crosscuttingmembersset addadvicelikedeclares crosscuttingmembersset java
+org aspectj ajdt internal compiler lookup ajlookupenvironment addadvicelikedeclares ajlookupenvironment java
+org aspectj ajdt internal compiler lookup ajlookupenvironment completetypebindings ajlookupenvironment java
+org aspectj org eclipse jdt internal compiler compiler begintocompile compiler java
+org aspectj org eclipse jdt internal compiler compiler compile compiler java
+org aspectj ajdt internal core builder ajbuildmanager performcompilation ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager incrementalbuild ajbuildmanager java
+org aspectj ajde internal compileradapter compile compileradapter java
+org aspectj ajde internal aspectjbuildmanager compilerthread run aspectjbuildmanager java
+nullpointerexception thrown null

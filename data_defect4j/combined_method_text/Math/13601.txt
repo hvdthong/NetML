@@ -1,0 +1,16 @@
+row column index valid
+param column column locat entri set
+interfac defin field valu matrix basic algebra oper
+org apach common math3 linear
+param type field element
+set entri setentri row column
+matrix element index base code entri getentri code
+set entri setentri row column rang except outofrangeexcept
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+set entri row column
+version
+rang except outofrangeexcept row column index valid
+param matrix entri set row column
+param row row locat entri set

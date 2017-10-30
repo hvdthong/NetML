@@ -1,0 +1,85 @@
+jar archive update excluding 'defaultexcludes' fails
+Some trouble with create/update an archive using 'defaultexcludes'.
+
+Guess the following directory structure:
+
+domain/SomeGeneralFile
+domain/project/build.xml                (s. b.)
+domain/project/package/SomeSourceFile
+domain/project/package/SomeSourceFile~  (a backup file)
+
+and an ant build file with two targets (s. b.) creating the projects archive and
+subsequently updating it with some general files from 'domain/'.
+
+The first step works fine using the 'defaultexcludes="yes"' attribute, the 
+backup file (SomeSourceFile~) is included. But running the second step, 
+updating this archive, the backup file is lost/removed.
+
+Including the original fileset has no impact, but using the 
+global 'defaultexcludes' task (since Ant 1.6.0) will make it work (s. b.).
+
+The question is: is it a bug or 'works as intended/designed'?
+
+If the latter, especially using the 'defaultexcludes' task, it will be helpful 
+to have some comment lines and/or a sample in the documentation.
+
+OUTPUT:
+create.jar:
+      [jar] Building jar: MyArchive.jar
+      [jar] adding directory META-INF/
+      [jar] adding entry META-INF/MANIFEST.MF
+      [jar] adding entry build.xml
+      [jar] adding directory package/
+      [jar] adding entry package/SomeSourceFile
+      [jar] adding entry package/SomeSourceFile~
+
+update.jar:
+      [jar] project added as project doesn't exist.
+      [jar] SomeGeneralFile added as SomeGeneralFile doesn't exist.
+      [jar] Updating jar: MyArchive.jar
+      [jar] adding directory META-INF/
+      [jar] adding entry META-INF/MANIFEST.MF
+      [jar] adding directory project/
+      [jar] adding entry SomeGeneralFile
+      [jar] adding directory package/
+      [jar] adding entry build.xml
+      [jar] adding entry package/SomeSourceFile
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="AntBuildTest">
+
+  <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+  <target name="create.jar">
+
+    <jar destfile="MyArchive.jar">
+
+      <fileset dir="domain/project"
+               includes="**"
+               defaultexcludes="no"/>
+    </jar>
+  </target>
+
+  <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+  <target name="update.jar">
+    <!-- Set/reset the global 'defaultexcludes' will make it work! -->
+    <!--defaultexcludes remove="**/*~"/-->
+
+    <jar destfile="MyArchive.jar"
+         update="true"
+         defaultexcludes="no">
+
+      <fileset dir="domain"
+               includes="*"
+               defaultexcludes="no"/>
+
+      <!-- Including the original fileset has no impact. -->
+      <!--fileset dir="domain/project"
+               includes="**"
+               defaultexcludes="no"/-->
+    </jar>
+
+    <!--defaultexcludes default="true"/-->
+  </target>
+
+</project>

@@ -1,0 +1,21 @@
+org aspectj apach bcel gener
+abstract super class java type basic type
+int object type string arrai type int
+version type java aclement exp
+author href mailto marku dahm berlin dahm
+modifi
+andycl mar remov unnecessari static optim
+type java serializ
+convert type java method signatur int java lang string
+ljava lang string
+param return type method return
+param arg type argument type
+return method signatur type
+string method signatur getmethodsignatur type return type type arg type
+string buffer stringbuff buf string buffer stringbuff
+length arg type arg type length
+length
+buf append arg type signatur getsignatur
+buf append
+buf append return type signatur getsignatur
+buf string tostr

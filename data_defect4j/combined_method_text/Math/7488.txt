@@ -1,0 +1,12 @@
+param dimens simplex
+version
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+param khi expans coeffici
+org apach common math optim direct
+multi direct direct search method
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+version revis date
+multi direct simplex multidirectionalsimplex
+khi gamma
+build multi direct simplex coeffici

@@ -1,0 +1,9 @@
+Provide access to extension points and attribute/element/extensions/text methods in IntrospectionHelper
+IntrospectionHelper did not provide access to the new Ant 1.6+ extension 
+points. It also did not provide access to the actual method used to 
+set/add/create an attribute/element/extension point/text, which is necessary 
+to link an attribute/element with the corresponding method Javadoc in the 
+source.
+
+This patch provides the added functionality, fully unit tested. Also tests the 
+sorting of extension points with the most derived ones first in the list. --DD

@@ -1,0 +1,16 @@
+cost
+abstract squar optim abstractleastsquaresoptim
+comput cost
+fast math fastmath sqrt dot product dotproduct weight getweight oper
+optim provid move
+deprec class interfac deprec
+comput residu computeresidu
+version
+math
+base implement squar optim
+param residu residu
+method error estim
+arrai real vector arrayrealvector arrai real vector arrayrealvector residu
+link org apach common math3 fit leastsquar
+org apach common math3 optim nonlinear vector jacobian
+comput cost computecost residu

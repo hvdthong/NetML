@@ -1,0 +1,17 @@
+field matrix fieldmatrix matrix getsubmatrix start row startrow end row endrow
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+creat matrix creatematrix end row endrow start row startrow end column endcolumn start column startcolumn
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+start column startcolumn end column endcolumn
+start row startrow end row endrow
+matrix submatrix
+version
+check matrix index checksubmatrixindex start row startrow end row endrow start column startcolumn end column endcolumn
+param type field element
+matrix submatrix set entri setentri start row startrow start column startcolumn entri getentri
+number small except numberistoosmallexcept rang except outofrangeexcept
+field matrix fieldmatrix matrix submatrix

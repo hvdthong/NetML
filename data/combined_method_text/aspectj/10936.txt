@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+compil aftercompil compil unit declar compilationunitdeclar unit
+world eworld cleanup
+great check continu pr132314
+report error reportederror unit
+unit length
+unit unit compil result compilationresult unit compil result compilationresult error haserror
+report error reportederror
+termin compil isxterminateaftercompil report error reportederror proce error proceedonerror
+point weav requestor
+notifi requestor notifyrequestor
+weav weav notif weav progress
+weaver getworld flush pr152257
+except ioexcept
+abort compil abortcompil abort compil abortcompil
+runtim except runtimeexcept rex
+rex abort compil abortcompil rex rex instanceof abortcompil throw rex wrap abortcompil except
+unwrap compil handleinternalexcept nest
+runtimeexcept thrown back origin caller aspectj
+log compil problem
+abort compil abortcompil rex

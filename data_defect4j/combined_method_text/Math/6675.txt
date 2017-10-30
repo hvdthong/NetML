@@ -1,0 +1,28 @@
+pre
+org apach common math od nonstiff
+interpol adam bashforth multipl step
+step comput interpol equat consist
+rollback arrai bdarrai
+interpol comput dens output insid
+adam bashforth step interpol adamsbashforthstepinterpol multistep step interpol multistepstepinterpol
+param theta current theta
+version revis date
+deriv previou step
+adam bashforth integr adamsbashforthintegr
+subtract gamma eta theta
+product theta
+rollback theta
+product
+rollback
+comput rollback computerollback order theta
+theta belong interpol polynomi base
+integr step end interpol date
+comput gamma theta valu recurr relat
+param order order integr method
+rollback coeffici
+theta theta
+rollback gamma
+comput rollback coeffici
+combin eta integr backward differ arrai
+integr scheme base kind rollback
+order

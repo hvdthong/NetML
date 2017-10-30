@@ -1,0 +1,25 @@
+SQLExec.runStatements causes problems for JDK 1.5
+We are using the <sql> task to read in a .sql file to populate a database.  One
+of the INSERT statements that is used to populate a variable unlimited length
+column (declared as "TEXT" for Postgresql) is 1.5 million characters long.
+
+Using Ant 1.6.5 with JDK 1.4, the task completes in a few seconds.  However,
+using the same version of Ant with JDK 1.5.0 (build 1.5.0_05-b05), it takes 36
+minutes.
+
+After debugging the SQLExec class, it appears that the runStatements method
+contains an inefficient line of code.  Line 483 contains this code:
+
+if ((delimiterType.equals(DelimiterType.NORMAL)
+                 && sql.toString().endsWith(delimiter))
+
+By using the buffer's toString(), the entire buffer is getting searched (in
+addition to unneccessarily creating a new string) instead of using the last line
+read to locate the delimiter.
+
+If you change it to:
+
+if ((delimiterType.equals(DelimiterType.NORMAL) 
+                 && line.endsWith(delimiter))
+
+the problem is fixed.

@@ -1,0 +1,22 @@
+author stephen colebourn
+set instant
+set field make field invalid field
+month set februari dai invalid dai
+param set unit field
+author brian neill o'neil
+param instant millisecond t00 01t00 00z set
+singl field month year monthofyear minut secondofminut
+millisecond number standard implement provid assist
+field set
+chang closest 28th 29th februari
+design extens extract field
+date time field datetimefield
+defin set method manipul millisecond datetim
+defin calcul engin date time field
+chang current date 31st januari
+updat millisecond
+author gui allard
+invalid except thrown
+org joda time
+illeg argument except illegalargumentexcept invalid
+set millisecond suppli

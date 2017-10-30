@@ -1,0 +1,15 @@
+author stephen colebourn
+base durat basedur
+interv start instant startinst
+param start instant startinst instant start interv mean
+convert durat interv start instant
+link readabl durat readabledur
+interv start instant
+data code code durat millisecond field
+base durat basedur implement readabl durat readabledur store
+org joda time base
+kind durat object referenc
+author brian neill o'neil
+interv interv tointervalfrom readabl instant readableinst start instant startinst
+gener directli api user
+base durat basedur subclass mutabl thread safe

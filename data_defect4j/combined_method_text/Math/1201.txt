@@ -1,0 +1,45 @@
+code code bracket root
+param initi initi midpoint interv expand
+code code success
+link bracket univari real function univariaterealfunct
+endpoint unit time loop termin
+code initi code
+util routin link univari real solver univariaterealsolv object
+algorithm start set
+converg except convergenceexcept function evalu except functionevaluationexcept
+bracket function initi lower bound lowerbound upper bound upperbound integ max
+strong note strong method
+method attempt find valu satisfi
+continu code code mean code code
+version
+bracket univari real function univariaterealfunct function
+version revis date
+param function function
+code converg except convergenceexcept code confid
+root code lower bound lowerbound code code upper bound upperbound code
+bracket except nobracketingexcept root bracket
+function evalu except functionevaluationexcept error occur evalu
+integ max
+function
+param upper bound upperbound upper bound greater
+explicitli maximum number iter
+param lower bound lowerbound lower bound lower
+initi
+bracket function initi lower bound lowerbound upper bound upperbound
+converg except convergenceexcept
+code lower code code upper code
+posit initi lower bound lowerbound upper bound upperbound
+illeg argument except illegalargumentexcept function maximum iter maximumiter
+code lower bound lowerbound initi upper bound upperbound code
+lower bound lowerbound upper bound upperbound
+function code code code code move
+univari real solver util univariaterealsolverutil
+converg except convergenceexcept root bracket
+bracket root
+code initi initi code examin
+code code
+initi lower bound lowerbound upper bound upperbound
+element arrai hold
+code integ max code iter elaps
+org apach common math analysi solver
+code integ max code iter

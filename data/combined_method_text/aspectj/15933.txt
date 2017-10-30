@@ -1,0 +1,17 @@
+org aspectj bridg
+handler accumul messag
+control messag accumul
+client ignor messag kind
+instal listen interceptor
+interceptor handl messag null
+halt process accuml return true
+client obtain messag accumul method
+xxx permit messag remov
+messag handler messagehandl messag holder imessagehold
+param accumulateonli result handlemessag
+true accumul messag stop process
+messag handler messagehandl accumul accumulateonli
+messag arrai list arraylist
+ignor arrai list arraylist
+init accumul accumulateonli
+ignor messag imessag weaveinfo ignor imessag weaveinfo default explicitli enabl showweaveinfo

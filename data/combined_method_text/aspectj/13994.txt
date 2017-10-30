@@ -1,0 +1,11 @@
+org aspectj apach bcel gener
+lconst push valu except
+pre stack pre
+version lconst java aclement exp
+author href mailto marku dahm berlin dahm
+lconst instruct
+lconst
+org aspectj apach bcel constant lconst
+opcod org aspectj apach bcel constant lconst
+opcod org aspectj apach bcel constant lconst
+class gen except classgenexcept lconst

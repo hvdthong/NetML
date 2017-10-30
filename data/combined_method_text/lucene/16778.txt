@@ -1,0 +1,22 @@
+org apach lucen search function
+queri set document score programmat function score
+score subqueri queri
+option score valuesourcequeri queri
+simpl conveni case queri
+link org apach lucen search function fieldscorequeri fieldscorequeri
+subclass modifi comput overrid link getcustomscoreprovid
+lucen experiment
+custom score queri customscorequeri queri
+overrid
+scorer scorer atom reader context atomicreadercontext context score doc order scoredocsinord top scorer topscor except ioexcept
+pass true scoresdocsinord
+requir order score caller
+call advanc valsrcscor pass
+fals topscor invok
+score collector scorer
+scorer queri scorer subqueryscor queri weight subqueryweight scorer context
+queri scorer subqueryscor
+scorer val src scorer valsrcscor scorer val src weight valsrcweight length
+val src scorer valsrcscor length
+val src scorer valsrcscor val src weight valsrcweight scorer context top scorer topscor
+custom scorer customscor similar context reader queri scorer subqueryscor val src scorer valsrcscor

@@ -1,0 +1,54 @@
+CBZip2InputStream and CBZip2OutputStream produce strange exceptions when there's no data
+If you create a CBZip2OutputStream and immediately close it you get an 
+ArithmeticException.
+
+If you create a CBZip2InputStream with no input you get a 
+NullPointerException.  GZIPInputStream throws a EOFException which makes more 
+sense.
+
+Example:
+
+import org.apache.tools.bzip2.*;
+import java.io.*;
+
+public class AntBug {
+    public static void main(String[] args) {
+	try {
+	    CBZip2InputStream cb =
+		new CBZip2InputStream(new ByteArrayInputStream(new byte[0]));
+	    cb.close();
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
+	try {
+	    CBZip2OutputStream cb =
+		new CBZip2OutputStream(new ByteArrayOutputStream());
+	    cb.close();
+	} catch (Exception e) {
+	    e.printStackTrace();
+	}
+    }
+}
+
+Produces:
+
+java.lang.NullPointerException
+        at org.apache.tools.bzip2.CBZip2InputStream.bsR
+(CBZip2InputStream.java:285)
+        at org.apache.tools.bzip2.CBZip2InputStream.bsGetUChar
+(CBZip2InputStream.java:303)
+        at org.apache.tools.bzip2.CBZip2InputStream.initBlock
+(CBZip2InputStream.java:192)
+        at org.apache.tools.bzip2.CBZip2InputStream.<init>
+(CBZip2InputStream.java:140)
+        at AntBug.main(AntBug.java:7)
+java.lang.ArithmeticException: / by zero
+        at org.apache.tools.bzip2.CBZip2OutputStream.mainSort
+(CBZip2OutputStream.java:1135)
+        at org.apache.tools.bzip2.CBZip2OutputStream.doReversibleTransformation
+(CBZip2OutputStream.java:1347)
+        at org.apache.tools.bzip2.CBZip2OutputStream.endBlock
+(CBZip2OutputStream.java:438)
+        at org.apache.tools.bzip2.CBZip2OutputStream.close
+(CBZip2OutputStream.java:389)
+        at AntBug.main(AntBug.java:16)

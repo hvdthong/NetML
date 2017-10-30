@@ -1,0 +1,19 @@
+org apach lucen util
+link bytesrefhash special purpos hash map data structur
+optim link bytesref instanc bytesrefhash maintain map
+byte arrai ordin map bytesref int store hash byte
+effici continu storag map ordin
+encapsul insid link bytesrefhash guarante increas
+ad link bytesref
+note maximum capac link bytesref instanc pass
+link add bytesref longer link byteblockpool byte block size
+intern storag limit 2gb totalbyt storag
+lucen intern
+byte ref hash bytesrefhash
+return link bytesref ord
+note ord posit integ current size
+link size
+param ord
+ord
+return bytesref instanc ord
+byte ref bytesref ord

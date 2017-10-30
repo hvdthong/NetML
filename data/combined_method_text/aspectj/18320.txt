@@ -1,0 +1,31 @@
+org aspectj util
+load class file file dir url jar
+util class loader utilclassload url class loader urlclassload
+class load class loadclass string resolv
+class found except classnotfoundexcept
+search cach dir test
+system superclass url
+dir test
+class found except classnotfoundexcept thrown
+class result find load class findloadedclass
+result
+resolv
+result find system class findsystemclass
+class found except classnotfoundexcept
+thrown
+result
+result load class loadclass resolv
+class found except classnotfoundexcept
+thrown
+result null result resolv superclass
+result
+result
+data read class readclass
+data
+result defin class defineclass data data length
+handl classformaterror
+result
+thrown thrown class found except classnotfoundexcept
+resolv
+resolv class resolveclass result
+result

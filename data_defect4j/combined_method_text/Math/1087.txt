@@ -1,0 +1,59 @@
+exceed
+set result setresult min
+param initi start set min
+math ab initi yiniti function accuraci functionvalueaccuraci
+brent algorithm find zero real univari function
+initi min initi max
+reduc interv min initi bracket root
+find interv initi guess
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+min max initi
+result
+solv initi initi yiniti max max ymax initi initi yiniti
+set result setresult max ymax
+allow endpoint sign initi point
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept
+invalid interv initi paramet lower initi upper
+local format localizedformat invalid interv initi paramet
+solv univari real function univariaterealfunct
+fast math fastmath ab min ymin function accuraci functionvalueaccuraci
+math ab max ymax function accuraci functionvalueaccuraci
+initi yiniti max ymax
+initi yiniti initi
+function continu necessarili smooth
+verifi sequenc verifysequ min initi max
+throw code illeg argument except illegalargumentexcept code valu
+clear result clearresult
+function point sign note
+set result setresult initi
+param max upper bound interv
+set result setresult min ymin
+fast math fastmath ab initi yiniti function accuraci functionvalueaccuraci
+function
+version revis date lun juin
+reduc interv initi max bracket root
+full brent algorithm start provid initi guess
+min initi max
+bracket messag min max min ymin max ymax
+function evalu except functionevaluationexcept error occur evalu
+solv min min ymin max max ymax initi initi yiniti
+math ab min ymin function accuraci functionvalueaccuraci
+initi point
+illeg argument except illegalargumentexcept initi min max
+max ymax max
+param function solv
+initi yiniti min ymin
+initi guess good
+implement href http mathworld wolfram brent method brentsmethod html
+endpoint good
+param min lower bound interv
+fast math fastmath ab max ymax function accuraci functionvalueaccuraci
+root
+set result setresult max
+solv min min ymin initi initi yiniti min min ymin
+opposit sign function wise
+local format localizedformat sign endpoint min max min ymin max ymax
+brent solver brentsolv univari real solver impl univariaterealsolverimpl
+org apach common math analysi solver
+min ymin min
+max iter exceed except maxiterationsexceededexcept maximum iter count

@@ -1,0 +1,10 @@
+org aspectj intern tool ant taskdef
+instal ajinstal match task matchingtask
+write manifest writemanifest zip output stream zipoutputstream zout except ioexcept
+write stringbuff
+string buffer stringbuff buf string buffer stringbuff
+buf append manifest version
+buf append newlin
+buf append main class main class main class
+buf append newlin
+zip file zipfil string buffer input stream stringbufferinputstream buf string tostr zout meta inf manifest system current time milli currenttimemilli

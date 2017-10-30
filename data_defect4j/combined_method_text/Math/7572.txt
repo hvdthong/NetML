@@ -1,0 +1,77 @@
+overrid
+multivari real function multivariaterealfunct
+simplex optim simplexoptim
+converg checker converg iter prev simplex point getpoint
+comput object computeobjectivevalu point
+dedic method link cmae optim cmaesoptim link
+previou current simplex converg checker
+inherit doc inheritdoc
+cmae optim cmaesoptim
+simplex base direct search optim
+multivari real function multivariaterealfunct eval func evalfunc
+deriv comput approxim
+simplex
+compar real point pair realpointvaluepair
+link set simplex setsimplex abstract simplex abstractsimplex set simplex setsimplex method
+point
+function unpredict discontinu difficult complex
+abstract simplex abstractsimplex
+minim isminim goal type getgoaltyp goal type goaltyp minim
+point math user except mathuserexcept
+simplex build start point getstartpoint
+converg
+multivari real function penalti adapt multivariaterealfunctionpenaltyadapt
+direct search method object function valu
+converg checker convergencecheck real point pair realpointvaluepair checker converg checker getconvergencecheck
+simplex point getpoint
+link simpl scalar checker simplescalarvaluecheck
+call prior call code optim method
+simplex size getsiz
+version
+iter
+optim simpl bound optim
+move vertex provid start point
+real point pair realpointvaluepair optim dooptim math user except mathuserexcept
+link set converg checker setconvergencecheck converg checker convergencecheck call
+comput deriv imposs noisi
+converg check provid worst point
+bobyqa optim bobyqaoptim optim method wrap adapt
+set point dimens updat algorithm
+found optimum
+link multivari real function map adapt multivariaterealfunctionmappingadapt link
+object function valu vertic simplex
+direct search method
+optimum desir found case
+version revis date
+search
+step
+bobyqa optim bobyqaoptim
+optim start configur current simplex
+problem number paramet chang simplex
+compar real point pair realpointvaluepair compar
+real point pair realpointvaluepair
+multivari real function map adapt multivariaterealfunctionmappingadapt
+minim isminim doubl compar doubl compar
+real point pair realpointvaluepair prev previou
+converg checker converg iter previou simplex point getpoint
+initi search
+evalu counter
+indirect call comput object computeobjectivevalu order updat
+simplex iter eval func evalfunc compar
+simplex optim implement directli support constrain
+simplex base direct search method base comparison
+real point pair realpointvaluepair previou
+call link optim multivari real function multivariaterealfunct goal type goaltyp
+deriv paper margaret wright
+org apach common math optim direct
+previou simplex point getpoint
+getvalu
+bad point desir case
+initi dimens
+comput cost case optimum
+simplex evalu eval func evalfunc compar
+search method scorn respect
+optim code optim method call solv
+null argument except nullargumentexcept
+real point pair realpointvaluepair optim dooptim
+href http bell lab doc direct

@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+exact type pattern exacttypepattern type pattern typepattern
+fuzzi boolean fuzzyboolean match instanceof matchesinstanceof resolv type resolvedtyp match type matchtyp
+world object assign
+annot pattern annotationpattern resolv match type matchtyp world getworld
+type equal resolv type resolvedtyp object
+fuzzi boolean fuzzyboolean annot pattern annotationpattern match match type matchtyp
+type resolv match type matchtyp world getworld assign isassignablefrom match type matchtyp
+fuzzi boolean fuzzyboolean annot pattern annotationpattern match match type matchtyp
+fix coerc primit
+type primit type isprimitivetyp
+fuzzi boolean fuzzyboolean
+match type matchtyp coerceabl iscoerceablefrom type resolv match type matchtyp world getworld fuzzi boolean fuzzyboolean fuzzi boolean fuzzyboolean

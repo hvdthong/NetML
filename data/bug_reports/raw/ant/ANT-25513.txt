@@ -1,0 +1,5 @@
+Please add 'level' property to JAR/ZIP tasks
+Jar/ZIP tasks lack of compression level settings. It's really important when 
+building JARs for J2ME platform where the size really matters!!! I changed the 
+code in the sources locally and hardcoded level to Deflater.BEST_COMPRESSION 
+but this change might be helpful for other developers!

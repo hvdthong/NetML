@@ -1,0 +1,13 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+compar object object
+program element iprogramel sv1 structur view node istructureviewnod structur node getstructurenod
+program element iprogramel sv2 structur view node istructureviewnod structur node getstructurenod
+sv1 program element iprogramel sv2 program element iprogramel
+program element iprogramel program element iprogramel sv1
+program element iprogramel program element iprogramel sv2
+kind getkind program element iprogramel kind import refer import refer
+kind getkind program element iprogramel kind import refer import refer
+sourc locat getsourceloc sourc locat getsourceloc
+sourc locat getsourceloc line getlin sourc locat getsourceloc line getlin

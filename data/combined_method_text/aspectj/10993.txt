@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil
+author colyer
+class weaver sourc class file weav
+iter iclassfileprovid interfac receiv result back
+weaver iweaverequestor interfac
+weaver adapt weaveradapt class file provid iclassfileprovid weav requestor iweaverequestor iter
+accept result acceptresult unwoven class file unwovenclassfil result
+kei result class getclassnam replac char arrai tochararrai
+remov map removefrommap return result lastreturnedresult result compil type compiledtyp kei
+string class classnam result class getclassnam replac
+class file ajclassfil ajcf class file ajclassfil class classnam char arrai tochararrai
+result byte getbyt
+return result lastreturnedresult result record ajcf file filenam ajcf
+system err println progressphaseprefix result getclassnam nowprocess filenam
+weaver messag handler weavermessagehandl handl messag handlemessag messag util messageutil info progress phase prefix progressphaseprefix result class getclassnam process nowprocess file filenam
+progress listen progresslisten
+progress complet count progresscompletioncount
+smoothli progress 'frompercent' 'topercent'
+record progress recordprogress
+percent fromperc
+progress complet count progresscompletioncount progress max type progressmaxtyp percent toperc percent fromperc
+progress phase prefix progressphaseprefix result class getclassnam process nowprocess file filenam
+progress listen progresslisten cancel request iscancelledrequest
+abort compil abortcompil oper cancel except operationcanceledexcept weav cancel request

@@ -1,0 +1,4 @@
+org aspectj weaver
+field type munger newfieldtypemung resolv type munger resolvedtypemung
+resolv member resolvedmemb init method getinitmethod unresolv type unresolvedtyp aspect type aspecttyp
+ajc member maker ajcmembermak inter field initi interfieldiniti signatur aspect type aspecttyp

@@ -1,0 +1,12 @@
+org aspectj weaver
+hold member invas effect
+compil unit member gather
+world weav place
+import compil process gather
+inter type declar weav stage unsurprisingli
+member concret
+author jim hugunin
+crosscut member crosscuttingmemb
+add privileg access addprivilegedaccess collect access member accessedmemb
+iter access member accessedmemb iter hasnext
+add privileg access addprivilegedaccess resolv member resolvedmemb

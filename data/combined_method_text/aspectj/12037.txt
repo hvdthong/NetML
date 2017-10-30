@@ -1,0 +1,19 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+set lint properti setlintproperti bcel world bcelworld world compil option ajcompileropt option
+properti properti
+lint lint set lintset world lint getlint
+map map option map getmap
+put lint set lintset invalid absolut type invalidabsolutetypenam getnam map compil option ajcompileropt option report invalid absolut type option reportinvalidabsolutetypenam
+put lint set lintset invalid wildcard type invalidwildcardtypenam getnam map compil option ajcompileropt option report invalid wildcard type option reportinvalidwildcardtypenam
+put lint set lintset unresolv member unresolvablememb getnam map compil option ajcompileropt option report unresolv member option reportunresolvablememb
+put lint set lintset type expos weaver typenotexposedtoweav getnam map compil option ajcompileropt option report type expos weaver option reporttypenotexposedtoweav
+put lint set lintset shadow structur shadownotinstructur getnam map compil option ajcompileropt option report shadow structur option reportshadownotinstructur
+put lint set lintset unmatch super type call unmatchedsupertypeincal getnam map compil option ajcompileropt option report unmatch super type call option reportunmatchedsupertypeincal
+put lint set lintset implement lazi tjp cannotimplementlazytjp getnam map compil option ajcompileropt option report implement lazi tjp option reportcannotimplementlazytjp
+put lint set lintset serial version uid field needsserialversionuidfield getnam map compil option ajcompileropt option report serial version uid field option reportneedserialversionuidfield
+put lint set lintset serial version uid broken serialversionuidbroken getnam map compil option ajcompileropt option report incompat serial version option reportincompatibleserialvers
+lint set lintset set properti setfromproperti

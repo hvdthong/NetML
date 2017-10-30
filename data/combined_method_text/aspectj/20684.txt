@@ -1,0 +1,247 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+weav inlin weavearoundinlin bcel advic bceladvic munger dynam test hasdynamictest
+block code method call weavearound
+member munger sig mungersig munger signatur getsignatur
+member originalsig mungersig mungersig parameter type originalsig member gener type
+munger sig mungersig resolv member resolvedmemb
+resolv member resolvedmemb resolv member resolvedmemb munger sig mungersig
+back gener member hasbackinggenericmemb munger sig mungersig back gener member getbackinggenericmemb
+resolv type resolvedtyp declar type declaringtyp world resolv munger sig mungersig declar type getdeclaringtyp
+declar type declaringtyp miss ismiss
+world lint getlint find type cantfindtyp signal
+string weaver messag weavermessag format weaver messag weavermessag find type weav find type weav declar type declaringtyp class getclassnam
+sourc locat getsourceloc
+sourc locat isourceloc munger sourc locat getsourceloc
+imessag msg messag
+weavermessag format weavermessag find type weav declaringtyp getclassnam
+imessag error getsourceloc null
+isourceloc munger getsourceloc
+world getmessagehandl handlemessag msg
+check give error
+resolv type resolvedtyp declar type declaringtyp parameter type isparameterizedtyp declar type declaringtyp gener type getgenerictyp declar type declaringtyp
+bcel object type bcelobjecttyp bcel world bcelworld bcel object type getbcelobjecttyp
+null
+world getmessagehandl handlemessag
+messageutil warn unabl find modifi deleg aspect getnam advic implement inlin munger getsourceloc
+weavearoundclosur munger hasdynamictest
+return
+lazi method gen lazymethodgen advic method advicemethod lazi class gen getlazyclassgen lazi method gen getlazymethodgen munger sig mungersig
+advic method advicemethod inlin getcaninlin
+weav closur weavearoundclosur munger dynam test hasdynamictest
+specif test proceedininn
+munger concret aspect getconcreteaspect annot style aspect isannotationstyleaspect
+find proce suspect call
+happen class inlin
+note code style aspect compil time
+proce pass canseeproceedpassedtooth
+instruct handl instructionhandl curr advic method advicemethod bodi getbodi start getstart
+instruct handl instructionhandl end advic method advicemethod bodi getbodi end getend
+constant pool gen constantpoolgen cpg advic method advicemethod enclos class getenclosingclass constant pool gen getconstantpoolgen
+curr end
+instruct handl instructionhandl curr getnext
+instruct inst curr instruct getinstruct
+inst invok instruct invokeinstruct
+invok instruct invokeinstruct inst signatur getsignatur cpg index indexof lorg aspectj lang proceedingjoinpoint
+refin exclud stuff return
+code style skip inlin write dump thisjoinpoint
+proce pass canseeproceedpassedtooth canseeproceedpassedtooth true pjp pass danger
+curr
+proce pass canseeproceedpassedtooth
+rememb decis avoid analysi
+advic method advicemethod set inlin setcaninlin
+weav closur weavearoundclosur munger dynam test hasdynamictest
+inlin method advic
+weav extract bodi proce call
+optim recogn simpl case requir bodi extract
+enclos method enclosingmethod set inlin setcaninlin
+start expos thing frame
+instruct factori instructionfactori fact factori getfactori
+gener aroundbodi method
+privat static final void method aroundbody0 string org aspectj lang joinpoint
+lazi method gen lazymethodgen extract method extractedmethod
+extract method extractmethod
+mangler namemangl callback method aroundcallbackmethodnam signatur getsignatur enclos class getenclosingclass
+modifi privat
+munger
+extract advic method
+string advic method advicemethodnam
+mangler namemangl callback method aroundcallbackmethodnam signatur getsignatur enclos class getenclosingclass advic
+list arg var list argvarlist arrai list arraylist
+list proce var list proceedvarlist arrai list arraylist
+extra param offset extraparamoffset
+creat extra paramet need pass proce
+code similar found makecalltocallback
+ration futur
+var thisvar
+arg var list argvarlist add var thisvar
+proce var list proceedvarlist add bcel var bcelvar var thisvar type gettyp extra param offset extraparamoffset
+extra param offset extraparamoffset var thisvar type gettyp size getsiz
+target var targetvar target var targetvar var thisvar
+arg var list argvarlist add target var targetvar
+proce var list proceedvarlist add bcel var bcelvar target var targetvar type gettyp extra param offset extraparamoffset
+extra param offset extraparamoffset target var targetvar type gettyp size getsiz
+len arg count getargcount len
+arg var list argvarlist add arg var argvar
+proce var list proceedvarlist add bcel var bcelvar arg var argvar type gettyp extra param offset extraparamoffset
+extra param offset extraparamoffset arg var argvar type gettyp size getsiz
+join point var thisjoinpointvar
+arg var list argvarlist add join point var thisjoinpointvar
+proce var list proceedvarlist add bcel var bcelvar join point var thisjoinpointvar type gettyp extra param offset extraparamoffset
+extra param offset extraparamoffset join point var thisjoinpointvar type gettyp size getsiz
+munger signatur parameter munger pointcut
+occur pointcut super aspect foo aspect
+munger signatur 'foo' argument whilst advicemethod argument type 'object'
+repres advic method superaspect erasur type variabl object pr174449
+type advic paramet type adviceparametertyp
+bcel world bcelworld make bcel type makebceltyp munger signatur getsignatur paramet type getparametertyp
+advicemethod getargumenttyp
+advic method advicemethod argument type getargumenttyp advicemethod getargumenttyp forc initi dont requir test pass mean
+lazymethodgen method correctli setup call initi invok dont
+time discov
+type extract method paramet type extractedmethodparametertyp extract method extractedmethod argument type getargumenttyp
+type paramet type parametertyp
+type extract method paramet type extractedmethodparametertyp length
+advic paramet type adviceparametertyp length
+paramet index parameterindex
+system arraycopi
+extract method paramet type extractedmethodparametertyp
+paramet type parametertyp
+paramet index parameterindex
+extract method paramet type extractedmethodparametertyp length
+paramet index parameterindex extract method paramet type extractedmethodparametertyp length
+paramet type parametertyp paramet index parameterindex
+bcel world bcelworld make bcel type makebceltyp advic method advicemethod enclos class getenclosingclass type gettyp
+system arraycopi
+advic paramet type adviceparametertyp
+paramet type parametertyp
+paramet index parameterindex
+advic paramet type adviceparametertyp length
+lazi method gen lazymethodgen local advic method localadvicemethod
+lazi method gen lazymethodgen
+modifi privat modifi final modifi static
+bcel world bcelworld make bcel type makebceltyp munger sig mungersig return type getreturntyp
+advic method advicemethodnam
+paramet type parametertyp
+string
+enclos class getenclosingclass
+string donor file donorfilenam advic method advicemethod enclos class getenclosingclass intern file getinternalfilenam
+string recipi file recipientfilenam enclos class getenclosingclass intern file getinternalfilenam
+system err println donor donorfilenam
+system err println recip recipientfilenam
+donor file donorfilenam equal recipi file recipientfilenam
+local advic method localadvicemethod filenam fromfilenam donor file donorfilenam
+enclos class getenclosingclass add inlin sourc file info addinlinedsourcefileinfo
+donor file donorfilenam
+advic method advicemethod highest line number highestlinenumb
+enclos class getenclosingclass add method gen addmethodgen local advic method localadvicemethod
+creat map move slot advic method forward extraparamoffset
+order make room proce requir argument ad
+begin paramet list
+var nvar advic method advicemethod max local getmaxloc extra param offset extraparamoffset
+int map intmap var map varmap int map intmap map idmap var nvar
+extra param offset extraparamoffset var nvar
+var map varmap put extra param offset extraparamoffset
+local advic method localadvicemethod bodi getbodi insert
+bcel class weaver bcelclassweav gen inlin instruct geninlineinstruct advic method advicemethod
+local advic method localadvicemethod var map varmap fact
+local advic method localadvicemethod set max local setmaxloc var nvar
+system err println localadvicemethod
+shadow empti creat correct call
+advic includ call involv
+convers advic argument return
+involv convers return
+push null unus closur sad
+instruct list instructionlist advic instruct list instructionlist
+instructionhandl advicemethodinvoc
+iter arg var list argvarlist iter hasnext
+bcel var bcelvar var bcel var bcelvar
+var append load appendload advic fact
+push null closur care
+advic append
+munger advic arg setup getadviceargsetup
+munger concret aspect getconcreteaspect annot style aspect isannotationstyleaspect munger declar aspect getdeclaringaspect munger declar aspect getdeclaringaspect resolv world annot style aspect isannotationstyleaspect
+load join point loadthisjoinpoint
+instruct list instructionlist instruct constant instructionconst aconst null aconst null
+advicemethodinvoc
+advic append
+util creat invok createinvok fact local advic method localadvicemethod util createinvok fact localadvicemethod fact getworld munger getsignatur
+advic append
+util creat convers createconvers
+factori getfactori
+bcel world bcelworld make bcel type makebceltyp munger sig mungersig return type getreturntyp
+extract method extractedmethod return type getreturntyp world java5 mode isinjava5mod
+fall isfallsthrough
+advic append instruct factori instructionfactori creat return createreturn extract method extractedmethod return type getreturntyp
+situat call insid dynam test
+add mess shadow
+dynam test hasdynamictest
+rang append advic
+instruct list instructionlist thingi afterthingi instruct list instructionlist instruct constant instructionconst nop
+instruct list instructionlist callback make call callback makecalltocallback extract method extractedmethod
+termin return terminateswithreturn
+callback append
+instruct factori instructionfactori creat return createreturn extract method extractedmethod return type getreturntyp
+instructionhandl endnop rang insert fact nop rang insideaft
+advic append
+instruct factori instructionfactori creat branch instruct createbranchinstruct
+constant goto
+thingi afterthingi start getstart
+rang append
+munger test instruct gettestinstruct
+advic start getstart
+callback start getstart
+advic start getstart
+rang append advic
+rang append callback
+rang append thingi afterthingi
+search advic call proce
+replac call proce argument setup
+call extract method
+inlin support code style aspect
+munger declar type getdeclaringtyp annot style aspect isannotationstyleaspect
+string proce proceednam
+mangler namemangl proce method proceedmethodnam munger signatur getsignatur getnam
+instruct handl instructionhandl curr local advic method localadvicemethod bodi getbodi start getstart
+instruct handl instructionhandl end local advic method localadvicemethod bodi getbodi end getend
+constant pool gen constantpoolgen cpg local advic method localadvicemethod enclos class getenclosingclass constant pool gen getconstantpoolgen
+curr end
+instruct handl instructionhandl curr getnext
+instruct inst curr instruct getinstruct
+inst invokestat
+proce proceednam equal invokestat inst method getmethodnam cpg
+local advic method localadvicemethod bodi getbodi append
+curr
+redon proce call getredoneproceedcal
+fact
+extract method extractedmethod
+munger
+local advic method localadvicemethod
+proce var list proceedvarlist
+util delet instruct deleteinstruct curr local advic method localadvicemethod
+curr
+ataj inlin support aspect
+todo document code rule manipul jp proce time advic bodi
+instruct handl instructionhandl curr local advic method localadvicemethod bodi getbodi start getstart
+instruct handl instructionhandl end local advic method localadvicemethod bodi getbodi end getend
+constant pool gen constantpoolgen cpg local advic method localadvicemethod enclos class getenclosingclass constant pool gen getconstantpoolgen
+curr end
+instruct handl instructionhandl curr getnext
+instruct inst curr instruct getinstruct
+inst invokeinterfac
+proce equal invokeinterfac inst method getmethodnam cpg
+proce arg isproceedwitharg
+invokeinterfac inst argument type getargumenttyp cpg length
+proce arg box object
+proce arg isproceedwitharg
+proce arg isproceedwitharg
+instruct list instructionlist proce insteadproceedil redon proce call annot style getredoneproceedcallforannotationstyl
+fact
+extract method extractedmethod
+munger
+local advic method localadvicemethod
+proce var list proceedvarlist
+proce arg isproceedwitharg
+local advic method localadvicemethod bodi getbodi append curr proce insteadproceedil
+util delet instruct deleteinstruct curr local advic method localadvicemethod
+curr

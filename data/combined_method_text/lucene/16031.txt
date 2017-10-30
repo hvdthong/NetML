@@ -1,0 +1,108 @@
+org apach lucen search
+link queri match numer valu
+rang index
+numer valu link numericfield expert link
+numerictokenstream term textual
+link termrangequeri link
+numericrangefilt filter equival
+queri
+creat numericrangequeri static
+factori method
+pre
+queri numericrangequeri newfloatrang weight 03f 10f true true
+pre
+match document float valu weight field
+rang inclus
+perform numericrangequeri
+link termrangequeri
+number term search
+fewer trie index
+option
+href precisionstepdesc code precisionstep code
+creat queri
+chang configur default
+index lower valu consum disk space speed
+search suitabl valu
+good start point test
+default code numer code
+class href precisionstepdesc
+detail
+queri default linkplain
+multitermqueri constant score auto rewrit default
+bit int float rang precisionstep
+bit long doubl rang precisionstep
+linkplain
+multitermqueri constant score filter rewrit
+number term high precis
+step queri run
+booleanqueri rewrit method chang
+booleanqueri default max claus count
+lucen experiment
+work
+public target blank href http www panfmp org panfmp
+algorithm refer code trierangequeri code
+blockquot strong schindler diepenbroek strong
+gener xml base framework metadata portal
+comput amp geoscienc
+href http doi org cageo
+target blank doi cageo blockquot
+quot paper apach lucen full text
+search engin convent databas handl numer rang
+field insid user defin bound date numer valu
+develop extens apach lucen store
+numer valu special string encod format variabl precis
+numer valu doubl long float int convert
+lexicograph sortabl string represent store precis
+detail descript valu store
+link numericutil rang divid recurs multipl interv search
+center rang search lowest precis trie
+boundari match reduc number term dramat
+variant store long valu precis reduc bit
+lowest precis byte index maximum distinct valu
+lowest precis rang consist theoret maximum
+code code distinct term term distinct
+byte number index rang cover maximum distinct valu
+reduc full valu term degrad precis
+practic term case index metadata record
+uniform distribut
+precisionstepdesc precis step
+choos code precisionstep code encod valu
+lower step valu precis term index index larger
+hand maximum number term match reduc optim queri speed
+formula calcul maximum term count
+pre
+bitspervalu precisionstep precisionstep precisionstep
+pre
+formula correct code bitspervalu precisionstep code integ
+case round summand modulo divis
+precis step
+long store precis step code code precis
+step code code faster search speed reduc seek
+term enum index ideal code precisionstep code
+found test import index lower precis step test search speed
+multipl origin step
+good valu code precisionstep code depend usag data type
+default data type code precisionstep code
+ideal case bit data type long doubl
+ideal case bit data type int float
+low cardin field larger precis step good cardin
+fair link integ max
+step long doubl int float produc token
+index queri slow convent link termrangequeri
+produc field sole sort case simpli link integ max
+code precisionstep code link numericfield numericfield sort
+ideal build field cach faster text number
+field term work term enumer build distinct list
+facet preselect valu search
+sort rang queri optim field code precisionstep code
+comparison type rangequeri index doc show
+link termrangequeri boolean rewrit mode rais link booleanqueri claus count
+sec complet link termrangequeri constant score filter rewrit mode sec
+execut class 100m complet opteron64 machin java bit
+precis step queri type develop geograph portal perform
+bound box exact date time stamp import
+numer rang queri numericrangequeri number multi term queri multitermqueri
+dummi class
+overrid
+end enum endenum
+unsupport oper except unsupportedoperationexcept implement

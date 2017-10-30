@@ -1,0 +1,13 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+string output class file getoutputclassfilenam eclips class file eclipseclassfilenam compil result compilationresult result
+ajdt implement provid write result
+xxximagebuild acceptresult
+simpli return default output directori project
+string filenam string eclips class file eclipseclassfilenam
+path ipath output locat outputloc append filenam
+add file extens addfileextens class
+string toosstr

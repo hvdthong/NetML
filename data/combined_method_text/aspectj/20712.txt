@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+string shortnam getshortnam string path
+takefrom path index lastindexof
+takefrom
+takefrom path index lastindexof
+path substr takefrom

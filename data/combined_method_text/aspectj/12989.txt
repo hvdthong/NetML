@@ -1,0 +1,39 @@
+org aspectj apach bcel classfil annot
+element elementvalu
+element elementvalu read element readelementvalu data input stream datainputstream di constant pool constantpool cpool except ioexcept
+type di read unsign byte readunsignedbyt
+type
+case 'b' byte
+simpl element simpleelementvalu primit byte primit byte di read unsign short readunsignedshort cpool
+case 'c' char
+simpl element simpleelementvalu primit char primit char di read unsign short readunsignedshort cpool
+case 'd' doubl
+simpl element simpleelementvalu primit doubl primit doubl di read unsign short readunsignedshort cpool
+case 'f' float
+simpl element simpleelementvalu primit float primit float di read unsign short readunsignedshort cpool
+case 'i' int
+simpl element simpleelementvalu primit int primit int di read unsign short readunsignedshort cpool
+case 'j' long
+simpl element simpleelementvalu primit long primit long di read unsign short readunsignedshort cpool
+case 's' short
+simpl element simpleelementvalu primit short primit short di read unsign short readunsignedshort cpool
+case 'z' boolean
+simpl element simpleelementvalu primit boolean primit boolean di read unsign short readunsignedshort cpool
+case 's' string
+simpl element simpleelementvalu string di read unsign short readunsignedshort cpool
+case 'e' enum constant
+enum element enumelementvalu enum constant enum constant di read unsign short readunsignedshort di read unsign short readunsignedshort cpool
+case 'c' class
+class element classelementvalu class di read unsign short readunsignedshort cpool
+j5todo 'true' statement differ make
+'super annotation' contain
+case annot
+annot element annotationelementvalu annot annot read di cpool cpool
+case arrai
+num arrai val numarrayv di read unsign short readunsignedshort
+list arrai val arrayv arrai list arraylist
+element elementvalu evalu element elementvalu num arrai val numarrayv
+num arrai val numarrayv
+evalu element elementvalu read element readelementvalu di cpool
+arrai element arrayelementvalu arrai evalu cpool
+runtim except runtimeexcept unexpect element kind annot type

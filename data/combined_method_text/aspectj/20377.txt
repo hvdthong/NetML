@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+call link bcelweav perform class weav process
+weav
+bcel world bcelworld world
+lazi class gen lazyclassgen clazz
+list shadow munger shadowmung
+list type munger typemung
+list late type munger latetypemung
+bcel class weaver bcelclassweav world clazz shadow munger shadowmung type munger typemung late type munger latetypemung weav
+system println clazz getclassnam clazz gettyp getweaverst
+clazz print

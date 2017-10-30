@@ -1,0 +1,15 @@
+call tosourc pars script lambda return extra return semi colon sampl attach
+user agent mozilla window window gecko firefox
+build 20110902133716
+step reproduc
+string sourc
+parser parser parser
+astroot astroot parser pars stringread sourc null
+system println astroot tosourc
+actual result
+output
+function return
+
+expect result
+output
+function

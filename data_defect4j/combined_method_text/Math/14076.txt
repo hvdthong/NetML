@@ -1,0 +1,17 @@
+overrid
+entri put comput kei computekei row column
+org apach common math3 linear
+entri remov comput kei computekei row column
+param type field element
+inherit doc inheritdoc
+spars matrix implement base open address map
+set entri setentri row column
+href http issu apach org jira brows math ticket
+field getfield getzero equal
+version
+check column index checkcolumnindex column
+check row index checkrowindex row
+jira
+deprec version deprec reason expos
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+remov version

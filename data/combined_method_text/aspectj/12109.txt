@@ -1,0 +1,8 @@
+org aspectj ajdt intern core builder
+state environ statefulnameenviron environ inameenviron
+environ answer nameenvironmentansw find type findtyp
+type typenam
+packag packagenam
+environ answer nameenvironmentansw ret find type findtyp string char oper charoper concat concatwith packag packagenam type typenam
+ret ret
+base environ baseenviron find type findtyp type typenam packag packagenam

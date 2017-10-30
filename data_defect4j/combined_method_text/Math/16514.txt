@@ -1,0 +1,12 @@
+param dimens vector dimens
+bia correct isbiascorrect bia correct isbiascorrect
+vectori covari vectorialcovari serializ
+org apach common math3 stat descript moment
+comput bias popul covari
+product sum productssum dimens dimens
+version
+vectori covari vectorialcovari dimens bia correct isbiascorrect
+construct vectori covari vectorialcovari
+sum dimens
+param bia correct isbiascorrect comput unbias sampl covari
+return covari matrix vector

@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+add parent type munger addparenttypemung string type typenam
+weav parent type munger weaveparenttypemung world resolv type typenam

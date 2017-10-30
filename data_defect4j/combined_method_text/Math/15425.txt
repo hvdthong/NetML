@@ -1,0 +1,57 @@
+overrid
+point pair pointvaluepair current
+inherit doc inheritdoc
+org apach common math3 optim gener
+linear conjug gradient optim
+goal type goaltyp goal goal type getgoaltyp
+linear conjug gradient optim nonlinearconjugategradientoptim
+steepest descent steepestdesc steepest descent newsteepestdesc
+delta deltaold delta
+find upper bound findupperbound lsf initi step initialstep
+steepest descent newsteepestdesc precondition precondit point
+work diverg problem test circl fit testcirclefit
+initi search direct
+xxx paramet set close order
+updat formula updateformula conjug gradient formula conjugategradientformula fletcher reev
+iter
+max eval maxev solver evalu getevalu subtract evalu
+current
+version
+valid point
+comput object gradient computeobjectivegradi point
+point pair pointvaluepair previou current
+option precondit
+beta delta delta deltaold
+found optimum
+comput beta
+previou
+unit test math
+point step search direct searchdirect
+goal goal type goaltyp minim
+current point pair pointvaluepair point object
+beta
+delta
+univari function univariatefunct lsf line search function linesearchfunct search direct searchdirect
+point start point getstartpoint
+converg checker convergencecheck point pair pointvaluepair checker converg checker getconvergencecheck
+break conjug reset search direct
+deprec remov
+checker converg iter previou current
+beta delta delta mid deltamid delta deltaold
+delta mid deltamid
+delta search direct searchdirect
+object comput object computeobjectivevalu point
+delta steepest descent newsteepestdesc
+steepest descent steepestdesc precondition precondit point
+step solver solv max eval maxev lsf
+support fletcher reev polak ribi egrav
+point length
+comput conjug search direct
+search direct searchdirect steepest descent steepestdesc beta search direct searchdirect
+length
+max eval maxev max evalu getmaxevalu
+find optim step search direct
+search direct searchdirect steepest descent steepestdesc clone
+point pair pointvaluepair optim dooptim
+updat formula conjug search direct support
+delta mid deltamid steepest descent steepestdesc

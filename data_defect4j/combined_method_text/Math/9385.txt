@@ -1,0 +1,10 @@
+ad regress model updat
+intercept hasintercept
+entir data set load memori observ
+constant exist
+estim regress statist calcul
+regress model allow dynam updat data
+version
+return constant includ
+org apach common math stat regress
+updat multipl linear regress updatingmultiplelinearregress

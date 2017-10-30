@@ -1,0 +1,17 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+unwoven class file unwovenclassfil creat unwoven class file createunwovenclassfil build config ajbuildconfig binari sourc file binarysourcefil bsf
+unwoven class file unwovenclassfil ucf
+file output dir outputdir build config buildconfig output dir getoutputdir
+build config buildconfig compil result destin manag getcompilationresultdestinationmanag
+createunwovenclassfil call class inpath
+inpath class put defaultoutputloc
+output dir
+output dir outputdir build config buildconfig compil result destin manag getcompilationresultdestinationmanag default output locat getdefaultoutputloc
+ucf weaver add class file addclassfil bsf bin src binsrc bsf path directori frominpathdirectori output dir outputdir
+except ioexcept
+messag imessag msg messag read class file bsf bin src binsrc path getpath
+sourc locat sourceloc bsf bin src binsrc
+build manag buildmanag handler handl messag handlemessag msg
+ucf

@@ -1,0 +1,77 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+execut separ
+differ normal execut
+ignor messag holder class set
+resourc copi inter run
+failonerror fail process interfac fail
+return neg valu
+param arg string complet compil command execut
+defaultcompileradapt executeexternalcompil string int
+throw buildexcept ajc abort neg
+failonerror compil error
+execut executeinothervm string arg
+java cmd javacmd set classnam setclassnam org aspectj tool ajc main getnam
+path classpath vmclasspath java cmd javacmd creat classpath createclasspath project getproject
+file aspectjtool
+classpath size vmclasspaths classpath vmclasspath size
+forkclasspath
+forkclasspath size
+classpath vmclasspath add exist addexist forkclasspath
+aspectjtool find aspectjtool jar findaspectjtoolsjar
+aspectjtool
+classpath vmclasspath creat path element createpathel set locat setloc aspectjtool
+classpath size newvmclasspaths classpath vmclasspath size
+classpath size vmclasspaths classpath size newvmclasspaths
+string unabl find aspectjtool fork
+aspectjtool
+aspectjtool string tostr
+forkclasspath
+forkclasspath string tostr
+defin forkclasspath put aspectjtool classpath
+build except buildexcept
+max mem maxmem
+java cmd javacmd set maxmemori setmaxmemori max mem maxmem
+file temp file tempfil
+num arg numarg arg length
+arg guard command guardedcommand limit limitto arg max commandlin max commandlin locat getloc
+arg length num arg numarg
+temp file tempfil file arg
+set messag holder fork setmessageholderonfork messag holder messagehold
+string java arg javaarg java cmd javacmd commandlin getcommandlin
+string string java arg javaarg length arg length set messag holder fork setmessageholderonfork
+system arraycopi java arg javaarg java arg javaarg length
+system arraycopi arg java arg javaarg length arg length
+set messag holder fork setmessageholderonfork
+length messagehold
+length messag holder messagehold class getclass getnam
+javaw window
+end endswith java ex
+string path
+path path substr path length
+path path ex
+file javaw file path
+javaw read canread javaw file isfil
+path
+log verbos logverbos fork arrai list aslist
+result exec execinothervm
+result
+build except buildexcept failur result run ajc
+failonerror result
+build except buildexcept compil error result
+fork complet end success
+complet task docompletiontask
+temp file tempfil
+temp file tempfil delet

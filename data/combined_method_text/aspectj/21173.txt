@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+unwoven class file unwovenclassfil
+delet child class file deletechildclassfil string innernam
+file child class file childclassfil file make file makeinnerfilenam innernam
+child class file childclassfil delet

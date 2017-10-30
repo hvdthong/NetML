@@ -1,0 +1,61 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+instal global valu local config
+valu conflict
+collect union
+valu take local default global set
+set outputdir outputjar need
+configur super javaopt chang
+param global ajbuildconfig read global
+instal global installglob build config ajbuildconfig global public void installglob ajbuildconfig global xxx reli default valu
+join option default care
+map optionsmap option getmap
+join optionsmap global getopt getmap
+option set optionsmap
+join aspectpath global aspectpath
+join classpath global classpath
+config file configfil
+config file configfil global config file configfil configfil global configfil xxx correct
+emac sym mode isemacssymmod global emac sym mode isemacssymmod
+set emac sym mode setemacssymmod
+join file global file
+gener model mode isgeneratemodelmod global gener model mode isgeneratemodelmod
+set gener model mode setgeneratemodelmod
+increment file incrementalfil
+increment file incrementalfil global increment file incrementalfil
+increment mode incrementalmod global increment mode incrementalmod
+increment mode incrementalmod
+join jar injar global jar injar
+join path inpath global path inpath
+lint mode lintmod
+ajlint default ajlint default equal lint mode lintmod
+set lint mode setlintmod global lint mode lintmod
+lint spec file lintspecfil
+lint spec file lintspecfil global lint spec file lintspecfil
+termin compil isterminateaftercompil global termin compil isterminateaftercompil
+set termin compil setterminateaftercompil
+output dir outputdir output jar outputjar
+global output dir outputdir
+output dir outputdir global output dir outputdir
+global output jar outputjar
+output jar outputjar global output jar outputjar
+join sourc root sourceroot global sourc root sourceroot
+xno inlin isxnoinlin global xno inlin isxnoinlin
+set xno inlin setxnoinlin
+xserializ aspect isxserializableaspect global xserializ aspect isxserializableaspect
+set xserializ aspect setxserializableaspect
+xlazi tjp isxlazytjp global xlazi tjp isxlazytjp
+set xlazi tjp setxlazytjp
+proce error getproceedonerror global proce error getproceedonerror
+set proce error setproceedonerror
+set target aspectj runtim level settargetaspectjruntimelevel global target aspectj runtim level gettargetaspectjruntimelevel
+set joinpoint setxjoinpoint global joinpoint getxjoinpoint
+member enabl isxhasmemberen global member enabl isxhasmemberen
+set member support setxhasmembersupport
+reweav isxnotreweav global reweav isxnotreweav
+set xnot reweav setxnotreweav
+set outxml setoutxmlnam global outxml getoutxmlnam
+set xconfigur info setxconfigurationinfo global xconfigur info getxconfigurationinfo
+set add serial ver uid setaddserialveruid global add serial ver uid isaddserialveruid

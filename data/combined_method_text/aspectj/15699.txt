@@ -1,0 +1,25 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+program element iprogramel find class node findclassinnod collect node string string type typenam
+string base basenam
+string innernam
+dollar index indexof
+dollar
+base basenam
+innernam
+base basenam substr dollar
+innernam substr dollar
+iter node iter hasnext
+program element iprogramel class node classnod program element iprogramel
+base basenam equal class node classnod getnam
+innernam class node classnod
+find class node findclassinnod class node classnod children getchildren innernam type typenam
+equal class node classnod getnam
+class node classnod
+type typenam equal class node classnod bytecod signatur getbytecodesignatur
+class node classnod
+class node classnod children getchildren class node classnod children getchildren empti isempti
+program element iprogramel node find class node findclassinnod class node classnod children getchildren type typenam
+node
+node

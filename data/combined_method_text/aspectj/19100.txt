@@ -1,0 +1,24 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+return object pair unresolvedtyp unresolvedtyp repres return type
+argument type pars jvm bytecod signatur method
+return nice static type pair object
+blockquot pre
+unresolvedtyp signaturetotyp equal type forsignatur
+unresolvedtyp signaturetotyp
+equal unresolvedtyp forsignatur string
+pre blockquot
+param signatur jvm bytecod method signatur string break
+return pair unresolvedtyp unresolvedtyp repres return type paramet type
+string type signatur typestosignatur unresolv type unresolvedtyp return type returntyp unresolv type unresolvedtyp param type paramtyp raw type userawtyp
+string buffer stringbuff buf string buffer stringbuff
+buf append
+len param type paramtyp length len
+param type paramtyp parameter type isparameterizedtyp raw type userawtyp buf append param type paramtyp erasur signatur geterasuresignatur
+param type paramtyp type variabl refer istypevariablerefer raw type userawtyp buf append param type paramtyp erasur signatur geterasuresignatur
+buf append param type paramtyp signatur getsignatur
+buf append
+return type returntyp parameter type isparameterizedtyp raw type userawtyp buf append return type returntyp erasur signatur geterasuresignatur
+return type returntyp type variabl refer istypevariablerefer raw type userawtyp buf append return type returntyp erasur signatur geterasuresignatur
+buf append return type returntyp signatur getsignatur
+buf string tostr

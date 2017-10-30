@@ -1,0 +1,15 @@
+compat
+row dimens getrowdimens
+org apach common math3 linear
+dimens mismatch except dimensionmismatchexcept matric multipl
+dimens mismatch except dimensionmismatchexcept matric multipl compat
+collect method oper matric
+param left left hand side matrix
+left column dimens getcolumndimens row dimens getrowdimens
+matrix util matrixutil
+dimens mismatch except dimensionmismatchexcept
+dimens mismatch except dimensionmismatchexcept left column dimens getcolumndimens
+check multipl compat checkmultiplicationcompat matrix anymatrix left matrix anymatrix
+version
+check matric multipl compat
+param hand side matrix

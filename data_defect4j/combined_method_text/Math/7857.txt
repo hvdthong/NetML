@@ -1,0 +1,8 @@
+simplex solver simplexsolv epsilon
+solv linear problem phase simplex method
+build simplex solver accept amount error
+param epsilon amount error accept float point comparison
+epsilon epsilon
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+version revis date
+org apach common math optim linear

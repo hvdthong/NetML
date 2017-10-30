@@ -1,0 +1,10 @@
+interfac fluent api advert capabl optim
+org apach common math3 fit leastsquar
+instanc argument
+optim instanc field ident
+param start initi guess paramet model function
+creat instanc paramet
+version
+start point withstartpoint
+start point withstartpoint start
+param concret optim implement

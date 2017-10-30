@@ -1,0 +1,7 @@
+parallel task hide fail task properti statu
+creat attach
+ant check error
+case fail task return exit code statu properti
+attach check error
+target testok return code
+target test return code result code

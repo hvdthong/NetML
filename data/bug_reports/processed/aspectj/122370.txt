@@ -1,0 +1,74 @@
+aspectj declareparents declare parents equivalent
+adding setter moody makes clear annotation style declareparents results behavior classic declare parents style
+calling setter declare parents advised object behaves expect calling setter declareparents advised object effect call setter called immediately call getter find change examples package moody illustrate
+public enum mood happy jolly
+classic style
+
+public aspect classicmoodindicator
+public interface moody
+mood getmood
+void setmood mood mood
+
+private mood moody mood mood happy
+public mood moody getmood return mood
+public void moody setmood mood mood mood mood
+declare parents moody classicmoodimplementor implements moody
+
+public class classicmoodimplementor
+annotation style
+
+import org aspectj lang annotation aspect
+import org aspectj lang annotation declareparents
+aspect
+public class annotationmoodindicator
+public interface moody
+mood getmood
+void setmood mood mood
+
+public static class moodyimpl implements moody
+private mood mood mood happy
+public mood getmood return mood
+public void setmood mood mood mood mood
+
+declareparents moody annotationmoodimplementor defaultimpl moodyimpl class
+private moody implementedinterface
+
+public class annotationmoodimplementor
+junit testcase
+
+import junit framework testcase
+public class moodtester extends testcase
+public moodtester string super
+public void testclassic
+classicmoodimplementor cmi0 classicmoodimplementor
+classicmoodimplementor cmi1 classicmoodimplementor
+assertequals cmi0 happy mood happy cmi0 getmood
+cmi1 setmood mood jolly
+assertequals cmi1 jolly mood jolly cmi1 getmood
+assertequals cmi0 happy mood happy cmi0 getmood
+
+public void testannotation
+annotationmoodimplementor ami0 annotationmoodimplementor
+annotationmoodimplementor ami1 annotationmoodimplementor
+assertequals ami0 happy mood happy annotationmoodindicator moody ami0 getmood
+annotationmoodindicator moody ami1 setmood mood jolly
+assertequals ami1 jolly mood jolly annotationmoodindicator moody ami1 getmood
+assertequals ami0 happy mood happy annotationmoodindicator moody ami0 getmood
+
+
+result
+
+test run
+
+time
+failure
+testannotation moody moodtester junit framework assertionfailederror ami1 jolly expected jolly happy
+moody moodtester testannotation moodtester java
+sun reflect nativemethodaccessorimpl invoke0 native method
+sun reflect nativemethodaccessorimpl invoke nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invoke delegatingmethodaccessorimpl java
+moody moodtester main moodtester java
+failures
+tests run failures errors
+classic cmi1 setmood successful cmi0 cmi1 decoupled calling setmood cmi1 impact cmi0 annotation style fails ami1 setmood appears result ami1 jolly ami0 happy include assert ami0 ami1 ended jolly rc1
+current behavior makes declareparents unusable retaining field state retains state method invocation creating discarding backing object method invocation

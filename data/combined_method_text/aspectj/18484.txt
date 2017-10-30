@@ -1,0 +1,17 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+method declar aspect inter type method
+real bodi itd method
+resolv member resolvedmemb inter method bodi intermethodbodi resolv member resolvedmemb meth unresolv type unresolvedtyp aspect type aspecttyp
+unresolv type unresolvedtyp param type paramtyp meth paramet type getparametertyp
+meth static isstat
+param type paramtyp unresolv type unresolvedtyp insert meth declar type getdeclaringtyp param type paramtyp
+modifi public static public static
+modifi strict isstrict meth modifi getmodifi
+modifi modifi strict
+resolv member impl resolvedmemberimpl rmi resolv member impl resolvedmemberimpl member method aspect type aspecttyp modifi
+meth return type getreturntyp
+mangler namemangl inter method bodi intermethodbodi aspect type aspecttyp meth declar type getdeclaringtyp meth getnam
+param type paramtyp meth except getexcept
+rmi set type variabl settypevari meth type variabl gettypevari
+rmi

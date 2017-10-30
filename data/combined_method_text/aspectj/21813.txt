@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+declar parent declarepar declar
+resolv scope iscop scope
+scopewithtypevari resolutionscop scopewithtypevari typevariablesinscop scope
+child child resolv bind resolvebind scope bind
+parent parent resolv bind resolvebind scope bind
+assert
+int parent size
+parent assertexacttyp scope getmessagehandl

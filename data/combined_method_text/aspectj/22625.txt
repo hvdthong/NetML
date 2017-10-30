@@ -1,0 +1,44 @@
+org aspectj weaver pattern
+author colyer
+perform term rewrit pointcut express
+pointcut rewrit pointcutrewrit
+pointcut pull disjunct pullupdisjunct pointcut
+isnot
+pointcut notpointcut npc pointcut notpointcut
+pointcut notpointcut pull disjunct pullupdisjunct npc negat pointcut getnegatedpointcut
+isand
+pointcut andpointcut apc pointcut andpointcut
+dive left
+pointcut left pull disjunct pullupdisjunct apc left getleft
+pointcut pull disjunct pullupdisjunct apc getright
+isor left isor
+pointcut left left leftleft pointcut orpointcut left left getleft
+pointcut left leftright pointcut orpointcut left getright
+pull disjunct pullupdisjunct
+pointcut orpointcut
+pointcut andpointcut left left leftleft
+pointcut andpointcut left leftright
+isor isor left
+pointcut left rightleft pointcut orpointcut left getleft
+pointcut rightright pointcut orpointcut getright
+pull disjunct pullupdisjunct
+pointcut orpointcut
+pointcut andpointcut left left rightleft
+pointcut andpointcut left rightright
+isor isor left
+pointcut pull disjunct pullupdisjunct pointcut orpointcut left left getleft
+pointcut pull disjunct pullupdisjunct pointcut orpointcut left getright
+pointcut pull disjunct pullupdisjunct pointcut orpointcut left getleft
+pointcut pull disjunct pullupdisjunct pointcut orpointcut getright
+pointcut left newleft pointcut orpointcut
+pointcut andpointcut
+pointcut andpointcut
+pointcut newright pointcut orpointcut
+pointcut andpointcut
+pointcut andpointcut
+pull disjunct pullupdisjunct pointcut orpointcut left newleft newright
+pointcut andpointcut left
+isor
+pointcut orpointcut opc pointcut orpointcut
+pointcut orpointcut pull disjunct pullupdisjunct opc left getleft
+pull disjunct pullupdisjunct opc getright

@@ -1,0 +1,46 @@
+author stephen colebourn
+set
+chronolog set intern utc time zone
+instant field type fieldtyp field getfield chronolog getchronolog set local milli getlocalmilli
+text
+add subtract
+repres local datetim intern
+dai year dayofyear milli dai millisofdai
+local date time localdatetim thread safe immut provid chronolog
+code hour dai hourofdai code
+numer
+local date time localdatetim unmodifi datetim repres
+calcul local date time localdatetim perform link chronolog
+field chang return instanc
+local date time localdatetim field withfield date time field type datetimefieldtyp field type fieldtyp
+maximum minimum valu
+techniqu access method
+calcul
+field fact queri
+field
+local date time localdatetim link readabl partial readableparti
+param field type fieldtyp field type set
+field type fieldtyp
+param set
+individu field queri wai
+intern local date time localdatetim singl millisecond base
+pre
+method focu kei field year month year monthofyear
+copi datetim field set
+local date time localdatetim
+field type code code return
+datetim time zone
+local milli withlocalmilli instant
+field type code hour dai hourofdai code hour dai
+standard chronolog class suppli thread safe immut
+code hour dai gethourofdai code
+local date time localdatetim updat field withfield date time field type datetimefieldtyp dai month dayofmonth
+line equival
+local date time localdatetim updat properti date time field type datetimefieldtyp dai month dayofmonth set copi setcopi
+local date time localdatetim updat dai month dayofmonth set copi setcopi
+return copi datetim field set
+expos applic
+org joda time
+illeg argument except illegalargumentexcept field
+illeg argument except illegalargumentexcept invalid
+round

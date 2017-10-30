@@ -1,0 +1,13 @@
+org aspectj weaver
+constructor type munger newconstructortypemung resolv type munger resolvedtypemung
+resolv type munger resolvedtypemung read constructor readconstructor version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+sourc locat isourceloc sloc
+resolv member resolvedmemb sig resolv member impl resolvedmemberimpl read resolv member readresolvedmemb context
+resolv member resolvedmemb synthet ctor syntheticctor resolv member impl resolvedmemberimpl read resolv member readresolvedmemb context
+resolv member resolvedmemb explicit ctor explicitctor resolv member impl resolvedmemberimpl read resolv member readresolvedmemb context
+set super method call supermethodscal read super method call readsupermethodscal
+sloc read sourc locat readsourceloc
+list type var alias typevaralias read type alias readintypealias
+resolv type munger resolvedtypemung munger constructor type munger newconstructortypemung sig synthet ctor syntheticctor explicit ctor explicitctor super method call supermethodscal type var alias typevaralias
+sloc munger set sourc locat setsourceloc sloc
+munger

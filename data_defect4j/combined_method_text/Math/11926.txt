@@ -1,0 +1,13 @@
+comput weight jacobian matrix
+org apach common math3 fit leastsquar
+match problem dimens
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+param param model paramet comput jacobian
+real matrix realmatrix comput weight jacobian computeweightedjacobian param
+dimens mismatch except dimensionmismatchexcept jacobian dimens
+weight sqrt weightsqrt multipli matrix util matrixutil creat real matrix createrealmatrix comput jacobian computejacobian param
+weight jacobian
+version
+param optim concret optim
+base implement squar optim
+method error estim

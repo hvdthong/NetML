@@ -1,0 +1,14 @@
+org aspectj ajd intern
+read write build configur lst file
+author mik kersten
+lst build config file updat lstbuildconfigfileupdat
+list includ file getincludedfil string path string root path rootpath
+config parser configpars config parser configpars config parser configpars
+config parser configpars pars config file parseconfigfil file path
+list file config parser configpars file getfil
+list rel file relativefil arrai list arraylist
+iter file iter hasnext
+rel file relativefil add relativ path relativizepath file path getpath root path rootpath
+rel file relativefil
+config parser configpars pars except parseexcept
+arrai list arraylist

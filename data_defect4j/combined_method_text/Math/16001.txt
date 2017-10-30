@@ -1,0 +1,11 @@
+deprec remov
+org apach common math3 stat cluster
+centroid centroidof collect
+param collect point comput centroid
+centroid collect point
+link org apach common math3 cluster cluster
+cluster
+version
+param type point cluster
+interfac point cluster
+return centroid collect point

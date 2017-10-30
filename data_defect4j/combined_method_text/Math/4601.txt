@@ -1,0 +1,16 @@
+field matrix impl fieldmatriximpl field element fieldel abstract field matrix abstractfieldmatrix serializ
+copi copyout
+copi underli data arrai
+org apach common math linear
+param type field element
+version revis date
+link field matrix fieldmatrix matrix element index
+return fresh copi underli data arrai
+return element row column matrix
+copi arrai shot row refer
+row nrow
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+build arrai buildarrai field getfield row nrow column dimens getcolumndimens
+system arraycopi data data length
+base code entri getentri code
+row nrow row dimens getrowdimens

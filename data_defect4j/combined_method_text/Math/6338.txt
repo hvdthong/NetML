@@ -1,0 +1,24 @@
+current time
+dot ydotk dot ydotk dot ydotk
+higham hall54 step interpol highamhall54stepinterpol
+version higham hall54 step interpol highamhall54stepinterpol java 39z luc
+interpol state interpolatedst current state currentst
+theta previou time step current time step
+org apach common math od
+od integr higham hall integr
+interpol state interpolatedst length
+deriv except derivativeexcept
+dot ydotk dot ydotk
+version revis date
+comput interpol state computeinterpolatedst theta
+theta2 theta theta
+underli user function trigger
+deriv except derivativeexcept except propag caller
+param theta normal interpol abscissa step
+comput state interpol time
+theta2 theta
+repres interpol step
+param minu theta oneminusthetah time gap interpol time
+theta theta theta theta
+minu theta oneminusthetah
+higham hall54 integr highamhall54integr

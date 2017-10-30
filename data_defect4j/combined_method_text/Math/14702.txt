@@ -1,0 +1,27 @@
+simpl implement link converg checker convergencecheck
+order perform rel check absolut toler
+max iter maxit
+method code number iter set
+link converg point vector pair pointvectorvaluepair point vector pair pointvectorvaluepair converg
+strictli posit except notstrictlypositiveexcept max iter maxit
+param rel threshold relativethreshold rel toler threshold
+check rel toler set neg
+simpl vector checker simplevectorvaluecheck
+strictli posit except notstrictlypositiveexcept code max iter maxit
+org apach common math3 optim
+version
+set neg order perform absolut
+max iter count maxiterationcount max iter maxit
+object function valu
+rel threshold relativethreshold absolut threshold absolutethreshold
+param absolut threshold absolutethreshold absolut toler threshold
+link simpl vector checker simplevectorvaluecheck constructor
+build instanc toler threshold
+converg consid reach rel
+simpl vector checker simplevectorvaluecheck rel threshold relativethreshold
+threshold absolut differ object
+param max iter maxit maximum iter count
+absolut threshold absolutethreshold
+iter count
+differ object function valu smaller
+function valu smaller threshold vector element

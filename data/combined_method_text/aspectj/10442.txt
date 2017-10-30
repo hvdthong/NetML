@@ -1,0 +1,8 @@
+org aspectj ajd
+todo schitzophrenia buildconfignod iprogramel fix
+author mik kersten
+build config model buildconfigmodel
+specif child hasmorespecificchild build config node buildconfignod node string sourc file path sourcefilepath line number linenumb
+iter node children getchildren iter hasnext
+build config node buildconfignod child build config node buildconfignod
+match child sourc file path sourcefilepath line number linenumb

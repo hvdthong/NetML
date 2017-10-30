@@ -1,0 +1,36 @@
+max kmax
+org apach common math od nonstiff
+inherit doc inheritdoc
+dot ydotk max kmax
+overrid
+rung kutta integr rungekuttaintegr
+dot ydotk
+interpol time interpolatedtim
+set interpol time state
+deriv except derivativeexcept
+set interpol time setinterpolatedtim
+embed rung kutta integr embeddedrungekuttaintegr
+dot ydotk max kmax max kmax
+dot ydotk read doubl readdoubl
+version
+version revis date
+except ioexcept
+read base
+integr
+previou state previousst read doubl readdoubl
+current state currentst
+math runtim except mathruntimeexcept creat except createioexcept
+rung kutta step interpol rungekuttastepinterpol
+except ioexcept messag getmessag
+previou state previousst
+current state currentst length
+except ioexcept class found except classnotfoundexcept
+read base extern readbaseextern
+max kmax read int readint
+repres interpol step
+od integr rung kutta embed rung kutta integr
+read local attribut
+equat
+current state currentst current state currentst length
+read extern readextern object input objectinput
+dot ydotk current state currentst length

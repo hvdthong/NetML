@@ -1,0 +1,6 @@
+euclidean3 euclidean3d
+org apach common math3 geometri euclidean threed
+dimension space
+version
+privat constructor singleton
+euclidean3 euclidean3d serializ space

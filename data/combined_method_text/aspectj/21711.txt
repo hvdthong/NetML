@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+cflow pointcut cflowpointcut pointcut
+object cflowfield getcflowfield pointcut pcutkei resolv type resolvedtyp concret aspect concreteaspect string stack counter stackorcount
+string kei kei getkei pcutkei concret aspect concreteaspect stack counter stackorcount
+object
+isbelow cflow field cflowbelowfield kei
+cflow field cflowfield kei
+system err println retriev kei kei return

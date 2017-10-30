@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+type pointcut method field
+resolv pointcut definit resolvedpointcutdefinit find pointcut findpointcut string world world
+unsupport oper except unsupportedoperationexcept implemen

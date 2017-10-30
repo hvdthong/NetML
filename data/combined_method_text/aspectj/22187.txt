@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+typepattern
+bind formal explicitli forbidden composit
+wrong case
+author erik hilsdal
+author jim hugunin
+type pattern nottypepattern type pattern typepattern
+type pattern nottypepattern type pattern typepattern pattern
+super fals fals overrid method care includesubtyp
+negat pattern negatedpattern pattern
+set locat setloc pattern sourc context getsourcecontext pattern start getstart pattern end getend

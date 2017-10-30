@@ -1,0 +1,12 @@
+org aspectj apach bcel gener
+multianewarrai creat mutidimension arrai refer
+pre stack count1 count2 arrayref pre
+version multianewarrai java aclement exp
+author href mailto marku dahm berlin dahm
+multianewarrai instruct cpinstruct load class loadclass alloc instruct allocationinstruct except thrower exceptionthrow
+read need data dimens file
+init file initfromfil byte sequenc bytesequ byte wide
+except ioexcept
+init file initfromfil byte wide
+dimens byte read byte readbyt
+length

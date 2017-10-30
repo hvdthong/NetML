@@ -1,0 +1,31 @@
+romberg integr rombergintegr rel accuraci relativeaccuraci
+romberg algorithm integr real univari function
+number larg except numberistoolargeexcept maxim iter count maximaliterationcount
+param minim iter count minimaliterationcount minimum number iter
+build romberg integr accuraci iter count
+strictli posit except notstrictlypositiveexcept number small except numberistoosmallexcept number larg except numberistoolargeexcept
+org apach common math3 analysi integr
+special
+implement href http mathworld wolfram romberg integr rombergintegr html
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci minim iter count minimaliterationcount maxim iter count maximaliterationcount
+version
+absolut accuraci absoluteaccuraci
+except strictli posit except notstrictlypositiveexcept minim number iter
+strictli posit
+greater link romberg max iter count
+chapter
+param absolut accuraci absoluteaccuraci absolut accuraci result
+maxim iter count maximaliterationcount
+param maxim iter count maximaliterationcount maximum number iter
+refer introduct numer analysi isbn 038795452x
+romberg max iter count
+equal link romberg max iter count
+minim iter count minimaliterationcount
+except number larg except numberistoolargeexcept maxim number iter
+romberg integr rombergintegr base abstract univari integr baseabstractunivariateintegr
+except number small except numberistoosmallexcept maxim number iter
+rule remov error term order simpson' rule
+maxim iter count maximaliterationcount romberg max iter count
+param rel accuraci relativeaccuraci rel accuraci result
+lesser equal minim number iter
+romberg integr emploi success refin trapezoid

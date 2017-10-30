@@ -1,0 +1,26 @@
+org aspectj apach bcel classfil
+class repres stack map attribut
+preverif java class
+href http java sun j2me java micro edit
+j2me attribut
+href http java sun product cldc kvm contain
+code attribut method cldc specif
+version stackmap java aclement exp
+author href mailto marku dahm berlin dahm
+code
+stackmapentri
+stackmaptyp
+stack map stackmap attribut node
+construct object file stream
+param index index
+param length content length byte
+param file input stream
+throw ioexcept
+param constant pool arrai constant
+stack map stackmap index length data input stream datainputstream file
+constant pool constantpool constant pool except ioexcept
+index length stack map entri stackmapentri constant pool
+map length file read unsign short readunsignedshort
+map stack map entri stackmapentri map length
+map length
+map stack map entri stackmapentri file constant pool

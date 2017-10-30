@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+resolv type resolvedtyp outer class getouterclass
+nest isnest illeg state except illegalstateexcept outer class nest type
+dollar lastdollar class classnam index lastindexof
+string super class superclassnam class classnam substr dollar lastdollar
+unresolv type unresolvedtyp outer unresolv type unresolvedtyp fornam super class superclassnam
+refer type referencetyp outer resolv resolv type getresolvedtypex world getworld

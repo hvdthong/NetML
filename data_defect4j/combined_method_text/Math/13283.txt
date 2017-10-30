@@ -1,0 +1,9 @@
+arrai real vector arrayrealvector real vector realvector serializ
+vector
+arrai real vector arrayrealvector
+org apach common math3 linear
+construct vector append vector vector
+version
+link real vector realvector arrai
+arrai real vector arrayrealvector append arrai real vector arrayrealvector
+param vector append

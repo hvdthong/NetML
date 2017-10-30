@@ -1,0 +1,12 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+note
+typepattern put
+author ajh02
+type pertypewithin pointcut design pointcutdesign
+ast node astnod clone0 ast target
+type pertypewithin result type pertypewithin target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+remeb set type thingi
+result

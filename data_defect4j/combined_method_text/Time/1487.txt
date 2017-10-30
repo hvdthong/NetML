@@ -1,0 +1,8 @@
+author stephen colebourn
+param chrono chronolog mean iso
+org joda time
+set chronolog time interv
+writabl interv
+author brian neill o'neil
+read writabl interv readwritableinterv readabl interv readableinterv
+set chronolog setchronolog chronolog chrono

@@ -1,0 +1,32 @@
+pass file comput min max
+href http nedwww ipac caltech level5 march02 silverman silver2 html
+gener uniformli distribut
+divid interv subinterv bin
+select subinterv belong
+strong gener random valu distribut strong
+strong usag note strong
+return link statist summari statisticalsummari describ distribut
+strong precondit strong
+sampl stat samplestat
+version
+input file plain text file valid numer
+distribut load invok method
+strong digest input file strong
+pass data file comput bin count univari
+illeg state except illegalstateexcept distribut load
+version revis date
+length bin' subinterv proport count
+entri line
+code bin count bincount code set good rule thumb
+statist summari statisticalsummari sampl stat getsamplestat
+org apach common math random
+implement code empir distribut empiricaldistribut code implement
+empir distribut impl empiricaldistributionimpl serializ empir distribut empiricaldistribut
+divid rang min max code bin count bincount code bin
+set bin count approxim length input file divid
+statist std dev bin
+amount
+sampl statist
+gener random gaussian
+variabl kernel method gaussian smooth
+bin std dev std dev bin

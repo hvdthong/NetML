@@ -1,0 +1,28 @@
+scale scalingh step size stepsiz
+data ndata nordsieck data ref getdataref
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+interpol equat base taylor seri formula
+data ndatai power
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+rescal step size stepsiz
+data ndatai data ndata
+version
+scale ratio
+version revis date
+param scale scalingh step size scale nordsieck arrai
+ratio step size stepsiz scale scalingh
+interpol integr nordsieck represent
+org apach common math od sampl
+ratio scale scalingh scale scalingh
+data ndata length
+method side effect rescal arrai caller
+scale nordiseck arrai share caller
+interpol comput dens output current point
+power ratio
+param step size stepsiz step size scale nordsieck arrai
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+scale scalingh scale scalingh
+rescal scale scalingh
+scale length
+data ndatai length
+rescal instanc

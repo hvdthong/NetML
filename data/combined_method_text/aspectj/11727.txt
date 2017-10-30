@@ -1,0 +1,16 @@
+org aspectj ajdt intern compil problem
+extend problem report support compil side implement declar soft
+overrid error report implement abstract method
+account inter type declar pointcut declar
+job directli sourcetypebind classscop class
+author jim hugunin
+problem report ajproblemreport problem report problemreport
+method verifi bit 'keen' cope itdm
+consid 'default' implement target type
+suppli test complet read
+itd dont testcas show requir
+pr115788
+duplic inherit method duplicateinheritedmethod sourc type bind sourcetypebind type method bind methodbind inherit method1 inheritedmethod1 method bind methodbind inherit method2 inheritedmethod2
+inherit method1 inheritedmethod1 inter type method bind intertypemethodbind
+inherit method2 inheritedmethod2 inter type method bind intertypemethodbind
+duplic inherit method duplicateinheritedmethod type inherit method1 inheritedmethod1 inherit method2 inheritedmethod2

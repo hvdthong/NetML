@@ -1,0 +1,48 @@
+org apach tool ant type
+set properti
+author href mailto ddevienn lgc dominiqu devienn
+ant
+properti set propertyset data type datatyp
+param name output vector fill properti name
+match propertyset select criteria
+param properti current project properti pass
+avoid needless duplic hashtabl recurs
+add properti name addpropertynam vector name hashtabl properti
+project prj project getproject
+add propertyset properti name
+enumer pty ref ptyref element element hasmoreel
+properti ref propertyref ref properti ref propertyref element nextel
+ref
+prj prj properti getproperti ref
+name add element addel ref
+ref prefix
+enumer properti kei element hasmoreel
+string string element nextel
+start startswith ref prefix
+name add element addel
+ref regex
+regexp matcher factori regexpmatcherfactori match maker matchmak regexp matcher factori regexpmatcherfactori
+regexp matcher regexpmatch matcher match maker matchmak regexp matcher newregexpmatch
+matcher set pattern setpattern ref regex
+enumer properti kei element hasmoreel
+string string element nextel
+matcher match
+name add element addel
+ref builtin
+enumer
+ref builtin equal builtin properti set builtinpropertysetnam
+properti kei
+ref builtin equal builtin properti set builtinpropertysetnam system
+system properti getproperti kei
+ref builtin equal builtin properti set builtinpropertysetnam
+commandlin
+project getproject user properti getuserproperti kei
+build except buildexcept imposs invalid builtin
+attribut
+element hasmoreel
+name add element addel element nextel
+build except buildexcept imposs invalid propertyref
+add propertyset nest propertyset properti name
+enumer set ref setref element element hasmoreel
+properti set propertyset set properti set propertyset element nextel
+set add properti name addpropertynam name properti

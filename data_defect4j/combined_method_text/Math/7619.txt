@@ -1,0 +1,14 @@
+guess paramet
+org apach common math optim fit
+observ length
+construct instanc observ point
+point
+gaussian paramet guesser gaussianparametersguess weight observ point weightedobservedpoint observ
+gaussian paramet guesser gaussianparametersguess
+link parametr gaussian function parametricgaussianfunct base observ
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept local format localizedformat null input arrai
+observ
+number small except numberistoosmallexcept observ length
+observ observ clone
+version revis date
+param observ observ point base guess

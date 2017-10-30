@@ -1,0 +1,67 @@
+overrid
+converg checker converg iter previou current
+converg converg
+residu object target valu targetvalu
+solv squar problem solv normal equat
+evalu object function jacobian
+inherit doc inheritdoc
+optim except optimizationexcept local format localizedformat unabl solv singular problem
+weight weight
+converg except convergenceexcept local format localizedformat unabl solv singular problem
+converg checker getconvergencecheck
+build contribut matrix measur
+faster decomposit robust difficult problem
+point
+updat estim paramet
+gauss newton squar solver
+wgk grad
+decomposit impl qrdecompositionimpl solver getsolv
+converg checker convergencecheck vectori point pair vectorialpointvaluepair checker
+row
+function evalu except functionevaluationexcept optim except optimizationexcept illeg argument except illegalargumentexcept
+current
+invalid matrix except invalidmatrixexcept
+real matrix realmatrix dens real matrix denserealmatrix
+converg
+org apach common math optim gener
+checker
+increment iter counter incrementiterationscount
+solver solv
+updat jacobian updatejacobian
+version
+version revis date
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim
+grad weight residu jacobian weightedresidualjacobian
+weight residu
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim serializ
+vectori point pair vectorialpointvaluepair previou current
+decomposit solv normal equat decomposit
+singular matrix except singularmatrixexcept
+solver solv arrai real vector arrayrealvector arrai toarrai
+current vectori point pair vectorialpointvaluepair point object
+comput normal equat
+previou
+optim except optimizationexcept unabl solv singular problem
+weight residu weight residualsweight
+converg checker converg iter getiter previou current
+col col
+decomposit impl ludecompositionimpl solver getsolv
+target valu targetvalu target ref gettargetref
+updat residu cost updateresidualsandcost
+residu object target
+solv linear squar problem
+vectori point pair vectorialpointvaluepair optim dooptim
+vectori point pair vectorialpointvaluepair current
+build linear problem
+linear problem iter decomposit
+decomposit solver decompositionsolv solver uselu
+iter
+check converg
+grad jacobian
+residu weight residualsweight weight ref getweightref
+wgk weight grad
+vectori point pair vectorialpointvaluepair optim dooptim math user except mathuserexcept
+real matrix realmatrix block real matrix blockrealmatrix
+iter converg reach
+grad
+col

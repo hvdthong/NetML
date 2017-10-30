@@ -1,0 +1,7 @@
+org aspectj apach bcel gener
+implement interfac interest methodgen object
+regist addobserv
+version methodobserv java aclement exp
+author href mailto marku dahm berlin dahm
+method observ methodobserv
+notifi method gen methodgen method

@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+visit checkcast
+param castexpr
+visit cast expr castexpr cast expr castexpr
+instruct append fact creat check cast createcheckcast object type objecttyp cast expr castexpr type gettypenam

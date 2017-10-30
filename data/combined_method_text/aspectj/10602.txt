@@ -1,0 +1,22 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+root getroot program element iprogramel root node rootnod list root structur view properti structureviewproperti hierarchi hierarchi
+rootnod null rootnod getchildren null
+iter rootnod getchildren iter hasnext
+iprogramel node iprogramel
+node instanceof iprogramel
+acceptnodeasroot iprogramel node hierarchi
+iprogramel pnode iprogramel node
+list relat pnode getrel
+string delimit
+hierarchi equal structureviewproperti hierarchi crosscut
+delimit pointcut
+hierarchi equal structureviewproperti hierarchi inherit
+delimit inherit
+relat null relat tostr indexof delimit
+boolean found fals
+iter it2 root iter it2 hasnext
+iprogramel it2 equal pnode found true
+found root add pnode
+getroot node root hierarchi

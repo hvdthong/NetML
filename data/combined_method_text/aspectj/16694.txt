@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+param initi
+param oldiniti
+set modifi setmodifi initi initi org aspectj org eclips jdt intern compil ast initi initi oldiniti
+ast api level apilevel
+ast jls2 intern jls2 intern
+initi intern set modifi internalsetmodifi initi oldiniti modifi extra compil modifi extracompilermodifi acc flag accjustflag
+initi oldiniti annot
+initi set flag setflag initi flag getflag ast node astnod malform
+ast jls3
+scanner reset resetto initi oldiniti declar sourc start declarationsourcestart initi oldiniti bodi start bodystart
+set modifi setmodifi initi initi oldiniti annot

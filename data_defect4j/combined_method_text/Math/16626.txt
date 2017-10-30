@@ -1,0 +1,49 @@
+sampl underli distribut
+set
+perform test common length input observ
+version
+arrai
+code observed2
+except zeroexcept count code observed1
+observed1 length
+dimens mismatch except dimensionmismatchexcept length arrai
+link test gtest detail
+code observed2 count index
+max count exceed except maxcountexceededexcept
+observ count neg
+log likelihood ratio
+number return smallest signific level
+sampl test distribut unknown priori
+observ count specif bin
+return observ signific level href
+param observed1 arrai observ frequenc count data set
+param observed2 arrai observ frequenc count data
+comput degre freedom
+test gtest
+org apach common math3 stat infer
+implement handl unknown distribut
+length common length
+precondit met
+dimens mismatch except dimensionmismatchexcept posit except notpositiveexcept except zeroexcept
+distribut
+sampl test compar bin frequenc count code observed1
+statist genet donald mcdonald kreitman test
+implement href http wikipedia org wiki test test
+code observed2 neg
+posit except notpositiveexcept entri code observed1
+data set comparison gdatasetscomparison observed1 observed2
+match common length
+strong precondit strong
+test data set comparison gtestdatasetscomparison observed1
+http www ca lanc glossari hyptest html pvalu
+arrai code observed1 code observed2
+count arrai
+observ count specif sampl
+observed2
+max count exceed except maxcountexceededexcept error occur comput
+statist
+reject hypothesi observ count conform
+distribut cumul probabl cumulativeprob
+code math illeg argument except mathillegalargumentexcept thrown
+provid sampl hypothesi test
+chi squar distribut chisquareddistribut distribut chi squar distribut chisquareddistribut

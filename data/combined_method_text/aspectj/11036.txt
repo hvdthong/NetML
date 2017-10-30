@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil ast
+walk bodi advic
+make member access public member
+convert access method need ensur
+make simpler modular inlin bodi
+constructor handl requir access
+target type org eclips jdt intern compil ast allocationexpress
+requir fix issu
+author jim hugunin
+access inlin visitor accessforinlinevisitor ast visitor astvisitor
+make public makepubl type bind typebind bind
+bind bind valid bind isvalidbind bind null bind isvalidbind return produc error
+bind refer bind referencebind
+refer bind referencebind refer bind referencebind bind
+public ispubl handler note privileg type access noteprivilegedtypeaccess ispubl handler noteprivilegedtypeaccess null
+bind arrai bind arraybind
+make public makepubl arrai bind arraybind bind leaf compon type leafcomponenttyp

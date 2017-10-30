@@ -1,0 +1,32 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener support member generatepersupportmemb class file classfil class file classfil
+abstract isabstract
+xxx error handl
+aspect method aspectofmethod
+claus perclaus
+system err println null perclaus
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+claus perclaus kind getkind claus perclaus singleton
+gener singleton aspect method generatepersingletonaspectofmethod class file classfil
+gener singleton aspect method generatepersingletonhasaspectmethod class file classfil
+gener singleton ajc clinit method generatepersingletonajcclinitmethod class file classfil
+claus perclaus kind getkind claus perclaus percflow
+gener cflow aspect method generatepercflowaspectofmethod class file classfil
+gener cflow aspect method generatepercflowhasaspectmethod class file classfil
+gener cflow push method generatepercflowpushmethod class file classfil
+gener cflow ajc clinit method generatepercflowajcclinitmethod class file classfil
+claus perclaus kind getkind claus perclaus perobject
+type bind typebind interfac type interfacetyp
+gener object interfac generateperobjectinterfac class file classfil
+gener object aspect method generateperobjectaspectofmethod class file classfil interfac type interfacetyp
+gener object aspect method generateperobjecthasaspectmethod class file classfil interfac type interfacetyp
+gener object bind method generateperobjectbindmethod class file classfil interfac type interfacetyp
+claus perclaus kind getkind claus perclaus pertypewithin
+ptwimpl gener method requir aspect
+gener type aspect method generatepertypewithinaspectofmethod class file classfil generatepertypewithinaspectofmethod classfil public static aspecttyp aspectof java lang class
+gener type instanc method generatepertypewithingetinstancemethod class file classfil generatepertypewithingetinstancemethod classfil privat static aspecttyp ajc getinst class throw except
+gener type aspect method generatepertypewithinhasaspectmethod class file classfil
+gener type creat aspect instanc method generatepertypewithincreateaspectinstancemethod class file classfil generatepertypewithincreateaspectinstancemethod classfil gener public static ajc createaspectinst class forclass
+gener type type method generatepertypewithingetwithintypenamemethod class file classfil
+runtim except runtimeexcept unimpl

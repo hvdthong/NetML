@@ -1,0 +1,14 @@
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_med3-char-char-char_char
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_qSort3-int-int-int-StackElem[]_void
+src/main/org/apache/tools/bzip2/CBZip2OutputStream_sendMTFValues_void
+src/main/org/apache/tools/tar/TarInputStream_getNextEntry_TarEntry
+src/main/org/apache/tools/tar/TarOutputStream_write-byte[]-int-int_void
+src/main/org/apache/tools/zip/UnrecognizedExtraField_getCentralDirectoryData_byte[]
+src/main/org/apache/tools/zip/UnrecognizedExtraField_getLocalFileDataData_byte[]
+src/main/org/apache/tools/zip/UnrecognizedExtraField_parseFromLocalFileData-byte[]-int-int_void
+src/main/org/apache/tools/zip/UnrecognizedExtraField_setCentralDirectoryData-byte[]_void
+src/main/org/apache/tools/zip/UnrecognizedExtraField_setLocalFileDataData-byte[]_void
+src/main/org/apache/tools/zip/ZipFile_populateFromCentralDirectory_void
+src/main/org/apache/tools/zip/ZipFile_resolveLocalFileHeaderData_void
+src/main/org/apache/tools/zip/ZipLong_hashCode_int
+src/main/org/apache/tools/zip/ZipShort_hashCode_int

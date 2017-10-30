@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+bind
+formal getusedform
+system println
+ret bind length
+index
+len bind length len
+bind
+ret index
+ret newret index
+system arraycopi ret ret newret index
+system println ret index
+ret newret

@@ -1,0 +1,10 @@
+org aspectj apach bcel verifi structur
+class repres except handler objecttyp
+repres subclass java lang throwabl instruct
+handler start repres instructioncontext
+version exceptionhandl java aclement exp
+author href http www inf berlin ehaas enver haas
+except handler exceptionhandl
+return type except handl 'null' mean 'any'
+object type objecttyp except type getexceptiontyp
+catchtyp

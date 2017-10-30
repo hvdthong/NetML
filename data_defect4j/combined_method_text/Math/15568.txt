@@ -1,0 +1,17 @@
+org apach common math3 random
+method strong strong provid
+implement code gaussian nextgaussian call
+link set seed setse provid
+default implement method link doubl nextdoubl
+concret implement strong strong overrid
+clear
+clear cach implement
+data gener method base code code doubl nextdoubl
+abstract implement link random gener randomgener
+version
+abstract random gener abstractrandomgener random gener randomgener
+suppli
+cach normal deviat cachednormaldevi doubl nan
+perform implement method underli prng
+link gaussian nextgaussian implement overrid
+method implement link set seed setse

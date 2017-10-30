@@ -1,0 +1,23 @@
+overrid
+inherit doc inheritdoc
+end start hex ishex
+write entiti entityvalu
+org apach common lang text translat
+char firstchar input charat start
+end
+numer entiti unescap numericentityunescap char sequenc translat charsequencetransl
+input charat index input charat index
+start
+entiti entityvalu
+translat xml numer entiti form
+end start
+translat char sequenc charsequ input index writer except ioexcept
+char firstchar 'x' char firstchar 'x'
+specif codepoint
+todo protect arrai index bound arrayindexoutofbound
+todo entiti entityvalu ffff 0xffff
+start index
+entiti entityvalu integ pars int parseint input sequenc subsequ start end string tostr
+hex ishex
+input charat end
+number format except numberformatexcept nfe

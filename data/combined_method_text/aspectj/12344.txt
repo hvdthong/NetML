@@ -1,0 +1,13 @@
+org aspectj apach bcel classfil
+class deriv abstract
+href org aspectj apach bcel classfil constant html constant class
+repres refer string object
+version constantstr java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+constant string constantstr constant constant object constantobject
+initi instanc file data
+param file input stream
+throw ioexcept
+constant string constantstr data input stream datainputstream file except ioexcept
+file read unsign short readunsignedshort

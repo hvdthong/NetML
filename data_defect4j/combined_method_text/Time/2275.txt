@@ -1,0 +1,10 @@
+author stephen colebourn
+basic dai year date time field basicdayofyeardatetimefield precis durat date time field precisedurationdatetimefield
+org joda time chrono
+author gui allard
+year chronolog ichronolog year getyear instant
+chronolog ichronolog dai year getdaysinyear year
+author brian neill o'neil
+maximum getmaximumvalu instant
+refactor dai year date time field gjdayofyeardatetimefield
+time calcul dai year compon time

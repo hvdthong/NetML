@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+code annot pointcut withincodeannotationpointcut bind pointcut namebindingpointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+annot element annotatedel match tomatchagainst
+member member shadow enclos code signatur getenclosingcodesignatur
+resolv member resolvedmemb member rmember member resolv shadow world getiworld
+member rmember
+member getnam start startswith mangler namemangl prefix
+fuzzi boolean fuzzyboolean
+shadow world getiworld lint getlint unresolv member unresolvablememb signal member string tostr sourc locat getsourceloc
+fuzzi boolean fuzzyboolean
+annot type pattern annotationtypepattern resolv shadow world getiworld
+annot type pattern annotationtypepattern match member rmember

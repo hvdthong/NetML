@@ -1,0 +1,17 @@
+org apach common lang3 tupl
+restrict type store object store
+implement defin basic api
+lang
+mutabl object store pair pair effect mutabl
+refer element 'left' 'right'
+pair map entri compar pair serializ
+param left element type
+version
+left element pair
+pair consist element
+left getleft
+treat kei pair kei
+code map entri kei 'left' 'right'
+subclass implement mutabl immut
+left element
+param element type

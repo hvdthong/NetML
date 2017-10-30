@@ -1,0 +1,16 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+string format option string getformattedoptionsstr
+compil configur icompilerconfigur compil config compilerconfig compil compil configur getcompilerconfigur
+build set
+output path format collect formatcollect compil config compilerconfig output locat manag getoutputlocationmanag
+output locat getalloutputloc
+classpath compil config compilerconfig classpath getclasspath
+inpath format collect formatcollect compil config compilerconfig inpath getinpath
+outjar format option string formatoptionalstr compil config compilerconfig jar getoutjar
+aspectpath format collect formatcollect compil config compilerconfig aspect path getaspectpath
+sourcepathresourc format map formatmap compil config compilerconfig sourc path resourc getsourcepathresourc
+standard option compil config compilerconfig standard option getnonstandardopt
+javaopt format map formatmap compil config compilerconfig java option map getjavaoptionsmap

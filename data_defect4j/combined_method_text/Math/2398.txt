@@ -1,0 +1,23 @@
+simpl constructor
+param arg argument
+math illeg state except mathillegalstateexcept localiz gener
+param pattern messag pattern explain error
+math illeg state except mathillegalstateexcept illeg state except illegalstateexcept
+object arg
+param specif messag pattern provid specif context
+version
+base except signal mismatch
+param specif messag pattern explain error
+math illeg state except mathillegalstateexcept localiz pattern
+context add messag addmessag pattern arg
+version revis date
+gener arg
+math illeg state except mathillegalstateexcept localiz specif
+specif gener arg
+math illeg state except mathillegalstateexcept math runtim except mathruntimeexcept
+localiz gener
+current state user' expect
+param gener messag pattern explain error
+specif local format localizedformat illeg state arg
+error
+org apach common math except

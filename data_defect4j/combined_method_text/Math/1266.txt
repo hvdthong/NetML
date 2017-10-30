@@ -1,0 +1,15 @@
+author apach softwar foundat
+replac 'j' number format real
+version
+format complex number cartesian format 'i'
+real format realformat
+complex format complexformat format serializ
+configur
+number format numberformat real format getrealformat
+org apach common math complex
+replac 'j' number format real imaginari part
+access real format realformat
+version revis date
+complex format complexformat composit format compositeformat
+complex format complexformat
+imaginari part configur

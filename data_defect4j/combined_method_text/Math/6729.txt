@@ -1,0 +1,20 @@
+pre
+org apach common math od nonstiff
+truncat step truncatestep truncat end time truncatedendtim
+truncat step event trigger
+current time currenttim truncat end time truncatedendtim
+theta theta
+step comput interpol equat consist
+nomin end step
+adam moulton step interpol adamsmoultonstepinterpol multistep step interpol multistepstepinterpol
+theta belong interpol polynomi base
+integr step end interpol date
+truncat step
+interpol comput dens output insid
+interpol adam moulton multipl step
+deriv previou step
+integr scheme base kind rollback
+adam moulton integr adamsmoultonintegr
+version revis date
+param truncat end time truncatedendtim end time truncat step
+current time currenttim previou time previoustim

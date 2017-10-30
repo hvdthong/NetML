@@ -1,0 +1,20 @@
+org aspectj weaver pattern
+pattern namepattern pattern node patternnod
+match
+pattern
+len1 length
+len2 length
+star count starcount
+len1 len2
+len1
+star count starcount
+match
+len1
+len1 len2
+len1
+len2 len1
+string pattern string
+string target string
+system err print match pattern target
+star outofstar len1 star count starcount len2 star count starcount
+system err println

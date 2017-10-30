@@ -1,0 +1,13 @@
+end
+code argument form increas sequenc
+check argument form strictli increas sequenc
+param end number
+mid
+util routin link univari solver univariatesolv object
+param mid number
+version
+univari solver util univariatesolverutil
+sequenc issequ start
+param start number
+org apach common math analysi solver
+start mid mid end

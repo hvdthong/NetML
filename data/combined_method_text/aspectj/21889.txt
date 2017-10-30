@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+param scope
+verifi annot type verifyisannotationtyp resolv type resolvedtyp type scope iscop scope
+type annot isannot
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag refer annot type refer annot type type getnam
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+resolv

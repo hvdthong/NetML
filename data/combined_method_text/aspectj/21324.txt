@@ -1,0 +1,14 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+default messag handler defaultmessagehandl messag handler imessagehandl
+handl messag handlemessag messag imessag messag abort except abortexcept
+ignor isignor messag kind getkind
+todo maw ship class document chang
+stderr stdout improv ltw test
+pass ltw occur
+woven chang check weav messag
+absenc warn error
+system err system err handl messag handlemessag messag
+messag getkind issameorlessthan imessag info
+return system handlemessag messag
+return system err handlemessag messag

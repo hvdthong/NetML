@@ -1,0 +1,45 @@
+overrid
+line len xlen construct polynomi
+inherit doc inheritdoc
+xval length yval length fval length
+fitter yfitter add observ point addobservedpoint yval fval
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept data
+poli xpolyi fitter yfitter fit
+gener bicub interpol function
+polynomi function polynomialfunct poli xpolyi
+math except mathexcept illeg argument except illegalargumentexcept
+respect variabl fit arrai fval
+polynomi fit
+fval
+len ylen
+prior gener interpol function input smooth
+knot xval yval grid calcul correct
+line len ylen construct polynomi
+fitter yfitter clear observ clearobserv
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol
+len xlen
+valu fval
+math except mathexcept
+interpol xval yval fval
+fval len xlen len ylen
+fitter xfitter add observ point addobservedpoint xval fval
+yval
+version revis date
+math util mathutil check order checkord yval
+dimens mismatch except dimensionmismatchexcept xval length fval length
+polynomi function polynomialfunct poli ypolyx
+fval length len ylen
+fval xval
+org apach common math analysi interpol
+dimens mismatch except dimensionmismatchexcept fval length len ylen
+polynomi function polynomialfunct poli xpolyi polynomi function polynomialfunct len xlen
+xval length fval length
+poli ypolyx fitter xfitter fit
+bicub spline interpol function bicubicsplineinterpolatingfunct interpol xval
+fitter xfitter clear observ clearobserv
+len xlen xval length
+len ylen yval length
+polynomi function polynomialfunct poli ypolyx polynomi function polynomialfunct len ylen
+fval yval
+data except nodataexcept
+math util mathutil check order checkord xval

@@ -1,0 +1,16 @@
+macrodef support default element node
+put macro subnodes additional argument node order make work macrodef ability macrodef instance subnodes directly
+macrodef jython
+attribute script
+element
+sequential
+java classname org python util launcher failonerror true
+arg file script
+elements
+java
+sequential
+macrodef
+jython script script
+arg package
+arg file outpath
+jython

@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+author colyer
+match type method constructor field
+allow declar parent declar type
+member type pattern hasmembertypepattern type pattern typepattern
+object accept pattern node visitor patternnodevisitor visitor object data
+visitor visit data

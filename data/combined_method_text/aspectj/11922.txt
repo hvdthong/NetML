@@ -1,0 +1,26 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+delet resourc deleteresourc
+list resourc oldresourc arrai list arraylist
+resourc oldresourc add addal resourc
+note deliber ignor resourc jar handl jar
+increment compil
+iter build config buildconfig inpath getinpath iter hasnext
+file path element inpathel file
+path element inpathel directori isdirectori build manag ajbuildmanag copi inpath dir resourc copi inpath dir resourc
+delet resourc directori deleteresourcesfromdirectori path element inpathel resourc oldresourc
+build config buildconfig sourc path resourc getsourcepathresourc
+iter build config buildconfig sourc path resourc getsourcepathresourc kei set keyset iter hasnext
+string resourc string
+delet resourc maybedeleteresourc resourc resourc oldresourc
+oldresourc delet
+iter iter resourc oldresourc iter iter hasnext
+string victim string iter
+list output dir outputdir output locat getoutputloc build config buildconfig
+iter iter output dir outputdir iter iter hasnext
+file dir file iter
+file file dir victim
+exist
+delet
+resourc remov victim

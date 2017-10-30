@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+resolv type resolvedtyp resolv annot type getresolvedannotationtyp
+resolv illeg state except illegalstateexcept resolv
+resolv type resolvedtyp annot type annotationtyp

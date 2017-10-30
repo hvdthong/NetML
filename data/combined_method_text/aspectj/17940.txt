@@ -1,0 +1,15 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+set group setgroup string str
+string token stringtoken string token stringtoken str
+token hasmoretoken
+string token nexttoken trim
+ispac index indexof
+ispac
+group group creat group creategroup
+group set titl settitl substr ispac
+group set packagenam setpackagenam substr ispac
+build except buildexcept
+group usag group titl pkglist locat getloc

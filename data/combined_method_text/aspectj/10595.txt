@@ -1,0 +1,9 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+accept node root acceptnodeasroot program element iprogramel node structur view properti structureviewproperti hierarchi hierarchi
+hierarchi equal structur view properti structureviewproperti hierarchi crosscut
+node kind getkind equal program element iprogramel kind advic
+node kind getkind equal program element iprogramel kind pointcut
+hierarchi equal structur view properti structureviewproperti hierarchi inherit
+node kind getkind equal program element iprogramel kind class

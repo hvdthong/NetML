@@ -1,0 +1,9 @@
+org aspectj weaver loadtim
+bea jrocket jmapi agent
+xmanag class org aspectj weaver loadtim jrockitag
+rockit agent jrockitag bea jvm class pre processor classpreprocessor
+object peek
+object obj
+stack stack stack
+stack empti obj stack peek
+obj

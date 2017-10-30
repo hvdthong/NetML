@@ -1,0 +1,70 @@
+org aspectj ajdt intern compil
+author colyer
+chang templat gener type comment
+window prefer java code gener code comment
+weaver messag handler weavermessagehandl messag handler imessagehandl
+handl messag handlemessag messag imessag messag abort except abortexcept
+messag error iserror messag warn iswarn sink handl messag handlemessag messag
+care warn error
+sourc locat isourceloc loc sloc messag sourc locat getsourceloc
+bug assert caller pass correct primari sourc locat
+aj1 final simpli process locat
+case call sink handlemessag ensur put bogu sourc context info
+loc sloc eclips sourc locat eclipsesourceloc
+eclips sourc locat eclipsesourceloc loc esloc eclips sourc locat eclipsesourceloc loc sloc
+weav currentlyweav loc esloc compil result getcompilationresult
+weav currentlyweav equal eclips sourc locat eclipsesourceloc loc sloc compil result getcompilationresult
+sink handl messag handlemessag messag
+throw runtimeexcept primari sourc locat match file process
+bug similar thing bug
+eclipsesourceloc sourceloc
+loc sloc sourc locat sourceloc
+sourc locat sourceloc sourc locat sourceloc loc sloc
+weav currentlyweav sourc file getsourcefil
+string valueof weav currentlyweav file getfilenam equal sourc file getsourcefil absolut path getabsolutepath
+sink handl messag handlemessag messag
+throw runtimeexcept primari sourc locat match file process
+compil result compilationresult problem sourc problemsourc weav currentlyweav
+problem sourc problemsourc
+problem found completetypebind phase begin compil
+loc sloc eclips sourc locat eclipsesourceloc
+problem sourc problemsourc eclips sourc locat eclipsesourceloc loc sloc compil result getcompilationresult
+problem sourc problemsourc
+xxx ajc ajdt time
+sink handl messag handlemessag messag
+start po startpo start po getstartpo loc sloc problem sourc problemsourc
+end po endpo end po getendpo loc sloc problem sourc problemsourc
+sever messag error iserror problem sever problemsever error problem sever problemsever warn
+filenam problem sourc problemsourc file filenam
+binari sourc file usedbinarysourcefilenam
+problem sourc problemsourc binari sourc isfrombinarysourc
+loc sloc
+filenam loc sloc sourc file getsourcefil path getpath char arrai tochararrai
+binari sourc file usedbinarysourcefilenam
+refer context referencecontext refer context referencecontext find refer context findreferencecontextfor problem sourc problemsourc
+categor problem categorizedproblem problem compil problem report problemreport creat problem createproblem
+filenam
+problem iproblem unclassifi
+string
+string messag messag getmessag
+sever
+start po startpo
+end po endpo
+loc sloc loc sloc line getlin loc sloc loc sloc column getcolumn
+problem iproblem seealso build problem buildseealsoproblem problem messag extra sourc locat getextrasourceloc
+problem sourc problemsourc
+binari sourc file usedbinarysourcefilenam
+problem set problem setseealsoproblem seealso
+string buffer stringbuff detail string buffer stringbuff
+stick info supplementari messag info
+messag detail getdetail
+detail append messag detail getdetail
+rememb messag due deow
+messag declar getdeclar
+detail append deow true
+messag lint messag lintmessag
+string lint messag lintmessagenam lint messag lintmessag messag lint kind getlintkind
+detail append xlint append lint messag lintmessagenam append
+detail length
+problem set supplementari messag info setsupplementarymessageinfo detail string tostr
+compil problem report problemreport record problem problem sourc problemsourc refer context referencecontext

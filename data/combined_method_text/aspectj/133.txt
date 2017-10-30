@@ -1,0 +1,12 @@
+org aspectj tool ajbrows core
+build progress monitor show progress dialog
+jprogressbar updat progress bar bottom ajbrows
+build progress inform
+browser build progress monitor browserbuildprogressmonitor thread build progress monitor ibuildprogressmonitor
+finish full build wasfullbuild
+ajd default getdefault id adapt getideuiadapt displai statu inform displaystatusinform build finish
+progress dialog progressdialog finish
+dialog dispos
+handler messag getmessag empti isempti
+top frame topfram hide messag panel hidemessagespanel handler
+top frame topfram show messag panel showmessagespanel handler

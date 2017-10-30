@@ -1,0 +1,18 @@
+org aspectj apach bcel gener
+irem remaind int
+pre stack value1 value2 result pre
+version irem java aclement exp
+author href mailto marku dahm berlin dahm
+irem arithmet instruct arithmeticinstruct except thrower exceptionthrow
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit except thrower visitexceptionthrow
+visit type instruct visittypedinstruct
+visit stack produc visitstackproduc
+visit stack consum visitstackconsum
+visit arithmet instruct visitarithmeticinstruct
+visit irem visitirem

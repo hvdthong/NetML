@@ -1,0 +1,8 @@
+org aspectj ajdt intern compil lookup
+adaptor org eclips jdt intern compil lookup scope org aspectj weaver iscop
+author jim hugunin
+eclips scope eclipsescop scope iscop
+string import prefix getimportedprefix
+comput import computeimport
+system err println prefix arrai aslist importedprefix
+import prefix importedprefix

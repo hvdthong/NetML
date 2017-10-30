@@ -1,0 +1,19 @@
+org aspectj bridg
+weav messag weavemessag messag
+static helper method construct weav messag
+param kind kind messag declar parent
+param insert insert messag insert mark messag
+param affectedtypenam type advis declaredupon
+param aspectnam aspect defin advic declar
+return weav messag
+weav messag weavemessag construct weav messag constructweavingmessag
+weav messag kind weavemessagekind kind
+string insert
+string affectedtypenam
+string aspectnam
+string buffer stringbuff str string buffer stringbuff kind messag getmessag
+po
+po string str index indexof
+charact numer getnumericvalu str char charat po
+str replac po po insert
+weav messag weavemessag str string tostr affectedtypenam aspectnam

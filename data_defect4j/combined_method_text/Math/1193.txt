@@ -1,0 +1,18 @@
+deprec remov
+univari real solver impl univariaterealsolverimpl converg algorithm impl convergingalgorithmimpl
+result result newresult
+param result result set
+solver
+univari real solver impl univariaterealsolverimpl
+link abstract univari real solver abstractunivariaterealsolv
+set result setresult result iter count iterationcount
+result comput resultcomput
+provid implement function gener
+param result newresult result set
+set result setresult result newresult iter count iterationcount
+version revis date
+param iter count iterationcount iter count set
+result result
+org apach common math analysi solver
+conveni function implement
+iter count iterationcount iter count iterationcount

@@ -1,0 +1,8 @@
+org apach common math filter
+default implement link measur model measurementmodel
+inherit doc inheritdoc
+measur matrix measurementmatrix
+real matrix realmatrix measur matrix getmeasurementmatrix
+version
+default measur model defaultmeasurementmodel measur model measurementmodel
+link kalman filter kalmanfilt

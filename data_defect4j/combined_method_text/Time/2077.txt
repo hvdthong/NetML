@@ -1,0 +1,21 @@
+author stephen colebourn
+data code period type periodtyp code code code
+durat field type durationfieldtyp type period field type getfieldtyp
+org joda time base
+author brian neill o'neil
+check updat checkandupd type valu
+period getvalu
+merg field period
+base period baseperiod implement readabl period readableperiod store
+merg period mergeperiodinto valu readabl period readableperiod period
+isiz period size isiz
+param valu arrai valu updat
+base period baseperiod subclass mutabl thread safe
+param period period add
+valu
+illeg argument except illegalargumentexcept unsupport field'
+updat valu
+kind period object referenc
+link readabl period readableperiod
+base period baseperiod
+gener directli api user

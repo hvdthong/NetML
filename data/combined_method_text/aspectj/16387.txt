@@ -1,0 +1,63 @@
+org aspectj intern tool build
+repres eclips build modul unit builder compil
+class assembl zip file class option anteced
+implement infer attribut file modul directori
+eclips project code classpath code file requir
+librari modul collect anteced
+file code modulenam txt code manifest
+jar file produc filter
+builder
+modul getmodul string
+modul
+updat string kind string path string string tostr
+export
+string lib path libpath
+src equal kind
+path start startswith path startswith modul
+string modul modulenam path substr
+modul req modul modul getmodul modul modulenam
+req
+requir modul requiredmodul add req
+messag error updat unabl creat requir modul
+modul modulenam
+src dir
+string full path fullpath full path getfullpath path
+file src dir srcdir file full path fullpath
+src dir srcdir read canread src dir srcdir directori isdirectori
+src dir srcdir add src dir srcdir
+messag error src dir src dir srcdir
+lib equal kind
+lib path libpath path
+var equal kind
+string java home java home java home
+path start startswith java home java home
+path path substr java home java home length
+string home system properti getproperti java home
+home
+lib path libpath util path home path
+file file lib path libpath
+exist home end endswith jre
+file home parent file getparentfil
+lib path libpath util path path getpath path
+lib path libpath
+warn variabl warnvari path string tostr
+classpath variabl classpathvari add path
+con equal kind
+'special' contain point aspectj runtim
+path equal org eclips ajdt core aspectjrt contain
+classpath variabl classpathvari add aspectjrt lib
+path index indexof jre path indexof jre warn jre contain
+messag log handl con string tostr
+equal kind output equal kind
+ignor output entri
+messag log unrecogn kind kind string tostr
+lib path libpath
+file lib jar libjar file lib path libpath
+lib jar libjar exist
+lib jar libjar file full path getfullpath lib path libpath
+lib jar libjar read canread lib jar libjar file isfil
+lib jar libjar add lib jar libjar
+export
+export lib jar exportedlibjar add lib jar libjar
+messag error librari jar lib jar libjar
+string tostr

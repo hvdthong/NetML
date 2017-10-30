@@ -1,0 +1,12 @@
+org aspectj apach bcel gener annot
+element pair gen elementnamevaluepairgen
+element pair gen elementnamevaluepairgen element pair elementnamevaluepair nvp constant pool gen constantpoolgen cpool copi pool entri copypoolentri
+cpool cpool
+j5assert
+assert nvp getnamestr point thing cpool getconst nvp getnameindex
+nvp getnamestr equal constantutf8 cpool getconst nvp getnameindex getbyt
+throw runtimeexcept envp bugger
+copi pool entri copypoolentri
+idx nameidx cpool add utf8 addutf8 nvp string getnamestr
+idx nameidx nvp index getnameindex
+element gen elementvaluegen copi nvp getvalu cpool copi pool entri copypoolentri

@@ -1,0 +1,20 @@
+row equal dimens link target
+jacobian param
+boiler plate code deal jacobian evalu
+jacobian multivari vector optim jacobianmultivariatevectoroptim
+assum row jacobian matrix iter model
+jacobian point
+org apach common math3 optim nonlinear vector
+optim provid move
+param param point jacobian evalu
+deprec class interfac deprec
+comput jacobian matrix
+differenti function
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+version
+function column iter paramet number
+base implement optim multivari vector
+comput jacobian computejacobian param
+link org apach common math3 fit leastsquar
+math

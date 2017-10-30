@@ -1,0 +1,26 @@
+pattern languag format
+author href mailto sbailliez apach org stephan bailliez
+token object count
+year
+month
+second
+tabl border
+tabl
+param wrap
+millisecond
+author apach softwar foundat
+org apach common lang3 time
+wrap token repeat number
+version
+param count wrap
+durat format util constant tabl describ token
+count count
+durat format util durationformatutil
+dai
+author href mailto ggregori seagullsw gari gregori
+charact durat element
+author apach ant date util dateutil
+hour
+author href mailto stefan bodewig epost stefan bodewig
+store 'yyyy' count
+minut

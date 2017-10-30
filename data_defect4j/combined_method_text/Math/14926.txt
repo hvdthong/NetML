@@ -1,0 +1,16 @@
+param dimens simplex
+org apach common math3 optim nonlinear scalar noderiv
+gamma gamma
+version
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+param khi expans coeffici
+simplex link abstract simplex abstractsimplex abstract simplex abstractsimplex
+side length sidelength
+multi direct direct search method
+param side length sidelength length side hypercub
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+khi khi
+multi direct simplex multidirectionalsimplex side length sidelength
+khi gamma
+build multi direct simplex coeffici

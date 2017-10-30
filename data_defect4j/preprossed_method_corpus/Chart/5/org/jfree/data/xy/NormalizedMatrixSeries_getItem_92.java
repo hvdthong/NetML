@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree data
+
+
+repres dens normal matrix mij item
+matrix matrix item observ
+code item getitem code method normal divid
+total sum item scale set scale factor
+
+normal matrix seri normalizedmatrixseri matrix seri matrixseri
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return item
+
+param item index itemindex index
+
+
+
+org jfree data matrix seri matrixseri item getitem
+
+number item getitem item index itemindex
+item row getitemrow item index itemindex
+item column getitemcolumn item index itemindex
+
+mij scale factor scalefactor
+number doubl mij total sum totalsum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+implement href http mathworld wolfram newton method newtonsmethod html
+param min lower bound interv
+solv max eval maxev univari real solver util univariaterealsolverutil midpoint min max
+min max
+function
+org apach common math except evalu except toomanyevaluationsexcept
+newton solver newtonsolv abstract differenti univari real solver abstractdifferentiableunivariaterealsolv
+find midpoint code min code max
+code min max
+maximum evalu count exceed
+solv max eval maxev differenti univari real function differentiableunivariaterealfunct
+overrid
+function continu necessarili smooth
+param max eval maxev maximum number evalu
+newton' method find zero real univari function
+version revis date
+param function solv
+param max upper bound interv
+org apach common math analysi solver
+org apach common math except number larg except numberistoolargeexcept

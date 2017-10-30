@@ -1,0 +1,15 @@
+org aspectj weaver
+simpl annot simpleannotationvalu annot annotationvalu
+simpl annot simpleannotationvalu kind object
+kind
+kind
+annot annotationvalu primit byte primit byte byte thebyt byte byte bytevalu
+annot annotationvalu primit char primit char char thechar charact char charvalu
+annot annotationvalu primit int primit int int theint integ int intvalu
+annot annotationvalu string string thestr string
+annot annotationvalu primit doubl primit doubl doubl thedoubl doubl doubl doublevalu
+annot annotationvalu primit float primit float float thefloat float float floatvalu
+annot annotationvalu primit long primit long long thelong long long longvalu
+annot annotationvalu primit short primit short short theshort short short shortvalu
+annot annotationvalu primit boolean primit boolean boolean theboolean boolean boolean booleanvalu
+except bcexcept implement kind kind whatkindisthi kind

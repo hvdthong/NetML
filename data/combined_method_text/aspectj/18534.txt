@@ -1,0 +1,19 @@
+org aspectj weaver
+type repres weaver abstract annot
+ti underli bci toolkit weaver actuali handl
+annotationx wrapper object start transform
+bcel annot form expens offer clever
+visitor mechan bcel annot stuff build
+annot type directli
+author andycl
+annot annotationaj
+string stringifi
+string buffer stringbuff string buffer stringbuff
+append append unresolv type unresolvedtyp signatur forsignatur type class getclassnam
+pair hasnamevaluepair
+append
+iter iter pair nvpair iter iter hasnext
+annot pair annotationnamevaluepair element annot pair annotationnamevaluepair iter
+append element stringifi
+append
+string tostr

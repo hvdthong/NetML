@@ -1,0 +1,140 @@
+aspectj lacking import joinpoint crahes compiler
+encountered javapolis demo pre release
+development version reproducable latest post release
+development version
+create source file
+package banking
+import org aspectj lang annotation aspect
+import org aspectj lang annotation pointcut
+public class main
+public static void main string args
+system println main
+
+
+aspect
+class mainlogger
+pointcut execution main
+public void log joinpoint thisjoinpoint
+system println thisjoinpoint
+
+
+note import statement joinpoint lacking compiling
+source file crahses compiler adding import statement joinpoint
+makes work fine
+work aop src workspace calldebugbug ajc version
+aspectj compiler development built tuesday dec gmt
+work aop src workspace calldebugbug ajc banking main java
+work aop src workspace calldebugbug banking main java error internal compil
+error
+java lang nullpointerexception
+org aspectj ajdt internal compiler ast validateataspectjannotationsvi
+sitor buildformaladvicebindingsfrom validateataspectjannotationsvisitor java
+
+org aspectj ajdt internal compiler ast validateataspectjannotationsvi
+sitor converttopointcutdeclaration validateataspectjannotationsvisitor java
+org aspectj ajdt internal compiler ast validateataspectjannotationsvi
+sitor visit validateataspectjannotationsvisitor java
+org aspectj org eclipse jdt internal compiler ast methoddeclaration
+raverse methoddeclaration java
+org aspectj org eclipse jdt internal compiler ast typedeclaration tra
+verse typedeclaration java
+org aspectj org eclipse jdt internal compiler ast compilationunitdecl
+aration traverse compilationunitdeclaration java
+org aspectj ajdt internal compiler ajcompileradapter beforeanalysing
+ajcompileradapter java
+org aspectj ajdt internal compiler compileradapter ajc org asp
+ectj ajdt internal compiler compileradapter db78446d compileradapter
+org aspectj org eclipse jdt internal compiler compiler process compil
+java
+org aspectj org eclipse jdt internal compiler compiler compile compil
+java
+org aspectj ajdt internal core builder ajbuildmanager performcompilat
+ion ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuild
+manager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbu
+ildmanager java
+org aspectj ajdt ajc ajdtcommand docommand ajdtcommand java
+org aspectj ajdt ajc ajdtcommand runcommand ajdtcommand java
+org aspectj tools ajc main run main java
+org aspectj tools ajc main runmain main java
+org aspectj tools ajc main main main java
+source information
+work aop src workspace calldebugbug banking main java error joinpoint
+nnot resolved type
+public void log joinpoint thisjoinpoint
+
+work aop src workspace calldebugbug banking main java error syntax error
+insert complete methodinvocation
+system println thisjoinpoint
+work aop src workspace calldebugbug banking main java error syntax error
+insert complete blockstatements
+system println thisjoinpoint
+abort
+exception thrown aspectj development
+logged bug find current bugs
+http bugs eclipse org bugs buglist cgi product aspectj component compiler
+bugs exceptions thrown titles file line top stack
+somefile java
+find exception bug add bug
+http bugs eclipse org bugs enter bug cgi product aspectj
+make bug priority include test program
+reproduce exception
+validating aspectj annotations log
+analysing types defined compilation unit work aop src workspace calld
+ebugbug banking main java
+processing compilation unit work aop src workspace calldebugbug banking
+main java
+batch building classpath java jdk1 jre lib ext dnsns jar
+java jdk1 jre lib ext localedata jar java jdk1 jre lib ext sun
+jce provider jar java jdk1 jre lib ext sunpkcs11 jar java jdk1
+lib tools jar java jdk1 jre lib jar java aspectj aspectj5 lib
+aspectjrt jar java log4j jakarta log4j dist lib log4j jar jav
+jess jess61p5 jess jar java j2sdkee1 lib system cloudscape jar java
+j2sdkee1 lib system tools jar java j2sdkee1 lib cloudscape rmijdbc
+java j2sdkee1 lib cloudscape cloudclient jar java j2sdkee1 lib
+lasses java j2sdkee1 classes java j2sdkee1 lib j2ee jar java
+sdkee1 lib toolclasses java j2sdkee1 lib j2eetools jar java j2sdke
+lib locale java j2sdkee1 lib j2ee jar java j2sdkee1 lib jha
+jar java j2sdkee1 lib locale java jdk1 lib tools jar java
+j2sdkee1 lib jhall jar java axis axis lib axis jar java axi
+axis lib axis ant jar java axis axis lib commons discovery jar
+java axis axis lib commons logging jar java axis axis lib jax
+rpc jar java axis axis lib saaj jar java axis axis lib log4j
+jar java axis axis lib wsdl4j jar java concurrency concurren
+jar java junit junit3 junit jar
+null
+java lang nullpointerexception
+org aspectj ajdt internal compiler ast validateataspectjannotationsvi
+sitor buildformaladvicebindingsfrom validateataspectjannotationsvisitor java
+
+org aspectj ajdt internal compiler ast validateataspectjannotationsvi
+sitor converttopointcutdeclaration validateataspectjannotationsvisitor java
+org aspectj ajdt internal compiler ast validateataspectjannotationsvi
+sitor visit validateataspectjannotationsvisitor java
+org aspectj org eclipse jdt internal compiler ast methoddeclaration
+raverse methoddeclaration java
+org aspectj org eclipse jdt internal compiler ast typedeclaration tra
+verse typedeclaration java
+org aspectj org eclipse jdt internal compiler ast compilationunitdecl
+aration traverse compilationunitdeclaration java
+org aspectj ajdt internal compiler ajcompileradapter beforeanalysing
+ajcompileradapter java
+org aspectj ajdt internal compiler compileradapter ajc org asp
+ectj ajdt internal compiler compileradapter db78446d compileradapter
+org aspectj org eclipse jdt internal compiler compiler process compil
+java
+org aspectj org eclipse jdt internal compiler compiler compile compil
+java
+org aspectj ajdt internal core builder ajbuildmanager performcompilat
+ion ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuild
+manager java
+org aspectj ajdt internal core builder ajbuildmanager batchbuild ajbu
+ildmanager java
+org aspectj ajdt ajc ajdtcommand docommand ajdtcommand java
+org aspectj ajdt ajc ajdtcommand runcommand ajdtcommand java
+org aspectj tools ajc main run main java
+org aspectj tools ajc main runmain main java
+org aspectj tools ajc main main main java
+fail abort errors

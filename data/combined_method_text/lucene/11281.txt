@@ -1,0 +1,45 @@
+org apach lucen index
+implement skip list writer default post list format
+store posit payload
+default skip list writer defaultskiplistwrit multi level skip list writer multilevelskiplistwrit
+overrid
+write skip data writeskipdata level index output indexoutput skip buffer skipbuff except ioexcept
+effici store payload post list store length
+payload omit length payload previou payload
+length
+order support skip payload length skip point
+length encod post list skip data
+case current field store payload
+skipdatum docskip freqskip proxskip
+docskip freqskip proxskip vint
+docskip record document number skipinterv document termfreq
+document number repres differ previou sequenc
+case current field store payload
+skipdatum docskip payloadlength freqskip proxskip
+docskip freqskip proxskip vint
+payloadlength vint
+case docskip differ
+current previou docskip
+odd payloadlength encod vint
+docskip assum
+current payload length equal length previou
+skip point
+cur store payload curstorepayload
+delta cur doc curdoc skip doc lastskipdoc level
+cur payload length curpayloadlength skip payload length lastskippayloadlength level
+current payload length equal length previou skip point
+store length
+skip buffer skipbuff write int writevint delta
+payload length previou shift docskip
+set lowest bit store current payload length vint
+skip buffer skipbuff write int writevint delta
+skip buffer skipbuff write int writevint cur payload length curpayloadlength
+skip payload length lastskippayloadlength level cur payload length curpayloadlength
+current field store payload
+skip buffer skipbuff write int writevint cur doc curdoc skip doc lastskipdoc level
+skip buffer skipbuff write int writevint cur freq pointer curfreqpoint skip freq pointer lastskipfreqpoint level
+skip buffer skipbuff write int writevint cur prox pointer curproxpoint skip prox pointer lastskipproxpoint level
+skip doc lastskipdoc level cur doc curdoc
+system println write doc level level curdoc
+skip freq pointer lastskipfreqpoint level cur freq pointer curfreqpoint
+skip prox pointer lastskipproxpoint level cur prox pointer curproxpoint

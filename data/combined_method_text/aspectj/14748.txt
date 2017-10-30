@@ -1,0 +1,196 @@
+org aspectj apach bcel util
+convert code html file
+version codehtml java aclement exp
+author href mailto marku dahm berlin dahm
+code html codehtml org aspectj apach bcel constant
+disassembl stream byte code return
+string represent
+param stream data input stream
+return string represent byte code
+string code html codetohtml byte sequenc bytesequ byte method number
+except ioexcept
+opcod byte read unsign byte readunsignedbyt
+string buffer stringbuff buf
+string signatur
+default offset low high
+index class index vindex constant
+jump tabl
+pad byte offset
+buf string buffer stringbuff opcod name opcod name opcod
+special case skip pad byte
+byte byte align
+opcod tableswitch opcod lookupswitch
+remaind byte index getindex
+pad byte remaind remaind
+pad byte
+byte read byte readbyt
+case field default offset common
+default offset byte read int readint
+opcod
+tableswitch
+low byte read int readint
+high byte read int readint
+offset byte index getindex pad byte
+default offset offset
+buf append tabl border
+print switch indic row default
+jump tabl high low
+jump tabl length
+jump tabl offset byte read int readint
+buf append low
+buf append default
+print target default indic row
+jump tabl length
+buf append href code method number
+jump tabl jump tabl
+buf append href code method number
+default offset default offset tabl
+lookup switch variabl length argument
+lookupswitch
+npair byte read int readint
+offset byte index getindex pad byte
+jump tabl npair
+default offset offset
+buf append tabl border
+print switch indic row default
+npair
+match byte read int readint
+jump tabl offset byte read int readint
+buf append match
+buf append default
+print target default indic row
+npair
+buf append href code method number
+jump tabl jump tabl
+buf append href code method number
+default offset default offset tabl
+address byte offset start byte stream form
+jump target
+goto ifeq ifg ifgt
+ifl iflt
+ifn ifnonnul ifnul acmpeq acmpeq
+acmpn acmpn icmpeq icmpeq icmpg icmpg icmpgt icmpgt
+icmpl icmpl icmplt icmplt icmpn icmpn jsr
+index byte index getindex byte read short readshort
+buf append href code method number index index
+bit wide jump
+goto goto jsr jsr
+windex byte index getindex byte read int readint
+buf append href code method number windex
+windex
+index byte refer local variabl regist
+aload astor dload dstore fload
+fstore iload istor lload lstore
+ret
+wide
+vindex byte read short readshort
+wide wide fals clear flag
+vindex byte read unsign byte readunsignedbyt
+buf append vindex
+rememb wide byte form bit address
+instruct reli method call
+opcod
+wide
+wide
+buf append wide
+arrai basic type
+newarrai
+buf append font color 00ff00 type name type name byte read byte readbyt font
+access object class field
+getfield getstat putfield putstat
+index byte read short readshort
+constant fieldref constantfieldref constant fieldref constantfieldref constant pool constant getconst index constant fieldref constant fieldref
+class index class index getclassindex
+constant pool constant string getconstantstr class index constant class constant class
+util compact class compactclassnam
+index type index getnameandtypeindex
+string field constant pool constant string constanttostr index constant type constant nameandtyp
+equal class equal class local field
+buf append href class method html field field
+target method field
+buf append constant html refer constant referenceconst class index field
+operand refer class constant pool
+checkcast instanceof
+index byte read short readshort
+buf append constant html refer constant referenceconst index
+operand refer method constant pool
+invokespeci invokestat invokevirtu invokeinterfac
+index byte read short readshort
+string str
+opcod invokeinterfac opcod invokeinterfac special treatment need
+narg byte read unsign byte readunsignedbyt int narg byte readunsignedbyt redund
+reserv byte read unsign byte readunsignedbyt int reserv byte readunsignedbyt reserv
+constant interfac methodref constantinterfacemethodref constant interfac methodref constantinterfacemethodref constant pool constant getconst index constant interfac methodref constant interfacemethodref
+class index class index getclassindex
+str constant pool constant string constanttostr
+index type index getnameandtypeindex
+constant methodref constantmethodref constant methodref constantmethodref constant pool constant getconst index constant methodref constant methodref
+class index class index getclassindex
+str constant pool constant string constanttostr
+index type index getnameandtypeindex
+class2 html class2html refer class referenceclass class index
+str class2 html class2html html tohtml constant pool constant string constanttostr constant pool constant getconst index constant type constant nameandtyp
+signatur type
+constant type constantnameandtyp constant type constantnameandtyp constant pool
+constant getconst index constant type constant nameandtyp
+signatur constant pool constant string constanttostr signatur index getsignatureindex
+constant utf8 constant utf8
+string arg util method signatur argument type methodsignatureargumenttyp signatur
+string type util method signatur return type methodsignaturereturntyp signatur
+buf append href class html index
+target constantpool str
+list argument
+arg length
+buf append class2 html class2html refer type referencetyp arg
+arg length
+buf append
+attach return type
+buf append class2 html class2html refer type referencetyp type
+operand refer item constant pool
+ldc ldc ldc2 ldc2
+index byte read short readshort
+buf append href class html index
+target constantpool
+class2 html class2html html tohtml constant pool constant string constanttostr index
+constant pool
+constant getconst index tag gettag
+ldc
+index byte read unsign byte readunsignedbyt
+buf append href class html index
+target constantpool
+class2 html class2html html tohtml constant pool constant string constanttostr index
+constant pool
+constant getconst index tag gettag
+arrai refer
+anewarrai
+index byte read short readshort
+buf append constant html refer constant referenceconst index
+multidimension arrai refer
+multianewarrai
+index byte read short readshort
+dimens byte read byte readbyt
+buf append constant html refer constant referenceconst index dimens dimension
+increment local variabl
+iinc
+wide
+vindex byte read short readshort
+constant byte read short readshort
+wide
+vindex byte read unsign byte readunsignedbyt
+constant byte read byte readbyt
+buf append vindex constant
+operand operand opcod
+type operand type operand opcod length
+type operand type operand opcod
+byte byte
+buf append byte read unsign byte readunsignedbyt
+short short case short branch index
+buf append byte read short readshort
+int int
+buf append byte read int readint
+default reach
+system err println unreach default case reach
+system exit
+buf append nbsp
+buf append
+buf string tostr

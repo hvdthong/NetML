@@ -1,0 +1,12 @@
+simpl constructor
+param abscissa measur
+simpl contain weight observ point
+link curv fitter curvefitt curv fit
+org apach common math3 fit
+weight weight
+instanc guarante immut
+weight observ point weightedobservedpoint serializ
+param ordin measur
+weight observ point weightedobservedpoint weight
+version weight observ point weightedobservedpoint java 14z
+param weight weight measur fit process

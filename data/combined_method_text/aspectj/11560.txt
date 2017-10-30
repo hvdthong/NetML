@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+method return method
+includ clinit aspectof hasaspect ajc postclinit
+method bug
+resolv member resolvedmemb declar method getdeclaredmethod
+declar method declaredmethod fill declar member filldeclaredmemb
+declar method declaredmethod

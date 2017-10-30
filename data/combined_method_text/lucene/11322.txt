@@ -1,0 +1,35 @@
+org apach lucen index
+indexread read index multipl segment
+directori reader directoryread index reader indexread cloneabl
+directori reader directoryread index writer indexwrit writer segment info segmentinfo info term info index divisor terminfosindexdivisor except ioexcept
+directori writer directori getdirectori
+read readonli
+segment info segmentinfo info
+segment info start segmentinfosstart segment info segmentinfo info clone
+term info index divisor terminfosindexdivisor term info index divisor terminfosindexdivisor
+indexwrit synchron extern call
+ensur info chang
+process segment revers order
+num segment numseg info size
+segment reader segmentread reader segment reader segmentread num segment numseg
+directori dir writer directori getdirectori
+upto
+num segment numseg
+success
+segment info segmentinfo info info info upto
+info dir dir
+reader upto writer reader pool readerpool read clone getreadonlyclon info term info index divisor terminfosindexdivisor
+success
+success
+close reader open
+upto upto upto
+reader upto close
+throwabl ignor
+clean
+writer writer
+upto reader length
+mean segment foreign directori
+segment reader segmentread reader newread segment reader segmentread upto
+system arraycopi reader reader newread upto
+reader reader newread
+initi reader

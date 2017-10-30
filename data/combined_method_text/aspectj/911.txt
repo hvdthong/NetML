@@ -1,0 +1,10 @@
+org aspectj ajd javaopt
+option panel displai java compil debug option
+user add ajd getoptionsfram
+java debug option panel javadebugoptionspanel option panel optionspanel
+creat debug content createdebugcont
+creat debug entri createdebugentri add line number attribut gener class file java option javaopt debug line debug line
+creat debug entri createdebugentri add sourc file gener class file java option javaopt debug sourc debug sourc
+creat debug entri createdebugentri add variabl attribut gener class file java option javaopt debug var debug var
+creat debug entri createdebugentri preserv unus read local variabl java option javaopt preserv local preserv local
+debug panel debugpanel add debug box debugbox

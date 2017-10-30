@@ -1,0 +1,84 @@
+org aspectj ajd swing
+author mik kersten
+browser view browserview panel jpanel
+init jbinit except
+default border border factori borderfactori creat empti border createemptybord
+set layout setlayout border layout1 borderlayout1
+tool bar panel toolbar panel set layout setlayout border layout2 borderlayout2
+tool bar panel toolbar panel set border setbord border factori borderfactori creat etch border createetchedbord
+config tool bar config toolbar set border setbord default border
+config tool bar config toolbar set floatabl setfloat
+config combo box config combobox set prefer size setpreferreds dimens
+config combo box config combobox add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+config combo box action perform config combobox actionperform
+config combo box config combobox set minimum size setminimums dimens
+config combo box config combobox set font setfont java awt font sansserif
+main tool bar panel maintoolbar panel set layout setlayout border layout3 borderlayout3
+nav tool bar nav toolbar set floatabl setfloat
+nav tool bar nav toolbar set border setbord default border
+forward button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+forward button action perform forward button actionperform
+forward button set icon seticon icon forward icon getforwardicon
+forward button set tool tip text settooltiptext navig forward
+forward button set prefer size setpreferreds dimens
+forward button set minimum size setminimums dimens
+forward button set border setbord default border
+forward button set maximum size setmaximums dimens
+back button set maximum size setmaximums dimens
+back button set border setbord default border
+back button set minimum size setminimums dimens
+back button set prefer size setpreferreds dimens
+back button set tool tip text settooltiptext navig back
+back button set icon seticon icon back icon getbackicon
+back button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+back button action perform back button actionperform
+structureview box add comment editorpan null
+view split pane view splitpan set orient setorient split pane jsplitpan vertic split vertic split
+view split pane view splitpan set divid size setdividers
+command tool bar command toolbar set border setbord default border
+command tool bar command toolbar set floatabl setfloat
+split view button splitview button set font setfont java awt font dialog
+split view button splitview button set border setbord default border
+split view button splitview button set maximum size setmaximums dimens
+split view button splitview button set prefer size setpreferreds dimens
+split view button splitview button set tool tip text settooltiptext togg split tree view mode
+split view button splitview button set icon seticon icon split structur view icon getsplitstructureviewicon
+split view button splitview button set select icon setselectedicon icon merg structur view icon getmergestructureviewicon
+split view button splitview button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+splitview button actionperform
+zoom file button zoomtofil button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+zoomtofil button actionperform
+zoom file button zoomtofil button set icon seticon icon zoom structur file mode icon getzoomstructuretofilemodeicon
+zoom file button zoomtofil button set select icon setselectedicon icon zoom structur global mode icon getzoomstructuretoglobalmodeicon
+zoom file button zoomtofil button set border setbord border factori borderfactori creat rais bevel border createraisedbevelbord
+zoom file button zoomtofil button set maximum size setmaximums dimens
+zoom file button zoomtofil button set prefer size setpreferreds dimens
+zoom file button zoomtofil button set tool tip text settooltiptext toggl file view mode
+zoom file button zoomtofil button set font setfont java awt font dialog
+joinpoint probe button joinpointprob button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+joinpoint probe button action perform joinpointprob button actionperform
+joinpoint probe button joinpointprob button set icon seticon icon structur swing icon getstructureswingicon program element iprogramel kind pointcut
+joinpoint probe button joinpointprob button set tool tip text settooltiptext creat joinpoint probe
+joinpoint probe button joinpointprob button set prefer size setpreferreds dimens
+joinpoint probe button joinpointprob button set minimum size setminimums dimens
+joinpoint probe button joinpointprob button set border setbord default border
+joinpoint probe button joinpointprob button set maximum size setmaximums dimens
+add tool bar panel toolbar panel border layout borderlayout north
+tool bar panel toolbar panel add main tool bar panel maintoolbar panel border layout borderlayout north
+main tool bar panel maintoolbar panel add config tool bar config toolbar border layout borderlayout center
+config tool bar config toolbar add config combo box config combobox
+main tool bar panel maintoolbar panel add nav tool bar nav toolbar border layout borderlayout east
+nav tool bar nav toolbar add split view button splitview button
+nav tool bar nav toolbar add zoom file button zoomtofil button
+nav tool bar nav toolbar add joinpoint probe button joinpointprob button
+nav tool bar nav toolbar add back button
+nav tool bar nav toolbar add forward button
+main tool bar panel maintoolbar panel add command tool bar command toolbar border layout borderlayout west
+add view split pane view splitpan border layout borderlayout center
+view split pane view splitpan set divid locat setdividerloc

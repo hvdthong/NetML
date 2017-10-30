@@ -1,0 +1,47 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+prepar weav prepareforweav
+trace trace enabl istraceen trace enter prepareforweav
+reweav world needtoreweaveworld xcut set xcutset chang reset haschangedsincelastreset
+cflow pointcut cflowpointcut clear cach clearcach
+updat munger
+iter ad class addedclass iter hasnext
+unwoven class file unwovenclassfil unwoven class file unwovenclassfil
+string class getclassnam
+resolv type resolvedtyp type world resolv
+system err println ad type aspect type isaspect
+type aspect isaspect
+reweav world needtoreweaveworld xcut set xcutset add replac aspect addorreplaceaspect type
+iter delet typenam deletedtypenam iter hasnext
+string string
+xcut set xcutset delet aspect deleteaspect unresolv type unresolvedtyp fornam reweav world needtoreweaveworld
+shadow munger list shadowmungerlist xcut set xcutset shadow munger getshadowmung
+world debug shadow munger shadowmungerlist
+rewrit pointcut rewritepointcut shadow munger list shadowmungerlist
+error occur rewrit pointcut ambigu bind
+detect fail prepar continu
+inconsist pointcut lead problem
+type munger list typemungerlist xcut set xcutset type munger gettypemung
+late type munger list latetypemungerlist xcut set xcutset late type munger getlatetypemung
+declar parent list declareparentslist xcut set xcutset declar parent getdeclarepar
+add custom munger addcustommung
+order base string compar tostr munger
+break style advic name programmat gener
+chang sort base sourc locat file reliabl
+case sourc locat miss assum 'sorted' order
+ad collect correct enabl stuff work properli
+process start fill sourc locat munger code
+bit alter
+collect sort
+shadow munger list shadowmungerlist
+compar
+compar object object
+shadow munger shadowmung sm1 shadow munger shadowmung
+shadow munger shadowmung sm2 shadow munger shadowmung
+sm1 sourc locat getsourceloc sm2 sourc locat getsourceloc
+sm2 sourc locat getsourceloc
+sm2 sourc locat getsourceloc offset getoffset sm1 sourc locat getsourceloc offset getoffset
+reweav mode inreweavablemod
+world show messag showmessag messag imessag info
+weaver messag weavermessag format weaver messag weavermessag reweav mode reweav mode
+trace trace enabl istraceen trace exit prepareforweav

@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+var target var gettargetvar
+target hastarget
+illeg state except illegalstateexcept target
+initi target var initializetargetvar
+target var targetvar

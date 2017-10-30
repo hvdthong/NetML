@@ -1,0 +1,55 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+extract method argument name debug info attach
+method localvariablet find
+argnam suppli
+annot fail return empti string
+param method
+param argnamesfromannot
+param methodstruct
+return method argument name
+string method argument name getmethodargumentnam method method string arg name annot argnamesfromannot attribut method struct ajattributemethodstruct method struct methodstruct
+method argument type getargumenttyp length
+empti string empti string
+start stack index startatstackindex method static isstat
+list argument arrai list arraylist
+local variabl tabl localvariablet local variabl tabl localvariablet method local variabl tabl getlocalvariablet
+local variabl tabl getlocalvariablet length
+local variabl localvari local variabl localvari local variabl tabl getlocalvariablet
+local variabl localvari start getstartpc
+local variabl localvari index getindex start stack index startatstackindex
+argument add method argument methodargu local variabl localvari getnam local variabl localvari index getindex
+debug info annot reli
+arg name annot argnamesfromannot
+string token stringtoken string token stringtoken arg name annot argnamesfromannot
+list arg arrai list arraylist
+token hasmoretoken arg add token nexttoken
+arg size method argument type getargumenttyp length
+string buffer stringbuff short string shortstr string buffer stringbuff append lastbit method return type getreturntyp string tostr append append method getnam
+method argument type getargumenttyp length
+short string shortstr append
+method argument type getargumenttyp length
+short string shortstr append lastbit method argument type getargumenttyp string tostr
+method argument type getargumenttyp length short string shortstr append
+short string shortstr append
+report error reporterror argnam annot number argument name method short string shortstr string tostr method struct methodstruct
+empti string empti string
+string arg arrai toarrai string
+argument size method argument type getargumenttyp length
+empti string empti string
+sort index
+collect sort
+argument compar
+compar object object
+method argument methodargu method argument methodargu
+method argument methodargu mo1 method argument methodargu
+index stack indexonstack mo1 index stack indexonstack
+index stack indexonstack mo1 index stack indexonstack
+string argument name argumentnam string argument size
+iter iter argument iter iter hasnext
+method argument methodargu method argument methodargu method argument methodargu iter
+argument name argumentnam method argument methodargu
+argument name argumentnam

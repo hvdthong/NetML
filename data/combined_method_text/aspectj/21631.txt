@@ -1,0 +1,32 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+resolv type resolvedtyp argument match getargumentstomatchagainst shadow shadow
+shadow shadow arrai construct joinpoint isshadowforarrayconstructionjoinpoint
+shadow argument type arrai construct shadow getargumenttypesforarrayconstructionshadow
+resolv type resolvedtyp argument match argumentstomatchagainst shadow world getiworld resolv shadow gener arg type getgenericargtyp
+special treatment adviceexecut synthet argument
+ignor
+shadow kind getkind shadow advic execut adviceexecut
+num extra arg numextraarg
+argument match argumentstomatchagainst length
+string argument signatur argumentsignatur argument match argumentstomatchagainst signatur getsignatur
+argument signatur argumentsignatur start startswith aspectj signatur prefix aspectj signatur prefix argument signatur argumentsignatur start startswith aspectj synthet signatur prefix aspectj synthet signatur prefix
+num extra arg numextraarg
+normal arg type mean earlier arg synthet
+num extra arg numextraarg
+num extra arg numextraarg
+arg length newarglength argument match argumentstomatchagainst length num extra arg numextraarg
+resolv type resolvedtyp arg subset argssubset resolv type resolvedtyp arg length newarglength
+system arraycopi argument match argumentstomatchagainst arg subset argssubset arg length newarglength
+argument match argumentstomatchagainst arg subset argssubset
+shadow kind getkind shadow constructor execut constructorexecut
+shadow match signatur getmatchingsignatur paramet type getparametertyp length argument match argumentstomatchagainst length
+synthet arg end caus public itd constructor
+arg length newarglength shadow match signatur getmatchingsignatur paramet type getparametertyp length
+resolv type resolvedtyp arg subset argssubset resolv type resolvedtyp arg length newarglength
+system arraycopi argument match argumentstomatchagainst arg subset argssubset arg length newarglength
+argument match argumentstomatchagainst arg subset argssubset
+argument match argumentstomatchagainst

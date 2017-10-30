@@ -1,0 +1,31 @@
+link org apach common math3 stat descript rank percentil
+percentil evalu valu begin length
+code length code
+return estim code code percentil valu
+percentil
+throw code math illeg argument except mathillegalargumentexcept code code valu code
+stat util statutil method comput statist base data
+math illeg argument except mathillegalargumentexcept paramet valid
+stat util statutil
+version
+param length number arrai element includ
+length
+code code valid quantil greater
+return code doubl nan code code length code
+posit code begin code arrai includ code length code
+input arrai
+length math illeg argument except mathillegalargumentexcept
+illeg argument except illegalargumentexcept paramet valid
+code begin code code length code invalid
+param percentil comput
+throw code illeg argument except illegalargumentexcept code code valu code
+valu
+code valu code arrai start element base
+param begin base element includ comput
+descript percentil estim algorithm
+equal
+return code code code valu begin code
+store arrai
+percentil valu begin
+org apach common math3 stat
+param valu arrai input valu

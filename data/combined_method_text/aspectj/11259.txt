@@ -1,0 +1,4 @@
+org aspectj ajdt intern compil ast
+field refer knownfieldrefer qualifi refer qualifiednamerefer
+type bind typebind resolv type resolvetyp block scope blockscop scope
+field bind fieldbind type

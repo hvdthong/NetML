@@ -1,0 +1,10 @@
+build rotat transform
+org apach common math geometri euclidean threed
+rotat transform rotationtransform vector3 vector3d center rotat rotat
+version
+center center
+param rotat vectori rotat
+rotat rotat
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron
+param center center point rotat

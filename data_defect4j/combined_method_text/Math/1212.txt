@@ -1,0 +1,34 @@
+univari real solver univariaterealsolv solver factori default solver newdefaultsolv
+absolut accuraci absoluteaccuraci converg except convergenceexcept
+solver set absolut accuraci setabsoluteaccuraci absolut accuraci absoluteaccuraci
+univari real solver univariaterealsolv solver lazi holder lazyhold factori default solver newdefaultsolv
+param absolut accuraci absoluteaccuraci accuraci solver
+converg except convergenceexcept iter count exceed
+solver solv integ max function
+util routin link univari real solver univariaterealsolv object
+solv univari real function univariaterealfunct
+param upper bound interv
+illeg argument except illegalargumentexcept code function code
+valid interv absolut accuraci absoluteaccuraci valid
+solver solv
+univari real solver univariaterealsolv solver brent solver brentsolv absolut accuraci absoluteaccuraci
+absolut accuraci absoluteaccuraci
+version revis date
+param function function
+function
+function evalu except functionevaluationexcept error occur evalu
+solver solv function
+valid solver
+illeg argument except illegalargumentexcept endpoint
+function evalu except functionevaluationexcept
+solver set max evalu setmaxevalu integ max
+param function
+solv univari real function univariaterealfunct function
+solver
+setup
+conveni method find univari real function
+param lower bound interv
+univari real solver util univariaterealsolverutil
+endpoint valid interv absolut accuraci
+org apach common math analysi solver
+null argument except nullargumentexcept local format localizedformat function

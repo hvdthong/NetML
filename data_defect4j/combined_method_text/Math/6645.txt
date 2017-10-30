@@ -1,0 +1,16 @@
+deriv except derivativeexcept
+order integr jacobian firstorderintegratorwithjacobian
+od jacobian odewithjacobian order differenti equat firstorderdifferentialequ
+param dfdp placehold arrai put jacobian od respect paramet
+param dot ydot arrai current time deriv state vector
+org apach common math od jacobian
+param dfdy placehold arrai put jacobian od respect state vector
+version revis date
+comput partial deriv od respect state
+deriv except derivativeexcept except propag caller
+param arrai current state vector
+repres link parameter od parameterizedod
+order differenti equat paramet partial deriv
+comput jacobian computejacobian dot ydot dfdy dfdp
+param current independ time variabl
+underli user function trigger

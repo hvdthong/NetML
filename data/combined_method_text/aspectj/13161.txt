@@ -1,0 +1,42 @@
+org aspectj apach bcel gener
+templat class build java class initi
+exist java class file
+javaclass
+version classgen java aclement exp
+author href mailto marku dahm berlin dahm
+upgrad andi clement 9th mar calcul suid
+class gen classgen access flag accessflag cloneabl
+initi exist class
+param clazz javaclass object read file
+class gen classgen java class javaclass clazz
+class index clazz class index getclassnameindex
+superclass index clazz superclass index getsuperclassnameindex
+class clazz class getclassnam
+super class clazz superclass getsuperclassnam
+file clazz sourc file getsourcefilenam
+access flag clazz access flag getaccessflag
+constant pool gen constantpoolgen clazz constant pool getconstantpool
+major clazz major getmajor
+minor clazz minor getminor
+attribut attribut clazz attribut getattribut
+j5todo make unpack lazi refer
+annot gen annotationgen annot unpack annot unpackannot attribut
+method method clazz method getmethod
+field field clazz field getfield
+string interfac clazz interfac name getinterfacenam
+interfac length
+add interfac addinterfac interfac
+attribut length
+dont add attribut annot unpack
+annot length
+add attribut addattribut attribut
+attribut getnam equal runtimevisibleannot
+attribut getnam equal runtimeinvisibleannot
+add attribut addattribut attribut
+annot length
+add annot addannot annot
+method length
+method method
+add method addmethod
+field length
+add field addfield field

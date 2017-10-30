@@ -1,0 +1,27 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+add pointcut relat node addusespointcutrelationsfornod program element iprogramel node penod list name pointcut namedpointcut method declar methoddeclar declar
+iter name pointcut namedpointcut iter hasnext
+refer pointcut referencepointcut refer pointcut referencepointcut
+resolv member resolvedmemb member pointcut declar getpointcutdeclar declar
+member
+relationship irelationship foreward asm manag asmmanag default getdefault relationship map getrelationshipmap
+node penod handl identifi gethandleidentifi
+relationship irelationship kind pointcut pointcut pointcut
+program element iprogramel forward ip forwardip asm manag asmmanag default getdefault hierarchi gethierarchi
+find element sourc line findelementforsourcelin member sourc locat getsourceloc
+foreward add target addtarget asm manag asmmanag default getdefault handl provid gethandleprovid
+creat handl identifi createhandleidentifi forward ip forwardip
+relationship irelationship back asm manag asmmanag default getdefault relationship map getrelationshipmap
+asm manag asmmanag default getdefault handl provid gethandleprovid
+creat handl identifi createhandleidentifi forward ip forwardip
+relationship irelationship kind pointcut pointcut pointcut
+back add target addtarget node penod handl identifi gethandleidentifi

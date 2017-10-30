@@ -1,0 +1,19 @@
+org aspectj tool ajbrows
+bare bone editor implement framework
+standalon
+author mik kersten
+basic editor basiceditor editor adapt editoradapt
+show sourc line showsourcelin string file path filepath line number linenumb highlight
+ajdeuimanag getdefault getideuiadapt reseteditor
+file path filepath file path filepath
+oldpath filepath ajd instanc browser manag isglobalmod
+ajd instanc browser manag updateview
+ajd id manag seteditorstatustext filepath
+curr highlight start currhighlightstart
+curr highlight end currhighlightend
+editor pane editorpan set text settext read file readfil file path filepath line number linenumb
+editor pane editorpan highlight gethighlight add highlight addhighlight curr highlight start currhighlightstart curr highlight end currhighlightend default highlight defaulthighlight default painter defaultpaint
+editor pane editorpan set caret posit setcaretposit curr highlight start currhighlightstart
+bad locat except badlocationexcept ble
+browser error handler browsererrorhandl handl error handleerror highlight locat ble
+browser manag browsermanag default getdefault editor manag geteditormanag notifi current file chang notifycurrentfilechang file path filepath

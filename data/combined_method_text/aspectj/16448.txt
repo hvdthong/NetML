@@ -1,0 +1,26 @@
+org aspectj intern tool build
+sampl util sampleutil
+replac liter liter sourc string
+param sourc string modifi
+param string liter replac
+param string liter replac
+return string sourc modifi replac
+string replac string sourc string string
+sourc sourc length
+sourc
+length length
+illeg argument except illegalargumentexcept unmatch
+string buffer stringbuff result string buffer stringbuff
+len sourc length
+start
+len
+string suffix sourc substr
+length
+suffix start startswith
+result append sourc substr start
+result append
+start length
+start
+start sourc length
+result append sourc substr start
+result string tostr

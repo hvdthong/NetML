@@ -1,0 +1,15 @@
+pre
+varianc
+gl assum gener covari matrix omega error
+estim gl
+gl implement multipl linear regress
+omega real matrix impl realmatriximpl omega
+add covari data
+add covari data addcovariancedata omega
+var omega
+omega omega 1x'omega
+param omega arrai repres covari
+version revis date
+org apach common math stat regress
+omega
+gl multipl linear regress glsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress

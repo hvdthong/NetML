@@ -1,0 +1,30 @@
+implement emploi basic trapezoid rule build block
+implement href http mathworld wolfram simpson rule simpsonsrul html
+simpson integr simpsonintegr univari real integr impl univariaterealintegratorimpl
+build simpson integr accuraci iter count
+greater link simpson max iter count
+simpson' rule integr real univari function
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci minim iter count minimaliterationcount maxim iter count maximaliterationcount
+equal link simpson max iter count
+version
+absolut accuraci absoluteaccuraci
+except strictli posit except notstrictlypositiveexcept minim number iter
+strictli posit
+number larg except numberistoolargeexcept maxim iter count maximaliterationcount
+org apach common math analysi integr
+param absolut accuraci absoluteaccuraci absolut accuraci result
+maxim iter count maximaliterationcount
+strictli posit except notstrictlypositiveexcept number small except numberistoosmallexcept number larg except numberistoolargeexcept
+simpson integr simpsonintegr rel accuraci relativeaccuraci
+param maxim iter count maximaliterationcount maximum number iter
+simpson max iter count
+refer introduct numer analysi isbn 038795452x
+chapter
+minim iter count minimaliterationcount
+except number larg except numberistoolargeexcept maxim number iter
+calcul simpson' rule altern
+except number small except numberistoosmallexcept maxim number iter
+param minim iter count minimaliterationcount minimum number iter
+maxim iter count maximaliterationcount simpson max iter count
+param rel accuraci relativeaccuraci rel accuraci result
+lesser equal minim number iter

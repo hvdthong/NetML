@@ -1,0 +1,23 @@
+org aspectj tool ajbrows
+run ajbrows lst file argument ajc
+main
+invok compil argument lst file
+return fals compil invok browser main
+compil main compilermain string arg
+arg arg length
+num config file numconfigfil
+arg length
+arg arg end endswith lst
+num config file numconfigfil
+num config file numconfigfil arg length
+class ajc class fornam org aspectj tool ajc main
+method main ajc method getmethod main class string
+main invok object arg
+class found except classnotfoundexcept
+report
+method except nosuchmethodexcept
+report
+illeg access except illegalaccessexcept
+report
+invoc target except invocationtargetexcept
+report target except gettargetexcept

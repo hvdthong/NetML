@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+rule extend final type
+enforc decp rule2 extend final class enforcedecprule2 cantextendfinalclass bcel class weaver bcelclassweav weaver sourc locat isourceloc munger loc mungerloc
+lazi class gen lazyclassgen parent target newparenttarget resolv type resolvedtyp parent newpar
+parent newpar final isfin
+error weaver make type parent target newparenttarget getnam extend final class parent newpar getnam
+parent target newparenttarget type gettyp sourc locat getsourceloc
+sourc locat isourceloc munger loc mungerloc

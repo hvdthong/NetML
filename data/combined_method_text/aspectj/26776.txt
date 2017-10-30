@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+bcel claus aspect adder bcelperclauseaspectadd resolv type resolvedtypex aspect claus perclaus kind kind
+aspect
+kind kind
+kind claus perclaus singleton kind claus perclaus pertypewithin kind claus perclaus percflow
+need
+gener hasgeneratedinn

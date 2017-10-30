@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener inlin access member generateinlineaccessmemb class file classfil class file classfil
+iter super access inlin superaccessforinlin valu iter hasnext
+access inlin visitor accessforinlinevisitor super access method pair superaccessmethodpair pair access inlin visitor accessforinlinevisitor super access method pair superaccessmethodpair
+gener super access method generatesuperaccessmethod class file classfil pair access method accessmethod pair origin method originalmethod
+iter access inlin accessforinlin entri set entryset iter hasnext
+map entri map entri
+gener inlin access method generateinlineaccessmethod class file classfil bind getvalu resolv member resolvedmemb kei getkei

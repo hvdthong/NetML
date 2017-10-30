@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+var var getthisvar
+hasthi
+illeg state except illegalstateexcept
+initi var initializethisvar
+var thisvar

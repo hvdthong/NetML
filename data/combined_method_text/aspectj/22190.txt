@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+typepattern
+bind formal explicitli forbidden composit
+wrong case
+author erik hilsdal
+author jim hugunin
+type pattern nottypepattern type pattern typepattern
+equal object obj
+obj type pattern nottypepattern
+negat pattern negatedpattern equal type pattern nottypepattern obj negat pattern negatedpattern

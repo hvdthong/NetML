@@ -1,0 +1,22 @@
+pre
+org apach common math od nonstiff
+theta belong
+order rung kutta integr
+inherit doc inheritdoc
+step comput interpol equat consist
+overrid
+interpol comput dens output insid
+refer point step end
+theta theta theta
+theta theta
+evalu deriv comput
+version
+version revis date
+theta
+step interpol stepinterpol copi docopi
+refer point step start
+classic rung kutta step interpol classicalrungekuttastepinterpol
+integr scheme
+step
+step interpol classic fourth
+classic rung kutta integr classicalrungekuttaintegr

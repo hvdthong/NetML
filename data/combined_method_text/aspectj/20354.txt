@@ -1,0 +1,32 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+check method overrid refactor helper
+multipl place
+resolv member resolvedmemb overrid isoverrid resolv type resolvedtyp type check typetocheck resolv member resolvedmemb method overridden methodthatmightbegettingoverridden string mname string mrettyp mmod packag insamepackag unresolv type unresolvedtyp method param arrai methodparamsarrai
+check overrid
+method overridden methodthatmightbegettingoverridden static isstat methodthatmightbegettingoverridden isstat return null overrid static method
+method overridden methodthatmightbegettingoverridden privat ispriv methodthatmightbegettingoverridden ispriv return null overrid privat method
+method overridden methodthatmightbegettingoverridden getnam equal mname methodthatmightbegettingoverridden getnam equal mname return null name dont match skip init clinit
+method overridden methodthatmightbegettingoverridden paramet type getparametertyp length method param arrai methodparamsarrai length methodthatmightbegettingoverridden getparametertyp length methodparamsarrai length return null check number paramet
+visibl overrid isvisibilityoverrid mmod method overridden methodthatmightbegettingoverridden packag insamepackag
+type check typetocheck world getworld debug bridg code fordebug bridgingcod system err println bridg overridden method overridden methodthatmightbegettingoverridden
+erasur paramet list string eras list
+param sameparam
+method overridden methodthatmightbegettingoverridden paramet type getparametertyp length
+method overridden methodthatmightbegettingoverridden paramet type getparametertyp erasur signatur geterasuresignatur equal method param arrai methodparamsarrai erasur signatur geterasuresignatur param sameparam
+'typetocheck' repres parameter type method parameter form
+gener method gener type method 'void list parameter type
+string method 'void list string string eras
+'void list string paramet match gener method
+overrid
+param sameparam
+check covari
+type check typetocheck parameter type isparameterizedtyp
+method overridden methodthatmightbegettingoverridden back gener member getbackinggenericmemb
+method overridden methodthatmightbegettingoverridden return type getreturntyp erasur signatur geterasuresignatur equal mrettyp
+address wierd situat bug
+check thing relationship covari
+resolv type resolvedtyp super return superreturn type check typetocheck world getworld resolv unresolv type unresolvedtyp signatur forsignatur method overridden methodthatmightbegettingoverridden return type getreturntyp erasur signatur geterasuresignatur
+resolv type resolvedtyp return subreturn type check typetocheck world getworld resolv unresolv type unresolvedtyp signatur forsignatur mrettyp
+super return superreturn assign isassignablefrom return subreturn
+method overridden methodthatmightbegettingoverridden

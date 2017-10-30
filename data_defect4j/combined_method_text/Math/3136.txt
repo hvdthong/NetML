@@ -1,0 +1,10 @@
+orient sameorientationa hyperplan euclidean3 euclidean3d
+org apach common math geometri euclidean threed
+repres plane dimension space
+param hyperplan check instanc
+check instanc orient hyperplan
+instanc hyperplan
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+vector3 vector3d dot product dotproduct plane
+orient

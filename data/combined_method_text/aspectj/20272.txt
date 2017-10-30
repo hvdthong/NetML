@@ -1,0 +1,24 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+collect collect check except collectcheckedexcept unresolv type unresolvedtyp exc
+exc exc length collect empti list empti list
+collect ret arrai list arraylist
+world world concret aspect concreteaspect world getworld
+resolv type resolvedtyp runtim except runtimeexcept world core type getcoretyp unresolv type unresolvedtyp runtim except runtim except
+resolv type resolvedtyp error world core type getcoretyp unresolv type unresolvedtyp error
+len exc length len
+resolv type resolvedtyp world resolv exc
+miss ismiss
+world lint getlint find type cantfindtyp signal
+weaver messag weavermessag format weaver messag weavermessag find type except type find type except type exc getnam
+sourc locat getsourceloc
+imessag msg messag
+weavermessag format weavermessag find type except type exc getnam
+imessag error getsourceloc null null
+world getmessagehandl handlemessag msg
+runtim except runtimeexcept assign isassignablefrom error assign isassignablefrom
+ret add
+ret

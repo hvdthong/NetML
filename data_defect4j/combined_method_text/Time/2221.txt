@@ -1,0 +1,27 @@
+author stephen colebourn
+hour dai hourofdai date time constant datetimeconst milli hour
+author brian neill o'neil
+reflect intent defin
+base base getbas
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+abstract implement calendar system typic
+field util fieldutil verifi bound verifyvaluebound date time field type datetimefieldtyp minut secondofminut minut secondofminut
+basic chronolog basicchronolog thread safe immut subclass
+dai month year leap year leapyear model
+field util fieldutil verifi bound verifyvaluebound date time field type datetimefieldtyp hour dai hourofdai hour dai hourofdai
+field util fieldutil verifi bound verifyvaluebound date time field type datetimefieldtyp milli millisofsecond milli millisofsecond
+field util fieldutil verifi bound verifyvaluebound date time field type datetimefieldtyp minut hour minuteofhour minut hour minuteofhour
+org joda time chrono
+minut hour minuteofhour date time constant datetimeconst milli minut
+chronolog base
+minut secondofminut date time constant datetimeconst milli
+base date time milli getdatetimemilli year month year monthofyear dai month dayofmonth
+year month year monthofyear dai month dayofmonth
+hour dai hourofdai minut hour minuteofhour minut secondofminut milli millisofsecond
+date midnight milli getdatemidnightmilli year month year monthofyear dai month dayofmonth
+author gui allard
+renam base chronolog basegjchronolog
+date time milli getdatetimemilli
+milli millisofsecond
+util method requir subclass
+illeg argument except illegalargumentexcept

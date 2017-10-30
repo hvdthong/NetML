@@ -1,0 +1,19 @@
+org aspectj weaver loadtim
+weav url class loader weavingurlclassload extens url class loader extensibleurlclassload weav class loader weavingclassload
+overrid weav class weavingadaptor
+class defin class defineclass string code sourc codesourc except ioexcept
+trace trace enabl istraceen trace enter defineclass object
+system err println weavingurlclassload defineclass length
+avoid recurs adaptor initi
+initi adaptor initializingadaptor
+defer creation recurs constructor execut
+adaptor initi adaptor initializingadaptor
+creat adaptor createadaptor
+adaptor weav class weaveclass
+abort except abortexcept
+trace error defineclass
+throwabl
+trace error defineclass
+class clazz defin class defineclass
+trace trace enabl istraceen trace exit defineclass clazz
+clazz

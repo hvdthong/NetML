@@ -1,0 +1,26 @@
+org aspectj apach bcel gener
+templat class build java class initi
+exist java class file
+javaclass
+version classgen java aclement exp
+author href mailto marku dahm berlin dahm
+upgrad andi clement 9th mar calcul suid
+class gen classgen access flag accessflag cloneabl
+attribut repres annot unpack
+annot gen annotationgen unpack annot unpackannot attribut attr
+list annot gen obj annotationgenobj arrai list arraylist list annotationgen annotationgenobj arraylist
+attr length
+attribut attr attr
+attr runtim visibl annot runtimevisibleannot
+runtim visibl annot runtimevisibleannot rva runtim visibl annot runtimevisibleannot attr
+list anno rva annot getannot
+iter iter anno iter iter hasnext
+annot annot iter
+annot gen obj annotationgenobj add annot gen annotationgen constant pool getconstantpool
+attr runtim invis annot runtimeinvisibleannot
+runtim invis annot runtimeinvisibleannot ria runtim invis annot runtimeinvisibleannot attr
+list anno ria annot getannot
+iter iter anno iter iter hasnext
+annot annot iter
+annot gen obj annotationgenobj add annot gen annotationgen constant pool getconstantpool
+annot gen annotationgen annot gen obj annotationgenobj arrai toarrai annot gen annotationgen

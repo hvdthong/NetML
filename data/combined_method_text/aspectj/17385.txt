@@ -1,0 +1,6 @@
+org aspectj runtim reflect
+factori
+initi signatur initializersignatur make initi sig makeinitializersig string string rep stringrep
+initi signatur impl initializersignatureimpl ret initi signatur impl initializersignatureimpl string rep stringrep
+ret set lookup class loader setlookupclassload lookup class loader lookupclassload
+ret

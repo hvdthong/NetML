@@ -1,0 +1,11 @@
+repres region set polygon
+incom incom
+set incom edg
+param incom incom edg
+line support incom edg automat bound
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+bind bindwith incom line getlin
+set incom setincom edg incom
+instanc
+org apach common math3 geometri euclidean twod

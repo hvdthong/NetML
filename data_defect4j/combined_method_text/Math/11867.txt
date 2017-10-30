@@ -1,0 +1,19 @@
+squar problem
+unknown paramet
+fit
+fitter parametr univari real function
+observ clear
+find paramet
+org apach common math3 fit
+function sum
+find paramet valu minim object
+version curv fitter curvefitt java 14z
+fit curv remain close set
+deprec link abstract curv fitter abstractcurvefitt
+remov observ
+link weight observ point weightedobservedpoint
+param function fit
+curv fitter curvefitt parametr univari function parametricunivariatefunct
+univari real function depend
+clear observ clearobserv
+observ point

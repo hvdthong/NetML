@@ -1,0 +1,11 @@
+visit matrix entri
+interfac defin visitor matrix entri
+org apach common math3 linear
+param type field element
+param current entri
+field matrix chang visitor fieldmatrixchangingvisitor field element fieldel
+version
+visit row column
+param column column index entri
+param row row index entri
+set entri

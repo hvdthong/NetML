@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+annot type pattern notannotationtypepattern annot type pattern annotationtypepattern
+annot type pattern annotationtypepattern parameter parameterizewith map type variabl map typevariablemap world
+annot type pattern annotationtypepattern negat pattern newnegatedpattern negat pattern negatedpattern parameter parameterizewith type variabl map typevariablemap
+annot type pattern notannotationtypepattern ret annot type pattern notannotationtypepattern negat pattern newnegatedpattern
+ret copi locat copylocationfrom
+paramet annot match isforparameterannotationmatch ret set paramet annot match setforparameterannotationmatch
+ret

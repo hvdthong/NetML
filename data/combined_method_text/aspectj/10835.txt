@@ -1,0 +1,11 @@
+org aspectj ajd swing
+repres configur structur view system render
+code structuretreemanag code
+author mik kersten
+structur view panel structureviewpanel panel jpanel structur view render structureviewrender
+init
+init jbinit
+except
+messag msg messag initi view panel messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+updat view updateview current view currentview

@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+visit call call
+member method call method getmethod
+assert method isstat
+expr arg call arg getarg
+system println arg arrai aslist arg
+instruct list instructionlist call callil instruct list instructionlist
+len arg length len
+xxx correct static method call
+type desir type desiredtyp bcel world bcelworld make bcel type makebceltyp method paramet type getparametertyp
+call callil append render expr renderexpr fact world arg desir type desiredtyp
+system println render arg callil
+call callil append util creat invok createinvok fact world method
+call callil append creat jump base boolean stack createjumpbasedonbooleanonstack
+instruct insert call callil

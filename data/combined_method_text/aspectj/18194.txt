@@ -1,0 +1,22 @@
+org aspectj util
+lang util langutil
+split code input code remov delimit
+trim white space
+return empti collect input null
+delimit null empti input
+delimit input return
+trim white space
+param input code string code split
+param delim code string code separ input
+return list string element
+list split anysplit string input string delim
+input
+collect empti list empti list
+arrai list arraylist result arrai list arraylist
+lang util langutil empti isempti delim
+input index indexof delim
+result add input trim
+string token stringtoken string token stringtoken input delim
+token hasmoretoken
+result add token nexttoken trim
+result

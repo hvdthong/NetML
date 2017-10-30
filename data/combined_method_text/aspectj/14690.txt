@@ -1,0 +1,25 @@
+org aspectj apach bcel util
+repositori maintain inform class
+load
+load data classload implement
+pass constructor
+org aspectj apach bcel repositori
+version classloaderrepositori java aclement exp
+author href mailto marku dahm berlin dahm
+author david dixon peugh
+class loader repositori classloaderrepositori repositori
+produc report cach usag
+string report
+string buffer stringbuff string buffer stringbuff
+append bcel repositori report
+share cach usesharedcach append share cach
+append local cach
+append total time spent load time spent load timespentload
+append time spent manipul url time manipul timemanipulatingurl
+append class load class load count classesloadedcount
+share cach usesharedcach
+append share cach size share cach sharedcach size
+append share cach hit missduetoevict cach hit share cachehitsshar miss share evict misssharedevict
+append local cach size local cach localcach size
+append local cach hit missduetoevict cach hit local cachehitsloc miss local evict misslocalevict
+string tostr

@@ -1,0 +1,51 @@
+org apach lucen index
+collect segmentinfo object method oper
+segment relat file system
+lucen experiment
+segment info segmentinfo vector segment info segmentinfo
+read segmentfilenam note
+throw ioexcept commit process
+param directori directori segment file
+param segmentfilenam segment file load
+throw corruptindexexcept index corrupt
+throw ioexcept low level error
+read directori directori string segment file segmentfilenam corrupt index except corruptindexexcept except ioexcept
+success
+clear previou segment
+clear
+checksum index input checksumindexinput input checksum index input checksumindexinput directori open input openinput segment file segmentfilenam
+gener gener segment file generationfromsegmentsfilenam segment file segmentfilenam
+gener lastgener gener
+format input read int readint
+format format file explicit format info
+check format understand
+format current format current format
+corrupt index except corruptindexexcept unknown format version format
+version input read long readlong version input readlong read version
+counter input read int readint counter input readint read counter
+file format explicit format info
+counter format
+input read int readint int input readint read segmentinfo
+add segment info segmentinfo directori format input
+format format format version number end file
+input file pointer getfilepoint input length
+version system current time milli currenttimemilli version system currenttimemilli file format version number
+version input read long readlong version input readlong read version
+format format user data format user data
+format format diagnost format diagnost
+user data userdata input read string string map readstringstringmap
+input read byte readbyt
+user data userdata collect singleton map singletonmap userdata input read string readstr
+user data userdata collect string string empti map emptymap
+user data userdata collect string string empti map emptymap
+format format checksum format checksum
+checksum checksumnow input checksum getchecksum
+checksum checksumthen input read long readlong
+checksum checksumnow checksum checksumthen
+corrupt index except corruptindexexcept checksum mismatch segment file
+success
+input close
+success
+clear segment info load
+clean slate retri
+clear

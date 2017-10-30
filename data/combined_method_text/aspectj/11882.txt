@@ -1,0 +1,8 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+set build config setbuildconfig build config ajbuildconfig build config buildconfig
+build config buildconfig build config buildconfig
+environ support increment compil environmentsupportsincrementalcompil
+environ support increment compil environmentsupportsincrementalcompil
+build config buildconfig increment mode isincrementalmod build config buildconfig increment file mode isincrementalfilemod
+handler reset

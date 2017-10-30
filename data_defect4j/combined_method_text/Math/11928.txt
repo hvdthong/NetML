@@ -1,0 +1,9 @@
+org apach common math3 fit leastsquar
+model function
+multivari vector function multivariatevectorfunct model getmodel
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+version
+param optim concret optim
+base implement squar optim
+method error estim
+model

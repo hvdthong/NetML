@@ -1,0 +1,5 @@
+[PATCH] Add Git and Mercurial special files to default excludes
+Created attachment 25789
+Add Git and Mercurial special files to default excludes
+
+The attached patch adds all Git and Mercurial special files I'm aware of to Ant's default excludes.

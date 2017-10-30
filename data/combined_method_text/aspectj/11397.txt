@@ -1,0 +1,29 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+resolv pointcut declar resolvepointcutdeclar class scope classscop
+type declar typedeclar dec refer context referencecontext
+sourc type bind sourcetypebind sourc type sourcetyp refer context referencecontext bind
+pointcut haspointcut
+abstract method declar abstractmethoddeclar method dec method
+initi method initializedmethod
+method
+method length
+method pointcut declar pointcutdeclar
+pointcut haspointcut
+initi method initializedmethod
+sourc type sourcetyp method sourcetyp method forc initi
+initi method initializedmethod
+pointcut declar pointcutdeclar method resolv pointcut resolvepointcut
+pointcut haspointcut dec aspect declar aspectdeclar annot style aspect declar couldbeannotationstyleaspectdeclar dec
+refer type referencetyp refer type referencetyp factori eclips fromeclips sourc type sourcetyp
+eclips sourc type eclipsesourcetyp eclips sourc type eclipsesourcetyp eclips sourc type eclipsesourcetyp deleg getdeleg
+eclips sourc type eclipsesourcetyp check pointcut declar checkpointcutdeclar
+refer bind referencebind member type membertyp sourc type sourcetyp member type membertyp
+length member type membertyp length length
+resolv pointcut declar resolvepointcutdeclar sourc type bind sourcetypebind member type membertyp scope

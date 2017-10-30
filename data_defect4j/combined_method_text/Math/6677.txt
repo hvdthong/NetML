@@ -1,0 +1,23 @@
+pre
+org apach common math od nonstiff
+interpol adam bashforth multipl step
+inherit doc inheritdoc
+step comput interpol equat consist
+overrid
+gamma gamma fgamma doublevalu
+interpol comput dens output insid
+nevil previou previousf length
+integr scheme base kind rollback
+version revis date
+deriv previou step
+adam bashforth integr adamsbashforthintegr
+theta belong interpol polynomi base
+initi coeffici initializecoeffici
+arrai bdarrai adam bashforth integr adamsbashforthintegr comput backward differ arrai computebackwarddifferencesarrai previou previousf length
+rollback previou previousf length
+adam bashforth step interpol adamsbashforthstepinterpol multistep step interpol multistepstepinterpol
+theta theta
+fraction gamma fgamma adam bashforth integr adamsbashforthintegr comput gamma arrai computegammaarrai previou previousf length
+gamma gamma fgamma length
+gamma fgamma length
+integr step end interpol date

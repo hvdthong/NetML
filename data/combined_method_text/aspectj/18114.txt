@@ -1,0 +1,8 @@
+org aspectj util
+file util fileutil
+read int arrai encod
+string read string arrai readstringarrai data input stream datainputstream except ioexcept
+len read int readint
+string ret string len
+len ret read utf readutf
+ret

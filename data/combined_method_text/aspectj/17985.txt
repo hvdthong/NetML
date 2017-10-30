@@ -1,0 +1,10 @@
+org aspectj tool ant taskdef compil
+ajc compileradapt
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef ajc
+ajc default compil adapt defaultcompileradapt
+list final list finallist string arg
+list result arrai list arraylist
+result add addal arrai list aslist arg
+collect unmodifi list unmodifiablelist result

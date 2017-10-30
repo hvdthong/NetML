@@ -1,0 +1,27 @@
+fit initi guess initialguess
+fitter parametr univari real function
+find paramet
+fit integ max initi guess initialguess
+fit curv
+curv fitter curvefitt parametr univari function parametricunivariatefunct
+univari real function depend
+method comput coeffici curv
+fit
+find paramet valu minim object
+squar problem
+version
+param function fit
+fit sampl observ point previous call
+fit paramet
+observ point
+function sum
+fit curv remain close set
+start point dimens wrong
+add observ point addobservedpoint method
+param initi guess initialguess guess function paramet
+link add observ point addobservedpoint weight observ point weightedobservedpoint
+deprec remov
+unknown paramet
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+org apach common math3 optim fit
+param parametr function fit

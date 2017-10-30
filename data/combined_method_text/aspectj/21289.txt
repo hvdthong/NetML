@@ -1,0 +1,10 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+refer class loader
+construct problem recurs make sens
+suppli weav context initi
+deprec
+class loader weav adaptor classloaderweavingadaptor class loader classload deprec loader deprecatedload weav context iweavingcontext deprec context deprecatedcontext
+trace trace enabl istraceen trace enter init object deprec loader deprecatedload deprec context deprecatedcontext
+trace trace enabl istraceen trace exit init

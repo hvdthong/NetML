@@ -1,0 +1,16 @@
+method implement link entri getentri access
+trace
+org apach common math3 linear
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+trace gettrac
+version
+abstract real matrix abstractrealmatrix
+row nrow
+basic implement real matrix realmatrix method underli storag
+trace gettrac squar matrix except nonsquarematrixexcept
+trace entri getentri
+col ncol column dimens getcolumndimens
+squar matrix except nonsquarematrixexcept row nrow col ncol
+row nrow row dimens getrowdimens
+row nrow col ncol

@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+repres access annot element relat 'kinded' pointcut
+depend kind pointcut element field method
+kind annot access var kindedannotationaccessvar bcel var bcelvar
+instruct list instructionlist creat copi createcopyfrom instruct factori instructionfactori fact slot oldslot
+runtim except runtimeexcept unimpl

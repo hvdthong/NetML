@@ -1,0 +1,62 @@
+pre
+call link real matrix realmatrix argument implement
+method find exact linear solut solut
+block complex eigenvalu lambda block
+invers depend condit
+time matric
+dot product dotproduct real eigenvalu realeigenvalu
+dimens mismatch except dimensionmismatchexcept matric dimens match
+singular matrix except singularmatrixexcept decompos matrix singular
+link eigenvector geteigenvector eigenvector geteigenvector method pick singl
+data vdata
+wilkinson implicit algorithm wilksinson reinsch
+comput real real eigenvalu realeigenvalu impli matrix return
+matrix badli condit singular valid equat
+librari
+symmetr eigenvalu matrix block diagon real eigenvalu
+eigen decomposit eigendecomposit
+link determin getdetermin determin getdetermin method ad
+arrai real vector arrayrealvector
+href http wikipedia org wiki eigendecomposit matrix wikipedia
+calcul eigen decomposit real strong symmetr strong
+multipli transpos equal ident matrix
+support strong symmetr strong matric
+link real eigenvalu getrealeigenvalu real eigenvalu getrealeigenvalu link imag eigenvalu getimageigenvalu
+version
+arrai real vector arrayrealvector eigenvector
+dimens getdimens
+support gener real matric symmetr symmetr
+eigenvector ad
+time time
+calcul eigen decomposit real matrix
+singular matrix except singularmatrixexcept
+handbook automat comput vol linear algebra springer verlag
+link imag eigenvalu getimageigenvalu link imag eigenvalu getimageigenvalu
+data vdata data ref getdataref
+matrix orthogon multipli multipli transpos
+implement base paper drubrul martin
+eigen decomposit matrix set matric
+york
+column repres eigenvector sens
+link getd diagon imaginari valu return
+real vector realvector solv real vector realvector
+multipli equal multipli
+matrix
+real eigenvalu realeigenvalu length
+org apach common math3 linear
+vector minim norm time
+param hand side equat time
+similar spirit code eigenvalu decomposit eigenvaluedecomposit code
+href http math nist gov javanumer jama jama
+symmetr eigenvalu matrix diagon eigenvector
+imag eigenvalu getimageigenvalu method pick singl eigenvalu ad
+upper part matrix part diagon access
+singular isnonsingular
+link solver getsolv solver getsolv method ad
+chang concret
+time
+solv linear equat time symmetr matric
+href http mathworld wolfram eigen decomposit eigendecomposit html math world mathworld
+link getvt getvt method ad
+dimens mismatch except dimensionmismatchexcept dimens getdimens
+lambda

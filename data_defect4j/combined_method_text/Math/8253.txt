@@ -1,0 +1,13 @@
+gener random vector isotrop locat surfac sphere
+comp rand doubl nextdoubl
+norm normsq comp comp
+comp
+inherit doc inheritdoc
+unit sphere random vector gener unitsphererandomvectorgener
+math sqrt norm normsq
+vector nextvector
+version revis date
+org apach common math random
+norm normsq
+fast math fastmath sqrt norm normsq
+dimens

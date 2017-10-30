@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math transform
+
+
+
+
+
+
+
+
+
+
+
+
+
+implement fast cosin transform transform dimension
+real data set refer jame walker fast fourier
+transform chapter isbn
+
+
+variant discret cosin transform present
+implement correspond dct normal convent
+paramet link dct normal dctnormal
+
+
+dct equival dft extens data seri
+precis hellip data set
+cosin transform extend data set
+hellip
+defin
+
+
+
+
+
+
+
+standard dct hellip real
+data set hellip equal half
+element dft extend data set
+hellip
+
+sum
+exp
+nbsp nbsp nbsp nbsp hellip
+
+
+present implement discret cosin transform fast cosin
+transform requir length data set power
+nbsp nbsp nbsp nbsp implicitli assum
+sampl function
+
+
+version
+
+
+fast cosin transform fastcosinetransform real transform realtransform serializ
+
+
+
+
+
+
+
+
+creat instanc normal
+convent
+
+param normal type normal appli
+transform data
+
+fast cosin transform fastcosinetransform dct normal dctnormal normal
+normal normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

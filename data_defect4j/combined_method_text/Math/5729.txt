@@ -1,0 +1,26 @@
+col outcol column dimens getcolumndimens
+kei rightkei comput kei computekei
+kei column dimens columndimens
+kei iter kei
+column dimens columndimens row dimens rowdimens
+entri kei outkei entri kei rightkei
+outvalu
+col outcol
+entri remov kei outkei
+org apach common math linear
+iter advanc
+spars real matrix sparserealmatrix abstract real matrix abstractrealmatrix
+param matrix postmultipli
+entri put kei outkei outvalu
+return result postmultipli
+version revis date
+safeti check
+spars matrix implement base open address map
+entri kei containskei kei rightkei
+kei outkei comput kei computekei
+spars real matrix sparserealmatrix multipli spars real matrix sparserealmatrix illeg argument except illegalargumentexcept
+check multipl compat checkmultiplicationcompat
+spars real matrix sparserealmatrix spars real matrix sparserealmatrix row dimens rowdimens col outcol
+open int doubl hash map openinttodoublehashmap iter iter entri iter iter hasnext
+iter
+illeg argument except illegalargumentexcept

@@ -1,0 +1,30 @@
+interv fix millisecond durat
+interv start milli startmilli end milli endmilli chrono
+author stephen colebourn
+interv
+repres differ start end point term field
+period
+interv period end withperiodbeforeend readabl period readableperiod period
+interv start interv calcul end
+author brian neill o'neil
+interv convert link readabl period readableperiod
+author sean geoghegan
+interv inclus start instant exclus end
+param period period add start end instant mean
+result interv compar
+illeg argument except illegalargumentexcept period neg
+start milli startmilli chrono add period end milli endmilli
+durat repres separ link readabl durat readabledur
+interv thread safe immut
+end milli endmilli end milli getendmilli
+compar length interv compar durat
+author julen parra
+time interv repres period time instant
+year dai
+differ start end instant
+end instant greater equal start instant
+chronolog chrono chronolog getchronolog
+org joda time
+interv standard implement immut time interv
+creat interv period end instant
+durat end withdurationbeforeend

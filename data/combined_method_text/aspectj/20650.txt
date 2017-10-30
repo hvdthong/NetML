@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+instruct list instructionlist make call callback makecalltocallback lazi method gen lazymethodgen callback method callbackmethod
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist callback instruct list instructionlist
+var thisvar
+callback append instruct constant instructionconst aload
+target var targetvar target var targetvar var thisvar
+callback append bcel render bcelrender render expr renderexpr fact world target var targetvar
+callback append bcel render bcelrender render expr renderexpr fact world arg var argvar
+rememb render tjp
+join point var thisjoinpointvar
+callback append bcel render bcelrender render expr renderexpr fact world join point var thisjoinpointvar
+callback append util creat invok createinvok fact callback method callbackmethod
+callback

@@ -1,0 +1,18 @@
+lower dimens space method return dummi
+hyperplan simpl point orient
+dummi region
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+org apach common math geometri partit region region
+implement link
+orient point suborientedpoint
+build region cover hyperplan
+instanc guarante immut
+repres dimens space
+org apach common math geometri partit hyperplan subhyperplan
+orient point suborientedpoint hyperplan wholehyperplan
+version
+repres orient hyperplan
+org apach common math geometri euclidean on
+link
+instanc implement
+hyperplan subhyperplan implement work properli

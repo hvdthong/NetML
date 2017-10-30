@@ -1,0 +1,28 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+declar read version data input stream versioneddatainputstream
+sourc context isourcecontext context except ioexcept
+declar annot declareannot ret
+kind read int readint
+string annot string annotationstr read utf readutf
+string annot method annotationmethod read utf readutf
+type pattern typepattern
+signatur pattern signaturepattern
+kind
+type pattern typepattern read context
+ret declar annot declareannot type type
+signatur pattern signaturepattern read context
+ret declar annot declareannot field field
+signatur pattern signaturepattern read context
+ret declar annot declareannot method method
+signatur pattern signaturepattern read context
+ret declar annot declareannot constructor constructor
+kind type
+typepattern read context
+ret declareannot type
+signaturepattern read context
+ret declareannot kind
+ret set annot string setannotationstr annot string annotationstr
+ret set annot method setannotationmethod annot method annotationmethod
+ret read locat readloc context
+ret

@@ -1,0 +1,8 @@
+overrid
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+interv set intervalsset build buildnew bsp tree bsptree euclidean1 euclidean1d tree
+inherit doc inheritdoc
+repres region set interv
+version
+org apach common math geometri euclidean on
+interv set intervalsset tree

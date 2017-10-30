@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math distribut
+
+
+concret distribut factori factori
+common math
+
+version revis date
+deprec pluggabl distribut instanc provid
+constructor setter
+
+distribut factori impl distributionfactoryimpl distribut factori distributionfactori
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+creat distribut degre freedom
+
+param numer degre freedom numeratordegreesoffreedom numer degre freedom
+param denomin degre freedom denominatordegreesoffreedom denomin degre freedom
+distribut
+
+distribut fdistribut creat distribut createfdistribut
+numer degre freedom numeratordegreesoffreedom
+denomin degre freedom denominatordegreesoffreedom
+distribut impl fdistributionimpl numer degre freedom numeratordegreesoffreedom
+denomin degre freedom denominatordegreesoffreedom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

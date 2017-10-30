@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+initi javaclass initializefromjavaclass
+interfac isinterfac java class javaclass interfac isinterfac
+enum isenum java class javaclass enum isenum
+annot isannot java class javaclass annot isannot
+anonym isanonym java class javaclass anonym isanonym
+nest isnest java class javaclass nest isnest
+modifi java class javaclass access flag getaccessflag
+superclass superclassnam java class javaclass superclass getsuperclassnam
+class classnam java class javaclass class getclassnam
+cach gener class type signatur cachedgenericclasstypesignatur

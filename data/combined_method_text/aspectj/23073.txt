@@ -1,0 +1,13 @@
+org aspectj weaver reflect
+author colyer
+creat reflectionbasedreferencetypedeleg
+level run reflect avoid depend
+code base
+reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori
+resolv member resolvedmemb creat handler member createhandlermemb class except type exceptiontyp class type intyp world world inworld
+resolv member impl resolvedmemberimpl
+org aspectj weaver member handler
+resolv type toresolvedtyp type intyp reflect world ireflectionworld world inworld
+modifi static
+catch
+world inworld resolv except type exceptiontyp getnam signatur getsignatur

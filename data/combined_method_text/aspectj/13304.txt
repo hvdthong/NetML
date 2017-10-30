@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+dneg negat doubl
+pre stack word1 word2 result word1 result word2 pre
+version dneg java aclement exp
+author href mailto marku dahm berlin dahm
+dneg arithmet instruct arithmeticinstruct
+dneg
+org aspectj apach bcel constant dneg

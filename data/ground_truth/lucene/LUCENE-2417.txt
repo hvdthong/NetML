@@ -1,0 +1,9 @@
+src/java/org/apache/lucene/index/DirectoryReader$ReaderCommit_getUserData_Map<String,String>
+src/java/org/apache/lucene/index/IndexCommit_delete_void
+src/java/org/apache/lucene/index/IndexCommit_getGeneration_long
+src/java/org/apache/lucene/index/IndexCommit_getUserData_Map<String,String>
+src/java/org/apache/lucene/index/IndexCommit_getVersion_long
+src/java/org/apache/lucene/index/IndexCommit_hashCode_int
+src/java/org/apache/lucene/index/IndexCommit_isDeleted_boolean
+src/java/org/apache/lucene/index/IndexCommit_isOptimized_boolean
+src/java/org/apache/lucene/index/SnapshotDeletionPolicy$MyCommitPoint_getUserData_Map<String,String>

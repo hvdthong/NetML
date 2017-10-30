@@ -1,0 +1,32 @@
+pre
+error ratio greater step reject
+a21
+common part embed rung kutta
+arrai
+comput directli error comput estim
+method embed explicit rung kutta method
+param estim step start step
+step reject error estim phase
+embed rung kutta integr embeddedrungekuttaintegr
+estim error estimateerror dot ydotk
+compar
+set coeffici allow estim error butcher
+param current step
+version
+a31 a32
+as1 as2 ass
+integr ordinari differenti equat
+fact arrai defin b'j
+method evalu method
+org apach common math3 od nonstiff
+param dot ydotk deriv comput stage
+param estim step end step
+asi
+b'1 b'2 b' b'
+stage behaviour success step
+evalu save fsal method
+evalu reus step cost
+method qualifi fsal
+comput error ratio
+step step
+method mean evalu deriv

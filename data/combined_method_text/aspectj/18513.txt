@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb type local aspect pertypewithinlocalaspectof unresolv type unresolvedtyp shadow type shadowtyp unresolv type unresolvedtyp aspect type aspecttyp
+resolv member impl resolvedmemberimpl
+member method
+shadow type shadowtyp shadowtyp pertypewithininterfacetyp aspecttyp
+modifi public modifi static
+mangler namemangl type local aspect pertypewithinlocalaspectof aspect type aspecttyp
+aspect type aspecttyp signatur getsignatur

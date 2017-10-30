@@ -1,0 +1,9 @@
+param wrong row dimens
+squar oper except nonsquareoperatorexcept wrong expect
+version
+org apach common math3 linear
+squar oper except nonsquareoperatorexcept dimens mismatch except dimensionmismatchexcept
+param expect column dimens
+except thrown squar linear oper expect
+local format localizedformat squar oper wrong expect
+construct except mismatch dimens

@@ -1,0 +1,6 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/TypeX_forParameterizedTypeNames-String-String[]_TypeX
+org.aspectj/modules/weaver/src/org/aspectj/weaver/TypeX_forRawTypeNames-String_TypeX
+org.aspectj/modules/weaver/src/org/aspectj/weaver/TypeX_getBaseName_String
+org.aspectj/modules/weaver/src/org/aspectj/weaver/TypeX_isParameterized_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/TypeX_isRawType_boolean
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/EclipseFactory_fromBinding-TypeBinding_TypeX

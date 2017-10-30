@@ -1,0 +1,20 @@
+abstract instant abstractinst thread safe immut subclass
+millisecond instant
+link readabl instant readableinst
+extend
+author stephen colebourn
+abstract instant abstractinst common behaviour instant class
+date time code java util date code
+implement code readabl instant readableinst code
+instant object
+abstract instant abstractinst readabl instant readableinst
+date initialis datetim
+kind date time object referenc
+code date code object creat millisecond
+date date todat
+date milli getmilli
+org joda time base
+author brian neill o'neil
+gener directli api user
+mutabl thread safe
+concept chronolog method work

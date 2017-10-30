@@ -1,0 +1,37 @@
+xml attribute default attribute refer property
+
+
+context
+
+build xml files importing common xml
+build xml calling build xml build xml
+calling macro common xml
+macro definition
+property jar dir location build jar generated jar files
+
+macrodef common jar
+attribute dir default jar dir description directory
+create jar file
+sequential
+echo
+debug info common jar
+jar dir jar dir
+dir dir
+echo
+mkdir dir dir
+
+sequential
+macrodef
+
+problem
+
+macro called defining attribute dir
+default traces
+echo debug info mms jar
+echo jar dir mmsoe common build jar
+echo dir mms testtools tstauto build jar
+dir attribute propertys
+jar dir fact defined common xml
+imported build xml
+problem building ant ant
+

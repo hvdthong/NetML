@@ -1,0 +1,11 @@
+hyperplan simpl point orient
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+direct
+instanc guarante immut
+side hyperplan
+version
+repres orient hyperplan
+direct isdirect
+org apach common math geometri euclidean on
+abscissa greater hyperplan locat
+check hyperplan orient direct

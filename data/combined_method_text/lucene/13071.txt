@@ -1,0 +1,9 @@
+org apach lucen index
+segment term doc segmenttermdoc term doc termdoc
+segment term doc segmenttermdoc segment reader segmentread parent
+parent parent
+freq stream freqstream index input indexinput parent core freq stream freqstream clone
+parent
+delet doc deleteddoc parent delet doc deleteddoc
+skip interv skipinterv parent core term reader gettermsread skip interv getskipinterv
+max skip level maxskiplevel parent core term reader gettermsread max skip level getmaxskiplevel

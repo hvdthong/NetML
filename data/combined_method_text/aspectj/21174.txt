@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+unwoven class file unwovenclassfil
+delet file file directori
+gener result weav closur
+delet real file deleterealfil except ioexcept
+file victim file filenam
+string prefix nameprefix victim getnam
+prefix nameprefix prefix nameprefix substr prefix nameprefix index lastindexof
+string target prefix targetprefix prefix nameprefix ajc
+file dir victim parent file getparentfil
+dir
+file weaver gener weavergener dir list file listfil filenam filter filenamefilt
+accept file dir string
+start startswith target prefix targetprefix
+weaver gener weavergener
+weaver gener weavergener length
+weaver gener weavergener delet
+victim delet

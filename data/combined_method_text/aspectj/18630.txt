@@ -1,0 +1,14 @@
+org aspectj weaver
+asm relationship provid asmrelationshipprovid
+program element iprogramel node getnod hierarchi ihierarchi model shadow shadow
+member enclos member enclosingmemb shadow enclos code signatur getenclosingcodesignatur
+program element iprogramel enclos node enclosingnod lookup member lookupmemb model enclos member enclosingmemb
+enclos node enclosingnod
+lint kind err shadow world getiworld lint getlint shadow structur shadownotinstructur
+err enabl isen
+err signal shadow string tostr shadow sourc locat getsourceloc
+member shadow sig shadowsig shadow signatur getsignatur
+shadow sig shadowsig equal enclos member enclosingmemb
+program element iprogramel bodi node bodynod find creat code node findorcreatecodenod enclos node enclosingnod shadow sig shadowsig shadow
+bodi node bodynod
+enclos node enclosingnod

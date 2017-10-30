@@ -1,0 +1,7 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv type resolvedtyp find higher findhigh resolv type resolvedtyp
+iter direct supertyp getdirectsupertyp hasnext
+resolv type resolvedtyp rtx resolv type resolvedtyp
+assign isassignablefrom rtx
+rtx

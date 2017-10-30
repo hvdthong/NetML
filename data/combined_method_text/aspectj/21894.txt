@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+exact type pattern exacttypepattern type pattern typepattern
+equal object
+exact type pattern exacttypepattern
+bind type pattern bindingtypepattern
+exact type pattern exacttypepattern exact type pattern exacttypepattern
+includ subtyp includesubtyp includ subtyp includesubtyp
+var arg isvararg var arg isvararg
+type paramet typeparamet equal type paramet typeparamet
+type equal type annot pattern annotationpattern equal annot pattern annotationpattern

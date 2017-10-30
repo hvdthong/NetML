@@ -1,0 +1,54 @@
+org aspectj weaver pattern
+patternpars creat wildtypepattern type pattern pointcut
+express directli turn typepattern
+resolvebind work turn type
+pattern match exacttypepattern
+wildtypepattern
+process pan gener parameter pattern
+genericswildtypepatternresolvingtestcas
+foo foo exist gener
+parser creat wildtypepattern namepattern foo
+resolvebind resolv foo foo raw
+return exacttypepattern lfoo
+foo string foo exist string meet bound
+parser creat wildtypepattern namepattern foo typeparamet wtp string
+resolvebind resolv typeparamet exacttypepattern string
+resolv foo foo
+return exacttypepattern pfoo string parameter
+foo str foo exist take bound
+parser creat wildtypepattern namepattern foo typeparamet wtp str
+resolvebind resolv typeparamet wtp str
+resolv foo foo
+return wildtypepattern foo typeparamet wtp str isgener fals
+string
+parser creat wildtypepattern namepattern typeparamet wtp string
+resolvebind resolv typeparamet etp string
+return wildtypepattern typeparamet etp string isgener fals
+foo
+foo extend number
+foo extend number
+foo super number
+wild type pattern wildtypepattern type pattern typepattern
+type pattern typepattern resolv gener wildcard resolvegenericwildcard scope iscop scope unresolv type unresolvedtyp type atyp
+type atyp signatur getsignatur equal gener wildcard charact gener wildcard charact illeg state except illegalstateexcept bound gener wildcard
+exact canbeexact
+upper bound upperbound resolv type resolvedtyp miss ismiss upper bound upperbound exact type getexacttyp exact canbeexact
+lower bound lowerbound resolv type resolvedtyp miss ismiss lower bound lowerbound exact type getexacttyp exact canbeexact
+exact canbeexact
+resolv type resolvedtyp type
+upper bound upperbound
+upper bound upperbound includ subtyp isincludesubtyp
+exact canbeexact
+refer type referencetyp upper refer type referencetyp upper bound upperbound exact type getexacttyp resolv scope world getworld
+type bound refer type boundedreferencetyp upper scope world getworld
+lower bound lowerbound includ subtyp isincludesubtyp
+exact canbeexact
+refer type referencetyp lower refer type referencetyp lower bound lowerbound exact type getexacttyp resolv scope world getworld
+type bound refer type boundedreferencetyp lower scope world getworld
+exact canbeexact
+chang find includ subtyp set bound
+exact type pattern exacttypepattern type includ subtyp includesubtyp var arg isvararg
+resolv exact type pattern
+leav wild type pattern
+import prefix importedprefix scope import prefix getimportedprefix
+match knownmatch pre match prematch scope import name getimportednam

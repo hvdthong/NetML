@@ -1,0 +1,26 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+'typetoweave' 'typesforweaving' list routin ensur process
+supertyp class interfac 'typetoweave'
+'typesforweaving' list 'typetoweave' 'typestoweave' remov
+'typesforweaving' list
+note futur gotcha suppli partial hierarchi algorithm
+break hierarchi give weaver
+choos weav order problem
+suppli partial hierarchi
+weav parent weaveparentsfor list type weav typesforweav string type weav typetoweav
+supertyp
+resolv type resolvedtyp rtx world resolv type weav typetoweav
+resolv type resolvedtyp super type supertyp rtx superclass getsuperclass
+super type supertyp type weav typesforweav super type supertyp getnam
+weav parent weaveparentsfor type weav typesforweav super type supertyp getnam
+superinterfac list
+resolv type resolvedtyp interfac type interfacetyp rtx declar interfac getdeclaredinterfac
+interfac type interfacetyp length
+resolv type resolvedtyp rtx rtxi interfac type interfacetyp
+type weav typesforweav rtx rtxi getnam
+weav parent weaveparentsfor type weav typesforweav rtx rtxi getnam
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process declar parent process declar parent rtx getnam
+weav parent type munger weaveparenttypemung rtx weaveparenttypemung rtx type
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+type weav typesforweav remov type weav typetoweav typesforweav remov typetoweav remov list process

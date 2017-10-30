@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree data
+
+
+repres data set symbol valu symbol
+link integ
+
+yi symbol yissymbol
+
+
+return list symbol valu
+
+symbol valu
+
+string symbol valu getysymbolicvalu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

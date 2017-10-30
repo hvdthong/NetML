@@ -1,0 +1,19 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+compar member preced comparememberpreced resolv member resolvedmemb resolv member resolvedmemb
+getreturntyp equal getreturntyp return
+special case 'clone' abstract
+mark abstract code line make assumpt
+compil base normal
+java rule clone
+protect isprotect getnam char charat
+unresolv type unresolvedtyp declar declar type getdeclaringtyp
+declar
+declar getnam equal java lang object getnam equal clone
+modifi abstract isabstract modifi getmodifi
+modifi abstract isabstract modifi getmodifi
+declar type getdeclaringtyp equal declar type getdeclaringtyp
+resolv type resolvedtyp declar type getdeclaringtyp resolv world
+resolv type resolvedtyp declar type getdeclaringtyp resolv world
+assign isassignablefrom
+assign isassignablefrom

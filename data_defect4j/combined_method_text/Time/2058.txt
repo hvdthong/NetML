@@ -1,0 +1,22 @@
+author stephen colebourn
+end milli endmilli date time util datetimeutil instant milli getinstantmilli end instant endinst
+org joda time base
+param end instant endinst interv end mean
+start milli startmilli field util fieldutil safe subtract safesubtract end milli endmilli durat milli durationmilli
+param type set field period support mean standard
+author brian neill o'neil
+type ityp type
+creat period durat end point
+base period baseperiod implement readabl period readableperiod store
+durat milli durationmilli date time util datetimeutil durat milli getdurationmilli durat
+base period baseperiod
+data code period type periodtyp code code code
+chronolog chrono date time util datetimeutil instant chronolog getinstantchronolog end instant endinst
+base period baseperiod subclass mutabl thread safe
+valu ivalu chrono start milli startmilli end milli endmilli
+kind period object referenc
+link readabl period readableperiod
+param durat durat interv mean length
+base period baseperiod readabl durat readabledur durat readabl instant readableinst end instant endinst period type periodtyp type
+type check period type checkperiodtyp type
+gener directli api user

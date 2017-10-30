@@ -1,0 +1,151 @@
+system println prelim xxx
+zmat set entri setentri nfxm math sqrt stepa stepb
+function valu coordin displac
+fval entri getentri nfm
+powell' bobyqa algorithm implement translat
+num eval numev
+fbeg
+argument npt rhobeg iprint maxfun
+link cmae optim cmaesoptim succe bobyqa
+gopt set entri setentri nfmm fbeg stepa
+npt number interpol point numberofinterpolationpoint
+set nonzero initi element bmat quadrat model
+gopt gradient quadrat model xopt xbase
+param
+xpt set entri setentri nfm jpt xpt entri getentri jpt jpt
+stepb math min initi trust region radiu initialtrustregionradiu entri getentri nfxm
+set bobyqa
+bmat zmat iter maintain valu
+array2 row real matrix array2drowrealmatrix bmat
+initi quadrat model
+fval entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+kopt vector chang prelim
+subroutin prelim set element xbase xpt fval gopt
+set entri setentri fbeg fval entri getentri ipt fval entri getentri jpt tmp
+object objectivevalu comput object computeobjectivevalu current currentbest data getdata
+prelim
+ndim bmat row dimens getrowdimens
+entri getentri nfxm
+stepb
+stepa
+initi interpol point xbase set xpt
+nfm
+arrai real vector arrayrealvector gopt
+param gopt
+index requir
+href http plato asu ftp softwar bobyqa zip
+param bmat
+bmat set entri setentri nfxm stepa stepb stepa stepb
+current currentbest set entri setentri lower bound lowerbound
+path explor except pathisexploredexcept xxx
+upper bound upperbound
+recip rhosq
+stepa initi trust region radiu initialtrustregionradiu
+step oneoverstepa stepa
+xpt set entri setentri nfm nfxm stepa
+xpt set entri setentri nfm nfxm stepb
+evalu getevalu npt
+npt num eval numev
+array2 row real matrix array2drowrealmatrix xpt
+xbase set entri setentri current currentbest entri getentri
+version
+param xpt
+xpt entri getentri nfm entri getentri
+kopt calcul
+bmat set entri setentri nfm nfxm half xpt entri getentri nfm nfxm
+tmp xpt entri getentri nfm ipt xpt entri getentri nfm jpt
+ipt jpt tmp1
+xopt nonzero bobyqb chang usual
+arrai real vector arrayrealvector current currentbest
+bmat set entri setentri npt nfmm nfmm half rhosq
+current currentbest dimens getdimens
+nfmm nfm
+paper introduct
+xbase entri getentri xpt entri getentri nfm
+href http www optim onlin org html html
+xpt set entri setentri nfm nfmm stepa
+interpol point switch
+diagon deriv term initi quadrat model
+ndim
+trust region center interpol point index trustregioncenterinterpolationpointindex nfm
+deriv base optim deriv approxim
+element xpt bmat zmat
+set xbase initi vector variabl set initi
+minim isminim object objectivevalu object objectivevalu
+ipt
+zmat set entri setentri nfm nfxm
+zmat set entri setentri
+rhosq initi trust region radiu initialtrustregionradiu initi trust region radiu initialtrustregionradiu
+arrai real vector arrayrealvector
+current currentbest set entri setentri upper bound upperbound
+stepa stepb
+stepa stepa
+bmat set entri setentri nfm nfmm step oneoverstepa
+argument bobyqb element
+set diagon deriv lagrang function
+argument subroutin bobyqa
+zmat set entri setentri nfm nfxm math sqrt half recip xxx test acklei testacklei test diff pow testdiffpow fail
+order function contribut
+ipt ipt jpt
+stepb math max initi trust region radiu initialtrustregionradiu entri getentri nfxm
+tmp1 nfm
+xpt set entri setentri
+tmp fbeg stepb
+bmat entri getentri nfxm bmat entri getentri nfm nfxm
+current currentbest set entri setentri math min math max lower bound lowerbound
+xpt set entri setentri nfm ipt xpt entri getentri ipt ipt
+bmat set entri setentri nfm nfxm
+max max
+bobyqa optim bobyqaoptim
+zmat set entri setentri nfm nfxm recip
+adapt fortran version
+finit differ
+stepb initi trust region radiu initialtrustregionradiu
+set prelim gradient quadrat model xbase
+maintan number call calfun
+fval set entri setentri nfm fval entri getentri nfm
+ipt tmp2
+bobyqa suit high dimension problem
+stepa xpt entri getentri nfx nfxm
+param fval
+bmat set entri setentri nfmm step oneoverstepa
+point xpt kopt xbase space variabl
+param xbase
+array2 row real matrix array2drowrealmatrix zmat
+calcul function
+case exce posit
+diff stepb stepa
+tmp2 jpt
+bmat set entri setentri
+nfx nfx
+link powel optim powelloptim significantli stochast algorithm
+nfx nfm
+fbeg doubl nan
+jpt
+argument xbase xpt fval bmat zmat ndim
+jpt nfm tmp1
+zmat set entri setentri nfxm recip
+expens bobyqa consid replac
+nfxm nfx
+zmat set entri setentri jpt nfxm recip
+zmat set entri setentri nfm nfxm math sqrt half rhosq
+arrai real vector arrayrealvector fval
+nfm evalu getevalu
+param zmat
+arrai real vector arrayrealvector xbase
+max npt max
+deriv case outperform
+fval set entri setentri nfm
+npt
+jpt ipt
+gopt set entri setentri nfxm gopt entri getentri nfxm stepb tmp stepa diff
+entri getentri nfmm
+zmat set entri setentri ipt nfxm recip
+set entri setentri
+zmat entri getentri nfxm zmat entri getentri nfm nfxm
+org apach common math optim direct
+trust region center interpol point index trustregioncenterinterpolationpointindex
+set entri setentri tmp gopt entri getentri nfxm diff
+num eval numev evalu getevalu nfm
+param current currentbest
+begin initi procedur number

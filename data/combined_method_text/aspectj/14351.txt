@@ -1,0 +1,42 @@
+org aspectj apach bcel gener
+abstract super class java type basic type
+int object type string arrai type int
+version type java aclement exp
+author href mailto marku dahm berlin dahm
+modifi
+andycl mar remov unnecessari static optim
+type java serializ
+convert signatur type object
+param signatur signatur string ljava lang string
+return type object
+type holder typehold type intern gettypeintern string signatur string index bound except stringindexoutofboundsexcept
+type util type signatur typeofsignatur signatur
+type constant void void
+type holder typehold basic type basictyp type gettyp type
+type constant arrai arrai
+dim
+dim signatur char charat dim
+recurs signatur
+type holder typehold type intern gettypeintern signatur substr dim
+type holder typehold arrai type arraytyp type gettyp dim dim consum getconsum
+type refer
+format 'lblahblah
+index signatur index indexof int index signatur indexof close
+index class format except classformatexcept invalid signatur signatur
+gener awar
+angli nextangli signatur index indexof
+string type string typestr
+angli nextangli angli nextangli index
+type string typestr signatur substr index replac
+end sig reach endofsigreach
+posn angli nextangli
+gener depth genericdepth
+end sig reach endofsigreach
+signatur char charat posn
+gener depth genericdepth
+gener depth genericdepth
+gener depth genericdepth end sig reach endofsigreach
+index posn
+type string typestr signatur substr angli nextangli replac
+objecttyp store parameter info
+type holder typehold object type objecttyp type string typestr index

@@ -1,0 +1,13 @@
+org aspectj ajdt intern compil lookup
+eclips sourc locat eclipsesourceloc sourc locat isourceloc
+return string file line column
+string string tostr
+string buffer stringbuff string buffer stringbuff
+sourc file getsourcefil sourc locat isourceloc file file
+append sourc file getsourcefil path getpath
+append
+append line getlin
+column getcolumn
+append column getcolumn
+offset getoffset append append offset getoffset
+string tostr

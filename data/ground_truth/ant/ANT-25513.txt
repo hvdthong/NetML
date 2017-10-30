@@ -1,0 +1,5 @@
+src/main/org/apache/tools/ant/taskdefs/Zip_executeMain_void
+src/main/org/apache/tools/ant/taskdefs/Zip_zipFile-InputStream-ZipOutputStream-String-long-File-int_void
+src/main/org/apache/tools/zip/ZipOutputStream_setLevel-int_void
+src/main/org/apache/tools/zip/ZipOutputStream_writeOut-byte[]_void
+src/main/org/apache/tools/zip/ZipOutputStream_writeOut-byte[]-int-int_void

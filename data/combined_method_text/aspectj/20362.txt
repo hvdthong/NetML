@@ -1,0 +1,36 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+match lazi method gen lazymethodgen
+bcel shadow bcelshadow enclos shadow enclosingshadow
+list shadow accumul shadowaccumul arrai list arraylist
+start angli startsangli getnam char charat
+match ajsynthet constructor
+start angli startsangli getnam equal init
+match init matchinit shadow accumul shadowaccumul
+weav bodi shouldweavebodi shouldweavebodi isajsynthet
+start angli startsangli getnam equal clinit
+clinit shadow clinitshadow enclos shadow enclosingshadow bcel shadow bcelshadow make static initi makestaticiniti world
+system err println enclosingshadow
+advic method isadvicemethod
+enclos shadow enclosingshadow bcel shadow bcelshadow make advic execut makeadviceexecut world
+attribut ajattribut effect signatur attribut effectivesignatureattribut effect effect signatur geteffectivesignatur
+effect
+enclos shadow enclosingshadow bcel shadow bcelshadow make method execut makemethodexecut world match bodi shadow canmatchbodyshadow
+effect weav bodi isweavebodi
+resolv member resolvedmemb effect effect signatur geteffectivesignatur
+annot thing effect signatur store effect
+signatur hunt store effect signatur
+keep set date
+fix annot resolv member fixannotationsforresolvedmemb member view getmemberview
+enclos shadow enclosingshadow
+bcel shadow bcelshadow make shadow method makeshadowformethod world effect shadow kind getshadowkind
+match bodi shadow canmatchbodyshadow
+instruct handl instructionhandl bodi getbodi start getstart
+getnext
+match enclos shadow enclosingshadow shadow accumul shadowaccumul
+fixm asc chang string match brittl check prevent field exec jp
+match canmatch enclos shadow enclosingshadow kind getkind getnam char charat getnam start startswith ajc interfieldinit
+match enclos shadow enclosingshadow shadow accumul shadowaccumul
+enclos shadow enclosingshadow init
+match shadow matchedshadow shadow accumul shadowaccumul
+shadow accumul shadowaccumul empti isempti

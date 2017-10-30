@@ -1,0 +1,16 @@
+data build arrai buildarrai field row dimens getrowdimens column dimens getcolumndimens
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+data length
+data datai length
+data math arrai matharrai build arrai buildarrai field row dimens getrowdimens column dimens getcolumndimens
+version
+param type field element
+data getdata
+data datai data
+data datai entri getentri
+data

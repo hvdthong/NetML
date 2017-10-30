@@ -1,0 +1,20 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+remov program element structur model
+parent program element children
+remov node delet list children
+remov singl node removesinglenod program element iprogramel prog elem progelem
+verifi assumpt verifyassumpt prog elem progelem
+delet deleteok
+program element iprogramel parent prog elem progelem parent getpar
+list kid parent children getchildren
+kid size
+kid equal prog elem progelem
+kid remov
+delet deleteok
+verifi assumpt verifyassumpt delet deleteok

@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common lang
+
+
+
+
+except thrown serial process fail
+
+origin error wrap
+
+author stephen colebourn
+
+version
+
+serial except serializationexcept nestabl runtim except nestableruntimeexcept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+construct code serial except serializationexcept code
+detail messag nest code throwabl code
+
+param msg error messag
+param code except code code error code
+caus except thrown
+
+serial except serializationexcept string msg throwabl
+msg
+
+
+

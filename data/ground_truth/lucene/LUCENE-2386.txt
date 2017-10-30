@@ -1,0 +1,4 @@
+src/java/org/apache/lucene/index/DirectoryReader_listCommits-Directory-CodecProvider_Collection<IndexCommit>
+src/java/org/apache/lucene/index/IndexFileDeleter_IndexFileDeleter-Directory-IndexDeletionPolicy-SegmentInfos-PrintStream-DocumentsWriter-CodecProvider_<init>
+src/java/org/apache/lucene/index/IndexWriter_IndexWriter-Directory-IndexWriterConfig_<init>
+src/java/org/apache/lucene/index/SegmentInfos$FindSegmentsFile_run-IndexCommit_Object

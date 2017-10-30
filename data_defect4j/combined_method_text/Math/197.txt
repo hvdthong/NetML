@@ -1,0 +1,49 @@
+org apach common math analysi
+param initi start set min
+math ab initi yiniti function accuraci functionvalueaccuraci
+brent algorithm find zero real univari function
+initi min max initi
+reduc interv min initi bracket root
+find interv initi guess
+exceed
+min max initi
+result
+solv initi initi yiniti max max ymax initi initi yiniti
+set result setresult max ymax
+allow endpoint sign initi point
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept
+reduc interv initi max bracket root
+solv univari real function univariaterealfunct
+math ab max ymax function accuraci functionvalueaccuraci
+endpoint min max
+initi yiniti max ymax
+initi yiniti initi
+interv initi initi
+function continu necessarili smooth
+throw code illeg argument except illegalargumentexcept code valu
+function point sign note
+set result setresult initi
+param max upper bound interv
+set result setresult min ymin
+function
+version revis date lun juin
+illeg argument except illegalargumentexcept initi guess search
+full brent algorithm start provid initi guess
+function evalu except functionevaluationexcept error occur evalu
+solv min min ymin max max ymax initi initi yiniti
+math ab min ymin function accuraci functionvalueaccuraci
+initi point
+illeg argument except illegalargumentexcept initi min max
+max ymax max
+param function solv
+initi yiniti min ymin
+initi guess good
+implement href http mathworld wolfram brent method brentsmethod html
+endpoint good
+param min lower bound interv
+solv min min ymin initi initi yiniti min min ymin
+opposit sign function wise
+brent solver brentsolv univari real solver impl univariaterealsolverimpl
+root
+min ymin min
+max iter exceed except maxiterationsexceededexcept maximum iter count

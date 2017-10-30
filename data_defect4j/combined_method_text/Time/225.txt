@@ -1,0 +1,23 @@
+author stephen colebourn
+author brian neill o'neil
+field fraction unit drop result call
+singl field month year monthofyear minut secondofminut
+millisecond number standard implement provid assist
+differ unit field
+'age' 'v'
+differ getdiffer revers effect call add code
+design extens extract field
+date time field datetimefield
+defin set method manipul millisecond datetim
+subtract minuend
+defin calcul engin date time field
+subtract
+param subtrahend instant subtrahendinst millisecond t00 01t00 00z
+pre
+instant
+ag differ long getdifferenceaslong add instant instant
+comput differ instant measur unit
+author gui allard
+org joda time
+param minuend instant minuendinst millisecond t00 01t00 00z
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst

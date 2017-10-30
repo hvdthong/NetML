@@ -1,0 +1,10 @@
+org aspectj apach bcel gener
+dcmpl compar doubl value1 value2
+pre stack value1 word1 value1 word2 value2 word1 value2 word2 pre
+result
+version dcmpl java aclement exp
+author href mailto marku dahm berlin dahm
+dcmpl instruct
+return type doubl
+type type gettyp constant pool gen constantpoolgen
+type doubl

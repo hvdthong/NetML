@@ -1,0 +1,6 @@
+org aspectj weaver
+int map intmap
+copi context copycontext int map intmap bind
+enclos advic enclosingadvic bind enclos advic enclosingadvic
+enclos definit enclosingdefinit bind enclos definit enclosingdefinit
+concret aspect concreteaspect bind concret aspect concreteaspect

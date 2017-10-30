@@ -1,0 +1,4 @@
+org aspectj ajdt intern compil lookup
+type constant ajtypeconst
+type refer typerefer join point type getjoinpointtyp
+qualifi type refer qualifiedtyperefer org aspectj lang joinpoint org aspectj lang joinpoint

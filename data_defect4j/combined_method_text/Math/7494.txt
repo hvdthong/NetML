@@ -1,0 +1,25 @@
+overrid
+reflect simplex
+real point pair realpointvaluepair origin point getpoint
+compar real point pair realpointvaluepair compar
+inherit doc inheritdoc
+multi direct direct search method
+comput expand simplex
+comput contract simplex
+iter multivari real function multivariaterealfunct evalu function evaluationfunct
+real point pair realpointvaluepair origin
+compar compar reflect expand
+version
+compar compar reflect
+real point pair realpointvaluepair reflect simplex reflectedsimplex point getpoint
+real point pair realpointvaluepair reflect evalu simplex evaluatenewsimplex evalu function evaluationfunct
+origin khi compar
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+real point pair realpointvaluepair expand evalu simplex evaluatenewsimplex evalu function evaluationfunct
+save origin simplex
+origin compar
+expand simplex
+set point setpoint reflect simplex reflectedsimplex
+org apach common math optim direct
+evalu simplex evaluatenewsimplex evalu function evaluationfunct origin gamma compar
+perform reflect step

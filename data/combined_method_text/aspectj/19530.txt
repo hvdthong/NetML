@@ -1,0 +1,6 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv type resolvedtyp declar interfac getdeclaredinterfac
+resolv type resolvedtyp
+world core type getcoretyp cloneabl
+world core type getcoretyp serializ

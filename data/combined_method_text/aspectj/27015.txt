@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+resolv member resolvedmemb real member itd aspect getrealmemberforitdfromaspect resolv type resolvedtyp aspect type aspecttyp resolv member resolvedmemb lookingfor
+resolv member resolvedmemb aspect method aspectmethod aspect type aspecttyp declar method getdeclaredmethod
+unresolv type unresolvedtyp param lookingforparam lookingfor paramet type getparametertyp
+resolv member resolvedmemb real member realmemb
+real member realmemb aspect method aspectmethod length
+resolv member resolvedmemb member aspect method aspectmethod
+member getnam equal lookingfor getnam
+unresolv type unresolvedtyp member param memberparam member paramet type getparametertyp
+member param memberparam length param lookingforparam length
+match matchok
+member param memberparam length match matchok
+unresolv type unresolvedtyp member param memberparam member param memberparam
+unresolv type unresolvedtyp param lookingforparam param lookingforparam resolv aspect type aspecttyp world getworld
+param lookingforparam type variabl refer istypevariablerefer param lookingforparam param lookingforparam upper bound getupperbound
+member param memberparam equal param lookingforparam
+match matchok
+match matchok real member realmemb member
+real member realmemb

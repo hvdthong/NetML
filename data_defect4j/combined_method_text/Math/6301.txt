@@ -1,0 +1,21 @@
+pre
+order rung kutta integr
+step comput interpol equat consist
+interpol comput dens output insid
+gill integr gillintegr
+org apach common math od
+copi deep copi arrai separ
+theta theta theta
+clone instanc
+copi instanc
+evalu deriv comput
+theta
+origin arrai instanc
+object clone
+gill step interpol gillstepinterpol
+integr scheme
+step
+step interpol gill fourth
+theta belong sqrt
+theta theta
+version gill step interpol gillstepinterpol java 39z luc

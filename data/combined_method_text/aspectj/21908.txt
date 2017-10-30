@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+exact type pattern exacttypepattern type pattern typepattern
+write data output stream dataoutputstream except ioexcept
+write byte writebyt type pattern typepattern exact
+write byte writebyt exact version exact version
+type write
+write boolean writeboolean includ subtyp includesubtyp
+write boolean writeboolean var arg isvararg
+annot pattern annotationpattern write
+type paramet typeparamet write
+write locat writeloc

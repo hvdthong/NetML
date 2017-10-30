@@ -1,0 +1,12 @@
+point line intersect
+org apach common math geometri euclidean threed
+version
+recurs intersect recursefirstintersect tree gettre point line
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+param point start point part line consid
+hyperplan subhyperplan euclidean3 euclidean3d intersect firstintersect vector3 vector3d point line line
+hyperplan cross semi infinit line
+repres region set polyhedron
+hyperplan
+param line line point
+hyperplan cross line

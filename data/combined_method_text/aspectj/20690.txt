@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+bcel type munger bceltypemung resolv type munger resolvedtypemung munger resolv type resolvedtyp aspect type aspecttyp
+munger aspect type aspecttyp

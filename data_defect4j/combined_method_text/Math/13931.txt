@@ -1,0 +1,30 @@
+walk column order walkincolumnord real matrix preserv visitor realmatrixpreservingvisitor
+param start row startrow initi row index
+start row startrow end row endrow start column startcolumn end column endcolumn
+number small except numberistoosmallexcept code end row endrow start row startrow
+code end column endcolumn start column startcolumn
+param end column endcolumn final column index inclus
+return link real matrix preserv visitor realmatrixpreservingvisitor end end
+walk optim order walkinoptimizedord real matrix chang visitor realmatrixchangingvisitor
+fastest walk order depend exact matrix
+tradit row column order
+indic valid
+rang except outofrangeexcept indic valid
+walk row order walkinroword real matrix preserv visitor realmatrixpreservingvisitor
+version
+walk row order walkinroword real matrix chang visitor realmatrixchangingvisitor
+matrix element index base code entri getentri code
+visit chang matrix entri fastest order
+param visitor visitor process matrix entri
+param start column startcolumn initi column index
+walk column order walkincolumnord real matrix chang visitor realmatrixchangingvisitor
+walk
+param end row endrow final row index inclus
+walk optim order walkinoptimizedord real matrix preserv visitor realmatrixpreservingvisitor
+org apach common math3 linear
+rang except outofrangeexcept number small except numberistoosmallexcept
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+real matrix realmatrix matrix anymatrix
+interfac defin real valu matrix basic algebra oper
+walk optim order walkinoptimizedord real matrix preserv visitor realmatrixpreservingvisitor visitor

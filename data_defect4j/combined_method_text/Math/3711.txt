@@ -1,0 +1,13 @@
+basic implement method
+norm norm getnorm
+norm vnorm norm getnorm
+org apach common math linear
+inherit doc inheritdoc
+math arithmet except matharithmeticexcept local format localizedformat norm
+abstract real vector abstractrealvector real vector realvector
+dot product dotproduct norm norm vnorm
+link real vector realvector
+norm vnorm
+cosin real vector realvector
+version revis date
+norm

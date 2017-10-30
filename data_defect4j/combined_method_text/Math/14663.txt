@@ -1,0 +1,16 @@
+exhaust
+param pair type point pair return optim
+algorithm
+iter increment count incrementcount
+boiler plate code count number evalu
+iter except toomanyiterationsexcept
+increment iter count incrementiterationcount
+org apach common math3 optim
+version
+store converg checker
+iter except toomanyiterationsexcept allow iter
+base implement optim
+object function number iter algorithm
+base optim baseoptim pair
+increment iter count
+user

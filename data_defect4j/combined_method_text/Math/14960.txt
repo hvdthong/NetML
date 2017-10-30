@@ -1,0 +1,11 @@
+model function jacobian modelfunctionjacobian multivari matrix function multivariatematrixfunct
+jacobian model vector function optim
+org apach common math3 optim nonlinear vector
+optim provid move
+link org apach common math3 fit leastsquar
+deprec class interfac deprec
+version
+jacobian
+param jacobian model function optim
+math
+model function jacobian modelfunctionjacobian optim data optimizationdata

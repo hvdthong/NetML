@@ -1,0 +1,25 @@
+aspectj verifyerror afterthrowing afterreturning extra joinpoint argument
+aspectj aspect advises throwing advice throws exception running resulting program verifyerror
+java lang verifyerror class method stop signature catch type subclass throwable
+java lang class getdeclaredmethods0 native method
+java lang class privategetdeclaredmethods class java
+java lang class getmethod0 class java
+java lang class getmethod class java
+org aspectj tools ajc ajctestcase run ajctestcase java
+org aspectj testing runspec execute runspec java
+org aspectj testing ajctest runtest ajctest java
+org aspectj testing xmlbasedajctestcase runtest xmlbasedajctestcase java
+org aspectj systemtest ajc150 ajc150tests testerror ajc150tests java
+sun reflect nativemethodaccessorimpl invoke0 native method
+sun reflect nativemethodaccessorimpl invoke nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invoke delegatingmethodaccessorimpl java
+java lang reflect method invoke method java
+junit framework testcase runtest testcase java
+junit framework testcase runbare testcase java
+junit framework testresult protect testresult java
+junit framework testresult runprotected testresult java
+junit framework testresult run testresult java
+junit framework testcase run testcase java
+org eclipse jdt internal junit runner remotetestrunner runtests remotetestrunner java
+org eclipse jdt internal junit runner remotetestrunner run remotetestrunner java
+org eclipse jdt internal junit runner remotetestrunner main remotetestrunner java

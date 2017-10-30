@@ -1,0 +1,28 @@
+pre
+math util mathutil equal entri max ulp maxulp row
+integ basic row getbasicrow col
+extra decis variabl neg valu
+check column basic
+param col index column check
+row
+entri getentri col
+phase object function
+entri entri getentri col
+amp decis variabl
+row variabl basic column basic
+version revis date
+rh hand side
+rh
+math util mathutil equal entri getentri col epsilon row
+artifici variabl
+num object function getnumobjectivefunct height getheight
+height getheight
+org apach common math optim linear
+math util mathutil equal entri getentri col epsilon
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+integ row
+tableau simplex method
+math util mathutil equal entri max ulp maxulp

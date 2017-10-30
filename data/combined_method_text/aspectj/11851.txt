@@ -1,0 +1,124 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+throw abortexcept check runtim fail
+build dobuild
+build config ajbuildconfig build config buildconfig
+messag handler imessagehandl base handler basehandl
+batch except ioexcept abort except abortexcept
+ret
+batch compil batchcompil batch
+full build wasfullbuild batch
+base handler basehandl lifecycl awar ilifecycleawar
+lifecycl awar ilifecycleawar base handler basehandl build start buildstart batch
+compil weav context compilationandweavingcontext reset
+phase batch compil weav context compilationandweavingcontext batch build batch build compil weav context compilationandweavingcontext increment build increment build
+context token contexttoken compil weav context compilationandweavingcontext enter phase enteringphas phase build config buildconfig
+batch
+state state ajstat
+state set subsequ increment build setcouldbesubsequentincrementalbuild environ support increment compil environmentsupportsincrementalcompil
+increment canincrement state prepar build preparefornextbuild build config buildconfig
+increment canincrement batch canincrement batch retri batch
+compil weav context compilationandweavingcontext leav phase leavingphas
+state listen defin listenerdefin state listen getlisten record decis recorddecis fall back batch compil
+build dobuild build config buildconfig base handler basehandl
+handler
+count messag handler countingmessagehandl make count messag handler makecountingmessagehandl base handler basehandl
+runtim version check runtim version check
+string check check jar checkrtjar build config buildconfig
+check
+fail runtim found fail runtim found
+messag util messageutil error handler check
+compil weav context compilationandweavingcontext leav phase leavingphas
+messag util messageutil warn handler check
+batch
+set build config setbuildconfig build config buildconfig
+batch asm manag asmmanag attempt increment model repair attemptincrementalmodelrepair
+buildconfig isemacssymmod buildconfig isgeneratemodelmod
+setup model setupmodel build config buildconfig
+batch
+init bcel world initbcelworld handler
+handler error haserror
+compil weav context compilationandweavingcontext leav phase leavingphas
+build config buildconfig output jar getoutputjar
+open output stream openoutputstream build config buildconfig output jar getoutputjar
+compil weav context compilationandweavingcontext leav phase leavingphas
+batch
+system err println xxxx batch buildconfig getfil
+build config buildconfig emac sym mode isemacssymmod build config buildconfig gener model mode isgeneratemodelmod
+world getworld set model setmodel asm manag asmmanag default getdefault hierarchi gethierarchi
+increment build updat model
+binari sourc compil binarysourcesforthenextcompil state binari file compil getbinaryfilestocompil
+perform compil performcompil build config buildconfig file getfil
+state clear binari sourc file clearbinarysourcefil state clearbinarysourcefil hang
+handler error haserror
+compil weav context compilationandweavingcontext leav phase leavingphas
+asm manag asmmanag report isreport
+asm manag asmmanag default getdefault report model info reportmodelinfo fail batch build
+asm manag asmmanag report isreport
+asm manag asmmanag default getdefault report model info reportmodelinfo batch build
+buildconfig isemacssymmod buildconfig isgeneratemodelmod
+bcelworld setmodel structuremodelmanag instanc getstructuremodel
+system err println xxxx start
+binari sourc compil binarysourcesforthenextcompil state binari file compil getbinaryfilestocompil
+list file state file compil getfilestocompil
+build config buildconfig emac sym mode isemacssymmod build config buildconfig gener model mode isgeneratemodelmod
+asm manag asmmanag attempt increment model repair attemptincrementalmodelrepair
+asm manag asmmanag default getdefault process delta processdelta file state ad file getaddedfil state delet file getdeletedfil
+herewegoagain file empti isempti binari sourc compil binarysourcesforthenextcompil empti isempti
+herewegoagain
+state listen defin listenerdefin
+state listen getlisten record inform recordinform start increment compil loop possibl
+system err println xxxx file
+perform compil performcompil file
+handler error haserror progress listen progresslisten progress listen progresslisten cancel request iscancelledrequest
+compil weav context compilationandweavingcontext leav phase leavingphas
+state requir full batch build requiresfullbatchbuild
+state listen defin listenerdefin
+state listen getlisten record inform recordinform drop back full build
+batch build batchbuild build config buildconfig base handler basehandl
+binari sourc compil binarysourcesforthenextcompil state binari file compil getbinaryfilestocompil
+file state file compil getfilestocompil
+herewegoagain file empti isempti binari sourc compil binarysourcesforthenextcompil empti isempti
+todo andi thought
+pass empti addedfil deletedfil
+dealt call processdelta loop
+compil found need
+rebuild case
+herewegoagain
+build config buildconfig emac sym mode isemacssymmod build config buildconfig gener model mode isgeneratemodelmod
+asm manag asmmanag attempt increment model repair attemptincrementalmodelrepair
+asm manag asmmanag default getdefault process delta processdelta file state ad file getaddedfil state delet file getdeletedfil
+file empti isempti
+compil weav context compilationandweavingcontext leav phase leavingphas
+batch build batchbuild build config buildconfig base handler basehandl
+asm manag asmmanag report isreport
+asm manag asmmanag default getdefault report model info reportmodelinfo increment build
+xxx mik' increment
+build config buildconfig emac sym mode isemacssymmod
+org aspectj ajdt intern core builder emac structur model manag emacsstructuremodelmanag extern model externalizemodel
+bug support ajsym file gener command line build
+build config buildconfig gener cross ref mode isgeneratecrossrefsmod
+file config file proxi configfileproxi file build config buildconfig output dir getoutputdir crossref file crossref file
+asm manag asmmanag default getdefault write structur model writestructuremodel config file proxi configfileproxi absolut path getabsolutepath
+state succeed increment
+state success compil successfulcompil build config buildconfig batch
+copi resourc destin copyresourcestodestin
+build config buildconfig outxml getoutxmlnam
+write outxml file writeoutxmlfil
+boolean weav weaveandgenerateclassfil boolean weav weaveandgenerateclassfil
+weav build model
+return true
+xxx weav mik' increment
+build config buildconfig gener model mode isgeneratemodelmod
+asm manag asmmanag default getdefault fire model updat firemodelupd
+compil weav context compilationandweavingcontext leav phase leavingphas
+base handler basehandl lifecycl awar ilifecycleawar
+lifecycl awar ilifecycleawar base handler basehandl build finish buildfinish batch
+zo
+close output stream closeoutputstream build config buildconfig output jar getoutputjar
+ret handler error haserror
+bcel world getbcelworld bcel world getbcelworld tidi tidyup
+weaver getweav weaver getweav tidi tidyup
+bug releas refer handler need nest call
+handler null
+ret

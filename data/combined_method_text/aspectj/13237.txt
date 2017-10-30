@@ -1,0 +1,62 @@
+org aspectj apach bcel gener
+class build constant pool user add
+constant addxxx' method addstring' addclass'
+method return index constant
+pool final getfinalconstantpool return constant pool
+built intermedi version constant pool
+obtain getconstantpool constant pool capac
+constant max short entri note
+jvm doubl long constant slot
+version constantpoolgen java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+constant pool gen constantpoolgen java serializ
+import constant constantpool return index
+add constant addconst constant constant pool gen constantpoolgen
+constant constant constant pool getconstantpool constant pool getconstantpool
+tag gettag
+constant constant string constant string
+constant string constantstr constant string constantstr
+constant utf8 constantutf8 constant utf8 constantutf8 constant string index getstringindex
+add string addstr byte getbyt
+constant constant class constant class
+constant class constantclass constant class constantclass
+constant utf8 constantutf8 constant utf8 constantutf8 constant index getnameindex
+add class addclass byte getbyt
+constant constant type constant nameandtyp
+constant type constantnameandtyp constant type constantnameandtyp
+constant utf8 constantutf8 constant utf8 constantutf8 constant index getnameindex
+constant utf8 constantutf8 constant utf8 constantutf8 constant signatur index getsignatureindex
+add type addnameandtyp byte getbyt byte getbyt
+constant constant utf8 constant utf8
+add utf8 addutf8 constant utf8 constantutf8 byte getbyt
+constant constant doubl constant doubl
+add doubl adddoubl constant doubl constantdoubl byte getbyt
+constant constant float constant float
+add float addfloat constant float constantfloat byte getbyt
+constant constant long constant long
+add long addlong constant long constantlong byte getbyt
+constant constant integ constant integ
+add integ addinteg constant integ constantinteg byte getbyt
+constant constant interfac methodref constant interfacemethodref constant constant methodref constant methodref
+constant constant fieldref constant fieldref
+constant constantcp constant constantcp
+constant class constantclass clazz constant class constantclass constant class index getclassindex
+constant type constantnameandtyp constant type constantnameandtyp constant type index getnameandtypeindex
+constant utf8 constantutf8 constant utf8 constantutf8 constant clazz index getnameindex
+string class byte getbyt replac
+constant utf8 constantutf8 constant index getnameindex
+string byte getbyt
+constant utf8 constantutf8 constant signatur index getsignatureindex
+string signatur byte getbyt
+tag gettag
+constant constant interfac methodref constant interfacemethodref
+add interfac methodref addinterfacemethodref class signatur
+constant constant methodref constant methodref
+add methodref addmethodref class signatur
+constant constant fieldref constant fieldref
+add fieldref addfieldref class signatur
+default reach
+runtim except runtimeexcept unknown constant type
+default reach
+runtim except runtimeexcept unknown constant type

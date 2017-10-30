@@ -1,0 +1,34 @@
+code
+dimens mismatch except dimensionmismatchexcept max count exceed except maxcountexceededexcept
+param minv invers precondition
+solv place solveinplac minv copi
+real vector realvector solv real linear oper reallinearoper
+param linear oper system
+custom
+real linear oper reallinearoper minv real vector realvector real vector realvector
+middot approxim remain compar
+squar
+org apach common math linear
+vector solut
+ill condit solv system middot directli
+concret implement provid
+invers precondition
+version
+max count exceed except maxcountexceededexcept exhaust iter count
+param initi guess solut
+link real linear oper reallinearoper
+code dimens inconsist code
+precondit iter linear solver preconditionediterativelinearsolv
+preconditionn
+set construct
+math util mathutil check null checknotnul
+prefer solv middot middot
+squar oper except nonsquareoperatorexcept code code minv
+param hand side vector
+defin precondit iter solver
+dimens mismatch except dimensionmismatchexcept code minv code
+link org apach common math util incrementor max count exceed callback maxcountexceededcallback callback
+easier invert call
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+null argument except nullargumentexcept paramet code
+return estim solut linear system middot

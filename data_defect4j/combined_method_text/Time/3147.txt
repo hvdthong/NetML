@@ -1,0 +1,11 @@
+author stephen colebourn
+fix divisor field' unit durat scale
+remaind date time field remainderdatetimefield
+org joda time field
+divid date time field divideddatetimefield decor date time field decorateddatetimefield
+wrap field getwrappedfield differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst divisor idivisor
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+author brian neill o'neil
+divid date time field divideddatetimefield thread safe immut
+divid date time field datetimefield retriev valu reduc
+rang durat unchang

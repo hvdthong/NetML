@@ -1,0 +1,19 @@
+org apach lucen index
+segment term doc segmenttermdoc term doc termdoc
+optim implement
+read doc freq
+except ioexcept
+length doc length
+current field omit term freq posit currentfieldomittermfreqandposit
+read readnotf doc freq length
+length count
+manual inlin call speed
+doc code doccod freq stream freqstream read int readvint
+doc doc code doccod doc doccod shift low bit
+doc code doccod doccod low bit set
+freq freq freq
+freq freq stream freqstream read int readvint freq freqstream readvint read freq
+count
+delet doc deleteddoc delet doc deleteddoc doc
+doc doc
+freq freq

@@ -1,0 +1,39 @@
+org aspectj ajd swing
+button menu combo ajbuttonmenucombo panel jpanel
+button menu combo ajbuttonmenucombo string
+string tool tip text tooltiptext
+icon icon
+popup menu jpopupmenu menu
+depress
+menu menu
+depress depress
+main button mainbutton button jbutton
+main button mainbutton set icon seticon icon
+main button mainbutton set border setbord ajd widget style ajdewidgetstyl default border default border
+main button mainbutton set tool tip text settooltiptext tool tip text tooltiptext
+main button mainbutton set prefer size setpreferreds dimens
+main button mainbutton set minimum size setminimums dimens
+main button mainbutton set maximum size setmaximums dimens
+popup button popupbutton button jbutton
+popup button popupbutton set icon seticon ajd default getdefault icon registri geticonregistri popup icon getpopupicon
+popup button popupbutton set border setbord border factori borderfactori creat empti border createemptybord
+popup button popupbutton set tool tip text settooltiptext tool tip text tooltiptext
+popup button popupbutton set prefer size setpreferreds dimens
+popup button popupbutton set minimum size setminimums dimens
+popup button popupbutton set maximum size setmaximums dimens
+popup listen popuplisten popup listen popuplisten popup listen popuplisten main button mainbutton
+depress
+main button mainbutton add action listen addactionlisten button action listen buttonactionlisten
+main button mainbutton add mous listen addmouselisten popup listen popuplisten
+popup button popupbutton add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+popup button popupbutton set border setbord
+border updat listen borderupdatelisten border updat listner borderupdatelistn border updat listen borderupdatelisten
+main button mainbutton add mous listen addmouselisten border updat listner borderupdatelistn
+popup button popupbutton add mous listen addmouselisten border updat listner borderupdatelistn
+popup button popupbutton add mous listen addmouselisten popup listen popuplisten
+set layout setlayout border layout borderlayout
+add main button mainbutton border layout borderlayout center
+add popup button popupbutton border layout borderlayout east
+set minimum size setminimums dimens
+set maximum size setmaximums dimens

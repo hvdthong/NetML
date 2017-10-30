@@ -1,0 +1,84 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars singl pointcut parsesinglepointcut
+start token sourc tokensourc index getindex
+token itoken token sourc tokensourc peek
+pointcut pars pointcut maybegetparsedpointcut
+token sourc tokensourc
+string kind pars identifi parseidentifi
+itoken possibletypevariabletoken tokensourc peek
+string typevari maybeparsesimpletypevariablelist
+kind equal execut kind equal call
+kind equal kind equal set
+pars kind pointcut parsekindedpointcut kind
+kind equal arg
+pars arg pointcut parseargspointcut
+kind equal
+pars target pointcut parsethisortargetpointcut kind
+kind equal target
+pars target pointcut parsethisortargetpointcut kind
+kind equal
+pars pointcut parsewithinpointcut
+kind equal withincod
+pars code pointcut parsewithincodepointcut
+kind equal cflow
+pars cflow pointcut parsecflowpointcut
+kind equal cflowbelow
+pars cflow pointcut parsecflowpointcut
+kind equal adviceexecut
+eat
+eat
+kind pointcut kindedpointcut shadow advic execut adviceexecut
+signatur pattern signaturepattern member advic modifi pattern modifierspattern
+type pattern typepattern type pattern typepattern pattern namepattern
+type pattern list typepatternlist
+throw pattern throwspattern
+annot type pattern annotationtypepattern
+kind equal handler
+eat
+type pattern typepattern type pat typepat pars type pattern parsetypepattern
+eat
+handler pointcut handlerpointcut type pat typepat
+kind equal lock kind equal unlock
+pars monitor pointcut parsemonitorpointcut kind
+kind equal initi
+eat
+signatur pattern signaturepattern sig pars constructor signatur pattern parseconstructorsignaturepattern
+eat
+kind pointcut kindedpointcut shadow initi sig
+kind equal staticiniti
+eat
+type pattern typepattern type pat typepat pars type pattern parsetypepattern
+eat
+kind pointcut kindedpointcut shadow static initi staticiniti
+signatur pattern signaturepattern member static initi static initi modifi pattern modifierspattern
+type pattern typepattern type pat typepat pattern namepattern type pattern list typepatternlist empti
+throw pattern throwspattern annot type pattern annotationtypepattern
+kind equal preiniti
+eat
+signatur pattern signaturepattern sig pars constructor signatur pattern parseconstructorsignaturepattern
+eat
+kind pointcut kindedpointcut shadow pre initi preiniti sig
+kind equal
+style support true fals
+eat
+eat identifi maybeeatidentifi true
+eat
+pointcut ifpointcut true pointcut iftruepointcut
+eat identifi maybeeatidentifi fals
+eat
+pointcut ifpointcut fals pointcut iffalsepointcut
+eat
+todo alex token stuff readabl place
+pointcut ifpointcut
+match extens design matchedbyextensiondesign
+regist handler pars
+treat refer pointcut
+iter iter pointcut design handler pointcutdesignatorhandl iter iter hasnext
+pointcut design handler pointcutdesignatorhandl pcd pointcut design handler pointcutdesignatorhandl iter
+pcd design getdesignatornam equal kind
+pars design pointcut parsedesignatorpointcut pcd
+match extens design matchedbyextensiondesign
+match extens design matchedbyextensiondesign
+token sourc tokensourc set index setindex start
+pars refer pointcut parsereferencepointcut

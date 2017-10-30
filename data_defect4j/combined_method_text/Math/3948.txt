@@ -1,0 +1,22 @@
+param vector put back vector
+param vector put front vector
+data data length length
+arrai real vector arrayrealvector
+org apach common math linear
+system arraycopi data length
+construct vector append vector vector
+system arraycopi data data data length
+version revis date
+link real vector realvector arrai
+system arraycopi data length length
+data
+system arraycopi data data
+arrai real vector arrayrealvector real vector realvector serializ
+data length
+system arraycopi data data length length
+arrai real vector arrayrealvector abstract real vector abstractrealvector serializ
+data entri getentri
+data length length
+dimens getdimens
+arrai real vector arrayrealvector arrai real vector arrayrealvector real vector realvector
+arrai real vector arrayrealvector arrai real vector arrayrealvector

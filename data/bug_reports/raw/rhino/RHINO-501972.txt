@@ -1,0 +1,8 @@
+parseFloat doesn't correctly trim leading white spaces
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.11) Gecko/2009060308 Ubuntu/9.04 (jaunty) Firefox/3.0.11
+Build Identifier: 
+
+According to ECMA spec, parseFloat should trim leading spaces, among others \n but following for instance returns NaN:
+parseFloat(" \n7.89")
+
+Reproducible: Always

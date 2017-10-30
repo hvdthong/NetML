@@ -1,0 +1,12 @@
+return solver absolut accuraci invers cumul comput
+maximum absolut error invers cumul probabl estim
+default implement provid method
+abstract real distribut abstractrealdistribut
+base probabl distribut real
+overrid method order brent solver
+version
+solver absolut accuraci getsolverabsoluteaccuraci
+vari distribut distribut
+absolut accuraci
+org apach common math distribut
+solver absolut accuraci solverabsoluteaccuraci

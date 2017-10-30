@@ -1,0 +1,23 @@
+org aspectj util
+file util fileutil
+write content file return null success error messag
+make parent directori
+param file file write null
+param content string write null
+return string null error error
+string write string writeasstr file file string content
+lang util langutil throw iax null throwiaxifnul file file
+content
+content
+writer
+file parent dir parentdir file parent file getparentfil
+parent dir parentdir exist parent dir parentdir mkdir
+unabl make parent dir file
+reader string reader stringread content
+file writer filewrit file
+file util fileutil copi stream copystream
+except ioexcept
+lang util langutil unqualifi class unqualifiedclassnam write file
+messag getmessag
+close
+except ioexcept catch ioexcept

@@ -1,0 +1,19 @@
+org aspectj weaver
+author colyer
+instanc class creat resolvedmemb getsignatur collat
+signatur member creat entri set gap
+hierarchi
+class
+void foo
+class extend
+join point call foo
+signatur
+foo foo
+foo creat resolvedmemberwithsubstitutedeclaringtyp
+jdk dynam proxi run
+join point signatur joinpointsignatur resolv member resolvedmemb
+equal object obj
+obj join point signatur joinpointsignatur
+join point signatur joinpointsignatur join point signatur joinpointsignatur obj
+real member realmemb equal real member realmemb
+substitut declar type substitutedeclaringtyp equal substitut declar type substitutedeclaringtyp

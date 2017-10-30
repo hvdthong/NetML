@@ -1,0 +1,12 @@
+org aspectj util
+lang util langutil
+replac arrai aslist gack null
+return list remov unsupport oper
+param arrai object convert null
+return list arrai null
+list arrai list arrayaslist object arrai
+arrai arrai length
+collect empti list empti list
+arrai list arraylist list arrai list arraylist
+list add addal arrai list aslist arrai
+list

@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+lazi lazi lazi
+unpack underli class thing
+method annot accumul
+written add underli methodgen
+thing slightli repres aspect
+lazi class gen lazyclassgen
+implement serializ implementsserializ resolv type resolvedtyp type atyp
+type atyp signatur getsignatur equal unresolv type unresolvedtyp serializ signatur getsignatur
+resolv type resolvedtyp interfac type atyp declar interfac getdeclaredinterfac
+interfac length
+interfac miss ismiss
+implement serializ implementsserializ interfac
+resolv type resolvedtyp super type supertyp type atyp superclass getsuperclass
+super type supertyp super type supertyp miss ismiss
+implement serializ implementsserializ super type supertyp

@@ -1,0 +1,167 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+ataj handl inlin aspect
+instruct list instructionlist redon proce call annot style getredoneproceedcallforannotationstyl
+instruct factori instructionfactori fact
+lazi method gen lazymethodgen callback method callbackmethod
+bcel advic bceladvic munger
+lazi method gen lazymethodgen local advic method localadvicemethod
+list arg var list argvarlist
+proce arg isproceedwitharg
+note
+proceedingjp stack user call pjp proce
+object integ argadvice1 arg proce
+call proce made
+itar callback arg
+arrai convert callback arg
+push stack
+invok callback creat convers back object integ
+rest method convers
+intvalu origin code
+int re origin code
+note care proce map
+care reposit argument advic signatur
+instruct list instructionlist ret instruct list instructionlist
+store object arrai stack proce arg
+proce arg isproceedwitharg
+store object local variabl
+type object arrai type objectarraytyp type type gettyp ljava lang object
+local proce arg arrai localproceedargarrai local advic method localadvicemethod alloc local allocateloc object arrai type objectarraytyp
+ret append instruct factori instructionfactori creat store createstor object arrai type objectarraytyp local proce arg arrai localproceedargarrai
+store proceedingjoinpoint instanc local variabl
+type proceed type proceedingjptyp type type gettyp lorg aspectj lang proceedingjoinpoint
+local localjp local advic method localadvicemethod alloc local allocateloc proceed type proceedingjptyp
+ret append instruct factori instructionfactori creat store createstor proceed type proceedingjptyp local localjp
+push stack element object arrai
+assum consist callback argument munger arg
+todo catch classcast aoob except
+special logic withincod static
+bit code make sens read implement
+weavearoundclosur joinpointimpl proce object basic depend
+join point target pointcut bind target
+argument 'new' proce call reorgan pr126167
+relat pointcut bind relatedpointcutbindsthi bind bindsthi munger
+relat pointcut bind target relatedpointcutbindstarget bind target bindstarget munger
+target targetissameasthi kind getkind target istargetsameasthi
+number differ pointcut bind target
+join point target call
+index object arrai argument indexintoobjectarrayforargu
+index callback method argument indexintocallbackmethodforargu
+hasthi
+relat pointcut bind relatedpointcutbindsthi
+relat pointcut bind target relatedpointcutbindstarget target targetissameasthi
+suppli entri object arrai
+ret append instruct factori instructionfactori creat load createload object arrai type objectarraytyp local proce arg arrai localproceedargarrai
+ret append util creat constant createconst fact
+ret append instruct factori instructionfactori creat arrai load createarrayload type object
+ret append util creat convers createconvers fact type object callback method callbackmethod argument type getargumenttyp
+index callback method argument indexintocallbackmethodforargu
+index object arrai argument indexintoobjectarrayforargu
+local variabl 'this' static method
+ret append aload
+index callback method argument indexintocallbackmethodforargu
+target hastarget
+relat pointcut bind target relatedpointcutbindstarget
+kind getkind target istargetsameasthi
+ret append instruct factori instructionfactori creat load createload object arrai type objectarraytyp local proce arg arrai localproceedargarrai
+ret append util creat constant createconst fact relat pointcut bind relatedpointcutbindsthi
+ret append instruct factori instructionfactori creat arrai load createarrayload type object
+ret append util creat convers createconvers fact type object callback method callbackmethod argument type getargumenttyp
+index object arrai argument indexintoobjectarrayforargu
+index callback method argument indexintocallbackmethodforargu
+posit hasthi relat pointcut bind relatedpointcutbindsthi
+ret append instruct factori instructionfactori creat load createload object arrai type objectarraytyp local proce arg arrai localproceedargarrai
+ret append util creat constant createconst fact posit
+ret append instruct factori instructionfactori creat arrai load createarrayload type object
+ret append util creat convers createconvers fact type object callback method callbackmethod argument type getargumenttyp posit
+index object arrai argument indexintoobjectarrayforargu posit
+index callback method argument indexintocallbackmethodforargu
+kind getkind target istargetsameasthi
+ret append aload
+ret append instruct factori instructionfactori creat load createload local advic method localadvicemethod argument type getargumenttyp hasthi
+index callback method argument indexintocallbackmethodforargu
+index callback method argument indexintocallbackmethodforargu len callback method callbackmethod argument type getargumenttyp length len
+type state type statetyp callback method callbackmethod argument type getargumenttyp
+bcel world bcelworld bcel frombcel state type statetyp resolv world
+lorg aspectj lang joinpoint equal state type statetyp signatur getsignatur
+ret append aload local localjp ret append aload localjp localadvic signatur
+ret append instruct factori instructionfactori creat load createload object arrai type objectarraytyp local proce arg arrai localproceedargarrai
+ret append util creat constant createconst fact index callback method argument indexintocallbackmethodforargu index object arrai argument indexintoobjectarrayforargu
+ret append instruct factori instructionfactori creat arrai load createarrayload type object
+ret append util creat convers createconvers
+fact
+type object
+state type statetyp
+type proceed type proceedingjptyp type type gettyp lorg aspectj lang proceedingjoinpoint
+local localjp local advic method localadvicemethod alloc local allocateloc proceed type proceedingjptyp
+ret append instruct factori instructionfactori creat store createstor proceed type proceedingjptyp local localjp
+len callback method callbackmethod argument type getargumenttyp length len
+type state type statetyp callback method callbackmethod argument type getargumenttyp
+resolvedtyp statetypex
+bcel world bcelworld bcel frombcel state type statetyp resolv world
+lorg aspectj lang joinpoint equal state type statetyp signatur getsignatur
+ret append aload local localjp ret append aload localjp localadvic signatur
+lorg aspectj lang proceedingjoinpoint equal statetyp getsignatur
+fixm alex
+ret append aload localjp localadvic signatur
+ret append fact createcheckcast
+referencetyp bcelworld makebceltyp statetypex
+cast
+ret append instruct factori instructionfactori creat load createload state type statetyp
+callback invok
+ret append util creat invok createinvok fact callback method callbackmethod
+box handl case advic return object
+unresolv type unresolvedtyp object equal munger signatur getsignatur return type getreturntyp
+ret append util creat convers createconvers
+fact
+callback method callbackmethod return type getreturntyp
+type object
+ret append util creat convers createconvers
+fact
+callback method callbackmethod return type getreturntyp
+bcel world bcelworld make bcel type makebceltyp munger signatur getsignatur return type getreturntyp
+ret
+proceedmap haskei
+ret append aload
+throw runtimeexcept unimpl
+proceedvar proceedmap appendloadandconvert ret fact statetypex
+bcelvar argvarlist appendload ret fact
+ret append aload
+lorg aspectj lang joinpoint equal statetyp getsignatur
+ret append aload
+ret append aload
+ret append util createinvok fact callbackmethod
+ret append util createconvers fact callbackmethod getreturntyp
+bcelworld makebceltyp munger getsignatur getreturntyp
+ret append aconst null pope
+true return ret
+stack argument advic call
+frame argument advic call
+bcelvar advicevar munger getexposedstateasbcelvar
+intmap proceedmap makeproceedargumentmap advicevar
+system println proceedmap
+system println argvarlist
+resolvedtyp proceedparamtyp
+world resolv munger getsignatur getparametertyp
+remov joinpoint argument proce
+munger getbaseparametercount proceedparamtyp length
+int len munger getbaseparametercount
+resolvedtyp newtyp resolvedtyp len
+system arraycopi proceedparamtyp newtyp len
+proceedparamtyp newtyp
+system println statetyp arrai aslist statetyp
+bcelvar proceedvar
+util pushandreturnarrayofvar proceedparamtyp ret fact localadvicemethod
+type statetyp callbackmethod getargumenttyp
+system println statetyp arrai aslist statetyp
+int len statetyp length len
+type statetyp statetyp
+resolvedtyp statetypex bcelworld frombcel statetyp resolv world
+proceedmap haskei
+throw runtimeexcept unimpl
+proceedvar proceedmap appendloadandconvert ret fact statetypex
+bcelvar argvarlist appendload ret fact
+ret append util createinvok fact callbackmethod
+ret append util createconvers fact callbackmethod getreturntyp
+bcelworld makebceltyp munger getsignatur getreturntyp
+return ret

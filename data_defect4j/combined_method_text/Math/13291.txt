@@ -1,0 +1,20 @@
+overrid
+arrai real vector arrayrealvector real vector realvector serializ
+entri
+hasnext
+arrai real vector arrayrealvector
+dot product dotproduct real vector realvector
+org apach common math3 linear
+dot product dotproduct
+inherit doc inheritdoc
+data vdata arrai real vector arrayrealvector data
+dot data data vdata
+version
+data length
+dot product dotproduct real vector realvector dimens mismatch except dimensionmismatchexcept
+check vector dimens checkvectordimens
+link real vector realvector arrai
+iter entri spars iter sparseiter
+check vector dimens checkvectordimens data vdata length
+dot data index getindex getvalu
+dot

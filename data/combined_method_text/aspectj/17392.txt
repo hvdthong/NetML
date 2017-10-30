@@ -1,0 +1,6 @@
+org aspectj runtim reflect
+factori
+lock signatur locksignatur make lock sig makelocksig string string rep stringrep
+lock signatur impl locksignatureimpl ret lock signatur impl locksignatureimpl string rep stringrep
+ret set lookup class loader setlookupclassload lookup class loader lookupclassload
+ret

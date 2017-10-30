@@ -1,0 +1,30 @@
+pre
+param restrict neg restricttononneg restrict variabl neg valu
+restrict neg restricttononneg
+param constraint linear constraint
+extra decis variabl neg valu
+param epsilon amount error accept check optim
+simplex tableau simplextableau linear object function linearobjectivefunct
+simplex solver simplexsolv default ulp simplex solver simplexsolv default cut
+constraint goal type goaltyp restrict neg restricttononneg epsilon
+constraint goal type goaltyp restrict neg restricttononneg epsilon default ulp
+phase object function
+param linear object function
+version
+amp decis variabl
+version simplex tableau simplextableau java 14z
+rh hand side
+rh
+param goal type goaltyp optim goal link goal type goaltyp maxim
+artifici variabl
+epsilon
+build tableau linear problem
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+tableau simplex method
+org apach common math3 optim linear
+goal type goaltyp goal type goaltyp
+collect linear constraint linearconstraint constraint
+link goal type goaltyp minim

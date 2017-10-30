@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+return argnam set annot null
+string arg name getargnamesvalu annot anno
+iter iterator1 anno valu getvalu iter iterator1 hasnext
+element pair elementnamevaluepair element element pair elementnamevaluepair iterator1
+argnam equal element string getnamestr
+element getvalu stringifi stringifyvalu

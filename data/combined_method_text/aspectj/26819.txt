@@ -1,0 +1,68 @@
+load
+ldc ldc
+getclass getclass getclass getclass
+constant
+impl impl
+creat creat creat creat
+unresolvedtyp unresolvedtyp
+hasannot hasannot hasannot hasannot hasannot hasannot
+visitor visitor
+accept
+jump
+instruct instruct instruct
+boolean
+aload
+org
+annotationclass annotationclass annotationclass
+append append append append append
+bcelrender
+render
+unresolv unresolv
+visit
+isannotationpres isannotationpres isannotationpres isannotationpres isannotationpres
+bytecod
+member member member member
+int
+present present
+itestvisitor
+test
+objecttyp
+getannotationtyp getannotationtyp getannotationtyp
+foo
+type type type type type
+method method
+getnam getnam
+ljava ljava ljava ljava
+createconst
+string
+instructionlist instructionlist
+class class class class class class class class class
+object object object
+fornam
+getconstantpool
+util util
+var var
+iexprvisitor
+base
+typex typex
+bcel bcel
+getvar
+memberimpl memberimpl
+stack stack
+aspectj
+addclass
+lang lang lang lang lang lang lang
+insert
+world world
+java java java java
+annclassindex annclassindex
+list list
+annot annot annot annot annot annot annot annot annot
+getsignatur
+invok invok
+expr
+createinvok createinvok
+createjumpbasedonbooleanonstack
+weaver
+invokevirtu invokevirtu
+fact fact fact fact

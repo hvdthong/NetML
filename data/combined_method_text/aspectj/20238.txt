@@ -1,0 +1,47 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read aspect
+param runtimeannot
+param struct
+return true found
+handl aspect annot handleaspectannot runtim annot runtimeannot runtim annot runtimeannot attribut struct ajattributestruct struct
+annot aspect annot getannot runtim annot runtimeannot ajc member maker ajcmembermak aspect annot aspect annot
+aspect
+semant check inherit level
+extend aspect extendsaspect
+java lang object equal struct enclos type enclosingtyp superclass getsuperclass getnam
+struct enclos type enclosingtyp superclass getsuperclass abstract isabstract struct enclos type enclosingtyp superclass getsuperclass aspect isaspect
+report error reporterror extend concret aspect struct
+extend aspect extendsaspect struct enclos type enclosingtyp superclass getsuperclass aspect isaspect
+element pair elementnamevaluepair aspect claus aspectperclaus annot element getannotationel aspect
+claus perclaus claus perclaus
+aspect claus aspectperclaus
+empti mean singleton inherit
+extend aspect extendsaspect
+claus perclaus singleton persingleton
+claus perclaus super perfromsup struct enclos type enclosingtyp superclass getsuperclass claus getperclaus kind getkind
+string perx aspect claus aspectperclaus getvalu stringifi stringifyvalu
+perx perx length
+claus perclaus singleton persingleton
+claus perclaus pars claus pointcut parseperclausepointcut perx struct
+claus perclaus
+pars ignor aspect
+claus perclaus set locat setloc struct context perclaus setloc struct context struct context getoffset struct context getoffset fixm avasm
+fixm asc relat comment version
+struct attribut ajattribut add attribut ajattribut weaver version info weaverversioninfo
+attribut ajattribut aspect aspect attribut aspectattribut attribut ajattribut aspect claus perclaus
+struct attribut ajattribut add aspect attribut aspectattribut
+formal bind formalbind bind org aspectj weaver pattern formal bind formalbind
+scope iscop bind
+bind bind scope bindingscop
+struct enclos type enclosingtyp
+struct context
+bind
+resolv perclaus typic refer pointcut
+defin aspect told bcelobjecttyp
+perclaus resolv bind
+prepar
+aspect attribut aspectattribut set resolut scope setresolutionscop bind

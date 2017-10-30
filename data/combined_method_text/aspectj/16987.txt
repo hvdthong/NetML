@@ -1,0 +1,11 @@
+org aspectj org eclips jdt core dom
+cflowpointcut dom ast node
+pointcutdesign call 'body'
+author ajh02
+cflow pointcut cflowpointcut pointcut design pointcutdesign
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+properti bodi properti bodi properti
+bodi getbodi
+set bodi setbodi pointcut design pointcutdesign child
+default implement flag error
+intern set child properti internalgetsetchildproperti properti child

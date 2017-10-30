@@ -1,0 +1,4 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+set increment compil follow setincrementalcompilecouldfollow increment compil follow incrementalcompilecouldfollow

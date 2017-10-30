@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+author colyer
+match type method constructor field
+allow declar parent declar type
+member type pattern hasmembertypepattern type pattern typepattern
+equal object obj
+obj member type pattern hasmembertypepattern
+obj
+signatur pattern signaturepattern equal member type pattern hasmembertypepattern obj signatur pattern signaturepattern

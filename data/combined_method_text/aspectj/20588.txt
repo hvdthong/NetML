@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+string find handler param findhandlerparamnam instruct handl instructionhandl start handler startofhandl
+start handler startofhandl instruct getinstruct store instruct storeinstruct
+start handler startofhandl getnext
+slot store instruct storeinstruct start handler startofhandl instruct getinstruct index getindex
+system println store startofhandl getinstruct index
+instruct target instructiontarget target start handler startofhandl getnext target gettarget
+target
+target length
+target local variabl tag localvariabletag
+local variabl tag localvariabletag local variabl tag localvariabletag target
+slot getslot slot
+getnam
+system println tag target
+miss

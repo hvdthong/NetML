@@ -1,0 +1,48 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+return fals batch build need
+prepar build preparefornextbuild build config ajbuildconfig build config newbuildconfig
+current build time currentbuildtim system current time milli currenttimemilli
+increment maybeincrement
+listen defin listenerdefin listen getlisten record decis recorddecis prepar build increment ajdt increment deactiv
+batch build requir time batchbuildrequiredthistim
+batch build requir time batchbuildrequiredthistim
+listen defin listenerdefin listen getlisten record decis recorddecis prepar build increment time batch build explicitli forc
+success build time lastsuccessfulbuildtim build config buildconfig
+structur full build structuralchangessincelastfullbuild clear
+listen defin listenerdefin listen getlisten record decis recorddecis prepar build increment success previou full build
+support increment outjar
+build config newbuildconfig output jar getoutputjar
+structur full build structuralchangessincelastfullbuild clear
+listen defin listenerdefin listen getlisten record decis recorddecis prepar build increment outjar
+increment build path
+chang jar path modifi
+path chang pathchang build config buildconfig build config newbuildconfig
+time built class file resourc file jar
+inpath copi output directori
+delet prepar clean build
+come file delet inpath jar
+build delet output directori
+remov result build removeallresultsoflastbuild
+state listen statelisten state listen statelisten path chang detect pathchangedetect
+structur full build structuralchangessincelastfullbuild clear
+listen defin listenerdefin listen getlisten record decis recorddecis prepar build increment path chang detect classpath aspectpath inpath injar
+simpl string simplestr arrai list arraylist
+qualifi string qualifiedstr arrai list arraylist
+set file oldfil hash set hashset build config buildconfig file getfil
+set file newfil hash set hashset build config newbuildconfig file getfil
+ad file addedfil hash set hashset file newfil
+ad file addedfil remov removeal file oldfil
+delet file deletedfil hash set hashset file oldfil
+delet file deletedfil remov removeal file newfil
+set binari file oldbinaryfil hash set hashset build config buildconfig binari file getbinaryfil
+set binari file newbinaryfil hash set hashset build config newbuildconfig binari file getbinaryfil
+ad binari file addedbinaryfil hash set hashset binari file newbinaryfil
+ad binari file addedbinaryfil remov removeal binari file oldbinaryfil
+delet binari file deletedbinaryfil hash set hashset binari file oldbinaryfil
+delet binari file deletedbinaryfil remov removeal binari file newbinaryfil
+increment couldstillbeincrement process delet file processdeletedfil delet file deletedfil
+increment couldstillbeincrement
+listen defin listenerdefin listen getlisten record decis recorddecis prepar build increment aspect delet
+listen defin listenerdefin listen getlisten record decis recorddecis prepar build plan increment build

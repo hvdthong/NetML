@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb object interfac set perobjectinterfaceset unresolv type unresolvedtyp aspect type aspecttyp
+resolv member impl resolvedmemberimpl
+member method
+object interfac type perobjectinterfacetyp aspect type aspecttyp
+modifi public modifi abstract
+mangler namemangl object interfac set perobjectinterfaceset aspect type aspecttyp
+aspect type aspecttyp signatur getsignatur

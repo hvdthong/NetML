@@ -1,0 +1,23 @@
+overrid
+vector2 vector2d
+version
+equal vector2 vector2d instanc
+repres vector
+object instanc vector2 vector2d
+link nan
+test equal vector
+vector2 vector2d rh vector2 vector2d
+isnan
+rh rh
+vector equal code doubl nan code vector equal
+equal coordin
+code nan code coordin consid affect global vector
+param object test equal
+code doubl nan code vector consid equal
+coordin vector
+rh isnan
+org apach common math3 geometri euclidean twod
+vector2 vector2d vector euclidean2 euclidean2d
+instanc guarante immut
+equal object
+vector object equal

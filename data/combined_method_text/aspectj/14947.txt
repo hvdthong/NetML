@@ -1,0 +1,54 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass java virtual machin
+specif 2nd edit
+detail inform found verifi
+method' document
+version pass2verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass2 verifi pass2verifi pass verifi passverifi constant
+visit field visitfield field obj
+class isclass
+maxon
+obj privat ispriv maxon
+obj protect isprotect maxon
+obj public ispubl maxon
+maxon
+class constraint except classconstraintexcept field tostr obj acc privat acc protect acc public modifi set
+obj final isfin obj volatil isvolatil
+class constraint except classconstraintexcept field tostr obj acc final acc volatil modifi set
+isinterfac
+obj public ispubl
+class constraint except classconstraintexcept interfac field tostr obj acc public modifi set
+obj static isstat
+class constraint except classconstraintexcept interfac field tostr obj acc static modifi set
+obj final isfin
+class constraint except classconstraintexcept interfac field tostr obj acc final modifi set
+obj access flag getaccessflag acc public acc public acc privat acc privat acc protect acc protect acc static acc static acc final acc final acc volatil acc volatil acc transient acc transient
+add messag addmessag field tostr obj access flag acc public acc privat acc protect acc static acc final acc volatil acc transient set
+check index checkindex obj obj index getnameindex const utf8 const utf8
+string obj getnam
+valid field validfieldnam
+class constraint except classconstraintexcept field tostr obj illeg obj getnam
+descriptor name signatur bcel
+check index checkindex obj obj signatur index getsignatureindex const utf8 const utf8
+string sig constant utf8 constantutf8 constant getconst obj signatur index getsignatureindex byte getbyt string sig constantutf8 getconst obj getsignatureindex getbyt field method signatur descriptor
+type type gettyp sig type gettyp sig return
+class format error classformaterror cfe catch classformaterror cfe bcel harsh describ except situat
+class constraint except classconstraintexcept illeg descriptor signatur sig tostr obj
+string nameanddesc sig
+field name desc nameanddesc
+class constraint except classconstraintexcept field tostr obj allow name descriptor
+field name
+add messag addmessag field detect type descriptor unusu
+field name desc add nameanddesc
+field name add
+attribut att obj attribut getattribut
+att length
+att constant constantvalu
+att synthet
+att deprec
+add messag addmessag attribut tostr att attribut field tostr obj unknown
+att constant constantvalu
+add messag addmessag attribut tostr att attribut field tostr obj constantvalu debugg

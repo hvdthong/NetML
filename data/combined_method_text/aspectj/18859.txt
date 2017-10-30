@@ -1,0 +1,9 @@
+org aspectj weaver
+author colyer
+interfac implement client drive weav
+iclassfileprovid interfac weaver return woven
+class file result back client client correl weav
+result input unwovenclassfil return
+iter
+weav requestor iweaverequestor
+ad type munger addingtypemung

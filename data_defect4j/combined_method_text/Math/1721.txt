@@ -1,0 +1,12 @@
+base continu distribut
+param point densiti comput
+param point pdf evalu
+continu distribut continuousdistribut distribut
+densiti
+version
+pdf point code
+version revis date
+return probabl densiti function pdf distribut
+org apach common math distribut
+evalu point
+probabl densiti point

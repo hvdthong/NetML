@@ -1,0 +1,15 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+compil unit compilationunit compil unit getcompilationunit string filenam string encod
+file count filecount filenam length
+compil unit compilationunit unit compil unit compilationunit file count filecount
+hashtableofobject knownfilenam hashtableofobject filecount
+string default encod defaultencod build config buildconfig option getopt default encod defaultencod
+equal default encod defaultencod equal defaultencod nl
+default encod defaultencod defaultencod null nl
+file count filecount
+string encod encod
+encod
+encod default encod defaultencod
+unit compil unit compilationunit filenam encod
+unit

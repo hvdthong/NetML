@@ -1,0 +1,100 @@
+link getv link getvt link invers getinvers link solv
+tau math max gap1 min dmin
+author jim demmel univers california berkelei usa fortran version
+gap2 min2 dmin2 min2 dmin2
+dlasq2 dlazq3 dlazq4 dlasq5 dlasq6
+link getd diagon imaginari valu return link
+gap2 min2 dmin2
+comput contribut norm squar
+href http www utexa user inderjit paper thesi pdf
+min dmin
+math sqrt cnst3
+real eigenvalu realeigenvalu deflat inform
+tau math max cnst2
+end start
+min2 dmin2
+tau min2 dmin2
+dqd algorithm posit case lapack routin dlarr
+tau gam math sqrt
+comput shift increment estim smallest eigenvalu
+link getv link getvt link solver getsolv method call
+author inderjit dhillon univers texa austin usa fortran version
+rayleigh quotient residu bound
+method call
+math max oldb1
+comput shift increment computeshiftincr start end deflat
+min dmin min1 dmin1 dn1
+type ttype
+math min
+tau min1 dmin1
+tau math max min dmin
+approxim contribut norm squar
+gam dn1
+gam dn2
+eigenvalu deflat min1 dmin1 dn1 min dmin
+cnst3
+algorithm symmetr tridiagon eigenvalu eigenvector
+cnst1
+implement translat lapack routin dlazq4
+version revis date
+min1 dmin1 dn1 min2 dmin2 dn2
+matric
+author origin fortran version
+math sqrt work math sqrt work
+work work
+neg min dmin forc shift absolut
+end ping pong pingpong start ping pong pingpong
+problem beresford parlett osni marqu paper
+deflat
+href http www netlib org lapack lawnspdf lawn155 pdf implement
+type ttype record type shift
+gap1 gap2 gap2 gap2
+start ping pong pingpong
+gap2 gap2
+implement base inderjit singh dhillon thesi
+param deflat number real eigenvalu realeigenvalu deflat
+author christof voemel univers california berkelei usa fortran version
+christof voemel univers california berkelei usa
+comput real real eigenvalu realeigenvalu impli matrix return
+org apach common math linear
+gap1 gap1
+support strong symmetr strong matric
+inderjit dhillon univers texa austin usa
+eigen decomposit impl eigendecompositionimpl eigen decomposit eigendecomposit
+real eigenvalu realeigenvalu deflat
+inform guid
+jim demmel univers california berkelei usa
+eigen decomposit matrix set matric
+author beresford parlett univers california berkelei usa fortran version
+oldb1
+gam
+real eigenvalu realeigenvalu deflat min2 dmin2 dn2 min dmin
+comput requir link eigenvector geteigenvector
+case
+work
+end ping pong pingpong
+min dmin dn2
+beresford parlett univers california berkelei usa
+tau
+osni marqu lbnl nersc usa
+link solv real matrix realmatrix link solv real vector realvector link solv real vector impl realvectorimpl
+upper part matrix part diagon access
+gam math sqrt
+min1 dmin1
+imag eigenvalu getimageigenvalu link imag eigenvalu getimageigenvalu
+min dmin min dmin dn1
+min1 dmin1 dn1
+param start start index
+calcul eigen decomposit strong symmetr strong matrix
+param end end index
+ping pong pingpong
+gap2 work work
+author osni marqu lbnl nersc usa fortran version
+tau min dmin
+cnst2
+math max cnst1
+call link real matrix realmatrix argument implement
+eigenvalu comput matrix decompos eigenvector
+tau math max cnst2 gap2
+time
+min2 dmin2 dn2 work work

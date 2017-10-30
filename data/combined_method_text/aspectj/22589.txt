@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+type pertypewithin claus perclaus
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+resolv type resolvedtyp enclos type enclosingtyp shadow world getiworld resolv shadow enclos type getenclosingtyp
+enclos type enclosingtyp miss ismiss
+ptwimpl add proper messag
+messag imessag msg messag
+find type pertypewithin match
+shadow sourc locat getsourceloc sourc locat isourceloc sourc locat getsourceloc
+shadow world getiworld messag handler getmessagehandl handl messag handlemessag msg
+pr106554 put advic call interfac advic defin
+pertypewithin aspect jp exist static initi
+call localaspectof method
+enclos type enclosingtyp interfac isinterfac fuzzi boolean fuzzyboolean
+type pattern typepattern resolv shadow world getiworld
+type iswithintyp enclos type enclosingtyp

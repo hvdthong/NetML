@@ -1,0 +1,66 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+compil requestor icompilerrequestor batch requestor getbatchrequestor
+compil requestor icompilerrequestor
+accept result acceptresult compil result compilationresult unit result unitresult
+end compil write result output destin
+jar file file directori
+unit result unitresult error haserror proce error proceedonerror
+collect class file classfil unit result unitresult compil type compiledtyp valu
+add aspect shouldaddaspectnam build config buildconfig outxml getoutxmlnam
+iter iter class file classfil iter iter hasnext
+class file classfil class file classfil class file classfil iter
+string filenam string class file classfil file filenam
+string classnam filenam replac
+filenam filenam replac file separ char separatorchar class
+build config buildconfig output jar getoutputjar
+write directori entri writedirectoryentri unit result unitresult class file classfil filenam
+write zip entri writezipentri class file classfil filenam
+add aspect shouldaddaspectnam add aspect addaspectnam classnam unit result unitresult file getfilenam
+except ioexcept
+messag imessag messag eclips adapt util eclipseadapterutil make error messag makeerrormessag
+string unit result unitresult file filenam
+write result write result
+handler handl messag handlemessag messag
+unit result unitresult compil type compiledtyp clear unitresult compiledtyp clear free refer ajclassfil instanc
+unit result unitresult problem hasproblem unit result unitresult task hastask
+problem iproblem problem unit result unitresult problem getallproblem
+problem length
+messag imessag messag
+eclips adapt util eclipseadapterutil make messag makemessag unit result unitresult compil unit compilationunit problem bcel world getbcelworld
+handler handl messag handlemessag messag
+write directori entri writedirectoryentri
+compil result compilationresult unit result unitresult
+class file classfil class file classfil
+string filenam
+except ioexcept
+file destin path destinationpath build config buildconfig output dir getoutputdir
+build config buildconfig compil result destin manag getcompilationresultdestinationmanag
+destin path destinationpath
+build config buildconfig compil result destin manag getcompilationresultdestinationmanag output locat class getoutputlocationforclass file string unit result unitresult file filenam
+string file outfil
+destin path destinationpath
+file outfil file filenam getnam
+file outfil file extract destin path sourc file extractdestinationpathfromsourcefil unit result unitresult file outfil path getpath
+file outfil file destin path destinationpath filenam path getpath
+buffer output stream bufferedoutputstream
+file util fileutil make output stream makeoutputstream file file outfil
+write class file classfil byte getbyt
+close
+write zip entri writezipentri class file classfil class file classfil string
+except ioexcept
+replac file separ char separatorchar
+zip entri zipentri entri newentri zip entri zipentri zipentri newentri zipentri compress scheme
+zo put entri putnextentri entri newentri
+zo write class file classfil byte getbyt
+zo close entri closeentri
+add aspect addaspectnam string file aspect filecontainingaspect
+bcel world bcelworld world bcel world getbcelworld
+resolv type resolvedtyp type world resolv
+system err println writeaspectnam type type
+type aspect isaspect
+state aspect name file map getaspectnamestofilenamemap
+state initi aspect name file map initializeaspectnamestofilenamemap
+state aspect name file map getaspectnamestofilenamemap kei containskei
+state aspect name file map getaspectnamestofilenamemap put
+file aspect filecontainingaspect

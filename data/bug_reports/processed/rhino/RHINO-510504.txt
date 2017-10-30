@@ -1,0 +1,8 @@
+delete foo prop walk property chain find prop
+user agent mozilla x11 linux x86 gecko ubuntu jaunty firefox
+build identifier
+statement
+delete foo prop
+delete property defined foo foos prototype chain
+ecma
+reproducible

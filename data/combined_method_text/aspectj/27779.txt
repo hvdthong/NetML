@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot type pattern andannotationtypepattern annot type pattern annotationtypepattern
+annot type pattern annotationtypepattern parameter parameterizewith map type variabl map typevariablemap world
+annot type pattern annotationtypepattern left newleft left parameter parameterizewith type variabl map typevariablemap
+annot type pattern annotationtypepattern newright parameter parameterizewith type variabl map typevariablemap
+annot type pattern andannotationtypepattern ret annot type pattern andannotationtypepattern left newleft newright
+ret copi locat copylocationfrom
+paramet annot match isforparameterannotationmatch ret set paramet annot match setforparameterannotationmatch
+ret

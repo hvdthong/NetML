@@ -1,0 +1,34 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return iter method type order
+check jvm spec 2ed mean order
+method current class
+recur superclass touch interfac
+recur superinterfac unspecifi order
+hashset interfac visit spiral
+land
+note javadoc getmethodswithoutiter
+sensit quirk getmethod
+iter method getmethod
+iter filter dup filter dupfilt iter dup filter dupfilt
+iter getter ifac getter ifacegett iter getter
+iter object
+dup filter dupfilt filter
+iter arrai resolv type resolvedtyp declar interfac getdeclaredinterfac
+iter getter method getter methodgett iter getter
+iter object
+iter arrai resolv type resolvedtyp declar method getdeclaredmethod
+iter map mapov
+iter append
+iter
+resolv type resolvedtyp curr resolv type resolvedtyp
+hasnext
+curr
+object
+resolv type resolvedtyp ret curr
+curr curr superclass getsuperclass
+ret
+remov
+unsupport oper except unsupportedoperationexcept
+iter recur ifac getter ifacegett
+method getter methodgett

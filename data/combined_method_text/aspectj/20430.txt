@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+declar line number getdeclarationlinenumb
+declar line number declarationlinenumb
+declar line number declarationlinenumb line number getlinenumb

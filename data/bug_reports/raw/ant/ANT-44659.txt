@@ -1,0 +1,15 @@
+The build time is not printed correctly for builds that take a long time
+The build time is not printed correctly when a build takes a very long time.
+
+For example with a build that took around two days, it printed 2á926 minutes 13 seconds.
+
+It could look as when it takes more than 1000 minutes to build, something wrong happens with the formatting.
+
+
+
+Buildfile: build.xml
+
+run:
+
+BUILD SUCCESSFUL
+Total time: 2á926 minutes 13 seconds

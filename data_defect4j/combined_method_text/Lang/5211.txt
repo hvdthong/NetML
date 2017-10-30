@@ -1,0 +1,30 @@
+pattern languag format
+author href mailto sbailliez apach org stephan bailliez
+year
+month
+string format durat formatdur durat milli durationmilli string format
+second
+tabl border
+tabl
+format pattern month larger
+millisecond
+author apach softwar foundat
+org apach common lang3 time
+version
+param format format durat
+author href mailto ggregori seagullsw gari gregori
+durat format util durationformatutil
+param durat milli durationmilli durat format
+dai
+format durat formatdur durat milli durationmilli format
+method format durat dai lower field
+charact durat element
+author apach ant date util dateutil
+time string
+hour
+format time gap string format pad zero
+author href mailto stefan bodewig epost stefan bodewig
+durat format util constant tabl describ token
+minut
+timezon
+format durat

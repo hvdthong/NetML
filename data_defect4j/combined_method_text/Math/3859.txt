@@ -1,0 +1,59 @@
+code decompos ludecompos code recomput decomposit
+code
+solut invers
+copi element column col
+data mdata data
+data row outdatarow col sum
+data outdata row col sum
+array2 row real matrix array2drowrealmatrix data outdata
+param matrix postmultipli
+contigu memori
+column dimens columndimens row dimens rowdimens
+decomposit support linear system
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+data modifi refer underli arrai obtain
+sum data row datarow data col
+org apach common math linear
+col mcol sum nsum
+sum
+invers
+matrix equal number row code
+array2 row real matrix array2drowrealmatrix multipli array2 row real matrix array2drowrealmatrix
+version
+col mcol row mrow data mdata row mrow col
+version revis date
+discard explicitli invok
+safeti check
+sum data row datarow col mcol
+base code entri getentri code
+method
+matrix util matrixutil check multipl compat checkmultiplicationcompat
+data row datarow data row
+data row outdatarow data outdata row
+store entri
+decomposit perform need support oper
+multipli
+decomposit cach reus subsequ call
+data outdata row nrow col ncol
+link real matrix realmatrix matrix element index
+row mrow row mrow sum nsum row mrow
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+dimens mismatch except dimensionmismatchexcept number column
+solv
+col ncol column dimens getcolumndimens
+row row row nrow row
+implement link real matrix realmatrix code arrai
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+return result postmultipli code code
+col col col ncol col
+return element row column matrix
+postmultipli matrix code
+href http www math gatech bourbaki math2601 web note 2num pdf
+row nrow row dimens getrowdimens
+sum nsum column dimens getcolumndimens
+sum nsum
+hold column
+illeg argument except illegalargumentexcept

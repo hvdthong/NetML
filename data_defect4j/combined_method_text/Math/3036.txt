@@ -1,0 +1,11 @@
+overrid
+hyperplan simpl point orient
+region euclidean1 euclidean1d remain region remainingregion
+orient point suborientedpoint hyperplan remain region remainingregion
+inherit doc inheritdoc
+instanc guarante immut
+orient point suborientedpoint abstract hyperplan abstractsubhyperplan euclidean1 euclidean1d euclidean1 euclidean1d
+abstract hyperplan abstractsubhyperplan euclidean1 euclidean1d euclidean1 euclidean1d build buildnew hyperplan euclidean1 euclidean1d hyperplan
+version
+repres hyperplan link orient point orientedpoint
+org apach common math geometri euclidean on

@@ -1,0 +1,15 @@
+org apach common math3 util
+open int field hash map openinttofieldhashmap field element fieldel serializ
+param type field element
+smaller memori overhead standard code java util map code
+hash 0x7fffffff
+perturb hash
+param hash initi hash
+link iter fail fast
+special iter return
+version
+perturb hash start probe
+dedic map integ field element fieldel
+code concurr modif except concurrentmodificationexcept code detect map
+modifi iter
+open address map field element fieldel

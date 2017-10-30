@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+concret type munger concretetypemung parameter parameterizewith map world
+bcel type munger bceltypemung munger parameter parameterizewith aspect type aspecttyp

@@ -1,0 +1,12 @@
+org aspectj weaver tool
+abstract trace abstracttrac trace
+format argument comma separ list
+param name arrai argument name
+param arg arrai argument
+return format list
+string format arg formatarg object arg
+string buffer stringbuff string buffer stringbuff
+arg length
+append format obj formatobj arg
+arg length append
+string tostr

@@ -1,0 +1,7 @@
+org apach lucen search
+queri match document
+match doc queri matchalldocsqueri queri
+overrid
+scorer scorer atom reader context atomicreadercontext context score doc order scoredocsinord top scorer topscor except ioexcept
+match scorer matchallscor context reader similar
+norm field normsfield context reader norm norm field normsfield

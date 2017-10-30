@@ -1,0 +1,28 @@
+remov spuriou intermedi vertic outlin
+outlin extractor outlineextractor
+point remov
+boundari projector boundaryprojector projector boundari projector boundaryprojector
+org apach common math3 geometri euclidean threed
+outlin vector2 vector2d end
+polygon set polygonsset project projector project getproject
+raw loop rawloop raw loop rawloop
+end
+point pointisbetween raw loop rawloop end
+point remain loop
+extract outlin polyhedron set
+version
+system arraycopi raw loop rawloop outlin end
+extractor link polygon set polygonsset polyhedron set outlin
+polyhedron set polyhedronsset tree gettre visit projector
+polyhedron set project plane
+vector2 vector2d outlin project vertic getvertic
+resiz arrai
+outlin length
+extract outlin link polygon set polygonsset
+outlin arrai loop
+project boundari facet polygon set
+outlin
+param polyhedron set polyhedronsset polyhedron set outlin extract
+vector2 vector2d raw loop rawloop outlin
+end raw loop rawloop length
+vector2 vector2d outlin getoutlin polyhedron set polyhedronsset polyhedron set polyhedronsset

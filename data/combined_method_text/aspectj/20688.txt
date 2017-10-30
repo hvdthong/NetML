@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+aspect instanc set retriev localaspectof aspectof
+weav type aspect initi weavepertypewithinaspectiniti bcel advic bceladvic munger unresolv type unresolvedtyp
+resolv world interfac isinterfac resolv world isinterfac return initi static
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist entri instruct entryinstruct instruct list instructionlist
+instruct list instructionlist entri success instruct entrysuccessinstruct instruct list instructionlist
+bcel world bcelworld bcel object type getbcelobjecttyp munger concret aspect getconcreteaspect
+string aspectnam munger concret aspect getconcreteaspect getnam
+string ptw field ptwfield mangler namemangl type field target pertypewithinfieldfortarget munger concret aspect getconcreteaspect
+entri success instruct entrysuccessinstruct append push fact constant pool getconstantpool getnam
+entri success instruct entrysuccessinstruct append fact creat invok createinvok aspectnam ajc createaspectinst object type objecttyp aspectnam
+type object type objecttyp java lang string constant invokestat
+entri success instruct entrysuccessinstruct append fact creat put static createputstat getnam ptw field ptwfield
+object type objecttyp aspectnam
+entri instruct entryinstruct append entri success instruct entrysuccessinstruct
+rang insert entri instruct entryinstruct rang insid insidebefor

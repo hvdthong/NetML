@@ -1,0 +1,18 @@
+org aspectj org eclips jdt core dom
+declarewarningdeclar dom ast node
+declaredeclar
+pointcutdesign call 'pointcut'
+stringliter call 'message'
+declar warn declar declarewarningdeclar declar declar declaredeclar
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+properti javadoc properti javadoc properti
+javadoc getjavadoc
+set javadoc setjavadoc javadoc child
+properti pointcut properti pointcut properti
+pointcut getpointcut
+set pointcut setpointcut pointcut design pointcutdesign child
+properti messag properti messag properti
+messag getmessag
+set messag setmessag string liter stringliter child
+default implement flag error
+intern set child properti internalgetsetchildproperti properti child

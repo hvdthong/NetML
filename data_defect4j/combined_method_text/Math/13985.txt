@@ -1,0 +1,38 @@
+pre
+iter entri iter
+vector element wise perform oper ad scalar
+param vector distanc request
+distanc getdist real vector realvector
+inf distanc getlinfdist real vector realvector
+diff getvalu entri getentri index getindex
+version creat vector hold result chang instanc
+distanc vector
+vector element index base code entri getentri
+style
+code code map code map maptoself method oper
+diff diff
+code map maptoself version instanc store
+norm squar root sum
+return element vector
+code vector
+real vector realvector result map add mapaddtoself map maptoself tan map maptoself power
+version
+element differ euclidean distanc
+appli function element turn code map
+method comput distanc consist
+real vector realvector
+distanc getl1dist real vector realvector
+fast math fastmath sqrt
+norm getnorm
+hasnext
+result instanc chang method case result
+code size vector
+element differ euclidian distanc
+org apach common math3 linear
+entri
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+vector return method allow fluent api
+dimens mismatch except dimensionmismatchexcept code size
+class defin real valu vector basic algebra oper
+check vector dimens checkvectordimens
+distanc getdist real vector realvector dimens mismatch except dimensionmismatchexcept

@@ -1,0 +1,16 @@
+field matrix impl fieldmatriximpl field element fieldel abstract field matrix abstractfieldmatrix serializ
+entri indic matrix
+matrix index except matrixindexexcept
+row column row dimens getrowdimens column dimens getcolumndimens
+org apach common math linear
+param type field element
+inherit doc inheritdoc
+version revis date
+link field matrix fieldmatrix matrix element index
+arrai index bound except arrayindexoutofboundsexcept
+return element row column matrix
+overrid
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+set entri setentri row column
+base code entri getentri code
+data row column

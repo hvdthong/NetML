@@ -1,0 +1,34 @@
+org aspectj weaver loadtim
+adapt gener class pre processor interfac aspectj weaver
+load time weav consist reli bcel setrepositori
+author href mailto alex gnilux dot alexandr vasseur
+class pre processor classpreprocessor
+weav
+param classnam
+param byte
+param loader
+return weav byte
+pre process preprocess string class classnam byte class loader classload loader
+todo doc
+loader class classnam
+skip boot loader null class hibern
+byte
+trace trace enabl istraceen trace enter preprocess object class classnam byte loader
+trace trace enabl istraceen trace event preprocess object loader parent getpar thread current thread currentthread context class loader getcontextclassload
+loader
+weav adaptor weavingadaptor weav adaptor weavingadaptor weaver contain weavercontain weaver getweav loader weav context weavingcontext
+weav adaptor weavingadaptor
+trace trace enabl istraceen trace exit preprocess
+byte
+byte newbyt weav adaptor weavingadaptor weav class weaveclass class classnam byte
+dump dump exit dumponexit weav adaptor weavingadaptor messag holder getmessagehold
+trace trace enabl istraceen trace exit preprocess byte newbyt
+byte newbyt
+jvmti swallow except
+throwabl
+trace error class classnam
+dump dump except dumpwithexcept
+fixm wonder option fail throw runtim except
+make sens test testhelp handlemessag
+trace trace enabl istraceen trace exit preprocess
+byte

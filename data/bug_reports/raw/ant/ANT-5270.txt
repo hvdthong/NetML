@@ -1,0 +1,48 @@
+Ant task - allow multiple targets
+I would like for the ant task to allow multiple targets in the same way that I 
+can specify multiple targets on the command line when kicking off ant.
+
+I have made the following changes to ant.java in the 1.4.1 release that does 
+just that.  Most of this additional logic is cut-n-pasted from Target.java's 
+code for parsing the depends attribute so it has the same error checking as 
+that.
+
+
+--------- start of diff -----------------------------
+256a257,280
+>             Vector targets = new Vector();
+>             StringTokenizer tok =
+>                 new StringTokenizer(target, ",", true);
+>             while (tok.hasMoreTokens()) {
+>                 String token = tok.nextToken().trim();
+>
+>                 //Make sure the target is not empty string
+>                 if (token.equals("") || token.equals(","))
+>                   continue;
+>
+>                   targets.addElement(token);
+>
+>                 //Make sure that target attribute does not
+>                 //end in a ,
+>                 if (tok.hasMoreTokens()) {
+>                     token = tok.nextToken();
+>                     if (!tok.hasMoreTokens() || !token.equals(",")) {
+>                         throw new BuildException( "Syntax Error: Target 
+attribute " +
+>                                                   "for task \"" + getTaskName
+() +
+>                                                   "\" ends with a , 
+character" );
+>                     }
+>                 }
+>             }
+>
+261c285
+<                 target.equals(this.getOwningTarget().getName())) {
+---
+>                 targets.contains(this.getOwningTarget().getName())) {
+266c290
+<             newProject.executeTarget(target);
+---
+>             newProject.executeTargets(targets);
+-------------------- end of diff ------------------------------

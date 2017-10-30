@@ -1,0 +1,14 @@
+org apach lucen index
+segment term posit segmenttermposit
+read delta posit readdeltaposit except ioexcept
+delta prox stream proxstream read int readvint
+current field store payload currentfieldstorespayload
+current field store payload
+posit delta shift bit left
+lsb set read current
+payload length
+delta
+payload length payloadlength prox stream proxstream read int readvint
+delta
+load payload needtoloadpayload
+delta

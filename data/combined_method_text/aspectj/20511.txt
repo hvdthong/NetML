@@ -1,0 +1,29 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+mung domung lazi class gen lazyclassgen gen check checkalreadyther
+check checkalreadyther claus member hasperclausemembersalreadi gen
+gener claus member generateperclausememb gen
+kind claus perclaus singleton
+gener singleton aspect method generatepersingletonaspectofmethod gen
+gener singleton aspect method generatepersingletonhasaspectmethod gen
+gener singleton ajc clinit method generatepersingletonajcclinitmethod gen
+kind claus perclaus perobject
+gener object aspect method generateperobjectaspectofmethod gen
+gener object aspect method generateperobjecthasaspectmethod gen
+gener object bind method generateperobjectbindmethod gen
+ad perobjectinterfac munger affect type pr144602
+generateperobjectgetsetmethod gen
+kind claus perclaus percflow
+gener cflow aspect method generatepercflowaspectofmethod gen
+gener cflow aspect method generatepercflowhasaspectmethod gen
+gener cflow push method generatepercflowpushmethod gen
+gener cflow ajc clinit method generatepercflowajcclinitmethod gen
+kind claus perclaus pertypewithin
+gener aspect method generatepertwaspectofmethod gen
+gener aspect method generatepertwhasaspectmethod gen
+gener instanc method generatepertwgetinstancemethod gen
+gener creat aspect instanc method generatepertwcreateaspectinstancemethod gen
+gener type method generatepertwgetwithintypenamemethod gen
+error happen kind kind getnam

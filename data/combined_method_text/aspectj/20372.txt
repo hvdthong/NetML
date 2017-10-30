@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+set reweav mode setreweavablemod mode
+reweav mode inreweavablemod mode

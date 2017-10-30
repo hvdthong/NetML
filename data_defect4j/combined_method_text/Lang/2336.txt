@@ -1,0 +1,51 @@
+pre
+quot len quotelen
+param po posit check quot
+token quot text untouch
+author stephen colebourn
+support quot charact concept
+input string split number token
+quot isquot char po len quot start quotestart quot len quotelen
+similar job link java util string token stringtoken string token stringtoken
+tabl
+ignor empti token ignoreemptytoken
+param quot len quotelen length match quot quot
+quot matcher specifi quot charact
+str token strtoken list iter listiter string cloneabl
+po len char po char quot start quotestart
+matcher specifi charact remov
+ignor matcher nonematch
+author matthew inger
+properti type default
+trimmer matcher specifi charact
+param quot start quotestart start posit match quot quot
+author gari gregori
+org apach common lang text
+version
+quot match
+split string smaller string aim
+token string base base delimit separ
+delimit charact
+usag trim whitespac charact
+match read token readnexttoken
+param char charact arrai token
+code string token stringtoken code
+quot matcher nonematch
+delim char set matcher charsetmatch
+token delimit potenti charact trim
+code list iter listiter code set
+token properti option
+offer control flexibl includ implement
+empti token null emptytokenasnul
+quot escap quot section duplic
+check charact index match quot
+str token strtoken list iter listiter cloneabl
+point quot potenti invalid charact
+usag remov line charact
+token separ string delimit
+code list iter listiter code setup
+param len length charact arrai token
+token comma delimit
+token csv process trim whitespac
+token surround quot
+empti token remov return

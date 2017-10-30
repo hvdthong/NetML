@@ -1,0 +1,45 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+file zip directori zipdirectori file dir
+file temp dir tempdir file
+temp dir tempdir file creat temp file createtempfil ajctest tmp
+temp dir tempdir mkdir
+temp dir tempdir delet exit deleteonexit tempdir deleteonexit xxx remov zip explicitli
+except ioexcept
+ignor
+file result file tempdir
+string filenam ajctask
+system current time milli currenttimemilli
+zip
+file result file filenam
+zip zip zip
+zip set project setproject project getproject
+zip set dest file setdestfil result
+zip set task settasknam task gettasknam zip
+file set fileset fileset file set fileset
+fileset set dir setdir dir
+zip add fileset addfileset fileset
+zip execut
+delet delet delet
+delet set project setproject project getproject
+delet set task settasknam task gettasknam delet
+delet set dir setdir dir
+delet execut
+mkdir mkdir mkdir
+mkdir set project setproject project getproject
+mkdir set task settasknam task gettasknam mkdir
+mkdir set dir setdir dir
+mkdir execut
+result

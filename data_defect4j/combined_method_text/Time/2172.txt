@@ -1,0 +1,21 @@
+durat field durationfield field period field type getfieldtyp field getfield
+valu period extract durat
+author brian neill o'neil
+base chronolog basechronolog thread safe immut subclass
+size
+param durat durat queri
+param period period instant
+current
+valu period interv
+current field add current
+size period size
+field precis isprecis
+org joda time chrono
+base chronolog basechronolog skeleton implement chronolog
+valu size
+valu
+base chronolog basechronolog
+durat
+class util method defin field unsupport
+field differ getdiffer durat current
+readabl period readableperiod period durat

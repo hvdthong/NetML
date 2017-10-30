@@ -1,0 +1,25 @@
+pre
+org apach common math od nonstiff
+theta belong
+order rung kutta integr
+step comput interpol equat consist
+eighth step interpol threeeighthesstepinterpol
+interpol comput dens output insid
+eighth step interpol threeeighthesstepinterpol eighth step interpol threeeighthesstepinterpol interpol
+step interpol fourth
+refer point step end
+copi arrai separ origin arrai
+theta theta theta
+evalu deriv comput
+version
+param interpol interpol copi copi deep
+theta
+refer point step start
+eighth integr threeeighthesintegr
+integr scheme
+copi constructor
+step
+version revis date
+theta theta
+instanc
+interpol

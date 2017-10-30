@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+exact type pattern exacttypepattern type pattern typepattern
+match matchesexactli resolv type resolvedtyp match type matchtyp resolv type resolvedtyp annot type annotatedtyp
+type match typematch type equal match type matchtyp
+type match typematch match type matchtyp parameter type isparameterizedtyp match type matchtyp gener type isgenerictyp
+type match typematch type equal match type matchtyp raw type getrawtyp
+type match typematch match type matchtyp type variabl refer istypevariablerefer
+type match typematch match type variabl matchestypevari type variabl refer type typevariablereferencetyp match type matchtyp
+annot pattern annotationpattern resolv match type matchtyp world getworld
+ann match annmatch annot pattern annotationpattern match annot type annotatedtyp true alwaystru
+type match typematch ann match annmatch

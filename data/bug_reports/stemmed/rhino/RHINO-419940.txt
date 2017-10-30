@@ -1,0 +1,16 @@
+incorrect javaadapt gener base class overrid abstract method
+defin class
+public abstract class basefoo
+public abstract string dosometh
+
+public class foo extend basefoo
+public string dosometh
+return world
+
+
+rhino
+var afoo javaadapt packag googl foo
+return
+afoo dosometh
+answer string undefin
+world

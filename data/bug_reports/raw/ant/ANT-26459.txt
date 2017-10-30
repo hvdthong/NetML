@@ -1,0 +1,33 @@
+SQL task (SQLExec class) might not see a ROW delimiter correctly
+Hi,
+
+In the SQL task, using the option "keepformat" will prevent SQL statements lines
+from having their spaces trimed out.
+
+This can prevent ANT from seing a ROW delimiter, which is being found only if an
+entire line equals the delimiter.
+
+In example, if I write the following with the options 'delimiter' set to 'GO',
+'delimitertype' set to 'row', and 'keepformat' set to 'true':
+
+SELECT * ... FROM ...
+GO  
+
+And I put one or more spaces after the 'GO' statement, then it will not trigger
+sending of the 'SELECT' statement to the database.
+
+A simple solution would be changing source code of SQLExec class, and replace
+lines from method 'runStatements':
+
+(delimiterType.equals(DelimiterType.ROW)
+&& line.equals(delimiter)))
+
+by
+
+(delimiterType.equals(DelimiterType.ROW)
+&& line.trim().equals(delimiter)))
+
+
+Regards,
+
+Matthieu Recouly

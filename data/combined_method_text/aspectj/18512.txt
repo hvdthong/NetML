@@ -1,0 +1,17 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb type aspect method pertypewithinhasaspectmethod unresolv type unresolvedtyp declar type declaringtyp java5 mode injava5mod
+unresolv type unresolvedtyp paramet type parametertyp
+java5 mode injava5mod
+paramet type parametertyp unresolv type unresolvedtyp raw type forrawtypenam java lang class
+paramet type parametertyp unresolv type unresolvedtyp signatur forsignatur ljava lang class
+resolv member impl resolvedmemberimpl
+member method
+declar type declaringtyp
+public static public static
+resolv type resolvedtyp boolean
+hasaspect
+unresolv type unresolvedtyp paramet type parametertyp
+return resolvedmemberimpl member method
+declaringtyp public static hasaspect
+ljava lang class

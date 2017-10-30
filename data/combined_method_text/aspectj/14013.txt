@@ -1,0 +1,19 @@
+org aspectj apach bcel gener
+ldc push item constant pool
+pre stack item pre
+version ldc java aclement exp
+author href mailto marku dahm berlin dahm
+ldc instruct cpinstruct
+object getvalu constant pool gen constantpoolgen cpg
+org aspectj apach bcel classfil constant cpg constant pool getconstantpool constant getconst index
+tag gettag
+org aspectj apach bcel constant constant string constant string
+org aspectj apach bcel classfil constant string constantstr string index getstringindex
+cpg constant pool getconstantpool constant getconst
+org aspectj apach bcel classfil constant utf8 constantutf8 byte getbyt
+org aspectj apach bcel constant constant float constant float
+float org aspectj apach bcel classfil constant float constantfloat byte getbyt
+org aspectj apach bcel constant constant integ constant integ
+integ org aspectj apach bcel classfil constant integ constantinteg byte getbyt
+default reach
+runtim except runtimeexcept unknown invalid constant type index

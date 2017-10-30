@@ -1,0 +1,10 @@
+author apach softwar foundat
+param codepoint high codepointhigh escap
+newli creat code numer entiti escap numericentityescap instanc
+numer entiti escap numericentityescap code point translat codepointtransl
+param codepoint low codepointlow escap
+numer entiti escap numericentityescap codepoint low codepointlow codepoint high codepointhigh
+version
+construct code numer entiti escap numericentityescap code valu inclus
+org apach common lang3 text translat
+translat codepoint xml numer entiti escap

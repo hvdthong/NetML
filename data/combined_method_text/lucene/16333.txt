@@ -1,0 +1,6 @@
+org apach lucen search
+sloppi phrase scorer sloppyphrasescor phrase scorer phrasescor
+sloppi phrase scorer sloppyphrasescor weight weight term posit termposit tp offset similar similar
+slop norm
+weight tp offset similar norm
+slop slop

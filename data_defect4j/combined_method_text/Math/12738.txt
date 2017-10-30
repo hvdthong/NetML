@@ -1,0 +1,9 @@
+repres region set polygon
+equal object
+inherit doc inheritdoc
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+overrid
+version
+compar segment comparableseg
+compar compareto compar segment comparableseg
+org apach common math3 geometri euclidean twod

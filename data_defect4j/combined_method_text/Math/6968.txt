@@ -1,0 +1,22 @@
+overrid
+param refer integr arrai hold state
+bewar arrai refer integr
+end step
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+interpol equat base taylor seri formula
+equat mapper equationsmapp primari mapper primarymapp
+state variat statevari length
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+param primari mapper primarymapp equat mapper primari equat set
+version
+interpol integr nordsieck represent
+org apach common math od sampl
+param forward integr direct indic
+interpol comput dens output current point
+reiniti forward primari mapper primarymapp secondari mapper secondarymapp
+equat mapper equationsmapp secondari mapper secondarymapp
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+param secondari mapper secondarymapp equat mapper secondari equat set
+arrai order ensur proper updat copi
+reiniti instanc
+reiniti forward

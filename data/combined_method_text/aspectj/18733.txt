@@ -1,0 +1,13 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+list declar annot type getdeclareannotationontyp
+declar annot type declareannotationontyp
+set ret hash set hashset
+iter member valu iter hasnext
+ret add addal crosscut member crosscuttingmemb declar annot type getdeclareannotationontyp
+declar annot type declareannotationontyp arrai list arraylist
+declar annot type declareannotationontyp add addal ret
+declar annot type declareannotationontyp

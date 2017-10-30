@@ -1,0 +1,12 @@
+href http mathworld wolfram hypergeometr distribut hypergeometricdistribut html
+param size sampl size
+hypergeometr distribut hypergeometricdistribut integ distribut integerdistribut
+version revis date
+set sampl size setsamples size
+instanc hypergeometr distribut hypergeometricdistribut object creat
+deprec
+modifi sampl size
+hypergeometr distribut
+link distribut factori distributionfactori creat hypergeometr distribut createhypergeometricdistribut
+org apach common math distribut
+refer

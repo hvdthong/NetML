@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+expos state exposedst
+set var var
+check type rule matchesinstanceof process
+expect var type expectedvartyp
+resolv type resolvedtyp expect expect var type expectedvartyp resolv var type gettyp world getworld
+expect equal resolv type resolvedtyp object
+expect assign isassignablefrom var type gettyp
+var type gettyp coerceabl iscoerceablefrom expect
+throw bcexcept expect type expectedvartyp slot attempt put var gettyp
+var var

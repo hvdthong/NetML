@@ -1,0 +1,35 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+block scope blockscop lookup scope lookupscop ast node astnod node
+ast node astnod current node currentnod node
+current node currentnod
+current node currentnod method declar methoddeclar
+current node currentnod initi
+current node currentnod field declar fielddeclar
+current node currentnod current node currentnod parent getpar
+current node currentnod
+current node currentnod initi
+initi initi initi current node currentnod
+current node currentnod abstract type declar abstracttypedeclar
+current node currentnod current node currentnod parent getpar
+current node currentnod type declar typedeclar
+current node currentnod enum declar enumdeclar
+current node currentnod annot type declar annotationtypedeclar
+org aspectj org eclips jdt intern compil ast type declar typedeclar type decl typedecl org aspectj org eclips jdt intern compil ast type declar typedeclar ast bind resolv getbindingresolv node getcorrespondingnod current node currentnod
+initi modifi getmodifi modifi static
+type decl typedecl static initi scope staticinitializerscop
+type decl typedecl initi scope initializerscop
+current node currentnod field declar fielddeclar
+field declar fielddeclar field declar fielddeclar field declar fielddeclar current node currentnod
+current node currentnod abstract type declar abstracttypedeclar
+current node currentnod current node currentnod parent getpar
+current node currentnod type declar typedeclar
+current node currentnod enum declar enumdeclar
+current node currentnod annot type declar annotationtypedeclar
+org aspectj org eclips jdt intern compil ast type declar typedeclar type decl typedecl org aspectj org eclips jdt intern compil ast type declar typedeclar ast bind resolv getbindingresolv node getcorrespondingnod current node currentnod
+field declar fielddeclar modifi getmodifi modifi static
+type decl typedecl static initi scope staticinitializerscop
+type decl typedecl initi scope initializerscop
+abstract method declar abstractmethoddeclar abstract method declar abstractmethoddeclar abstract method declar abstractmethoddeclar ast bind resolv getbindingresolv node getcorrespondingnod current node currentnod
+abstract method declar abstractmethoddeclar scope

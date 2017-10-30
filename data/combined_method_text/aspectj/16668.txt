@@ -1,0 +1,5 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+record node recordnod ast node astnod node org aspectj org eclips jdt intern compil ast ast node astnod ast node oldastnod
+ast bind resolv getbindingresolv store node ast node oldastnod

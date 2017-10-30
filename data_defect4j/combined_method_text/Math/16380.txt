@@ -1,0 +1,11 @@
+base implement statist
+evalu valu
+univari statist univariatestatist
+param valu input arrai
+evalu valu math illeg argument except mathillegalargumentexcept
+statist appli input arrai
+org apach common math3 stat descript
+version
+math illeg argument except mathillegalargumentexcept valu
+return result evalu statist input arrai
+univari statist univariatestatist math arrai matharrai function

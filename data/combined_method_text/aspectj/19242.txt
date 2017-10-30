@@ -1,0 +1,8 @@
+org aspectj weaver
+method type munger newmethodtypemung resolv type munger resolvedtypemung
+munger declar signatur
+resolv member resolvedmemb declar inter method bodi getdeclaredintermethodbodi unresolv type unresolvedtyp aspect type aspecttyp world
+declar signatur declaredsignatur
+resolv member resolvedmemb declar signatur declaredsignatur parameter parameterizedwith signatur declar type getdeclaringtyp resolv type variabl alias gettypevariablealias
+ajc member maker ajcmembermak inter method bodi intermethodbodi aspect type aspecttyp
+ajc member maker ajcmembermak inter method bodi intermethodbodi signatur aspect type aspecttyp

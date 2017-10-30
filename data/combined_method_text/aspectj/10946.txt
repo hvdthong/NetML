@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+list binari sourc getbinarysourcesfrom map binari sourc entri binarysourceentri
+map filenam list unwovenclassfil
+list ret arrai list arraylist
+iter bin iter binit binari sourc entri binarysourceentri kei set keyset iter bin iter binit hasnext
+string sourc file sourcefilenam string bin iter binit
+list unwoven class file unwovenclassfil list binari sourc entri binarysourceentri sourc file sourcefilenam
+xxx bug final paramet call compil option maxproblemsperunit
+compil result compilationresult result compil result compilationresult sourc file sourcefilenam char arrai tochararrai integ max max
+result sourc nosourceavail
+interim compil result interimcompilationresult binari sourc binarysourc
+interim compil result interimcompilationresult result unwoven class file unwovenclassfil
+ret add binari sourc binarysourc
+ret

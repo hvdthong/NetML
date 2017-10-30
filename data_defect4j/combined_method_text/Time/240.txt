@@ -1,0 +1,14 @@
+design extens extract field
+date time field datetimefield
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+author gui allard
+defin calcul engin date time field
+org joda time
+return rang durat field field
+author brian neill o'neil
+repres hour dai rang durat dai
+durat field durationfield rang durat field getrangedurationfield
+rang durat field field rang
+millisecond number standard implement provid assist

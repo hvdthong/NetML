@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math except
+
+
+
+
+
+except thrown set dimens differ
+
+
+version revis date
+
+multi dimens mismatch except multidimensionmismatchexcept math illeg argument except mathillegalargumentexcept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+refer arrai expect dimens
+
+integ expect dimens getexpecteddimens
+expect
+
+

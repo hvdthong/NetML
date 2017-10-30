@@ -1,0 +1,21 @@
+long min
+code
+check posit overflow posit posit
+org apach common math3 util
+product code
+check neg overflow neg posit
+math arithmet except matharithmeticexcept result repres
+link math
+check posit overflow neg neg
+ret
+version
+long max
+mul check mulandcheck math arithmet except matharithmeticexcept
+symmetri reduc boundari case
+mul check mulandcheck
+multipli integ check overflow
+arithmet util arithmeticutil
+ret mul check mulandcheck
+math arithmet except matharithmeticexcept
+arithmet relat addit built function
+param factor

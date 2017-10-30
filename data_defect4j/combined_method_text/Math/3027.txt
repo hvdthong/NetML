@@ -1,0 +1,10 @@
+hyperplan simpl point orient
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+instanc immut method directli return
+instanc guarante immut
+orient point orientedpoint copi copyself
+version
+repres orient hyperplan
+org apach common math geometri euclidean on
+instanc
+copi instanc

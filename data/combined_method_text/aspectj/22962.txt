@@ -1,0 +1,53 @@
+org aspectj weaver pattern
+patternpars creat wildtypepattern type pattern pointcut
+express directli turn typepattern
+resolvebind work turn type
+pattern match exacttypepattern
+wildtypepattern
+process pan gener parameter pattern
+genericswildtypepatternresolvingtestcas
+foo foo exist gener
+parser creat wildtypepattern namepattern foo
+resolvebind resolv foo foo raw
+return exacttypepattern lfoo
+foo string foo exist string meet bound
+parser creat wildtypepattern namepattern foo typeparamet wtp string
+resolvebind resolv typeparamet exacttypepattern string
+resolv foo foo
+return exacttypepattern pfoo string parameter
+foo str foo exist take bound
+parser creat wildtypepattern namepattern foo typeparamet wtp str
+resolvebind resolv typeparamet wtp str
+resolv foo foo
+return wildtypepattern foo typeparamet wtp str isgener fals
+string
+parser creat wildtypepattern namepattern typeparamet wtp string
+resolvebind resolv typeparamet etp string
+return wildtypepattern typeparamet etp string isgener fals
+foo
+foo extend number
+foo extend number
+foo super number
+wild type pattern wildtypepattern type pattern typepattern
+type pattern typepattern resolv parameter type resolveparameterizedtyp scope iscop scope unresolv type unresolvedtyp type atyp requir exact type requireexacttyp
+resolv type resolvedtyp type atyp resolv scope world getworld
+verifi type paramet verifytypeparamet scope requir exact type requireexacttyp type pattern typepattern verifytypeparamet scope requireexacttyp return typepattern messag isu
+type exact type paramet exact creat
+exacttypepattern wildtypepattern
+type paramet typeparamet exact subtyp allow areallexactwithnosubtypesallow
+type pattern typepattern type pat typepat type paramet typeparamet type pattern gettypepattern
+unresolv type unresolvedtyp type paramet type typeparametertyp unresolv type unresolvedtyp type pat typepat length
+type paramet type typeparametertyp length
+type paramet type typeparametertyp exact type pattern exacttypepattern type pat typepat exact type getexacttyp
+parameter type
+parameter type isparameterizedtyp
+gener type getgenerictyp
+resolv type resolvedtyp type type factori typefactori creat parameter type createparameterizedtyp type paramet type typeparametertyp scope world getworld
+gener isgener type type gener type getgenerictyp
+unresolvedtyp unresolvedtyp forparameterizedtyp atyp typeparametertyp
+unresolvedtyp type scope getworld resolv true
+dim type resolv type resolvedtyp make arrai makearrai type dim
+exact type pattern exacttypepattern type includ subtyp includesubtyp var arg isvararg
+amc leav wild type pattern
+import prefix importedprefix scope import prefix getimportedprefix
+match knownmatch pre match prematch scope import name getimportednam

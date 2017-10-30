@@ -1,0 +1,74 @@
+overrid
+converg checker converg iter previou current
+build contribut matrix measur
+point vector pair pointvectorvaluepair optim dooptim
+solv squar problem solv normal equat
+diagon weight matrix
+check paramet checkparamet
+residu weight residualsweight
+math intern error mathinternalerror
+increment iter count incrementiterationcount
+solv linear squar problem
+converg checker getconvergencecheck
+comput useless checker loop
+singular matrix except singularmatrixexcept
+current residu currentresidu comput residu computeresidu current object currentobject
+updat estim paramet
+gauss newton squar solver
+wgk grad
+happen
+current point currentpoint start point getstartpoint
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+current
+target valu targetvalu target gettarget
+current point currentpoint length
+converg converg
+point vector pair pointvectorvaluepair current
+optim provid move
+current point currentpoint
+deprec class interfac deprec
+decomposit ludecomposit solver getsolv
+link optim optim data optimizationdata optim
+version
+iter
+version gauss newton optim gaussnewtonoptim java 14z
+evalu object function jacobian
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim
+decomposit qrdecomposit solver getsolv
+checker
+real matrix realmatrix weight jacobian weightedjacobian comput weight jacobian computeweightedjacobian current point currentpoint
+inherit doc inheritdoc
+org apach common math3 optim nonlinear vector jacobian
+decomposit solv normal equat decomposit
+previou
+set cost setcost comput cost computecost current residu currentresidu
+solver solv arrai real vector arrayrealvector arrai toarrai
+comput normal equat
+object function current point currentpoint
+residu current residu currentresidu
+weight residu weight residualsweight
+converg checker converg iter getiter previou current
+target valu targetvalu length number observ data
+check converg
+converg checker convergencecheck point vector pair pointvectorvaluepair checker
+real matrix realmatrix weight matrix weightmatrix weight getweight
+grad weight jacobian weightedjacobian row getrow
+current object currentobject comput object computeobjectivevalu current point currentpoint
+converg except convergenceexcept local format localizedformat unabl solv singular problem
+weight residu
+current point vector pair pointvectorvaluepair current point currentpoint current object currentobject
+point vector pair pointvectorvaluepair previou current
+build linear problem
+linear problem iter decomposit
+decomposit solver decompositionsolv solver uselu
+faster decomposit robust difficult problem
+constraint support call
+converg
+wgk weight grad
+math
+real matrix realmatrix block real matrix blockrealmatrix
+residu weight residualsweight weight matrix weightmatrix entri getentri
+iter converg reach
+grad
+link org apach common math3 fit leastsquar
+null argument except nullargumentexcept

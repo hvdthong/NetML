@@ -1,0 +1,10 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+list config file list getconfigfileslist string config file configfil
+list config arrai list arraylist
+config file configfil length
+config file configfil end endswith build config manag buildconfigmanag config file suffix config file suffix
+config add config file configfil
+config

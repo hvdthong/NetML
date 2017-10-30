@@ -1,0 +1,17 @@
+row dimens getrowdimens
+precondition typic fall categori
+defin link real linear oper reallinearoper invert
+data getdata
+org apach common math linear
+code return result
+left hand side vector
+dimens mismatch except dimensionmismatchexcept length
+solv
+real vector realvector solv arrai real vector arrayrealvector
+version
+arrai real vector arrayrealvector
+length row dimens getrowdimens
+invert real linear oper invertiblereallinearoper real linear oper reallinearoper
+param hand side vector
+arrai real vector arrayrealvector data ref getdataref
+comput matrix vector product invers instanc

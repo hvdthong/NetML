@@ -1,0 +1,14 @@
+list popul listpopul popul limit populationlimit
+list popul listpopul popul
+collect chromosom empti list emptylist popul limit populationlimit
+creat list popul listpopul instanc initi chromosom list
+popul chromosom repres link list
+version
+param popul limit populationlimit maxim size popul
+org apach common math3 genet
+posit except notpositiveexcept popul limit posit number
+popul limit populationlimit
+posit except notpositiveexcept local format localizedformat popul limit posit popul limit populationlimit
+popul limit populationlimit popul limit populationlimit
+list popul listpopul popul limit populationlimit posit except notpositiveexcept
+chromosom arrai list arraylist chromosom popul limit populationlimit

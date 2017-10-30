@@ -1,0 +1,80 @@
+org aspectj intern tool build
+gather sampl code delimit start end sampl
+sourc file base directori
+code author code info
+pre start sampl anchornam anchortext
+sampl code
+end sampl anchornam
+pre
+anchornam uniqu
+hierarch wrt genu speci individu
+sampl gather samplegather
+gather file gatherfromfil file sourc sampl sink
+except ioexcept
+reader reader
+string author
+string buffer stringbuff sampl code samplecod string buffer stringbuff
+string anchor anchornam
+string anchor titl anchortitl
+arrai list arraylist flag arrai list arraylist
+start line startlin int startlin seek
+end line endlin integ max max int endlin integ max seek
+reader file reader fileread sourc
+line number reader linenumberread line reader lineread line number reader linenumberread reader
+string line
+line line reader lineread read line readlin null line lineread readlin xxx naiv
+found start
+loc line index indexof start
+loc
+line number linenumb line reader lineread line number getlinenumb
+start line startlin
+abort unexpect start sourc line line number linenumb
+start line startlin line number linenumb
+end line endlin
+anchor anchornam trim comment end trimcommentend line loc start length
+loc anchor anchornam index indexof
+loc
+anchor titl anchortitl
+anchor titl anchortitl anchor anchornam substr loc trim
+anchor anchornam anchor anchornam substr loc
+found end
+loc line index indexof end
+loc
+line number linenumb line reader lineread line number getlinenumb
+integ max max end line endlin
+abort unexpect end sourc line line number linenumb
+string newtag trim comment end trimcommentend line loc end length
+newtag length newtag equal anchor anchornam
+string expect anchor anchornam
+newtag
+abort sourc line line number linenumb
+end line endlin line number linenumb
+sampl sampl sampl anchor anchornam
+anchor titl anchortitl
+author
+sampl code samplecod string tostr
+sourc
+start line startlin
+end line endlin
+string flag arrai toarrai string flag size
+sink add sampl addsampl sampl
+back seek start
+sampl code samplecod set length setlength
+start line startlin
+end line endlin integ max max
+found author
+loc line index indexof author
+loc
+author trim comment end trimcommentend line loc author length
+found flag comment
+loc line index indexof flag
+loc
+flag add trim comment end trimcommentend line loc flag length
+read
+start line startlin end line endlin
+sampl code samplecod append line
+sampl code samplecod append eol
+end line endlin
+abort incomplet sampl sourc line reader lineread line number getlinenumb
+reader
+reader close

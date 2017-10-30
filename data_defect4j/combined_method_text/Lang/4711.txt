@@ -1,0 +1,20 @@
+lang
+link formatt basic control format
+param flag flag format code formatt
+param formatt destin formatt
+version
+param width width output code formatt
+space
+param precis precis output code formatt
+param seq string handl
+formatt append char sequenc charsequ seq formatt formatt flag width
+handl common code formatt oper truncat pad append
+code formatt instanc
+org apach common lang3 text
+code formatt primarili concern numer precis
+append seq formatt flag width precis
+formatt util formattableutil
+precis
+ellipsi precis overflow pad width underflow
+pad design generalis altern format
+util work code formatt

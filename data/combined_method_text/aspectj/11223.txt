@@ -1,0 +1,21 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+resolv type resolveontyp class scope classscop class scope classscop
+check spec checkspec
+type ontyp ontyp null return error report
+suppli parameter singl type refer
+extra check
+type ontyp parameter singl type refer parameterizedsingletyperefer type ontyp parameter qualifi type refer parameterizedqualifiedtyperefer
+resolv type paramet itd gener type resolvetypeparametersforitdongenerictyp class scope classscop
+type bind ontypebind refer bind referencebind type ontyp type bind public gettypebindingpubl class scope classscop
+type bind ontypebind valid bind isvalidbind
+class scope classscop problem report problemreport invalid type invalidtyp type ontyp type bind ontypebind
+ignor investig ignorefurtherinvestig
+type bind ontypebind parameter type isparameterizedtyp
+pr132349
+parameter type bind parameterizedtypebind ptb parameter type bind parameterizedtypebind type bind ontypebind
+ptb nest type isnestedtyp
+ptb type variabl typevari ptb type variabl typevari length
+ptb enclos type enclosingtyp raw type israwtyp type bind ontypebind ptb type

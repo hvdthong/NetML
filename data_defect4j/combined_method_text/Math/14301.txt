@@ -1,0 +1,37 @@
+param fode primari order differenti equat set extend
+org apach common math3 od
+paramet belong support link
+jacobian matric jacobianmatric
+except dimens mismatch except dimensionmismatchexcept dimens mismatch
+note select clear previou select paramet
+simpl constructor secondari equat set comput jacobian matric
+link paramet jacobian provid parameterjacobianprovid
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+link order differenti equat firstorderdifferentialequ
+param step finit differ comput respect state vector
+math illeg argument except mathillegalargumentexcept
+version
+parameter od parameterizedod
+defin set link secondari equat secondaryequ secondari equat
+order comput jacobian matric respect paramet
+link parameter od parameterizedod
+except math illeg argument except mathillegalargumentexcept paramet support
+dimens mismatch except dimensionmismatchexcept
+primari od set paramet jacobian provid set
+paramet jacobian desir
+param paramet paramet jacobian matric process
+string paramet
+comput jacobian matric respect initi state vector
+intend pack link expand state od expandablestatefulod
+conjunct primari set od
+step arrai code equat dimens
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+main state jacobian wrapper mainstatejacobianwrapp fode paramet
+equat link parameteriz
+link main state jacobian provid mainstatejacobianprovid
+dimens mismatch code
+jacobian matric jacobianmatric order differenti equat firstorderdifferentialequ fode
+order differenti equat firstorderdifferentialequ
+parameteriz paramet name getparametersnam primari set differenti

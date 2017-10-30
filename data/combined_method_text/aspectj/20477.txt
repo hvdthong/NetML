@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+return lazyclassgen type aspect type
+cach inlin advic aspect
+type lazyclassgen newli construct
+lazi class gen lazyclassgen lazi class gen getlazyclassgen
+lazi class gen lazyclassgen ret lazi class gen lazyclassgen
+ret
+system err println creat lazi class gen
+ret lazi class gen lazyclassgen
+ret print system err
+system err println made lcg getjavaclass getsuperclassnam
+aspect isaspect
+lazi class gen lazyclassgen ret
+ret

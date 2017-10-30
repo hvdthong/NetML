@@ -1,0 +1,25 @@
+org aspectj weaver
+weaverstateinfo repres type process weaver determin type
+previous treat reweav allow
+format data stream
+byte kind untouch woven extend extend extra bit set 'reweavable' 'reweav compress bit'
+short typemungercount type munger affect type
+unresolvedtyp resolvedtypemung type munger
+reweav
+short number aspect touch type previous woven
+string fulli qualifi type
+int length class file data unwovenclassfil
+byte class file data compress reweav compress bit set
+weaver state info weaverstateinfo
+list type munger gettypemung resolv type resolvedtyp type ontyp
+world world type ontyp world getworld
+list ret arrai list arraylist
+iter type munger typemung iter hasnext
+entri entri entri
+resolv type resolvedtyp aspect type aspecttyp world resolv entri aspect type aspecttyp
+aspect type aspecttyp miss ismiss
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag aspect need aspect need entri aspect type aspecttyp type ontyp
+type ontyp sourc locat getsourceloc
+ret add bcel type munger bceltypemung entri type munger typemung aspect type aspecttyp
+ret

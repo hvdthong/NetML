@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel field bcelfield resolv member impl resolvedmemberimpl
+annot annotationx annot getannot
+ensur annot type retriev ensureannotationtypesretriev
+annot

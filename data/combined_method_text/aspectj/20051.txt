@@ -1,0 +1,31 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+ensur advanc configur process ensureadvancedconfigurationprocess
+check user switch asm support
+check advanc configur checkedadvancedconfigur
+properti extra configur getextraconfigur
+asm isasmaround isasmaround dont bother
+string properti getproperti xset activ lightweight deleg xsetactiv lightweight deleg true
+fast deleg support enabl fastdelegatesupporten equal ignor case equalsignorecas true
+fast deleg support enabl fastdelegatesupporten
+messag handler getmessagehandl handl messag handlemessag messag util messageutil info activatelightweightdeleg fals disabl optim lightweight deleg woven type
+string properti getproperti xset bcel repositori cach xsetbcel repositori cach xset bcel repositori cach default xsetbcel repositori cach default
+bcel repositori cach bcelrepositorycach equal ignor case equalsignorecas true
+bcel repositori cach bcelrepositorycach
+messag handler getmessagehandl handl messag handlemessag messag util messageutil info bcelrepositorycach fals aspectj bcel cach class inform
+properti getproperti xset pipelin compil xsetpipelin compil xset pipelin compil default xsetpipelin compil default
+pipelin compil shouldpipelinecompil equal ignor case equalsignorecas true
+properti getproperti xset complet binari type xsetcomplet binari type xset complet binari type default xsetcomplet binari type default
+complet binari type completebinarytyp equal ignor case equalsignorecas true
+complet binari type completebinarytyp
+messag handler getmessagehandl handl messag handlemessag messag util messageutil info completebinarytyp true complet binari type activ
+properti getproperti xset run minim memori xsetrun minim memori fals
+run minim memori runminimalmemori equal ignor case equalsignorecas true
+runminimalmemori
+getmessagehandl handlemessag messageutil info runminimalmemori true optim bcel process cost perform memori
+properti getproperti xset debug structur code xsetdebug structur code fals
+debug structur code fordebug structuralchangescod equal ignor case equalsignorecas true
+properti getproperti xset debug bridg xsetdebug bridg fals
+debug bridg code fordebug bridgingcod equal ignor case equalsignorecas true
+check advanc configur checkedadvancedconfigur

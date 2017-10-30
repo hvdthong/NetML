@@ -1,0 +1,13 @@
+author stephen colebourn
+instant
+chronolog ichronolog week weekyear getweekofweekyear instant
+time calcul week week base year compon time
+org joda time chrono
+author gui allard
+week year extract input
+org joda time date time field datetimefield
+basic week weekyear date time field basicweekofweekyeardatetimefield precis durat date time field precisedurationdatetimefield
+author brian neill o'neil
+param instant time instant milli queri
+refactor week weekyear date time field gjweekofweekyeardatetimefield
+week week base year compon time instant

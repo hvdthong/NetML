@@ -1,0 +1,44 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass static part java virtual
+machin specif 2nd edit
+detail inform found verifi
+method' document
+version pass3averifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3a verifi pass3averifi pass verifi passverifi
+check constraint operand instruct satisfi
+visit invokespeci visitinvokespeci invokespeci
+invokespeci loadclass class referenc method declar
+resolv verifi
+invokespeci invokeinstruct argument return type resolv verifi
+allow method name
+string classnam class getclassnam cpg
+java class javaclass repositori lookup class lookupclass classnam
+method method getmethod
+method
+length
+getnam equal method getmethodnam cpg
+type return type getreturntyp signatur getsignatur equal return type getreturntyp cpg
+objarrayequ type argument type getargumenttyp signatur getsignatur argument type getargumenttyp cpg
+constraint violat constraintviol referenc method method getmethodnam cpg expect signatur found class class getclassnam nativ verfier method declar superclass implement interfac java virtual machin specif edit
+java class javaclass current repositori lookup class lookupclass owner myowner class getclassnam
+current super issup
+repositori instanc instanceof current current equal
+method getmethodnam cpg equal constant constructor constructor
+special lookup procedur acc super class
+supidx
+method meth
+supidx
+supidx current superclass index getsuperclassnameindex
+current repositori lookup class lookupclass current superclass getsuperclassnam
+method meth current method getmethod
+meth length
+meth getnam equal method getmethodnam cpg
+type return type getreturntyp meth signatur getsignatur equal return type getreturntyp cpg
+objarrayequ type argument type getargumenttyp meth signatur getsignatur argument type getargumenttyp cpg
+meth meth
+meth
+meth
+constraint violat constraintviol acc super special lookup procedur success method method getmethodnam cpg proper signatur declar superclass hierarchi

@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+fall isfallsthrough
+termin return terminateswithreturn return terminateswithreturn fallsthrough

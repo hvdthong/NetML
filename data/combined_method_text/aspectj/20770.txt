@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+dump unwoven class file unwovenclassfil class file classfil lazi class gen lazyclassgen clazz except ioexcept
+zip output stream zipoutputstream
+string main class mainclassnam class file classfil java class getjavaclass class getclassnam
+write zip entri writezipentri entri getentrynam main class mainclassnam
+clazz java class getjavaclass world byte getbyt
+clazz child class getchildclass world empti isempti
+iter clazz child class getchildclass world iter hasnext
+unwoven class file unwovenclassfil child class childclass unwoven class file unwovenclassfil child class childclass
+write zip entri writezipentri entri getentrynam main class mainclassnam byte
+class file classfil write woven byte writewovenbyt
+clazz java class getjavaclass world byte getbyt
+clazz child class getchildclass world

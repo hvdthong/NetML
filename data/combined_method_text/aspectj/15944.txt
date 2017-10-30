@@ -1,0 +1,24 @@
+org aspectj bridg
+handler accumul messag
+control messag accumul
+client ignor messag kind
+instal listen interceptor
+interceptor handl messag null
+halt process accuml return true
+client obtain messag accumul method
+xxx permit messag remov
+messag handler messagehandl messag holder imessagehold
+initi remov messag accumul
+kind interceptor
+param accumulateonli boolean return handlemessag
+accumul list
+init accumul accumulateonli
+handl messag result handlemessageresult accumul accumulateonli
+messag size
+messag clear
+ignor size
+ignor weav messag ignoringweavemessag ignor isignor messag imessag weaveinfo
+ignor clear
+ignor weav messag ignoringweavemessag ignor messag imessag weaveinfo
+interceptor
+interceptor

@@ -1,0 +1,27 @@
+nest record task produc empti output file
+setup
+compil list java project log output project
+basic setup project
+
+target parent
+record javalog action start loglevel info
+antfetch dir target child
+record javalog action stop
+target
+
+child target write logfil basic call
+
+target child
+record javalog action start append true
+
+record javalog action stop
+
+ant notic output look fine start ant
+output strang stop parent target
+logfil empti byte insert fail immedi
+stop command parent target fine
+close log file parent target logfil
+case case line output
+lot binari zero content
+logfil overwritten zero flush behavior
+reproduc

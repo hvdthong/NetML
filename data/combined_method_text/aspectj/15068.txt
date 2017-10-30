@@ -1,0 +1,11 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+extend structuralcodeconstraintexcept object end extend messag
+extend messag reflect execut flow need constraint
+violat trigger throw object
+extend messag flow extendmessagewithflow structur code constraint except structuralcodeconstraintexcept
+string execut flow
+extend messag extendmessag execut chain getexecutionchain

@@ -1,0 +1,10 @@
+org apach common math3 analysi solver
+version
+bisect algorithm find zero univari real function
+implement href http mathworld wolfram bisect html
+function continu necessarili smooth
+absolut accuraci absoluteaccuraci
+param absolut accuraci absoluteaccuraci absolut accuraci
+construct solver
+bisect solver bisectionsolv abstract univari solver abstractunivariatesolv
+bisect solver bisectionsolv absolut accuraci absoluteaccuraci

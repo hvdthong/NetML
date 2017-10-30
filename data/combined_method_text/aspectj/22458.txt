@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+pattern parser patternpars
+string pars string sequenc parsepossiblestringsequ end shouldend
+string buffer stringbuff result string buffer stringbuff
+token itoken token token sourc tokensourc
+token liter kind getliteralkind
+parser except parserexcept string token
+token liter kind getliteralkind equal string
+result append token string getstr
+eat maybeeat
+token token sourc tokensourc
+token liter kind getliteralkind
+parser except parserexcept string token
+eat identifi eatidentifi
+token itoken token sourc tokensourc
+end shouldend token itoken eof
+parser except parserexcept string token
+bug eaten set index
+end posit set correctli
+current index currentindex token sourc tokensourc index getindex
+token sourc tokensourc set index setindex current index currentindex
+result string tostr

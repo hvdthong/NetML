@@ -1,0 +1,24 @@
+maxim iter count defaultmaximaliterationcount
+set maxim iter count setmaximaliterationcount maxim iter count maximaliterationcount
+set minim iter count setminimaliterationcount
+minim iter count minimaliterationcount minim iter count defaultminimaliterationcount
+univari real integr impl univariaterealintegratorimpl univari real integr univariaterealintegr
+construct integr iter count accuraci
+minim iter count defaultminimaliterationcount
+version
+set rel accuraci setrelativeaccuraci
+set maxim iter count setmaximaliterationcount maxim iter count defaultmaximaliterationcount
+univari real integr impl univariaterealintegratorimpl maxim iter count maximaliterationcount
+set absolut accuraci setabsoluteaccuraci
+org apach common math analysi integr
+univari real integr impl univariaterealintegratorimpl maxim iter count defaultmaximaliterationcount
+version revis date
+param maxim iter count maximaliterationcount maximum number iter
+provid implement gener function
+limit valid
+param maxim iter count defaultmaximaliterationcount maximum number iter
+verifi iter count verifyiterationcount
+paramet problem specif
+univari real integr impl univariaterealintegratorimpl
+illeg argument except illegalargumentexcept
+illeg argument except illegalargumentexcept iter

@@ -1,0 +1,12 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+add ext dir addextdir string extdir list classpath collector classpathcollector
+string token stringtoken token string token stringtoken extdir file path separ pathsepar
+token token hasmoretoken
+classpathcollector add token nexttoken
+file dir file dirfil file string token token nexttoken
+dir file dirfil read canread dir file dirfil directori isdirectori
+file file dir file dirfil list file listfil file util fileutil zip filter zip filter
+file length
+classpath collector classpathcollector add file absolut path getabsolutepath
+xxx alert invalid extdir entri

@@ -1,0 +1,49 @@
+execution of top level tasks in imported files get delayed by targets
+I've stripped down the problem mentioned in
+<http://marc.theaimsgroup.com/?l=ant-user&m=109655281326491&w=2>.
+
+Suppose we have
+
+outer.xml
+=========
+<project name="outer">
+  <import file="inner.xml"/>
+  <property name="foo" value="${bar}"/>
+  <echo>foo is ${foo}</echo>
+</project>
+
+inner.xml
+=========
+<project name="inner">
+  <target name="baz"/>
+  <property name="bar" value="bar is set"/>
+  <echo>bar is ${bar}</echo>
+</project>
+
+This results in
+
+[bodewig@bodewig tmp]$ ant -f outer.xml 
+Buildfile: outer.xml
+     [echo] foo is ${bar}
+     [echo] bar is bar is set
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
+Now remove the target from inner.xml
+
+[bodewig@bodewig tmp]$ ant -f outer.xml 
+Buildfile: outer.xml
+     [echo] bar is set
+     [echo] foo is bar is set
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+So if the imported file contains targets, its top level task get delayed until
+the ones of the importing file are done.  If it doesn't, they get executed
+immediately.  This is clearly wrong, both should behave the same way.
+
+One can argue which way is the correct one, my vote would be for "execute
+immediately" since it seems more intuitive.

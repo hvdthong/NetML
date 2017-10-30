@@ -1,0 +1,14 @@
+implement href http mathworld wolfram newton method newtonsmethod html
+start startvalu start getstartvalu
+inherit doc inheritdoc
+newton solver newtonsolv abstract differenti univari real solver abstractdifferentiableunivariaterealsolv
+solv dosolv
+absolut accuraci absoluteaccuraci absolut accuraci getabsoluteaccuraci
+comput object computeobjectivevalu comput deriv object computederivativeobjectivevalu
+overrid
+function continu necessarili smooth
+fast math fastmath ab absolut accuraci absoluteaccuraci
+newton' method find zero real univari function
+version revis date
+org apach common math analysi solver
+start startvalu

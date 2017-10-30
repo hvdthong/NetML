@@ -1,0 +1,19 @@
+simpl constructor
+org apach common math od sampl
+current deriv currentderiv dot ydot
+end step
+param forward integr direct indic
+recomput state link abstract step interpol abstractstepinterpol set interpol time setinterpolatedtim
+dummi step interpol dummystepinterpol
+set interpol time setinterpolatedtim call impli interpol state
+state end current step
+step interpol
+link step handler stephandl step handler
+set user step interpol
+param refer integr arrai hold state
+param dot ydot refer integr arrai hold state
+version revis date
+forward
+dummi step interpol dummystepinterpol dot ydot forward
+deriv arbitrari point step
+step handler stephandl

@@ -1,0 +1,24 @@
+org aspectj tool ant taskdef
+adapt ajc javac command
+note srcdir set javac pass ajc
+list sourc file gener pass ajc
+javac prune sourc file list base timestamp
+class file wrong ajc
+requir file time work
+set global properti clean build compil clean delet
+class file destin directori compil
+warn
+clean work destin directori
+javac task
+rfe find kill class file sourc dir
+clean make stepwis build process fail
+depend result prior compil
+directori delet strong strong
+class file
+file date adapt call
+gain control clean destin dir
+author we isberg
+aspectj ant
+ajc11 compil adapt ajc11compileradapt compil adapt compileradapt
+object initi initialvalu
+boolean fals

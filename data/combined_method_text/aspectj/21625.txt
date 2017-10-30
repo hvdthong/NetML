@@ -1,0 +1,18 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+pointcut concretize1 resolv type resolvedtyp aspect inaspect resolv type resolvedtyp declar type declaringtyp int map intmap bind
+declar isdeclar bind enclos advic getenclosingadvic
+enforc rule design support declar
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag arg declar arg declar
+bind enclos advic getenclosingadvic sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+type pattern list typepatternlist arg argument resolv refer resolverefer bind
+aspect inaspect crosscut member crosscuttingmemb
+aspect inaspect crosscut member crosscuttingmemb expos type exposetyp arg exact type getexacttyp
+pointcut ret arg pointcut argspointcut arg
+ret copi locat copylocationfrom
+ret

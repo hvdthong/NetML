@@ -1,0 +1,130 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+gener instruct inlin
+param donor method copi adjust frame jump
+instruct
+param recipi method instruct frame
+size alloc frame locat local donor
+param frameenv environ map donor frame recipi frame
+initi popul argument locat
+param fact instruct factori recipi
+instruct list instructionlist gen inlin instruct geninlineinstruct
+lazi method gen lazymethodgen donor
+lazi method gen lazymethodgen recipi
+int map intmap frame env frameenv
+instruct factori instructionfactori fact
+return keepreturn
+instruct list instructionlist footer instruct list instructionlist
+instruct handl instructionhandl end footer append instruct constant instructionconst nop
+instruct list instructionlist ret instruct list instructionlist
+instruct list instructionlist sourc list sourcelist donor bodi getbodi
+map src dest srctodest hash map hashmap
+constant pool gen constantpoolgen donor cpg donorcpg donor enclos class getenclosingclass constant pool gen getconstantpoolgen
+constant pool gen constantpoolgen recipi cpg recipientcpg recipi enclos class getenclosingclass constant pool gen getconstantpoolgen
+class isacrossclass donor cpg donorcpg recipi cpg recipientcpg
+pass copi instruct directli popul srctodest map
+fix frame instruct
+instruct handl instructionhandl src sourc list sourcelist start getstart
+src
+src src getnext
+instruct fresh util copi instruct copyinstruct src instruct getinstruct
+instruct handl instructionhandl dest
+fresh instruct cpinstruct
+reset index constant pool total
+comput leak test lot time sigh
+class isacrossclass
+instruct cpinstruct cpi instruct cpinstruct fresh
+cpi set index setindex
+recipi cpg recipientcpg add constant addconst
+donor cpg donorcpg constant getconst cpi index getindex
+donor cpg donorcpg
+src instruct getinstruct rang rangeinstruct
+dest ret append rang rangeinstruct
+fresh return instruct returninstruct
+return keepreturn
+dest ret append fresh
+dest
+ret append instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto end
+fresh branch instruct branchinstruct
+dest ret append branch instruct branchinstruct fresh
+fresh local variabl instruct localvariableinstruct fresh ret
+index instruct indexedinstruct index index instruct indexedinstruct fresh
+index oldindex index index getindex
+fresh index freshindex
+frame env frameenv kei haskei index oldindex
+fresh index freshindex recipi alloc local allocateloc
+frame env frameenv put index oldindex fresh index freshindex
+fresh index freshindex frame env frameenv index oldindex
+index set index setindex fresh index freshindex
+dest ret append fresh
+dest ret append fresh
+src dest srctodest put src dest
+pass retarget branch instruct copi rang tag
+map tag map tagmap hash map hashmap
+map shadow map shadowmap hash map hashmap
+instruct handl instructionhandl dest ret start getstart src sourc list sourcelist start getstart
+dest
+dest dest getnext src src getnext
+instruct inst dest instruct getinstruct
+retarget branch
+inst branch instruct branchinstruct
+branch instruct branchinstruct branch branch instruct branchinstruct inst
+instruct handl instructionhandl target oldtarget branch target gettarget
+instruct handl instructionhandl target newtarget
+instruct handl instructionhandl src dest srctodest target oldtarget
+target newtarget
+assert goto
+return instruct previous replac
+branch set target settarget target newtarget
+branch select
+select select select branch
+instruct handl instructionhandl target oldtarget select target gettarget
+target oldtarget length
+select set target settarget
+instruct handl instructionhandl src dest srctodest target oldtarget
+copi tag rang attribut
+instruct target instructiontarget src target srctarget src target gettarget
+src target srctarget
+src target srctarget length
+instruct target instructiontarget src target srctarget
+tag
+tag tag oldtag tag
+tag fresh tag tag map tagmap tag oldtag
+fresh
+fresh tag oldtag copi
+tag map tagmap put tag oldtag fresh
+dest add target addtarget fresh
+except rang exceptionrang
+except rang exceptionrang except rang exceptionrang
+start getstart src
+except rang exceptionrang fresh fresher
+except rang exceptionrang
+recipi bodi getbodi
+catch type getcatchtyp
+prioriti getprior
+fresh fresher associ target associatewithtarget
+dest
+instruct handl instructionhandl src dest srctodest end getend
+instruct handl instructionhandl src dest srctodest handler gethandl
+shadow rang shadowrang
+shadow rang shadowrang rang oldrang shadow rang shadowrang
+rang oldrang start getstart src
+bcel shadow bcelshadow shadow oldshadow rang oldrang shadow getshadow
+bcel shadow bcelshadow fresh enclos freshenclos
+shadow oldshadow enclos shadow getenclosingshadow
+bcel shadow bcelshadow shadow map shadowmap shadow oldshadow enclos shadow getenclosingshadow
+bcel shadow bcelshadow fresh shadow freshshadow
+shadow oldshadow copi copyinto recipi fresh enclos freshenclos
+shadow rang shadowrang fresh rang freshrang shadow rang shadowrang recipi bodi getbodi
+fresh rang freshrang associ shadow associatewithshadow fresh shadow freshshadow
+fresh rang freshrang associ target associatewithtarget
+dest
+instruct handl instructionhandl src dest srctodest rang oldrang end getend
+shadow map shadowmap put rang oldrang fresh rang freshrang
+recipi matchedshadow add freshshadow
+xxx copi shadow updat
+thisvar targetvar argsvar
+time add
+extra var shadow
+return keepreturn ret append footer
+ret

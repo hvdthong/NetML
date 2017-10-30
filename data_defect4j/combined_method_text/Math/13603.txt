@@ -1,0 +1,19 @@
+matrix dimens mismatch except matrixdimensionmismatchexcept
+row index invalid
+interfac defin field valu matrix basic algebra oper
+org apach common math3 linear
+param type field element
+matrix element index base code entri getentri code
+row matrix
+set row matrix setrowmatrix row field matrix fieldmatrix matrix
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+rang except outofrangeexcept row index invalid
+version
+org apach common math3 except rang except outofrangeexcept
+param matrix row matrix row number
+matrix dimens match instanc row
+matrix dimens mismatch except matrixdimensionmismatchexcept rang except outofrangeexcept
+param row row set
+set entri row number code row
+column instanc

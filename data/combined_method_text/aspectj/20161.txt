@@ -1,0 +1,7 @@
+org aspectj weaver ast
+repres field access type
+aspectof exist aspect class pre process aspect
+author href mailto alex gnilux dot alexandr vasseur
+field fieldgeton field fieldget
+accept expr visitor iexprvisitor
+visit

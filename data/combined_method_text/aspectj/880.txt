@@ -1,0 +1,7 @@
+org aspectj ajd javaopt
+class handl set java option
+java option map requir icompilerconfigur getjavaoptionsmap
+java build option javabuildopt
+set sourc compat level setsourcecompatibilitylevel string level
+java option javaopt valid jvm version isvalidjvmvers level
+java build option javabuildopt put java option javaopt sourc compat level sourc compat level level

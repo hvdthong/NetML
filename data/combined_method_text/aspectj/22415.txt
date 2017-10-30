@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+pattern parser patternpars
+token itoken token nexttoken
+pend arrow pendingrightarrow
+token itoken ret pend arrow pendingrightarrow
+pend arrow pendingrightarrow
+ret
+token sourc tokensourc

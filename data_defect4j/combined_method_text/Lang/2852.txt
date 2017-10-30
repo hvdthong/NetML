@@ -1,0 +1,35 @@
+oper arrai primit arrai code
+set
+primit wrapper arrai code integ
+param arrai sourc
+set indic set bit nextsetbit src index srcindex
+result
+dest index destindex count
+object result arrai instanc newinst arrai class getclass compon type getcomponenttyp src length srclength remov
+system arraycopi arrai src index srcindex result dest index destindex count
+count src length srclength src index srcindex
+param indic remov
+src index srcindex indic clear bit nextclearbit set
+version
+arrai util arrayutil
+check max index maxindex method call remov element removeel
+arrai input object arrai code
+access unit test
+object remov removeal object arrai bit set bitset indic
+src index srcindex
+remov multipl arrai element indic
+max index maxindex src length srclength
+thread safe threadsaf
+arrai type minu element set bit code indic
+element except method document behaviour
+org apach common lang3
+index bound except indexoutofboundsexcept index max index maxindex length src length srclength
+handl code input gracefulli
+count
+guarante gener valid bit entri
+dest index destindex
+remov indic cardin bit item remov
+count set src index srcindex
+src length srclength arrai util arrayutil length getlength arrai
+except thrown code
+max index maxindex indic length

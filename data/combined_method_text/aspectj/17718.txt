@@ -1,0 +1,45 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+spoon build except buildexcept
+version version null
+result
+messag holder imessagehold holder
+messag handler messagehandl handler messag handler messagehandl
+verbos
+handler ignor messag imessag info
+messag handler imessagehandl deleg
+verbos messag printer messageprint verbos messag printer messageprint ters
+handler set interceptor setinterceptor deleg
+holder handler
+string arg cmd commandlin getcommandlin
+xxx avoid render verbos log
+log run process
+ajc10 render cmd commandlin getcommandlin project msg verbos msg verbos
+main main main
+main run arg holder
+err holder num messag nummessag messag imessag error
+err
+result
+result
+throwabl
+abort except abortexcept
+check quit messag print
+abort except abortexcept silent issil
+messag imessag abort except abortexcept messag getimessag
+throwabl thrown getthrown
+printstacktrac recipi print
+build except buildexcept compil failur locat
+print messag
+imessag kind level verbos imessag info imessag warn
+holder nummessag level true
+final string prefix
+final boolean printsummari fals
+messageutil print system err
+holder
+prefix
+messageutil messag
+verbos messageutil pick info messageutil pick warn
+printsummari
+result

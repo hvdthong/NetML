@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+pointcut ifpointcut pointcut
+pointcut read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+test method hastestmethod read boolean readboolean
+resolv member resolvedmemb resolv test method resolvedtestmethod
+test method hastestmethod hastestmethod test method style
+resolv test method resolvedtestmethod resolv member impl resolvedmemberimpl read resolv member readresolvedmemb context
+pointcut ifpointcut ret pointcut ifpointcut resolv test method resolvedtestmethod read byte readbyt
+ret read locat readloc context
+ret

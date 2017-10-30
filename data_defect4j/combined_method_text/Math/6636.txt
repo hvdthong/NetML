@@ -1,0 +1,28 @@
+org apach common math od jacobian
+ad form compound problem higher dimens origin od
+comput partial deriv solut respect initi state
+problem dimens paramet compound problem
+paramet
+dydy0 dydp
+extend jacobian raw od variat equat
+param dydp jacobian arrai fill
+dispatch compound state arrai state jacobian arrai
+length
+dimens time
+system arraycopi dydp
+state
+parameter od parameterizedod
+version revis date
+dispatch compound state dispatchcompoundst
+od jacobian odewithjacobian
+order comput state deriv od problem
+dydp length
+param dydy0 jacobian arrai fill
+jacobian respect paramet
+system arraycopi dydy0
+order integr jacobian firstorderintegratorwithjacobian
+param raw state arrai fill
+system arraycopi
+enhanc order integr differenti equat
+jacobian respect initi state
+param compound state

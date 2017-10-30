@@ -1,0 +1,35 @@
+org aspectj bridg
+reflect factori reflectionfactori public class reflectionfactori xxx leas pool
+make object type reflect load class
+cname creat instanc arg
+signal error errorsink
+object make class string cname object arg
+messag handler imessagehandl error sink errorsink
+make error makeerror error sink errorsink
+object result
+class cfn class fornam cname
+string error
+arg
+result cfn instanc newinst
+class type type gettyp arg
+constructor constructor cfn constructor getconstructor type
+constructor
+result constructor instanc newinst arg
+make error makeerror
+error constructor
+arrai list aslist type
+result
+assign isassignablefrom result class getclass
+make error makeerror
+error expect type result class getclass
+result
+error
+messag imessag mssg messag error messag imessag fail
+error sink errorsink handl messag handlemessag mssg
+throwabl
+make error makeerror
+string mssg reflectionfactori unabl load
+cname getnam
+messag imessag messag mssg messag imessag fail
+error sink errorsink handl messag handlemessag
+result

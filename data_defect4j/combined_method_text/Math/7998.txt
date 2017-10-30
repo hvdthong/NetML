@@ -1,0 +1,11 @@
+optim univari real function univariaterealfunct goal type goaltyp goal type goaltyp
+inherit doc inheritdoc
+optim goal type goaltyp min max
+org apach common math optim univari
+univari function
+brent optim brentoptim abstract univari real optim abstractunivariaterealoptim
+version revis date
+implement richard brent' algorithm book algorithm
+min max start startvalu
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept
+minim deriv find minima real

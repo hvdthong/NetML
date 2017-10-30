@@ -1,0 +1,16 @@
+macrodef support default element node
+put macro subnod addit argument node order make work macrodef abil macrodef instanc subnod directli
+macrodef jython
+attribut script
+element
+sequenti
+java classnam org python util launcher failonerror true
+arg file script
+element
+java
+sequenti
+macrodef
+jython script script
+arg packag
+arg file outpath
+jython

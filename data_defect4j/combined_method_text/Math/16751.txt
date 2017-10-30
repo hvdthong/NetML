@@ -1,0 +1,7 @@
+abstract multipl linear regress abstractmultiplelinearregress
+inherit doc inheritdoc
+version
+org apach common math3 stat regress
+calcul varianc calculateyvari
+estim regressand varianc estimateregressandvari
+abstract base implement multipl linear regress multiplelinearregress

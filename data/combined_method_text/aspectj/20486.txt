@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+weaver state info weaverstateinfo weaver state getweaverst
+weaver state weaverst

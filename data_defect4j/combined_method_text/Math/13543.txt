@@ -1,0 +1,44 @@
+pre
+block complex eigenvalu lambda block
+invers depend condit
+time matric
+element equal
+link eigenvector geteigenvector eigenvector geteigenvector method pick singl
+wilkinson implicit algorithm wilksinson reinsch
+precis equal imag eigenvalu imageigenvalu epsilon
+return calcul eigen valu complex real
+matrix badli condit singular valid equat
+librari
+symmetr eigenvalu matrix block diagon real eigenvalu
+eigen decomposit eigendecomposit
+link determin getdetermin determin getdetermin method ad
+href http wikipedia org wiki eigendecomposit matrix wikipedia
+multipli transpos equal ident matrix
+link real eigenvalu getrealeigenvalu real eigenvalu getrealeigenvalu link imag eigenvalu getimageigenvalu
+version
+support gener real matric symmetr symmetr
+eigenvector ad
+time time
+calcul eigen decomposit real matrix
+imag eigenvalu imageigenvalu length
+handbook automat comput vol linear algebra springer verlag
+matrix orthogon multipli multipli transpos
+implement base paper drubrul martin
+eigen decomposit matrix set matric
+method perform check element
+york
+column repres eigenvector sens
+complex eigenvalu hascomplexeigenvalu
+multipli equal multipli
+link imag eigenvalu getimageigenvalu arrai return code
+org apach common math3 linear
+code eigen valu complex code
+similar spirit code eigenvalu decomposit eigenvaluedecomposit code
+href http math nist gov javanumer jama jama
+symmetr eigenvalu matrix diagon eigenvector
+imag eigenvalu getimageigenvalu method pick singl eigenvalu ad
+link solver getsolv solver getsolv method ad
+chang concret
+href http mathworld wolfram eigen decomposit eigendecomposit html math world mathworld
+link getvt getvt method ad
+lambda

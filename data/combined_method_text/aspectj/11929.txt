@@ -1,0 +1,27 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+map binari file compil getbinaryfilestocompil time firsttim public map string list ucf getbinaryfilestocompil boolean firsttim
+success build time lastsuccessfulbuildtim build config buildconfig increment maybeincrement
+binari sourc file binarysourcefil
+increment
+map weav toweav hash map hashmap
+time firsttim
+list ad modifi addedormodifi arrai list arraylist
+ad modifi addedormodifi add addal ad binari file addedbinaryfil
+ad modifi addedormodifi add addal modifi binari file getmodifiedbinaryfil
+iter iter ad modifi addedormodifi iter iter hasnext
+build config ajbuildconfig binari sourc file binarysourcefil bsf build config ajbuildconfig binari sourc file binarysourcefil iter
+unwoven class file unwovenclassfil ucf creat unwoven class file createunwovenclassfil bsf
+ucf
+list ucf arrai list arraylist
+ucf add ucf
+add depend adddependentsof ucf class getclassnam
+binari sourc file binarysourcefil put bsf bin src binsrc path getpath ucf
+list cf arrai list arraylist
+cf add class file getclassfilefor ucf
+input class file sourc inputclassfilesbysourc put bsf bin src binsrc path getpath cf
+weav toweav put bsf bin src binsrc path getpath ucf
+delet binari class file deletebinaryclassfil
+return empti set bit
+weav toweav

@@ -1,0 +1,13 @@
+set round mode setroundingmod round mode roundingmod mode
+dfp field dfpfield field dfp
+mode rmode mode
+version
+field decim float point instanc
+set link round mode roundingmod round half
+set round mode
+belong current link dfp field dfpfield system
+affect futur calcul
+note round mode common link dfp instanc
+param mode desir round mode
+version revis date
+org apach common math dfp

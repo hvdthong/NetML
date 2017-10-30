@@ -1,0 +1,12 @@
+solv func min max start startvalu
+param func type function solv
+solver
+inherit doc inheritdoc
+solv dosolv
+initi
+setup min max start startvalu
+provid implement function gener
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+perform comput
+org apach common math analysi solver
+version revis date wed nov

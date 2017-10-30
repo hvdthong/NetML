@@ -1,0 +1,29 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+decod string back byte arrai
+param byte byte arrai convert
+param uncompress gzip uncompress stream byte
+decod string uncompress except ioexcept
+char char arrai tochararrai
+char arrai reader chararrayread car char arrai reader chararrayread char
+java reader javaread java reader javaread car
+byte arrai output stream bytearrayoutputstream bo byte arrai output stream bytearrayoutputstream
+read
+bo write
+bo close
+car close
+close
+byte bo byte arrai tobytearrai
+uncompress
+gzip input stream gzipinputstream gi gzip input stream gzipinputstream byte arrai input stream bytearrayinputstream byte
+tmp byte length byte tmp byte byte length rough estim
+count
+gi read
+tmp count
+byte count
+system arraycopi tmp byte count
+byte

@@ -1,0 +1,20 @@
+pre
+euler integr eulerintegr
+org apach common math od nonstiff
+integr ordinari differenti equat
+rung kutta method
+classic rung kutta integr classicalrungekuttaintegr rung kutta integr rungekuttaintegr
+version revis date
+step
+midpoint integr midpointintegr
+classic rung kutta integr classicalrungekuttaintegr step
+classic rung kutta step interpol classicalrungekuttastepinterpol step
+method explicit rung kutta method butcher arrai
+simpl constructor
+eighth integr threeeighthesintegr
+gill integr gillintegr
+classic rung kutta integr classicalrungekuttaintegr
+build fourth order rung kutta integr
+classic fourth order rung kutta
+param step integr step
+classic rung kutta

@@ -1,0 +1,77 @@
+d2fdxdy len xlen len ylen len zlen
+partial deriv wrt wrt
+tricub spline interpol tricubicsplineinterpol
+d2fdydz len xlen len ylen len zlen
+inherit doc inheritdoc
+dfdz partial deriv partialderivativei
+fval fvalxi len zlen len xlen len ylen
+xval xval yval yval zval zval
+d2fdxdy partial deriv partialderivativexi
+line len ylen construct spline
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept data
+d2fdzdx len xlen len ylen len zlen
+creat interpol spline
+xval
+tricub spline interpol function tricubicsplineinterpolatingfunct xval yval zval fval
+bicub spline interpol function bicubicsplineinterpolatingfunct spline ysplinezx
+math except mathexcept illeg argument except illegalargumentexcept
+tricub spline interpol function tricubicsplineinterpolatingfunct interpol xval
+line len xlen construct spline
+spline xsplineyz bsi interpol yval zval fval
+fval fvalzx len ylen len zlen len xlen
+fval
+len ylen
+spline ysplinezx bsi interpol zval xval fval fvalzx
+len zlen
+xxx formula
+version revis date
+math util mathutil check order checkord zval
+fval length len zlen
+len xlen
+dimens mismatch except dimensionmismatchexcept fval length len zlen
+index nextindex len zlen
+bicub spline interpol function bicubicsplineinterpolatingfunct len xlen
+sampl order tuplet
+d3fdxdydz fval fval
+index nextindex len ylen
+yval
+d2fdxdy d2fdzdx d2fdydz
+math util mathutil check order checkord yval
+dimens mismatch except dimensionmismatchexcept xval length fval length
+fval fval
+bicub spline interpol function bicubicsplineinterpolatingfunct len ylen
+fval length len ylen
+zval
+gener tricub interpol function
+line len zlen construct spline
+d2fdydz partial deriv partialderivativexi
+bicub spline interpol bicubicsplineinterpol bsi bicub spline interpol bicubicsplineinterpol
+bicub spline interpol function bicubicsplineinterpolatingfunct spline zsplinexi
+org apach common math analysi interpol
+d2fdzdx partial deriv partialderivativexi
+data except nodataexcept
+d3fdxdydz len xlen len ylen len zlen
+dfdx dfdy dfdz
+fval fvalxi xval yval zval
+dfdx len xlen len ylen len zlen
+d3fdxdydz
+fval fvalxi
+xval length fval length
+previou index previousindex
+dfdy len xlen len ylen len zlen
+dfdy partial deriv partialderivativei
+len zlen zval length
+fval fvalzx xval yval zval
+spline zsplinexi bsi interpol xval yval fval fvalxi
+partial cross deriv
+len xlen xval length
+xval length yval length zval length fval length
+len ylen yval length
+dfdz len xlen len ylen len zlen
+fval fvalzx
+bicub spline interpol function bicubicsplineinterpolatingfunct len zlen
+dfdx partial deriv partialderivativex
+dimens mismatch except dimensionmismatchexcept fval length len ylen
+index nextindex len xlen
+math util mathutil check order checkord xval
+bicub spline interpol function bicubicsplineinterpolatingfunct spline xsplineyz

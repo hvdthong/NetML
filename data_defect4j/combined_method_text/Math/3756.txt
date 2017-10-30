@@ -1,0 +1,8 @@
+basic implement method
+real vector realvector map expm1 mapexpm1
+org apach common math linear
+inherit doc inheritdoc
+copi map expm1 mapexpm1toself
+abstract real vector abstractrealvector real vector realvector
+link real vector realvector
+version revis date

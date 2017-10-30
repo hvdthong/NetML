@@ -1,0 +1,10 @@
+org aspectj weaver
+extens url class loader extensibleurlclassload url class loader urlclassload
+class find class findclass string class found except classnotfoundexcept
+system err println extensibleurlclassload findclass
+byte byte getbyt
+byte
+defin class defineclass byte
+class found except classnotfoundexcept
+except ioexcept
+class found except classnotfoundexcept

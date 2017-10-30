@@ -1,0 +1,22 @@
+arrai length
+multivari real interpol multivariaterealinterpol
+org apach common math except dimens mismatch except dimensionmismatchexcept
+arrai dimens consist
+org apach common math except math illeg argument except mathillegalargumentexcept
+argument violat assumpt made interpol
+version revis date
+param yval valu interpol point
+multivari real function multivariaterealfunct interpol xval yval
+code xval compon interpol point
+argument code
+org apach common math except data except nodataexcept
+org apach common math except null argument except nullargumentexcept
+point code dimens space
+function interpol data set
+org apach common math analysi interpol
+code xval compon interpol
+comput interpol function data set
+algorithm
+code code xval compon
+interfac repres univari real interpol function
+param xval argument interpol point

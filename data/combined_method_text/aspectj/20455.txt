@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+add pointcut definit addpointcutdefinit resolv pointcut definit resolvedpointcutdefinit
+bitflag damag
+len pointcut length
+resolv pointcut definit resolvedpointcutdefinit ret resolv pointcut definit resolvedpointcutdefinit len
+system arraycopi pointcut ret len
+ret len
+pointcut ret

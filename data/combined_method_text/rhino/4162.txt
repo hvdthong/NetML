@@ -1,0 +1,299 @@
+enumnext
+optfunctionnod optfunctionnod optfunctionnod optfunctionnod
+code code code code code code code code code code code code code code code code code code code code code code code code code code code code
+bitxor
+variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc
+queri
+consum
+lsh
+directcal directcal
+truetarget truetarget truetarget
+aload
+bitor
+callabl
+marklabel marklabel marklabel marklabel marklabel marklabel
+enterwith enterwith enterwith
+current current
+rel
+const const
+acquir acquir acquir acquir acquir acquir acquir acquir acquir acquir
+call call call call call call call call
+isnumb isnumb isnumb isnumb isnumb isnumb isnumb isnumb isnumb isnumb isnumb isnumb
+setnam setnam setnam
+fnindex fnindex
+specialcal specialcal specialcal specialcal specialcal specialcal
+bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod
+fncurrent fncurrent
+refget refget
+visitgetprop
+scriptorfn scriptorfn
+visitincdec
+lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg
+main
+local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local
+arrai arrai arrai arrai arrai arrai arrai arrai arrai
+toint32
+opt opt opt opt opt opt
+liter liter
+addinvok
+string string string string string string string string string string string string string string string string string string string
+fals fals fals fals fals fals fals fals fals fals fals fals fals fals fals fals
+dneg
+express express express express express express express express express express express express express express express express express express express express express express express express express express express express express express express express express express express
+setdefaultnamespac
+visitfunct
+visitsetprop
+getfirstchild getfirstchild
+elsetarget elsetarget elsetarget
+bit
+escxmltext
+afterhook afterhook afterhook
+mod
+instanceof
+setconstvar
+visitspecialcal
+dljava
+yield yield
+bad
+adjust
+leavewith leavewith
+generateifjump
+wrapregexp
+comma
+ifn
+mainclassnam
+compil
+node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node node
+set set set set set set set set set set set set set
+ixor
+specialref
+getelem
+invokestat
+visitoptimizedcal
+jump jump jump jump jump
+truegoto truegoto truegoto truegoto truegoto truegoto
+num num num
+aaload
+arg
+cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw
+stack stack stack stack stack stack stack
+visitstandardnew
+addpush addpush addpush addpush addpush addpush addpush addpush addpush addpush
+special special special special special special special special
+variabl variabl variabl variabl variabl variabl
+index index
+getintprop getintprop getintprop getintprop getintprop getintprop
+nameref nameref
+bindnam bindnam
+bodycodegen
+visitarrayliter
+token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token token
+prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop prop
+access
+delet
+leav leav
+badtre
+mul
+functionnod
+ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref ref
+method method method method method method
+refer
+signatur signatur signatur signatur signatur signatur
+javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript
+goto goto goto goto goto goto goto goto goto goto goto goto goto goto
+parent parent parent parent parent
+ddiv
+visittypeofnam
+gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener
+enum enum enum enum enum enum
+stmt stmt
+standard standard
+bodi
+bitand
+add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add
+drem
+shne
+put
+cnvt
+byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte
+visitstrictsetnam
+div div
+fnode
+precompil
+generatefunctionandthisobj
+convert
+obj obj obj
+getobjectindex
+thisobjloc
+addobjecttodoubl addobjecttodoubl
+label label label label label label label label label label label label label label label label
+codegen codegen codegen codegen codegen codegen codegen
+visitsetelem
+visitifjumprelop
+getcompiledregexpnam
+falsetarget falsetarget falsetarget falsetarget falsetarget falsetarget falsetarget
+implement
+block block
+load load load load load load load load load load load load load load load load load load load load load load load load load load load load
+visitgetvar
+getobjectelem
+point
+removeprop
+addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok
+defaultnamespac
+number number number
+pop pop pop
+except
+memberref memberref
+hook hook hook hook
+arraylit
+boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean
+wrapper
+regexp regexp regexp regexp regexp regexp regexp regexp regexp regexp regexp
+wrap wrap wrap wrap wrap
+generateyieldpoint
+ifthen ifthen ifthen
+precomput
+addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload
+contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc contextloc
+getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext getnext
+java java java java
+getfunctiontyp
+script script script script script script script script script script script script script script script script script script script script script script script script script script script script script
+setconst
+top top
+doubl doubl doubl doubl doubl doubl doubl doubl doubl doubl doubl
+visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+bitnot
+reentrant
+mark mark mark mark mark mark
+int int int int int int int int int
+pushnumberasobject
+visitsetvar
+statement statement statement
+dup dup
+functionobj
+refset
+type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type type
+po
+store
+function function function function function function function function function function function function function function
+ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava ljava
+rsh
+unexpect
+namespac
+getexistingintprop getexistingintprop
+specialtyp specialtyp specialtyp
+var var var
+flag flag
+getpropnowarn
+child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child child
+getvar
+scriptruntim scriptruntim
+true true true true true true true true true true true true
+bug
+methodnam methodnam methodnam methodnam methodnam methodnam
+init init
+toboolean toboolean
+target target target target target target target target target target target target target target target target target target
+dotqueri
+pushundefin
+expr expr
+remov
+ursh
+tree
+strict strict strict
+visitbitop
+invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok invok
+adddoublewrap adddoublewrap adddoublewrap
+visitarithmet visitarithmet visitarithmet
+typeof typeof
+dadd
+fun
+exist exist
+withexpr
+dec dec
+getstat getstat getstat getstat getstat
+delprop
+getprop getprop getprop
+del del
+creat
+getlocalblockregist getlocalblockregist
+getfield
+scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl
+dmul
+sheq
+thisfn
+falsegoto falsegoto falsegoto falsegoto falsegoto falsegoto
+initstmt initstmt
+void
+varobj
+acquirelabel acquirelabel acquirelabel acquirelabel acquirelabel acquirelabel acquirelabel acquirelabel acquirelabel acquirelabel
+null null null
+visitsetnam
+adjuststacktop
+gettyp gettyp gettyp gettyp gettyp gettyp
+refdel
+ifeq ifeq
+generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress generateexpress
+charsequ charsequ charsequ charsequ
+getstacktop
+typeofnam typeofnam
+make
+addjumpedbooleanwrap addjumpedbooleanwrap
+getdoubl
+enumid
+escxmlattr
+member member member member member member member member member member member member member
+field field field field field field
+dsub
+regist regist
+addoptruntimeinvok addoptruntimeinvok
+scriptregexploc
+aconst aconst
+setvar
+escapetextvalu
+mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla
+getstr getstr getstr
+thisobj
+exec
+optim optim
+isnam isnam
+org org
+object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object object
+visitifjumpeqop
+escapeattributevalu
+kit
+codebug
+push push push push push push push push push push push
+visitstandardcal
+putintprop
+visitobjectliter
+arithmet arithmet arithmet
+ifels ifels
+neg neg
+arraycomp
+class
+generatecallargarrai
+objectlit
+lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang lang
+visitdotqueri
+context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context context
+membertypeflag membertypeflag
+callref
+bind bind
+funobjloc
+ofn ofn ofn
+elem
+setelem setelem setelem
+setprop setprop setprop
+runtimeexcept
+visitsetconstvar
+runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim runtim
+enter enter enter
+undefin
+generatestat generatestat generatestat
+left
+i2d
+dot
+visitsetconst

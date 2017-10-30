@@ -1,0 +1,70 @@
+pre
+nordsieck multistep shift row repres step advanc
+version
+classic represent previou deriv nordsieck
+repres correct state
+param step nstep number step multistep method
+appli invers transform
+comput formula exact
+big fraction bigfract big fraction bigfract step nstep
+adam nordsieck transform adamsnordsiecktransform step nstep
+simpl constructor
+taylor seri formula show index offset
+arrai fill shift shiftedp big fraction bigfract
+absolut matrix
+observ method similar updat formula case
+link adam moulton integr adamsmoultonintegr adam moulton method predict nordsieck vector
+depend handl transform
+result taylor seri formula
+updat matrix util matrixutil big fraction matrix real matrix bigfractionmatrixtorealmatrix big supdat bigmsupd
+deriv handl
+shift shiftedp shift shiftedp
+big fraction bigfract shift shiftedp big bigp data getdata
+sum
+y''' deriv
+field decomposit fieldludecomposit big fraction bigfract big bigp solver getsolv
+defin scale deriv step
+link adam moulton integr adamsmoultonintegr adam moulton integr convert
+arrai fill big fraction bigfract
+represent nordsieck vector
+degre polynomi
+previou definit classic represent multistep method
+field decomposit solver fielddecompositionsolv big fraction bigfract solver psolver
+link adam bashforth integr adamsbashforthintegr adam bashforth
+step comput nordsieck vector step
+vector time matrix built
+row shift matrix lower left part ident matrix
+plusmn
+field matrix fieldmatrix big fraction bigfract big supdat bigmsupd
+big bigc1 doublevalu
+adam nordsieck transform adamsnordsiecktransform
+shift shiftedp big fraction bigfract step nstep
+deriv
+shift shiftedp length
+shift row
+solver psolver solv array2 row field matrix array2drowfieldmatrix big fraction bigfract shift shiftedp
+y'' deriv
+represent higher order scale deriv
+omit index notat clariti
+transform nordsieck vector adam integr
+org apach common math3 od nonstiff
+classic represent nordsieck vector step end transform
+term
+vector matrix depend state
+updat coeffici comput combin transform
+solv arrai field vector arrayfieldvector big fraction bigfract arrai toarrai
+upper repres
+convert coeffici
+predict state lower
+field matrix fieldmatrix big fraction bigfract big bigp build buildp step nstep
+big fraction bigfract big bigc1 solver psolver
+defin
+exclud comput
+link adam bashforth integr adamsbashforthintegr adam bashforth method nordsieck vector
+chang formula comput similar transform
+previou formula valu comput transform
+step nstep
+predict vector correct vector comput
+comput exact coeffici
+higher degre scale deriv step handl
+classic represent nordsieck vector step start result matrix simpli

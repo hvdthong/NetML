@@ -1,0 +1,10 @@
+org aspectj apach bcel gener
+dstore store doubl local variabl
+pre stack word1 word2 pre
+version dstore java aclement exp
+author href mailto marku dahm berlin dahm
+dstore store instruct storeinstruct
+store doubl local variabl
+param index local variabl
+dstore
+org aspectj apach bcel constant dstore org aspectj apach bcel constant dstore

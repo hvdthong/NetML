@@ -1,0 +1,14 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb inlin access method method inlineaccessmethodformethod unresolv type unresolvedtyp aspect type aspecttyp resolv member resolvedmemb method
+unresolv type unresolvedtyp param type paramtyp method paramet type getparametertyp
+method static isstat
+param type paramtyp unresolv type unresolvedtyp insert method declar type getdeclaringtyp param type paramtyp
+resolv member impl resolvedmemberimpl member method
+aspect type aspecttyp
+public static public static public static privileg super access
+modifi public method isstat modifi static
+method return type getreturntyp
+mangler namemangl inlin access method method inlineaccessmethodformethod method getnam
+method declar type getdeclaringtyp aspect type aspecttyp
+param type paramtyp method except getexcept

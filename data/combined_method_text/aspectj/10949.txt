@@ -1,0 +1,36 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+weav except ioexcept
+ensur weaver state set correctli
+iter iter result pend weav resultspendingweav iter iter hasnext
+interim compil result interimcompilationresult iresult interim compil result interimcompilationresult iter
+iresult unwoven class file unwovenclassfil length
+weaver add class file addclassfil iresult unwoven class file unwovenclassfil
+weaver set batch weav setisbatchweav batch compil isbatchcompil
+weaver prepar weav prepareforweav
+weaver reweav world needtoreweaveworld
+batch compil isbatchcompil
+forc full recompil sourc
+increment compil state incrementalcompilationst forc batch build time forcebatchbuildnexttimearound
+addallknownclassestoweavelist batch list
+result pend weav resultspendingweav add addal binari sourc getbinarysourcesfrom binari sourc set full weav binarysourcesetforfullweav
+map binari sourc add binarysourcestoadd binari sourc provid binarysourceprovid binari sourc weav getbinarysourcesforthisweav
+result pend weav resultspendingweav add addal binari sourc getbinarysourcesfrom binari sourc add binarysourcestoadd
+isbatchcompil
+resultspendingweav addal getbinarysourcesfrom binarysourcesetforfullweav
+pass compil set class injar inpath
+weaver needtoreweaveworld
+addallknownclassestoweavelist
+resultspendingweav addal getbinarysourcesfrom binarysourcesetforfullweav
+weaver weav weaver adapt weaveradapt weaver messag handler weavermessagehandl progress listen progresslisten
+point weav finish clear cach
+cflow pointcut cflowpointcut clear cach clearcach
+weaver messag handler weavermessagehandl weaver messag handler weavermessagehandl
+weaver messag handler weavermessagehandl weaver messag handler weavermessagehandl set current result setcurrentresult
+weaver weav complet allweavingcomplet
+weaver tidi tidyup
+messag handler imessagehandl imh weaver world getworld messag handler getmessagehandl
+imh weaver messag handler weavermessagehandl
+weaver messag handler weavermessagehandl imh reset compil resetcompil

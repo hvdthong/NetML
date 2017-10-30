@@ -1,0 +1,31 @@
+org aspectj weaver reflect
+find annot present object
+java15 annot finder java15annotationfind annot finder annotationfind arg finder argnamefind
+annot annotationx annot type getannotationoftyp unresolv type unresolvedtyp type oftyp member member onmemb
+member onmemb access object accessibleobject
+runtim visibl class visibl annot
+bail bcel chuck javaclass hog
+memori
+java class javaclass bcel repositori bcelrepositori load class loadclass member onmemb declar class getdeclaringclass
+org aspectj apach bcel classfil annot annot ann org aspectj apach bcel classfil annot annot
+member onmemb method
+org aspectj apach bcel classfil method bcel method bcelmethod method getmethod method member onmemb
+bcel method bcelmethod
+pr220430
+system err println unexpect problem java15annotationfind retriev annot method onmemb getnam class getclassnam
+ann bcel method bcelmethod annot getannot
+member onmemb constructor
+org aspectj apach bcel classfil method bcel con bcelcon method getmethod constructor member onmemb
+ann bcel con bcelcon annot getannot
+member onmemb field
+org aspectj apach bcel classfil field bcel field bcelfield field getfield field member onmemb
+ann bcel field bcelfield annot getannot
+answer cach hold memori
+bcel repositori bcelrepositori clear
+ann ann org aspectj apach bcel classfil annot annot
+convert annot type
+ann length
+ann type signatur gettypesignatur equal type oftyp signatur getsignatur
+annot annotationx ann world
+class found except classnotfoundexcept cnf cnfex
+reflect

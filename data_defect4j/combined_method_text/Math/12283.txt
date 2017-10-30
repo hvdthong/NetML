@@ -1,0 +1,14 @@
+interv set intervalsset bsp tree bsptree euclidean1 euclidean1d tree
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+code boolean true code boolean fals
+code boolean attribut repres insid statu
+tree
+repres region set interv
+leaf node bsp tree
+version
+recommend predefin constant
+org apach common math3 geometri euclidean on
+param tree insid bsp tree repres interv set
+cell order avoid build small object
+build interv set insid bsp tree
+cell insid cell

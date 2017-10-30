@@ -1,0 +1,24 @@
+param checker converg checker
+solv squar problem solv normal equat
+param uselu code normal equat solv
+gauss newton squar solver
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+version gauss newton optim gaussnewtonoptim java 14z
+optim provid move
+deprec class interfac deprec
+link optim optim data optimizationdata optim
+version
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim
+checker
+link org apach common math3 fit leastsquar
+org apach common math3 optim nonlinear vector jacobian
+decomposit solv
+decomposit solv normal equat decomposit
+uselu uselu
+gauss newton optim gaussnewtonoptim uselu
+decomposit
+converg checker convergencecheck point vector pair pointvectorvaluepair checker
+linear problem iter decomposit
+faster decomposit robust difficult problem
+constraint support call
+math

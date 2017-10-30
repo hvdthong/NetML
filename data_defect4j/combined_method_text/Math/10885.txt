@@ -1,0 +1,22 @@
+org apach common math3 analysi solver
+point
+flo function lower
+version
+check interv bound bracket root
+param function function
+function
+flo fhi flo fhi
+util routin link univari solver univariatesolv object
+univari solver util univariatesolverutil
+code function valu opposit sign
+null argument except nullargumentexcept code function code
+bracket isbracket univari function univariatefunct function
+opposit sign endpoint
+param upper upper endpoint
+lower
+fhi function upper
+upper
+param lower lower endpoint
+valu endpoint equal function take
+null argument except nullargumentexcept local format localizedformat function
+null argument except nullargumentexcept

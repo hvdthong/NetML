@@ -1,0 +1,15 @@
+org aspectj weaver loadtim definit
+fixm doc concret aspect
+author href mailto alex gnilux dot alexandr vasseur
+document parser documentpars default handler defaulthandl
+input sourc inputsourc resolv entiti resolveent string public publicid string system systemid sax except saxexcept
+public publicid equal dtd public dtd public public publicid equal dtd public alia dtd public alia
+input stream inputstream dtd stream dtd stream
+system err println
+aspectj warn read dtd
+public publicid
+input sourc inputsourc
+system err println
+aspectj warn unknown dtd
+public publicid
+dtd public dtd public

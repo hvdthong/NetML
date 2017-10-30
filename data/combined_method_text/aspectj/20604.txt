@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+shadow enclos shadow getenclosingshadow
+enclos shadow enclosingshadow

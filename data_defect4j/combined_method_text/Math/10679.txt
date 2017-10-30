@@ -1,0 +1,50 @@
+overrid
+line len xlen construct polynomi
+org apach common math3 analysi interpol
+inherit doc inheritdoc
+xval length yval length fval length
+fitter yfitter add observ point addobservedpoint yval fval
+degre xdegre
+knot xval yval grid calcul correct
+poli ypolyx polynomi function polynomialfunct fitter xfitter fit degre xdegre
+math arrai matharrai check order checkord yval
+gener bicub interpol function
+polynomi function polynomialfunct poli xpolyi
+poli xpolyi polynomi function polynomialfunct fitter yfitter fit
+initi guess fit coeffici
+respect variabl fit arrai fval
+polynomi fit
+poli ypolyx polynomi function polynomialfunct fitter xfitter fit
+fval
+len ylen
+prior gener interpol function input smooth
+version
+line len ylen construct polynomi
+fitter yfitter clear observ clearobserv
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol
+len xlen
+dimens mismatch except dimensionmismatchexcept monoton sequenc except nonmonotonicsequenceexcept
+degre ydegre
+valu fval
+data except nodataexcept null argument except nullargumentexcept
+interpol xval yval fval
+fval len xlen len ylen
+math arrai matharrai check order checkord xval
+fitter xfitter add observ point addobservedpoint xval fval
+yval
+dimens mismatch except dimensionmismatchexcept xval length fval length
+polynomi function polynomialfunct poli ypolyx
+fval length len ylen
+dimens mismatch except dimensionmismatchexcept
+fval xval
+dimens mismatch except dimensionmismatchexcept fval length len ylen
+poli xpolyi polynomi function polynomialfunct fitter yfitter fit degre ydegre
+polynomi function polynomialfunct poli xpolyi polynomi function polynomialfunct len xlen
+xval length fval length
+bicub spline interpol function bicubicsplineinterpolatingfunct interpol xval
+fitter xfitter clear observ clearobserv
+len xlen xval length
+len ylen yval length
+polynomi function polynomialfunct poli ypolyx polynomi function polynomialfunct len ylen
+data except nodataexcept
+fval yval

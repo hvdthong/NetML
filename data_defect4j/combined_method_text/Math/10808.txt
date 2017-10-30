@@ -1,0 +1,30 @@
+org apach common math3 analysi solver
+univari solver univariatesolv
+base univari solver baseunivariatesolv func univari function univariatefunct
+allow number evalu exceed
+solver requir bracket handl
+link univari solver univariatesolv link polynomi solver polynomialsolv link
+interfac univari real rootfind algorithm
+implement search interv
+math illeg argument except mathillegalargumentexcept
+polynomi solver polynomialsolv
+version
+param max eval maxev maximum number evalu
+intend apach common math
+param max upper bound interv
+solv max eval maxev func min max start startvalu
+function
+solver requir interv bracket singl root
+param start startvalu start
+endpoint root
+math illeg argument except mathillegalargumentexcept evalu except toomanyevaluationsexcept
+org apach common math3 except math illeg argument except mathillegalargumentexcept
+param function solv
+param min lower bound interv
+org apach common math3 except evalu except toomanyevaluationsexcept
+differenti univari solver differentiableunivariatesolv
+solv interv start code start startvalu
+param func type function solv
+argument satisfi requir solver
+librari regular user reli specif interfac
+evalu except toomanyevaluationsexcept

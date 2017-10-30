@@ -1,0 +1,18 @@
+base integr
+fit initi guess initialguess
+amplitud
+phase phi code co omega phi code
+version harmon fitter harmonicfitt java 14z
+harmon fitter harmonicfitt curv fitter curvefitt harmon oscil harmonicoscil parametr
+org apach common math3 fit
+class curv fit special sinusoid
+search squar estim initi rough guess
+observ point order
+paramet harmon function fit
+param initi guess initialguess guess valu order
+phase
+fit harmon oscil harmonicoscil parametr initi guess initialguess
+harmon fit simpl curv fit
+estim coeffici amplitud pulsat omega
+fit harmon function observ point
+angular frequenc

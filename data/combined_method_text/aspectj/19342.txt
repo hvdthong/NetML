@@ -1,0 +1,18 @@
+org aspectj weaver
+refer type repres 'real' type primit arrai
+real type java util list referencetyp deleg
+underli artifact eclips artifact
+bcel artifact type repres raw type
+gener form generictyp field set point
+gener type parameter type gener type
+set point gener form
+refer type referencetyp resolv type resolvedtyp
+resolv member resolvedmemb declar pointcut getdeclaredpointcut
+parameter pointcut parameterizedpointcut parameter pointcut parameterizedpointcut
+parameter type isparameterizedtyp
+resolv member resolvedmemb deleg pointcut delegatepointcut deleg declar pointcut getdeclaredpointcut
+parameter pointcut parameterizedpointcut resolv member resolvedmemb deleg pointcut delegatepointcut length
+deleg pointcut delegatepointcut length
+parameter pointcut parameterizedpointcut deleg pointcut delegatepointcut parameter parameterizedwith type member parameter gettypesformemberparameter parameter type isparameterizedtyp
+parameter pointcut parameterizedpointcut
+deleg declar pointcut getdeclaredpointcut

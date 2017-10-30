@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+add standard synthet wish ajsynthet attribut
+param methodgen
+param makejavasynthet true standard synthet attribut set invis user
+flag synthet flagassynthet lazi method gen lazymethodgen method gen methodgen make java synthet makejavasynthet
+make java synthet makejavasynthet
+method gen methodgen make synthet makesynthet
+method gen methodgen add attribut addattribut
+bcel attribut bcelattribut bcel attribut bcelattribut
+attribut ajattribut synthet ajsynthet
+method gen methodgen enclos class getenclosingclass constant pool gen getconstantpoolgen

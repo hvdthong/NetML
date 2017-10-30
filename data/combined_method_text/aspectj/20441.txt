@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+sourc locat isourceloc sourc locat getsourceloc
+sourc locat isourceloc ret sourc locat getsourceloc
+ret ret line getlin declar line number info hasdeclarationlinenumberinfo
+let
+sourc context isourcecontext isc sourc context getsourcecontext
+isc ret isc make sourc locat makesourceloc declar line number getdeclarationlinenumb declar offset getdeclarationoffset
+ret sourc locat sourceloc declar line number getdeclarationlinenumb
+ret

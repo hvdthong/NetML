@@ -1,0 +1,47 @@
+author stephen colebourn
+set
+date midnight datemidnight subtract minu month minusmonth
+text
+intern standard compat modern gregorian calendar
+month
+link local date locald repres date time zone
+add subtract
+date midnight datemidnight defin date time compon fix midnight
+date midnight datemidnight minu month minusmonth month
+datetim minu increas month
+date midnight datemidnight subtract field ad withfieldad durat field type durationfieldtyp month
+code dai month dayofmonth code
+time zone midnight local utc time zone
+maximum minimum valu
+techniqu access method
+field
+milli withmilli instant
+millisecond instant convert date time field
+chronolog code iso chronolog isochronolog code agre
+code dai month getdayofmonth code
+datetim instanc immut unaffect method call
+repres dai link interv
+individu field queri wai
+numer
+link date time datetim repres full date time
+dai
+instant chronolog getchronolog month subtract milli getmilli month
+chronolog intern chronolog determin
+daylight save time forward shift skip midnight hour
+import emphasis repres time midnight
+date midnight datemidnight thread safe immut provid chronolog
+standard chronolog class suppli thread safe immut
+deprec time midnight exist time zone
+date midnight datemidnight
+note midnight defin start dai
+link date time datetim time start dai withtimeatstartofdai instant
+pre
+param month amount month subtract neg
+line ident effect
+date midnight datemidnight subtract minu period month
+return copi date minu number month
+start dai
+org joda time
+link local date locald suitabl
+round
+repres dai millisecond instant midnight

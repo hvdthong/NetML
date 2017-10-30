@@ -1,0 +1,49 @@
+simpl constructor
+org apach common math od nonstiff
+isbn
+param vec absolut toler vecabsolutetoler allow absolut error
+evalu step interpol
+problem refer book hairer norsett wanner
+integr direct forward backward step
+comput high order formula stepsiz control
+param max step maxstep maxim step posit backward
+smaller
+brussel problem sever difficulti
+solv ordinari differenti equat springer verlag
+integr step smaller
+method function evalu step integr
+order integr order error estim
+explain edit volum nonstiff
+accept step size larg
+version revis date
+overcost interpol evalu
+build eighth order dormand princ integr step bound
+evalu step includ integr
+param vec rel toler vecrelativetoler allow rel error
+vec absolut toler vecabsolutetoler
+evalu interpol
+fsal stage cost
+differenti equat
+method staticc statica staticb
+interpol evalu integr
+param min step minstep minim step sign irrelev
+vec rel toler vecrelativetoler
+interpol method
+method base method dormand princ
+appli problem discontinu modif
+dormand prince853 step interpol dormandprince853stepinterpol
+param min step minstep minim step posit backward
+automat step initi continu output
+min step minstep max step maxstep vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler
+dormand prince853 integr dormandprince853integr
+integr embed rung kutta integr
+dormand princ integr ordinari
+3rd order correct modif introduc
+dormand prince853 integr dormandprince853integr min step minstep max step maxstep
+modifi hairer wanner 5th order error estim
+param max step maxstep maxim step sign irrelev
+origin method fail case wrong step
+integr
+dormand prince853 integr dormandprince853integr embed rung kutta integr embeddedrungekuttaintegr
+method static static static
+order local extrapol mode solut

@@ -1,0 +1,17 @@
+org apach common math util
+open int field hash map openinttofieldhashmap field element fieldel serializ
+param type field element
+smaller memori overhead standard code java util map code
+grow tabl shouldgrowt
+version revis date sat feb
+link iter fail fast
+special iter return
+version
+size mask load factor
+version revis date
+dedic map integ field element fieldel
+tabl grow
+code concurr modif except concurrentmodificationexcept code detect map
+check tabl grow due increas size
+modifi iter
+open address map field element fieldel

@@ -1,0 +1,25 @@
+org aspectj apach bcel util
+convert method field html file
+version methodhtml java aclement exp
+author href mailto marku dahm berlin dahm
+method html methodhtml org aspectj apach bcel constant
+method html methodhtml string dir string class
+method method field field
+constant html constanthtml constant html attribut html attributehtml attribut html except ioexcept
+class class
+attribut html attribut html
+constant html constant html
+file print writer printwrit file output stream fileoutputstream dir class method html
+file println html bodi bgcolor c0c0c0 tabl border
+file println align left access nbsp flag align left type
+align left field nbsp
+field length
+write field writefield field
+file println tabl
+file println tabl border align left access nbsp flag
+align left return nbsp type align left method nbsp
+align left argument
+method length
+write method writemethod method
+file println tabl bodi html
+file close

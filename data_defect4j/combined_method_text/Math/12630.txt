@@ -1,0 +1,11 @@
+except math illeg argument except mathillegalargumentexcept point equal
+math illeg argument except mathillegalargumentexcept
+line sublin vector3 vector3d start vector3 vector3d end
+org apach common math3 geometri euclidean threed
+repres subset link line
+param start start point
+creat line endpoint
+version
+param end end point
+line sublin
+line start end build interv set buildintervalset start end

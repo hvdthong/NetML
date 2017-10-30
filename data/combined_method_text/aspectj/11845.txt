@@ -1,0 +1,39 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+return null aspectjrt jar present correct version
+return string messag indic problem
+string check jar checkrtjar build config ajbuildconfig build config buildconfig
+omit dev info
+version text equal version develop
+develop version test usefulli
+messageutil info holder run develop version aspectj compil
+build config buildconfig build config buildconfig full classpath getfullclasspath classpath
+string ret
+iter build config buildconfig full classpath getfullclasspath iter hasnext
+file file string
+pr112830 variat aspectjrt jar form aspectjrtxxxxxx jar
+file isfil getnam start startswith aspectjrt getnam end endswith jar
+string version
+manifest manifest jar file jarfil manifest getmanifest
+manifest
+ret manifest found absolut path getabsolutepath
+expect version text
+attribut attr manifest attribut getattribut org aspectj lang
+attr
+version attr getvalu attribut implement version implement version
+version
+version version trim
+assum user develop aspectjrt jar
+version develop equal version
+messageutil info holder
+run develop version aspectjrt jar
+getabsolutepath
+version text equal version
+ret bad version number found absolut path getabsolutepath
+expect version text found version
+except ioexcept ioe
+ret bad jar file found absolut path getabsolutepath error ioe
+return null return
+catch classpath error
+ret ret ret null return ret error found potenti match jar
+find aspectjrt jar classpath check make classpath string makeclasspathstr build config buildconfig

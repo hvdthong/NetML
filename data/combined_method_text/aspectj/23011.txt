@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pointcut withinpointcut pointcut
+equal object
+pointcut withinpointcut
+pointcut withinpointcut pointcut withinpointcut
+type pattern typepattern equal type pattern typepattern

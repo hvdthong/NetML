@@ -1,0 +1,31 @@
+overrid
+vector2 vector2d tmp
+creat line plane otherplan canon frame
+inherit doc inheritdoc
+org apach common math3 geometri euclidean threed
+half space side resp minu side
+hyperplan parallel
+plane subplan abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d
+resp minu side line
+plane plane thisplan plane hyperplan gethyperplan
+line cross line plane
+line split plane otherplan half plane
+orient consist orient instanc
+org apach common math3 geometri euclidean twod line line2 line2d
+org apach common math3 geometri euclidean twod line
+version
+vector2 vector2d plane thisplan space tosubspac inter space tospac vector1 vector1d
+tmp
+point check rel posit
+global plane otherplan offset getoffset plane thisplan
+line inter plane otherplan intersect plane thisplan
+side side hyperplan euclidean3 euclidean3d hyperplan
+repres hyperplan link plane
+vector3 vector3d cross crossp vector3 vector3d cross product crossproduct inter direct getdirect plane thisplan normal getnorm
+remain region getremainingregion side line2 line2d
+check side plane
+instanc half plane side
+plane plane otherplan plane hyperplan
+cross crossp dot product dotproduct plane otherplan normal getnorm
+inter
+global side minu global side side hyper

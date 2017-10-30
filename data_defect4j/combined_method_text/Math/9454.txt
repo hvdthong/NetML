@@ -1,0 +1,46 @@
+version
+org apach common math transform
+sampl univari real function univariaterealfunct
+comment method
+illeg argument except illegalargumentexcept number sampl posit
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+implement href http mathworld wolfram fast fourier transform fastfouriertransform html
+sampl
+sampl univari real function univariaterealfunct min max
+requir length data set power greatli simplifi
+interv divid equal section sampl point
+math except mathexcept illeg argument except illegalargumentexcept
+min
+point
+max min
+verifi interv verifyinterv min max
+coeffici expon equat list
+local format localizedformat posit number sampl
+version revis date
+param max upper bound interv
+sampl arrai
+illeg argument except illegalargumentexcept paramet invalid
+min max max min period
+speed code user pad data zero meet
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept number sampl posit
+requir flavor fft refer winograd
+min max
+sampl univari real function interv
+fast fourier transform transform dimension data set
+function evalu except functionevaluationexcept illeg argument except illegalargumentexcept
+param number sampl point
+requir
+number sampl posit
+chapter
+param min lower bound interv
+object
+univari real function univariaterealfunct min max
+refer appli numer linear algebra isbn
+math except mathexcept math relat error occur
+convent definit fft invers fft
+param function sampl
+fast fourier transform fastfouriertransform serializ
+function evalu except functionevaluationexcept function evalu
+comput discret fourier transform mathemat comput
+illeg argument except illegalargumentexcept
+min max note max sampl

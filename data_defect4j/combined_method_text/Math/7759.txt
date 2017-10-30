@@ -1,0 +1,16 @@
+decomposit solv
+decomposit solv normal equat decomposit
+linear problem iter decomposit
+param checker converg checker
+solv squar problem solv normal equat
+org apach common math optim gener
+gauss newton optim gaussnewtonoptim uselu
+faster decomposit robust difficult problem
+decomposit
+checker
+version
+param uselu code normal equat solv
+gauss newton squar solver
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim
+converg checker convergencecheck vectori point pair vectorialpointvaluepair checker
+uselu uselu

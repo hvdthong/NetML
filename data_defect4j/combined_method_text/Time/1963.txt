@@ -1,0 +1,19 @@
+calcul perform link chronolog
+link readabl partial readableparti getvalu calcul result
+author stephen colebourn
+method instanc variabl
+method link readabl partial readableparti size
+param index index retriev
+subclass implement
+field
+chronolog set utc time zone calcul
+abstract partial abstractparti
+link abstract partial abstractparti field getfield chronolog
+org joda time base
+date time field datetimefield field getfield index chronolog chrono
+index bound except indexoutofboundsexcept index invalid
+abstract partial abstractparti subclass mutabl thread safe
+param chrono chronolog
+abstract partial abstractparti standard base implement method
+readabl partial readableparti
+field specif index chronolog

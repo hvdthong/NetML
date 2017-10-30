@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+close
+fi fi close
+except ioexcept ioe
+except bcexcept close class file file getnam ioe
+fi

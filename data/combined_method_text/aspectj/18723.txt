@@ -1,0 +1,8 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+add fix crosscut member addfixedcrosscuttingmemb resolv type resolvedtyp aspect type aspecttyp
+member put aspect type aspecttyp aspect type aspecttyp crosscut member crosscuttingmemb
+clear cach clearcach

@@ -1,0 +1,29 @@
+author stephen colebourn
+cl
+field fieldnam
+member util memberutil access isaccess field
+request consid
+param forc access forceaccess scope restrict
+org apach common lang reflect
+author matt benson
+field
+version
+param field fieldnam field obtain
+field field cl declar field getdeclaredfield field fieldnam
+field util fieldutil
+field object
+code set access setaccess code method fals match field
+field declar field getdeclaredfield class cl string field fieldnam forc access forceaccess
+abil provid scope restrict code
+illeg argument except illegalargumentexcept field
+dormant reflect common sandbox compon
+facil care
+param cl reflect
+declar field getdeclaredfield
+util work field reflect adapt refactor
+forc access forceaccess
+access code field code break scope
+field except nosuchfieldexcept
+field set access setaccess
+programm field chang
+illeg argument except illegalargumentexcept

@@ -1,0 +1,35 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+lazi method gen lazymethodgen make dispatch makedispatch
+lazi class gen lazyclassgen gen ongen
+string dispatch dispatchnam
+resolv member resolvedmemb super method supermethod
+bcel world bcelworld world
+super issup
+type param type paramtyp bcel world bcelworld make bcel type makebceltyp super method supermethod paramet type getparametertyp
+type return type returntyp bcel world bcelworld make bcel type makebceltyp super method supermethod return type getreturntyp
+modifi modifi public
+gen ongen interfac isinterfac modifi modifi abstract
+lazi method gen lazymethodgen
+lazi method gen lazymethodgen
+modifi
+return type returntyp
+dispatch dispatchnam
+param type paramtyp
+unresolv type unresolvedtyp name getnam super method supermethod except getexcept
+gen ongen
+instruct list instructionlist bodi bodi getbodi
+gen ongen interfac isinterfac
+assert supermethod isstat
+instruct factori instructionfactori fact gen ongen factori getfactori
+po
+bodi append instruct factori instructionfactori creat createthi
+po
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+po param type paramtyp size getsiz
+super issup
+bodi append util creat super invok createsuperinvok fact world super method supermethod
+bodi append util creat invok createinvok fact world super method supermethod
+bodi append instruct factori instructionfactori creat return createreturn return type returntyp

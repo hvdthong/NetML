@@ -1,0 +1,17 @@
+org aspectj org eclips jdt core dom
+aspectdeclar dom ast node
+ajtypedeclar
+astnod call 'perclause'
+boolean call 'privileged'
+author ajh02
+aspect declar aspectdeclar type declar ajtypedeclar
+return list structur properti descriptor node type
+client modifi result
+param apilevel api level
+code ast jl ast code constant
+return list properti descriptor element type
+link structuralpropertydescriptor
+list properti descriptor propertydescriptor api level apilevel
+api level apilevel ast jls2 intern jls2 intern
+aspect properti descriptor aspectproperti descriptor
+aspect properti descriptor aspectproperti descriptor

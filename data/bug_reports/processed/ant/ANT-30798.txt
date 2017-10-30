@@ -1,0 +1,24 @@
+junit showoutput implementation grabs system system err
+org apache tools ant taskdefs optional junit junittestrunner creates
+junit framework test instance grabbing system system err
+result printed system system err constructor
+
+bad commons logging classes log4j
+instance field instantiated grabs system
+junittestrunner run called log output ant junit
+task console fact showoutput defaults false
+fix classes moving instantiation log
+setup method test case strutstestcase makes logger
+instantiation time test cases print logger
+output console fact
+href http jakarta apache org commons logging guide html developing 20with 20jcl
+documentation commons logger things
+surprised projects thing
+reasonable rely workarounds managed
+create hackish workaround making test case creates log
+setup method making test case run
+fix simple basically move code
+instantiates test case junittestrunner constructor
+part run calls suite run
+looked cvs ant code works
+tested ant

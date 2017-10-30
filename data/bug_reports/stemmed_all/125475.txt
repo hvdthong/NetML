@@ -1,0 +1,9 @@
+aspectj ajc compil empti pointcut
+error
+temp ajcsandbox ajctest27856 tmp testemptypointcutataspect java method annot pointcut abstract pointcut abstract
+compil aspect ajc fine javac
+aspect
+public class testemptypointcutataspect
+pointcut
+protect void scope
+

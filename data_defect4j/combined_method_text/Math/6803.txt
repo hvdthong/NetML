@@ -1,0 +1,21 @@
+pre
+euler integr eulerintegr
+org apach common math od nonstiff
+param interpol interpol copi copi deep
+step comput interpol equat consist
+linear interpol step
+interpol comput dens output insid
+euler step interpol eulerstepinterpol
+refer point step end
+copi arrai separ origin arrai
+version
+version revis date
+deriv comput step
+refer point step start
+integr scheme
+copi constructor
+theta belong evalu
+theta theta
+instanc
+interpol
+euler step interpol eulerstepinterpol euler step interpol eulerstepinterpol interpol

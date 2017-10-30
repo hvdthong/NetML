@@ -1,0 +1,9 @@
+dfp field dfpfield field dfp
+constant
+field decim float point instanc
+ln2
+version
+link dfp
+version revis date
+dfp ln2 getln2
+org apach common math dfp

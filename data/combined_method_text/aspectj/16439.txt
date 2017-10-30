@@ -1,0 +1,17 @@
+org aspectj intern tool build
+gather sampl code delimit start end sampl
+sourc file base directori
+code author code info
+pre start sampl anchornam anchortext
+sampl code
+end sampl anchornam
+pre
+anchornam uniqu
+hierarch wrt genu speci individu
+sampl gather samplegather
+sourc issourc file file
+file file file isfil file read canread
+string path file getnam lower case tolowercas
+string suffix sampl kind sourc suffix sourc suffix
+suffix length
+path end endswith suffix

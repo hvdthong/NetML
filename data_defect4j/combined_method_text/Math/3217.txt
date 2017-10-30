@@ -1,0 +1,21 @@
+overrid
+pars string produc link vector3 vector3d object
+user defin string number format compon configur
+prefix suffix separ replac
+return pars posit pars
+param sourc string pars
+vector3 vector3d pars string sourc pars posit parseposit po
+white space pars time prefix suffix
+param po input ouput pars paramet
+pars error vector
+version
+separ specif separ includ space
+vector3 format vector3dformat vector format vectorformat euclidean3 euclidean3d
+coordin
+format vector compon list format
+coordin pars coordin parsecoordin sourc po
+org apach common math geometri euclidean threed
+vector3 vector3d coordin coordin coordin
+charact format time input string
+pars link vector3 vector3d object
+close curli brace trail space

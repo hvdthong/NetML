@@ -1,0 +1,34 @@
+author stephen colebourn
+classnam end endswith
+author norm dean
+version
+convert jl style
+buffer classnamebuff append append classnam append
+code code
+string buffer stringbuff buffer classnamebuff string buffer stringbuff
+readabl type code code
+class util classutil
+string abbrevi string abbrevi map abbreviationmap classnam
+canon method variant work jvm name
+author gari gregori
+oper class reflect
+abbrevi
+param classnam
+classnam buffer classnamebuff string tostr
+null argument except nullargumentexcept classnam
+org apach common lang
+classnam string util stringutil delet whitespac deletewhitespac classnam
+string builder stringbuild buffer classnamebuff string builder stringbuild
+author tomasz blachowicz
+buffer classnamebuff append abbrevi
+classnam
+method document behaviour detail
+buffer classnamebuff append
+convert
+string canon tocanonicalnam string classnam
+handl invalid code code input
+null pointer except nullpointerexcept classnam
+notion code canon code includ human
+author alban peignier
+classnam classnam substr classnam length
+string abbrevi abbrevi map abbreviationmap classnam

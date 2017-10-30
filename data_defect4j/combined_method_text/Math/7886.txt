@@ -1,0 +1,21 @@
+pre
+extra decis variabl neg valu
+entri row column
+param row row index
+phase object function
+version
+amp decis variabl
+tableau entri getentri row column
+entri getentri row column
+rh hand side
+rh
+artifici variabl
+entri tableau
+org apach common math optim linear
+version revis date
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+param column column index
+tableau simplex method

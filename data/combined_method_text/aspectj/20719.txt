@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung field host mungefieldhost bcel class weaver bcelclassweav weaver method deleg type munger methoddelegatetypemung field host type munger fieldhosttypemung munger
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+gen type gettyp annot isannot gen type gettyp enum isenum
+signal error consequ wild type pattern
+appli shouldappli munger match weaver lazi class gen getlazyclassgen type gettyp aspect type aspecttyp
+resolv member resolvedmemb host ajc member maker ajcmembermak itd declar parent field itdatdeclareparentsfield
+weaver lazi class gen getlazyclassgen type gettyp
+munger signatur getsignatur type gettyp
+aspect type aspecttyp
+weaver lazi class gen getlazyclassgen add field addfield make field gen makefieldgen
+weaver lazi class gen getlazyclassgen
+host field getfield

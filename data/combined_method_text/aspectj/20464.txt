@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+signatur formal type paramet formaltypeparamet formal getallform
+ensur gener signatur unpack ensuregenericsignatureunpack
+formal resolut formalsforresolut
+signatur formal type paramet formaltypeparamet
+formal resolut formalsforresolut

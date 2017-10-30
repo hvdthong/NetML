@@ -1,0 +1,22 @@
+observ add observ
+fitter parametr univari real function
+find paramet
+add observ point addobservedpoint weight observ point weightedobservedpoint observ
+org apach common math3 fit
+deprec link abstract curv fitter abstractcurvefitt
+add observ point addobservedpoint
+link weight observ point weightedobservedpoint
+curv fitter curvefitt parametr univari function parametricunivariatefunct
+univari real function depend
+fit
+find paramet valu minim object
+squar problem
+param function fit
+observ point
+function sum
+add observ weight point sampl
+fit curv remain close set
+observ getobserv
+unknown paramet
+version curv fitter curvefitt java 14z
+param observ observ point add

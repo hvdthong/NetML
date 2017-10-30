@@ -1,0 +1,12 @@
+author stephen colebourn
+add month addmonth month
+add month number month period
+defin durat time queri modifi datetim field
+read writabl period readwritableperiod readabl period readableperiod
+arithmet except arithmeticexcept addit exce capac period
+implement mutabl
+param month number month
+org joda time
+provid advanc method
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support

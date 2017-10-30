@@ -1,0 +1,102 @@
+org aspectj apach bcel verifi structur
+passverifi verifi method class file pass
+call structur verif java virtual machin
+specif 2nd edit
+detail inform found verifi method'
+document
+version pass3bverifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3b verifi pass3bverifi pass verifi passverifi
+outgo frame
+situat instructioncontext successor
+put back queue unvisit
+proof termin exist
+fix point frame merg
+circul pump circulationpump control flow graph controlflowgraph cfg instruct context instructioncontext start frame vanilla frame vanillafram inst constraint visitor instconstraintvisitor icv execut visitor executionvisitor
+random random random
+instruct context queue instructioncontextqueu icq instruct context queue instructioncontextqueu
+start execut vanilla frame vanillafram arrai list arraylist icv start execut vanillafram arraylist icv arraylist instruct execut
+top level routin jsr call
+icq add start arrai list arraylist
+loop
+icq empti isempti
+instruct context instructioncontext
+arrai list arraylist
+debug
+random int nextint icq size
+icq getic
+icq getec
+icq remov
+icq getic
+icq getec
+icq remov
+arrai list arraylist oldchain arrai list arraylist clone
+arrai list arraylist newchain arrai list arraylist clone
+newchain add
+instruct getinstruct instruct getinstruct ret
+system err println
+follow successor
+jsr recent execut
+ret ret ret instruct getinstruct instruct getinstruct
+returnaddress type returnaddresstyp returnaddress type returnaddresstyp frame getoutfram oldchain local getloc ret index getindex
+instruct context instructioncontext successor thesuccessor cfg context contextof target gettarget
+saniti check
+instruct context instructioncontext jsr lastjsr
+skip jsr
+oldchain size
+skip jsr
+assert violat except assertionviolatedexcept ret jsr execut chain
+system err println oldchain
+instruct context instructioncontext oldchain instruct getinstruct instruct getinstruct jsr instruct jsrinstruct
+skip jsr
+jsr lastjsr instruct context instructioncontext oldchain
+skip jsr
+instruct context instructioncontext oldchain instruct getinstruct instruct getinstruct ret
+skip jsr
+jsr lastjsr
+assert violat except assertionviolatedexcept ret jsr executionchain oldchain
+jsr instruct jsrinstruct jsr jsr instruct jsrinstruct jsr lastjsr instruct getinstruct instruct getinstruct
+successor thesuccessor cfg context contextof jsr physic successor physicalsuccessor
+assert violat except assertionviolatedexcept ret instruct getinstruct info inconsist jump back successor thesuccessor cfg context contextof jsr physic successor physicalsuccessor
+successor thesuccessor execut frame getoutfram oldchain newchain icv
+icq add successor thesuccessor arrai list arraylist newchain clone
+ret
+normal successor add queue successor
+instruct context instructioncontext succ successor getsuccessor
+succ length
+instruct context instructioncontext succ
+execut frame getoutfram oldchain newchain icv
+icq add arrai list arraylist newchain clone
+end ret
+except handler add queue successor
+subroutin protect mandat justic
+except handler exceptionhandl exc hd except handler getexceptionhandl
+exc hd length
+instruct context instructioncontext cfg context contextof exc hd handler start gethandlerstart
+todo oldchain newchain determin subroutin
+search jsr instructioncontext
+implement chain mechan
+deal except handler
+jsr except handler successor
+subroutin except handler
+address problem simpli cut chain
+empti chain except handler
+execut frame getoutfram oldchain getloc operandstack getoutfram getstack maxstack exc hd getexceptiontyp null type throwabl exc hd getexceptiontyp newchain icv
+icq add arraylist newchain clone
+execut frame frame getoutfram oldchain local getloc operand stack operandstack frame getoutfram oldchain stack getstack max stack maxstack exc hd except type getexceptiontyp type throwabl exc hd except type getexceptiontyp arrai list arraylist icv
+icq add arrai list arraylist
+icq isempti end
+instruct handl instructionhandl start instruct getinstruct
+instruct getinstruct return instruct returninstruct cfg dead isdead
+instruct context instructioncontext cfg context contextof
+frame frame getoutfram arrai list arraylist frame getoutfram arraylist todo buggi check top level return instruct maniac return method subroutin
+local variabl localvari lv local getloc
+lv max local maxloc
+lv uniniti object type uninitializedobjecttyp
+add messag addmessag warn returninstruct leav method uniniti object local variabl arrai lv
+operand stack operandstack stack getstack
+size
+peek uniniti object type uninitializedobjecttyp
+add messag addmessag warn returninstruct leav method uniniti object operand stack
+getnext

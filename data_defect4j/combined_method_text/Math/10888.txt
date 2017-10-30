@@ -1,0 +1,24 @@
+org apach common math3 analysi solver
+param absolut accuraci absoluteaccuraci accuraci solver
+univari solver univariatesolv solver brent solver brentsolv absolut accuraci absoluteaccuraci
+solver solv integ max function
+param upper bound interv
+illeg argument except illegalargumentexcept code function code
+bracket except nobracketingexcept function sign
+version
+absolut accuraci absoluteaccuraci
+param function function
+function
+util routin link univari solver univariatesolv object
+univari solver util univariatesolverutil
+null argument except nullargumentexcept code function code
+valid solver
+solv univari function univariatefunct function
+bracket except nobracketingexcept
+endpoint
+solver
+conveni method find univari real function
+param lower bound interv
+endpoint valid interv absolut accuraci
+null argument except nullargumentexcept local format localizedformat function
+null argument except nullargumentexcept

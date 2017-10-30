@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener inlin access method generateinlineaccessmethod class file classfil class file classfil bind bind resolv member resolvedmemb member
+bind inlin access field bind inlineaccessfieldbind
+gener inlin accessor generateinlineaccessor class file classfil inlin access field bind inlineaccessfieldbind bind member
+gener inlin access method generateinlineaccessmethod class file classfil method bind methodbind bind member

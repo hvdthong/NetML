@@ -1,0 +1,26 @@
+author stephen colebourn
+standard year month week dai hour minut second milli
+control period implement durat field
+author brian neill o'neil
+period type periodtyp thread safe immut subclass
+singl type
+year week dai yearweekdai year week dai
+period type periodtyp type week cweek
+year month dai time yearmonthdaytim year month dai hour minut second milli
+type
+type period type periodtyp
+week
+type defin week field
+period type
+year month dai yearmonthdai year month dai
+year dai time yeardaytim year dai hour minut second milli
+period type periodtyp week
+dai time daytim dai hour minut second milli
+durat field type durationfieldtyp durat field type durationfieldtyp week
+period type periodtyp serializ
+year dai yeardai year dai hour
+time hour minut second milli
+org joda time
+year week dai time yearweekdaytim year week dai hour minut second milli
+week cweek type
+implement provid

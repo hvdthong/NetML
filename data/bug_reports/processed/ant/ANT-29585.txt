@@ -1,0 +1,23 @@
+apply filelists behaving filesets require files present order included
+filelists supposed list files maynot exist apposed
+filesets compose files exist pass filelist
+apply task skips files dont exist target definition
+
+target test
+apply dir executable exe
+arg param1
+srcfile
+filelist test dir files test2 tst test1 tst
+apply
+target
+problem reside section code
+org apache tools ant taskdefs
+file file base names
+isfile dir equals type
+isdirectory file equals type
+isfile
+totalfiles
+
+totaldirs
+
+comment code files added desired

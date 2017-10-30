@@ -1,0 +1,28 @@
+org aspectj weaver
+hold member invas effect
+compil unit member gather
+world weav place
+import compil process gather
+inter type declar weav stage unsurprisingli
+member concret
+author jim hugunin
+crosscut member crosscuttingmemb
+expos type exposetyp unresolv type unresolvedtyp type expos typetoexpos
+resolv type resolvedtyp miss ismiss type expos typetoexpos
+type expos typetoexpos parameter type isparameterizedtyp type expos typetoexpos raw type israwtyp
+type expos typetoexpos resolv type resolvedtyp
+type expos typetoexpos resolv type resolvedtyp type expos typetoexpos gener type getgenerictyp
+type expos typetoexpos unresolv type unresolvedtyp signatur forsignatur type expos typetoexpos erasur signatur geterasuresignatur
+check munger
+string signatur signaturetolookfor type expos typetoexpos signatur getsignatur
+iter iter type munger typemung iter iter hasnext
+concret type munger concretetypemung ctm concret type munger concretetypemung iter
+resolv type munger resolvedtypemung rtm ctm munger getmung
+rtm rtm expos type munger exposetypemung
+string expos type exposedtyp expos type munger exposetypemung rtm expos type signatur getexposedtypesignatur
+expos type exposedtyp equal signatur signaturetolookfor exposedtyp equal signaturetolookfor return dont bother
+add type munger addtypemung world concret type munger concretetypemung expos type munger exposetypemung type expos typetoexpos aspect inaspect
+resolvedmemb member resolvedmemberimpl
+member static initi typetoexpos resolvedtyp void clinit unresolvedtyp
+addtypemung world concretetypemung
+privilegedaccessmung member inaspect

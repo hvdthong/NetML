@@ -1,0 +1,4 @@
+org aspectj weaver
+type target type munger pertypewithintargettypemung resolv type munger resolvedtypemung
+unresolv type unresolvedtyp aspect type getaspecttyp
+aspect type aspecttyp

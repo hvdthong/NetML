@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+weav ad method weaveinaddedmethod
+collect sort ad lazi method gen addedlazymethodgen
+compar
+compar object object
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+getnam compar compareto getnam
+signatur getsignatur compar compareto signatur getsignatur
+iter ad lazi method gen addedlazymethodgen iter hasnext
+clazz add method gen addmethodgen lazi method gen lazymethodgen

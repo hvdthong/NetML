@@ -1,0 +1,20 @@
+org apach common math3 optim nonlinear scalar noderiv
+param compar compar sort simplex vertic
+link abstract simplex abstractsimplex constructor set step
+version
+algorithm fail converg
+simplex concept
+abstract simplex abstractsimplex optim data optimizationdata
+creat data structur act method
+comput simplex algorithm
+intend conjunct link simplex optim simplexoptim
+compar point pair pointvaluepair compar
+link abstract simplex abstractsimplex link abstract simplex abstractsimplex
+worst
+param evalu function evaluationfunct evalu function
+iter multivari function multivariatefunct evalu function evaluationfunct
+simplex optim simplexoptim
+user call link build build method order
+org apach common math3 except evalu except toomanyevaluationsexcept
+build configur unit hypercub
+initi configur simplex set constructor

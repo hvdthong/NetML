@@ -1,0 +1,6 @@
+org aspectj weaver reflect
+subtyp resolvedmemberimpl reflect world
+annot java lang reflect member
+reflect base resolv member impl reflectionbasedresolvedmemberimpl resolv member impl resolvedmemberimpl
+vararg method isvarargsmethod
+gsig info provid gsiginfoprovid var arg isvararg

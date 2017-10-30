@@ -1,0 +1,32 @@
+org aspectj tool ajdoc
+implement ajdoc style
+job serv evolv lightweight ajdoc implement
+make properli extend javadoc implement
+author mik kersten
+main config
+start html file correspond directli
+input file learn javadoc split java file
+multipl html file handl class local class html
+file decor pick
+decor html file decoratehtmlfil file input file inputfil except ioexcept
+system println decor html file
+html decor htmldecor decor html input file decoratehtmlfrominputfil decl tabl declidt
+root dir rootdir
+input file inputfil
+doc modifi docmodifi
+system println remov gener tag
+remov decl file removedeclidsfromfil index html
+remov decl file removedeclidsfromfil serial form html
+packag list packagelist size
+packag list packagelist size
+remov decl file removedeclidsfromfil string packag list packagelist element elementat replac
+config dir sep char dir sep char
+packag summari html
+file file root dir rootdir list file listfil
+file
+system err println destin directori directori root dir rootdir string tostr
+file file util fileutil list file listfil root dir rootdir file filter filefilt
+accept file
+getnam equal packag summari html
+file length
+remov decl file removedeclidsfromfil file absolut path getabsolutepath

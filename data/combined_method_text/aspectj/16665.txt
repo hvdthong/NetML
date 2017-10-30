@@ -1,0 +1,12 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+lookup scope lookupforscop
+pend scope resolut pendingnamescoperesolut
+iter iter pend scope resolut pendingnamescoperesolut iter iter hasnext
+iter
+ast bind resolv getbindingresolv record scope recordscop lookup scope lookupscop
+pend express scope resolut pendingthisexpressionscoperesolut
+iter iter pend express scope resolut pendingthisexpressionscoperesolut iter iter hasnext
+express thisexpress express thisexpress express thisexpress iter
+ast bind resolv getbindingresolv record scope recordscop express thisexpress lookup scope lookupscop express thisexpress

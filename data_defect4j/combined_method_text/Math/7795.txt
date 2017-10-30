@@ -1,0 +1,56 @@
+overrid
+steepest descent steepestdesc precondition precondit point
+real point pair realpointvaluepair previou current
+inherit doc inheritdoc
+delta steepest descent newsteepestdesc
+linear conjug gradient optim
+goal type goaltyp goal goal type getgoaltyp
+point length
+steepest descent steepestdesc steepest descent newsteepestdesc
+delta deltaold delta
+find upper bound findupperbound lsf initi step initialstep
+steepest descent newsteepestdesc precondition precondit point
+work diverg problem test circl fit testcirclefit
+initi search direct
+xxx paramet set close order
+updat formula updateformula conjug gradient formula conjugategradientformula fletcher reev
+org apach common math optim gener
+iter
+real point pair realpointvaluepair current
+current
+version
+valid point
+comput object gradient computeobjectivegradi point
+option precondit
+current real point pair realpointvaluepair point object
+univari real function univariaterealfunct lsf line search function linesearchfunct search direct searchdirect
+delta mid deltamid steepest descent steepestdesc
+found optimum
+comput beta
+previou
+unit test math
+point step search direct searchdirect
+goal goal type goaltyp minim
+beta
+delta
+point start point getstartpoint
+beta delta delta deltaold
+break conjug reset search direct
+checker converg iter previou current
+beta delta delta mid deltamid delta deltaold
+delta mid deltamid
+delta search direct searchdirect
+object comput object computeobjectivevalu point
+converg checker convergencecheck checker converg checker getconvergencecheck
+step solver solv max eval maxev lsf
+support fletcher reev polak ribi egrav
+real point pair realpointvaluepair optim dooptim
+comput conjug search direct
+search direct searchdirect steepest descent steepestdesc beta search direct searchdirect
+length
+max eval maxev max evalu getmaxevalu
+find optim step search direct
+max eval maxev solver evalu getevalu subtract evalu
+search direct searchdirect steepest descent steepestdesc clone
+updat formula conjug search direct support
+linear conjug gradient optim nonlinearconjugategradientoptim

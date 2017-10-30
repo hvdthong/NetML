@@ -1,0 +1,5 @@
+rollback preserve integrity original index
+updatedocuments calls rollback call return index prior state
+occur number updates exceeds ram buffer size flushing updates occurs
+test fails lucene
+junit follow

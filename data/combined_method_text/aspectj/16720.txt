@@ -1,0 +1,16 @@
+org aspectj org eclips jdt core dom
+ast matcher ajastmatch ast matcher astmatch
+match advic declar aroundadvicedeclar node object
+advic declar aroundadvicedeclar
+advic declar aroundadvicedeclar advic declar aroundadvicedeclar
+level node ast getast api level apilevel
+level ast jls2 intern jls2 intern
+safe subtre match safesubtreematch node intern return type internalgetreturntyp intern return type internalgetreturntyp
+level ast jls3
+safe subtre match safesubtreematch node return type2 getreturntype2 return type2 getreturntype2
+safe subtre list match safesubtreelistmatch node type paramet typeparamet type paramet typeparamet
+safe subtre match safesubtreematch node javadoc getjavadoc javadoc getjavadoc
+safe subtre list match safesubtreelistmatch node paramet paramet
+safe subtre match safesubtreematch node pointcut getpointcut pointcut getpointcut
+safe subtre list match safesubtreelistmatch node thrown except thrownexcept thrown except thrownexcept
+safe subtre match safesubtreematch node bodi getbodi bodi getbodi

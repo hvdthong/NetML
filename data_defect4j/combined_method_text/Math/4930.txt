@@ -1,0 +1,12 @@
+construct except
+param threshold absolut posit threshold
+org apach common math linear
+threshold threshold
+param index row column index
+posit definit matrix except nonpositivedefinitematrixexcept index
+version revis date
+threshold
+posit definit matrix except nonpositivedefinitematrixexcept math illeg argument except mathillegalargumentexcept
+index index
+local format localizedformat posit definit matrix index threshold
+except thrown symmetr matrix expect

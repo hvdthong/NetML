@@ -1,0 +1,51 @@
+finally block executed time continuation
+created attachment
+java code run script code
+user agent mozilla macintosh intel mac applewebkit khtml gecko version safari
+steps reproduce
+code
+function openfile
+
+java lang system println openfile
+return object
+
+function dosomethingwithfile file
+
+java lang system println dosomethingwithfile
+
+function sendeventtoother
+
+java lang system println sendeventtoother
+
+function dosomethingwithevent file event
+
+java lang system println dosomethingwithevent event event
+
+function closefile file
+
+java lang system println closefile
+
+
+
+file openfile
+dosomethingwithfile file
+sendeventtoother
+event waitsomeevent
+dosomethingwithevent file event
+
+finally
+
+closefile file
+
+waitsomeevent function throws continuationpending exception event event queue
+actual results
+output script code
+openfile
+dosomethingwithfile
+sendeventtoother
+closefile
+dosomethingwithevent event world
+closefile
+case finally block closefile executed continuationpending exception thrown resumecontinuation called
+expected results
+finally block executed

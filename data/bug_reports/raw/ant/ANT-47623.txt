@@ -1,0 +1,14 @@
+Task.log(Throwable, int) throws NullPointerException on messageless exceptions
+While creating a custom task I've found that logging a Throwable with no message will cause a NullPointerException. This is caused because Task.log(Throwable, int) forwards the error message to Project.log(Task, String, Throwable, int) which does not support null messages.
+
+To reproduce:
+
+public class Example extends Task {
+    @Override
+    public final void execute() throws BuildException {
+        final Throwable t = new Exception();
+        this.log( t, Project.MSG_ERR );
+    }
+}
+
+Suggested behavior: either modify API to throw IllegalArgumentException with a messageless Throwable, or (preferably) modify error message mangling to support nulls.

@@ -1,0 +1,25 @@
+org aspectj apach bcel util
+convert constant pool html file
+version constanthtml java aclement exp
+author href mailto marku dahm berlin dahm
+constant html constanthtml org aspectj apach bcel constant
+constant html constanthtml string dir string class string class packag method method
+constant pool constantpool constant pool except ioexcept
+class class
+class packag class packag
+constant pool constant pool
+method method
+constant constant pool constant pool getconstantpool
+file print writer printwrit file output stream fileoutputstream dir class html
+constant ref string constant length
+constant ref unknown
+file println html bodi bgcolor c0c0c0 tabl border
+loop constant constant reserv
+constant length
+file print bgcolor c0c0c0
+file print bgcolor a0a0a0
+constant
+write constant writeconst
+file print
+file println tabl bodi html
+file close

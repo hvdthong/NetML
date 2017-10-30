@@ -1,0 +1,15 @@
+abstract region independ geometri type dimens
+recurs function bsp tree visitor bsptreevisitor
+stop visit tree
+boolean node attribut getattribut
+found insid cell
+inherit doc inheritdoc
+param type space
+abstract region abstractregion space space region
+node cut getcut
+version
+empti isempti node minu getminu empti isempti node getplu
+empti isempti bsp tree bsptree node
+find insid node region empti
+check side tree
+org apach common math geometri partit

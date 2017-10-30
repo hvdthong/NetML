@@ -1,0 +1,22 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+creat init join point interfac bodi constructor
+bcel shadow bcelshadow make ifac initi makeifaceiniti
+bcel world bcelworld world
+lazi method gen lazymethodgen constructor
+member interfac constructor signatur interfaceconstructorsignatur
+call mark instruct list chang
+constructor bodi getbodi
+unresolvedtyp intyp constructor getenclosingclass gettyp
+bcel shadow bcelshadow
+bcel shadow bcelshadow
+world
+initi
+interfac constructor signatur interfaceconstructorsignatur
+constructor
+fallsthrough true
+shadowrang shadowrang bodi
+associatewithshadow
+instructionhandl start rang genstart bodi handl
+instructionhandl end rang genend bodi handl
+associatewithtarget start end

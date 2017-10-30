@@ -1,0 +1,44 @@
+org apach tool ant launch
+locat util class find item
+environ
+ant
+locat
+encod uri charact
+uri escap
+param path string encod
+return encod string uri norm
+throw unsupportedencodingexcept utf
+ant
+string encod uri encodeuri string path unsupport encod except unsupportedencodingexcept
+len path length
+string buffer stringbuff
+len
+path char charat
+ascii charact break utf encod
+escap gneedescap
+string buffer stringbuff path substr
+append
+append escaping1 gafterescaping1
+append escaping2 gafterescaping2
+record fact escap
+append
+ascii charact
+len
+string buffer stringbuff path substr
+utf byte remain string
+byte
+byte path substr byte getbyt uri encod uri encod
+len byte length
+byte
+len
+byte
+ascii charact make posit escap
+append
+append hex ch ghexch
+append hex ch ghexch
+escap gneedescap
+append
+append escaping1 gafterescaping1
+append escaping2 gafterescaping2
+append
+path string tostr

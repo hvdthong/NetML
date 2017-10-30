@@ -1,0 +1,14 @@
+org aspectj weaver reflect
+author colyer
+reflect shadow reflectionshadow shadow
+member enclos code signatur getenclosingcodesignatur
+xxx code copi bcelshadow minor chang
+kind getkind enclos kind isenclosingkind
+signatur getsignatur
+kind getkind shadow pre initi preiniti
+preinit enclos code signatur
+correctli signatur ctor
+signatur getsignatur
+enclos shadow enclosingshadow
+enclos member enclosingmemb
+enclos shadow enclosingshadow signatur getsignatur

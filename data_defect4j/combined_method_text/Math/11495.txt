@@ -1,0 +1,17 @@
+param rng random number gener
+weight
+creat mixtur model list distribut
+posit except notpositiveexcept dimens mismatch except dimensionmismatchexcept
+param compon distribut sampl
+mixtur multivari normal distribut mixturemultivariatenormaldistribut
+dimens mismatch except dimensionmismatchexcept compon
+multivari normal mixtur distribut
+mixtur multivari real distribut mixturemultivariaterealdistribut
+mixtur multivari normal distribut mixturemultivariatenormaldistribut random gener randomgener rng
+version
+syntact sugar
+org apach common math3 distribut
+list pair doubl multivari normal distribut multivariatenormaldistribut compon
+posit except notpositiveexcept weight neg
+number variabl
+rng compon

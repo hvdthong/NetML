@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+add path addpath string messag handler imessagehandl handler
+file file
+string lower case tolowercas
+directori isdirectori
+file isfil
+end endswith jar end endswith zip
+heurist end jar zip mean zip file
+messag util messageutil info handler weaver messag weavermessag format weaver messag weavermessag zipfil entri miss zipfil entri miss
+messag util messageutil info handler weaver messag weavermessag format weaver messag weavermessag directori entri miss directori entri miss
+entri add zip file entri zipfileentri
+except ioexcept ioe
+messag util messageutil warn handler weaver messag weavermessag format weaver messag weavermessag zipfil entri invalid zipfil entri invalid ioe messag getmessag
+entri add dir entri direntri

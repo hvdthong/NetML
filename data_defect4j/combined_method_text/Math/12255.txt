@@ -1,0 +1,9 @@
+norm inf getnorminf
+vector
+space
+vector space serializ
+param type space
+repres gener vector vectori space point affin space
+infin norm vector
+version
+org apach common math3 geometri

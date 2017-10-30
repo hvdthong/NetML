@@ -1,0 +1,86 @@
+org aspectj ajdt intern compil ast
+repres method call method name code proce code
+code resolvedtyp code determin bodi
+code code advic receiv bare proce call
+treat
+messagesend
+author jim hugunin
+proce messag send messagesend
+type bind typebind resolv type resolvetyp block scope blockscop scope
+find bodi
+theori parser appear hard
+advic declar advicedeclar decl arounddecl find enclos findenclosingaround scope
+decl arounddecl
+resolv type resolvetyp scope
+constant constant constant notaconst
+bind codegen bind codegenbind decl arounddecl proce method bind proceedmethodbind
+actual receiv type actualreceivertyp bind declar class declaringclass
+base arg count baseargcount
+argument
+base arg count baseargcount argument length
+express argument newargu express base arg count baseargcount
+system arraycopi argument argument newargu base arg count baseargcount
+argument argument newargu
+argument express
+argument base arg count baseargcount ast util astutil make local variabl refer makelocalvariablerefer decl arounddecl extra argument extraargu bind
+declar paramet count declaredparametercount decl arounddecl declar paramet count getdeclaredparametercount
+base arg count baseargcount declar paramet count declaredparametercount
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+argument proce expect declar paramet count declaredparametercount
+decl arounddecl ignor investig ignorefurtherinvestig
+return null bind returntyp
+base arg count baseargcount declar paramet count declaredparametercount
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+argument proce expect declar paramet count declaredparametercount
+decl arounddecl ignor investig ignorefurtherinvestig
+return null bind returntyp
+arg cast argscontaincast
+argument length
+argument cast express castexpress arg cast argscontaincast
+argument constant null argument constant constant notaconst
+typebind argumenttyp bind paramet
+argument null
+boolean arghaserror fals typecheck argument
+int length argument length
+argumenttyp typebind length
+int length
+express argument argument
+argument instanceof castexpress
+argument bit astnod disableunnecessarycastcheck check
+argscontaincast true
+argumenttyp argument resolvetyp scope null
+arghaserror true
+arghaserror
+actualreceivertyp instanceof referencebind
+record guess client hint method match
+typebind pseudoarg typebind length
+int length
+pseudoarg argumenttyp null typebind null argumenttyp replac arg error null type
+bind
+receiv isimplicitthi
+scope getimplicitmethod selector pseudoarg
+scope findmethod referencebind actualreceivertyp selector pseudoarg
+bind null bind isvalidbind
+methodbind closestmatch problemmethodbind bind closestmatch
+record closest match client hint method match
+closestmatch null
+closestmatch origin typevari bind type variabl gener method
+return gener method context convert raw method
+closestmatch scope environ createparameterizedgenericmethod closestmatch origin rawtypebind null
+bind closestmatch
+methodbind closestmatchorigin closestmatch origin
+closestmatchorigin ispriv closestmatchorigin declaringclass islocaltyp scope isdefinedinmethod closestmatchorigin
+ignor case method insid direct recurs
+closestmatchorigin modifi extracompilermodifi acclocallyus
+return null
+checkinvocationargu scope receiv actualreceivertyp bind argument argumenttyp argscontaincast
+len argument length len
+express arg argument
+type bind typebind arg type argtyp arg resolv type resolvetyp scope
+arg type argtyp
+type bind typebind param type paramtyp bind paramet
+arg type argtyp compat iscompatiblewith param type paramtyp
+scope problem report problemreport type mismatch error typemismatcherror arg type argtyp param type paramtyp arg
+check invoc argument checkinvocationargu scope actual receiv type actualreceivertyp bind
+argument bind paramet arg cast argscontaincast
+bind return type returntyp

@@ -1,0 +1,52 @@
+org aspectj intern tool ant taskdef
+instal ajinstal match task matchingtask
+finish zip output stream finishzipoutputstream zip output stream zipoutputstream zout except ioexcept build except buildexcept
+write content writecont zout
+write manifest writemanifest zout
+file temp dir tempdir setup temp dir setuptempdir
+string tmp temp dir tempdir absolut path getabsolutepath
+instal class file
+expand expand expand
+expand set project setproject project getproject
+expand set src setsrc instal class jar installerclassjar
+expand set dest setdest file tmp
+pattern set patternset pattern pattern set patternset
+pattern set includ setinclud includ class includ class
+expand add patternset addpatternset pattern
+expand execut
+move correct resourc file jar
+copi copi task getcopytask
+fileset file set fileset
+fileset set dir setdir file resourc src resourcessrc
+fileset set includ setinclud
+fileset set exclud setexclud content txt properti txt
+add fileset addfileset fileset
+set todir settodir file tmp instal org aspectj resourc
+execut
+project global filter set getglobalfilterset add filter addfilt instal main class mainclass
+copi copi task getcopytask
+fileset file set fileset
+fileset set dir setdir file resourc src resourcessrc
+fileset set includ setinclud properti txt
+set filter setfilt
+add fileset addfileset fileset
+set todir settodir file tmp instal org aspectj resourc
+execut
+move correct resourc file jar
+copi task getcopytask
+fileset file set fileset
+fileset set dir setdir file html src htmlsrc
+fileset set includ setinclud
+add fileset addfileset fileset
+set todir settodir file tmp instal org aspectj resourc
+execut
+move file jar
+set basedir setbasedir tmp
+write file writefil zout file getfil temp dir tempdir
+delet tmp dir
+delet delet project creat task createtask delet
+delet
+set project setproject project getproject
+set dir setdir temp dir tempdir
+execut
+temp dir tempdir

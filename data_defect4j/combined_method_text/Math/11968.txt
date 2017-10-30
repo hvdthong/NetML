@@ -1,0 +1,12 @@
+interfac fluent api advert capabl optim
+org apach common math3 fit leastsquar
+model jacobian withmodelandjacobian multivari vector function multivariatevectorfunct model
+instanc argument
+multivari matrix function multivariatematrixfunct jacobian
+param jacobian jacobian model function
+optim instanc field ident
+model jacobian withmodelandjacobian
+param model model function modelfunct
+creat instanc paramet
+version
+param concret optim implement

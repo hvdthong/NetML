@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+aspectdeclar dom ast node
+ajtypedeclar
+astnod call 'perclause'
+boolean call 'privileged'
+author ajh02
+aspect declar aspectdeclar type declar ajtypedeclar
+intern set boolean properti internalgetsetbooleanproperti simpl properti descriptor simplepropertydescriptor properti
+properti privileg properti privileg properti
+privileg isprivileg
+set privileg setprivileg
+default implement flag error
+intern set boolean properti internalgetsetbooleanproperti properti

@@ -1,0 +1,35 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+creat singl bridg method call 'thebridgemethod' bridg 'whattobridgeto'
+creat bridg method createbridgemethod bcel world bcelworld world lazi method gen lazymethodgen bridg method gen whattobridgetomethodgen lazi class gen lazyclassgen clazz resolv member resolvedmemb bridg method thebridgemethod
+instruct list instructionlist bodi
+instruct factori instructionfactori fact
+po
+resolv member resolvedmemb bridg whattobridgeto bridg method gen whattobridgetomethodgen member view getmemberview
+bridg whattobridgeto
+bridg whattobridgeto
+resolv member impl resolvedmemberimpl member method
+bridg method gen whattobridgetomethodgen enclos class getenclosingclass type gettyp
+bridg method gen whattobridgetomethodgen access flag getaccessflag
+bridg method gen whattobridgetomethodgen getnam
+bridg method gen whattobridgetomethodgen signatur getsignatur
+lazi method gen lazymethodgen bridg method bridgemethod make bridg method makebridgemethod clazz bridg method thebridgemethod lazymethodgen bridgemethod makebridgemethod clazz thebridgemethod bridg method type signatur supertyp
+bridg method bridgemethod set access flag setaccessflag bridg method bridgemethod access flag getaccessflag bridgemethod setaccessflag bridgemethod getaccessflag 0x00000040 bridg 0x00000040
+type return type returntyp bcel world bcelworld make bcel type makebceltyp bridg method thebridgemethod return type getreturntyp
+type param type paramtyp bcel world bcelworld make bcel type makebceltyp bridg method thebridgemethod paramet type getparametertyp
+type param type newparamtyp bridg method gen whattobridgetomethodgen argument type getargumenttyp
+bodi bridg method bridgemethod bodi getbodi
+fact clazz factori getfactori
+bridg method gen whattobridgetomethodgen static isstat
+bodi append instruct factori instructionfactori creat createthi
+po
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+param type newparamtyp equal param type paramtyp
+world debug bridg code fordebug bridgingcod system err println bridg cast param type newparamtyp param type paramtyp
+bodi append fact creat cast createcast param type paramtyp param type newparamtyp
+po param type paramtyp size getsiz
+bodi append util creat invok createinvok fact world bridg whattobridgeto
+bodi append instruct factori instructionfactori creat return createreturn return type returntyp
+clazz add method gen addmethodgen bridg method bridgemethod

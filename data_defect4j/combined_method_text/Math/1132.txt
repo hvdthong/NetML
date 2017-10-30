@@ -1,0 +1,14 @@
+implement href http mathworld wolfram newton method newtonsmethod html
+newton solver newtonsolv differenti univari real function differentiableunivariaterealfunct
+link univari real solver impl univariaterealsolverimpl solv univari real function univariaterealfunct
+construct solver function
+deprec function solv pass argument
+deprec
+link solv univari real function univariaterealfunct
+newton solver newtonsolv univari real solver impl univariaterealsolverimpl
+function continu necessarili smooth
+newton' method find zero real univari function
+version revis date
+param function solv
+org apach common math analysi solver
+method

@@ -1,0 +1,6 @@
+org aspectj apach bcel classfil annot
+element pair elementnamevaluepair
+string short string toshortstr
+string buffer stringbuff result string buffer stringbuff
+result append string getnamestr append append getvalu short string toshortstr
+result string tostr

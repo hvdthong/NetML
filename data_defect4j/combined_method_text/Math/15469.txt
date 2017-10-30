@@ -1,0 +1,11 @@
+deprec remov
+max ulp maxulp max ulp maxulp
+solv linear problem phase simplex method
+version
+org apach common math3 optim linear
+epsilon epsilon
+param epsilon amount error accept algorithm converg
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+simplex solver simplexsolv epsilon max ulp maxulp
+param max ulp maxulp amount error accept float point comparison
+build simplex solver accept amount error

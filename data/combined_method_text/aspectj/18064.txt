@@ -1,0 +1,8 @@
+org aspectj util
+file util fileutil
+copi content fromdir todir
+param fromdir exist readabl
+param todir exist creatabl writabl
+return total number file copi
+copi dir copydir file dir fromdir file dir todir except ioexcept
+copi dir copydir dir fromdir dir todir

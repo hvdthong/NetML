@@ -1,0 +1,30 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+warn method complet implement
+aim convert eclips annot object aspectj form
+annot type annotationaj annotationx object return wrapper
+bcel annot type aspectj annotationaj type
+minim implement provid process retentionpolici
+target annot type weaver attempt
+process eclipsesourcetyp
+note
+pipelin requir implement pipelin weav
+type question annot turn bcel
+object eclipsesourcetyp form pipelin
+convert bcel object proceed weav
+pipelin start weav aspect compil
+fact aspectj construct match valu annot code
+deal convert system annot weaver process
+retentionpolici target
+annot annotationx annot getannot
+annot annot annot null return annot
+annot type getannotationtyp getannotationtyp forc resolut set resolvedannot
+annot declar annot
+length
+annot annot annot
+annot annot annotationx length
+length
+annot convert eclips annot converteclipseannot factori world getworld
+annot

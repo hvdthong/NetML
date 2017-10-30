@@ -1,0 +1,7 @@
+report basic univari statist
+return minimum valu
+statist summari statisticalsummari
+org apach common math3 stat descript
+version
+min doubl nan valu ad
+min getmin

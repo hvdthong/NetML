@@ -1,0 +1,6 @@
+org aspectj ajd core
+interfac present user inform
+progress build
+build progress monitor ibuildprogressmonitor
+set label describ current progress phase
+set progress text setprogresstext string text

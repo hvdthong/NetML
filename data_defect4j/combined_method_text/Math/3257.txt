@@ -1,0 +1,10 @@
+org apach common math geometri euclidean threed
+math arithmet except matharithmeticexcept local format localizedformat normal norm vector
+inherit doc inheritdoc
+vector dimension space
+instanc guarante immut
+vector3 vector3d normal
+version
+norm getnorm
+scalar multipli scalarmultipli
+vector3 vector3d serializ vector euclidean3 euclidean3d

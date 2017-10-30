@@ -1,0 +1,75 @@
+pre
+adam moulton method fact due adam implicit
+org apach common math od nonstiff
+deriv let defin
+version revis date
+comput formula exact
+omit index notat clariti definit
+repres correct state
+build adam moulton integr order error control paramet
+implicit adam moulton integr ordinari
+defin scale deriv step
+taylor seri formula show index offset
+scal absolut toler scalabsolutetoler
+predict nordsieck vector step comput nordsieck vector step
+step adam moulton method order
+extend method order support adapt stepsiz
+greatli simplifi step interpol interpol appli
+5y' 8y'
+result taylor seri formula
+simplifi step occur discret event truncat
+sum
+y''' deriv
+adam moulton step nstep step nstep min step minstep max step maxstep
+implement detail
+param min step minstep minim step posit backward
+number previou step comput
+degre polynomi
+param step nstep number step method exclud comput
+integr step smaller
+comput method comput
+step trigger
+higher degre scale deriv step
+row shift matrix lower left part ident matrix
+classic represent nordsieck vector transform
+integr
+implement nordsieck vector
+scal rel toler scalrelativetoler
+deriv
+param scal absolut toler scalabsolutetoler allow absolut error
+differenti equat
+y'' deriv
+vector time matrix built
+formula estim
+omit index notat clariti
+depend precomput
+9y' 19y' 5y'
+nordsieck vector advantag
+taylor seri formula
+plusmn
+method step nstep step nstep min step minstep max step maxstep
+adam moulton integr adamsmoultonintegr step nstep
+param max step maxstep maxim step posit backward
+estim comput comput
+adapt stepsiz implement error control
+adam moulton method written
+estim formula depend
+term
+vector matrix depend state
+scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler
+multistep od solver implement variat classic
+upper repres
+predict state lower
+except illeg argument except illegalargumentexcept order
+classic represent deriv
+defin
+definit classic represent previou
+adam moulton integr adamsmoultonintegr adam integr adamsintegr
+min step minstep max step maxstep
+classic implement fix step size state vector
+previou formula valu comput transform
+predict vector correct vector comput
+param scal rel toler scalrelativetoler allow rel error
+deriv step need
+illeg argument except illegalargumentexcept
+step simpl combin step

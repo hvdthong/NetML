@@ -1,0 +1,10 @@
+org aspectj apach bcel classfil
+class repres constant pool refer interfac method
+version constantinterfacemethodref java aclement exp
+author href mailto marku dahm berlin dahm
+constant interfac methodref constantinterfacemethodref constant constantcp
+param class index refer class method
+param type index method signatur
+constant interfac methodref constantinterfacemethodref class index
+type index
+constant constant interfac methodref constant interfacemethodref class index type index

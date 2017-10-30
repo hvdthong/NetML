@@ -1,0 +1,56 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+regist aspect includ exclud rule
+param weaver
+param loader
+param definit
+regist aspect registeraspect bcel weaver bcelweav weaver class loader classload loader list definit
+trace trace enabl istraceen trace enter registeraspect object weaver loader definit
+success
+todo exclud aspect exclud aspect defin upper hierarchi
+review getresourc track resourc defin
+iter aspectclassnam
+exclud exclud list
+iter iter definit iter iter hasnext
+definit definit definit iter
+iter aspect definit aspect class name getaspectclassnam iter aspect hasnext
+string aspect class aspectclassnam string aspect
+accept aspect acceptaspect aspect class aspectclassnam
+info regist aspect aspect class aspectclassnam
+system err println classloaderweavingadaptor registeraspect aspectnam aspectclassnam loader loader bundl weavingcontext getclassloadernam
+weaver add librari aspect addlibraryaspect aspect class aspectclassnam resolvedtyp aspect weaver addlibraryaspect aspectclassnam
+gener kei
+namespac
+namespac string buffer stringbuff aspect class aspectclassnam
+namespac namespac append aspect class aspectclassnam
+warn aspect exclud aspectclassnam
+lint aspectexcludedbyconfigur string aspect class aspectclassnam class loader getclassloadernam loader
+iter concreteaspect
+exclud exclud list note user defin matter happen
+iter iter definit iter iter hasnext
+definit definit definit iter
+iter aspect definit concret aspect getconcreteaspect iter aspect hasnext
+definit concret aspect concreteaspect concret aspect concreteaspect definit concret aspect concreteaspect aspect
+accept aspect acceptaspect concret aspect concreteaspect
+info defin aspect concret aspect concreteaspect
+concret aspect code gen concreteaspectcodegen gen concret aspect code gen concreteaspectcodegen concret aspect concreteaspect weaver world getworld
+gen valid
+error concret aspect concret aspect concreteaspect regist
+success
+bcel world bcelworld weaver world getworld add sourc object type addsourceobjecttyp util make java class makejavaclass concret aspect concreteaspect gen byte getbyt
+concret aspect concreteaspect add gen
+weaver add librari aspect addlibraryaspect concret aspect concreteaspect
+gener kei
+namespac
+namespac string buffer stringbuff concret aspect concreteaspect
+namespac namespac append concret aspect concreteaspect
+regist aspect disabl adaptor
+success
+warn failur regist aspect disabl weaver class loader class loader getclassloadernam loader
+regist aspect disabl adaptor
+namespac
+success
+info aspect regist disabl weaver class loader class loader getclassloadernam loader
+trace trace enabl istraceen trace exit registeraspect success
+success

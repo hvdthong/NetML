@@ -1,0 +1,8 @@
+simpl constructor
+org apach common math geometri euclidean threed
+version
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron
+set size setsiz
+facet contribut visitor facetscontributionvisitor
+set barycent setbarycent vector3 vector3d

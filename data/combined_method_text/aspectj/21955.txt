@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+author colyer
+match type method constructor field
+allow declar parent declar type
+member type pattern hasmembertypepattern type pattern typepattern
+field hasfield resolv type resolvedtyp type
+todo itd
+world world type world getworld
+iter iter type field getfield iter hasnext
+member field member iter
+field getnam start startswith declar prefix declareatprefix
+signatur pattern signaturepattern match field type world getworld
+field declar type getdeclaringtyp resolv world type
+modifi privat ispriv field modifi getmodifi

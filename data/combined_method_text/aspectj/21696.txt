@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+bind
+unresolv type unresolvedtyp formal type getusedformaltyp
+unresolv type unresolvedtyp ret unresolv type unresolvedtyp bind length
+index
+len bind length len
+bind
+ret index bind type pattern bindingtypepattern bind exact type getexacttyp
+unresolv type unresolvedtyp ret newret unresolv type unresolvedtyp index
+system arraycopi ret ret newret index
+system println ret index
+ret newret

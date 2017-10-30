@@ -1,0 +1,12 @@
+Use "nicer" names for generated classes
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.3) Gecko/2008092510 Ubuntu/8.04 (hardy) Firefox/3.0.3
+Build Identifier: 
+
+Classes generated from scripts are currently named c1, c2, ... no matter what the provided script name was. It would make stack traces as well as debugging a little bit easier if generated names were "derived" from the provided script names.
+
+Reproducible: Always
+
+Steps to Reproduce:
+1.
+2.
+3.

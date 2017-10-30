@@ -1,0 +1,6 @@
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+build interv set repres real line
+interv set intervalsset
+repres region set interv
+version
+org apach common math3 geometri euclidean on

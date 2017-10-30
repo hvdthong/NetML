@@ -1,0 +1,22 @@
+org aspectj weaver
+hold member invas effect
+compil unit member gather
+world weav place
+import compil process gather
+inter type declar weav stage unsurprisingli
+member concret
+author jim hugunin
+crosscut member crosscuttingmemb
+equival set inlin munger theseinlinedaroundmung set inlin munger otherinlinedaroundmung
+inlin munger theseinlinedaroundmung size inlin munger otherinlinedaroundmung size
+iter iter inlin munger theseinlinedaroundmung iter iter hasnext
+advic advic thisadvic advic iter
+found foundit
+iter iter inlin munger otherinlinedaroundmung iter iter hasnext
+advic advic otheradvic advic iter
+advic thisadvic equal advic otheradvic
+advic thisadvic signatur getsignatur bcel method bcelmethod
+bcel method bcelmethod advic thisadvic signatur getsignatur
+equival isequivalentto advic otheradvic signatur getsignatur
+found foundit
+found foundit

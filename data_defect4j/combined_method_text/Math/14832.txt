@@ -1,0 +1,23 @@
+brent solver brentsolv
+support fletcher reev polak ribièr
+version linear conjug gradient optim nonlinearconjugategradientoptim java 14z
+support option precondit
+linear conjug gradient optim nonlinearconjugategradientoptim formula updat formula updateformula
+linear conjug gradient optim nonlinearconjugategradientoptim
+param updat formula updateformula formula updat beta paramet
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+checker
+link optim optim data optimizationdata optim
+version
+updat formula updateformula
+link formula polak ribier
+ident precondition identityprecondition
+param checker converg checker
+converg checker convergencecheck point pair pointvaluepair checker
+constructor link brent solver brentsolv line search solver
+link ident precondition identityprecondition precondition
+linear conjug gradient optim
+link formula fletcher reev
+constraint support call
+updat formula conjug search direct
+org apach common math3 optim nonlinear scalar gradient

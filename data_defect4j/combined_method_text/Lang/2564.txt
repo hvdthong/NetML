@@ -1,0 +1,61 @@
+author stephen colebourn
+pattern languag format
+intern method format
+author href mailto sbailliez apach org stephan bailliez
+buffer append str substr
+param millisecond number milli
+year
+param dai number dai
+month
+second
+buffer append string tostr
+tabl border
+string buffer stringbuff buffer string buffer stringbuff
+param hour number hour
+tabl
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr hour count '0' integ
+string tostr dai
+millisecond
+token token token
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr month count '0' integ
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr second count '0' integ
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr year count '0' integ
+param minut number minut
+author henri yandel
+string tostr year
+output second lastoutputsecond
+version
+string str pad zero padwithzero
+token length
+string util stringutil left pad leftpad integ string tostr millisecond count '0'
+durat format util constant tabl describ token
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr minut count '0' integ
+formet string
+durat format util durationformatutil
+string tostr month
+string format token token year month dai hour minut second
+dai
+author href mailto ggregori seagullsw gari gregori
+param month number month
+integ string tostr millisecond
+buffer append pad zero padwithzero string util stringutil left pad leftpad integ string tostr dai count '0' integ
+string buffer stringbuff
+param second number second
+charact durat element
+string tostr minut
+object token getvalu
+format string
+author apach ant date util dateutil
+string tostr second
+buffer string tostr
+param token token
+hour
+param year number year
+millisecond pad zero padwithzero
+count token count getcount
+param pad zero padwithzero pad
+author href mailto stefan bodewig epost stefan bodewig
+buffer append pad zero padwithzero
+string tostr hour
+org apach common lang time
+minut

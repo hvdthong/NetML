@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+project iproject build kind map progress monitor iprogressmonitor monitor
+core except coreexcept
+super method construct xxximagebuild
+construct compil detect
+adapt
+compil adapt compileradapt set compil adapt factori setcompileradapterfactori
+build kind monitor

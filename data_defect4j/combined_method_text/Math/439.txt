@@ -1,0 +1,30 @@
+maxim iter count defaultmaximaliterationcount
+org apach common math analysi
+link solv univari real function univariaterealfunct
+deprec
+provid implement function gener
+absolut accuraci defaultabsoluteaccuraci valid
+param absolut accuraci defaultabsoluteaccuraci maximum absolut error
+univari real solver impl univariaterealsolverimpl univari real solver univariaterealsolv
+function accuraci defaultfunctionvalueaccuraci
+version revis date
+univari real function univariaterealfunct
+method
+function accuraci functionvalueaccuraci function accuraci defaultfunctionvalueaccuraci
+construct solver iter count accuraci
+rel accuraci defaultrelativeaccuraci
+maxim iter count defaultmaximaliterationcount maxim iter count defaultmaximaliterationcount
+param function solv
+rel accuraci relativeaccuraci rel accuraci defaultrelativeaccuraci
+deprec function solv pass argument
+param maxim iter count defaultmaximaliterationcount maximum number iter
+absolut accuraci defaultabsoluteaccuraci
+solver
+univari real solver impl univariaterealsolverimpl
+maxim iter count maximaliterationcount maxim iter count defaultmaximaliterationcount
+illeg argument except illegalargumentexcept function
+absolut accuraci absoluteaccuraci absolut accuraci defaultabsoluteaccuraci
+link univari real solver impl univariaterealsolverimpl solv univari real function univariaterealfunct
+absolut accuraci defaultabsoluteaccuraci absolut accuraci defaultabsoluteaccuraci
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept function solv
+illeg argument except illegalargumentexcept

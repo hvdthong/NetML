@@ -1,0 +1,6 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+gener super type hasgenericsupertyp
+resolv type resolvedtyp super type supertyp declar interfac getdeclaredinterfac
+super type supertyp length
+super type supertyp gener type isgenerictyp

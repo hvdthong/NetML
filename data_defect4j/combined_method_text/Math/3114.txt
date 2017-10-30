@@ -1,0 +1,25 @@
+point pointisbetween vector2 vector2d loop
+outlin extractor outlineextractor
+vector2 vector2d current loop
+vector2 vector2d loop
+dx1 current getx previou getx
+neighbour comput arrai loop
+param number point arrai
+check point geometr neighbour arrai
+d1d2 fast math fastmath sqrt dx1 dx1 dy1 dy1 dx2 dx2 dy2 dy2
+version
+dx2 getx current getx
+vector2 vector2d previou loop
+param loop point arrai
+dy1 current geti previou geti
+fast math fastmath ab cross d1d2 dot
+extractor link polygon set polygonsset polyhedron set outlin
+dy2 geti current geti
+param index point check
+polyhedron set project plane
+extract outlin link polygon set polygonsset
+org apach common math geometri euclidean threed
+cross dx1 dy2 dx2 dy1
+point neighbour
+dot dx1 dx2 dy1 dy2
+point index point index

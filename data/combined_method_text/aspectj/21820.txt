@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+declar preced declarepreced declar
+compar resolv type resolvedtyp aspect1 resolv type resolvedtyp aspect2
+index1 match index matchingindex aspect1
+index2 match index matchingindex aspect2
+system println aspect1 aspect2 index1 index2
+index1 index2
+index1 index2
+index1 index2

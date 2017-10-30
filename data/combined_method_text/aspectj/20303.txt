@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+type munger modifi class mung method includ
+field repres cflowcount object
+bcel cflow counter field adder bcelcflowcounterfieldadd bcel type munger bceltypemung
+bcel cflow counter field adder bcelcflowcounterfieldadd resolv member resolvedmemb cflow counter field cflowcounterfield
+resolv type resolvedtyp cflow counter field cflowcounterfield declar type getdeclaringtyp
+cflow counter field cflowcounterfield cflow counter field cflowcounterfield

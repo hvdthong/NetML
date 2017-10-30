@@ -1,0 +1,34 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+creat branch instruct opcod lookupswitch tableswitch
+switch compound instruct
+branch instruct branchinstruct creat branch instruct createbranchinstruct opcod instruct handl instructionhandl target
+opcod
+constant ifeq ifeq target
+constant ifn ifn target
+constant iflt iflt target
+constant ifg ifg target
+constant ifgt ifgt target
+constant ifl ifl target
+constant icmpeq icmpeq icmpeq icmpeq target
+constant icmpn icmpn icmpn icmpn target
+constant icmplt icmplt icmplt icmplt target
+constant icmpg icmpg icmpg icmpg target
+constant icmpgt icmpgt icmpgt icmpgt target
+constant icmpl icmpl icmpl icmpl target
+constant acmpeq acmpeq acmpeq acmpeq target
+constant acmpn acmpn acmpn acmpn target
+constant goto goto target
+constant jsr jsr target
+constant ifnul ifnul target
+constant ifnonnul ifnonnul target
+constant goto goto goto goto target
+constant jsr jsr jsr jsr target
+runtim except runtimeexcept invalid opcod opcod

@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+instruct list instructionlist test instruct gettestinstruct
+bcel shadow bcelshadow shadow
+instruct handl instructionhandl
+instruct handl instructionhandl
+instruct handl instructionhandl
+system err println test pointcuttest
+bcel render bcelrender render test rendertest
+shadow factori getfactori
+shadow world getworld
+pointcut test pointcuttest

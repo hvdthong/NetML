@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+weav inter type declar weaveintertypedeclar compil unit scope compilationunitscop unit collect type munger typemung
+collect declar parent declarepar collect declar annot type declareannotationontyp
+length unit top level type topleveltyp length length
+weav inter type declar weaveintertypedeclar unit top level type topleveltyp type munger typemung declar parent declarepar declar annot type declareannotationontyp

@@ -1,0 +1,4 @@
+multiphrasequery sums idf similarity
+multiphrasequery generalized version phrasequery computes idf default summing terms
+problem similarity phrasequery calls similarity idfexplain collection term terms indexsearcher searcher
+multiphrasequery sums calling similarity idf int int term

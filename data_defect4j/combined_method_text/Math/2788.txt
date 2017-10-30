@@ -1,0 +1,10 @@
+length getlength
+length chromosom
+abstract list chromosom abstractlistchromosom chromosom
+chromosom repres immut list fix length
+org apach common math genet
+param type represent list
+version
+version revis date
+represent getrepresent size
+return length chromosom

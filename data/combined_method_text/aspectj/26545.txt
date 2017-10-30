@@ -1,0 +1,78 @@
+pre
+set
+makebceltyp
+clinit clinit clinit clinit
+creat creat creat creat
+getfield
+list list
+getbodi
+instruct instruct instruct instruct
+org
+constant constant
+fieldgen
+mangler mangler
+append append append append
+getajcpreclinit getajcpreclinit
+bceltypemung
+locat
+make
+bcelworld
+munger
+bcelclassweav
+createnew
+field field field field field field field field field field
+add
+getlazyclassgen
+pool
+dup
+objecttyp
+getdeclaringtyp
+ajc
+type type type type type type type type type type type type
+createset
+getnam
+cflowstackfield cflowstackfield cflowstackfield cflowstackfield cflowstackfield
+bcelcflowstackfieldadd
+setup setup setup setup setup setup
+sourc
+return
+gettyp
+createdup
+addfield
+invokespeci
+void
+mung
+lazyclassgen
+staticiniti
+util
+class class class
+lazi lazi lazi
+getfactori
+adder
+bcel bcel bcel bcel bcel bcel
+insert
+world
+method
+modifi
+gen gen gen gen gen gen gen gen gen gen gen gen
+aspectj
+getsourceloc
+bodi
+namemangl namemangl
+lazymethodgen lazymethodgen
+instructionlist instructionlist
+stack stack stack stack stack stack stack stack stack stack
+instructionfactori instructionfactori
+init
+equal
+object
+factori factori factori
+invok
+declar
+getconstantpoolgen
+cflow cflow cflow cflow cflow cflow cflow cflow cflow cflow
+getmodifi
+createinvok
+weaver weaver weaver weaver
+getreturntyp
+fact fact fact fact

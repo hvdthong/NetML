@@ -1,0 +1,15 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+report unmatch target kind messag reportunmatchedtargetkindmessag
+annot target kind annotationtargetkind annot target kind annotationtargetkind
+pattern node patternnod node
+scope iscop scope
+check match member kind checkmatchesmemberkindnam
+string buffer stringbuff target name targetnam string buffer stringbuff
+annot target kind annotationtargetkind length
+annot target kind annotationtargetkind target kind targetkind annot target kind annotationtargetkind
+check match member kind checkmatchesmemberkindnam kind getnam equal target kind targetkind getnam
+annot target kind annotationtargetkind length
+target name targetnam append elementtyp target kind targetkind getnam
+target name targetnam append elementtyp target kind targetkind getnam
+scope world getworld lint getlint unmatch target kind unmatchedtargetkind signal string node string tostr target name targetnam string tostr sourc locat getsourceloc sourc locat isourceloc

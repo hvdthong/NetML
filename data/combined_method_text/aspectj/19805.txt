@@ -1,0 +1,9 @@
+org aspectj weaver
+shadow
+type object
+throw illegalstateexcept
+unresolv type unresolvedtyp type getthistyp
+hasthi illeg state except illegalstateexcept
+kind getkind enclos kind isenclosingkind
+signatur getsignatur declar type getdeclaringtyp
+enclos shadow enclosingshadow type getthistyp

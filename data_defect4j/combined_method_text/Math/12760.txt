@@ -1,0 +1,16 @@
+repres region set polygon
+line line1 line
+vertic share line
+line line2 vertex line
+vertic bound line mean
+line1 line2
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+creat cut hyperplan
+version
+line1
+common line bound instanc vertex
+handl node line
+param vertex vertex check instanc
+line share line sharedlinewith vertex vertex
+line bound instanc vertex
+org apach common math3 geometri euclidean twod

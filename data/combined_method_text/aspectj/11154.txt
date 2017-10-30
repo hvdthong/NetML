@@ -1,0 +1,19 @@
+org aspectj ajdt intern compil ast
+author colyer
+creat aspectj annot ataspectjvisitor
+aspect annot factori ataspectjannotationfactori
+annot creat itd annot createitdannot target type targettypenam modifi po
+type typenam org aspectj intern lang annot itd annot itdannot
+posit type typenam length
+posit length posit po
+type refer typerefer ann type anntyp qualifi type refer qualifiedtyperefer type typenam posit
+normal annot normalannot ann normal annot normalannot ann type anntyp po
+express target expr targetexpr string liter stringliter target type targettypenam po po
+express expr nameexpr string liter stringliter po po
+express mod expr modsexpr int liter intliter integ string tostr modifi char arrai tochararrai po po
+member pair membervaluepair mvp member pair membervaluepair
+mvp member pair membervaluepair targettyp char arrai tochararrai po po target expr targetexpr
+mvp member pair membervaluepair char arrai tochararrai po po expr nameexpr
+mvp member pair membervaluepair modifi char arrai tochararrai po po mod expr modsexpr
+ann member pair membervaluepair mvp
+ann

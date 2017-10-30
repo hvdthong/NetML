@@ -1,0 +1,29 @@
+org aspectj ajdt intern core builder
+determin type structur chang increment
+compil end compil creat object
+byte class woven subsequ
+increment compil compar form class previous
+store compacttypestructurerepresent instanc structur chang
+recompil depend type
+compact type structur represent compacttypestructurerepresent binari type ibinarytyp
+compact type structur represent compacttypestructurerepresent class file reader classfileread cfr
+enclos type enclosingtypenam cfr enclos type getenclosingtypenam
+local isloc cfr local isloc
+anonym isanonym cfr anonym isanonym
+member ismemb cfr member ismemb
+sourc file sourcefilenam cfr sourc file sourcefilenam
+file filenam cfr file getfilenam
+tag bit tagbit cfr tag bit gettagbit
+binari type isbinarytyp cfr binari type isbinarytyp
+bin field binfield cfr field getfield bin field binfield bin field binfield field nofield
+bin method binmethod cfr method getmethod bin method binmethod bin method binmethod method nomethod
+member type membertyp cfr member type getmembertyp
+annot cfr annot getannot
+sourc sourcenam cfr sourc getsourcenam
+class classnam cfr getnam classnam cfr getnam slash
+modifi cfr modifi getmodifi
+gener signatur genericsignatur cfr gener signatur getgenericsignatur
+genericsignatur length
+genericsignatur null
+superclass superclassnam cfr superclass getsuperclassnam superclassnam cfr getsuperclassnam slash
+interfac cfr interfac name getinterfacenam

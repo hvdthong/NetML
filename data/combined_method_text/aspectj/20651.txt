@@ -1,0 +1,76 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+param callbackmethod method call back run method call
+param proceedmap map state posit proce argument posit
+cover state posit
+lazi method gen lazymethodgen make closur class return constructor makeclosureclassandreturnconstructor
+string closur class closureclassnam
+lazi method gen lazymethodgen callback method callbackmethod
+int map intmap proce map proceedmap
+string super class superclassnam org aspectj runtim intern aroundclosur
+type object arrai type objectarraytyp arrai type arraytyp type object
+lazi class gen lazyclassgen closur class closureclass lazi class gen lazyclassgen closur class closureclassnam
+super class superclassnam
+enclos class getenclosingclass file getfilenam
+modifi public
+string
+world getworld
+instruct factori instructionfactori fact instruct factori instructionfactori closur class closureclass constant pool gen getconstantpoolgen
+constructor
+lazi method gen lazymethodgen constructor lazi method gen lazymethodgen modifi public
+type void
+init
+type object arrai type objectarraytyp
+string
+closur class closureclass
+instruct list instructionlist cbodi constructor bodi getbodi
+cbodi append instruct factori instructionfactori creat load createload type object
+cbodi append instruct factori instructionfactori creat load createload object arrai type objectarraytyp
+cbodi append fact creat invok createinvok super class superclassnam init type void
+type object arrai type objectarraytyp constant invokespeci
+cbodi append instruct factori instructionfactori creat return createreturn type void
+closur class closureclass add method gen addmethodgen constructor
+method
+lazi method gen lazymethodgen run method runmethod lazi method gen lazymethodgen modifi public
+type object
+run
+type object arrai type objectarraytyp
+string
+closur class closureclass
+instruct list instructionlist mbodi run method runmethod bodi getbodi
+bcel var bcelvar proce var proceedvar bcel var bcelvar unresolv type unresolvedtyp objectarrai resolv world
+int proceedvarindex
+bcel var bcelvar state var statevar
+bcel var bcelvar unresolv type unresolvedtyp objectarrai resolv world run method runmethod alloc local allocateloc
+int statevarindex runmethod allocateloc
+mbodi append instruct factori instructionfactori creat createthi
+mbodi append fact creat field creategetfield super class superclassnam state object arrai type objectarraytyp
+mbodi append state var statevar creat store createstor fact
+mbodi append fact createstor objectarraytyp statevarindex
+type state type statetyp callback method callbackmethod argument type getargumenttyp
+len state type statetyp length len
+type state type statetyp state type statetyp
+resolv type resolvedtyp state type statetypex bcel world bcelworld bcel frombcel state type statetyp resolv world
+proce map proceedmap kei haskei
+mbodi append
+proce var proceedvar creat convert arrai load createconvertablearrayload fact proce map proceedmap
+state type statetypex
+mbodi append
+state var statevar creat convert arrai load createconvertablearrayload fact
+state type statetypex
+mbodi append util creat invok createinvok fact callback method callbackmethod
+kind getkind pre initi preiniti
+mbodi append util creat set createset
+fact
+ajc member maker ajcmembermak closur pre initi field aroundclosurepreinitializationfield
+mbodi append instruct constant instructionconst aconst null aconst null
+mbodi append
+util creat convers createconvers
+fact
+callback method callbackmethod return type getreturntyp
+type object
+mbodi append instruct factori instructionfactori creat return createreturn type object
+closur class closureclass add method gen addmethodgen run method runmethod
+class
+enclos class getenclosingclass add gener addgeneratedinn closur class closureclass
+constructor

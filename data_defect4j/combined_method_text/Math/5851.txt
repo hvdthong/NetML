@@ -1,0 +1,10 @@
+org apach common math linear
+inherit doc inheritdoc
+set vector setsubvector index matrix index except matrixindexexcept
+length
+spars real vector sparserealvector real vector realvector
+set entri setentri index
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+check index checkindex index
+check index checkindex index length

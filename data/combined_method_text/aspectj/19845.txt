@@ -1,0 +1,16 @@
+org aspectj weaver
+author colyer
+type factori typefactori
+creat unresolvedtyp signatur
+signatur liguard
+bound tostr iguard sig piguard sigerasur liguard kind parameter
+unresolv type unresolvedtyp convert sig type convertsigtotyp string signatur asignatur
+unresolv type unresolvedtyp bound
+start param startofparam signatur asignatur index indexof
+start param startofparam
+bound unresolv type unresolvedtyp signatur forsignatur signatur asignatur
+end param endofparam signatur asignatur index lastindexof
+string signatur erasur signatureerasur signatur asignatur substr start param startofparam
+unresolv type unresolvedtyp type param typeparam creat type param createtypeparam signatur asignatur substr start param startofparam end param endofparam
+bound unresolv type unresolvedtyp signatur asignatur substr signatur erasur signatureerasur type param typeparam
+bound

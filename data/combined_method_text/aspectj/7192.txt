@@ -1,0 +1,12 @@
+org aspectj weaver loadtim
+adapt gener class pre processor interfac aspectj weaver
+load time weav consist reli bcel setrepositori
+author href mailto alex gnilux dot alexandr vasseur
+class pre processor classpreprocessor
+weav adaptor weavingadaptor weaver getweav class loader classload loader
+weav adaptor weavingadaptor
+weav adaptor weavingadaptor weav adaptor weavingadaptor weav adaptor weavingadaptor weav adaptor weavingadaptor loader
+weav adaptor weavingadaptor
+weav adaptor weavingadaptor class loader weav adaptor classloaderweavingadaptor loader
+weav adaptor weavingadaptor put loader weav adaptor weavingadaptor
+weav adaptor weavingadaptor

@@ -1,0 +1,27 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+long time aspectj binari weav declar parent restrict lift
+test
+mung parent mungenewpar bcel class weaver bcelclassweav weaver parent type munger newparenttypemung munger
+lazi class gen lazyclassgen parent target newparenttarget weaver lazi class gen getlazyclassgen
+resolv type resolvedtyp parent newpar munger parent getnewpar
+cont boolean cont true set fals error mung
+cont enforc decp rule1 abstract method implement enforcedecprule1 abstractmethodsimpl weaver munger sourc locat getsourceloc parent target newparenttarget parent newpar
+cont enforc decp rule2 extend final class enforcedecprule2 cantextendfinalclass weaver munger sourc locat getsourceloc parent target newparenttarget parent newpar cont
+list method parent newpar method iter getmethodswithoutiter
+iter iter method iter iter hasnext
+resolv member resolvedmemb super method supermethod resolv member resolvedmemb iter
+super method supermethod getnam equal init
+lazi method gen lazymethodgen method submethod find match method findmatchingmethod parent target newparenttarget super method supermethod
+method submethod method submethod bridg method isbridgemethod submethod null submethod isbridgemethod fixm asc safe bridg method
+method submethod synthet issynthet super method supermethod synthet issynthet
+method submethod static isstat method submethod getnam start startswith access submethod isstat submethod getnam startswith access ignor gener accessor
+cont enforc decp rule3 visibl enforcedecprule3 visibilitychang weaver parent newpar super method supermethod method submethod cont
+cont enforc decp rule4 compat return type enforcedecprule4 compatiblereturntyp weaver super method supermethod method submethod cont
+cont enforc decp rule5 chang static nonstat enforcedecprule5 cantchangefromstatictononstat weaver munger sourc locat getsourceloc super method supermethod method submethod cont
+cont cont return fals rule violat error messag report
+parent newpar class isclass newpar isclass chang supertyp
+attempt modifi super call attempttomodifysupercal weaver parent target newparenttarget parent newpar
+parent target newparenttarget set super class setsuperclass parent newpar
+ad interfac
+parent target newparenttarget add interfac addinterfac parent newpar sourc locat getsourceloc

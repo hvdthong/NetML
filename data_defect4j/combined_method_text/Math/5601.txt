@@ -1,0 +1,116 @@
+real vector realvector add real vector realvector
+inherit doc inheritdoc
+version creat vector hold result chang instanc
+data getdata
+infinit isinfinit
+inf distanc getlinfdist
+map function
+distanc getdist
+vector element index base code entri getentri
+style
+return vector immut modif
+real vector realvector vector getsubvector index
+add
+map divid mapdivid
+dot product dotproduct real vector realvector
+return vector read access attempt modifi
+norm getnorm
+distanc getl1dist
+math unsupport oper except mathunsupportedoperationexcept
+result instanc chang method case result
+real vector realvector combin real vector realvector
+getvalu
+cosin
+read access
+unmodifi entri unmodifiableentri unmodifi entri unmodifiableentri
+set
+distanc getdist real vector realvector
+modifi invok method result
+real vector realvector subtract real vector realvector
+inf distanc getlinfdist real vector realvector
+real vector realvector copi
+iter entri
+vector getsubvector index
+append
+isnan
+modif call link real vector realvector result
+real vector realvector map subtract mapsubtract
+eb multipli ebemultipli
+real vector realvector map add mapaddtoself
+version
+set entri setentri index
+unit
+real vector realvector map subtract mapsubtracttoself
+result link math unsupport oper except mathunsupportedoperationexcept
+entri getentri index getindex
+appli function element turn code map
+real vector realvector map univari real function univariaterealfunct function
+real vector realvector
+code chang return view
+unmodifi entri unmodifiableentri entri
+subtract
+return unmodifi view vector
+anonym implement link real vector realvector
+add entri addtoentri index
+real vector realvector append
+vector return method allow fluent api
+arrai toarrai
+dot product dotproduct
+overrid
+real vector realvector append real vector realvector
+real matrix realmatrix outer product outerproduct real vector realvector
+norm getl1norm
+entri getentri index
+cosin real vector realvector
+real vector realvector real vector realvector unmodifi real vector unmodifiablerealvector
+current entri
+set vector setsubvector index real vector realvector
+org apach common math linear
+real vector realvector map maptoself univari real function univariaterealfunct function
+real vector realvector result map add mapaddtoself map maptoself tan map maptoself power
+return element vector
+real vector realvector map multipli mapmultiplytoself
+map multipli mapmultipli
+real vector realvector map multipli mapmultipli
+dimens getdimens
+unmodifi view code
+copi
+real vector realvector unit vector unitvector
+real vector realvector map divid mapdividetoself
+eb divid ebedivid
+hasnext
+map subtract mapsubtract
+remov
+code view code
+project
+class defin real valu vector basic algebra oper
+entri vector
+iter entri iter
+pre
+vector element wise perform oper ad scalar
+real vector realvector map add mapadd
+real vector realvector unmodifi real vector unmodifiablerealvector real vector realvector
+piec code
+code code map code map maptoself method oper
+code map maptoself version instanc store
+inf norm getlinfnorm
+wrap link real vector realvector expos method
+real vector realvector map divid mapdivid
+set index setindex index getindex
+real vector realvector project real vector realvector
+outer product outerproduct
+distanc getl1dist real vector realvector
+real vector realvector eb multipli ebemultipli real vector realvector
+map add mapadd
+real vector realvector arrai real vector arrayrealvector
+iter entri spars iter sparseiter
+link math unsupport oper except mathunsupportedoperationexcept note
+real vector realvector eb divid ebedivid real vector realvector
+entri
+set entri setentri
+combin
+set setvalu
+unit vector unitvector
+link unmodifi vector unmodifiablevector immut
+param vector unmodifi view return
+real vector realvector combin combinetoself real vector realvector

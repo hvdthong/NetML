@@ -1,0 +1,86 @@
+code
+empti isempti blank isblank
+oper link java lang string
+levenshtein distanc levenshteindist
+code char sequenc charsequ code
+remov lead trail whitespac
+append suffix end string present
+safe substr extract
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+search string replac string
+char sequenc util charsequenceutil index indexof seq search seq searchseq
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+param search seq searchseq char sequenc charsequ find
+check string end suffix safe
+code string util stringutil defin word relat
+default string defaultstr
+whitespac charact defin link charact whitespac iswhitespac
+replac overlai
+empti length string code
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+compar string safe
+symbol code input includ code
+levenstein distanc levensteindist
+string util stringutil abc
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+param seq char sequenc charsequ check
+protect input string
+code input code
+code safe
+containsonli containsnon containsani
+revers revers delimit reversedelimit
+detail vari method
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+revers string
+end endswith
+code string util stringutil handl code input string quietli
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+check string start prefix safe
+prepend miss prependifmiss
+space space charact code
+method link string index indexof string
+remov part string
+char sequenc charsequ seq char sequenc charsequ search seq searchseq
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+substr left mid
+equal
+code null pointer except nullpointerexcept consid bug
+code string input
+code code return
+chomp chop
+string charact
+char sequenc charsequ search char sequenc charsequ
+java lang string
+safe index check
+seq search seq searchseq
+code string util stringutil
+string util stringutil
+check char sequenc charsequ search char sequenc charsequ handl code
+thread safe threadsaf
+chang signatur string string char sequenc charsequ char sequenc charsequ
+check charact string
+append miss appendifmiss

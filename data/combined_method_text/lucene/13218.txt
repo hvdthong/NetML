@@ -1,0 +1,7 @@
+org apach lucen index
+term buffer termbuff cloneabl
+call indexinput pass link read
+store term modifi utf8 pre lucen
+format
+set pre utf8 string setpreutf8str
+pre utf8 string preutf8str

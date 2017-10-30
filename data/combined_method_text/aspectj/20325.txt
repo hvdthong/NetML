@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+defin alreadydefin lazi class gen lazyclassgen clazz lazi method gen lazymethodgen
+iter clazz method gen getmethodgen iter hasnext
+lazi method gen lazymethodgen exist lazi method gen lazymethodgen
+signatur match signaturesmatch exist
+abstract isabstract exist abstract isabstract
+remov

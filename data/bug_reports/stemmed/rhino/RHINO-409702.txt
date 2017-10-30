@@ -1,0 +1,53 @@
+javaadapt verifyerror abstract class
+regress 6r5
+fail run jdk interpret mode result similar jdk error messag good run valu optim
+java
+packag overrid
+public abstract class withfin
+public withfin
+
+public abstract void
+public abstract void
+public static abstract class subclass extend withfin
+public final void
+
+
+
+rhino shell
+var instanc javaadapt
+packag overrid withfin subclass
+
+function
+
+
+
+print instanc
+output rhino 6r5
+adapter1 18ee9d6
+rhino 6r7
+except thread main java lang verifyerror class adapter1 overrid final method
+java lang classload defineclass1 nativ method
+java lang classload defineclass classload java
+org mozilla javascript definingclassload defineclass definingclassload java
+org mozilla javascript javaadapt loadadapterclass javaadapt java
+org mozilla javascript javaadapt getadapterclass javaadapt java
+org mozilla javascript javaadapt createadpt javaadapt java
+org mozilla javascript javaadapt execidcal javaadapt java
+org mozilla javascript idfunctionobject call idfunctionobject java
+org mozilla javascript basefunct construct basefunct java
+org mozilla javascript interpret interpretloop interpret java
+org mozilla javascript interpret interpret interpret java
+org mozilla javascript interpretedfunct call interpretedfunct java
+org mozilla javascript contextfactori dotopcal contextfactori java
+org mozilla javascript scriptruntim dotopcal scriptruntim java
+org mozilla javascript interpretedfunct exec interpretedfunct java
+org mozilla javascript tool shell main evaluatescript main java
+org mozilla javascript tool shell main processfilesecur main java
+org mozilla javascript tool shell main processfil main java
+org mozilla javascript tool shell main processsourc main java
+org mozilla javascript tool shell main processfil main java
+org mozilla javascript tool shell main iproxi run main java
+org mozilla javascript context call context java
+org mozilla javascript contextfactori call contextfactori java
+org mozilla javascript tool shell main exec main java
+org mozilla javascript tool shell main main main java

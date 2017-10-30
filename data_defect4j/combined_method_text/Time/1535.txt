@@ -1,0 +1,13 @@
+author stephen colebourn
+defin instant time queri datetim field
+paramet method read datetim perform
+month year getmonthofyear
+implement mutabl immut
+month year
+access retriev data chang
+org joda time
+method applic defin code readabl date time readabledatetim code
+advanc manipul
+author brian neill o'neil
+readabl date time readabledatetim readabl instant readableinst
+month year field

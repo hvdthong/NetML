@@ -1,0 +1,4 @@
+org aspectj weaver
+type typex annot element annotatedel
+type typex type paramet gettypeparamet
+type paramet typeparamet type typex type paramet typeparamet

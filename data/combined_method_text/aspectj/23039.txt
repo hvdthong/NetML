@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+withincod pointcut withincodepointcut pointcut
+write data output stream dataoutputstream except ioexcept
+write byte writebyt pointcut withincod
+signatur write
+write locat writeloc

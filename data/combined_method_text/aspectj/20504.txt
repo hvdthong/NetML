@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+extra process step need declar annot pre resolv
+resolut pointcut resolv
+param attributelist
+resolv annot declar resolveannotationdeclar list attribut list attributelist
+formal bind formalbind bind org aspectj weaver pattern formal bind formalbind
+scope iscop bind scope bindingscop bind scope bindingscop
+resolv type getresolvedtypex
+resolv type getresolvedtypex sourc context getsourcecontext
+bind
+iter iter attribut list attributelist iter iter hasnext
+attribut ajattribut attribut ajattribut iter
+attribut ajattribut declar attribut declareattribut
+declar decl attribut ajattribut declar attribut declareattribut declar getdeclar
+decl declar error warn declareerrororwarn
+decl declar preced declarepreced
+decl resolv bind scope bindingscop

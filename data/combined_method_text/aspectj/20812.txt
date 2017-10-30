@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+build world classload ltw support
+param loader
+param handler
+param xrefhandl
+bcel world bcelworld class loader classload loader messag handler imessagehandl handler cross refer handler icrossreferencehandl xref handler xrefhandl
+class path classpath
+loader loader
+set messag handler setmessagehandl handler
+set cross refer handler setcrossreferencehandl xref handler xrefhandl
+bcel resolv class
+deleg getclassloaderrepositoryfor loader

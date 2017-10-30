@@ -1,0 +1,12 @@
+org aspectj weaver
+author colyer
+type factori typefactori
+refer type referencetyp creat raw type createrawtyp
+resolv type resolvedtyp base type abasetyp
+world world inaworld
+base type abasetyp raw type israwtyp refer type referencetyp base type abasetyp
+base type abasetyp gener type isgenerictyp
+base type abasetyp raw type israwtyp illeg state except illegalstateexcept expect gener type
+refer type referencetyp type rtype refer type referencetyp base type abasetyp world inaworld
+rtype setsourcecontext abasetyp getsourcecontext
+refer type referencetyp type rtype resolv world inaworld

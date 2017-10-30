@@ -1,0 +1,12 @@
+finding newest segment empty index
+extending index writer discovered newestsegment method check segments accessing segment infos vector specifically call indexwriter newestsegment method brand index essentially empty throws java lang arrayindexoutofboundsexception exception
+proposed fix return null segments exist shown
+lucene src java org apache lucene index indexwriter java revision
+lucene src java org apache lucene index indexwriter java working copy
+
+utility routines tests
+segmentinfo newestsegment
+
+return segmentinfos info segmentinfos size
+return segmentinfos size segmentinfos info segmentinfos size null
+

@@ -1,0 +1,13 @@
+author stephen colebourn
+read writabl date time readwritabledatetim readabl date time readabledatetim read writabl instant readwritableinst
+defin instant time queri modifi datetim field
+param year year
+paramet method manipul chang date simpl wai
+implement mutabl
+illeg argument except illegalargumentexcept invalid
+org joda time
+provid advanc method
+author brian neill o'neil
+method applic defin code read writabl date time readwritabledatetim code
+set year
+set year setyear year

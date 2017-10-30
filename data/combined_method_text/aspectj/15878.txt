@@ -1,0 +1,26 @@
+org aspectj bridg
+wrap imessagehandl count messag handl
+messag deleg imessagehandl count
+count messag handler countingmessagehandl messag handler imessagehandl
+return count messag interfac
+param kind imessag kind messag count
+null count
+param orgreat true count kind
+consid greater order
+imessag kind compar
+return number messag kind option greater
+imessag kind compar
+num messag nummessag messag imessag kind kind greater orgreat
+proxi
+proxi num messag nummessag kind greater orgreat
+result
+kind
+enumer enu counter element enu element hasmoreel
+result int holder inthold enu element nextel count
+greater orgreat
+result num messag nummessag kind
+iter iter messag imessag kind iter iter hasnext
+messag imessag kind messag imessag kind iter
+kind issameorlessthan
+result num messag nummessag
+result

@@ -1,0 +1,23 @@
+dump stack trace loading proxy classes
+bcexception caught prints stack trace preprocess loading class named proxy4
+occurs unresolvedtype nametosignature string receives resolvedtype getdeclaringtype strips leading treating type nested type
+resolution loop resolvedtype lastdollar handle leading case identifier empty string hibernate's types
+stack
+unresolvedtype nametosignature string line
+unresolvedtype forname string line
+referencetype resolvedtype getdeclaringtype line
+withinpointcut iswithintype resolvedtype line
+withinpointcut fastmatch fastmatchinfo line
+andpointcut fastmatch fastmatchinfo line
+andpointcut fastmatch fastmatchinfo line
+andpointcut fastmatch fastmatchinfo line
+andpointcut fastmatch fastmatchinfo line
+andpointcut fastmatch fastmatchinfo line
+bcelweaver fastmatch list resolvedtype line
+bcelweaver weave unwovenclassfile bcelobjecttype boolean line
+bcelweaver weavewithoutdump unwovenclassfile bcelobjecttype line
+bcelweaver weaveandnotify unwovenclassfile bcelobjecttype iweaverequestor line
+bcelweaver weave iclassfileprovider line
+classloaderweavingadaptor weavingadaptor getwovenbytes string byte line
+classloaderweavingadaptor weavingadaptor weaveclass string byte line
+preprocess string byte classloader line

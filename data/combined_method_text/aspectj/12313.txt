@@ -1,0 +1,11 @@
+org aspectj apach bcel classfil
+class repres constant pool refer method
+version constantmethodref java aclement exp
+author href mailto marku dahm berlin dahm
+constant methodref constantmethodref constant constantcp
+call object travers node tree implicit
+defin content java class hierarchi method
+field attribut spawn tree object
+param visitor object
+accept visitor
+visit constant methodref visitconstantmethodref

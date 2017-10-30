@@ -1,0 +1,11 @@
+creat exponenti distribut
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+param invers cum accuraci inversecumaccuraci maximum absolut error invers cumul probabl estim
+param distribut
+implement link exponenti distribut exponentialdistribut
+default link default invers absolut accuraci
+exponenti distribut impl exponentialdistributionimpl invers cum accuraci inversecumaccuraci
+exponenti distribut impl exponentialdistributionimpl abstract continu distribut abstractcontinuousdistribut
+version revis date
+org apach common math distribut
+set intern setmeanintern

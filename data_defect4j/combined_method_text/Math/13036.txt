@@ -1,0 +1,18 @@
+basic implement link field matrix fieldmatrix method underli storag
+method implement link entri getentri access
+trace
+org apach common math3 linear
+abstract field matrix abstractfieldmatrix field element fieldel
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+trace trace add entri getentri
+trace field getzero
+trace gettrac squar matrix except nonsquarematrixexcept
+version
+squar matrix except nonsquarematrixexcept row nrow col ncol
+row nrow
+param type field element
+trace gettrac
+col ncol column dimens getcolumndimens
+row nrow row dimens getrowdimens
+row nrow col ncol

@@ -1,0 +1,36 @@
+pre
+rel tol reltol compon
+param converg converg threshold event time search
+switch handler switcheshandl add function max check interv maxcheckinterv converg max iter count maxiterationcount
+algorithm perform integr stepsiz control
+step reject attempt made
+function check interv prevent miss sign
+org apach common math od
+param function switch function
+add switch function addswitchingfunct switch function switchingfunct function
+max iter count maxiterationcount
+integr step larg
+clear switch function clearswitchingfunct
+compon user scalar valu ab tol abstol
+state vector dimens step accept
+switch handler switcheshandl add switch function addswitchingfunct function max check interv maxcheckinterv converg max iter count maxiterationcount
+max check interv maxcheckinterv
+sqrt sum err est errest threshold
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+version revis date
+param max iter count maxiterationcount upper limit iter count
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+param max check interv maxcheckinterv maxim time interv switch
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+mean user integr step
+estim error
+converg
+add switch function integr
+stepsiz
+event time search
+switch function getswitchingfunct
+ab tol abstol absolut toler compon

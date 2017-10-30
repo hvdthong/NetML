@@ -1,0 +1,25 @@
+org aspectj weaver pattern
+pattern parser patternpars
+string pars annot pattern parseannotationnamevaluepattern
+string buffer stringbuff buf string buffer stringbuff
+token itoken tok
+start po startpo token sourc tokensourc peek start getstart
+dot dotok
+depth
+tok token sourc tokensourc peek
+hit
+tok string getstr depth
+tok string getstr depth
+tok string getstr depth
+track nest bracket
+tok string getstr depth
+tok string getstr depth
+tok string getstr depth
+tok string getstr depth
+tok string getstr dot dotok
+parser except parserexcept dot expect tok
+buf append tok string getstr
+token sourc tokensourc
+dot dotok
+buf length
+buf string tostr

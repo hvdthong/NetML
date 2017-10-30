@@ -1,0 +1,7 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+lint string string info
+lint lint bcel world bcelworld lint getlint
+kind kind lint lint kind getlintkind
+kind signal info

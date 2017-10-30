@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+list declar annot statement return
+possibl match field method ctor type
+list match subset getmatchingsubset list declar annot declareannot resolv type resolvedtyp type
+list subset arrai list arraylist
+iter iter declar annot declareannot iter iter hasnext
+declar annot declareannot declar annot declareannot iter
+match couldevermatch type
+subset add
+subset

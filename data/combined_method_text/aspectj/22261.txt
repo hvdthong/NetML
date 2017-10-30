@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+check pattern node patternnod type pattern istypepattern
+dump pointcut visitor dumppointcutvisitor dump pointcut visitor dumppointcutvisitor
+accept
+dump pointcut visitor dumppointcutvisitor dump pointcut visitor dumppointcutvisitor
+pattern node patternnod pc2
+type pattern istypepattern
+pc2 pattern parser patternpars pars type pattern parsetypepattern
+pc2 pointcut string fromstr
+pc2 accept
+pars string form stai stabl pars pars
+equal
+parser except parserexcept unstabl back pars

@@ -1,0 +1,30 @@
+satisfi requir optim
+link org apach common math3 optim univari univari optim univariateoptim
+param max eval maxev maximum number function evalu
+illeg argument except illegalargumentexcept code min max endpoint
+org apach common math3 except null argument except nullargumentexcept
+optim requir interv bracket singl optimum
+start startvalu
+version
+interfac
+param func type object function optim
+param max upper bound interv
+univari point pair univariatepointvaluepair optim max eval maxev func goal type goaltyp goal type goaltyp
+common math user api advis base code
+param start startvalu start
+argument code
+org apach common math3 optim univari
+min max
+param function optim
+param goal type goaltyp type optim goal
+point pair function optimum
+link goal type goaltyp maxim link goal type goaltyp minim
+org apach common math3 except evalu except toomanyevaluationsexcept
+optim detect converg problem
+deprec remov
+org apach common math3 except converg except convergenceexcept
+param min lower bound interv
+maximum evalu count exceed
+base univari optim baseunivariateoptim func univari function univariatefunct
+find optimum interv start start startvalu
+intend enforc intern coher

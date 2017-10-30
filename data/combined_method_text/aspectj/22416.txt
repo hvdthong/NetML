@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+pattern parser patternpars
+exact annot type pattern exactannotationtypepattern pars annot var type pattern parseannotationnameorvartypepattern
+exact annot type pattern exactannotationtypepattern
+start po startpo token sourc tokensourc peek start getstart
+eat maybeeat
+parser except parserexcept foo form deprec aspectj annot var token sourc tokensourc peek
+pars simpl annot parsesimpleannotationnam
+end po endpo token sourc tokensourc peek end getend
+set locat setloc sourc context sourcecontext start po startpo end po endpo

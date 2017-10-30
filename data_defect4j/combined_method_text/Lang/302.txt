@@ -1,0 +1,20 @@
+author stephen colebourn
+pre
+convert charact integ repres throw
+illeg argument except illegalargumentexcept charact ascii numer
+param charact convert
+illeg argument except illegalargumentexcept charact rang '0' '9'
+oper primit charact object
+char util charutil int tointvalu '3'
+charact
+handl code code input gracefulli
+except charact numer
+version
+char util charutil int tointvalu 'a' illeg argument except illegalargumentexcept
+method covert '1'
+int tointvalu
+except thrown code code input
+char util charutil
+ascii numer isasciinumer
+method document behaviour detail
+org apach common lang

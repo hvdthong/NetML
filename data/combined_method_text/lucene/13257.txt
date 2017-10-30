@@ -1,0 +1,12 @@
+org apach lucen index
+store monoton increas set term terminfo pair
+directori pair access term ordin posit
+set
+term info reader terminfosread
+term info sameterminfo term info terminfo ti1 term info terminfo ti2 segment term enum segmenttermenum enumer
+ti1 doc freq docfreq ti2 doc freq docfreq
+ti1 freq pointer freqpoint ti2 freq pointer freqpoint
+ti1 prox pointer proxpoint ti2 prox pointer proxpoint
+skipoffset valid docfreq skipinterv
+ti1 doc freq docfreq enumer skip interv skipinterv
+ti1 skip offset skipoffset ti2 skip offset skipoffset

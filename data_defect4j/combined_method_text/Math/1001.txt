@@ -1,0 +1,15 @@
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+exceed
+param func type function solv
+version
+solver
+root
+solv dosolv
+bracket except nobracketingexcept initi search interv bracket
+evalu except toomanyevaluationsexcept maxim number evalu
+method implement actual optim algorithm deriv
+evalu except toomanyevaluationsexcept bracket except nobracketingexcept
+provid implement function gener
+org apach common math analysi solver
+class
+root solver requir

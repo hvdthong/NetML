@@ -1,0 +1,18 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+convert org aspectj org eclips jdt intern compil ast javadoc javadoc packag declar packagedeclar packag declar packagedeclar
+ast api level apilevel ast jls3 packag declar packagedeclar javadoc getjavadoc
+javadoc
+comment mapper commentmapp comment mapper commentmapp tabl hassamet comment tabl commentst
+comment mapper commentmapp default comment mapper defaultcommentmapp comment tabl commentst
+comment comment comment mapper commentmapp comment getcom javadoc sourc start sourcestart
+comment comment doc comment isdoccom comment parent getpar
+javadoc doc comment doccom javadoc comment
+resolv bind resolvebind
+record node recordnod doc comment doccom javadoc
+resolv member method refer bind
+iter tag doc comment doccom tag list iter listiter
+tag hasnext
+record node recordnod javadoc tag element tagel tag
+packag declar packagedeclar set javadoc setjavadoc doc comment doccom

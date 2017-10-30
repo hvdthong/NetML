@@ -1,0 +1,20 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+return instructioncontextimpl jsr jsr
+executionchain
+ret
+call
+return null call top level
+instruct context impl instructioncontextimpl execut jsr lastexecutionjsr
+size execut predecessor executionpredecessor size
+retcount
+size
+instruct context impl instructioncontextimpl current instruct context impl instructioncontextimpl execut predecessor executionpredecessor
+instruct currentlast current instruct getinstruct instruct getinstruct
+currentlast ret retcount
+currentlast jsr instruct jsrinstruct
+retcount
+retcount current

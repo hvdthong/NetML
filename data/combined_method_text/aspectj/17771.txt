@@ -1,0 +1,48 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+add list path plural argument
+add list arg addlistarg list list build except buildexcept
+add flag path addflaggedpath classpath classpath list
+add flag path addflaggedpath bootclasspath bootclasspath list
+add flag path addflaggedpath extdir extdir list
+add flag path addflaggedpath aspectpath aspectpath list
+add flag path addflaggedpath injar injar list
+add flag path addflaggedpath inpath inpath list
+add flag path addflaggedpath sourceroot sourc root sourceroot list
+argfil
+string file argfil list
+file length
+file argfil project resolv file resolvefil file
+check argfil file locat
+list add argfil
+list add argfil absolut path getabsolutepath
+srcdir
+todo ignor srcdir argfil explicit includ
+string dir srcdir list
+dir length
+file dir project resolv file resolvefil dir
+check dir dir locat
+reli compil prune sourc file
+string file directori scanner getdirectoryscann dir includ file getincludedfil
+file length
+file file file dir file
+file util fileutil sourc suffix hassourcesuffix file
+list add file absolut path getabsolutepath
+adapt file adapterfil size
+iter iter adapt file adapterfil iter iter hasnext
+file file file iter
+file read canread file util fileutil sourc suffix hassourcesuffix file
+list add file absolut path getabsolutepath
+logger warn skip file file

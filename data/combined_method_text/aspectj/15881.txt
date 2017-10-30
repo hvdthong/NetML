@@ -1,0 +1,7 @@
+org aspectj bridg
+wrap imessagehandl count messag handl
+messag deleg imessagehandl count
+count messag handler countingmessagehandl messag handler imessagehandl
+return deleg tostr
+string string tostr
+deleg string tostr

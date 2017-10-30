@@ -1,0 +1,17 @@
+org aspectj apach bcel classfil
+travers javaclass visitor object 'piggi backed'
+appli compon javaclass object
+class suppli travers strategi class make
+version descendingvisitor java aclement exp
+author href mailto marku dahm berlin dahm
+descend visitor descendingvisitor visitor
+visit code visitcod code code
+stack push code
+code accept visitor
+code except codeexcept tabl code except tabl getexceptiont
+tabl length
+tabl accept
+attribut attribut code attribut getattribut
+attribut length
+attribut accept
+stack pop

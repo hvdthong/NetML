@@ -1,0 +1,10 @@
+simpl constructor
+org apach common math geometri euclidean threed
+region euclidean2 euclidean2d remain region remainingregion
+repres hyperplan link plane
+plane subplan abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d
+version
+param hyperplan underli hyperplan
+plane subplan hyperplan euclidean3 euclidean3d hyperplan
+hyperplan remain region remainingregion
+param remain region remainingregion remain region hyperplan

@@ -1,0 +1,15 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+year leap year
+leap year isleapyear year
+org joda time chrono
+param year year test
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+leap
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+reflect intent defin

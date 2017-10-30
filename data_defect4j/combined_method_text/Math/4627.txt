@@ -1,0 +1,15 @@
+param column number column matrix
+interfac defin visitor matrix entri
+org apach common math linear
+param type field element
+param row number row matrix
+start row startrow end row endrow start column startcolumn end column endcolumn
+param end column endcolumn final column index inclus
+field matrix preserv visitor fieldmatrixpreservingvisitor field element fieldel
+method call entri matrix visit
+start visit matrix
+version revis date
+param start column startcolumn initi column index
+param end row endrow final row index inclus
+param start row startrow initi row index
+start row column

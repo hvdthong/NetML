@@ -1,0 +1,12 @@
+org aspectj org eclips jdt core dom
+andpointcut dom ast node
+pointcutdesign 'left'
+pointcutdesign 'right'
+author ajh02
+pointcut andpointcut pointcut design pointcutdesign
+list properti descriptor propertydescriptor api level apilevel
+list properti list propertylist arrai list arraylist
+creat properti list createpropertylist refer pointcut referencepointcut properti list propertylist
+add properti addproperti left properti left properti properti list propertylist
+add properti addproperti properti properti properti list propertylist
+reap properti list reappropertylist properti list propertylist

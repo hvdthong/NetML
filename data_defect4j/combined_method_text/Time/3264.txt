@@ -1,0 +1,9 @@
+author stephen colebourn
+durat field repres field fix unit length
+differ field util fieldutil safe subtract safesubtract minuend instant minuendinst subtrahend instant subtrahendinst
+org joda time field
+differ unit milli iunitmilli
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+author brian neill o'neil
+precis durat field precisedurationfield base durat field basedurationfield
+precis durat field precisedurationfield thread safe immut

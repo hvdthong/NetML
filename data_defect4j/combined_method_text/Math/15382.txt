@@ -1,0 +1,34 @@
+covari getcovari default singular threshold
+row equal dimens
+org apach common math3 optim gener
+deprec
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+handl boilerpl method threshold set
+covari matrix
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+link optim differenti multivari vector function differentiablemultivariatevectorfunct
+covari getcovari
+link optim multivari differenti vector function multivariatedifferentiablevectorfunct
+version
+construct jacobian matrix function argument method
+function argument method
+optim assum matrix return
+org apach common math3 linear singular matrix except singularmatrixexcept
+link multivari matrix function multivariatematrixfunct method row
+abstract squar optim abstractleastsquaresoptim
+link jacobian function jacobianfunct method row
+number column equal length code start point startpoint arrai
+link org apach common math3 optim target target
+covari matrix optim paramet
+deprec remov
+deprec link comput covari computecovari
+iter model function column iter paramet
+link jacobian function jacobianfunct jacobian function argument method
+link differenti multivari vector function differentiablemultivariatevectorfunct jacobian
+covari matrix comput singular problem
+number row equal length code target arrai
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number

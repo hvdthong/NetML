@@ -1,0 +1,15 @@
+deprec remov
+univari real solver impl univariaterealsolverimpl converg algorithm impl convergingalgorithmimpl
+param end number
+sequenc issequ start mid end
+solver
+univari real solver impl univariaterealsolverimpl
+return argument form strictli increas sequenc
+link abstract univari real solver abstractunivariaterealsolv
+param mid number
+provid implement function gener
+param start number
+argument form increas sequenc
+version revis date
+org apach common math analysi solver
+start mid mid end

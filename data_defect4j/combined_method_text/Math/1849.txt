@@ -1,0 +1,13 @@
+param invers cum accuraci inversecumaccuraci maximum absolut error invers cumul probabl estim
+gamma distribut impl gammadistributionimpl alpha beta invers cum accuraci inversecumaccuraci
+param beta scale paramet
+set alpha intern setalphaintern alpha
+gamma distribut impl gammadistributionimpl abstract continu distribut abstractcontinuousdistribut
+default link default invers absolut accuraci
+creat gamma distribut alpha beta valu
+version revis date
+set beta intern setbetaintern beta
+param alpha shape paramet
+org apach common math distribut
+implement link gamma distribut gammadistribut
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci

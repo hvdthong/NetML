@@ -1,0 +1,19 @@
+org apach common math3 geometri partit
+split hyperplan
+hyperplan cut hyperplan closer tree root
+param minu part hyperplan minu side
+minu minu
+repres remain part hyperplan
+param part hyperplan side
+link bsp tree bsptree bsp tree intersect cut
+hyperplan hyperplan chop hyperplan
+intersect remain part convex region object
+hyperplan obtain part link
+version
+split hyperplan splitsubhyperplan hyperplan subhyperplan
+param type embed space
+part chop
+build split hyperplan splitsubhyperplan part
+hyperplan convex region split chop
+hyperplan subhyperplan space
+hyperplan subhyperplan minu

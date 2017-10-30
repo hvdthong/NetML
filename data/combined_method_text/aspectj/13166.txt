@@ -1,0 +1,22 @@
+org aspectj apach bcel gener
+templat class build java class initi
+exist java class file
+javaclass
+version classgen java aclement exp
+author href mailto marku dahm berlin dahm
+upgrad andi clement 9th mar calcul suid
+class gen classgen access flag accessflag cloneabl
+conveni method
+add empti constructor class call super
+param access right constructor
+add empti constructor addemptyconstructor access flag
+instruct list instructionlist instruct list instructionlist
+append instruct constant instructionconst append instructionconst push this'
+append invokespeci add methodref addmethodref super class
+init
+append instruct constant instructionconst return
+method gen methodgen method gen methodgen access flag type void type arg arg
+init class
+set max stack setmaxstack
+set max local setmaxloc
+add method addmethod method getmethod

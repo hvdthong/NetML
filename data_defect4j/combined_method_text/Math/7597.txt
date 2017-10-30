@@ -1,0 +1,21 @@
+pre
+org apach common math optim fit
+compar weight observ point weightedobservedpoint creat weight observ point compar createweightedobservedpointcompar
+paramet fitter fit
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+factori method creat code compar compar
+fit point link
+code weight observ point weightedobservedpoint instanc
+version
+version revis date
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+compar weight observ point weightedobservedpoint
+gaussian fitter gaussianfitt curv fitter curvefitt
+usag
+getx getx
+weight getweight weight getweight
+org apach common math analysi function gaussian parametr gaussian function
+code compar instanc
+geti geti
+compar weight observ point weightedobservedpoint weight observ point weightedobservedpoint

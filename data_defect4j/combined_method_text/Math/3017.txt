@@ -1,0 +1,11 @@
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+build interv set singl interv
+code lower code doubl posit infin
+param upper upper bound interv greater equal
+param lower lower bound interv lesser equal
+repres region set interv
+build tree buildtre lower upper
+interv set intervalsset lower upper
+version
+org apach common math geometri euclidean on
+code upper code doubl neg infin

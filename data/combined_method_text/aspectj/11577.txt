@@ -1,0 +1,7 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+annot runtim retent isannotationwithruntimeretent
+annot isannot
+bind annot tag bit getannotationtagbit tag bit tagbit annot retent mask annotationretentionmask tag bit tagbit annot runtim retent annotationruntimeretent

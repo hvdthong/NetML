@@ -1,0 +1,10 @@
+overrid
+univari real solver univariaterealsolv bisect solver newbisectionsolv
+common math
+solver return factori link brent solver brentsolv
+concret link univari real solver factori univariaterealsolverfactori solver factori
+inherit doc inheritdoc
+bisect solver bisectionsolv
+version revis date
+univari real solver factori impl univariaterealsolverfactoryimpl univari real solver factori univariaterealsolverfactori
+org apach common math analysi solver

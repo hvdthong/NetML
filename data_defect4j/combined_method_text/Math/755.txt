@@ -1,0 +1,18 @@
+interfac univari real integr algorithm
+param min lower bound interv
+integr function interv
+org apach common math analysi integr
+satisfi requir integr
+function
+function evalu except functionevaluationexcept illeg argument except illegalargumentexcept
+function evalu except functionevaluationexcept error occur evalu
+deprec
+converg except convergenceexcept maximum iter count exceed
+integr
+version revis date
+univari real integr univariaterealintegr converg algorithm convergingalgorithm
+integr detect converg problem
+param max upper bound interv
+deprec replac link integr univari real function univariaterealfunct
+illeg argument except illegalargumentexcept min max endpoint
+integr min max converg except convergenceexcept

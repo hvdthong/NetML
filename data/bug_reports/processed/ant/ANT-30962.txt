@@ -1,0 +1,126 @@
+cvschangelog crashes nullpointerexception
+
+make cvschangelog running face strange problem
+cvschangelog crashes nullpointerexception
+task
+target cvs changelog
+cvschangelog
+dir somedir
+destfile changelog xml
+target
+error ant full trace
+attached end file
+java lang nullpointerexception
+java util calendar settime calendar java
+plain cvs works
+cvs log aug aug somedir
+outputs correct result full trace end file
+cvs log logging somedir
+
+
+cvs configuration
+add daysinpast option report week
+past crashes slightly problem
+nullpointerexception java util date
+daysinpast entries generated
+change yesterday cvschangelog task runs generates
+empty report successfully
+caused incompatible cvs exe optional jar combination
+cvs server version incompatible ant
+optional jar combinations ant optional jar
+result error
+cvs exe path belongs wincvs1 reports version
+41a
+working winxp sp2
+ideas problem bug
+ant don find solution
+
+benno
+cvs output
+cvs log logging src traleon vsd gui variants
+rcs file cvs bel vsd src traleon vsd gui variants documentdiagram gif
+working file src traleon vsd gui variants documentdiagram gif
+head
+branch
+locks strict
+access list
+keyword substitution
+total revisions selected revisions
+description
+
+rcs file cvs bel vsd src traleon vsd gui variants gearwheel gif
+working file src traleon vsd gui variants gearwheel gif
+head
+branch
+locks strict
+access list
+keyword substitution
+total revisions selected revisions
+description
+
+rcs
+file cvs bel vsd src traleon vsd gui variants jpanelproductselector java
+working file src traleon vsd gui variants jpanelproductselector java
+head
+branch
+locks strict
+access list
+keyword substitution
+total revisions selected revisions
+description
+
+revision
+date author sgb state exp lines
+fixed bug nullpointerex jpanelspeicherkante beforedeletion
+
+revision
+date author bel state exp lines
+disabling functions license settings
+
+revision
+date author arr state exp lines
+sim menu item level
+export menu item removed
+pluginspanel resizing corrected
+register changed notifications levels
+timline diagramm shows calculated static dlz
+
+rcs
+file cvs bel vsd src traleon vsd gui variants jspinnervariantvalue java
+working file src traleon vsd gui variants jspinnervariantvalue java
+head
+branch
+locks strict
+access list
+keyword substitution
+total revisions selected revisions
+description
+ant trace
+enabling verbose bring infos
+projects vsd ant cvs changelog
+buildfile build xml
+cvs changelog
+cvschangelog cvs log logging
+build failed
+java lang nullpointerexception
+java util calendar settime calendar java
+java text simpledateformat format simpledateformat java
+java text simpledateformat format simpledateformat java
+java text dateformat format dateformat java
+org apache tools ant taskdefs cvslib changelogwriter printentry
+changelogwriter java
+org apache tools ant taskdefs cvslib changelogwriter printchangelog
+changelogwriter java
+org apache tools ant taskdefs cvslib changelogtask writechangelog
+changelogtask java
+org apache tools ant taskdefs cvslib changelogtask execute
+changelogtask java
+org apache tools ant task perform task java
+org apache tools ant target execute target java
+org apache tools ant target performtasks target java
+org apache tools ant project executetarget project java
+org apache tools ant project executetargets project java
+org apache tools ant main runbuild main java
+org apache tools ant main start main java
+org apache tools ant main main main java
+total time seconds

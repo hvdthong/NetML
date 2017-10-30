@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bcel var bcelvar gen temp var gentempvar unresolv type unresolvedtyp type typex
+bcel var bcelvar type typex resolv world gen temp var index gentempvarindex type typex size getsiz

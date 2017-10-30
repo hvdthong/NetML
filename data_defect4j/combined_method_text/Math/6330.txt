@@ -1,0 +1,26 @@
+simpl constructor
+staticc statica staticb higham hall54 step interpol highamhall54stepinterpol
+higham hall54 step interpol highamhall54stepinterpol
+higham hall54 integr highamhall54integr
+org apach common math od
+scal absolut toler scalabsolutetoler
+comput high order formula stepsiz control
+param max step maxstep maxim step posit backward
+integr embed rung kutta fehlberg integr
+integr step smaller
+method function evalu step
+version revis date
+min step minstep max step maxstep scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler
+higham hall integr
+ordinari differenti equat
+build order higham hall integr step bound
+param min step minstep minim step posit backward
+automat step initi continu output
+param scal absolut toler scalabsolutetoler allow absolut error
+integr embed rung kutta integr
+higham hall54 integr highamhall54integr min step minstep max step maxstep
+version higham hall54 integr highamhall54integr java 39z luc
+integr
+order local extrapol mode solut
+param scal rel toler scalrelativetoler allow rel error
+scal rel toler scalrelativetoler

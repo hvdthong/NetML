@@ -1,0 +1,15 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+return copi signatur pattern type variabl refer
+replac entri map
+signatur pattern signaturepattern parameter parameterizewith map type variabl map typevariablemap world
+signatur pattern signaturepattern ret signatur pattern signaturepattern
+kind
+modifi
+return type returntyp parameter parameterizewith type variabl map typevariablemap
+declar type declaringtyp parameter parameterizewith type variabl map typevariablemap
+paramet type parametertyp parameter parameterizewith type variabl map typevariablemap
+throw pattern throwspattern parameter parameterizewith type variabl map typevariablemap
+annot pattern annotationpattern parameter parameterizewith type variabl map typevariablemap
+ret copi locat copylocationfrom
+ret

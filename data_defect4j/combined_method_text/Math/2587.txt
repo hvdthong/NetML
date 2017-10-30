@@ -1,0 +1,17 @@
+org apach common math filter
+default implement link measur model measurementmodel
+real matrix realmatrix mea nois measnois
+creat link measur model measurementmodel take link real matrix realmatrix object
+measur matrix
+measur matrix measurementmatrix mea matrix measmatrix
+measur nois matrix
+version
+measur nois measurementnois mea nois measnois
+param mea nois measnois measur nois matrix
+param mea matrix measmatrix measur matrix
+default measur model defaultmeasurementmodel measur model measurementmodel
+param mea matrix measmatrix
+default measur model defaultmeasurementmodel real matrix realmatrix mea matrix measmatrix
+link kalman filter kalmanfilt
+input paramet respect measur matrix nois
+param mea nois measnois

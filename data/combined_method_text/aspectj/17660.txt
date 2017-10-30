@@ -1,0 +1,59 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+run throw except option system exit
+set messag handler emit messag immedi
+report boolean imessagehandl report total number
+error warn
+param arg string command line compil
+param usesystemexit true system exit int complet
+arg noexit
+signal result except error except compil error
+run main runmain string arg system exit usesystemexit
+urk default check ajdt enabl ant command line
+build manag ajbuildmanag enabl runtim version check enableruntimeversioncheck
+verbos flag arg flaginarg verbos arg
+client holder clienthold
+client holder clienthold check custom messag holder checkforcustommessagehold arg
+messag holder imessagehold holder client holder clienthold
+holder
+holder handler ourhandl
+verbos
+handler ourhandl set interceptor setinterceptor messag printer messageprint verbos
+handler ourhandl ignor messag imessag info
+handler ourhandl set interceptor setinterceptor messag printer messageprint ters
+make handl memori gracefulli
+byte byte test oom
+stime system current time milli currenttimemilli
+uncom line paus startup attach jconsol
+thread sleep catch except
+run arg holder
+etim system current time milli currenttimemilli
+holder handl messag handlemessag messag util messageutil info compil etim stime
+uncom line paus end jconsol aliv
+system read catch except
+memori error outofmemoryerror memori outofmemori
+messag imessag memori messag outofmemorymessag messag memori msg memori msg
+holder handl messag handlemessag memori messag outofmemorymessag
+system exit systemexit holder systemexit holder continu point
+compil weav context compilationandweavingcontext reset
+dump reset
+skip exit skipexit
+system exit usesystemexit lang util langutil empti isempti arg usesystemexit langutil isempti arg sigh pluck noexit
+arg length
+noexit equal arg
+skip exit skipexit
+system exit usesystemexit skip exit skipexit
+system exit systemexit holder

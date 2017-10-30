@@ -1,0 +1,23 @@
+org aspectj ajd swing
+edit build configur lst file graphic tree base
+represent
+author mik kersten
+tree view build config editor treeviewbuildconfigeditor panel jpanel build config editor buildconfigeditor
+open file openfil string config file configfil except ioexcept invalid resourc except invalidresourceexcept
+config file configfil
+messag msg messag structur select edit messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+configfil configfil
+sourcepath file file configfil getpar
+init jbinit
+label1 jlabel1 set text settext build configur config file configfil
+model ajd default getdefault build config manag getbuildconfigmanag build model buildmodel config file configfil
+root build tree buildtre build config node buildconfignod model root getroot
+build config tree buildconfig tree set model setmodel default tree model defaulttreemodel root
+build config tree buildconfig tree add mous listen addmouselisten config file mous adapt configfilemouseadapt build config tree buildconfig tree
+build config tree buildconfig tree set cell render setcellrender config tree cell render configtreecellrender
+build config tree buildconfig tree row count getrowcount
+build config tree buildconfig tree expand path expandpath build config tree buildconfig tree path row getpathforrow
+except
+messag msg messag open file messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

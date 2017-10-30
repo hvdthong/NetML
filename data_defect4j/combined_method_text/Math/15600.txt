@@ -1,0 +1,7 @@
+org apach common math3 random
+inherit doc inheritdoc
+bit stream gener bitsstreamgener
+version
+set seed setse seed
+bit stream gener bitsstreamgener random gener randomgener
+base random number gener gener bit stream

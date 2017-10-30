@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+string pattern string getpatternasstr
+sig pattern sigpattern sig pattern sigpattern string tostr
+type pattern typepattern type pattern typepattern string tostr
+dont

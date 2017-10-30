@@ -1,0 +1,7 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+compar preced addit rule super aspect
+sort aspect
+compar preced hierarchi comparebyprecedenceandhierarchi resolv type resolvedtyp aspect1 resolv type resolvedtyp aspect2
+preced calcul precedencecalcul compar preced hierarchi comparebyprecedenceandhierarchi aspect1 aspect2

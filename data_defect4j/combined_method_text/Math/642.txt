@@ -1,0 +1,16 @@
+version
+org apach common math analysi integr
+strictli posit except notstrictlypositiveexcept number small except numberistoosmallexcept
+maxim iter count maximaliterationcount
+param maxim iter count maximaliterationcount maximum number iter
+minim iter count minimaliterationcount maxim iter count maximaliterationcount
+except number small except numberistoosmallexcept maxim number iter
+construct integr iter count
+base abstract univari integr baseabstractunivariateintegr univari integr univariateintegr
+param minim iter count minimaliterationcount minimum number iter
+provid implement gener function
+default rel accuraci default absolut accuraci
+except strictli posit except notstrictlypositiveexcept minim number iter
+strictli posit
+base abstract univari integr baseabstractunivariateintegr minim iter count minimaliterationcount
+lesser equal minim number iter

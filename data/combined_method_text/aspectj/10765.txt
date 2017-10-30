@@ -1,0 +1,7 @@
+org aspectj ajd swing
+check listen checklisten mous listen mouselisten kei listen keylisten
+check docheck
+index list select index getselectedindex
+index
+list model getmodel element getelementat index
+list repaint

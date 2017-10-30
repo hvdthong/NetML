@@ -1,0 +1,11 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb object convers method toobjectconversionmethod unresolv type unresolvedtyp type fromtyp
+type fromtyp primit type isprimitivetyp
+string type fromtyp string tostr object
+resolv member impl resolvedmemberimpl
+member method
+convers type convers type
+public static public static
+unresolv type unresolvedtyp object
+unresolv type unresolvedtyp type fromtyp unresolv type unresolvedtyp

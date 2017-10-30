@@ -1,0 +1,38 @@
+org aspectj ajd swing
+author mik kersten
+swing tree view node render swingtreeviewnoderender default tree cell render defaulttreecellrender
+compon tree cell render compon gettreecellrenderercompon tree jtree tree
+object tree node treenod
+sel
+expand
+leaf
+row
+focu hasfocu
+tree node treenod
+set font setfont structur tree structuretre default font default font
+swing tree view node swingtreeviewnod view node viewnod swing tree view node swingtreeviewnod tree node treenod
+program element iprogramel node view node viewnod structur node getstructurenod
+view node viewnod kind getkind structur view node istructureviewnod kind link
+sourc locat isourceloc sourc loc sourceloc node sourc locat getsourceloc
+sourc loc sourceloc
+sourc loc sourceloc sourc file getsourcefil absolut path getabsolutepath
+set text select color settextnonselectioncolor ajd widget style ajdewidgetstyl link node color link node color
+set text select color settextnonselectioncolor ajd widget style ajdewidgetstyl link node sourc color link node sourc color
+view node viewnod kind getkind structur view node istructureviewnod kind relationship
+set font setfont font font getfont getnam font ital font getfont size getsiz
+set text select color settextnonselectioncolor color
+view node viewnod kind getkind structur view node istructureviewnod kind declar
+set text select color settextnonselectioncolor color
+tree cell render compon gettreecellrenderercompon tree tree node treenod sel expand leaf row focu hasfocu
+view node viewnod icon geticon view node viewnod icon geticon icon resourc geticonresourc
+set icon seticon icon view node viewnod icon geticon icon resourc geticonresourc
+set icon seticon
+node
+node runnabl isrunn
+set icon seticon ajd default getdefault icon registri geticonregistri execut icon getexecuteicon
+node messag getmessag
+node messag getmessag kind getkind equal messag imessag warn
+set icon seticon ajd default getdefault icon registri geticonregistri warn icon getwarningicon
+node messag getmessag kind getkind equal messag imessag error
+set icon seticon ajd default getdefault icon registri geticonregistri error icon geterroricon
+set icon seticon ajd default getdefault icon registri geticonregistri info icon getinfoicon

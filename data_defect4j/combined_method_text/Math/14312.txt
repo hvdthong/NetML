@@ -1,0 +1,15 @@
+comput main state jacobian computemainstatejacobian dot ydot dfdy
+interfac expand link order differenti equat firstorderdifferentialequ order
+param dfdy placehold arrai put jacobian matrix od main state vector
+org apach common math3 od
+differenti equat order comput main state jacobian
+comput jacobian matrix od respect main state
+max count exceed except maxcountexceededexcept dimens mismatch except dimensionmismatchexcept
+param dot ydot arrai current time deriv main state vector
+version
+matrix link jacobian matric jacobianmatric partial deriv equat
+except dimens mismatch except dimensionmismatchexcept arrai dimens match equat set
+except max count exceed except maxcountexceededexcept number function evalu exceed
+main state jacobian provid mainstatejacobianprovid order differenti equat firstorderdifferentialequ
+param arrai current main state vector
+param current independ time variabl

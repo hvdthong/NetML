@@ -1,0 +1,33 @@
+org aspectj weaver
+resolv pointcut definit resolvedpointcutdefinit resolv member impl resolvedmemberimpl
+call parameter super aspect pointcut
+resolv member impl resolvedmemberimpl parameter parameterizedwith unresolv type unresolvedtyp type paramet typeparamet resolv type resolvedtyp declar type newdeclaringtyp parameter isparameter
+type variabl typevari type variabl typevari declar type getdeclaringtyp resolv declar type newdeclaringtyp world getworld type variabl gettypevari
+parameter isparameter type variabl typevari length type paramet typeparamet length
+illeg state except illegalstateexcept wrong number type paramet suppli
+map type map typemap hash map hashmap
+type paramet suppli typeparameterssuppli type paramet typeparamet type paramet typeparamet length
+type variabl typevari
+'replacements' suppli typeparamet arrai collaps
+type variabl bound
+type variabl typevari length
+unresolv type unresolvedtyp type paramet suppli typeparameterssuppli type variabl typevari bound getfirstbound type paramet typeparamet
+type map typemap put type variabl typevari getnam
+unresolv type unresolvedtyp parameter return type parameterizedreturntyp parameter gener return type getgenericreturntyp type map typemap parameter isparameter
+unresolv type unresolvedtyp parameter paramet type parameterizedparametertyp unresolv type unresolvedtyp gener paramet type getgenericparametertyp length
+parameter paramet type parameterizedparametertyp length
+parameter paramet type parameterizedparametertyp
+parameter gener paramet type getgenericparametertyp type map typemap parameter isparameter
+resolv pointcut definit resolvedpointcutdefinit ret resolv pointcut definit resolvedpointcutdefinit
+declar type newdeclaringtyp
+modifi getmodifi
+getnam
+parameter paramet type parameterizedparametertyp
+parameter return type parameterizedreturntyp
+pointcut parameter parameterizewith type map typemap declar type newdeclaringtyp world getworld
+ret set type variabl settypevari type variabl gettypevari
+ret set sourc context setsourcecontext sourc context getsourcecontext
+ret set posit setposit start getstart end getend
+ret set paramet name setparameternam paramet name getparameternam
+ret
+return

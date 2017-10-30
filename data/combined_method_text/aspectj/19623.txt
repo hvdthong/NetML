@@ -1,0 +1,23 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+collect collect type munger collecttypemung
+aspect isaspect collect empti list empti list
+arrai list arraylist ret arrai list arraylist
+isabstract
+iter getdeclar iter hasnext
+declar dec declar
+dec isadvicelik ret add dec
+includeadvicelik return ret
+abstract isabstract
+iter filter dup filter dupfilt iter dup filter dupfilt
+iter getter type getter typegett iter getter
+iter object
+dup filter dupfilt filter
+resolv type resolvedtyp direct supertyp getdirectsupertyp
+iter type iter typeiter iter recur type getter typegett
+type iter typeiter hasnext
+resolv type resolvedtyp resolv type resolvedtyp type iter typeiter
+iter type munger gettypemung iter hasnext
+concret type munger concretetypemung dec concret type munger concretetypemung
+ret add dec
+ret

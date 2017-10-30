@@ -1,0 +1,6 @@
+org aspectj runtim reflect
+join point impl joinpointimpl proceed join point proceedingjoinpoint
+join point impl joinpointimpl org aspectj lang join point joinpoint static part staticpart static part staticpart object object target object arg
+static part staticpart static part staticpart
+target target
+arg arg

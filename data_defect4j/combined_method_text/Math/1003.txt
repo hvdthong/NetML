@@ -1,0 +1,9 @@
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+param func type function solv
+version
+solver
+inherit doc inheritdoc
+provid implement function gener
+evalu getevalu
+org apach common math analysi solver
+evalu count getcount

@@ -1,0 +1,18 @@
+incorrect warn advis privat method privat class
+eclips ajdt give incorrect warn advis privat method privat class
+advis privat method privat class
+public class outer
+
+privat class
+
+privat void mymethod
+
+
+poincut
+poincut innerpointcut execut outer mymethod
+advic
+innerpointcut
+
+system println execut
+
+warn invalidabsolutetypenam pointcut advic marker point privat method

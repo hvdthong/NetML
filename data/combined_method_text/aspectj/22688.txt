@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+param requiredtarget signatur pattern kind
+param scope
+param parametertargettingannotationsallow
+type pattern visitor typepatternvisitor scope iscop scope target type allow targetsotherthantypeallow paramet target annot allow parametertargettingannotationsallow
+scope scope
+target type allow targetsotherthantypeallow target type allow targetsotherthantypeallow
+paramet target annot allow parametertargettingannotationsallow paramet target annot allow parametertargettingannotationsallow

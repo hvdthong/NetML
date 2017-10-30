@@ -1,0 +1,11 @@
+org aspectj weaver loadtim
+adapt gener class pre processor interfac aspectj weaver
+load time weav consist reli bcel setrepositori
+author href mailto alex gnilux dot alexandr vasseur
+class pre processor classpreprocessor
+check class gener class loader
+call classloaderweavingadaptor generatedclassesexist
+param loader class cloder
+return true class gener
+gener class exist generatedclassesexist class loader classload loader
+class loader weav adaptor classloaderweavingadaptor weaver contain weavercontain weaver getweav loader weav context weavingcontext gener class exist generatedclassesexistfor

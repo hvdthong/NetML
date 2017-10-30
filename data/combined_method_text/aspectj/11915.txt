@@ -1,0 +1,21 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+class file chang dir build classfilechangedindirsincelastbuild file dir
+process build directori
+state ajstat state increment state manag incrementalstatemanag find state manag output locat findstatemanagingoutputloc dir
+file class file classfil file util fileutil list file listfil dir file filter filefilt
+accept file pathnam
+pathnam getnam end endswith class
+class file classfil length
+mod time modtim class file classfil modifi lastmodifi
+mod time modtim success build time lastsuccessfulbuildtim
+class disk chang success build
+work real chang state
+object manag output locat file
+structur chang
+state
+real chang realchang state structur chang hasstructuralchangedsinc class file classfil success build time lastsuccessfulbuildtim
+real chang realchang
+fixm asc eclips project state
+return true state object chang

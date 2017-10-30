@@ -1,0 +1,25 @@
+pre
+multistep integr nordsieck represent highli sensit
+nordsieck vector higher degre scale deriv
+org apach common math3 od nonstiff adam bashforth integr adamsbashforthintegr
+store previou step separ implement
+maxim growth factor stepsiz control
+factor set low order
+max growth maxgrowth
+max growth getmaxgrowth
+y''' deriv
+defin scale deriv step
+maxim growth factor
+version
+org apach common math3 od
+deriv
+differenti equat
+y'' deriv
+omit index notat clariti
+larg step step multipli factor
+compon accur max growth
+org apach common math3 od nonstiff adam moulton integr adamsmoultonintegr
+base multistep integr ordinari
+step defin
+compon nordsieck vector multipli
+multistep integr multistepintegr adapt stepsiz integr adaptivestepsizeintegr

@@ -1,0 +1,38 @@
+org aspectj ajd swing
+author mik kersten
+compil messag cell render compilermessagescellrender label jlabel list cell render listcellrender
+compon list cell render compon getlistcellrenderercompon
+list jlist list
+object
+index
+select isselect
+cell focu cellhasfocu
+string label messag
+string detail
+messag imessag kind kind messag imessag error
+messag imessag
+messag imessag messag imessag
+label messag getmessag
+lang util langutil empti isempti label
+label messag getmessag string tostr
+kind kind getkind
+throwabl thrown thrown getthrown
+thrown
+detail lang util langutil render except renderexcept thrown
+label string tostr
+set text settext label
+kind equal messag imessag warn
+set icon seticon ajd default getdefault icon registri geticonregistri warn icon getwarningicon
+messag imessag error issameorlessthan kind
+set icon seticon ajd default getdefault icon registri geticonregistri error icon geterroricon
+set icon seticon ajd default getdefault icon registri geticonregistri info icon getinfoicon
+select isselect
+set background setbackground list select background getselectionbackground
+set foreground setforeground list select foreground getselectionforeground
+set background setbackground list background getbackground
+set foreground setforeground list foreground getforeground
+set enabl seten list enabl isen
+set font setfont list font getfont
+set opaqu setopaqu
+detail
+set tool tip text settooltiptext detail

@@ -1,0 +1,13 @@
+deprec remov
+param ordin measur
+simpl contain weight observ point
+link curv fitter curvefitt curv fit
+param abscissa measur
+weight weight
+instanc guarante immut
+weight observ point weightedobservedpoint serializ
+version
+simpl constructor
+org apach common math3 optim fit
+weight observ point weightedobservedpoint weight
+param weight weight measur fit process

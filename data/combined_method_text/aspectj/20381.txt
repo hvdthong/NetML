@@ -1,0 +1,84 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+weav declar method ctor statement member suppli class
+weav declar method ctor weavedeclareatmethodctor lazi class gen lazyclassgen clazz
+list report problem reportedproblem arrai list arraylist
+list decam alldecam world declar annot method getdeclareannotationonmethod
+decam alldecam empti isempti alldecam isempti return fals
+chang ischang
+deal itd
+list itd method ctor itdmethodsctor itd subset getitdsubset clazz resolv type munger resolvedtypemung method
+itd method ctor itdmethodsctor add addal itd subset getitdsubset clazz resolv type munger resolvedtypemung constructor
+itd method ctor itdmethodsctor empti isempti
+subset call 'decams' itd
+chang ischang weav method itd repeatedli weaveatmethodonitdsrepeatedli decam alldecam itd method ctor itdmethodsctor report problem reportedproblem
+deal method
+list member clazz method gen getmethodgen
+list deca decam match subset getmatchingsubset decam alldecam clazz type gettyp
+deca decam empti isempti decam isempti return fals
+member empti isempti
+set unus decam unuseddecam hash set hashset
+unus decam unuseddecam add addal deca decam
+member counter membercount member counter membercount member size member counter membercount
+lazi method gen lazymethodgen lazi method gen lazymethodgen member member counter membercount
+getnam start startswith mangler namemangl prefix
+singl pass
+list worth retri worthretri arrai list arraylist
+modif occur modificationoccur
+list annot add annotationstoadd list annotationgen annotationstoadd null
+iter iter deca decam iter iter hasnext
+declar annot declareannot deca decam declar annot declareannot iter
+deca decam match member view getmemberview world
+annot doesalreadyhaveannot member view getmemberview deca decam report problem reportedproblem
+remov declar method error
+annot
+unus decam unuseddecam remov deca decam
+continu skip
+annot add annotationstoadd annot add annotationstoadd arrai list arraylist
+annot deca decam annot getannotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen clazz constant pool gen getconstantpoolgen
+annot add annotationstoadd add
+add annot addannot deca decam annot getannotationx
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decam sourc locat getsourceloc clazz getnam method getmethod
+report method ctor weav messag reportmethodctorweavingmessag clazz member view getmemberview deca decam declar line number getdeclarationlinenumb
+chang ischang
+modif occur modificationoccur
+remov declar method match
+unus decam unuseddecam remov deca decam
+deca decam star annot pattern isstarredannotationpattern
+worth retri worthretri add deca decam worthretri add decam annot put subsequ decaf
+multipl secondari pass
+worth retri worthretri empti isempti modif occur modificationoccur
+modif occur modificationoccur
+let
+list remov forremov arrai list arraylist
+iter iter worth retri worthretri iter iter hasnext
+declar annot declareannot deca decam declar annot declareannot iter
+deca decam match member view getmemberview world
+annot doesalreadyhaveannot member view getmemberview deca decam report problem reportedproblem
+remov declar method error
+annot
+unus decam unuseddecam remov deca decam
+continu skip
+annot add annotationstoadd annot add annotationstoadd arrai list arraylist
+annot deca decam annot getannotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen clazz constant pool gen getconstantpoolgen
+annot add annotationstoadd add
+add annot addannot deca decam annot getannotationx
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship deca decam sourc locat getsourceloc clazz getnam method getmethod
+chang ischang
+modif occur modificationoccur
+remov forremov add deca decam
+remov declar method match
+unus decam unuseddecam remov deca decam
+worth retri worthretri remov removeal remov forremov
+annot add annotationstoadd
+method method oldmethod method getmethod
+method gen methodgen gen mygen method gen methodgen method oldmethod clazz class getclassnam clazz constant pool gen getconstantpoolgen methodgen mygen methodgen oldmethod clazz getclassnam clazz getconstantpoolgen fals dont tag repair woven method
+iter iter annot add annotationstoadd iter iter hasnext
+annot gen annotationgen annot gen annotationgen iter
+gen mygen add annot addannot
+method method newmethod gen mygen method getmethod
+member set member counter membercount lazi method gen lazymethodgen method newmethod clazz
+check unus declar type checkunuseddeclareattyp unus decam unuseddecam
+chang ischang

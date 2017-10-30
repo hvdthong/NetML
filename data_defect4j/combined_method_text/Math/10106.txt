@@ -1,0 +1,11 @@
+interfac repres href http mathworld wolfram real number realnumb html real
+power oper
+href http mathworld wolfram field html field
+param power appli
+param type field element
+org apach common math3
+class implement singleton
+version
+pow
+extend field element extendedfieldel field element fieldel
+field element fieldel

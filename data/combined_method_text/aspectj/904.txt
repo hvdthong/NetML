@@ -1,0 +1,26 @@
+org aspectj ajd javaopt
+option panel displai java compil complianc option
+user add ajd getoptionsfram
+java complianc option panel javacomplianceoptionspanel option panel optionspanel
+creat complianc entri createcomplianceentri string label text labeltext string java option set javaoptiontoset
+panel jpanel panel panel jpanel
+panel set layout setlayout border layout borderlayout
+label jlabel label label jlabel
+label set font setfont java awt font dialog
+label set text settext label text labeltext
+panel add label border layout borderlayout west
+combo box jcombobox level combo box jcombobox complianc level compliancelevel
+string string java build option javabuildopt java build option map getjavabuildoptionsmap java option set javaoptiontoset
+default
+level set select index setselectedindex
+equal java option javaopt version
+level set select index setselectedindex
+equal java option javaopt version
+level set select index setselectedindex
+equal java option javaopt version
+level set select index setselectedindex
+equal java option javaopt version
+level set select index setselectedindex
+panel add level border layout borderlayout east
+complianc box compliancebox add panel
+complianc combo box compliancecombobox put java option set javaoptiontoset level

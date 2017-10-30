@@ -1,0 +1,21 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+process org aspectj weaver attribut store class
+ensur aspect attribut unpack ensureaspectjattributesunpack
+bitflag unpack ajattribut unpack ajattribut
+bitflag unpack ajattribut unpack ajattribut
+messag handler imessagehandl msg handler msghandler resolv type getresolvedtypex world getworld messag handler getmessagehandl
+pass empti list store thing readaj5 process
+list bcel attribut bcelattribut read attribut readajattribut class classnam java class javaclass attribut getattribut resolv type getresolvedtypex sourc context getsourcecontext resolv type getresolvedtypex world getworld attribut ajattribut weaver version info weaverversioninfo unknown
+list pointcut arrai list arraylist
+type munger typemung arrai list arraylist
+declar arrai list arraylist
+process attribut processattribut pointcut
+attribut atajattribut read aj5 class attribut readaj5classattribut java class javaclass resolv type getresolvedtypex resolv type getresolvedtypex sourc context getsourcecontext msg handler msghandler code style aspect iscodestyleaspect
+attribut ajattribut aspect defer aspect attribut deferredaspectattribut process attribut processattribut pointcut
+pointcut resolv pointcut definit resolvedpointcutdefinit
+pointcut arrai toarrai resolv pointcut definit resolvedpointcutdefinit pointcut size
+resolv annot declar resolveannotationdeclar
+defer aspect attribut deferredaspectattribut
+final process aspect perclaus
+claus perclaus defer aspect attribut deferredaspectattribut reifi aspect reifyfromataspectj resolv type getresolvedtypex

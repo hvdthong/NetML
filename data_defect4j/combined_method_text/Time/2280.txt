@@ -1,0 +1,10 @@
+author stephen colebourn
+basic dai year date time field basicdayofyeardatetimefield precis durat date time field precisedurationdatetimefield
+org joda time chrono
+author gui allard
+chronolog ichronolog dai year dayofyear
+author brian neill o'neil
+object read resolv readresolv
+serial singleton
+refactor dai year date time field gjdayofyeardatetimefield
+time calcul dai year compon time

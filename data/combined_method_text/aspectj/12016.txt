@@ -1,0 +1,23 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+visit initi initi method scope methodscop scope
+initi initi ininiti
+initi ininiti initi
+program element iprogramel node penod program element programel
+program element iprogramel kind initi
+make locat makeloc initi
+initi modifi
+arraylist
+program element iprogramel stack peek add child addchild node penod
+stack push node penod
+initi block travers scope
+stack pop
+initi ininiti

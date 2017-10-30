@@ -1,0 +1,6 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+add aspect class file weaver addaspectclassfilestoweav list ad class file addedclassfil except ioexcept
+iter ad class file addedclassfil iter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+weaver getweav add class file addclassfil class file classfil

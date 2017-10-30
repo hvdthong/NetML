@@ -1,0 +1,14 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+type argument typeargu pars type argument parsetypeargu
+isplu
+minu isminu
+eat maybeeat
+type argument typeargu
+eat maybeeat
+isplu
+eat maybeeat
+minu isminu
+field type signatur fieldtypesignatur sig pars field type signatur parsefieldtypesignatur
+type argument typeargu isplu minu isminu sig

@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+dump unchang dumpunchang unwoven class file unwovenclassfil class file classfil except ioexcept
+zip output stream zipoutputstream
+write zip entri writezipentri entri getentrynam class file classfil java class getjavaclass class getclassnam class file classfil byte getbyt
+class file classfil write unchang byte writeunchangedbyt

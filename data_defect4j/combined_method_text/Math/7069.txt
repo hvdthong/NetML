@@ -1,0 +1,14 @@
+set converg checker setconvergencecheck converg checker convergencecheck pair checker
+common math user api advis base code
+param checker object check converg
+link org apach common math optim differenti multivari vectori optim differentiablemultivariatevectorialoptim
+org apach common math optim
+param pair type point object pair
+interfac
+link org apach common math optim multivari real optim multivariaterealoptim
+link org apach common math optim univari univari real optim univariaterealoptim
+version revis date
+set converg checker
+base optim baseoptim pair
+intend enforc intern coher
+link org apach common math optim differenti multivari real optim differentiablemultivariaterealoptim

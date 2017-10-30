@@ -1,0 +1,13 @@
+gamma distribut impl gammadistributionimpl
+param degre freedom degreesoffreedom degre freedom
+degre freedom degreesoffreedom
+degre freedom degreesoffreedom default invers absolut accuraci
+chi squar distribut impl chisquareddistributionimpl
+set gamma setgamma distribut factori distributionfactori instanc newinst creat gamma distribut creategammadistribut
+version
+chi squar distribut impl chisquareddistributionimpl degre freedom degreesoffreedom
+version revis date
+implement link chi squar distribut chisquareddistribut
+org apach common math distribut
+param degre freedom
+creat chi squar distribut degre freedom

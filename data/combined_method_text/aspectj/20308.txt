@@ -1,0 +1,30 @@
+org aspectj weaver bcel
+type munger modifi class mung method includ
+field repres cflowcount object
+bcel cflow counter field adder bcelcflowcounterfieldadd bcel type munger bceltypemung
+mung bcel class weaver bcelclassweav weaver
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+mung type
+gen type gettyp equal cflow counter field cflowcounterfield declar type getdeclaringtyp
+creat field declar
+public static final cflowcount ajc cflowcount
+field field gen fieldgen cflow counter field cflowcounterfield modifi getmodifi
+bcel world bcelworld make bcel type makebceltyp cflow counter field cflowcounterfield return type getreturntyp
+cflow counter field cflowcounterfield getnam
+gen constant pool gen getconstantpoolgen field getfield
+gen add field addfield sourc locat getsourceloc
+modifi ajc preclinit method initi
+ajc cflowcount cflowcount
+lazi method gen lazymethodgen clinit gen ajc pre clinit getajcpreclinit lazymethodgen clinit gen getajcpreclinit staticiniti
+instruct list instructionlist setup instruct list instructionlist
+instruct factori instructionfactori fact gen factori getfactori
+setup append fact creat createnew object type objecttyp mangler namemangl cflow counter type cflow counter type
+setup append instruct factori instructionfactori creat dup createdup
+setup append fact creat invok createinvok
+mangler namemangl cflow counter type cflow counter type
+init
+type void
+type
+constant invokespeci
+setup append util creat set createset fact cflow counter field cflowcounterfield
+clinit bodi getbodi insert setup

@@ -1,0 +1,10 @@
+add 'preservelastmodified' in replace task
+Add 'preservelastmodified' in replace task to retain file timestamp similar to
+<copy> and <move> tasks.
+
+My current work-around is to use <move> and filter using ugly escape codes in
+the string element.  The replace task would make this much easier by supporting
+CDATA in nested tags.
+
+Another enhancement request of this kind was made for <scp> and author provided
+a fix there which might just call the -p option of scp executable (Bug #33939).

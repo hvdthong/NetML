@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+determin extra argument flag determineextraargumentflag
+extra argument extraargu extra argument flag extraargumentflag advic extra argument extraargu
+join point visitor thisjoinpointvisitor tjp join point visitor thisjoinpointvisitor
+extra argument flag extraargumentflag tjp remov unus extra argument removeunusedextraargu

@@ -1,0 +1,21 @@
+author stephen colebourn
+standard year month week dai hour minut second milli
+control period implement durat field
+period type periodtyp getnam
+author brian neill o'neil
+string string tostr
+period type periodtyp thread safe immut subclass
+singl type
+year week dai yearweekdai year week dai
+year month dai time yearmonthdaytim year month dai hour minut second milli
+string
+year month dai yearmonthdai year month dai
+year dai time yeardaytim year dai hour minut second milli
+dai time daytim dai hour minut second milli
+debug string
+period type periodtyp serializ
+year dai yeardai year dai hour
+time hour minut second milli
+org joda time
+year week dai time yearweekdaytim year week dai hour minut second milli
+implement provid

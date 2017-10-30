@@ -1,0 +1,12 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb add cooki addcookieto resolv member resolvedmemb ret unresolv type unresolvedtyp aspect type aspecttyp
+unresolv type unresolvedtyp param ret paramet type getparametertyp
+unresolv type unresolvedtyp fresh param freshparam unresolv type unresolvedtyp add param aspect type aspecttyp
+resolv member impl resolvedmemberimpl
+ret kind getkind
+ret declar type getdeclaringtyp
+ret modifi getmodifi
+ret return type getreturntyp
+ret getnam
+fresh param freshparam ret except getexcept

@@ -1,0 +1,14 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+copi resourc jar file copyresourcesfromjarfil file jar file jarfil except ioexcept
+jar input stream jarinputstream stream instream
+stream instream jar input stream jarinputstream file input stream fileinputstream jar file jarfil
+zip entri zipentri entri stream instream entri getnextentri
+entri
+string filenam entri getnam
+system println copyresourcesfromjarfil filenam filenam
+entri directori isdirectori accept resourc acceptresourc filenam
+byte file util fileutil read byte arrai readasbytearrai stream instream
+write resourc writeresourc filenam byte jar file jarfil
+stream instream close entri closeentri
+stream instream stream instream close

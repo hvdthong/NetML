@@ -1,0 +1,33 @@
+link solv real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector solv
+except check fail
+check paramet checkparamet
+row dimens getrowdimens
+param linear oper system
+dimens mismatch except dimensionmismatchexcept code code code
+middot approxim remain compar
+perform dimens check paramet
+squar
+org apach common math linear
+dimens mismatch except dimensionmismatchexcept row dimens getrowdimens
+invert real linear oper invertiblereallinearoper
+link solv place solveinplac real linear oper reallinearoper invert real linear oper invertiblereallinearoper real vector realvector real vector realvector solv place solveinplac
+ill condit solv system middot directli
+squar oper except nonsquareoperatorexcept code code
+version
+param initi guess solut
+row dimens getrowdimens row dimens getrowdimens
+dimens mismatch except dimensionmismatchexcept
+dimens inconsist code
+precondit iter linear solver preconditionediterativelinearsolv
+preconditionn
+real vector realvector
+squar oper except nonsquareoperatorexcept column dimens getcolumndimens
+prefer solv middot middot
+param hand side vector
+defin precondit iter solver
+param precondition code
+check paramet checkparamet real linear oper reallinearoper
+column dimens getcolumndimens row dimens getrowdimens
+easier invert call
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+null argument except nullargumentexcept paramet code

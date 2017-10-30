@@ -1,0 +1,18 @@
+param row dimens rowdimens number row matrix
+store entri
+org apach common math3 except strictli posit except notstrictlypositiveexcept
+org apach common math3 linear
+data row dimens rowdimens column dimens columndimens
+creat real matrix realmatrix suppli row column dimens
+row dimens rowdimens column dimens columndimens
+column dimens columndimens
+array2 row real matrix array2drowrealmatrix row dimens rowdimens
+version
+strictli posit except notstrictlypositiveexcept row column dimens
+row column dimens posit
+strictli posit except notstrictlypositiveexcept
+posit
+param column dimens columndimens number column matrix
+array2 row real matrix array2drowrealmatrix row dimens rowdimens column dimens columndimens
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+implement link real matrix realmatrix code arrai

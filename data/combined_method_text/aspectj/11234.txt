@@ -1,0 +1,48 @@
+org aspectj ajdt intern compil ast
+inter type field declar
+returntyp encod type field
+selector encod
+statement null resolut fill initi
+author jim hugunin
+inter type field declar intertypefielddeclar inter type declar intertypedeclar
+gener dispatch method generatedispatchmethod
+eclips factori eclipsefactori world
+resolv member resolvedmemb sig
+unresolv type unresolvedtyp aspect type aspecttyp
+class scope classscop class scope classscop
+class file classfil class file classfil
+getter isgett
+method bind methodbind bind
+getter isgett
+bind world make method bind makemethodbind ajc member maker ajcmembermak inter field dispatch interfieldgetdispatch sig aspect type aspecttyp munger type variabl alias gettypevariablealias munger signatur getsignatur declar type getdeclaringtyp
+bind world make method bind makemethodbind ajc member maker ajcmembermak inter field set dispatch interfieldsetdispatch sig aspect type aspecttyp munger type variabl alias gettypevariablealias munger signatur getsignatur declar type getdeclaringtyp
+class file classfil gener method info header generatemethodinfohead bind
+method attribut offset methodattributeoffset class file classfil content offset contentsoffset
+attribut number attributenumb class file classfil gener method info attribut generatemethodinfoattribut bind
+make effect signatur attribut makeeffectivesignatureattribut sig getter isgett shadow field fieldget shadow field set fieldset
+code attribut offset codeattributeoffset class file classfil content offset contentsoffset
+class file classfil gener code attribut header generatecodeattributehead
+code stream codestream code stream codestream class file classfil code stream codestream
+code stream codestream reset class file classfil
+field bind fieldbind class field classfield world make field bind makefieldbind
+ajc member maker ajcmembermak inter field class field interfieldclassfield sig aspect type aspecttyp munger type variabl alias gettypevariablealias
+code stream codestream initi max local initializemaxloc bind
+getter isgett
+type bind ontypebind interfac isinterfac
+unresolv type unresolvedtyp declar declaringtx sig declar type getdeclaringtyp
+resolv type resolvedtyp declar rtx declaringrtx world world getworld resolv declar declaringtx munger sourc locat getsourceloc
+method bind methodbind read method readmethod world make method bind makemethodbind
+ajc member maker ajcmembermak inter field interfac getter interfieldinterfacegett
+sig declar rtx declaringrtx aspect type aspecttyp munger type variabl alias gettypevariablealias
+gener interfac read bodi generateinterfacereadbodi bind read method readmethod code stream codestream
+gener class read bodi generateclassreadbodi bind class field classfield code stream codestream
+type bind ontypebind interfac isinterfac
+method bind methodbind write method writemethod world make method bind makemethodbind
+ajc member maker ajcmembermak inter field interfac setter interfieldinterfacesett
+sig world world getworld resolv sig declar type getdeclaringtyp munger sourc locat getsourceloc aspect type aspecttyp munger type variabl alias gettypevariablealias
+gener interfac write bodi generateinterfacewritebodi bind write method writemethod code stream codestream
+gener class write bodi generateclasswritebodi bind class field classfield code stream codestream
+ast util astutil gener return generatereturn bind return type returntyp code stream codestream
+class file classfil complet code attribut completecodeattribut code attribut offset codeattributeoffset
+attribut number attributenumb
+class file classfil complet method info completemethodinfo method attribut offset methodattributeoffset attribut number attributenumb

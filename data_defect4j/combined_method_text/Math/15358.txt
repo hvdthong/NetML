@@ -1,0 +1,21 @@
+observ point link fit fit method
+phase phi code co omega phi code
+harmon fitter harmonicfitt curv fitter curvefitt
+initi guess automat comput
+abscissa rang
+harmon fit simpl curv fit
+number small except numberistoosmallexcept sampl
+fit
+fit paramet guesser parameterguess observ getobserv guess
+except zeroexcept guess comput
+version
+paramet harmon function fit
+harmon fitter harmonicfitt curv fitter curvefitt harmon oscil harmonicoscil parametr
+class curv fit special sinusoid
+fit harmon function observ point
+deprec remov
+base integr
+search squar estim initi rough guess
+guess comput
+org apach common math3 optim fit
+estim coeffici amplitud pulsat omega

@@ -1,0 +1,25 @@
+org apach lucen store
+abstract base class output file directori random access
+output stream lucen index output oper
+directori
+indexinput
+index output indexoutput closeabl
+write sequenc charact char
+format modifi utf encod byte
+param sourc charact
+param start charact sequenc
+param length number charact sequenc
+deprec pre convert utf8 byte link writestr
+write char writechar start length
+except ioexcept
+end start length
+start end
+code
+code code
+write byte writebyt code
+code code code
+write byte writebyt code
+write byte writebyt code
+write byte writebyt code
+write byte writebyt code
+write byte writebyt code

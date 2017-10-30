@@ -1,0 +1,106 @@
+org aspectj apach bcel util
+convert constant pool html file
+version constanthtml java aclement exp
+author href mailto marku dahm berlin dahm
+constant html constanthtml org aspectj apach bcel constant
+write constant writeconst index
+tag constant index tag gettag
+class index index
+string ref
+header
+file println index index constant name constant name tag
+constant type need paramet print appropi
+tag
+constant interfac methodref constant interfacemethodref
+constant methodref constant methodref
+class index type index depend type
+tag constant methodref constant methodref
+constant methodref constantmethodref constant methodref constantmethodref constant pool constant getconst index constant methodref constant methodref
+class index class index getclassindex
+index type index getnameandtypeindex
+constant interfac methodref constantinterfacemethodref constant interfac methodref constantinterfacemethodref constant pool constant getconst index constant interfac methodref constant interfacemethodref
+class index class index getclassindex
+index type index getnameandtypeindex
+method class
+string method constant pool constant string constanttostr index constant type constant nameandtyp
+string html method class2 html class2html html tohtml method
+partial compact class
+string method class constant pool constant string constanttostr class index constant class constant class
+string short method class util compact class compactclassnam method class string short method class util compactclassnam method class remov java lang
+short method class util compact class compactclassnam method class short method class util compactclassnam method class remov java lang
+short method class util compact class compactclassnam short method class class packag short method class util compactclassnam short method class class packag true remov class packag prefix
+method signatur
+constant type constantnameandtyp constant type constantnameandtyp constant pool constant getconst index constant type constant nameandtyp
+string signatur constant pool constant string constanttostr signatur index getsignatureindex constant utf8 constant utf8
+arrai string argument type
+string arg util method signatur argument type methodsignatureargumenttyp signatur
+return type string
+string type util method signatur return type methodsignaturereturntyp signatur
+string ret type class2 html class2html refer type referencetyp type
+string buffer stringbuff buf string buffer stringbuff
+arg length
+buf append class2 html class2html refer type referencetyp arg
+arg length
+buf append nbsp
+buf append
+string arg type buf string tostr
+method class equal class method class equal class method local class
+ref href class code html method method number getmethodnumb method signatur
+target code html method
+ref href method class html target top short method class
+html method
+constant ref index ret type nbsp href class html class index
+target constant
+short method class href class html
+index target constantpool html method nbsp arg type
+file println ret type nbsp ref arg type nbsp
+href class index class index class index
+href index nameandtyp index index
+constant fieldref constant fieldref
+class index type index
+constant fieldref constantfieldref constant fieldref constantfieldref constant pool constant getconst index constant fieldref constant fieldref
+class index class index getclassindex
+index type index getnameandtypeindex
+method class compact
+string field class constant pool constant string constanttostr class index constant class constant class
+string short field class util compact class compactclassnam field class string short field class util compactclassnam field class remov java lang
+short field class util compact class compactclassnam short field class class packag short field class util compactclassnam short field class class packag true remov class packag prefix
+string field constant pool constant string constanttostr index constant type constant nameandtyp
+field class equal class field class equal class field local class
+ref href field class method html field
+field target method field
+ref href field class html target top
+short field class field
+constant ref index href class html class index target constant
+short field class href class html
+index target constantpool field
+file println ref
+href class index class class index
+href index nameandtyp index
+constant class constant class
+constant class constantclass constant class constantclass constant pool constant getconst index constant class constant class
+index index getnameindex
+string class name2 constant pool constant string constanttostr index tag string class name2 constant pool constanttostr index tag
+string short class util compact class compactclassnam class name2 string short class util compactclassnam class name2 remov java lang
+short class util compact class compactclassnam short class class packag short class util compactclassnam short class class packag true remov class packag prefix
+ref href class name2 html target top short class
+constant ref index href class html index
+target constantpool short class
+file println ref
+href index index index
+constant string constant string
+constant string constantstr constant string constantstr constant pool constant getconst index constant string constant string
+index string index getstringindex
+string str class2 html class2html html tohtml constant pool constant string constanttostr index tag
+file println str
+href index index index
+constant type constant nameandtyp
+constant type constantnameandtyp constant type constantnameandtyp constant pool constant getconst index constant type constant nameandtyp
+index index getnameindex
+signatur index signatur index getsignatureindex
+file println class2 html class2html html tohtml constant pool constant string constanttostr index tag
+href index index index
+href signatur index signatur index
+signatur index
+file println class2 html class2html html tohtml constant pool constant string constanttostr index tag
+switch

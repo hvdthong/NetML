@@ -1,0 +1,20 @@
+calcul perform link chronolog
+link readabl partial readableparti getvalu calcul result
+author stephen colebourn
+date time field type datetimefieldtyp field type getfieldtyp
+result length
+method link readabl partial readableparti size
+subclass implement
+chronolog set utc time zone calcul
+abstract partial abstractparti
+link abstract partial abstractparti field getfield chronolog
+result
+org joda time base
+result field type getfieldtyp
+date time field type datetimefieldtyp result date time field type datetimefieldtyp size
+abstract partial abstractparti subclass mutabl thread safe
+arrai field type partial support
+abstract partial abstractparti standard base implement method
+readabl partial readableparti
+field return largest smallest hour minut
+field support arrai alter largest smallest

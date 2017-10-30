@@ -1,0 +1,18 @@
+org apach tool ant type resourc
+wrapper resourc collect map name
+collect configur mapper
+ant
+map resourc collect mappedresourcecollect
+format resourc collect string
+return descript code string code
+string string tostr
+refer isrefer
+check ref getcheckedref string tostr
+iter resourc iter
+hasnext
+string buffer stringbuff string buffer stringbuff
+hasnext
+length
+append file path separ char pathseparatorchar
+append
+string tostr

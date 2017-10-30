@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+ensur annot unpack ensureannotationsunpack
+annot type annotationtyp
+annot anno java class javaclass annot getannot
+anno anno length
+annot type annotationtyp resolv type resolvedtyp
+annot annot annotationx
+world resolv type getresolvedtypex world getworld
+annot type annotationtyp resolv type resolvedtyp anno length
+annot annot annotationx anno length
+anno length
+annot annot anno
+annot type annotationtyp resolv unresolv type unresolvedtyp signatur forsignatur annot type signatur gettypesignatur
+annot annot annotationx annot

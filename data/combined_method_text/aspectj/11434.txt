@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+unresolv type unresolvedtyp bind frombind type bind typebind bind
+bind unresolv type unresolvedtyp
+len bind length
+unresolv type unresolvedtyp ret unresolv type unresolvedtyp len
+len
+ret bind frombind bind
+ret

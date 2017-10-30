@@ -1,0 +1,11 @@
+rotat order rotationord
+axi rotat
+util repres rotat order specif
+cardan euler angl specif
+link rotat rotat rotat order rotationord
+constructor link rotat angl getangl method
+instanci user
+org apach common math geometri
+version revis date
+twelv predefin support order argument
+vector3 vector3d geta2

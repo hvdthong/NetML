@@ -1,0 +1,102 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+instruct list instructionlist rewrit monitor exit call rewritewithmonitorexitcal instruct list instructionlist sourc list sourcelist instruct factori instructionfactori fact return keepreturn monitor var slot monitorvarslot type monitor var type monitorvartyp
+instruct list instructionlist footer instruct list instructionlist
+instruct handl instructionhandl end footer append instruct constant instructionconst nop
+instruct list instructionlist list newlist instruct list instructionlist
+map src dest srctodest hash map hashmap
+pass copi instruct directli popul srctodest map
+fix frame instruct
+instruct handl instructionhandl src sourc list sourcelist start getstart src src src getnext
+instruct fresh util copi instruct copyinstruct src instruct getinstruct
+instruct handl instructionhandl dest
+src instruct getinstruct rang rangeinstruct
+dest list newlist append rang rangeinstruct
+fresh return instruct returninstruct
+return keepreturn
+list newlist append instruct factori instructionfactori creat load createload monitor var type monitorvartyp monitor var slot monitorvarslot
+list newlist append instruct constant instructionconst monitorexit
+dest list newlist append fresh
+dest
+list newlist append instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto end
+fresh branch instruct branchinstruct
+dest list newlist append branch instruct branchinstruct fresh
+fresh local variabl instruct localvariableinstruct fresh ret
+index instruct indexedinstruct index index instruct indexedinstruct fresh
+index oldindex index index getindex
+fresh index freshindex
+frameenv haskei oldindex
+freshindex recipi allocateloc
+frameenv put oldindex freshindex
+fresh index freshindex index oldindex freshindex oldindex frameenv oldindex
+index set index setindex fresh index freshindex
+dest list newlist append fresh
+dest list newlist append fresh
+src dest srctodest put src dest
+pass retarget branch instruct copi rang tag
+map tag map tagmap hash map hashmap
+map shadow map shadowmap hash map hashmap
+instruct handl instructionhandl dest list newlist start getstart src sourc list sourcelist start getstart
+dest
+dest dest getnext src src getnext
+instruct inst dest instruct getinstruct
+retarget branch
+inst branch instruct branchinstruct
+branch instruct branchinstruct branch branch instruct branchinstruct inst
+instruct handl instructionhandl target oldtarget branch target gettarget
+instruct handl instructionhandl target newtarget
+instruct handl instructionhandl src dest srctodest target oldtarget
+target newtarget
+assert goto
+return instruct previous replac
+branch set target settarget target newtarget
+branch select
+select select select branch
+instruct handl instructionhandl target oldtarget select target gettarget
+target oldtarget length
+select set target settarget
+instruct handl instructionhandl src dest srctodest target oldtarget
+copi tag rang attribut
+instruct target instructiontarget src target srctarget src target gettarget
+src target srctarget
+src target srctarget length
+instruct target instructiontarget src target srctarget
+tag
+tag tag oldtag tag
+tag fresh tag tag map tagmap tag oldtag
+fresh
+fresh tag oldtag copi
+tag map tagmap put tag oldtag fresh
+dest add target addtarget fresh
+except rang exceptionrang
+except rang exceptionrang except rang exceptionrang
+start getstart src
+except rang exceptionrang fresh fresher
+except rang exceptionrang list newlist catch type getcatchtyp prioriti getprior exceptionrang newlist recipi getbodi getcatchtyp getprior
+fresh fresher associ target associatewithtarget
+dest
+instruct handl instructionhandl src dest srctodest end getend
+instruct handl instructionhandl src dest srctodest handler gethandl
+instanceof shadowrang
+shadowrang oldrang shadowrang
+oldrang getstart src
+bcelshadow oldshadow oldrang getshadow
+bcelshadow freshenclos
+oldshadow getenclosingshadow null
+null
+bcelshadow shadowmap oldshadow getenclosingshadow
+bcelshadow freshshadow
+oldshadow copyinto recipi freshenclos
+shadowrang freshrang shadowrang recipi getbodi
+freshrang associatewithshadow freshshadow
+freshrang associatewithtarget
+dest
+instructionhandl srctodest oldrang getend
+shadowmap put oldrang freshrang
+recipi matchedshadow add freshshadow
+xxx copi shadow updat
+thisvar targetvar argsvar
+time add
+extra var shadow
+return keepreturn list newlist append footer
+list newlist

@@ -1,0 +1,7 @@
+org apach common math linear
+inherit doc inheritdoc
+copi map inv mapinvtoself
+spars real vector sparserealvector real vector realvector
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+real vector realvector map inv mapinv

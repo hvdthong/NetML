@@ -1,0 +1,20 @@
+dimens
+param expect dimens
+link field vector fieldvector link field element fieldel arrai
+org apach common math3 linear
+check vector dimens checkvectordimens field vector fieldvector
+param type field element
+check instanc vector dimens
+check vector dimens checkvectordimens dimens getdimens
+dimens mismatch except dimensionmismatchexcept data length
+arrai field vector arrayfieldvector field element fieldel field vector fieldvector serializ
+except dimens mismatch except dimensionmismatchexcept vector
+except illeg argument except illegalargumentexcept vector
+version
+dimens mismatch except dimensionmismatchexcept
+data length
+check vector dimens checkvectordimens
+check instanc dimens equal expect
+dimens mismatch except dimensionmismatchexcept dimens equal
+size code vector
+param vector compar instanc

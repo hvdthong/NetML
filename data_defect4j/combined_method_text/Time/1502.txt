@@ -1,0 +1,21 @@
+author stephen colebourn
+defin durat time queri modifi datetim field
+add field period
+illeg argument except illegalargumentexcept period ad field
+author brian neill o'neil
+param second amount second add period unsupport
+param dai amount dai add period unsupport
+param year amount year add period unsupport
+hour minut second milli
+support period
+param milli amount millisecond add period unsupport
+param month amount month add period unsupport
+arithmet except arithmeticexcept addit exce capac period
+param minut amount minut add period unsupport
+param hour amount hour add period unsupport
+provid advanc method
+add year month week dai
+param week amount week add period unsupport
+read writabl period readwritableperiod readabl period readableperiod
+implement mutabl
+org joda time

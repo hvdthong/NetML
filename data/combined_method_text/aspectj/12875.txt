@@ -1,0 +1,49 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+convert list annotationgen object set attribut
+attach class file
+param constant pool gen creat ref
+param vec list annotationgen object
+attribut annot attribut getannotationattribut constant pool gen constantpoolgen list vec
+vec size
+count visibl countvis
+count invis countinvis
+put annot output stream
+vec size
+annot gen annotationgen annot gen annotationgen vec
+runtim visibl isruntimevis count visibl countvis
+count invis countinvis
+byte arrai output stream bytearrayoutputstream rva byte rvabyt byte arrai output stream bytearrayoutputstream
+byte arrai output stream bytearrayoutputstream ria byte riabyt byte arrai output stream bytearrayoutputstream
+data output stream dataoutputstream rva do rvado data output stream dataoutputstream rva byte rvabyt
+data output stream dataoutputstream ria do riado data output stream dataoutputstream ria byte riabyt
+rva do rvado write short writeshort count visibl countvis
+ria do riado write short writeshort count invis countinvis
+put annot output stream
+vec size
+annot gen annotationgen annot gen annotationgen vec
+runtim visibl isruntimevis dump rva do rvado
+dump ria do riado
+rva do rvado close
+ria do riado close
+rva data rvadata rva byte rvabyt byte arrai tobytearrai
+ria data riadata ria byte riabyt byte arrai tobytearrai
+rva index rvaindex
+ria index riaindex
+rva data rvadata length rva index rvaindex add utf8 addutf8 runtimevisibleannot
+ria data riadata length ria index riaindex add utf8 addutf8 runtimeinvisibleannot
+list attribut newattribut arrai list arraylist
+rva data rvadata length
+attribut newattribut add
+runtim visibl annot runtimevisibleannot rva index rvaindex rva data rvadata length rva data rvadata constant pool getconstantpool
+ria data riadata length
+attribut newattribut add
+runtim invis annot runtimeinvisibleannot ria index riaindex ria data riadata length ria data riadata constant pool getconstantpool
+attribut attribut newattribut arrai toarrai attribut
+except ioexcept
+system err println ioexcept whilst process annot
+print stack trace printstacktrac

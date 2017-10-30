@@ -1,0 +1,11 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+set linkofflin setlinkofflin string linkofflin
+link link creat link createlink
+ispac linkofflin index indexof
+ispac
+build except buildexcept linkofflin usag url url2 locat getloc
+link set href sethref linkofflin substr ispac trim
+link set packagelist loc setpackagelistloc linkofflin substr ispac trim

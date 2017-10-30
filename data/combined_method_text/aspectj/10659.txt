@@ -1,0 +1,26 @@
+org aspectj ajd javaopt
+option panel displai java compil debug option
+user add ajd getoptionsfram
+java debug option panel javadebugoptionspanel option panel optionspanel
+creat debug entri createdebugentri string label text labeltext string java option set javaoptiontoset
+panel jpanel panel panel jpanel
+panel set layout setlayout border layout borderlayout
+label jlabel label label jlabel
+label set font setfont java awt font dialog
+label set text settext label text labeltext
+panel add label border layout borderlayout west
+combo box jcombobox debug
+java option set javaoptiontoset equal java option javaopt preserv local preserv local
+debug combo box jcombobox preserv option preserveopt
+string string java build option javabuildopt java build option map getjavabuildoptionsmap java option set javaoptiontoset
+equal java option javaopt preserv
+debug set select index setselectedindex
+debug set select index setselectedindex
+debug combo box jcombobox debug option debugopt
+string string java build option javabuildopt java build option map getjavabuildoptionsmap java option set javaoptiontoset
+equal java option javaopt gener
+debug set select index setselectedindex
+debug set select index setselectedindex
+panel add debug border layout borderlayout east
+debug box debugbox add panel
+debug combo box debugcombobox put java option set javaoptiontoset debug

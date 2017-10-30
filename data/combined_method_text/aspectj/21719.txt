@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+cflow pointcut cflowpointcut pointcut
+pointcut read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+cflow pointcut cflowpointcut ret cflow pointcut cflowpointcut pointcut read context read boolean readboolean file util fileutil read int arrai readintarrai
+ret read locat readloc context
+ret

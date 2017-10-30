@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+token itoken posit ihasposit
+token repres pre pars pointcut return
+return null
+need implement 'if'
+pointcut pars pointcut maybegetparsedpointcut

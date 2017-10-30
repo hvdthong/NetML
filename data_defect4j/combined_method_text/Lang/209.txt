@@ -1,0 +1,19 @@
+author marc johnson mjohnson apach dot org
+bit field bitfield
+param holder data bit
+set bit field bitfield
+author stephen colebourn
+set short boolean setshortboolean holder flag
+author pete gieser
+author apach jakarta poi
+author andrew oliv acoliv apach dot org
+flag set short setshort holder clear short clearshort holder
+version
+author scott sander sander apach dot org
+oper bit map field
+interest
+author gari gregori
+param flag indic set clear bit
+holder bit set
+clear
+org apach common lang

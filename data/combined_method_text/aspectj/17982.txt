@@ -1,0 +1,31 @@
+org aspectj tool ant taskdef compil
+ajc compileradapt
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef ajc
+ajc default compil adapt defaultcompileradapt
+add argument setupjavaccommand pick
+param cline code org apach tool ant type commandlin code
+argument ad
+throw org apach tool ant buildexcept
+ajccompil ajconlyarg
+org apach tool ant taskdef compil defaultcompileradapt setupjavaccommand
+commandlin add ajc option addajcopt commandlin cline build except buildexcept
+javac javac javac getjavac
+org aspectj tool ant taskdef ajc2 ajc
+ajc org aspectj tool ant taskdef ajc2 javac
+class cast except classcastexcept cce
+build except buildexcept cce
+ajc thread getthread
+cline creat argument createargu set setvalu thread
+cline creat argument createargu set setvalu ajc thread getthread
+ajc nocom getnocom
+cline creat argument createargu set setvalu nocom
+ajc nosymbol getnosymbol
+cline creat argument createargu set setvalu nosymbol
+ajc preprocess getpreprocess
+cline creat argument createargu set setvalu preprocess
+ajc workingdir getworkingdir
+cline creat argument createargu set setvalu workingdir
+cline creat argument createargu set file setfil ajc workingdir getworkingdir
+cline

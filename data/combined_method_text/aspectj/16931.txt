@@ -1,0 +1,31 @@
+org aspectj org eclips jdt core dom
+subtyp typedeclar extens aspectj
+type aspect pointcut exist
+class type repres aspect repres
+aspectdeclar subtyp ajtypedeclar
+type declar ajtypedeclar type declar typedeclar
+ast node astnod clone0 ast target
+type declar ajtypedeclar result type declar ajtypedeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+ast api level apilevel ast jls2 intern jls2 intern
+result intern set modifi internalsetmodifi modifi getmodifi
+result set superclass setsuperclass
+ast node astnod copi subtre copysubtre target superclass getsuperclass
+result super interfac superinterfac add addal
+ast node astnod copi subtre copysubtre target super interfac superinterfac
+result set interfac setinterfac interfac isinterfac
+result set aspect setaspect aspect isaspect
+result set setnam simpl simplenam getnam clone target
+ast api level apilevel ast jls3
+result modifi add addal ast node astnod copi subtre copysubtre target modifi
+result type paramet typeparamet add addal
+ast node astnod copi subtre copysubtre target type paramet typeparamet
+result set superclass type setsuperclasstyp
+type ast node astnod copi subtre copysubtre target superclass type getsuperclasstyp
+result super interfac type superinterfacetyp add addal
+ast node astnod copi subtre copysubtre target super interfac type superinterfacetyp
+result bodi declar bodydeclar add addal
+ast node astnod copi subtre copysubtre target bodi declar bodydeclar
+result

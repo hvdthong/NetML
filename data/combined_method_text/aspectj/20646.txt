@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+instruct list instructionlist load join point loadthisjoinpoint
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist instruct list instructionlist
+join point lazi isthisjoinpointlazi
+lazi build join point
+append creat join point createthisjoinpoint
+store retriev
+lazi tjp consum lazytjpconsum
+append join point var thisjoinpointvar creat store createstor fact
+instruct handl instructionhandl end append join point var thisjoinpointvar creat load createload fact
+insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifnonnul end
+insert join point var thisjoinpointvar creat load createload fact
+lazi built store retriev
+join point var thisjoinpointvar append load appendload fact

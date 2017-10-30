@@ -1,0 +1,53 @@
+org aspectj apach bcel verifi
+verifi instanc verifi class file java virtual
+machin specif 2nd edit
+pass verif includ pass verif
+pass verif includ pass verif
+pass verif includ pass verif
+verifi creat passverifi instanc perform actual verif
+verifi instanc gener verifierfactori
+version verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi verifierfactori
+org aspectj apach bcel verifi passverifi
+verifi
+verifi class file
+simpl demonstr api bcel'
+class file verifi justic
+suppli command line argument
+fulli qualifi namea class verifi class file
+classpath refer sun'
+document question put class
+bcel repositori 'addclass javaclass
+main string arg
+system println justic enver haas http bcel sourceforg net http jakarta apach org bcel
+arg length
+arg end endswith class
+dotclasspo arg index lastindexof class
+dotclasspo arg arg substr dotclasspo
+arg arg replac
+system println verifi arg
+verifi verifi factori verifierfactori verifi getverifi arg
+verif result verificationresult
+pass1 dopass1
+system println pass
+pass2 dopass2
+system println pass
+verif result verificationresult
+java class javaclass org aspectj apach bcel repositori
+lookup class lookupclass arg
+method getmethod length
+pass3a dopass3a
+system println pass method number method getmethod
+pass3b dopass3b
+system println pass method number method getmethod
+system println warn
+string warn messag getmessag
+warn length system println
+warn length
+system println warn
+system println
+avoid swap
+flush
+org aspectj apach bcel repositori clear cach clearcach
+system

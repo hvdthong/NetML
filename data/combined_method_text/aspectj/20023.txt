@@ -1,0 +1,5 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+hash code hashcod
+aspect1 hash code hashcod aspect2 hash code hashcod

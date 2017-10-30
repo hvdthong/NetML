@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+analys beforeanalys compil unit declar compilationunitdeclar unit
+analys token analysingtoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext analys compil unit analys compil unit unit file getfilenam
+java5 mode injava5mod aspect annot process noataspectjannotationprocess
+valid aspect annot visitor validateataspectjannotationsvisitor aspect visitor ataspectjvisitor valid aspect annot visitor validateataspectjannotationsvisitor unit
+unit travers aspect visitor ataspectjvisitor unit scope

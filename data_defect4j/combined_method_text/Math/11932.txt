@@ -1,0 +1,10 @@
+org apach common math3 fit leastsquar
+weight copi
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+weight matrix
+real matrix realmatrix weight getweight
+version
+param optim concret optim
+base implement squar optim
+method error estim
+weight matrix observ

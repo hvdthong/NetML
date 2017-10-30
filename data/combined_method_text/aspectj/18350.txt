@@ -1,0 +1,10 @@
+org aspectj weaver
+advic shadow munger shadowmung
+string base paramet name getbaseparameternam world world
+string name allnam signatur getsignatur paramet name getparameternam world
+extra extra paramet count getextraparametercount
+extra name allnam
+string result string base paramet count getbaseparametercount
+result length
+result name allnam
+result

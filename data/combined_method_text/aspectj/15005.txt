@@ -1,0 +1,59 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass static part java virtual
+machin specif 2nd edit
+detail inform found verifi
+method' document
+version pass3averifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3a verifi pass3averifi pass verifi passverifi
+check constraint operand instruct satisfi
+visit invok instruct visitinvokeinstruct invok instruct invokeinstruct
+index valid indexvalid index getindex
+invokevirtu
+invokespeci
+invokestat
+constant cpg constant getconst index getindex
+constant methodref constantmethodref
+constraint violat constraintviol index constant constant methodref
+constant due pass2
+constant type constantnameandtyp cnat constant type constantnameandtyp cpg constant getconst constant methodref constantmethodref type index getnameandtypeindex
+constant utf8 constantutf8 cutf8 constant utf8 constantutf8 cpg constant getconst cnat index getnameindex
+cutf8 byte getbyt equal constant constructor constructor invokespeci
+constraint violat constraintviol invokespeci allow invok instanc initi method
+cutf8 byte getbyt equal constant constructor constructor cutf8 byte getbyt start startswith
+constraint violat constraintviol method begin instanc initi method call method invoc instruct
+instanceof invokeinterfac
+constant cpg constant getconst index getindex
+constant interfac methodref constantinterfacemethodref
+constraint violat constraintviol index constant constant interfacemethodref
+todo time time check bcel detect
+'count' operand consist inform
+constant interfacemethodref operand
+bcel hide operand superflu
+invok method init clinit
+constant type constantnameandtyp cnat constant type constantnameandtyp cpg constant getconst constant interfac methodref constantinterfacemethodref type index getnameandtypeindex
+string constant utf8 constantutf8 cpg constant getconst cnat index getnameindex byte getbyt
+equal constant constructor constructor
+constraint violat constraintviol method invok constant constructor constructor
+equal constant static initi static initi
+constraint violat constraintviol method invok constant static initi static initi
+loadclasstyp method declar class check type
+type return type getreturntyp cpg
+arrai type arraytyp
+arrai type arraytyp basic type getbasictyp
+object type objecttyp
+verifi verifi factori verifierfactori verifi getverifi object type objecttyp class getclassnam
+verif result verificationresult pass2 dopass2
+statu getstatu verif result verificationresult verifi verifi
+constraint violat constraintviol return type class interfac verifi successfulli messag getmessag
+type argument type getargumenttyp cpg
+length
+arrai type arraytyp
+arrai type arraytyp basic type getbasictyp
+object type objecttyp
+verifi verifi factori verifierfactori verifi getverifi object type objecttyp class getclassnam
+verif result verificationresult pass2 dopass2
+statu getstatu verif result verificationresult verifi verifi
+constraint violat constraintviol argument type class interfac verifi successfulli messag getmessag

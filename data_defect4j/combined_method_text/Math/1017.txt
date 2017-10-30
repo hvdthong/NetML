@@ -1,0 +1,15 @@
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+org apach common math except bracket except nobracketingexcept
+univari solver util univariatesolverutil verifi bracket verifybracket function lower upper
+param func type function solv
+version
+solver
+upper
+function sign endpoint
+verifi bracket verifybracket lower
+param lower lower endpoint
+provid implement function gener
+check endpoint interv function take
+param upper upper endpoint
+org apach common math analysi solver
+opposit sign endpoint

@@ -1,0 +1,13 @@
+jira
+org apach common math3 linear
+param type field element
+inherit doc inheritdoc
+row dimens getrowdimens
+spars matrix implement base open address map
+href http issu apach org jira brows math ticket
+overrid
+version
+remov version
+deprec version deprec reason expos
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+row

@@ -1,0 +1,9 @@
+org aspectj ajdt intern core builder
+compil option eclips integr ajdt
+compil option ajcompileropt compil option compileropt
+initi compil option extern set
+param set
+compil option ajcompileropt map set
+set aspect warn default setaspectjwarningdefault
+set
+set set

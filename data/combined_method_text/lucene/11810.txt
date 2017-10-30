@@ -1,0 +1,5 @@
+org apach lucen index
+format post doc writer formatpostingsdocswrit format post doc consum formatpostingsdocsconsum
+close except ioexcept
+close
+po writer poswrit close

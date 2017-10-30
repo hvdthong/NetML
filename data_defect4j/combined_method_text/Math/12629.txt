@@ -1,0 +1,10 @@
+segment line getlin build interv set buildintervalset segment start getstart segment end getend
+param segment singl segment form line
+creat line segment
+org apach common math3 geometri euclidean threed
+repres subset link line
+line sublin segment segment
+except math illeg argument except mathillegalargumentexcept segment endpoint equal
+line sublin segment segment math illeg argument except mathillegalargumentexcept
+version
+line sublin

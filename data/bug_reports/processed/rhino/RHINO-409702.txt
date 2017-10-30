@@ -1,0 +1,53 @@
+javaadapter verifyerror abstract classes
+regression 6r5
+fails running jdk interpreted mode results similar jdks error messages good running values optimization
+java
+package override
+public abstract class withfinal
+public withfinal
+
+public abstract void
+public abstract void
+public static abstract class subclass extends withfinal
+public final void
+
+
+
+rhino shell
+var instance javaadapter
+packages override withfinal subclass
+
+function
+
+
+
+print instance
+output rhino 6r5
+adapter1 18ee9d6
+rhino 6r7
+exception thread main java lang verifyerror class adapter1 overrides final method
+java lang classloader defineclass1 native method
+java lang classloader defineclass classloader java
+org mozilla javascript definingclassloader defineclass definingclassloader java
+org mozilla javascript javaadapter loadadapterclass javaadapter java
+org mozilla javascript javaadapter getadapterclass javaadapter java
+org mozilla javascript javaadapter createadpter javaadapter java
+org mozilla javascript javaadapter execidcall javaadapter java
+org mozilla javascript idfunctionobject call idfunctionobject java
+org mozilla javascript basefunction construct basefunction java
+org mozilla javascript interpreter interpretloop interpreter java
+org mozilla javascript interpreter interpret interpreter java
+org mozilla javascript interpretedfunction call interpretedfunction java
+org mozilla javascript contextfactory dotopcall contextfactory java
+org mozilla javascript scriptruntime dotopcall scriptruntime java
+org mozilla javascript interpretedfunction exec interpretedfunction java
+org mozilla javascript tools shell main evaluatescript main java
+org mozilla javascript tools shell main processfilesecure main java
+org mozilla javascript tools shell main processfile main java
+org mozilla javascript tools shell main processsource main java
+org mozilla javascript tools shell main processfiles main java
+org mozilla javascript tools shell main iproxy run main java
+org mozilla javascript context call context java
+org mozilla javascript contextfactory call contextfactory java
+org mozilla javascript tools shell main exec main java
+org mozilla javascript tools shell main main main java

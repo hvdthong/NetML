@@ -1,0 +1,11 @@
+org apach lucen index
+lucen experiment
+segment reader segmentread index reader indexread cloneabl
+overrid
+reader finish readerfinish
+care control
+notifi segmentread finish
+core share clone
+segmentread notifi core
+longer segmentread share
+close

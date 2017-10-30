@@ -1,0 +1,45 @@
+org aspectj weaver pattern
+patternpars creat wildtypepattern type pattern pointcut
+express directli turn typepattern
+resolvebind work turn type
+pattern match exacttypepattern
+wildtypepattern
+process pan gener parameter pattern
+genericswildtypepatternresolvingtestcas
+foo foo exist gener
+parser creat wildtypepattern namepattern foo
+resolvebind resolv foo foo raw
+return exacttypepattern lfoo
+foo string foo exist string meet bound
+parser creat wildtypepattern namepattern foo typeparamet wtp string
+resolvebind resolv typeparamet exacttypepattern string
+resolv foo foo
+return exacttypepattern pfoo string parameter
+foo str foo exist take bound
+parser creat wildtypepattern namepattern foo typeparamet wtp str
+resolvebind resolv typeparamet wtp str
+resolv foo foo
+return wildtypepattern foo typeparamet wtp str isgener fals
+string
+parser creat wildtypepattern namepattern typeparamet wtp string
+resolvebind resolv typeparamet etp string
+return wildtypepattern typeparamet etp string isgener fals
+foo
+foo extend number
+foo extend number
+foo super number
+wild type pattern wildtypepattern type pattern typepattern
+type pattern typepattern resolv bind fulli qualifi type resolvebindingsfromfullyqualifiedtypenam string fulli qualifi fullyqualifiednam scope iscop scope bind bind
+bind allowbind requir exact type requireexacttyp
+string origin originalnam fulli qualifi fullyqualifiednam
+resolv type resolvedtyp resolv type world resolvedtypeintheworld
+unresolv type unresolvedtyp type
+system println resolv cleannam
+loop ineffici count
+resolv type world resolvedtypeintheworld lookup type world includ prefix lookuptypeinworldincludingprefix scope world getworld fulli qualifi fullyqualifiednam scope import prefix getimportedprefix
+resolv type world resolvedtypeintheworld gener wildcard isgenericwildcard
+type resolv type world resolvedtypeintheworld
+type lookup type scope lookuptypeinscop scope fulli qualifi fullyqualifiednam
+type resolv type resolvedtyp resolv type resolvedtyp type miss ismiss
+resolv bind miss type resolvebindingsformissingtyp resolv type world resolvedtypeintheworld origin originalnam scope bind bind allowbind requir exact type requireexacttyp
+resolv bind exact type resolvebindingsforexacttyp scope type fulli qualifi fullyqualifiednam requir exact type requireexacttyp

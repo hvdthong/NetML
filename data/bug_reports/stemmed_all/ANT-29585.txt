@@ -1,0 +1,23 @@
+appli filelist behav fileset requir file present order includ
+filelist suppos list file maynot exist appos
+fileset compos file exist pass filelist
+appli task skip file dont exist target definit
+
+target test
+appli dir execut ex
+arg param1
+srcfile
+filelist test dir file test2 tst test1 tst
+appli
+target
+problem resid section code
+org apach tool ant taskdef
+file file base name
+isfil dir equal type
+isdirectori file equal type
+isfil
+totalfil
+
+totaldir
+
+comment code file ad desir

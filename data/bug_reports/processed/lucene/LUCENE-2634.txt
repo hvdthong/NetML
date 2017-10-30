@@ -1,0 +1,8 @@
+indexreader iscurrent lies documents removed latest commit
+usecase
+indexreader indexwriter
+delete documents term indexwriter
+commit indexwriter
+indexreader iscurrent returns true
+check index reader current reopened obtained writer ect problem documents found search deletion
+testcase attached

@@ -1,0 +1,17 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+total number milli elaps year start
+elaps milli start month
+org joda time chrono
+month month
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+total milli year month gettotalmillisbyyearmonth year month
+param month month
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+param year year
+reflect intent defin

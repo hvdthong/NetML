@@ -1,0 +1,13 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+param size size operand int doubl
+stack instruct stackinstruct creat dup createdup size
+size stack instruct stackinstruct dup2 dup2
+stack instruct stackinstruct dup dup

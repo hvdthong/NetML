@@ -1,0 +1,8 @@
+link abstract curv fitter abstractcurvefitt curv fit algorithm
+simpl contain weight observ point
+clear
+org apach common math3 fit
+remov observ contain
+weight observ point weightedobservedpoint serializ
+version
+observ clear

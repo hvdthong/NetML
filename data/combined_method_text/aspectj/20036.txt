@@ -1,0 +1,15 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+remov type map
+resolv type resolvedtyp remov string kei
+resolv type resolvedtyp ret resolv type resolvedtyp map tmap remov kei
+ret
+polici weak ref weak ref
+weak refer weakrefer wref weak refer weakrefer expend map expendablemap remov kei
+wref ret resolv type resolvedtyp wref
+polici soft ref soft ref
+soft refer softrefer wref soft refer softrefer expend map expendablemap remov kei
+wref ret resolv type resolvedtyp wref
+ret resolv type resolvedtyp expend map expendablemap remov kei
+ret

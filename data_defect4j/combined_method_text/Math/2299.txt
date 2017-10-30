@@ -1,0 +1,20 @@
+index
+base implement estim
+weight measur weightedmeasur measur
+abstract estim abstractestim estim
+base handl boilerpl method threshold
+jacobian index factor partial getparti paramet
+increment jacobian evalu counter incrementjacobianevaluationscount
+factor math sqrt weight getweight
+set jacobian error estim
+updat jacobian updatejacobian
+col
+deprec org apach common math estim
+org apach common math estim
+version revis date
+deprec replac org apach common math optim gener
+index row
+arrai fill jacobian
+updat jacobian matrix
+factor fast math fastmath sqrt weight getweight
+row

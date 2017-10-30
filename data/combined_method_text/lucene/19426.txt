@@ -1,0 +1,34 @@
+org apach lucen util
+base class lucen unit test junit4 variant
+replac lucenetestcas
+overrid code setup code
+code teardown code unit test make
+call code super setup code
+code super teardown code
+replac setup
+replac teardown
+test public method annot test case
+junit4 href http junit org junit javadoc document complet list featur
+import org junit junit framework
+class lucenetestcas
+annot deriv class correctli annot
+assertsanefieldcach string
+lucen test case lucenetestcasej4
+directori directori impl newdirectoryimpl string clazz clazznam
+clazz clazznam index indexof clazznam indexof fulli qualifi assum store
+clazz clazznam org apach lucen store clazz clazznam
+class directori clazz class fornam clazz clazznam subclass assubclass directori
+empti ctor
+clazz instanc newinst
+except
+file tmp file tmpfile file creat temp file createtempfil test tmp temp dir temp dir
+tmp file tmpfile delet
+tmp file tmpfile mkdir
+constructor directori ctor clazz constructor getconstructor file
+ctor instanc newinst tmp file tmpfile
+except
+open file
+method method clazz method getmethod open class file
+directori method invok tmp file tmpfile
+except
+runtim except runtimeexcept

@@ -1,0 +1,14 @@
+org apach common math optim fit
+search squar estim
+param abscissa point
+curv fit special polynomi
+estim coeffici polynomi coeffici
+add observ weight point sampl
+param weight weight observ point fit
+add observ point addobservedpoint weight
+fitter add observ point addobservedpoint weight
+version revis date
+close
+polynomi fit simpl curv fit
+param observ point fit
+polynomi fitter polynomialfitt

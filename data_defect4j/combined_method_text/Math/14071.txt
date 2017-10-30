@@ -1,0 +1,13 @@
+overrid
+field matrix fieldmatrix creat matrix creatematrix row dimens rowdimens column dimens columndimens
+org apach common math3 linear
+param type field element
+inherit doc inheritdoc
+spars field matrix sparsefieldmatrix field getfield row dimens rowdimens column dimens columndimens
+spars matrix implement base open address map
+href http issu apach org jira brows math ticket
+version
+remov version
+jira
+deprec version deprec reason expos
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix

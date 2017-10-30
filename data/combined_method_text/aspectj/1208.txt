@@ -1,0 +1,6 @@
+org aspectj tool ajdoc
+wrapper ajdoc' aspectj compil
+author mik kersten
+compil wrapper compilerwrapp org aspectj tool ajc main
+messag imessag error geterror
+instanc handler ourhandl error geterror

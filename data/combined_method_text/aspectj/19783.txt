@@ -1,0 +1,5 @@
+org aspectj weaver
+shadow
+unresolv type unresolvedtyp arg type getargtyp
+kind getkind field set fieldset unresolv type unresolvedtyp signatur getsignatur return type getreturntyp
+signatur getsignatur paramet type getparametertyp

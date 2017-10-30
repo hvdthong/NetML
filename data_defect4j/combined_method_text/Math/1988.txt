@@ -1,0 +1,18 @@
+normal distribut impl normaldistributionimpl abstract continu distribut abstractcontinuousdistribut
+standard deviat standarddevi
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+creat normal distribut standard deviat
+set standard deviat intern setstandarddeviationintern
+param distribut
+param standard deviat distribut
+param invers cum accuraci inversecumaccuraci invers cumul probabl accuraci
+set intern setmeanintern
+strictli posit except notstrictlypositiveexcept code
+strictli posit except notstrictlypositiveexcept local format localizedformat standard deviat
+normal distribut impl normaldistributionimpl invers cum accuraci inversecumaccuraci
+invers cumul distribut accuraci
+version
+version revis date
+default implement
+org apach common math distribut
+link org apach common math distribut normal distribut normaldistribut

@@ -1,0 +1,30 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+gener argument store prepar inlin
+param donor method inlin signatur
+param recipi method inlin frame size
+alloc fresh locat
+param frameenv empti environ popul map donor frame
+recipi frame
+param fact instruct factori recipi
+instruct list instructionlist gen argument store genargumentstor
+lazi method gen lazymethodgen donor
+lazi method gen lazymethodgen recipi
+int map intmap frame env frameenv
+instruct factori instructionfactori fact
+instruct list instructionlist ret instruct list instructionlist
+donor frame po donorframepo
+write ret back front pop
+donor static isstat
+target slot targetslot recipi alloc local allocateloc type object
+ret insert instruct factori instructionfactori creat store createstor type object target slot targetslot
+frame env frameenv put donor frame po donorframepo target slot targetslot
+donor frame po donorframepo
+type arg type argtyp donor argument type getargumenttyp
+len arg type argtyp length len
+type arg type argtyp arg type argtyp
+arg slot argslot recipi alloc local allocateloc arg type argtyp
+ret insert instruct factori instructionfactori creat store createstor arg type argtyp arg slot argslot
+frame env frameenv put donor frame po donorframepo arg slot argslot
+donor frame po donorframepo arg type argtyp size getsiz
+ret

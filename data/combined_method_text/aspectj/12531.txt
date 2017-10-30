@@ -1,0 +1,17 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+field type signatur fieldtypesignatur pars field type signatur parsefieldtypesignatur option isopt
+option isopt
+'l' 't'
+token stream tokenstream token index tokenindex start startswith
+token stream tokenstream token index tokenindex start startswith
+token stream tokenstream token index tokenindex start startswith
+eat maybeeat
+pars arrai type signatur parsearraytypesignatur
+token stream tokenstream token index tokenindex start startswith
+pars class type signatur parseclasstypesignatur
+token stream tokenstream token index tokenindex start startswith
+pars type variabl signatur parsetypevariablesignatur
+illeg state except illegalstateexcept expect found
+token stream tokenstream token index tokenindex unpack input string inputstr

@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+fneg negat float
+pre stack result pre
+version fneg java aclement exp
+author href mailto marku dahm berlin dahm
+fneg arithmet instruct arithmeticinstruct
+fneg
+org aspectj apach bcel constant fneg

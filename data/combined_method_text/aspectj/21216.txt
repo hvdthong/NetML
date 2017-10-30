@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+util
+replac instruct handl instruct case branch instruct
+param instruct handl replac
+param branchinstruct branch instruct replac
+param enclosingmethod find ih' instruct list
+replac instruct replaceinstruct
+instruct handl instructionhandl
+branch instruct branchinstruct branch instruct branchinstruct
+lazi method gen lazymethodgen enclos method enclosingmethod
+instruct list instructionlist enclos method enclosingmethod bodi getbodi
+instruct handl instructionhandl fresh append branch instruct branchinstruct
+delet instruct deleteinstruct fresh enclos method enclosingmethod

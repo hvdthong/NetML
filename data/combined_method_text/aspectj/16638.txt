@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+simpl simplenam convert org aspectj org eclips jdt intern compil ast singl refer singlenamerefer refer namerefer
+simpl simplenam simpl simplenam ast
+intern set identifi internalsetidentifi string refer namerefer token
+resolv bind resolvebind
+record node recordnod refer namerefer
+set sourc rang setsourcerang refer namerefer sourc start sourcestart refer namerefer sourc end sourceend refer namerefer sourc start sourcestart

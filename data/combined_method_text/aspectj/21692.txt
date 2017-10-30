@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+bind
+check bound checkallbound scope iscop scope
+len bind length len
+bind
+ataj avoid warn implicit bind
+scope formal getform formal bind formalbind implicit formal bind implicitformalbind
+bind bind type pattern bindingtypepattern scope formal getform
+scope messag messag imessag error scope formal getform formal unbound pointcut

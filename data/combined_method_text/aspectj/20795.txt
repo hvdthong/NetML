@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+tidi tidyup
+trace trace enabl istraceen trace enter tidyup
+shadow munger list shadowmungerlist shadowmungerlist null setup prepareforweav
+type munger list typemungerlist typemungerlist null setup prepareforweav
+late type munger list latetypemungerlist latetypemungerlist null setup prepareforweav
+declar parent list declareparentslist declareparentslist null setup prepareforweav
+trace trace enabl istraceen trace exit tidyup

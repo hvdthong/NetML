@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+account gener signatur
+resolv type resolvedtyp superclass getsuperclass
+object isobject
+ensur gener signatur unpack ensuregenericsignatureunpack
+superclass signatur superclasssignatur
+superclass superclassnam superclass superclassnam java class javaclass superclass getsuperclassnam
+superclass signatur superclasssignatur resolv type getresolvedtypex world getworld resolv unresolv type unresolvedtyp fornam superclass superclassnam signatur getsignatur
+resolv type resolvedtyp re resolv type getresolvedtypex world getworld resolv unresolv type unresolvedtyp signatur forsignatur superclass signatur superclasssignatur
+re

@@ -1,0 +1,35 @@
+author stephen colebourn
+iso utc chronolog convert
+durat field util fieldutil safe add safeadd durat field util fieldutil safe multipli safemultipli field unit milli getunitmilli
+period
+org joda time base
+standard period standardperiodin readabl period readableperiod period milli unit millisperunit
+creat instanc repres number complet standard length unit
+hour consist minut
+period size
+month year imprecis period valu convert
+field util fieldutil safe int safetoint durat milli unit millisperunit
+base singl field period basesinglefieldperiod
+durat field durationfield field period field type getfieldtyp field getfield iso
+param milli unit millisperunit number millisecond standard unit period
+durat field field precis durat
+period getvalu
+base singl field period basesinglefieldperiod subclass mutabl thread safe
+precis period period
+chronolog iso iso chronolog isochronolog instanc utc getinstanceutc
+minut consist second
+week consist dai
+field precis isprecis
+dai consist hour
+consist millisecond
+param period period number hour
+illeg argument except illegalargumentexcept period imprecis durat valu
+kind period object referenc
+link readabl period readableperiod
+manag singl durat field dai minut
+base singl field period basesinglefieldperiod implement readabl period readableperiod
+durat
+convert period durat field getnam
+factori method convert field period hour standardis
+gener directli api user
+illeg argument except illegalargumentexcept

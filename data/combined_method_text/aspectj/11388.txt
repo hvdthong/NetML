@@ -1,0 +1,125 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+declar annot dodeclareannot declar annot declareannot dec deca sourc type bind sourcetypebind sourc type sourcetyp report problem reportproblem
+resolv type resolvedtyp rtx factori eclips fromeclips sourc type sourcetyp
+dec deca match rtx
+rtx expos weaver isexposedtoweav
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process declar annot process declar annot sourc type sourcetyp sourc sourcenam
+annot declar
+unresolv type unresolvedtyp aspect type aspecttyp dec deca aspect getaspect
+aspect type aspecttyp refer type referencetyp
+refer type referencetyp refer type referencetyp aspect type aspecttyp
+parameter type isparameterizedtyp raw type israwtyp
+aspect type aspecttyp gener type getgenerictyp
+type bind typebind factori make type bind maketypebind aspect type aspecttyp
+hideous
+multipl situat relat combin
+annot come annot put
+straight full build sourc annot dec type
+put type type real sourcetypebind work
+increment build chang affect type annot
+dec type binarytypebind access bcel
+affect type real sourcetypebind work pr128665
+sourc type bind sourcetypebind stb sourc type bind sourcetypebind
+annot add toadd
+abit
+retriev annot bcel construct eclips
+stb binari type bind binarytypebind
+refer type referencetyp refer type referencetyp factori eclips fromeclips stb
+resolv member resolvedmemb method declar method getdeclaredmethod
+resolv member resolvedmemb deca method decamethod
+string nametolookfor dec deca annot method getannotationmethod
+method length
+method getnam equal nametolookfor deca method decamethod method
+deca method decamethod decamethod null assert
+annot annotationx ax deca method decamethod annot getannot
+add toadd annot
+add toadd creat annot bcel annot createannotationfrombcelannot ax deca method decamethod sourc locat getsourceloc offset getoffset factori
+bug bug bug dont test abit correct fact lucki
+mean increment compil
+annot allow type put type
+abit add toadd resolv type resolvedtyp annot tag bit getannotationtagbit
+nicer real sourcetypebind stai eclips land
+method bind methodbind mb stb method getmethod dec deca annot method getannotationmethod char arrai tochararrai
+abit mb annot tag bit getannotationtagbit abit mb getannotationtagbit ensur resolv
+type declar typedeclar type decl typedecl sourc type bind sourcetypebind mb declar class declaringclass scope refer context referencecontext
+abstract method declar abstractmethoddeclar method decl methoddecl type decl typedecl declar declarationof mb
+add toadd method decl methoddecl annot toadd methoddecl annot add
+add toadd creat annot copi createannotationcopi add toadd
+add toadd resolv type resolvedtyp toadd resolvedtyp null pr148536
+abit add toadd resolv type resolvedtyp annot tag bit getannotationtagbit
+sourc type sourcetyp binari type bind binarytypebind
+case access sourc type bind add annot put
+weaver type temporarili
+resolv type resolvedtyp target type thetargettyp factori eclips fromeclips sourc type sourcetyp
+type bind typebind annot type theannotationtyp add toadd resolv type resolvedtyp
+string sig string annot type theannotationtyp signatur
+unresolv type unresolvedtyp bcel annot type bcelannotationtyp unresolv type unresolvedtyp signatur forsignatur sig
+string bcel annot type bcelannotationtyp getnam
+target type thetargettyp annot hasannot bcel annot type bcelannotationtyp
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+fixm asc tidi code duplic what
+simpl check bit
+giveupnow
+abit tag bit tagbit annot target mask annotationtargetmask
+annot target annot normal isannotationtargettingsomethingotherthanannotationornorm abit
+error report
+giveupnow
+sourc type sourcetyp annot type isannotationtyp abit tag bit tagbit annot annot type annotationforannotationtyp
+sourc type sourcetyp annot type isannotationtyp abit tag bit tagbit annot type annotationfortyp
+report problem reportproblem
+dec deca exact pattern isexactpattern
+factori show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag incorrect target declar annot incorrect target declar annot rtx getnam add toadd type stringifi target stringifytarget abit
+dec deca sourc locat getsourceloc
+dont put lint weav process
+factori getworld getlint invalidtargetforannot isen
+factori getworld getlint invalidtargetforannot signal string rtx getnam toadd type tostr stringifytarget abit deca getsourceloc null
+giveupnow
+giveupnow
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+target type thetargettyp add annot addannot annot annotationx fake annot fakeannot sig abit tag bit tagbit annot runtim retent annotationruntimeretent factori world getworld
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+annot current annot currentannot sourc type sourcetyp scope refer context referencecontext annot
+current annot currentannot
+current annot currentannot length
+annot annot current annot currentannot
+string char oper charoper string tostr annot type type gettypenam
+string char oper charoper string tostr add toadd type type gettypenam
+fixm asc lint attempt add annot method
+put resolv problem error come
+multipl time loop
+equal
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+abit tag bit tagbit annot target mask annotationtargetmask
+abit tag bit tagbit annot annot type annotationforannotationtyp tag bit tagbit annot type annotationfortyp
+mean specifi annot normal type error report resolut process
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+sourc type sourcetyp annot type isannotationtyp abit tag bit tagbit annot annot type annotationforannotationtyp
+sourc type sourcetyp annot type isannotationtyp abit tag bit tagbit annot type annotationfortyp
+report problem reportproblem
+dec deca exact pattern isexactpattern
+factori show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag incorrect target declar annot incorrect target declar annot rtx getnam add toadd type stringifi target stringifytarget abit
+dec deca sourc locat getsourceloc
+dont put lint weav process
+factori getworld getlint invalidtargetforannot isen
+factori getworld getlint invalidtargetforannot signal string rtx getnam toadd type tostr stringifytarget abit deca getsourceloc null
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+build arrai annot
+rememb current set rememberannot time call type
+sourc type sourcetyp scope refer context referencecontext rememb annot rememberannot
+asm relationship provid asmrelationshipprovid default getdefault add declar annot relationship adddeclareannotationrelationship dec deca sourc locat getsourceloc rtx sourc locat getsourceloc
+annot abefor sourc type sourcetyp scope refer context referencecontext annot
+annot newset annot add toadd length abefor abefor length
+system arraycopi add toadd newset add toadd length
+abefor
+system arraycopi abefor newset add toadd length abefor length
+sourc type sourcetyp scope refer context referencecontext annot newset
+compil weav context compilationandweavingcontext leav phase leavingphas tok

@@ -1,0 +1,16 @@
+param kei element pair
+param type
+creat entri repres map kei
+org apach common math3 util
+param element pair
+modifi caller
+param kei
+param
+instanc immut imposs
+kei
+version
+param kei type
+ensur refer pass constructor
+gener pair
+pair
+immut

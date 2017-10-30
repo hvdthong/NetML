@@ -1,0 +1,5 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+replac method bind replacemethodbind messag send messagesend send method bind methodbind bind newbind
+send bind send codegen bind codegenbind bind newbind
+send set actual receiv type setactualreceivertyp bind newbind declar class declaringclass

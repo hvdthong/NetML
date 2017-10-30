@@ -1,0 +1,13 @@
+org aspectj bridg
+wrap messag throwabl sourc locat
+messag imessag
+return list code isourceloc code instanc
+addit sourc locat relev messag
+messag creator list includ primari sourc locat
+messag obtain
+code getsourceloc code
+extra locat warn messag
+flag shadow locat unmatch due pointcut definit
+base subtyp defin type
+href http bug eclips org bug show bug cgi aspectj bug
+list extra sourc locat getextrasourceloc

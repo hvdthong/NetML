@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+synthet isajsynthet
+synthet isajsynthet return isajsynthet getnam startswith namemangl prefix

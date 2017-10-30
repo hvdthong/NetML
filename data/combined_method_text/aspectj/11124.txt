@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+type bind typebind insert
+type bind typebind
+type bind typebind rest
+rest
+type bind typebind
+len rest length
+type bind typebind ret type bind typebind len
+ret
+system arraycopi rest ret len
+ret

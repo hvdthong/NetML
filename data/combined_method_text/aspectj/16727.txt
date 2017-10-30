@@ -1,0 +1,23 @@
+org aspectj org eclips jdt core dom
+ast matcher ajastmatch ast matcher astmatch
+match inter type method declar intertypemethoddeclar node object
+ajh02 method ad
+inter type method declar intertypemethoddeclar
+inter type method declar intertypemethoddeclar inter type method declar intertypemethoddeclar
+level node ast getast api level apilevel
+level ast jls2 intern jls2 intern
+node modifi getmodifi modifi getmodifi
+safe subtre match safesubtreematch node intern return type internalgetreturntyp intern return type internalgetreturntyp
+level ast jls3
+safe subtre list match safesubtreelistmatch node modifi modifi
+safe subtre match safesubtreematch node return type2 getreturntype2 return type2 getreturntype2
+compar type paramet constructor
+safe subtre list match safesubtreelistmatch node type paramet typeparamet type paramet typeparamet
+node constructor isconstructor constructor isconstructor
+safe subtre match safesubtreematch node javadoc getjavadoc javadoc getjavadoc
+safe subtre match safesubtreematch node getnam getnam
+compar return type constructor
+safe subtre list match safesubtreelistmatch node paramet paramet
+node extra dimens getextradimens extra dimens getextradimens
+safe subtre list match safesubtreelistmatch node thrown except thrownexcept thrown except thrownexcept
+safe subtre match safesubtreematch node bodi getbodi bodi getbodi

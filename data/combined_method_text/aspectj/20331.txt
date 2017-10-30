@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+annot doesalreadyhaveannot lazi method gen lazymethodgen resolv member resolvedmemb itdfieldsig declar annot declareannot deca list report problem reportedproblem
+annot hasannot deca annot type getannotationtypex
+world lint getlint element annot elementalreadyannot enabl isen
+integ uniqu uniqueid integ hash code hashcod deca hash code hashcod
+report problem reportedproblem uniqu uniqueid
+report problem reportedproblem add uniqu uniqueid
+report problem reportedproblem add integ itdfieldsig hash code hashcod deca hash code hashcod
+world lint getlint element annot elementalreadyannot signal
+string itdfieldsig string tostr deca annot type getannotationtypex string tostr
+sourc locat getsourceloc sourc locat isourceloc deca sourc locat getsourceloc

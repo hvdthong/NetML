@@ -1,0 +1,12 @@
+weight statist appli includ arrai entri
+param valu input arrai
+weight evalu weightedevalu
+param length number element includ
+input arrai entri suppli weight arrai
+param weight arrai weight
+weight evalu statist
+param begin index element includ
+version revis date
+evalu valu weight begin length
+org apach common math stat descript
+return result evalu statist entri

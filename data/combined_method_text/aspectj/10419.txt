@@ -1,0 +1,9 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+list relativ file path relativizefilepath list config file configfil string root path rootpath
+list rel path list relativepathslist arrai list arraylist
+iter config file configfil iter hasnext
+file file file
+rel path list relativepathslist add file updat fileupdat relativ path relativizepath file path getpath root path rootpath
+rel path list relativepathslist

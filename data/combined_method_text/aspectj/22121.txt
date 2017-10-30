@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+modifi pattern modifierspattern pattern node patternnod
+modifi pattern modifierspattern read version data input stream versioneddatainputstream except ioexcept
+requir modifi requiredmodifi read short readshort
+forbidden modifi forbiddenmodifi read short readshort
+requir modifi requiredmodifi forbidden modifi forbiddenmodifi
+modifi pattern modifierspattern requir modifi requiredmodifi forbidden modifi forbiddenmodifi

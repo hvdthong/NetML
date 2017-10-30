@@ -1,0 +1,15 @@
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+method link comput object computeobjectivevalu call method intern
+param func type function solv
+version
+solver
+increment evalu count
+provid subclass exclus
+evalu increment count incrementcount
+max count exceed except maxcountexceededexcept
+provid implement function gener
+increment evalu count incrementevaluationcount
+code comput object computeobjectivevalu solv function
+link abstract differenti univari solver abstractdifferentiableunivariatesolv
+org apach common math analysi solver
+evalu except toomanyevaluationsexcept max getmax

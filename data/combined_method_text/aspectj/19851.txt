@@ -1,0 +1,8 @@
+org aspectj weaver
+author colyer
+type factori typefactori
+locat bracket locatefirstbracket string buffer stringbuff signatur
+idx
+idx signatur length
+signatur char charat idx idx
+idx

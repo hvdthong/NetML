@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+cflow percflow claus perclaus
+equal object
+cflow percflow
+cflow percflow cflow percflow
+isbelow isbelow
+aspect inaspect aspect inaspect aspect inaspect equal aspect inaspect
+entri entri entri equal entri

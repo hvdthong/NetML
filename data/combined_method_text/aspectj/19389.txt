@@ -1,0 +1,31 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+resolv member possibl type paramet refer paramet return
+type find ancestor member type paramet match
+bound bound narrow hierarchi
+accumul member match accumulatemembersmatch
+resolv member impl resolvedmemberimpl member match membertomatch
+iter type typestolookin
+list type visit typesalreadyvisit
+set found member foundmemb
+type typestolookin hasnext
+resolv type resolvedtyp tolookin resolv type resolvedtyp type typestolookin
+type visit typesalreadyvisit tolookin
+type visit typesalreadyvisit add tolookin
+resolv member impl resolvedmemberimpl found member foundmemb resolv member impl resolvedmemberimpl tolookin lookup resolv member lookupresolvedmemb member match membertomatch
+found member foundmemb visibl isvisibleto member match membertomatch found member foundmemb
+list declar type declaringtyp arrai list arraylist
+declar type unresolv member itd
+resolv type resolvedtyp resolv declar type resolveddeclaringtyp found member foundmemb declar type getdeclaringtyp resolv tolookin world getworld
+accumul type accumulatetypesinbetween tolookin resolv declar type resolveddeclaringtyp declar type declaringtyp
+iter iter declar type declaringtyp iter iter hasnext
+resolv type resolvedtyp declar type declaringtyp resolv type resolvedtyp iter
+typesalreadyvisit add declaringtyp
+resolv member resolvedmemb member found member foundmemb substitut declar type withsubstitutedeclaringtyp declar type declaringtyp
+found member foundmemb add member
+tolookin parameter type isparameterizedtyp found member foundmemb back gener member backinggenericmemb
+found member foundmemb add join point signatur joinpointsignatur found member foundmemb back gener member backinggenericmemb found member foundmemb declar type declaringtyp resolv tolookin world getworld
+accumul member match accumulatemembersmatch found member foundmemb tolookin direct supertyp getdirectsupertyp type visit typesalreadyvisit found member foundmemb
+parameter type gener type back

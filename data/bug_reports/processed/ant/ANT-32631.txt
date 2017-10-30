@@ -1,0 +1,8 @@
+includes excludes fileset references
+define fileset webapp
+fileset webapp
+
+fileset
+constrained reference include web inf
+directory webapp
+fileset refid webapp includes web inf

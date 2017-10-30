@@ -1,0 +1,5 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener method generatemethod class file classfil class file classfil resolv member resolvedmemb member bodi gener bodygener gen
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil world make method bind makemethodbind member gen

@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+build inter type claus buildintertypeandperclaus class scope classscop class scope classscop
+factori eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+privileg isprivileg
+bind privileg handler privilegedhandl privileg handler privilegedhandl
+check spec checkspec class scope classscop
+ignor investig ignorefurtherinvestig
+build claus buildperclaus scope
+method
+method length
+method inter type declar intertypedeclar
+eclips type munger eclipsetypemung inter type declar intertypedeclar method build class scope classscop
+concret concretenam type munger typemung add
+method declar declar declaredeclar
+declar declar declar declaredeclar method build class scope classscop
+concret concretenam declar add
+concret concretenam declar pointcut getdeclaredpointcut

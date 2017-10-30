@@ -1,0 +1,12 @@
+interfac univari real integr algorithm
+set rel accuraci setrelativeaccuraci accuraci
+set rel accuraci
+org apach common math analysi integr
+safeti measur set absolut accuraci ridicul small
+primari criterion converg
+univari real integr univariaterealintegr
+stop iter absolut accuraci
+version revis date
+achiev due larg valu mantissa length
+link org apach common math util math util mathutil safe min math util mathutil safe min
+param accuraci rel accuraci

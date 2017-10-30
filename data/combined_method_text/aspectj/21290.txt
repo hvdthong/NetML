@@ -1,0 +1,6 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+class loader weav adaptor classloaderweavingadaptor
+trace trace enabl istraceen trace enter init
+trace trace enabl istraceen trace exit init

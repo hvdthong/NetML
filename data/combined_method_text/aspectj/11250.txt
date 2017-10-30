@@ -1,0 +1,49 @@
+org aspectj ajdt intern compil ast
+inter type method declar
+author jim hugunin
+inter type method declar intertypemethoddeclar inter type declar intertypedeclar
+gener dispatch method generatedispatchmethod class scope classscop class scope classscop class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron class scope classscop
+unresolv type unresolvedtyp aspect type aspecttyp world bind frombind class scope classscop refer context referencecontext bind
+resolv member resolvedmemb signatur munger signatur getsignatur
+resolv member resolvedmemb dispatch member dispatchmemb
+ajc member maker ajcmembermak inter method dispatch intermethoddispatch signatur aspect type aspecttyp
+method bind methodbind dispatch bind dispatchbind world make method bind makemethodbind dispatch member dispatchmemb munger type variabl alias gettypevariablealias munger signatur getsignatur declar type getdeclaringtyp
+method bind methodbind introduc method introducedmethod
+world make method bind makemethodbind ajc member maker ajcmembermak inter method intermethod signatur aspect type aspecttyp type bind ontypebind interfac isinterfac munger type variabl alias gettypevariablealias
+class file classfil gener method info header generatemethodinfohead dispatch bind dispatchbind
+method attribut offset methodattributeoffset class file classfil content offset contentsoffset
+watch pass 'binding' dispatchbind
+dispatch bind attribut includ annot 'binding'
+chanc bind throw claus
+damag attribut gener dispatch bind
+attribut number attributenumb class file classfil gener method info attribut generatemethodinfoattribut bind
+make effect signatur attribut makeeffectivesignatureattribut signatur shadow method call methodcal
+code attribut offset codeattributeoffset class file classfil content offset contentsoffset
+class file classfil gener code attribut header generatecodeattributehead
+code stream codestream code stream codestream class file classfil code stream codestream
+code stream codestream reset class file classfil
+code stream codestream initi max local initializemaxloc dispatch bind dispatchbind
+method bind methodbind method bind methodbind introduc method introducedmethod
+type bind typebind paramet method bind methodbind paramet
+length paramet length
+resolv posit resolvedposit
+method bind methodbind static isstat
+resolv posit resolvedposit
+code stream codestream aload
+resolv posit resolvedposit
+length
+code stream codestream load paramet resolv posit resolvedposit
+paramet type bind typebind doubl paramet type bind typebind long
+resolv posit resolvedposit
+resolv posit resolvedposit
+typebind type
+method bind methodbind static isstat
+code stream codestream invokestat method bind methodbind
+method bind methodbind declar class declaringclass interfac isinterfac
+code stream codestream invokeinterfac method bind methodbind
+code stream codestream invokevirtu method bind methodbind
+ast util astutil gener return generatereturn dispatch bind dispatchbind return type returntyp code stream codestream
+class file classfil complet code attribut completecodeattribut code attribut offset codeattributeoffset
+attribut number attributenumb
+class file classfil complet method info completemethodinfo method attribut offset methodattributeoffset attribut number attributenumb

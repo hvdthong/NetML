@@ -1,0 +1,9 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+sort view sortview structur view node istructureviewnod node compar compar
+node node children getchildren
+collect sort node children getchildren compar
+iter node children getchildren iter hasnext
+structur view node istructureviewnod node nextnod structur view node istructureviewnod
+node nextnod sort view sortview node nextnod compar

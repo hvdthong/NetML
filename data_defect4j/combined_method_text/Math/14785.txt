@@ -1,0 +1,11 @@
+comput object gradient computeobjectivegradi param
+comput gradient vector
+param param point gradient evalu
+gradient param
+gradient point
+boiler plate code deal gradient evalu
+version
+org apach common math3 optim nonlinear scalar
+gradient multivari optim gradientmultivariateoptim
+differenti function
+base implement optim multivari scalar

@@ -1,0 +1,49 @@
+org aspectj apach bcel classfil
+class repres method info structur represent
+method class jvm specif detail
+method access flag signatur number attribut
+version method java aclement exp
+author href mailto marku dahm berlin dahm
+method field method fieldormethod
+ensur paramet annot unpack ensureparameterannotationsunpack
+paramet annot date parameterannotationsoutofd
+paramet annot date parameterannotationsoutofd
+paramet count parametercount argument type getargumenttyp length
+paramet count parametercount
+unpack paramet annot unpackedparameterannot paramet annot paramet annot
+runtim visibl paramet annot runtimevisibleparameterannot paramet annot vi parameterannotationsvi
+runtim invis paramet annot runtimeinvisibleparameterannot paramet annot invi parameterannotationsinvi
+find attribut annot data
+attribut attr attribut getattribut
+list accumul annot accumulatedannot arrai list arraylist
+attr length
+attribut attribut attr
+attribut runtim visibl paramet annot runtimevisibleparameterannot
+paramet annot vi parameterannotationsvi runtim visibl paramet annot runtimevisibleparameterannot attribut
+attribut runtim invis paramet annot runtimeinvisibleparameterannot
+paramet annot invi parameterannotationsinvi runtim invis paramet annot runtimeinvisibleparameterannot attribut
+build list annot arrai argument
+list annot paramet annotationsforeachparamet arrai list arraylist
+annot visibl visibleon
+annot invis invisibleon
+found foundsom
+paramet count parametercount
+count
+visibl visibleon annot
+invis invisibleon annot
+paramet annot vi parameterannotationsvi
+visibl visibleon paramet annot vi parameterannotationsvi annot paramet getannotationsonparamet
+count visibl visibleon length
+paramet annot invi parameterannotationsinvi
+invis invisibleon paramet annot invi parameterannotationsinvi annot paramet getannotationsonparamet
+count invis invisibleon length
+annot complet annot annot
+count
+complet annot visibl visibleon length invis invisibleon length
+system arraycopi visibl visibleon complet visibl visibleon length
+system arraycopi invis invisibleon complet visibl visibleon length invis invisibleon length
+found foundsom
+annot paramet annotationsforeachparamet add complet
+found foundsom
+unpack paramet annot unpackedparameterannot annot annot paramet annotationsforeachparamet arrai toarrai annot
+unpack paramet annot unpackedparameterannot paramet annot paramet annot

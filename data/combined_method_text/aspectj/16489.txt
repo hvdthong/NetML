@@ -1,0 +1,19 @@
+org aspectj intern tool build
+build util
+mirror util modul api
+util
+replac instanc replac input
+param input string search replac
+param replac string search input
+param string replac input
+return input replac string
+string replac string input string replac string
+loc input index indexof replac
+loc
+string result input substr loc
+result
+start loc replac length
+start input length
+result input substr start
+input result
+input

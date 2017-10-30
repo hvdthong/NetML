@@ -1,0 +1,19 @@
+param scal absolut toler scalabsolutetoler allow absolut error
+scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler
+adapt stepsiz integr
+version revis date mer nov
+param scal rel toler scalrelativetoler allow rel error
+integr step smaller
+dormand prince853 integr dormandprince853integr min step minstep max step maxstep
+creat link adapt stepsiz integr adaptivestepsizeintegr
+scal rel toler scalrelativetoler
+adapt stepsiz integr adaptivestepsizeintegr dormand prince853 integr newdormandprince853integr
+provid implement function gener
+integr
+param max step maxstep maxim step posit backward
+org apach common math od
+min step minstep max step maxstep scal absolut toler scalabsolutetoler
+order integr factori impl firstorderintegratorfactoryimpl
+dormand princ integr
+param min step minstep minim step posit backward
+factori buid link dormand prince853 integr dormandprince853integr

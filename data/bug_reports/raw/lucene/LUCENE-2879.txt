@@ -1,0 +1,6 @@
+MultiPhraseQuery sums its own idf instead of Similarity.
+ MultiPhraseQuery is a generalized version of PhraseQuery, and computes IDF the same way by default (by summing across the terms). 
+
+ The problem is it doesn't let the Similarity do this: PhraseQuery calls Similarity.idfExplain(Collection&lt;Term&gt; terms, IndexSearcher searcher), 
+but MultiPhraseQuery just sums itself, calling Similarity.idf(int, int) for each term. 
+

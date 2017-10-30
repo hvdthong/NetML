@@ -1,0 +1,29 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+pars pointcut express
+pointcut resolv declar insid inscop class
+pointcut unqualifi refer pointcut
+declar type
+pointcut formal paramet bound match
+join point
+throw unsupportedpointcutprimitiveexcept parser encount
+primit pointcut express kind support pointcutpars
+throw illegalargumentexcept express form
+pointcut express
+pointcut express pointcutexpress pars pointcut express parsepointcutexpress
+string express
+class scope inscop
+pointcut paramet pointcutparamet formal paramet formalparamet
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept illeg argument except illegalargumentexcept
+pointcut express impl pointcutexpressionimpl expr pcexpr
+pointcut resolv pointcut express resolvepointcutexpress express scope inscop formal paramet formalparamet
+concret pointcut express concretizepointcutexpress scope inscop formal paramet formalparamet
+valid support primit validateagainstsupportedprimit express validateagainstsupportedprimit express ref'd pcut
+expr pcexpr pointcut express impl pointcutexpressionimpl express formal paramet formalparamet world getworld
+parser except parserexcept pex
+illeg argument except illegalargumentexcept build user messag parser except buildusermessagefromparserexcept express pex
+reflect world reflectionworld reflect world except reflectionworldexcept rwex
+illeg argument except illegalargumentexcept rwex messag getmessag
+expr pcexpr

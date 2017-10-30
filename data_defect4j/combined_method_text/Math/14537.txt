@@ -1,0 +1,11 @@
+overrid
+embed rung kutta integr embeddedrungekuttaintegr
+version
+shift
+inherit doc inheritdoc
+rung kutta step interpol rungekuttastepinterpol
+repres interpol step
+org apach common math3 od nonstiff
+od integr rung kutta embed rung kutta integr
+rung kutta integr rungekuttaintegr
+previou state previousst current state currentst clone

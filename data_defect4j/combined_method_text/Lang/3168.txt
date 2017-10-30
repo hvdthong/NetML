@@ -1,0 +1,11 @@
+intend mirror valu
+version
+author apach softwar foundat
+param
+java version javavers
+java specif version system properti
+repres version java specif
+constructor
+param standard
+org apach common lang3
+java version javavers string

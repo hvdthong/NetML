@@ -1,0 +1,11 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+default messag handler defaultmessagehandl messag handler imessagehandl
+ignor isignor messag imessag kind kind
+kind equal messag imessag weaveinfo
+show weav info showweaveinfo
+kind issameorlessthan messag imessag info
+verbos isverbos
+kind issameorlessthan messag imessag debug
+debug isdebug
+show warn showwarn

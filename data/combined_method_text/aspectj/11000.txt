@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil
+author colyer
+class weaver sourc class file weav
+iter iclassfileprovid interfac receiv result back
+weaver iweaverequestor interfac
+weaver adapt weaveradapt class file provid iclassfileprovid weav requestor iweaverequestor iter
+object
+hasnext hasnext return null set indic correctli
+final phase finalphas
+return result lastreturnedresult return result lastreturnedresult process nowprocess
+lastreturnedresult
+finish finishedwith return result lastreturnedresult
+local iter counter localiteratorcount
+return result lastreturnedresult process nowprocess
+weaver messag handler weavermessagehandl set current result setcurrentresult process nowprocess result
+weavermessagehandl handlemessag messag weav nowprocess filenam imessag info null null
+process nowprocess unwoven class file unwovenclassfil class file index classfileindex

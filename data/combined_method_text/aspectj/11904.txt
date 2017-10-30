@@ -1,0 +1,28 @@
+org aspectj ajdt intern core builder
+compil option eclips integr ajdt
+compil option ajcompileropt compil option compileropt
+string string tostr
+string buffer stringbuff buf string buffer stringbuff string tostr
+add aspectj addit option
+buf append taspectj specif option
+buf append termin compil append termin compil terminateaftercompil enabl disabl buf append termin compil append terminateaftercompil enabl disabl nl
+buf append inlin option append inlin xnoinlin enabl disabl buf append inlin option append xnoinlin enabl disabl nl
+buf append gener serializ aspect option append serializ aspect xserializableaspect enabl disabl buf append gener serializ aspect option append xserializableaspect enabl disabl nl
+buf append lazi thisjoinpoint option append lazi join point xlazythisjoinpoint enabl disabl buf append lazi thisjoinpoint option append xlazythisjoinpoint enabl disabl nl
+buf append gener reweav class file option append reweav xnotreweav enabl disabl buf append gener reweav class file option append xnotreweav enabl disabl nl
+buf append member support option append member xhasmemb enabl disabl buf append member support option append xhasmemb enabl disabl nl
+buf append gener ajd model append gener model generatemodel enabl disabl buf append gener ajd model append generatemodel enabl disabl nl
+buf append gener javadoc ajd model append gener java doc model generatejavadocsinmodel enabl disabl buf append gener javadoc ajd model append generatejavadocsinmodel enabl disabl nl
+buf append gener emac symbol file append gener emac sym file generateemacssymfil enabl disabl buf append gener emac symbol file append generateemacssymfil enabl disabl nl
+buf append suppress aspectj process append aspect process noataspectjprocess enabl disabl buf append suppress aspectj process append noataspectjprocess enabl disabl nl
+buf append invalid absolut type xlint append sever string getseveritystr invalid absolut type invalidabsolutetypenam buf append invalid absolut type xlint append getseveritystr invalidabsolutetypenam nl
+buf append invalid wildcard type xlint append sever string getseveritystr invalid wild card type invalidwildcardtypenam buf append invalid wildcard type xlint append getseveritystr invalidwildcardtypenam nl
+buf append unresolv member xlint append sever string getseveritystr unresolv member unresolvablememb buf append unresolv member xlint append getseveritystr unresolvablememb nl
+buf append type expos weaver xlint append sever string getseveritystr type expos weaver typenotexposedtoweav buf append type expos weaver xlint append getseveritystr typenotexposedtoweav nl
+buf append shadow structur xlint append sever string getseveritystr shadow structur shadownotinstructur buf append shadow structur xlint append getseveritystr shadownotinstructur nl
+buf append unmatch super type call xlint append sever string getseveritystr unmatch super type call unmatchedsupertypeincal buf append unmatch super type call xlint append getseveritystr unmatchedsupertypeincal nl
+buf append implement lazi thisjoinpoint xlint append sever string getseveritystr implement lazi tjp cannotimplementlazytjp buf append implement lazi thisjoinpoint xlint append getseveritystr cannotimplementlazytjp nl
+buf append serialversionuid field xlint append sever string getseveritystr serial version uid field needserialversionuidfield buf append serialversionuid field xlint append getseveritystr needserialversionuidfield nl
+buf append incompat serial version xlint append sever string getseveritystr incompat serial version incompatibleserialvers buf append incompat serial version xlint append getseveritystr incompatibleserialvers nl
+buf append swallow except catch block xlint append sever string getseveritystr compil option compileropt swallow except catch block swallowedexceptionincatchblock buf append swallow except catch block xlint append getseveritystr compileropt swallowedexceptionincatchblock nl
+buf string tostr

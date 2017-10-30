@@ -1,0 +1,2 @@
+Calling toSource on a parsed script containing debugger omits semi-colon - sample attached
+This is related to 687669, but I think a slightly different issue.

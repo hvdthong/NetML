@@ -1,0 +1,30 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+creat pseudo option requir implement
+macro option
+throw buildexcept option conflict
+setup option setupopt
+xweav dir xweavedir
+default destdir default destdir dest dir destdir
+build except buildexcept weavedir forc destdir
+outjar
+build except buildexcept weavedir forc outjar
+injar
+build except buildexcept weavedir incompat injar
+inpath
+build except buildexcept weavedir incompat inpath
+file injar zip directori zipdirectori xweav dir xweavedir
+set injar setinjar path project getproject injar absolut path getabsolutepath
+set destdir setdestdir xweav dir xweavedir

@@ -1,0 +1,39 @@
+author stephen colebourn
+set
+chronolog set intern utc time zone
+code month year getmonthofyear code
+calcul local date locald perform link chronolog
+method focu kei field
+add subtract
+method typic subtract complex period instanc
+local date locald immut datetim repres date
+copi local date locald period
+local date locald
+unsupport time field subtract period hour
+maximum minimum valu
+techniqu access method
+amount code code return
+field
+date field fact queri
+period ad withperiodad period
+subtract field achiev method
+text
+local date locald minu readabl period readableperiod period
+time zone
+individu field queri wai
+numer
+param period period reduc instant
+effect
+year month year monthofyear dai month dayofmonth
+standard chronolog class suppli thread safe immut
+local date locald differ date midnight datemidnight
+local date locald link readabl partial readableparti
+local date locald thread safe immut provid chronolog
+time zone repres singl instant time
+return copi date period
+code month year monthofyear code
+calcul
+link minu year minusyear
+org joda time
+arithmet except arithmeticexcept result exce intern capac
+round

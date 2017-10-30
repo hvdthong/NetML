@@ -1,0 +1,21 @@
+param number factor semi prime
+rho implement batch gcd comput
+implement paper improv mont carlo factor algorithm
+version
+org apach common math3 prime
+rho brent rhobrent
+cst
+implement pollard' rho factor algorithm
+prod
+richard brent avoid tripl comput typic found pollard'
+pollard rho pollardrho
+bound fast math fastmath min
+prime factor
+bound start ensur enter loop time
+gcd posit gcdposit fast math fastmath ab divisor
+prod divisor
+gcd posit gcdposit fast math fastmath ab
+divisor
+divisor fast math fastmath ab
+backtrack implement deal semi prime
+cst small prime smallprim prime

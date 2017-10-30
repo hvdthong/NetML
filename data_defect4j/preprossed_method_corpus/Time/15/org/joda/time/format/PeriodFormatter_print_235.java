@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org joda time format
+
+
+
+
+
+
+
+
+
+
+
+
+control print pars time period string
+
+main api print pars applic
+instanc creat factori class
+
+link period format periodformat format pattern style
+link iso period format isoperiodformat iso8601 format
+link period formatt builder periodformatterbuild complex format creat method call
+
+
+instanc hold refer intern printer
+parser
+formatt print pars check link printer isprint
+link parser ispars method
+
+underli printer parser alter behav requir
+decor modifi
+
+link local withlocal local return formatt local
+
+return formatt instanc immut
+
+main method code print xxx printxxx code
+code pars xxx parsexxx code method
+pre
+print local
+string period str periodstr formatt print period
+print french local
+string period str periodstr formatt local withlocal local french print period
+
+pars french local
+period date formatt local withlocal local french pars period parseperiod str
+pre
+
+author brian neill o'neil
+author stephen colebourn
+
+
+period formatt periodformatt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print readabl period readableperiod string
+
+param period period format
+print result
+
+string print readabl period readableperiod period
+check printer checkprint
+check period checkperiod period
+
+period printer periodprint printer printer getprint
+string buffer stringbuff buf string buffer stringbuff printer calcul print length calculateprintedlength period local ilocal
+printer print printto buf period local ilocal
+buf string tostr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

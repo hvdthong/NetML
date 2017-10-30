@@ -1,0 +1,60 @@
+org aspectj weaver bcel
+lazi lazi lazi
+unpack underli class thing
+method annot accumul
+written add underli methodgen
+thing slightli repres aspect
+lazi class gen lazyclassgen
+work gener signatur attribut attach type
+declar routin ensur signatur attribut
+write correct basic respons
+check attribut chang weav chang type hierarchi
+remov attribut
+check attribut gener supertyp parameter gener
+build attribut includ typevari supertyp superinterfac inform
+fixup gener signatur attribut fixupgenericsignatureattribut
+world getworld world getworld java5 mode isinjava5mod
+todo asc gener temporarili assum type gener dont signatur attribut closur revisit doubt
+type mytyp
+chang requir modifi attribut
+regener gener signatur attribut regenerategenericsignatureattribut
+find attribut
+signatur sig attr sigattr
+type mytyp mytyp null null type built scratch sig attribut
+attribut gen mygen attribut getattribut
+length
+attribut attribut
+attribut getnam equal signatur sig attr sigattr signatur attribut
+attribut
+attribut needattribut
+sig attr sigattr attribut needattribut sigattr null needattribut true definetli type 'removed' hierarchi
+check interfac
+attribut needattribut
+type mytyp
+stop
+resolv type resolvedtyp interfac interfacertx type mytyp declar interfac getdeclaredinterfac
+interfac interfacertx length
+resolv type resolvedtyp type typex interfac interfacertx
+type typex gener type isgenerictyp type typex parameter type isparameterizedtyp attribut needattribut
+check supertyp
+resolv type resolvedtyp superclass rtx superclassrtx type mytyp superclass getsuperclass
+superclass rtx superclassrtx gener type isgenerictyp superclass rtx superclassrtx parameter type isparameterizedtyp attribut needattribut
+attribut needattribut
+string buffer stringbuff signatur string buffer stringbuff
+type variabl
+type variabl typevari var tvar type mytyp type variabl gettypevari
+var tvar length
+signatur append
+var tvar length
+type variabl typevari variabl var tvar
+signatur append variabl signatur getsignatur
+signatur append
+supertyp
+string supersig type mytyp superclass getsuperclass signatur attribut getsignatureforattribut
+signatur append supersig
+resolv type resolvedtyp interfac interfacertx type mytyp declar interfac getdeclaredinterfac
+interfac interfacertx length
+string interfac interfacertx signatur attribut getsignatureforattribut
+signatur append
+sig attr sigattr gen mygen remov attribut removeattribut sig attr sigattr
+gen mygen add attribut addattribut creat signatur attribut createsignatureattribut signatur string tostr

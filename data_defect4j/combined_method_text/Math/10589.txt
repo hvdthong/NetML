@@ -1,0 +1,23 @@
+org apach common math3 analysi integr gauss
+weight
+base rule factori baserulefactori number
+param number point numberofpoint order rule retriev
+strictli posit except notstrictlypositiveexcept
+dimens mismatch except dimensionmismatchexcept element rule pair
+base rule determin integr node
+version
+strictli posit except notstrictlypositiveexcept code number point numberofpoint
+dimens mismatch except dimensionmismatchexcept
+pair rule point weight pointsandweight number point numberofpoint
+param type number repres point weight
+quadratur rule
+return rule refer cach
+subclass implement link comput rule computerul comput rule computerul method
+cach
+rule intern getruleintern number point numberofpoint
+point weight order
+synchron ensur rule comput ad
+rule
+length
+add rule addrul comput rule computerul number point numberofpoint
+pair rule intern getruleintern number point numberofpoint

@@ -1,0 +1,22 @@
+version
+filter hyperplan
+node cut getcut
+hyperplan hyperplan node cut getcut hyperplan gethyperplan
+side hyperplan
+param node current bsp tree node
+boolean node attribut getattribut copi copyself
+minu
+org apach common math3 geometri partit
+hyperplan subhyperplan recurs intersect recurseintersect bsp tree bsptree node hyperplan subhyperplan
+param type space
+recurs intersect recurseintersect node minu getminu
+param hyperplan travers region
+hyperplan subhyperplan split hyperplan splitsubhyperplan split split hyperplan
+hyperplan subhyperplan minu recurs intersect recurseintersect node minu getminu split minu getminu
+abstract region abstractregion space space region
+hyperplan subhyperplan recurs intersect recurseintersect node getplu split getplu
+abstract region independ geometri type dimens
+reunit minu
+recurs comput part hyperplan
+contain region
+recurs intersect recurseintersect node getplu

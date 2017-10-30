@@ -1,0 +1,22 @@
+org apach common math3 optim gener
+linear conjug gradient optim
+support fletcher reev polak ribi egrav
+linear conjug gradient optim nonlinearconjugategradientoptim
+param updat formula updateformula formula updat beta paramet
+linear conjug gradient optim nonlinearconjugategradientoptim conjug gradient formula conjugategradientformula updat formula updateformula
+checker
+version
+univari solver univariatesolv line search solver linesearchsolv
+param checker converg checker
+converg checker convergencecheck point pair pointvaluepair checker
+link conjug gradient formula conjugategradientformula fletcher reev link
+param precondition precondition
+conjug gradient formula conjugategradientformula polak ribier
+initi step initialstep
+deprec remov
+option precondit
+solver line search solver linesearchsolv
+param line search solver linesearchsolv solver line search
+updat formula updateformula updat formula updateformula
+precondition precondition
+updat formula conjug search direct support

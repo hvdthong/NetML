@@ -1,0 +1,12 @@
+tableau num artifici variabl getnumartificialvari
+solv linear problem phase simplex method
+tableau num object function getnumobjectivefunct tableau width getwidth
+return problem optim state
+optim isoptim simplex tableau simplextableau tableau
+math util mathutil compar compareto tableau entri getentri epsilon
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+version revis date
+tableau entri getentri
+org apach common math optim linear
+param tableau simpl tableau problem
+model solv

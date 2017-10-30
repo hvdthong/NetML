@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+init failur handler isinitfailurehandl instruct handl instructionhandl
+skip astor aload start handler
+check instruct
+'putstat ajc initfailurecause'
+handler creat aspectclinit generatepostsyntheticcod
+instruct handl instructionhandl instruct twoinstructionsawai getnext getnext
+instruct twoinstructionsawai instruct getinstruct putstat
+string putstat instruct twoinstructionsawai instruct getinstruct field getfieldnam cpg
+equal mangler namemangl initfailurecaus field initfailurecaus field

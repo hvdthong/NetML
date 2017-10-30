@@ -1,0 +1,14 @@
+org aspectj apach bcel gener
+lload load long local variabl
+pre stack result word1 result word2 pre
+version lload java aclement exp
+author href mailto marku dahm berlin dahm
+lload load instruct loadinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+accept
+visit lload visitlload

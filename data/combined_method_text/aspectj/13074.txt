@@ -1,0 +1,15 @@
+org aspectj apach bcel gener
+arraylength length arrai
+pre stack arrayref length pre
+version arraylength java aclement exp
+author href mailto marku dahm berlin dahm
+arraylength instruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit except thrower visitexceptionthrow
+visit stack produc visitstackproduc
+visit arraylength visitarraylength

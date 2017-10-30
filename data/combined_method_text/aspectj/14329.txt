@@ -1,0 +1,18 @@
+org aspectj apach bcel gener
+tableswitch switch rang valu low high
+version tableswitch java aclement exp
+author href mailto marku dahm berlin dahm
+switch
+tableswitch select
+dump instruct byte code stream
+param output stream
+dump data output stream dataoutputstream except ioexcept
+dump
+low match length match
+write int writeint low
+high match length match match length
+write int writeint high
+bug pr104720
+match length writeint switch suppli high low entri
+match length int match length jump offset
+write int writeint indic target offset gettargetoffset target

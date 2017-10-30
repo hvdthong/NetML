@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+rang instruct target instructiontarget
+insert instruct list instructionlist fresh freshil
+instruct handl instructionhandl
+insid insidebefor outsidebefor
+start getstart
+end getend
+insid insidebefor outsideaft
+bodi append fresh freshil
+instruct handl instructionhandl start newstart bodi insert fresh freshil
+outsidebefor
+xxx slow design
+retarget branch creation rang
+basic weav outsidebefor
+bcel shadow bcelshadow retarget branch retargetallbranch start newstart

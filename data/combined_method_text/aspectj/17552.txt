@@ -1,0 +1,10 @@
+org aspectj tool ajbrows
+bare bone editor implement framework
+standalon
+author mik kersten
+basic editor basiceditor editor adapt editoradapt
+init jbinit except
+editor panel set font setfont java awt font dialoginput
+editor panel set layout setlayout border layout1 borderlayout1
+editor panel add scroll pane1 jscrollpane1 border layout borderlayout center
+scroll pane1 jscrollpane1 viewport getviewport add editor pane editorpan

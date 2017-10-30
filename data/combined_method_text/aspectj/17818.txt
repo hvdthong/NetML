@@ -1,0 +1,17 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+set debug level setdebuglevel string level
+level valid comma list validcommalist level valid debug valid debug
+cmd add flag addflag level level

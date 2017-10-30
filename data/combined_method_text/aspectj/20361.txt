@@ -1,0 +1,103 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+match
+lazi method gen lazymethodgen
+instruct handl instructionhandl
+bcel shadow bcelshadow enclos shadow enclosingshadow
+list shadow accumul shadowaccumul
+instruct instruct getinstruct
+field instruct fieldinstruct
+match canmatch shadow field fieldget match canmatch shadow field set fieldset
+field instruct fieldinstruct field instruct fieldinstruct
+putfield putstat
+check set constant field check previou
+instruct previou instruct push
+constant stack resolv field determin
+final final gener shadow
+instruct handl instructionhandl prev handl prevhandl prev getprev
+instruct prev previ prev handl prevhandl instruct getinstruct
+util constant push instruct isconstantpushinstruct prev previ
+member field bcel world bcelworld make field join point signatur makefieldjoinpointsignatur clazz field instruct fieldinstruct
+resolv member resolvedmemb resolv field resolvedfield field resolv world
+resolv field resolvedfield
+find field join point
+modifi final isfin resolv field resolvedfield modifi getmodifi
+final set final constant
+join point
+match canmatch shadow field set fieldset
+match set instruct matchsetinstruct enclos shadow enclosingshadow shadow accumul shadowaccumul
+match canmatch shadow field set fieldset
+match set instruct matchsetinstruct enclos shadow enclosingshadow shadow accumul shadowaccumul
+match canmatch shadow field fieldget
+match instruct matchgetinstruct enclos shadow enclosingshadow shadow accumul shadowaccumul
+invok instruct invokeinstruct
+invok instruct invokeinstruct invok instruct invokeinstruct
+method getmethodnam clazz constant pool gen getconstantpoolgen equal init
+match canmatch shadow constructor call constructorcal
+match
+bcel shadow bcelshadow make constructor call makeconstructorcal world enclos shadow enclosingshadow
+shadow accumul shadowaccumul
+invokespeci
+string type ontypenam class getclassnam cpg
+type ontypenam equal enclos class getenclosingclass getnam
+privat
+match invok instruct matchinvokeinstruct enclos shadow enclosingshadow shadow accumul shadowaccumul
+super call join point aspectj
+match invok instruct matchinvokeinstruct enclos shadow enclosingshadow shadow accumul shadowaccumul
+world joinpoint arrai construct enabl isjoinpointarrayconstructionen
+newarrai anewarrai multianewarrai
+match canmatch shadow constructor call constructorcal
+debug
+debug system err println found arrai instruct
+anewarrai
+anewarrai arrai instruct arrayinstruct anewarrai
+object type objecttyp arrai type arraytyp arrai instruct arrayinstruct load class type getloadclasstyp clazz constant pool gen getconstantpoolgen
+debug system err println arrai type arrai type arraytyp
+bcel shadow bcelshadow ctor call shadow ctorcallshadow bcel shadow bcelshadow make arrai constructor call makearrayconstructorcal world enclos shadow enclosingshadow
+match ctor call shadow ctorcallshadow shadow accumul shadowaccumul
+newarrai
+newarrai arrai instruct arrayinstruct newarrai
+type arrai type arraytyp arrai instruct arrayinstruct type gettyp
+debug system err println arrai type arrai type arraytyp
+bcel shadow bcelshadow ctor call shadow ctorcallshadow bcel shadow bcelshadow make arrai constructor call makearrayconstructorcal world enclos shadow enclosingshadow
+match ctor call shadow ctorcallshadow shadow accumul shadowaccumul
+multianewarrai
+multianewarrai arrai instruct arrayinstruct multianewarrai
+object type objecttyp arrai type arraytyp arrai instruct arrayinstruct load class type getloadclasstyp clazz constant pool gen getconstantpoolgen
+debug system err println arrai type arrai type arraytyp
+bcel shadow bcelshadow ctor call shadow ctorcallshadow bcel shadow bcelshadow make arrai constructor call makearrayconstructorcal world enclos shadow enclosingshadow
+match ctor call shadow ctorcallshadow shadow accumul shadowaccumul
+pr77166 think implement
+instanceof aaload
+aaload arrayload aaload
+type arraytyp arrayload gettyp clazz getconstantpoolgen
+bcelshadow arrayloadshadow bcelshadow makearrayloadcal world enclosingshadow
+match arrayloadshadow shadowaccumul
+instanceof aastor
+magic requir
+world joinpoint synchron enabl isjoinpointsynchronizationen
+monitorent monitorexit
+canmatch shadow monitor
+monitorent
+bcel shadow bcelshadow monitor entri shadow monitorentryshadow bcel shadow bcelshadow make monitor enter makemonitorent world enclos shadow enclosingshadow
+match monitor entri shadow monitorentryshadow shadow accumul shadowaccumul
+bcel shadow bcelshadow monitor exit shadow monitorexitshadow bcel shadow bcelshadow make monitor exit makemonitorexit world enclos shadow enclosingshadow
+match monitor exit shadow monitorexitshadow shadow accumul shadowaccumul
+perform optim care astor instruct
+javac type thing start handler
+match canmatch shadow except handler exceptionhandl
+rang rang handl israngehandl
+instruct target instructiontarget target target gettarget
+target
+target length
+instruct target instructiontarget target
+except rang exceptionrang
+assert gethandl
+except rang exceptionrang except rang exceptionrang
+catch type getcatchtyp
+init failur handler isinitfailurehandl
+match
+bcel shadow bcelshadow make except handler makeexceptionhandl
+world
+enclos shadow enclosingshadow
+shadow accumul shadowaccumul

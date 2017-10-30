@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+check spec checkspec
+modifi protect isprotect declar modifi declaredmodifi
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+protect inter type declar allow
+ignor investig ignorefurtherinvestig

@@ -1,0 +1,15 @@
+org apach lucen index
+format post term writer formatpostingstermswrit format post term consum formatpostingstermsconsum
+add term field
+overrid
+format post doc consum formatpostingsdocsconsum add term addterm text start
+current term currentterm text
+current term start currenttermstart start
+todo abstract violat ideal
+term writer invas file
+pointer child consum
+freq start freqstart doc writer docswrit file pointer getfilepoint
+doc writer docswrit po writer poswrit
+prox start proxstart doc writer docswrit po writer poswrit file pointer getfilepoint
+parent skip list writer skiplistwrit reset skip resetskip
+doc writer docswrit

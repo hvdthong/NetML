@@ -1,0 +1,22 @@
+org aspectj apach bcel classfil
+class repres collect local variabl
+method attribut contain code attribut
+version localvariablet java aclement exp
+author href mailto marku dahm berlin dahm
+code
+localvari
+updat andi 14feb06 made unpack data lazi depend
+local variabl tabl localvariablet attribut
+unpack
+pack state isinpackedst
+byte arrai input stream bytearrayinputstream byte arrai input stream bytearrayinputstream data
+data input stream datainputstream di data input stream datainputstream
+local variabl tabl length localvariabletablelength di read unsign short readunsignedshort
+local variabl tabl localvariablet local variabl localvari local variabl tabl length localvariabletablelength
+local variabl tabl length localvariabletablelength
+local variabl tabl localvariablet local variabl localvari di constant pool
+di close
+data data null throw
+except ioexcept
+runtim except runtimeexcept unpack localvariablet attribut fail
+pack state isinpackedst

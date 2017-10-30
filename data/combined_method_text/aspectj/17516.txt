@@ -1,0 +1,14 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+creat top frame browser
+set top frame setuptopfram visibl
+multi structur view panel multistructureviewpanel multi view panel multiviewpanel multi structur view panel multistructureviewpanel
+ajd default getdefault view manag getviewmanag
+browser panel getbrowserpanel ajd default getdefault
+file structur panel getfilestructurepanel
+top frame topfram init multi view panel multiviewpanel messag handler panel messagehandlerpanel
+editor manag editormanag editor panel geteditorpanel
+visibl
+top frame topfram set visibl setvis

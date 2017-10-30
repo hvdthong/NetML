@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+andpointcut dom ast node
+pointcutdesign 'left'
+pointcutdesign 'right'
+author ajh02
+pointcut andpointcut pointcut design pointcutdesign
+subtre match0 subtreematch0 ast matcher astmatch matcher object
+dispatch correct overload match method
+ast matcher ajastmatch matcher match

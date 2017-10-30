@@ -1,0 +1,29 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+annot target kind annotationtargetkind annot target kind getannotationtargetkind
+bitflag discov annot target kind discov annot target kind annot target kind annotationtargetkind
+bitflag discov annot target kind discov annot target kind
+annot target kind annotationtargetkind annotationtargetkind null null mean idea target annot
+list target kind targetkind arrai list arraylist
+annot isannot
+annot annot type annotationsonthistyp java class javaclass annot getannot
+annot type annotationsonthistyp length
+annot annot type annotationsonthistyp
+type gettypenam equal unresolv type unresolvedtyp target target getnam
+arrai element arrayelementvalu arrai arrayvalu arrai element arrayelementvalu element pair elementnamevaluepair valu getvalu getvalu
+element elementvalu ev arrai arrayvalu element valu arrai getelementvaluesarrai
+ev
+ev length
+string target kind targetkind enum element enumelementvalu ev enum string getenumvaluestr
+target kind targetkind equal annot type target kind targetkind add annot target kind annotationtargetkind annot type annot type
+target kind targetkind equal constructor target kind targetkind add annot target kind annotationtargetkind constructor
+target kind targetkind equal field target kind targetkind add annot target kind annotationtargetkind field
+target kind targetkind equal local variabl target kind targetkind add annot target kind annotationtargetkind local variabl local variabl
+target kind targetkind equal method target kind targetkind add annot target kind annotationtargetkind method
+target kind targetkind equal packag target kind targetkind add annot target kind annotationtargetkind packag
+target kind targetkind equal paramet target kind targetkind add annot target kind annotationtargetkind paramet
+target kind targetkind equal type target kind targetkind add annot target kind annotationtargetkind type
+target kind targetkind empti isempti
+annot target kind annotationtargetkind annot target kind annotationtargetkind target kind targetkind size
+annot target kind annotationtargetkind target kind targetkind arrai toarrai annot target kind annotationtargetkind
+annot target kind annotationtargetkind

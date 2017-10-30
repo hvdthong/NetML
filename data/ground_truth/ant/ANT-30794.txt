@@ -1,0 +1,13 @@
+src/main/org/apache/tools/ant/IntrospectionHelper_IntrospectionHelper-Class_<init>
+src/main/org/apache/tools/ant/IntrospectionHelper_createAddTypeCreator-Project-Object-String_NestedCreator
+src/main/org/apache/tools/ant/IntrospectionHelper_createAttributeSetter-Method-Class-String_AttributeSetter
+src/main/org/apache/tools/ant/IntrospectionHelper$NestedCreator_create-Project-Object-Object_Object
+src/main/org/apache/tools/ant/IntrospectionHelper$NestedCreator_getElementClass_Class
+src/main/org/apache/tools/ant/IntrospectionHelper_getHelper-Project-Class_IntrospectionHelper
+src/main/org/apache/tools/ant/IntrospectionHelper_getNestedCreator-Project-String-Object-String-UnknownElement_NestedCreator
+src/main/org/apache/tools/ant/IntrospectionHelper$NestedCreator_getRealObject_Object
+src/main/org/apache/tools/ant/IntrospectionHelper$NestedCreator_isPolyMorphic_boolean
+src/main/org/apache/tools/ant/IntrospectionHelper$AttributeSetter_set-Project-Object-String_void
+src/main/org/apache/tools/ant/IntrospectionHelper$NestedCreator_store-Object-Object_void
+src/main/org/apache/tools/ant/IntrospectionHelper_supportsNestedElement-String_boolean
+src/main/org/apache/tools/ant/IntrospectionHelper_supportsNestedElement-String-String_boolean

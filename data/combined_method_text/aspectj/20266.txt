@@ -1,0 +1,24 @@
+org aspectj weaver bcel
+access method field public bodi advic replac
+invoc wrapper call advic inlin
+munger aspect inlin wrapper compil time
+specif state logic munger ala itd call set pointcut match
+wrap member effectivesignatur attribut
+author href mailto alex gnilux dot alexandr vasseur
+bcel access inlin munger bcelaccessforinlinemung bcel type munger bceltypemung
+mung bcel class weaver bcelclassweav weaver
+aspect gen aspectgen weaver lazi class gen getlazyclassgen
+inlin accessor bcel method inlineaccessorbcelmethod hash map hashmap
+inlin accessor method gen inlineaccessormethodgen hash set hashset
+advic
+iter iter aspect gen aspectgen method gen getmethodgen iter iter hasnext
+lazi method gen lazymethodgen method gen methodgen lazi method gen lazymethodgen iter
+method gen methodgen annot hasannot unresolv type unresolvedtyp fornam org aspectj lang annot
+open advic openaroundadvic method gen methodgen
+add accessor
+iter iter inlin accessor method gen inlineaccessormethodgen iter iter hasnext
+lazi method gen lazymethodgen lazi method gen lazymethodgen lazi method gen lazymethodgen iter
+aspect gen aspectgen add method gen addmethodgen lazi method gen lazymethodgen
+flush
+inlin accessor method gen inlineaccessormethodgen
+inlineaccessorsresolvedmemb shadow match

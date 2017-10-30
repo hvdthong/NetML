@@ -1,0 +1,28 @@
+goal goal type goaltyp
+inherit doc inheritdoc
+base handl boiler plate method threshold
+org apach common math3 optim direct
+link optim multivari function multivariatefunct goal type goaltyp optim data optimizationdata
+deprec
+perform comput
+check
+store optim problem characterist
+optim intern optimizeintern max eval maxev goal type goaltyp start point startpoint
+set iter evalu count
+evalu set maxim count setmaximalcount max eval maxev
+optim intern optimizeintern max eval maxev goal type goaltyp initi guess initialguess start point startpoint
+version
+param func type object function optim
+base abstract multivari optim baseabstractmultivariateoptim func multivari function multivariatefunct
+point pair pointvaluepair optim max eval maxev func goal type goaltyp goal type goaltyp
+function
+deprec remov
+evalu reset count resetcount
+evalu count initi guess simpl bound set
+reset
+goal type goaltyp
+optim dooptim
+start start point startpoint clone
+base implement optim multivari scalar function
+start point startpoint
+null argument except nullargumentexcept

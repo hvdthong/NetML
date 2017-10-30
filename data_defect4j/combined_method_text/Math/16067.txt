@@ -1,0 +1,32 @@
+rank algorithm set constructor argument
+arrai xarrai length arrai yarrai length
+comput spearman' rank correl coeffici arrai
+spearman' rank correl implement perform rank
+nan posit nanposit add addal posit getnanposit arrai yarrai
+arrai yarrai
+remov valu removevalu arrai yarrai nan posit nanposit
+rank algorithm rankingalgorithm rank arrai yarrai
+org apach common math3 stat correl
+correl arrai xarrai arrai yarrai
+nan posit nanposit add addal posit getnanposit arrai xarrai
+version
+param arrai xarrai data arrai
+strategi handl nan ti data nan maxim ti averag
+dimens mismatch except dimensionmismatchexcept arrai length match
+remov valu removevalu arrai xarrai nan posit nanposit
+strategi nanstrategi remov natur rank naturalrank rank algorithm rankingalgorithm nan strategi getnanstrategi
+return spearman' rank correl coeffici arrai
+param arrai yarrai data arrai
+dimens mismatch except dimensionmismatchexcept arrai xarrai length arrai yarrai length
+arrai xarrai length
+transform input data comput link pearson correl pearsonscorrel
+rank algorithm rankingalgorithm natur rank naturalrank
+pearson correl pearsonscorrel correl rank algorithm rankingalgorithm rank rank algorithm rankingalgorithm rank
+arrai xarrai
+rank data
+rank comput link natur rank naturalrank
+math illeg argument except mathillegalargumentexcept local format localizedformat insuffici dimens
+math illeg argument except mathillegalargumentexcept arrai length
+spearman correl spearmanscorrel
+pearson correl pearsonscorrel correl rank algorithm rankingalgorithm rank arrai xarrai
+set integ nan posit nanposit hash set hashset integ

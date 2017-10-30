@@ -1,0 +1,13 @@
+org aspectj weaver tool
+pointcut express interfac pointcut
+express return
+pointcutdesignatorhandl addit
+match method match base context
+inform
+aspectj
+matchingcontext
+context base matcher contextbasedmatch
+return true iff matcher match
+join point type
+deprec couldmatchjoinpointsintyp class matchingcontext
+match join point type couldmatchjoinpointsintyp class class aclass

@@ -1,0 +1,106 @@
+set equat setequ equat
+inherit doc inheritdoc
+method embed explicit rung kutta method
+stepsiz control step
+equat set complet state setcompletest
+step reject error estim phase
+scale vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler fast math fastmath ab
+interpol store time storetim step start stepstart
+integr expand state od expandablestatefulod equat
+hnew initi step initializestep forward order getord scale
+hnew filter step filterstep scale scaledh forward nextislast
+fast math fastmath max min reduct minreduct safeti fast math fastmath pow error exp
+factor
+comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+interpol shift
+forward equat time gettim
+hnew step start stepstart
+fsal
+reject step attempt reduc error stepsiz control
+rung kutta step interpol rungekuttastepinterpol interpol rung kutta step interpol rungekuttastepinterpol prototyp copi
+b'1 b'2 b' b'
+init integr initintegr equat time gettim
+method qualifi fsal
+stage length
+dot ydotk stage length
+iter step size ensur local normal error smaller
+nextt step start stepstart scale scaledh
+step start stepstart accept step acceptstep interpol dot tmp ydottmp
+hnew filter step filterstep step size stepsiz factor forward
+compar
+version
+a31 a32
+local error small accept step trigger event step handler
+system arraycopi dot ydotk stage dot tmp ydottmp length
+fast math fastmath min max growth maxgrowth
+system arraycopi tmp ytmp length
+tmp ytmp clone
+set integr control object
+tmp ytmp step size stepsiz sum
+set interpol share integr arrai
+org apach common math3 od nonstiff
+reset intern state resetinternalst
+asi
+stage
+fast math fastmath min max growth maxgrowth fast math fastmath max min reduct minreduct safeti fast math fastmath pow error exp
+evalu reus step cost
+scale scaledh step size stepsiz factor
+length
+dot tmp ydottmp length
+time firsttim fsal
+equat set time settim step start stepstart
+overrid
+equat complet state getcompletest
+hnew
+common part embed rung kutta
+arrai
+equat primari mapper getprimarymapp equat secondari mapper getsecondarymapp
+estim error end step
+step start stepstart dot ydotk tmp ytmp dot ydotk
+vec absolut toler vecabsolutetoler
+forward
+as1 as2 ass
+scale scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler fast math fastmath ab
+estim state end step
+creat intern work arrai
+math illeg state except mathillegalstateexcept math illeg argument except mathillegalargumentexcept
+number small except numberistoosmallexcept dimens mismatch except dimensionmismatchexcept
+method evalu method
+filter filterednextt step start stepstart hnew
+save evalu step
+filter filterednextislast forward filter filterednextt filter filterednextt
+step start stepstart equat time gettim
+dispatch result
+step size stepsiz hnew
+interpol reiniti tmp ytmp dot ydotk forward
+scale main set dimens mainsetdimens
+error estim error estimateerror dot ydotk tmp ytmp step size stepsiz
+stage behaviour success step
+evalu save fsal method
+main integr loop
+step size stepsiz step start stepstart
+step step
+error
+step start stepstart step size stepsiz
+comput deriv computederiv step start stepstart dot ydotk
+pre
+a21
+nextislast forward nextt nextt
+comput directli error comput estim
+interpol store time storetim step start stepstart step size stepsiz
+embed rung kutta integr embeddedrungekuttaintegr
+sum dot ydotk
+set coeffici allow estim error butcher
+fact arrai defin b'j
+max count exceed except maxcountexceededexcept bracket except nobracketingexcept
+saniti check sanitycheck equat
+integr ordinari differenti equat
+clone
+filter filterednextislast
+system arraycopi dot tmp ydottmp dot ydotk length
+prepar step
+interpol store time storetim equat time gettim
+time firsttim
+scale length
+step islaststep
+method mean evalu deriv

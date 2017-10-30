@@ -1,0 +1,13 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+halfdai field halfdayfield
+org joda time chrono
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+date time field type datetimefieldtyp halfdai dai halfdayofdai halfdai field chalfdaysfield dai field cdaysfield
+reflect intent defin

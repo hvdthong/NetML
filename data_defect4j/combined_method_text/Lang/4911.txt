@@ -1,0 +1,12 @@
+author apach softwar foundat
+version
+str matcher strmatcher
+portion match
+org apach common lang3 text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+space tab newlin formfe
+match charact string token stringtoken
+split matcher
+str matcher strmatcher split matcher splitmatch
+complet factori method

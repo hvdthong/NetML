@@ -1,0 +1,79 @@
+d2fdxdy len xlen len ylen len zlen
+dimens mismatch except dimensionmismatchexcept fval length len ylen
+tricub spline interpol tricubicsplineinterpol
+d2fdydz len xlen len ylen len zlen
+inherit doc inheritdoc
+dfdz partial deriv partialderivativei
+fval fvalxi len zlen len xlen len ylen
+partial deriv wrt wrt
+d2fdxdy partial deriv partialderivativexi
+line len ylen construct spline
+creat interpol spline
+d2fdzdx len xlen len ylen len zlen
+xval xval yval yval zval zval
+xval
+math arrai matharrai check order checkord yval
+tricub spline interpol function tricubicsplineinterpolatingfunct xval yval zval fval
+bicub spline interpol function bicubicsplineinterpolatingfunct spline ysplinezx
+d3fdxdydz len xlen len ylen len zlen
+tricub spline interpol function tricubicsplineinterpolatingfunct interpol xval
+line len xlen construct spline
+spline xsplineyz bsi interpol yval zval fval
+spline ysplinezx bsi interpol zval xval fval fvalzx
+org apach common math3 analysi interpol
+fval fvalzx len ylen len zlen len xlen
+fval
+len ylen
+version
+len zlen
+xxx formula
+fval length len zlen
+len xlen
+dimens mismatch except dimensionmismatchexcept monoton sequenc except nonmonotonicsequenceexcept
+index nextindex len zlen
+dimens mismatch except dimensionmismatchexcept
+bicub spline interpol function bicubicsplineinterpolatingfunct len xlen
+sampl order tuplet
+d3fdxdydz fval fval
+index nextindex len ylen
+dfdz len xlen len ylen len zlen
+math arrai matharrai check order checkord xval
+yval
+d2fdxdy d2fdzdx d2fdydz
+dimens mismatch except dimensionmismatchexcept xval length fval length
+fval fval
+bicub spline interpol function bicubicsplineinterpolatingfunct len ylen
+fval length len ylen
+zval
+gener tricub interpol function
+line len zlen construct spline
+d2fdydz partial deriv partialderivativexi
+bicub spline interpol bicubicsplineinterpol bsi bicub spline interpol bicubicsplineinterpol
+bicub spline interpol function bicubicsplineinterpolatingfunct spline zsplinexi
+d2fdzdx partial deriv partialderivativexi
+dfdx dfdy dfdz
+fval fvalxi xval yval zval
+dfdx len xlen len ylen len zlen
+math arrai matharrai check order checkord zval
+d3fdxdydz
+fval fvalxi
+xval length fval length
+previou index previousindex
+dfdy len xlen len ylen len zlen
+dfdy partial deriv partialderivativei
+len zlen zval length
+fval fvalzx xval yval zval
+spline zsplinexi bsi interpol xval yval fval fvalxi
+partial cross deriv
+len xlen xval length
+xval length yval length zval length fval length
+len ylen yval length
+dimens mismatch except dimensionmismatchexcept fval length len zlen
+monoton sequenc except nonmonotonicsequenceexcept
+fval fvalzx
+bicub spline interpol function bicubicsplineinterpolatingfunct len zlen
+dfdx partial deriv partialderivativex
+data except nodataexcept
+index nextindex len xlen
+data except nodataexcept number small except numberistoosmallexcept
+bicub spline interpol function bicubicsplineinterpolatingfunct spline xsplineyz

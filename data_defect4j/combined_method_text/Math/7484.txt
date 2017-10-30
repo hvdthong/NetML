@@ -1,0 +1,19 @@
+param refer simplex referencesimplex refer simplex
+org apach common math except strictli posit except notstrictlypositiveexcept
+gamma gamma
+refer simplex referencesimplex
+version
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param gamma contract coeffici
+multi direct simplex multidirectionalsimplex refer simplex referencesimplex
+org apach common math except dimens mismatch except dimensionmismatchexcept
+param khi expans coeffici
+org apach common math optim direct
+multi direct direct search method
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+refer simplex point
+khi gamma
+dimens mismatch refer simplex
+khi khi
+version revis date
+build multi direct simplex coeffici

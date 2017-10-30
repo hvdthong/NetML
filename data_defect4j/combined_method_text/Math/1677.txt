@@ -1,0 +1,21 @@
+param invers cum accuraci inversecumaccuraci maximum absolut error invers
+org apach common math distribut
+param invers cum accuraci inversecumaccuraci maximum absolut error invers cumul probabl estim
+gamma gamma distribut impl gammadistributionimpl
+default link default invers absolut accuraci
+version
+version revis date
+implement link chi squar distribut chisquareddistribut
+gamma gamma distribut impl gammadistributionimpl degre freedom degreesoffreedom
+creat chi squar distribut degre freedom
+cumul probabl estim default
+invers cumul probabl accuraci
+chi squar distribut impl chisquareddistributionimpl invers cum accuraci inversecumaccuraci
+chi squar distribut impl chisquareddistributionimpl
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+param degre freedom degreesoffreedom degre freedom
+invers cum accuraci inversecumaccuraci
+param degre freedom
+chi squar distribut impl chisquareddistributionimpl degre freedom degreesoffreedom
+link default invers absolut accuraci
+set degre freedom intern setdegreesoffreedomintern

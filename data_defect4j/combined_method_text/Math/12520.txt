@@ -1,0 +1,66 @@
+previou close loop length
+outlin extractor outlineextractor
+vector2 vector2d vertic
+vector2 vector2d loop vertic
+abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d ab facet absfacet
+extract vertic facet
+org apach common math3 geometri euclidean threed
+close loop
+vector2 vector2d vertic newvertic vector2 vector2d vertic length
+hyperplan subhyperplan euclidean2 euclidean2d edg line hyperplan wholehyperplan
+scal revers
+comput project facet outlin plane
+current previou loop length
+current loop length
+scal plane normal getnorm dot product dotproduct
+facet insid
+vector2 vector2d loop newloop vector2 vector2d loop length
+add contribut facet global outlin
+vector3 vector3d previous3 previous3d plane space tospac loop previou
+defin bound point edg
+close previou
+org apach common math3 geometri euclidean twod line point ppoint angl
+current point real vertex
+close current loop length
+vertic vertic newvertic
+org apach common math3 geometri euclidean twod line
+version
+vertic newvertic loop newloop
+org apach common math3 geometri euclidean twod line line
+plane plane plane facet hyperplan gethyperplan
+abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d facet
+vertic length
+vector3 vector3d current3 current3d plane space tospac loop current
+loop newloop loop loop length
+loop length
+add contribut addcontribut hyperplan subhyperplan euclidean3 euclidean3d facet revers
+angl line angl getangl fast math fastmath
+point ppoint point cpoint
+edg edg split getplu
+extractor link polygon set polygonsset polyhedron set outlin
+loop newloop
+edg edg split minu getminu
+polyhedron set project plane
+edg add edg
+org apach common math3 geometri euclidean twod line point cpoint angl
+previou point real vertex
+fast math fastmath ab scal
+revert vertic
+add contribut boundari facet
+extract outlin link polygon set polygonsset
+project polygon set polygonsset region factori regionfactori euclidean2 euclidean2d union project project facet projectedfacet
+param revers facet insid side
+param facet boundari facet
+invert boundari orient
+polygon set polygonsset ab facet absfacet remain region getremainingregion vertic getvertic
+previou current
+org apach common math3 geometri euclidean twod line point ppoint point cpoint
+arrai list arraylist hyperplan subhyperplan euclidean2 euclidean2d edg arrai list arraylist hyperplan subhyperplan euclidean2 euclidean2d
+polygon set polygonsset project facet projectedfacet polygon set polygonsset edg
+previous3 previous3d dot product dotproduct
+vector2 vector2d point ppoint vector2 vector2d previous3 previous3d dot product dotproduct
+suppress warn suppresswarn uncheck
+previous3 previous3d current3 current3d
+vector2 vector2d point cpoint vector2 vector2d current3 current3d dot product dotproduct
+loop
+current3 current3d dot product dotproduct

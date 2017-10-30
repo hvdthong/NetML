@@ -1,0 +1,8 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+element updat elementsupd hierarchi ihierarchi model
+file structur view filestructureview fsv ajd default getdefault structur view manag getstructureviewmanag default file view getdefaultfileview
+fsv
+fsv set sourc file setsourcefil browser manag browsermanag default getdefault editor manag geteditormanag curr file getcurrfil

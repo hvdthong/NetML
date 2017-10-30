@@ -1,0 +1,27 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+resolv type resolvedtyp annot getannot member found member foundmemb member relev member relevantmemb resolv type resolvedtyp relev type relevanttyp
+found member foundmemb
+check itd'd dooberri
+list munger relev type relevanttyp resolv world inter type munger getintertypemung
+iter iter munger iter iter hasnext
+bcel type munger bceltypemung type munger typemung bcel type munger bceltypemung iter
+type munger typemung munger getmung method type munger newmethodtypemung
+type munger typemung munger getmung constructor type munger newconstructortypemung
+resolv member resolvedmemb fakerm type munger typemung signatur getsignatur
+fakerm hasannot
+resolv member resolvedmemb ajc method ajcmethod signatur getsignatur kind getkind resolv member resolvedmemb constructor
+ajc member maker ajcmembermak post introduc constructor postintroducedconstructor type munger typemung aspect type getaspecttyp fakerm declar type getdeclaringtyp fakerm paramet type getparametertyp
+ajc member maker ajcmembermak inter method dispatch intermethoddispatch fakerm type munger typemung aspect type getaspecttyp
+ajcmembermak intermethodbodi fakerm typemung getaspecttyp
+resolv member resolvedmemb rmm find method findmethod type munger typemung aspect type getaspecttyp ajc method ajcmethod
+fakerm getnam equal signatur getsignatur getnam
+fakerm paramet signatur getparametersignatur equal signatur getsignatur paramet signatur getparametersignatur
+relev type relevanttyp type munger typemung aspect type getaspecttyp
+found member foundmemb rmm
+found member foundmemb annot type getannotationtyp
+find itd super
+found member foundmemb relev type relevanttyp lookup member super lookupmemberwithsupersanditd relev member relevantmemb
+found member foundmemb
+illeg state except illegalstateexcept find member relev member relevantmemb type relev type relevanttyp
+found member foundmemb annot type getannotationtyp

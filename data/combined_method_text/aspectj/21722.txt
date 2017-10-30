@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+cflow pointcut cflowpointcut pointcut
+wipe kei wipekei string kei prefix keyprefix hashtabl
+enumer kei kei
+list remov forremov arrai list arraylist
+kei element hasmoreel
+string string kei element nextel
+start startswith kei prefix keyprefix remov forremov add
+iter iter remov forremov iter iter hasnext
+string element string iter
+remov element

@@ -1,0 +1,12 @@
+builder put string kei format format
+kei meta format namekeyedmetaformat meta format support metaformatsupport
+param format
+link extend messag format extendedmessageformat
+author matt benson
+org apach common lang text
+version
+basic meta format metaformat requir configur inform
+param kei
+kei format keyedformat put kei format
+add format string kei
+pars format format extend messag format extendedmessageformat

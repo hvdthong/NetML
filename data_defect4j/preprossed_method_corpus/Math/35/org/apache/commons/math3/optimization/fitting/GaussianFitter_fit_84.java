@@ -1,0 +1,337 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math3 optim fit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fit point link
+org apach common math3 analysi function gaussian parametr gaussian function
+
+usag
+pre
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+fitter add observ point addobservedpoint
+paramet fitter fit
+pre
+
+
+version
+
+gaussian fitter gaussianfitt curv fitter curvefitt
+
+
+
+
+
+
+
+
+
+
+fit gaussian function observ point
+
+param initi guess initialguess guess valu order
+
+norm
+
+sigma
+
+paramet gaussian function fit
+observ point order
+
+
+fit initi guess initialguess
+parametr univari function parametricunivariatefunct parametr univari function parametricunivariatefunct
+parametr univari function parametricunivariatefunct gaussian parametr
+
+
+doubl posit infin
+
+
+strictli posit except notstrictlypositiveexcept
+
+
+
+
+
+gradient
+doubl posit infin
+doubl posit infin
+doubl posit infin
+
+gradient
+strictli posit except notstrictlypositiveexcept
+
+
+
+
+
+
+fit initi guess initialguess
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

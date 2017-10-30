@@ -1,0 +1,11 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+amc
+pars signatur string interpret fieldtypesignatur
+grammar defin section jvm specif
+field type signatur fieldtypesignatur pars field signatur parseasfieldsignatur string sig
+input string inputstr sig
+token stream tokenstream token sig
+token index tokenindex
+pars field type signatur parsefieldtypesignatur

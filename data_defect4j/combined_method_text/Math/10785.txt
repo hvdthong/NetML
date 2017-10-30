@@ -1,0 +1,9 @@
+org apach common math3 analysi solver
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+initi guess
+provid implement function gener
+start getstartvalu
+search start searchstart

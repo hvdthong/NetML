@@ -1,0 +1,15 @@
+org apach common math3 random
+http mathworld wolfram sphere point pick spherepointpick html
+norm normsq comp comp
+normal unit length
+inherit doc inheritdoc
+unit sphere random vector gener unitsphererandomvectorgener
+version
+vector nextvector
+gener random vector isotrop locat surfac sphere
+comp
+pick point choos standard gaussian element
+norm normsq
+comp rand gaussian nextgaussian
+fast math fastmath sqrt norm normsq
+dimens

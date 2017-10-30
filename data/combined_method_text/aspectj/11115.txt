@@ -1,0 +1,8 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+add method bind addmethodbind sourc type bind sourcetypebind sourc type sourcetyp method bind methodbind method
+len sourc type sourcetyp method length
+method bind methodbind temp method bind methodbind len
+system arraycopi sourc type sourcetyp method temp len
+temp len method
+sourc type sourcetyp method temp

@@ -1,0 +1,14 @@
+design extens extract field
+date time field datetimefield
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+maximum text length
+author gui allard
+maximum text field
+defin calcul engin date time field
+org joda time
+maximum text length getmaximumtextlength local local
+author brian neill o'neil
+param local local select text symbol
+millisecond number standard implement provid assist

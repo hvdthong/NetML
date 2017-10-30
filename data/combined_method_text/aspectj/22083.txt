@@ -1,0 +1,63 @@
+org aspectj weaver pattern
+pointcut ifpointcut pointcut
+shadow match residu
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+find residu findingresidu liter true
+find residu findingresidu
+ask question
+shadow shadow shadowid match shadow iflastmatchedshadowid match shadow residu iflastmatchedshadowresidu
+test ret liter true
+list arg arrai list arraylist
+code style
+extra paramet flag extraparameterflag
+arg sort bother recurs call
+base arg count baseargscount
+expos state exposedst state mystat expos state exposedst base arg count baseargscount
+throw test walk
+bind argument
+residu sourc residuesourc find residu findresidu shadow state mystat
+pr118149
+var mystat set
+call residuesourc findresidu set null
+pointcut express branch
+branch static match situat
+simpli return test
+base arg count baseargscount
+var state mystat
+null continu pr118149
+arg add
+ret test make makeand ret
+test make instanceof makeinstanceof
+test method testmethod paramet type getparametertyp resolv shadow world getiworld
+handl thisjoinpoint paramet
+extra paramet flag extraparameterflag advic join point thisjoinpoint
+arg add shadow join point var getthisjoinpointvar
+extra paramet flag extraparameterflag advic join point static part thisjoinpointstaticpart
+arg add shadow join point static part var getthisjoinpointstaticpartvar
+extra paramet flag extraparameterflag advic enclos join point static part thisenclosingjoinpointstaticpart
+arg add shadow enclos join point static part var getthisenclosingjoinpointstaticpartvar
+style slightli
+current state index currentstateindex
+fixm arg test thejp fail
+test method testmethod paramet type getparametertyp length
+string arg signatur argsignatur test method testmethod paramet type getparametertyp signatur getsignatur
+ajc member maker ajcmembermak typex joinpoint typex joinpoint signatur getsignatur equal arg signatur argsignatur
+arg add shadow join point var getthisjoinpointvar
+ajc member maker ajcmembermak typex proceedingjoinpoint typex proceedingjoinpoint signatur getsignatur equal arg signatur argsignatur
+arg add shadow join point var getthisjoinpointvar
+ajc member maker ajcmembermak typex staticjoinpoint typex staticjoinpoint signatur getsignatur equal arg signatur argsignatur
+arg add shadow join point static part var getthisjoinpointstaticpartvar
+ajc member maker ajcmembermak typex enclosingstaticjoinpoint typex enclosingstaticjoinpoint signatur getsignatur equal arg signatur argsignatur
+arg add shadow enclos join point static part var getthisenclosingjoinpointstaticpartvar
+joinpoint signatur style
+var state current state index currentstateindex
+arg add
+ret test make makeand ret
+test make instanceof makeinstanceof
+test method testmethod paramet type getparametertyp resolv shadow world getiworld
+ret test make makeand ret test make call makecal test method testmethod expr arg arrai toarrai expr arg size
+rememb
+match shadow iflastmatchedshadowid shadow shadow shadowid
+match shadow residu iflastmatchedshadowresidu ret
+ret
+find residu findingresidu

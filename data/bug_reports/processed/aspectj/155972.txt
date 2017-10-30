@@ -1,0 +1,6 @@
+nullpointerexception constructorsignature getconstructor
+aspectj version 200608290814
+advising constructor obtain constructor java lang reflect member
+member cons constructorsignature thisjoinpointstaticpart
+getsignature getconstructor
+fails returns null

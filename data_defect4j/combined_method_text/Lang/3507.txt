@@ -1,0 +1,145 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+buf string tostr
+remov lead trail whitespac
+length search charact equal length
+str length strlength str length
+containsonli containsnon containsani
+string util stringutil replac char replacechar abc
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+buf append replac char replacechar charat index
+search string replac string
+space space charact code
+search charact shorter extra replac charact
+code string input return code
+author arun mammen thoma
+method delet charact
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+replac char length replacecharslength replac char replacechar length
+search charact longer extra search charact
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+whitespac charact defin link charact whitespac iswhitespac
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+param replac char replacechar set charact replac
+string util stringutil replac char replacechar abcba yzx ayzya
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+replac char replacechar empti
+delet
+abbrevi
+version
+append suffix end string present
+method give sampl code explain oper
+trim strip
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+substr substringbefor substr substringaft substr substringbetween
+str length strlength
+levenstein distanc levensteindist
+modifi
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+code string util stringutil defin word relat
+code code
+empti length string code code
+modifi string code string input
+safe substr extract
+side effect code code handl
+replac multipl charact string
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+symbol code input includ code
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+org apach common lang3
+side effect code handl
+count match countmatch
+string util stringutil replac char replacechar abcba ayzya
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+prepend miss prependifmiss
+param str string replac charact
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+code null pointer except nullpointerexcept code consid bug
+trim charact link string trim
+modifi string code code string input
+code code safe
+index search char searchchar index indexof
+string util stringutil replac char replacechar abcba ayya
+remov part string
+str
+code string util stringutil code
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+empti isempti str empti isempti search char searchchar
+code input code
+replac charact
+str charat
+code null pointer except nullpointerexcept consid bug
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+string builder stringbuild buf string builder stringbuild str length strlength
+author gari gregori
+index replac char length replacecharslength
+safe index check
+code code string input return code code
+param search char searchchar set charact search
+code string util stringutil
+index
+code replac char replacechar quot quot quot quot quot quot jelli code
+code safe
+string util stringutil
+thread safe threadsaf
+replac char replacechar
+string replac char replacechar string str string search char searchchar string replac char replacechar
+empti string input return empti string
+string util stringutil replac char replacechar
+check charact string
+buf append
+append miss appendifmiss
+string util stringutil replac char replacechar abc abc
+empti set search charact return input string
+symbol code code input includ code code

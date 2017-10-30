@@ -1,0 +1,15 @@
+org aspectj intern tool build
+open struct build modul product
+separ bulder permit build modul
+concurr
+build spec buildspec
+string string tostr
+product dir productdir
+product product dir productdir getnam
+modul dir moduledir
+modul modul dir moduledir getnam
+bad buildspec
+basedir base dir basedir
+jardir jar dir jardir
+buildconfig build config buildconfig
+modul modul

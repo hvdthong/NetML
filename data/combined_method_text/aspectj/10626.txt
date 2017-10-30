@@ -1,0 +1,7 @@
+org aspectj ajd javaopt
+class handl set java option
+java option map requir icompilerconfigur getjavaoptionsmap
+java build option javabuildopt
+set preserv local setpreserveallloc string
+java option javaopt valid preserv local option isvalidpreservealllocalsopt
+java build option javabuildopt put java option javaopt preserv local preserv local

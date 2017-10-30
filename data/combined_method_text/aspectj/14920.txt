@@ -1,0 +1,12 @@
+org aspectj apach bcel verifi static
+util class hold inform
+type local variabl
+slot index inform
+byte code offset
+version localvariableinfo java aclement exp
+author href http www inf berlin ehaas enver haas
+local variabl info localvariableinfo
+add type local variabl slot 'types'
+hashtabl databas
+set type settyp offset type
+type put integ string tostr offset

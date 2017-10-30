@@ -1,0 +1,8 @@
+geti
+vector2 vector2d
+version
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+instanc guarante immut
+ordin vector
+org apach common math geometri euclidean twod

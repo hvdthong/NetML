@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+appli declar type return true chang type
+appli declar type applydeclareattyp declar annot declareannot dec deca resolv type resolvedtyp type ontyp report problem reportproblem
+didsometh
+dec deca match type ontyp
+type ontyp annot hasannot dec deca annot getannotationx signatur getsignatur
+annot annotationx anno annox dec deca annot getannotationx
+check annot suitabl target
+isok check target checktargetok dec deca type ontyp anno annox
+isok
+didsometh
+resolv type munger resolvedtypemung annot newannotationtm annot type munger annotationontypemung anno annox
+annot newannotationtm set sourc locat setsourceloc dec deca sourc locat getsourceloc
+type ontyp add inter type munger addintertypemung bcel type munger bceltypemung annot newannotationtm dec deca aspect getaspect resolv
+dec deca copi annot copyannotationto type ontyp
+didsometh

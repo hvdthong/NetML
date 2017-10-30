@@ -1,0 +1,17 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+statement convert foreach statement foreachstat statement
+ast api level apilevel
+ast jls2 intern jls2 intern
+creat fake empti statement createfakeemptystat statement
+ast jls3
+enhanc statement enhancedforstat enhanc statement enhancedforstat enhanc statement enhancedforstat ast
+enhanc statement enhancedforstat set paramet setparamet convert singl variabl declar converttosinglevariabledeclar statement element variabl elementvari
+enhanc statement enhancedforstat set express setexpress convert statement collect
+enhanc statement enhancedforstat set bodi setbodi convert statement action
+start statement sourc start sourcestart
+end statement sourc end sourceend
+enhanc statement enhancedforstat set sourc rang setsourcerang start end start
+enhanc statement enhancedforstat
+creat fake empti statement createfakeemptystat statement

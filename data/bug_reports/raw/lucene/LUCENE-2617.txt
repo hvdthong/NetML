@@ -1,0 +1,2 @@
+coord should still apply to missing terms/clauses
+ Missing terms in a boolean query "disappear" (i.e. they don't even affect the coord factor). 

@@ -1,0 +1,28 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+wild annot type pattern wildannotationtypepattern annot type pattern annotationtypepattern
+modifi place return typepattern type
+annot type pattern annotationtypepattern resolv bind resolvebind scope iscop scope bind bind
+bind allowbind
+scope world getworld java5 mode isinjava5mod
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag annot java5 annot java5
+sourc locat getsourceloc
+resolv
+type pattern typepattern type pattern typepattern resolv bind resolvebind scope bind
+resolv
+type pattern typepattern exact type pattern exacttypepattern
+exact type pattern exacttypepattern exact type pattern exacttypepattern type pattern typepattern
+exact type getexacttyp resolv scope world getworld annot isannot
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag refer annot type refer annot type exact type getexacttyp getnam
+sourc locat getsourceloc
+scope world getworld messag handler getmessagehandl handl messag handlemessag
+resolv
+resolv type resolvedtyp annot type annotationtyp exact type getexacttyp resolv scope world getworld
+resolv annot valu resolveannotationvalu annot type annotationtyp scope
+exact annot type pattern exactannotationtypepattern eatp exact annot type pattern exactannotationtypepattern annot type annotationtyp annot valu annotationvalu
+eatp copi locat copylocationfrom
+paramet annot match isforparameterannotationmatch eatp set paramet annot match setforparameterannotationmatch
+eatp

@@ -1,0 +1,4 @@
+org aspectj weaver
+shadow
+shadow monitor isshadowformonitor
+kind getkind synchron lock synchronizationlock kind getkind synchron unlock synchronizationunlock

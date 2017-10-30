@@ -1,0 +1,33 @@
+overrid
+interpol deriv interpolatedderiv
+inherit doc inheritdoc
+data ndata nordsieck data ref getdataref
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+interpol equat base taylor seri formula
+power fast math fastmath pow normal abscissa normalizedabscissa order
+data ndatai power
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+interpol state interpolatedst current state currentst state variat statevari
+state variat statevari scale normal abscissa normalizedabscissa
+data ndatai data ndata
+normal abscissa normalizedabscissa scale scalingh
+power math pow normal abscissa normalizedabscissa order
+version
+arrai fill state variat statevari
+version revis date
+interpol deriv interpolatedderiv order
+sake numer accuraci
+interpol integr nordsieck represent
+org apach common math od sampl
+data ndata length
+interpol comput dens output current point
+arrai fill interpol deriv interpolatedderiv
+current state currentst length
+state variat statevari
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+interpol deriv interpolatedderiv scale normal abscissa normalizedabscissa
+appli taylor formula high order low order
+comput interpol state deriv computeinterpolatedstateandderiv theta minu theta oneminusthetah
+interpol time interpolatedtim refer time referencetim
+data ndatai length
+order

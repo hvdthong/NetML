@@ -1,0 +1,30 @@
+org aspectj apach bcel gener
+templat class build java class initi
+exist java class file
+javaclass
+version classgen java aclement exp
+author href mailto marku dahm berlin dahm
+upgrad andi clement 9th mar calcul suid
+class gen classgen access flag accessflag cloneabl
+conveni constructor set import valu initi
+param class fulli qualifi class
+param super class fulli qualifi superclass
+param file sourc file
+param access flag access qualifi
+param interfac implement interfac
+param constant pool
+class gen classgen string class string super class string file
+access flag string interfac constant pool gen constantpoolgen
+class class
+super class super class
+file file
+access flag access flag
+put need default constant pool vector
+file
+add attribut addattribut sourc file sourcefil add utf8 addutf8 sourcefil
+add utf8 addutf8 file constant pool getconstantpool
+class index add class addclass class
+superclass index add class addclass super class
+interfac
+interfac length
+add interfac addinterfac interfac

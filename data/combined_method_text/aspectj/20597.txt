@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+list instruct dispatch advic
+param munger
+param firstinstructioninreturnsequ
+return
+instruct list instructionlist return advic dispatch instruct getafterreturningadvicedispatchinstruct bcel advic bceladvic munger instruct handl instructionhandl instruct return sequenc firstinstructioninreturnsequ
+instruct list instructionlist advic instruct list instructionlist
+bcel var bcelvar temp var tempvar
+munger extra paramet hasextraparamet
+temp var tempvar insert advic instruct bind return paramet insertadviceinstructionsforbindingreturningparamet advic
+advic append munger advic instruct getadviceinstruct temp var tempvar instruct return sequenc firstinstructioninreturnsequ
+advic

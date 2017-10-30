@@ -1,0 +1,22 @@
+org aspectj intern tool ant taskdef
+implement builder ant
+ant builder antbuild builder
+modul compil aspectj
+return task
+param modul modul compil
+param javac javac compil command
+return javac task compil aspectj need
+task wrap need wrapifneed result result javac javac
+project project javac project getproject
+path runtim jar runtimejar
+modul modul result modul getmodul
+runtim jar classpath runtimejaronclasspath result
+aspectjrt jar classpath
+result classpath variabl getclasspathvari aspectjrt jar variabl aspectjrt jar variabl
+variabl find aspectjrt jar add classpath
+runtim jar runtimejar aspect lib getaspectjlib project modul aspectjrt jar
+system println javac result javac getclasspath
+javac
+system println aspectj result javac getclasspath
+path aspectjtool jar aspectjtoolsjar aspect lib getaspectjlib project modul aspectjtool jar
+aspect task aspectjtask javac aspectjtool jar aspectjtoolsjar runtim jar runtimejar

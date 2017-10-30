@@ -1,0 +1,8 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb type type field pertypewithinwithintypefield unresolv type unresolvedtyp declar type declaringtyp resolv type resolvedtyp aspect type aspecttyp
+modifi modifi privat
+serializ aspect isserializableaspect aspect type aspecttyp
+modifi modifi transient
+resolv member impl resolvedmemberimpl member field declar type declaringtyp modifi
+unresolv type unresolvedtyp signatur forsignatur ljava lang string mangler namemangl pertypewithin withintypefield pertypewithin withintypefield unresolv type unresolvedtyp

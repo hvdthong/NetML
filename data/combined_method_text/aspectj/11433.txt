@@ -1,0 +1,93 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+gener note
+andi
+troubl parameter type coupl place due typevariablebind
+typevariablebind default firstbound java lang object
+unstuck forget type variabl back
+unresolvedtyp bad thing reason
+rememb type variabl
+adrian juli
+forget type variabl unstuck declar member parameter
+type type variabl replac type paramet
+back string bind wast cycl
+unresolv type unresolvedtyp bind frombind type bind typebind bind
+bind helper interfac bind helperinterfacebind
+helper interfac bind helperinterfacebind bind type gettypex
+bind bind qualifi sourc qualifiedsourcenam
+resolv type resolvedtyp miss
+piec gener support
+bind type variabl bind typevariablebind
+type variabl bind typevariablebind type variabl bind typevariablebind bind
+unresolv type variabl refer type unresolvedtypevariablereferencetyp utvrt unresolv type variabl refer type unresolvedtypevariablereferencetyp type variabl bind fromtypevariablebind
+utvrt
+handl arrai compon type special treatment
+bind arrai bind arraybind
+arrai bind arraybind bind abind arrai bind arraybind bind
+unresolv type unresolvedtyp compon type componenttyp bind frombind bind abind leaf compon type leafcomponenttyp
+unresolv type unresolvedtyp make arrai makearrai compon type componenttyp bind abind dimens
+bind wildcard bind wildcardbind
+wildcard bind wildcardbind ewb wildcard bind wildcardbind bind
+unresolv type unresolvedtyp type thetyp type factori typefactori creat type signatur createtypefromsignatur char oper charoper char string chartostr ewb gener type signatur generictypesignatur
+repair bound
+bound wildcard typevari extend
+type variabl unresolvedtyp correct
+case set correctli base eclips wildcardbind
+unresolv type unresolvedtyp bound thebound
+ewb bound type variabl bind typevariablebind
+bound thebound type variabl bind fromtypevariablebind type variabl bind typevariablebind ewb bound
+bound thebound bind frombind ewb bound
+type thetyp gener wildcard isgenericwildcard type thetyp super issup type thetyp set lower bound setlowerbound bound thebound
+type thetyp gener wildcard isgenericwildcard type thetyp extend isextend type thetyp set upper bound setupperbound bound thebound
+type thetyp
+bind parameter type bind parameterizedtypebind
+bind raw type bind rawtypebind
+special case paramet
+unresolv type unresolvedtyp raw type forrawtypenam getnam bind
+parameter type bind parameterizedtypebind ptb parameter type bind parameterizedtypebind bind
+unresolv type unresolvedtyp argument
+ptb argument ptb argument null null type parameter type bound pr100227
+argument unresolv type unresolvedtyp ptb argument length
+argument length
+argument bind frombind ptb argument
+string base type signatur basetypesignatur
+resolv type resolvedtyp base type basetyp world getworld resolv unresolv type unresolvedtyp fornam getnam bind
+base type basetyp miss ismiss
+legitim miss bound refer type ad world
+pr168044 whilst resolv type work 'half finished' type underli gener type raw type hasnt set
+basetyp isgenerictyp argument null basetyp basetyp getgenerictyp
+base type signatur basetypesignatur base type basetyp erasur signatur geterasuresignatur
+base type signatur basetypesignatur unresolv type unresolvedtyp fornam getnam bind signatur getsignatur
+creat unresolv parameter type creat resolv
+act resolut recurs problem paramet
+type variabl fix
+argument argument unresolv type unresolvedtyp
+string parameter sig parameterizedsig resolv type resolvedtyp parameter type identifi parameter type identifi char oper charoper char string chartostr bind gener type signatur generictypesignatur substr
+type factori typefactori creat unresolv parameter type createunresolvedparameterizedtyp parameter sig parameterizedsig base type signatur basetypesignatur argument
+convert sourc type bind gener type gener unresolvedtyp
+notic easili determin type variabl eclips object
+recov gener signatur pass
+forgenerictyp method
+bind gener type isgenerictyp
+bind parameter type isparameterizedtyp
+bind raw type israwtyp
+type variabl bind typevariablebind tvb bind type variabl typevari
+type variabl typevari var tvar type variabl typevari tvb length
+tvb length
+type variabl bind typevariablebind eclips eclipsev tvb
+var tvar type variabl refer typevariablerefer type variabl bind fromtypevariablebind eclips eclipsev type variabl gettypevari
+todo asc gener temporari guard
+bind sourc type bind sourcetypebind
+runtim except runtimeexcept gener sig bind debug debugnam
+unresolv type unresolvedtyp gener type forgenerictyp getnam bind var tvar
+char oper charoper char string chartostr sourc type bind sourcetypebind bind gener signatur genericsignatur
+localtypebind local real signatur
+bind local type bind localtypebind
+local type bind localtypebind ltb local type bind localtypebind bind
+ltb constant pool constantpoolnam ltb constant pool constantpoolnam length
+unresolv type unresolvedtyp signatur forsignatur string bind signatur
+report problem resolv
+anonym local type report issu enclos type
+unresolv type unresolvedtyp signatur forsignatur string ltb enclos type enclosingtyp signatur
+unresolv type unresolvedtyp fornam getnam bind

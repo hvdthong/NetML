@@ -1,0 +1,39 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+instruct list instructionlist redon proce call getredoneproceedcal
+instruct factori instructionfactori fact
+lazi method gen lazymethodgen callback method callbackmethod
+bcel advic bceladvic munger
+lazi method gen lazymethodgen local advic method localadvicemethod
+list arg var list argvarlist
+instruct list instructionlist ret instruct list instructionlist
+stack argument advic call
+frame argument advic call
+bcel var bcelvar advic var advicevar munger expos state bcel var getexposedstateasbcelvar
+int map intmap proce map proceedmap make proce argument map makeproceedargumentmap advic var advicevar
+system println proceedmap
+system println argvarlist
+resolv type resolvedtyp proce param type proceedparamtyp
+world resolv munger signatur getsignatur paramet type getparametertyp
+remov joinpoint argument proce
+munger base paramet count getbaseparametercount proce param type proceedparamtyp length
+len munger base paramet count getbaseparametercount
+resolv type resolvedtyp type newtyp resolv type resolvedtyp len
+system arraycopi proce param type proceedparamtyp type newtyp len
+proce param type proceedparamtyp type newtyp
+system println statetyp arrai aslist statetyp
+bcel var bcelvar proce var proceedvar
+util push return arrai var pushandreturnarrayofvar proce param type proceedparamtyp ret fact local advic method localadvicemethod
+type state type statetyp callback method callbackmethod argument type getargumenttyp
+system println statetyp arrai aslist statetyp
+len state type statetyp length len
+type state type statetyp state type statetyp
+resolv type resolvedtyp state type statetypex bcel world bcelworld bcel frombcel state type statetyp resolv world
+proce map proceedmap kei haskei
+throw runtimeexcept unimpl
+proce var proceedvar proce map proceedmap append load convert appendloadandconvert ret fact state type statetypex
+bcel var bcelvar arg var list argvarlist append load appendload ret fact
+ret append util creat invok createinvok fact callback method callbackmethod
+ret append util creat convers createconvers fact callback method callbackmethod return type getreturntyp
+bcel world bcelworld make bcel type makebceltyp munger signatur getsignatur return type getreturntyp
+ret

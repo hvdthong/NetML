@@ -1,0 +1,19 @@
+org aspectj weaver
+advic shadow munger shadowmung
+unresolv type unresolvedtyp extra paramet type getextraparametertyp
+extra paramet hasextraparamet resolv type resolvedtyp miss
+signatur resolv member resolvedmemb
+concret aspect getconcreteaspect annot style aspect isannotationstyleaspect
+bug annot style aspect
+extra paramet joinpoint
+ignor
+base parm cnt baseparmcnt base paramet count getbaseparametercount
+unresolv type unresolvedtyp gener paramet type genericparametertyp resolv member resolvedmemb signatur gener paramet type getgenericparametertyp
+base parm cnt baseparmcnt gener paramet type genericparametertyp length
+gener paramet type genericparametertyp base parm cnt baseparmcnt equal ajc member maker ajcmembermak typex joinpoint typex joinpoint
+gener paramet type genericparametertyp base parm cnt baseparmcnt equal ajc member maker ajcmembermak typex staticjoinpoint typex staticjoinpoint
+gener paramet type genericparametertyp base parm cnt baseparmcnt equal ajc member maker ajcmembermak typex enclosingstaticjoinpoint typex enclosingstaticjoinpoint
+base parm cnt baseparmcnt
+resolv member resolvedmemb signatur gener paramet type getgenericparametertyp base parm cnt baseparmcnt
+resolv member resolvedmemb signatur gener paramet type getgenericparametertyp base paramet count getbaseparametercount
+signatur paramet type getparametertyp base paramet count getbaseparametercount

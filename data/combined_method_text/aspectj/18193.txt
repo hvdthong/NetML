@@ -1,0 +1,11 @@
+org aspectj util
+lang util langutil
+param input null
+param sink stringbuff add input return fals null
+param delimit string append input ad empti
+return true input delimit ad sink
+add empti addifnotempti string input string buffer stringbuff sink string delimit
+lang util langutil empti isempti input sink
+sink append input
+lang util langutil empti isempti delimit
+sink append delimit

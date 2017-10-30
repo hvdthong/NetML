@@ -1,0 +1,29 @@
+solut
+defin iter solver linear system
+solut comput place initi guess modifi
+real vector realvector null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+param linear oper system
+real vector realvector solv place solveinplac real linear oper reallinearoper real vector realvector
+org apach common math linear
+middot residu defin
+construct
+custom
+custom link max count exceed callback maxcountexceededcallback callback set
+version
+max count exceed except maxcountexceededexcept exhaust iter count
+iter linear solver iterativelinearsolv
+refer code shallow copi updat
+dimens inconsist code
+squar oper except nonsquareoperatorexcept code squar
+param initi guess solut
+set construct
+real vector realvector
+dimens mismatch except dimensionmismatchexcept max count exceed except maxcountexceededexcept
+middot linear oper linear system
+param hand side vector
+link org apach common math util incrementor max count exceed callback maxcountexceededcallback callback
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+null argument except nullargumentexcept paramet code
+dimens mismatch except dimensionmismatchexcept code code
+return estim solut linear system middot
+hand side vector current estim solut

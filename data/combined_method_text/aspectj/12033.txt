@@ -1,0 +1,40 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+compil adapt icompileradapt adapt getadapt compil compil forcompil
+map java option javaopt compil forcompil option map getmap
+todo aspectj option project add map
+compil option ajcompileropt option ajopt compil option ajcompileropt java option javaopt
+compil forcompil option option ajopt
+batch build isbatchbuild bcel world mybcelworld weaver myweav
+init world weaver initworldandweav option ajopt
+updat nameenviron time compil
+manag cpmanag set environ setnameenviron environ nameenviron
+eclips factori creat ajlookupenviron hide ajbuildmanag field
+problem report ajproblemreport
+problem report ajproblemreport default error handl polici defaulterrorhandlingpolici proce problem proceedwithallproblem
+compil forcompil option default problem factori defaultproblemfactori local default getdefault
+compil forcompil problem report problemreport
+lookup environ ajlookupenviron
+lookup environ ajlookupenviron compil forcompil compil forcompil option environ nameenviron
+eclips factori eclipsefactori factori efactori eclips factori eclipsefactori bcel world mybcelworld option ajopt serializ aspect xserializableaspect
+factori factori efactori
+compil forcompil lookup environ lookupenviron
+build notifi ajbuildnotifi notifi ajnotifi build notifi ajbuildnotifi notifi
+file provid filenameprovid file provid filenameprovid output file provid outputfilenameprovid project getproject
+set binari sourc entri compil analyz delta batch
+full set binari sourc entri project iaspectjproject
+todo deal inpath injar
+binari sourc provid ibinarysourceprovid provid bsprovid null binari sourc provid nullbinarysourceprovid
+map full binari sourc entri fullbinarysourceentri hash map hashmap
+intermedi result set batch compil
+batch build isbatchbuild
+unwoven result collector unwovenresultcollector unwoven result collector unwovenresultcollector
+collect result set full weav resultsetforfullweav unwoven result collector unwovenresultcollector intermedi result getintermediateresult
+unsupport oper except unsupportedoperationexcept aspectjbuild class
+return ajcompileradapt forcompil isbatchbuild mybcelworld
+myweav efactori unwovenresultcollector ajnotifi filenameprovid bsprovid
+fullbinarysourceentri resultsetforfullweav
+ajopt noweav ajopt proceedonerror ajopt noataspectjprocess

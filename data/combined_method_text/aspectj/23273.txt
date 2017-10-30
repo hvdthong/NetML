@@ -1,0 +1,9 @@
+org aspectj weaver tool
+default implement matchingcontext back
+map
+default match context defaultmatchingcontext match context matchingcontext
+add context bind
+param
+param
+add context bind addcontextbind string object
+context map contextmap put

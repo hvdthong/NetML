@@ -1,0 +1,15 @@
+intersect point line
+vector3 vector3d point vector3 vector3d line space tospac vector1 vector1d
+org apach common math geometri euclidean threed
+repres plane dimension space
+fast math fastmath ab dot
+dot vector3 vector3d dot product dotproduct direct
+origin offset originoffset vector3 vector3d dot product dotproduct point dot
+intersect line instanc
+instanc line parallel instanc
+vector3 vector3d point direct
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+vector3 vector3d intersect line line
+vector3 vector3d direct line direct getdirect
+param line line intersect instanc

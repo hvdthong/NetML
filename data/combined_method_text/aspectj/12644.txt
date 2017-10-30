@@ -1,0 +1,14 @@
+org aspectj apach bcel classfil
+class repres offset line number pair line number
+sourc correspond rel address byte code
+debug purpos
+version linenumb java aclement exp
+author href mailto marku dahm berlin dahm
+linenumbert
+line number linenumb cloneabl node serializ
+dump line number pair file stream binari format
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+file write short writeshort start
+file write short writeshort line number

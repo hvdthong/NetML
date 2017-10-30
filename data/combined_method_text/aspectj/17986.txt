@@ -1,0 +1,30 @@
+org aspectj tool ant taskdef compil
+ajc compileradapt
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef ajc
+ajc default compil adapt defaultcompileradapt
+log compil paramet add file compil log
+qout nicesourcelist quot
+log add file compil logandaddfilestocompil commandlin cmd
+behavior defaultcompileradapt logandaddfilestocompil
+attribut log compil arg cmd string tostr project msg verbos msg verbos
+string buffer stringbuff nice sourc list nicesourcelist string buffer stringbuff file
+compil list compilelist length
+nice sourc list nicesourcelist append
+nice sourc list nicesourcelist append compil
+nice sourc list nicesourcelist append sep lsep
+compil list compilelist length
+defaultcompileradapt expect java file deal
+lst file
+file file compil list compilelist
+file
+string arg file absolut path getabsolutepath
+string rest
+string file getnam
+java file default behavior add
+file command line
+end endswith java
+cmd creat argument createargu set setvalu arg
+nice sourc list nicesourcelist append arg rest sep lsep
+attribut log nice sourc list nicesourcelist string tostr project msg verbos msg verbos

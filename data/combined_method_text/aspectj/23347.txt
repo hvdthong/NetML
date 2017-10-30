@@ -1,0 +1,20 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+pars aspectj type pattern return
+matcher match type
+param typepattern aspectj type pattern
+return type pattern matcher match
+pattern
+throw illegalargumentexcept type pattern
+successfulli pars
+type pattern matcher typepatternmatch pars type pattern parsetypepattern string type pattern typepattern
+illeg argument except illegalargumentexcept
+type pattern typepattern pattern parser patternpars type pattern typepattern pars type pattern parsetypepattern
+resolv world
+type pattern matcher impl typepatternmatcherimpl world
+parser except parserexcept pex
+illeg argument except illegalargumentexcept build user messag parser except buildusermessagefromparserexcept type pattern typepattern pex
+reflect world reflectionworld reflect world except reflectionworldexcept rwex
+illeg argument except illegalargumentexcept rwex messag getmessag

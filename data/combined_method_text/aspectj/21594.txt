@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+type repres type pattern annot
+color
+annot type pattern anywithannotationtypepattern type pattern typepattern
+equal object obj
+obj annot type pattern anywithannotationtypepattern
+annot type pattern anywithannotationtypepattern awatp annot type pattern anywithannotationtypepattern obj
+annot pattern annotationpattern equal awatp annot pattern annotationpattern

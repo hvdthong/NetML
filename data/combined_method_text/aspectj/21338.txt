@@ -1,0 +1,10 @@
+org aspectj weaver loadtim
+class add support aspectj osgi environ
+author david knibb
+weav context iweavingcontext
+custom pars aop xml altern mechan provid
+definit
+param loader
+param adaptor
+return list definit instanc
+list definit getdefinit class loader classload loader weav adaptor weavingadaptor adaptor

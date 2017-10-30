@@ -1,0 +1,23 @@
+author stephen colebourn
+control convers process pair durat
+precis field period type
+field precis depend chronolog
+data code code durat millisecond field
+base durat basedur implement readabl durat readabledur store
+org joda time base
+period creat millisecond durat instanc
+author brian neill o'neil
+period period toperiod chronolog chrono
+convert durat period instanc standard period type
+link readabl durat readabledur
+param chrono chronolog mean iso
+iso utc precis dai week
+instant link period toperiodfrom readabl instant readableinst
+link period toperiodto readabl instant readableinst
+time field precis iso chronolog time zone
+kind durat object referenc
+base durat basedur subclass mutabl thread safe
+gener directli api user
+chronolog
+period milli getmilli chrono
+base durat basedur

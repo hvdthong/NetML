@@ -1,0 +1,91 @@
+code
+oper link java lang string
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+safe substr extract
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+search string replac string
+string util stringutil equal ignor case equalsignorecas abc
+str1 length str2 length
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+check string end suffix safe
+code string util stringutil defin word relat
+default string defaultstr
+whitespac charact defin link charact whitespac iswhitespac
+replac overlai
+empti length string code
+pad string
+code char sequenc charsequ equal insensit
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+compar char sequenc charsequ return code equal ignor
+trim strip
+param str1 char sequenc charsequ
+remov delet
+compar string safe
+symbol code input includ code
+org apach common lang3
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+protect input string
+code input code
+code safe
+containsonli containsnon containsani
+revers revers delimit reversedelimit
+detail vari method
+char sequenc util charsequenceutil region match regionmatch str1 str2 str1 length
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+revers string
+end endswith
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+refer consid equal comparison insensit
+check string start prefix safe
+empti isempti blank isblank
+str1 str2
+char sequenc util charsequenceutil region match regionmatch str1 str2 math max str1 length str2 length
+code handl except code
+space space charact code
+compar char sequenc charsequ return code repres
+string util stringutil equal ignor case equalsignorecas abc abc
+chang signatur equal ignor case equalsignorecas string string equal ignor case equalsignorecas char sequenc charsequ char sequenc charsequ
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+string util stringutil equal ignor case equalsignorecas
+pre
+substr left mid
+equal sequenc charact ignor
+equal
+code null pointer except nullpointerexcept consid bug
+code code return
+chomp chop
+string charact
+java lang string
+string util stringutil
+safe index check
+code string util stringutil
+equal ignor case equalsignorecas char sequenc charsequ str1 char sequenc charsequ str2
+thread safe threadsaf
+check charact string
+param str2 char sequenc charsequ
+append miss appendifmiss
+prepend miss prependifmiss

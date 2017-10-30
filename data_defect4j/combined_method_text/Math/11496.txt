@@ -1,0 +1,14 @@
+param mean vector compon
+mixtur multivari normal distribut mixturemultivariatenormaldistribut weight
+mixtur multivari normal distribut mixturemultivariatenormaldistribut
+multivari normal mixtur distribut
+mixtur multivari real distribut mixturemultivariaterealdistribut
+covari
+version
+syntact sugar
+creat compon createcompon weight mean covari
+org apach common math3 distribut
+mean
+param weight weight compon
+creat multivari normal mixtur distribut
+param covari covari matrix compon

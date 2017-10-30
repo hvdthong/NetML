@@ -1,0 +1,8 @@
+overrid
+string string tostr
+chromosom pair chromosomepair
+string format getfirst getsecond
+version
+org apach common math3 genet
+inherit doc inheritdoc
+pair link chromosom object

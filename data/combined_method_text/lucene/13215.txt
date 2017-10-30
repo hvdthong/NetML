@@ -1,0 +1,7 @@
+org apach lucen index
+term buffer termbuff cloneabl
+reset
+field
+text set length setlength
+term
+dirti

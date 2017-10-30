@@ -1,0 +1,8 @@
+org aspectj ajd swing
+author mik kersten
+multi structur view panel multistructureviewpanel panel jpanel
+init jbinit except
+set layout setlayout border layout1 borderlayout1
+add view split pane view splitpan border layout borderlayout center
+view split pane view splitpan set divid size setdividers
+view split pane view splitpan set divid locat setdividerloc

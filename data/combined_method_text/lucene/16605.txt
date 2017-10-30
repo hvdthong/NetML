@@ -1,0 +1,32 @@
+org apach lucen search
+expert calcul queri weight build queri scorer
+purpos link weight ensur search modifi
+link queri link queri instanc reus
+link indexsearch depend state queri resid
+link weight
+link indexread depend state resid link scorer
+link weight creat link scorer instanc
+link readercontext link scorer readercontext boolean boolean
+caller maintain relationship searcher top level
+link readercontext context creat link scorer
+link readercontext creat link scorer leaf
+context link atomicreadercontext searcher top level context
+scorer state undefin
+code weight code
+code weight code construct top level queri
+code indexsearch code link queri createweight indexsearch
+link sumofsquaredweight method call
+code weight code comput queri normal factor
+link similar querynorm float queri claus contain
+queri
+queri normal factor pass link normal float
+point weight complet
+code scorer code construct
+link scorer readercontext boolean boolean
+weight serializ
+explan score comput name document
+param context reader context creat link explan
+param doc document rel context reader
+return explan score
+throw ioexcept link ioexcept occur
+explan explain reader context readercontext context doc except ioexcept

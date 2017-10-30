@@ -1,0 +1,17 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars refer pointcut parsereferencepointcut
+type pattern typepattern type ontyp pars type pattern parsetypepattern
+pattern namepattern
+type ontyp type paramet typeparamet size
+eat
+pars pattern parsenamepattern
+extract trytoextractnam type ontyp
+parser except parserexcept pattern token sourc tokensourc peek
+type ontyp string tostr equal
+type ontyp
+string simpl simplenam simpl maybegetsimplenam
+simpl simplenam
+parser except parserexcept token sourc tokensourc peek
+type pattern list typepatternlist argument pars argument pattern parseargumentspattern
+refer pointcut referencepointcut type ontyp simpl simplenam argument

@@ -1,0 +1,79 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+record node recordnod org aspectj org eclips jdt intern compil ast javadoc javadoc tag element tagel tag element tagel
+iter fragment tag element tagel fragment list iter listiter
+fragment hasnext
+ast node astnod node ast node astnod fragment
+node node type getnodetyp ast node astnod member ref member ref
+member ref memberref member ref memberref member ref memberref node
+member ref memberref getnam
+compil node record node
+start start posit getstartposit
+org aspectj org eclips jdt intern compil ast ast node astnod compil node compilernod javadoc node start getnodestartingat start
+compil node compilernod
+record node recordnod compil node compilernod
+record node recordnod node compil node compilernod
+replac qualifi node record
+member ref memberref qualifi getqualifi
+org aspectj org eclips jdt intern compil ast type refer typerefer type ref typeref
+compil node compilernod javadoc field refer javadocfieldrefer
+org aspectj org eclips jdt intern compil ast express express javadoc field refer javadocfieldrefer compil node compilernod receiv
+express org aspectj org eclips jdt intern compil ast type refer typerefer
+type ref typeref org aspectj org eclips jdt intern compil ast type refer typerefer express
+compil node compilernod javadoc messag send javadocmessagesend
+org aspectj org eclips jdt intern compil ast express express javadoc messag send javadocmessagesend compil node compilernod receiv
+express org aspectj org eclips jdt intern compil ast type refer typerefer
+type ref typeref org aspectj org eclips jdt intern compil ast type refer typerefer express
+type ref typeref
+record recordnam member ref memberref qualifi getqualifi type ref typeref
+node node type getnodetyp ast node astnod method ref method ref
+method ref methodref method ref methodref method ref methodref node
+method ref methodref getnam
+compil node record node
+start start posit getstartposit
+compil node record node
+org aspectj org eclips jdt intern compil ast ast node astnod compil node compilernod javadoc node start getnodestartingat start
+record node
+compil node compilernod
+record node recordnod method ref methodref compil node compilernod
+type ref
+org aspectj org eclips jdt intern compil ast type refer typerefer type ref typeref
+compil node compilernod org aspectj org eclips jdt intern compil ast javadoc alloc express javadocallocationexpress
+type ref typeref org aspectj org eclips jdt intern compil ast javadoc alloc express javadocallocationexpress compil node compilernod type
+type ref typeref record node recordnod compil node compilernod
+compil node compilernod org aspectj org eclips jdt intern compil ast javadoc messag send javadocmessagesend
+org aspectj org eclips jdt intern compil ast express express org aspectj org eclips jdt intern compil ast javadoc messag send javadocmessagesend compil node compilernod receiv
+express org aspectj org eclips jdt intern compil ast type refer typerefer
+type ref typeref org aspectj org eclips jdt intern compil ast type refer typerefer express
+todo freder remov line fix bug http bug eclips org bug show bug cgi
+record node recordnod compil node compilernod
+record qualifi
+type ref typeref method ref methodref qualifi getqualifi
+record recordnam method ref methodref qualifi getqualifi type ref typeref
+resolv paramet
+iter paramet method ref methodref paramet list iter listiter
+paramet hasnext
+method ref paramet methodrefparamet param method ref paramet methodrefparamet paramet
+org aspectj org eclips jdt intern compil ast express express org aspectj org eclips jdt intern compil ast express javadoc node start getnodestartingat param start posit getstartposit
+express
+record node recordnod param express
+express javadoc argument express javadocargumentexpress
+javadoc argument express javadocargumentexpress arg expr argexpr javadoc argument express javadocargumentexpress express
+org aspectj org eclips jdt intern compil ast type refer typerefer type ref typeref arg expr argexpr argument type
+ast api level apilevel ast jls3 param set vararg setvararg arg expr argexpr argument var arg isvararg
+record node recordnod param type gettyp type ref typeref
+param type gettyp simpl type issimpletyp
+record recordnam simpl type simpletyp param type gettyp getnam type ref typeref
+param type gettyp arrai type isarraytyp
+type type arrai type arraytyp param type gettyp element type getelementtyp
+record node recordnod type type ref typeref
+type simpl type issimpletyp
+record recordnam simpl type simpletyp type getnam type ref typeref
+node node type getnodetyp ast node astnod simpl simpl
+node node type getnodetyp ast node astnod qualifi qualifi
+org aspectj org eclips jdt intern compil ast ast node astnod compil node compilernod javadoc node start getnodestartingat node start posit getstartposit
+record recordnam node compil node compilernod
+node node type getnodetyp ast node astnod tag element tag element
+resolv member method refer bind
+record node recordnod javadoc tag element tagel node

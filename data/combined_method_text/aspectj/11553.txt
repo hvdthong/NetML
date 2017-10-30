@@ -1,0 +1,54 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+annot annotationvalu gener element constant express generateelementvaluefornonconstantexpress express default defaultvalu type bind typebind default bind defaultvaluebind
+default bind defaultvaluebind
+default bind defaultvaluebind enum isenum
+field bind fieldbind field bind fieldbind
+default defaultvalu qualifi refer qualifiednamerefer
+qualifi refer qualifiednamerefer refer namerefer qualifi refer qualifiednamerefer default defaultvalu
+field bind fieldbind field bind fieldbind refer namerefer bind
+default defaultvalu singl refer singlenamerefer
+singl refer singlenamerefer refer namerefer singl refer singlenamerefer default defaultvalu
+field bind fieldbind field bind fieldbind refer namerefer bind
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+field bind fieldbind
+string sig string field bind fieldbind type signatur
+annot annotationvalu enum enumvalu enum annot enumannotationvalu sig string field bind fieldbind
+enum enumvalu
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+default bind defaultvaluebind annot type isannotationtyp
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+content contentsoffset byte
+generateannot annot defaultvalu attributeoffset
+default bind defaultvaluebind arrai type isarraytyp
+arrai type
+default defaultvalu arrai initi arrayiniti
+arrai initi arrayiniti arrai initi arrayiniti arrai initi arrayiniti default defaultvalu
+arrai length arraylength arrai initi arrayiniti express arrai initi arrayiniti express length
+annot annotationvalu valu annot annotationvalu arrai length arraylength
+arrai length arraylength
+valu gener element generateelementvalu arrai initi arrayiniti express default bind defaultvaluebind leaf compon type leafcomponenttyp valu generateelementvalu arrayiniti express defaultvaluebind leafcomponenttyp attributeoffset
+arrai annot arrayannotationvalu aav arrai annot arrayannotationvalu valu
+aav
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+class type
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+contentsoffset content length
+resizecont
+content contentsoffset byte 'c'
+defaultvalu instanceof classliteralaccess
+classliteralaccess classliteralaccess classliteralaccess defaultvalu
+final int classinfoindex constantpool literalindex classliteralaccess targettyp signatur
+content contentsoffset byte classinfoindex
+content contentsoffset byte classinfoindex
+contentsoffset attributeoffset
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+contentsoffset attributeoffset

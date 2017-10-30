@@ -1,0 +1,16 @@
+entri open int field hash map openinttofieldhashmap entri
+org apach common math3 linear
+param type field element
+row row dimens getrowdimens
+field getfield row dimens getrowdimens column dimens getcolumndimens
+spars matrix implement base open address map
+copi constructor
+href http issu apach org jira brows math ticket
+version
+column column dimens getcolumndimens
+jira
+deprec version deprec reason expos
+param instanc copi
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+spars field matrix sparsefieldmatrix spars field matrix sparsefieldmatrix
+remov version

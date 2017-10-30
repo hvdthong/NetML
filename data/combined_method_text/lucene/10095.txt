@@ -1,0 +1,35 @@
+org apach lucen xmlparser builder
+creat link numericrangefilt tabl specifi requir
+attribut default option attribut omit
+detail attribut consult document
+link numericrangefilt
+tabl
+attribut
+valu
+requir
+default
+fieldnam
+string
+lowerterm
+type
+upperterm
+type
+type
+int long float doubl
+int
+includelow
+true fals
+true
+includeupp
+true fals
+true
+precisionstep
+integ
+tabl
+error occur pars suppli lowerterm
+upperterm numer type type
+error silent result filter match
+document
+numer rang filter builder numericrangefilterbuild filter builder filterbuild
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept

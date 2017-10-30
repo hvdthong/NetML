@@ -1,0 +1,8 @@
+org aspectj ajdt intern compil
+author colyer
+implementor interfac call compileradapt
+weav return set binari sourc file
+resourc injar inpath includ weav
+manag increment compil binari sourc
+binari sourc provid ibinarysourceprovid
+map binari sourc weav getbinarysourcesforthisweav map filenam list unwovenclassfil getbinarysourcesforthisweav

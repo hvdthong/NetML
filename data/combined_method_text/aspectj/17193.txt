@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+percflow dom ast node
+pointcutdesign
+pointcutdesign call 'body'
+author ajh02
+cflow percflow pointcut design pointcutdesign
+set bodi setbodi pointcut design pointcutdesign bodi
+bodi
+illeg argument except illegalargumentexcept
+ast node astnod child oldchild bodi
+pre replac child prereplacechild child oldchild bodi bodi properti bodi properti
+bodi bodi
+post replac child postreplacechild child oldchild bodi bodi properti bodi properti

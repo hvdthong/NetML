@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+author colyer
+perform term rewrit pointcut express
+pointcut rewrit pointcutrewrit
+pointcut simplifi and simplifyand pointcut
+isnot
+pointcut notpointcut npc pointcut notpointcut
+pointcut bodi notbodi npc negat pointcut getnegatedpointcut
+isnot bodi notbodi
+simplifi and simplifyand pointcut notpointcut bodi notbodi negat pointcut getnegatedpointcut
+pointcut notpointcut simplifi and simplifyand npc negat pointcut getnegatedpointcut
+isor
+pointcut orpointcut opc pointcut orpointcut
+pointcut orpointcut simplifi and simplifyand opc left getleft simplifi and simplifyand opc getright
+isand
+simplifi simplifyand pointcut andpointcut

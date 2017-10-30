@@ -1,0 +1,37 @@
+org aspectj util
+class implement partial order
+includ routin topo sort
+partial order partialord
+param object implement partialcompar
+return member object sort partial
+order return null object cyclic
+list sort list object
+list size sort
+object size object
+optim case small size
+creat data structur give good
+separ concern
+list sort list sortlist link list linkedlist list sortlist linkedlist object size
+iter object iter hasnext
+add partial compar addnewpartialcompar sort list sortlist partial compar partialcompar
+system println sortlist
+built direct graph
+simpl sort algorithm
+increas effici
+list ret arraylist object size
+object size
+index index index
+system println sortlist
+system println ret
+sort object sortobject smaller leastwithnosmal
+iter sort list sortlist iter hasnext
+sort object sortobject sort object sortobject
+system println
+smaller object hasnosmallerobject
+smaller leastwithnosmal
+object fallback compar fallbackcompareto smaller leastwithnosmal object
+smaller leastwithnosmal
+smaller leastwithnosmal
+remov graph removefromgraph sort list sortlist smaller leastwithnosmal
+object set index smaller leastwithnosmal object
+object

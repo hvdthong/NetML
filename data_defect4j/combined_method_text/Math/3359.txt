@@ -1,0 +1,9 @@
+fast math fastmath ab
+version
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+inherit doc inheritdoc
+instanc guarante immut
+distance1 vector euclidean2 euclidean2d
+org apach common math geometri euclidean twod
+vector2 vector2d vector2 vector2d

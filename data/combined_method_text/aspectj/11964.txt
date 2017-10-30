@@ -1,0 +1,13 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+record fulli qualifi name type declar
+sourc file
+param sourcefil compil unit
+param icr compilationresult compil
+record result compil unit recordfqnsresultingfromcompilationunit file sourc file sourcefil interim compil result interimcompilationresult icr
+list class file classfil arrai list arraylist
+unwoven class file unwovenclassfil type icr unwoven class file unwovenclassfil
+type length
+class file classfil add class file classfil type class getclassnam file type filenam getfilenam
+fulli qualifi type name result compil unit fullyqualifiedtypenamesresultingfromcompilationunit put sourc file sourcefil class file classfil

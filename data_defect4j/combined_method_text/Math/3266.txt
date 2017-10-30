@@ -1,0 +1,6 @@
+euclidean2 euclidean2d serializ space
+version
+inherit doc inheritdoc
+dimension space
+org apach common math geometri euclidean twod
+dimens getdimens

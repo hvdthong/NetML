@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+object visit exact type pattern exacttypepattern node object data
+node annot pattern getannotationpattern annot type pattern annotationtypepattern
+append
+node annot pattern getannotationpattern accept data
+append
+string type string typestr node type gettyp string tostr
+node var arg isvararg type string typestr type string typestr substr type string typestr index lastindexof node isvararg typestr typestr substr typestr lastindexof todo ugli
+append type string typestr
+node includ subtyp isincludesubtyp append
+node var arg isvararg append
+node annot pattern getannotationpattern annot type pattern annotationtypepattern
+append

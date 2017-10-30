@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pattern namepattern extract trytoextractnam type pattern typepattern type nexttyp
+type nexttyp type pattern typepattern
+pattern namepattern
+type nexttyp wild type pattern wildtypepattern
+wild type pattern wildtypepattern wild type pattern wildtypepattern type nexttyp
+extract extractnam

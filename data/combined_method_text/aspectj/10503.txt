@@ -1,0 +1,21 @@
+org aspectj ajd
+author mik kersten
+structur search manag structuresearchmanag
+list find match helper findmatcheshelp
+program element iprogramel node
+string pattern
+program element iprogramel kind kind
+list match
+node node getnam index indexof pattern
+kind node kind getkind equal kind
+match add node
+node node children getchildren
+iter node children getchildren iter hasnext
+program element iprogramel node nextnod program element iprogramel
+node nextnod program element iprogramel
+find match helper findmatcheshelp
+program element iprogramel node nextnod
+pattern
+kind
+match
+match

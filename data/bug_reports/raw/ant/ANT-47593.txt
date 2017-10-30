@@ -1,0 +1,15 @@
+say which zip file it was "error in opening zip file"
+Suggestion: org.apache.tools.ant.AntClassLoader.getResourceURL() could catch ZipException, amend the message with the absolute file path and re-throw since the java.util.zip coderes unfortunately didn't bother to be user-friendly with their error messages...  :(
+
+Luckily, the ZipException is even extensible, so open for chaining with minimum side-effects
+
+java.util.zip.ZipException: error in opening zip file
+    at java.util.zip.ZipFile.open(Native Method)
+    at java.util.zip.ZipFile.<init>(ZipFile.java:203)
+    at java.util.zip.ZipFile.<init>(ZipFile.java:234)
+    at org.apache.tools.ant.AntClassLoader.getResourceURL(AntClassLoader.java:964)
+    at org.apache.tools.ant.AntClassLoader.getResource(AntClassLoader.java:876)
+
+
+
+same idea as  Bug 35505

@@ -1,0 +1,14 @@
+org aspectj ajdt intern compil ast
+aspect clinit aspectclinit clinit
+aspect clinit aspectclinit clinit compil result compilationresult compil result compilationresult pre haspr post haspost field bind fieldbind init failur field initfailurefield
+compil result compilationresult
+check bit needfreereturn bit
+bit astnod needfreereturn bit astnod needfreereturn
+bit bit
+sourc end sourceend sourc end sourceend
+sourc start sourcestart sourc start sourcestart
+declar sourc end declarationsourceend declar sourc end declarationsourceend
+declar sourc start declarationsourcestart declar sourc start declarationsourcestart
+pre haspr pre haspr
+post haspost post haspost
+init failur field initfailurefield init failur field initfailurefield

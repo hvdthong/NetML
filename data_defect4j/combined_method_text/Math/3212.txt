@@ -1,0 +1,19 @@
+param separ separ
+string separ
+org apach common math geometri euclidean threed
+user defin string number format compon configur
+white space pars time prefix suffix
+charact format time input string
+param suffix suffix
+vector3 format vector3dformat vector format vectorformat euclidean3 euclidean3d
+close curli brace trail space
+param prefix prefix
+pars error vector
+version
+vector3 format vector3dformat string prefix string suffix
+creat instanc custom prefix suffix separ
+prefix suffix separ replac
+separ specif separ includ space
+prefix suffix separ composit format compositeformat default number format getdefaultnumberformat
+return pars posit pars
+format vector compon list format

@@ -1,0 +1,29 @@
+author stephen colebourn
+param type set field period support
+data code period type periodtyp code code code
+base period baseperiod year month week dai
+org joda time base
+author brian neill o'neil
+type ityp type
+param month amount month period unsupport
+param hour amount hour period unsupport
+param week amount week period unsupport
+hour minut second milli
+param minut amount minut period unsupport
+base period baseperiod implement readabl period readableperiod store
+param dai amount dai period unsupport
+param second amount second period unsupport
+valu ivalu set period intern setperiodintern year month week dai hour minut second milli intern method
+base period baseperiod subclass mutabl thread safe
+type check period type checkperiodtyp type
+param milli amount millisecond period unsupport
+period type periodtyp type
+illeg argument except illegalargumentexcept unsupport field'
+kind period object referenc
+param year amount year period unsupport
+link readabl period readableperiod
+creat period set field valu
+illeg argument except illegalargumentexcept period type invalid
+base period baseperiod
+gener directli api user
+set period intern setperiodintern year month week dai hour minut second milli intern method

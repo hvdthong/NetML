@@ -1,0 +1,27 @@
+org aspectj ajdt intern compil problem
+extend problem report support compil side implement declar soft
+overrid error report implement abstract method
+account inter type declar pointcut declar
+job directli sourcetypebind classscop class
+author jim hugunin
+problem report ajproblemreport problem report problemreport
+handl
+problem problemid
+string problem argument problemargu
+string messag argument messageargu
+sever
+problem start posit problemstartposit
+problem end posit problemendposit
+refer context referencecontext refer context referencecontext
+compil result compilationresult unit result unitresult
+sever problem sever problemsever ignor dump stack dump stack
+thread dump stack dumpstack
+handl
+problem problemid
+problem argument problemargu
+messag argument messageargu
+sever
+problem start posit problemstartposit
+problem end posit problemendposit
+refer context referencecontext
+unit result unitresult

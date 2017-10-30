@@ -1,0 +1,59 @@
+org apach common math linear
+real matrix realmatrix
+ei0 ei0 ei1 singular valu singularvalu
+ei0 singular valu singularvalu
+ei0 ei1 singular valu singularvalu
+inherit doc inheritdoc
+singular decomposit impl singularvaluedecompositionimpl
+tridiagon matrix lower bidiagon
+ei0 ei1
+real matrix realmatrix getv
+full svd support implement
+singular valu singularvalu length
+row
+data idata ei1
+secondari bidiagon secondarybidiagon ei1 singular valu singularvalu
+invalid matrix except invalidmatrixexcept
+calcul singular decomposit matrix
+min
+ei1 data edata
+data edata data getdata
+reus arrai matrix store result
+comput eigenvector matrix
+version
+sigma time sigma time
+transform getv multipli matrix util matrixutil creat real matrix createrealmatrix data idata
+version revis date
+transform getv multipli matrix util matrixutil creat real matrix createrealmatrix data wdata
+time orthogon matrix
+number posit singular valu
+cach cachedv transform getv multipli
+main lastmain main bidiagon mainbidiagon
+time diagon matrix posit element time
+cach cachedv
+cach cachedv transform getv multipli eigen decomposit eigendecomposit getv
+time matrix time orthogon matrix
+orthogon matrix size depend chosen algorithm
+truncat svd min user
+compact svd rank matrix
+data idata
+full svd singular valu comput posit
+sigma time diagon matrix posit diagon element
+ei0 main bidiagon mainbidiagon ei0
+ei1 main lastmain singular valu singularvalu
+cach matrix
+main bidiagon mainbidiagon
+orthogon matrix orthogon
+singular decomposit impl singularvaluedecompositionimpl singular decomposit singularvaluedecomposit
+calcul compact truncat singular decomposit matrix
+data wdata
+data edata eigen decomposit eigendecomposit getv data getdata
+time matrix time orthogon matrix sigma
+singular decomposit matrix set matric
+secondari bidiagon secondarybidiagon
+eigen decomposit eigendecomposit getv matrix getsubmatrix
+time orthogon matrix time
+tridiagon matrix upper bidiagon
+real matrix realmatrix getv invalid matrix except invalidmatrixexcept
+note comput compact truncat svd
+calcul compact singular decomposit matrix

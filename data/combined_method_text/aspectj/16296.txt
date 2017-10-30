@@ -1,0 +1,7 @@
+org aspectj intern tool build
+open struct build modul product
+separ bulder permit build modul
+concurr
+build spec buildspec
+modul ismodul
+product isproduct util read dir canreaddir modul dir moduledir

@@ -1,0 +1,10 @@
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+param rel accuraci relativeaccuraci maximum rel error
+base solver
+construct solver accuraci
+abstract univari real solver abstractunivariaterealsolv
+abstract univari real solver abstractunivariaterealsolv rel accuraci relativeaccuraci
+absolut accuraci absoluteaccuraci
+version revis date
+param absolut accuraci absoluteaccuraci maximum absolut error
+org apach common math analysi solver

@@ -1,0 +1,27 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+creat program element node correspond sourc locat
+program element programel
+string
+kind kind
+modifi
+access access
+string declar type declaringtyp
+string packag packagenam
+string comment
+sourc locat isourceloc sourc locat sourceloc
+list relat
+list children
+member
+kind children
+sourc locat sourceloc sourc locat sourceloc
+kind kind
+modifi modifi
+access access
+set declar type setdeclaringtyp declar type declaringtyp setdeclaringtyp declaringtyp declaringtyp declaringtyp
+packagenam packagenam
+set formal comment setformalcom comment
+comment null comment length formalcom comment
+relat relat size set relat setrel relat
+relat relat

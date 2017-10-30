@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+provid suffix declar annot
+form ajproblemreport
+string suffix getnamesuffix
+kind getkind string tostr

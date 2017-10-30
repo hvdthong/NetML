@@ -1,0 +1,7 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+equal object obj
+obj preced cach kei precedencecachekei
+preced cach kei precedencecachekei preced cach kei precedencecachekei obj
+aspect1 aspect1 aspect2 aspect2

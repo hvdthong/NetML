@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+sort munger gen initi order
+instruct list instructionlist gen init instruct geninitinstruct list list static isstat
+list partial order partialord sort list
+list
+except bcexcept circular inter type
+instruct list instructionlist ret instruct list instructionlist
+iter list iter hasnext
+concret type munger concretetypemung cmunger concret type munger concretetypemung
+field type munger newfieldtypemung munger field type munger newfieldtypemung cmunger munger getmung
+resolv member resolvedmemb init method initmethod munger init method getinitmethod cmunger aspect type getaspecttyp
+static isstat ret append instruct constant instructionconst aload
+ret append util creat invok createinvok fact world init method initmethod
+ret

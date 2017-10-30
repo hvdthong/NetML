@@ -1,0 +1,6 @@
+org aspectj weaver
+shadow
+arg count getargcount
+kind getkind field set fieldset
+signatur getsignatur
+paramet type getparametertyp length

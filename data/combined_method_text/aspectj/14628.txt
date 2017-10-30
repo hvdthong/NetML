@@ -1,0 +1,21 @@
+org aspectj apach bcel util
+factori creat append statement set instruct target
+helper class bcelifi
+bcelifi
+version bcelfactori java aclement exp
+author href mailto marku dahm berlin dahm
+bcel factori bcelfactori empti visitor emptyvisitor
+updat branch target updatebranchtarget
+iter branch iter hasnext
+branch instruct branchinstruct branch instruct branchinstruct
+branch handl branchhandl branch handl branchhandl branch map
+po posit getposit
+string getnam po
+po target gettarget posit getposit
+println settarget po
+select
+instruct handl instructionhandl ih select target gettarget
+ih length
+po ih posit getposit
+println settarget
+po

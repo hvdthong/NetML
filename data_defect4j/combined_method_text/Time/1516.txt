@@ -1,0 +1,11 @@
+author stephen colebourn
+param minut number minut
+defin durat time queri modifi datetim field
+read writabl period readwritableperiod readabl period readableperiod
+set minut setminut minut
+implement mutabl
+set number minut period
+org joda time
+provid advanc method
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support

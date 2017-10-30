@@ -1,0 +1,65 @@
+org aspectj tool ajbrows swing
+panel displai ajc runtim option
+author mik kersten
+browser option panel browseroptionspanel option panel optionspanel
+init jbinit except
+border1
+border factori borderfactori creat etch border createetchedbord color white color
+titl border1 titledborder1 titl border titledbord border1 ajc option
+border2
+border factori borderfactori creat compound border createcompoundbord
+titl border1 titledborder1
+border factori borderfactori creat empti border createemptybord
+border3
+border factori borderfactori creat etch border createetchedbord color white color
+titl border2 titledborder2 titl border titledbord border3 run option
+border4
+border factori borderfactori creat compound border createcompoundbord
+titl border2 titledborder2
+border factori borderfactori creat empti border createemptybord
+set layout setlayout border layout1 borderlayout1
+build panel set layout setlayout border layout4 borderlayout4
+class run field classtorun field set font setfont java awt font sansserif
+class run field classtorun field set minimum size setminimums dimens
+class run field classtorun field set prefer size setpreferreds dimens
+label4 jlabel4 set font setfont java awt font dialog
+label4 jlabel4 set text settext fulli qualifi main class run
+build path panel buildpath panel set layout setlayout flow layout1 flowlayout1
+run option panel runopt panel set border setbord border4
+build path panel buildpath panel set border setbord border2
+classpath field set font setfont java awt font sansserif
+classpath field set minimum size setminimums dimens
+classpath field set prefer size setpreferreds dimens
+output path field outputpath field set prefer size setpreferreds dimens
+output path field outputpath field set minimum size setminimums dimens
+output path field outputpath field set font setfont java awt font sansserif
+standard option field nonstandardopt field set prefer size setpreferreds dimens
+standard option field nonstandardopt field set minimum size setminimums dimens
+standard option field nonstandardopt field set font setfont java awt font sansserif
+label16 jlabel16 set text settext classpath default current directori
+label16 jlabel16 set prefer size setpreferreds dimens
+label16 jlabel16 set maximum size setmaximums dimens
+label16 jlabel16 set font setfont java awt font dialog
+label15 jlabel15 set maximum size setmaximums dimens
+label15 jlabel15 set font setfont java awt font dialog
+label15 jlabel15 set prefer size setpreferreds dimens
+label15 jlabel15 set text settext output path default current directori
+standard option label nonstandardopt label set maximum size setmaximums dimens
+standard option label nonstandardopt label set font setfont java awt font dialog
+standard option label nonstandardopt label set prefer size setpreferreds dimens
+standard option label nonstandardopt label set text settext standard compil option
+titl border1 titledborder1 set titl font settitlefont java awt font dialog
+titl border2 titledborder2 set titl font settitlefont java awt font dialog
+run option panel runopt panel add label4 jlabel4
+run option panel runopt panel add class run field classtorun field
+build panel add build path panel buildpath panel border layout borderlayout center
+build panel add run option panel runopt panel border layout borderlayout south
+compil option box2 compileopt box2 add output path field outputpath field
+compil option box2 compileopt box2 add standard option field nonstandardopt field
+compil option box2 compileopt box2 add classpath field
+compil option box3 compileopt box3 add label15 jlabel15
+compil option box3 compileopt box3 add standard option label nonstandardopt label
+compil option box3 compileopt box3 add label16 jlabel16
+build path panel buildpath panel add compil option box3 compileopt box3
+build path panel buildpath panel add compil option box2 compileopt box2
+add build panel border layout borderlayout north

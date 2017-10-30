@@ -1,0 +1,13 @@
+simpl constructor
+open map real vector openmaprealvector spars real vector sparserealvector
+org apach common math3 linear
+current open map entri openmapentri iter
+link open int doubl hash map openinttodoublehashmap back store
+deprec version deprec reason expos
+remov version
+open map spars iter openmapsparseiter
+link real vector realvector
+href http issu apach org jira brows math ticket
+version
+jira
+iter entri iter

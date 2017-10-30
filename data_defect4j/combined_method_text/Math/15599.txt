@@ -1,0 +1,10 @@
+org apach common math3 random
+long nextlong
+inherit doc inheritdoc
+bit stream gener bitsstreamgener
+high
+version
+low 0xffffffff 0xffffffffl
+bit stream gener bitsstreamgener random gener randomgener
+high low
+base random number gener gener bit stream

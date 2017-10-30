@@ -1,0 +1,13 @@
+gener bicub interpol function
+param degre ydegre degre polynomi fit function
+param degre xdegre degre polynomi fit function
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol
+polynomi fit
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol degre xdegre
+prior gener interpol function input smooth
+degre ydegre
+fitter yfitter polynomi fitter polynomialfitt degre ydegre gauss newton optim gaussnewtonoptim
+version revis date
+org apach common math analysi interpol
+fitter xfitter polynomi fitter polynomialfitt degre xdegre gauss newton optim gaussnewtonoptim
+dimens

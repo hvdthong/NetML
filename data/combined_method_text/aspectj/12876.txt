@@ -1,0 +1,13 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+list list annot name getlistofannotationnam annot
+list valu getvalu
+list name arrai list arraylist
+iter iter hasnext
+element pair elementnamevaluepair element element pair elementnamevaluepair
+name add element string getnamestr
+name

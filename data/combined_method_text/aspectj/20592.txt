@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bcel var bcelvar gen temp var gentempvar unresolv type unresolvedtyp type typex string local localnam
+bcel var bcelvar gen temp var gentempvar type typex
+creat temp name
+instructionhandl rang getstart rang getend getnext
+rang israngehandl continu
+addtarget localvariabletag typex localnam getslot

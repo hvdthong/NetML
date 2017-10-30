@@ -1,0 +1,10 @@
+search start searchstart
+param func type function solv
+version
+solver
+initi guess
+provid implement function gener
+start getstartvalu
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+org apach common math analysi solver
+version revis date wed nov

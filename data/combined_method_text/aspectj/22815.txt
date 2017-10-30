@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+collect exact type getexacttyp
+arrai list arraylist ret arrai list arraylist
+type pattern typepattern length
+unresolv type unresolvedtyp type pattern typepattern exact type getexacttyp
+resolv type resolvedtyp miss ismiss ret add
+ret

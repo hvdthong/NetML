@@ -1,0 +1,88 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+statement convert org aspectj org eclips jdt intern compil ast statement statement
+statement foreach statement foreachstat
+convert foreach statement foreachstat statement
+statement org aspectj org eclips jdt intern compil ast local declar localdeclar
+convert variabl declar statement converttovariabledeclarationstat org aspectj org eclips jdt intern compil ast local declar localdeclar statement
+statement org aspectj org eclips jdt intern compil ast assert statement assertstat
+convert org aspectj org eclips jdt intern compil ast assert statement assertstat statement
+statement org aspectj org eclips jdt intern compil ast block
+convert org aspectj org eclips jdt intern compil ast block statement
+statement org aspectj org eclips jdt intern compil ast break statement breakstat
+convert org aspectj org eclips jdt intern compil ast break statement breakstat statement
+statement org aspectj org eclips jdt intern compil ast continu statement continuestat
+convert org aspectj org eclips jdt intern compil ast continu statement continuestat statement
+statement org aspectj org eclips jdt intern compil ast case statement casestat
+convert org aspectj org eclips jdt intern compil ast case statement casestat statement
+statement org aspectj org eclips jdt intern compil ast statement dostat
+convert org aspectj org eclips jdt intern compil ast statement dostat statement
+statement org aspectj org eclips jdt intern compil ast empti statement emptystat
+convert org aspectj org eclips jdt intern compil ast empti statement emptystat statement
+statement org aspectj org eclips jdt intern compil ast explicit constructor call explicitconstructorcal
+convert org aspectj org eclips jdt intern compil ast explicit constructor call explicitconstructorcal statement
+statement org aspectj org eclips jdt intern compil ast statement forstat
+convert org aspectj org eclips jdt intern compil ast statement forstat statement
+statement org aspectj org eclips jdt intern compil ast statement ifstat
+convert org aspectj org eclips jdt intern compil ast statement ifstat statement
+statement org aspectj org eclips jdt intern compil ast label statement labeledstat
+convert org aspectj org eclips jdt intern compil ast label statement labeledstat statement
+statement org aspectj org eclips jdt intern compil ast return statement returnstat
+convert org aspectj org eclips jdt intern compil ast return statement returnstat statement
+statement org aspectj org eclips jdt intern compil ast switch statement switchstat
+convert org aspectj org eclips jdt intern compil ast switch statement switchstat statement
+statement org aspectj org eclips jdt intern compil ast synchron statement synchronizedstat
+convert org aspectj org eclips jdt intern compil ast synchron statement synchronizedstat statement
+statement org aspectj org eclips jdt intern compil ast throw statement throwstat
+convert org aspectj org eclips jdt intern compil ast throw statement throwstat statement
+statement org aspectj org eclips jdt intern compil ast statement trystat
+convert org aspectj org eclips jdt intern compil ast statement trystat statement
+statement org aspectj org eclips jdt intern compil ast type declar typedeclar
+ast node astnod result convert org aspectj org eclips jdt intern compil ast type declar typedeclar statement
+result
+creat fake empti statement createfakeemptystat statement
+result node type getnodetyp
+ast node astnod enum declar enum declar
+ast api level apilevel
+ast jls2 intern jls2 intern
+creat fake empti statement createfakeemptystat statement
+ast jls3
+type declar statement typedeclarationstat type declar statement typedeclarationstat type declar statement typedeclarationstat ast
+type declar statement typedeclarationstat set declar setdeclar enum declar enumdeclar result
+abstract type declar abstracttypedeclar type decl typedecl type declar statement typedeclarationstat declar getdeclar
+type declar statement typedeclarationstat set sourc rang setsourcerang type decl typedecl start posit getstartposit type decl typedecl length getlength
+type declar statement typedeclarationstat
+ast node astnod annot type declar annot type declar
+ast api level apilevel
+ast jls2 intern jls2 intern
+creat fake empti statement createfakeemptystat statement
+ast jls3
+type declar statement typedeclarationstat type declar statement typedeclarationstat type declar statement typedeclarationstat ast
+type declar statement typedeclarationstat set declar setdeclar annot type declar annotationtypedeclar result
+abstract type declar abstracttypedeclar type decl typedecl type declar statement typedeclarationstat declar getdeclar
+type declar statement typedeclarationstat set sourc rang setsourcerang type decl typedecl start posit getstartposit type decl typedecl length getlength
+type declar statement typedeclarationstat
+type declar typedeclar type declar typedeclar type declar typedeclar result
+type declar typedeclar
+creat fake empti statement createfakeemptystat statement
+type declar statement typedeclarationstat type declar statement typedeclarationstat type declar statement typedeclarationstat ast
+type declar statement typedeclarationstat set declar setdeclar type declar typedeclar
+ast api level apilevel
+ast jls2 intern jls2 intern
+type declar typedeclar type decl typedecl type declar statement typedeclarationstat intern type declar internalgettypedeclar
+type declar statement typedeclarationstat set sourc rang setsourcerang type decl typedecl start posit getstartposit type decl typedecl length getlength
+ast jls3
+abstract type declar abstracttypedeclar type decl ast3 typedeclast3 type declar statement typedeclarationstat declar getdeclar
+type declar statement typedeclarationstat set sourc rang setsourcerang type decl ast3 typedeclast3 start posit getstartposit type decl ast3 typedeclast3 length getlength
+type declar statement typedeclarationstat
+statement org aspectj org eclips jdt intern compil ast statement whilestat
+convert org aspectj org eclips jdt intern compil ast statement whilestat statement
+statement org aspectj org eclips jdt intern compil ast express
+express expr convert org aspectj org eclips jdt intern compil ast express statement
+express statement expressionstat stmt express statement expressionstat ast
+stmt set express setexpress expr
+stmt set sourc rang setsourcerang expr start posit getstartposit expr length getlength
+retriev semi colon posit retrievesemicolonposit stmt
+stmt
+creat fake empti statement createfakeemptystat statement

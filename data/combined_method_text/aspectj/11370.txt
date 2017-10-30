@@ -1,0 +1,43 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+aspect public
+nest aspect static
+extend concret aspect
+pointcut perclaus good
+valid aspect declar validateaspectdeclar type declar typedeclar type decl typedecl
+type stack typestack size
+nest aspect
+modifi static isstat type decl typedecl modifi
+type decl typedecl scope problem report problemreport signal error signalerror type decl typedecl sourc start sourcestart type decl typedecl sourc end sourceend aspect static
+sourc type bind sourcetypebind bind type decl typedecl bind
+bind
+bind enum isenum bind interfac isinterfac bind annot type isannotationtyp
+type decl typedecl scope problem report problemreport signal error signalerror type decl typedecl sourc start sourcestart type decl typedecl sourc end sourceend class aspect annot
+fixm
+modifi ispubl typedecl modifi
+typedecl scope problemreport signalerror typedecl sourcestart typedecl sourceend aspect class public
+type refer typerefer parent ref parentref type decl typedecl superclass
+parent ref parentref
+type bind typebind parent bind parentbind parent ref parentref resolv type resolvedtyp
+parent bind parentbind sourc type bind sourcetypebind
+sourc type bind sourcetypebind parent stb parentstb sourc type bind sourcetypebind parent bind parentbind
+parent stb parentstb scope parentstb scope null scope null binarytypebind world subclass sourcetypebind
+type declar typedeclar parent decl parentdecl parent stb parentstb scope refer context referencecontext
+aspect isaspect parent decl parentdecl modifi abstract isabstract parent decl parentdecl modifi
+type decl typedecl scope problem report problemreport signal error signalerror type decl typedecl sourc start sourcestart type decl typedecl sourc end sourceend extend concret aspect
+annot aspect annot aspectannot annot ajannot aspect annot aspectannot
+loc pcloc
+string claus perclaus string liter getstringliteralfor aspect annot aspectannot loc pcloc
+aspect declar aspectdeclar aspect decl aspectdecl aspect declar aspectdeclar type decl typedecl compil result compilationresult
+claus perclaus claus perclaus equal
+sourc context isourcecontext context eclips sourc context eclipsesourcecontext unit compil result compilationresult loc pcloc
+pointcut pattern parser patternpars claus perclaus context pars claus maybeparseperclaus
+formal bind formalbind bind formal bind formalbind
+resolv eclips scope eclipsescop bind type decl typedecl scope
+parser except parserexcept pex
+type decl typedecl scope problem report problemreport pars error parseerror
+loc pcloc pex locat getloc start getstart
+loc pcloc pex locat getloc end getend
+claus perclaus char arrai tochararrai
+claus perclaus
+string pex messag getmessag

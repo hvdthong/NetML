@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+method retriev start posit block
+return int dimens found
+retriev identifi end posit retrieveidentifierendposit start end
+scanner reset resetto start end
+token
+token scanner token getnexttoken termin token terminaltoken token eof tokennameeof
+token
+termin token terminaltoken token identifi tokennameidentifi case terminaltoken tokennameidentifi
+scanner current token end posit getcurrenttokenendposit
+invalid input except invalidinputexcept
+ignor

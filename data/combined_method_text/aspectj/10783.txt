@@ -1,0 +1,35 @@
+org aspectj ajd swing
+error dialog errordialog dialog jdialog
+init jbinit except
+border1 border factori borderfactori creat empti border createemptybord
+content pane getcontentpan set layout setlayout border layout1 borderlayout1
+top panel set layout setlayout border layout2 borderlayout2
+close button set font setfont java awt font dialog
+close button set text settext close
+close button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+close button action perform close button actionperform
+top panel set border setbord border1
+top panel set prefer size setpreferreds dimens
+stack trace text area stacktrac textarea set font setfont java awt font monospac
+error label1 set font setfont java awt font dialog
+error label1 set font setfont java awt font dialog
+error label1 set foreground setforeground color black
+error label1 set maximum size setmaximums dimens
+error label1 set prefer size setpreferreds dimens
+error label1 set text settext label1
+panel1 jpanel1 set layout setlayout border layout3 borderlayout3
+error label2 set font setfont java awt font dialog
+error label2 set maximum size setmaximums dimens
+error label2 set prefer size setpreferreds dimens
+error label2 set text settext label2
+error label2 set foreground setforeground color black
+panel1 jpanel1 set prefer size setpreferreds dimens
+content pane getcontentpan add top panel border layout borderlayout center
+top panel add button panel border layout borderlayout south
+button panel add close button
+top panel add scroll pane1 jscrollpane1 border layout borderlayout center
+top panel add panel1 jpanel1 border layout borderlayout north
+panel1 jpanel1 add error label1 border layout borderlayout north
+panel1 jpanel1 add error label2 border layout borderlayout center
+scroll pane1 jscrollpane1 viewport getviewport add stack trace text area stacktrac textarea

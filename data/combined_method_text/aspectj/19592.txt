@@ -1,0 +1,18 @@
+org aspectj weaver
+abstract method field introduct chop
+handl inter type declar thing
+eclips side serial concretetypemung
+resolv type munger resolvedtypemung
+resolv type munger resolvedtypemung read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+kind kind kind read
+kind field
+field type munger newfieldtypemung read field readfield context
+kind method
+method type munger newmethodtypemung read method readmethod context
+kind constructor
+constructor type munger newconstructortypemung read constructor readconstructor context
+kind method deleg methoddeleg
+method deleg type munger methoddelegatetypemung read method readmethod context
+kind field host fieldhost
+method deleg type munger methoddelegatetypemung field host type munger fieldhosttypemung read field host readfieldhost context
+runtim except runtimeexcept unimpl

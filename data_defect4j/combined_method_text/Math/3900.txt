@@ -1,0 +1,14 @@
+build arrai element
+param length size arrai build
+link field vector fieldvector link field element fieldel arrai
+org apach common math linear
+param type field element
+arrai
+build arrai buildarrai length
+arrai field vector arrayfieldvector field element fieldel field vector fieldvector serializ
+arrai instanc newinst field runtim class getruntimeclass length
+arrai instanc newinst field getzero class getclass length
+version
+version revis date
+suppress warn suppresswarn uncheck field type
+suppress warn suppresswarn uncheck

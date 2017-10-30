@@ -1,0 +1,27 @@
+org aspectj ajd core
+class tool drive build ajcompil creat
+uniqu absolut pathnam project
+lst file implement icompilerconfigur
+ibuildprogressmonitor ibuildmessagehandl tool call
+build buildfresh ajcompil
+ajcompil
+creat project lst file
+respons tool manag lifecycl ajcompiler'
+compil ajcompil
+creat ajcompil icompilerconfigur
+ibuildprogressmonitor ibuildmessagehandl argument
+null
+param compilerid uniqu string identifi ajcompil
+param compilerconfig icompilerconfigur implement
+param buildprogressmonitor ibuildprogressmonitor implement
+param buildmessagehandl ibuildmessagehandl implement
+compil ajcompil
+string compil compilerid
+compil configur icompilerconfigur compil config compilerconfig
+build progress monitor ibuildprogressmonitor build progress monitor buildprogressmonitor
+build messag handler ibuildmessagehandl build messag handler buildmessagehandl
+compil config compilerconfig compil config compilerconfig
+monitor build progress monitor buildprogressmonitor
+handler build messag handler buildmessagehandl
+compil compilerid compil compilerid
+build manag buildmanag ajd core build manag ajdecorebuildmanag

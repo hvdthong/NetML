@@ -1,0 +1,23 @@
+overrid
+interv set intervalsset abstract region abstractregion euclidean1 euclidean1d euclidean1 euclidean1d
+set size setsiz size
+inherit doc inheritdoc
+repres region set interv
+org apach common math3 geometri euclidean on
+size interv size getsiz
+size
+set barycent setbarycent doubl infinit isinfinit size vector1 vector1d nan vector1 vector1d sum size
+tree gettre cut getcut
+sum
+version
+set barycent setbarycent vector1 vector1d nan
+size precis safe min
+sum interv size getsiz interv barycent getbarycent
+comput geometr properti computegeometricalproperti
+doubl infinit isinfinit size
+interv interv list aslist
+sum interv length getlength interv mid point getmidpoint
+set size setsiz boolean tree gettre attribut getattribut doubl posit infin
+set barycent setbarycent orient point orientedpoint tree gettre cut getcut hyperplan gethyperplan locat getloc
+size interv length getlength
+set barycent setbarycent vector1 vector1d sum size

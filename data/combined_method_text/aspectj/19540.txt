@@ -1,0 +1,10 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+coerceabl iscoerceablefrom resolv type resolvedtyp
+equal unresolv type unresolvedtyp object
+equal unresolv type unresolvedtyp serializ
+equal unresolv type unresolvedtyp cloneabl
+arrai isarrai
+compon type getcomponenttyp primit type isprimitivetyp
+equal
+compon type getcomponenttyp resolv world coerceabl iscoerceablefrom compon type getcomponenttyp resolv world

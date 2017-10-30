@@ -1,0 +1,8 @@
+patch fixcrlf preservelastmodified
+boolean preservelastmodified attribute behaves similar copys
+added fixcrlf
+case
+fixcrlf srcdir badeol destdir fixedeol preservelastmodified true
+ftp depends
+fixcrlf generate file current timestamp
+means ftp dependency checking transfer

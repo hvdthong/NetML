@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel var bcelvar var
+append convert arrai store appendconvertablearraystor
+instruct list instructionlist
+instruct factori instructionfactori fact
+index
+bcel var bcelvar store
+resolv type resolvedtyp convert type converttotyp type gettyp resolv compon type getresolvedcomponenttyp
+append load appendload fact
+append util creat constant createconst fact index
+store append load appendload fact
+util append convers appendconvers fact store type gettyp convert type converttotyp
+append instruct factori instructionfactori creat arrai store createarraystor bcel world bcelworld make bcel type makebceltyp convert type converttotyp

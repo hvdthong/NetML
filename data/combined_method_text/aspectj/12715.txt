@@ -1,0 +1,14 @@
+org aspectj apach bcel classfil
+class deriv attribut repres refer
+href http www inf berlin bokowski pmgjava index html pmg
+attribut
+version pmgclass java aclement exp
+author href mailto marku dahm berlin dahm
+attribut
+pmg class pmgclass attribut
+call object travers node tree implicit
+defin content java class hierarchi method
+field attribut spawn tree object
+param visitor object
+accept visitor
+system err println visit standard pmgclass object

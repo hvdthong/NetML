@@ -1,0 +1,4 @@
+MultiTermsEnum over-shares between different Docs/AndPositionsEnum
+ Robert found this in working on <a href="https://issues.apache.org/jira/browse/LUCENE-2352" title="Add a new TestBackwardsCompatibility index for flex backwards (a 3.0 one with also numeric fields)" class="issue-link" data-issue-key="LUCENE-2352"><del>LUCENE-2352</del></a>. 
+
+ MultiTermsEnum incorrectly shared sub-enums on two different invocation of .docs/AndPositionsEnum. 

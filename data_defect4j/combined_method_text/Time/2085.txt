@@ -1,0 +1,17 @@
+author stephen colebourn
+param set
+link readabl period readableperiod
+kind period object referenc
+valu ivalu index
+data code period type periodtyp code code code
+set field index
+set field specif index
+base period baseperiod implement readabl period readableperiod store
+index bound except indexoutofboundsexcept index invalid
+base period baseperiod subclass mutabl thread safe
+org joda time base
+author brian neill o'neil
+base period baseperiod
+param index index
+gener directli api user
+set setvalu index

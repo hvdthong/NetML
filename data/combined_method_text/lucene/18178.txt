@@ -1,0 +1,10 @@
+org apach lucen util
+class encod java utf16 char utf8 byte
+alloc byte
+string getbyt utf
+lucen intern
+unicod util unicodeutil
+set length setlength length newlength
+result length length newlength
+result arrai util arrayutil grow result length newlength
+length length newlength

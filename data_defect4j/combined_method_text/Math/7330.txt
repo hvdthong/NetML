@@ -1,0 +1,258 @@
+variabl fix bound bound
+dhd
+stplen ggsav half stplen sh
+crvmin temp
+gnew set entri setentri gnew entri getentri stplen entri getentri
+stplen blen
+arrai real vector arrayrealvector hred
+powell' bobyqa algorithm implement translat
+sdec
+search restrict constraint procedur restart
+sdec suffici small return set xnew
+stplen temp
+argument npt xpt xopt gopt
+comput max
+temp rdnext rdprev redmax redmax rdprev rdnext
+link cmae optim cmaesoptim succe bobyqa
+npt number interpol point numberofinterpolationpoint
+updat crvmin gnew set sdec decreas occur
+rednew sth angt dredg sredg half sth temp
+param
+gredsq delsq qred qred
+dhd dh cth sh sth ssq beta sdec blen
+redmax
+resid delsq ggsav tempa tempb
+bound branch back label fix variabl
+close greatest reduct achiev
+dredsq
+resid delsq
+xnew set vector variabl approxim
+itermax iterc nact
+version truncat conjug gradient appli line
+set entri setentri gnew entri getentri
+dh
+trial step point trialsteppoint set entri setentri point newpoint entri getentri trust region center offset trustregioncenteroffset entri getentri
+calcul trial step xopt gener iter
+region boundari termin occur reduct
+ssq
+point newpoint set entri setentri math max min lower differ lowerdiffer entri getentri
+temp qred qred
+regard extern subroutin
+nact set number fix variabl gnew
+delsq delta delta
+resid
+entri getentri
+gradient search restrict constraint
+sdec math max
+upper bound indic conjug gradient iter
+current search direct gradient
+set search direct conjug gradient method
+temp
+xopt give care attent bound
+trust region center offset trustregioncenteroffset entri getentri upper differ upperdiffer entri getentri
+iact isav
+angl altern iter calcul sdec
+arrai hred work space hold
+seek greatest reduct rang equal space valu
+real vector realvector tmp interpol point interpolationpoint oper eb multipli ebemultipli model deriv paramet modelsecondderivativesparamet
+redmax dredsq redsav gredsq rednew
+href http plato asu ftp softwar bobyqa zip
+angbd free variabl reach
+local variabl
+point newpoint set entri setentri lower differ lowerdiffer entri getentri
+tempa trust region center offset trustregioncenteroffset entri getentri trial step point trialsteppoint entri getentri lower differ lowerdiffer entri getentri
+xbdi xbdi
+entri getentri iact
+instruct multipli current vector
+set iter delsq upper bound sum
+tempb
+steplength ignor simpl bound
+blen resid temp
+print state printstat xxx
+temp gredsq dredsq dredg dredg
+xbdi entri getentri minu
+crvmin doubl nan
+temp stplen
+mean argument bobyqb
+xsav minu
+temp xsav xsum angbd dredg sredg
+reduc reduc
+length step trust region boundari stplen
+comput 2nd power
+search direct linear combin reduc
+sredg temp
+trsbox
+rdnext rednew
+restart variabl fix bound
+multipli reduc deriv matrix
+xbdi set entri setentri iact minu
+dredg
+reduc stplen order preserv simpl bound
+delta trust region radiu present calcul
+dsq
+state
+version
+iact
+comput min
+angt angbd
+temp math sqrt temp
+arrai real vector arrayrealvector xbdi
+temp sh angt angt dhd dh dh
+function bodi
+tempa
+sdec sth angt dredg sredg half sth temp
+iact temp
+rdprev redsav
+min math min trust region center offset trustregioncenteroffset entri getentri trial step point trialsteppoint entri getentri
+set nonzero
+xsav
+rednew redmax
+qred sdec
+itcsav iterc
+current currentbest dimens getdimens
+crvmin math min crvmin temp
+trial step point trialsteppoint set entri setentri
+xbdi set entri setentri iact xsav
+paper introduct
+updat gnew hred angl altern iter
+upper differ upperdiffer entri getentri trust region center offset trustregioncenteroffset entri getentri
+dsq set squar length xnew xopt
+href http www optim onlin org html html
+bound tangent half angl altern iter
+qred
+set entri setentri entri getentri model deriv valu modelsecondderivativesvalu entri getentri entri getentri
+trust region center offset trustregioncenteroffset entri getentri lower differ lowerdiffer entri getentri
+delsq
+angt angbd angt tangent half angl
+trial step point trialsteppoint set entri setentri cth trial step point trialsteppoint entri getentri sth entri getentri
+beta
+inform accumul construct xnew
+redmax rednew
+multipli search direct deriv matrix
+deriv base optim deriv approxim
+tempb upper differ upperdiffer entri getentri trust region center offset trustregioncenteroffset entri getentri trial step point trialsteppoint entri getentri
+hred set entri setentri entri getentri
+xbdi set entri setentri iact
+bound
+itcsav
+angt angbd isav half temp
+model deriv paramet modelsecondderivativesparamet entri getentri
+hold reduc call ggmult
+temp math sqrt temp entri getentri
+nact
+simpl bound variabl calcul upper
+xopt subject bound variabl
+rdprev rdnext stplen stepsq
+arrai real vector arrayrealvector
+angbd tempa temp
+temp math sqrt stepsq resid
+redsav rednew
+set entri setentri dredg trial step point trialsteppoint entri getentri dredsq gnew entri getentri temp
+fix variabl bound initi
+reduc xopt xbdi show
+stplen blen appli conjug
+sdec qred
+restart conjug gradient method hit bound
+param hred
+dsq crvmin
+xbdi set entri setentri minu
+arrai real vector arrayrealvector gnew
+trial step point trialsteppoint set entri setentri trial step point trialsteppoint entri getentri stplen entri getentri
+let iact index constrain variabl
+beta gredsq ggsav
+gradient iter return
+set curvatur occur conjug
+equat bound activ calcul
+reduc orthogon reduc
+deriv matrix quadrat model put product
+angbd temp tempa
+reach part softwar
+gradient trust region center gradientattrustregioncent entri getentri
+bobyqa optim bobyqaoptim
+trial step point trialsteppoint entri getentri
+gnew entri getentri
+delta
+isav
+calcul scalar choic steplength set blen
+adapt fortran version
+gredsq
+finit differ
+gnew hold gradient quadrat model xopt updat
+set entri setentri beta entri getentri gnew entri getentri
+temp ssq
+gnew set entri setentri gnew entri getentri cth hred entri getentri sth entri getentri
+param delta
+gredsq stepsq
+initi xnew xopt iter
+crvmin set reach trust region boundari
+math illeg state except mathillegalstateexcept local format localizedformat simpl messag trsbox
+point newpoint set entri setentri upper differ upperdiffer entri getentri
+param gnew
+sh entri getentri entri getentri
+bobyqa suit high dimension problem
+itermax
+xbdi work space vector element xbdi
+dredg trial step point trialsteppoint entri getentri gnew entri getentri
+set entri setentri
+calcul hhd curvatur altern iter
+squar free variabl qred reduct
+iterc itcsav
+sth angt angt angt angt
+return reduct set sine cosin
+subject constraint variabl satisfi
+print method printmethod xxx
+xsum trust region center offset trustregioncenteroffset entri getentri trial step point trialsteppoint entri getentri
+stplen
+altern iter
+temp lower differ lowerdiffer entri getentri xsum entri getentri
+sign gopt sign chang variabl
+link powel optim powelloptim significantli stochast algorithm
+stplen math min blen gredsq sh
+prepar altern iter calcul scalar
+set constant
+dhd trial step point trialsteppoint entri getentri hred entri getentri
+seek small quadrat model distanc delta
+set entri setentri trial step point trialsteppoint entri getentri
+angbd
+expens bobyqa consid replac
+crvmin 0d0 set search
+set entri setentri entri getentri tmp entri getentri interpol point interpolationpoint entri getentri
+angbd tempb temp
+compon fix variabl itermax
+entri getentri trial step point trialsteppoint entri getentri
+cth angt angt angt angt
+compon fix variabl
+hred set entri setentri cth hred entri getentri sth entri getentri
+updat
+trial step point trialsteppoint entri getentri iact
+crvmin
+dsq doubl nan
+current gradient xopt stai trust
+angbd temp tempb
+redsav
+temp upper differ upperdiffer entri getentri xsum entri getentri
+xbdi entri getentri
+deriv case outperform
+param xbdi
+minim quadrat model trust region
+iterc
+npt
+angt qred
+gnew set entri setentri gradient trust region center gradientattrustregioncent entri getentri
+ggsav gredsq
+valu variabl bound fix
+stepsq
+steepest descent direct initi iter
+dimension space span
+dh trial step point trialsteppoint entri getentri entri getentri
+temp sh stepsq
+xbdi set entri setentri
+upper differ upperdiffer entri getentri
+org apach common math optim direct
+sh
+blen temp stepsq
+trust region boundari reach made
+crvmin minu
+constrain
+iterc itermax
+restrict bound free variabl variabl fix

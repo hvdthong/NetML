@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+ensur gener info process ensuregenericinfoprocess
+bitflag discov declar signatur discov declar signatur
+bitflag discov declar signatur discov declar signatur
+attribut java class javaclass attribut getattribut
+length declar signatur declaredsignatur
+attribut attribut
+attribut signatur declar signatur declaredsignatur signatur attribut signatur getsignatur
+declar signatur declaredsignatur gener type isgenerictyp declar signatur declaredsignatur char charat

@@ -1,0 +1,19 @@
+linear constructor
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+prototyp linear combin linearcombin getz getz getz getz
+build vector scale factor
+prototyp linear combin linearcombin geti geti geti geti
+param type field element
+param fourth base unscal vector
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+field vector3 fieldvector3d
+param scale factor
+instanc guarante immut
+param fourth scale factor
+version
+prototyp
+field vector3 fieldvector3d field vector3 fieldvector3d
+param base unscal vector
+prototyp linear combin linearcombin getx getx getx getx
+vector built

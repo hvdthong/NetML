@@ -1,0 +1,40 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+type declar typedeclar convert org aspectj org eclips jdt intern compil ast ast node astnod node
+type declar typedeclar type decl typedecl type declar typedeclar type declar gettypedeclar ast
+type decl typedecl set interfac setinterfac
+node length nodeslength node length
+node length nodeslength
+org aspectj org eclips jdt intern compil ast ast node astnod node node
+node org aspectj org eclips jdt intern compil ast initi
+org aspectj org eclips jdt intern compil ast initi initi oldiniti org aspectj org eclips jdt intern compil ast initi node
+initi initi initi ast
+initi set bodi setbodi convert initi oldiniti block
+set modifi setmodifi initi initi oldiniti
+initi set sourc rang setsourcerang initi oldiniti declar sourc start declarationsourcestart initi oldiniti sourc end sourceend initi oldiniti declar sourc start declarationsourcestart
+setjavadoccom initi
+initi setjavadoc convert oldiniti javadoc
+convert initi oldiniti javadoc initi
+type decl typedecl bodi declar bodydeclar add initi
+node org aspectj org eclips jdt intern compil ast field declar fielddeclar
+org aspectj org eclips jdt intern compil ast field declar fielddeclar field declar fielddeclar org aspectj org eclips jdt intern compil ast field declar fielddeclar node
+node org aspectj org eclips jdt intern compil ast field declar fielddeclar
+org aspectj org eclips jdt intern compil ast field declar fielddeclar node declar sourc start declarationsourcestart field declar fielddeclar declar sourc start declarationsourcestart
+multipl field declar
+retriev exist fielddeclar add variabledeclarationfrag
+field declar fielddeclar current field declar currentfielddeclar field declar fielddeclar type decl typedecl bodi declar bodydeclar type decl typedecl bodi declar bodydeclar size
+current field declar currentfielddeclar fragment add convert variabl declar fragment converttovariabledeclarationfrag field declar fielddeclar
+creat fielddeclar
+type decl typedecl bodi declar bodydeclar add convert field declar converttofielddeclar field declar fielddeclar
+node org aspectj org eclips jdt intern compil ast abstract method declar abstractmethoddeclar
+abstract method declar abstractmethoddeclar method declar nextmethoddeclar abstract method declar abstractmethoddeclar node
+method declar nextmethoddeclar default constructor isdefaultconstructor method declar nextmethoddeclar clinit isclinit
+type decl typedecl bodi declar bodydeclar add convert method declar nextmethoddeclar
+node org aspectj org eclips jdt intern compil ast type declar typedeclar
+org aspectj org eclips jdt intern compil ast type declar typedeclar member declar nextmemberdeclar org aspectj org eclips jdt intern compil ast type declar typedeclar node
+ast node astnod member declar node nextmemberdeclarationnod convert member declar nextmemberdeclar
+member declar node nextmemberdeclarationnod
+type decl typedecl set flag setflag type decl typedecl flag getflag ast node astnod malform
+type decl typedecl bodi declar bodydeclar add member declar node nextmemberdeclarationnod
+type decl typedecl

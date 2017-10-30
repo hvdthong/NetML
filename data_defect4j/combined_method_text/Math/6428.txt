@@ -1,0 +1,43 @@
+pre
+link multistep integr multistepintegr multistep integr state histori
+deriv current state state separ fix
+y''
+deriv state current step fix
+deriv nordsieck form
+step size method base polynomi
+equival state higher order deriv
+current step transform state histori
+org apach common math od
+instanc guarante immut
+nordsieck form state histori convert step size step
+current state element current state scale deriv element
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+scale deriv
+deriv form
+org apach common math od multistep integr multistepintegr
+equival form
+previou step comput current state
+transform exact polynomi
+version revis date
+element current state element previou state element
+multistep deriv
+input state histori nordsieck form element
+step size
+param nordsieck histori nordsieckhistori scalar state histori nordsieck form
+output state histori multistep deriv form
+nordsieck multistep deriv nordsiecktomultistepwithoutderiv nordsieck histori nordsieckhistori
+mat nto mwd matntomwd oper nordsieck histori nordsieckhistori
+nordsieck transform nordsiecktransform serializ
+state previou step
+support form dimens histori
+multistep deriv current step
+previou state
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+nordsieck
+size rescal compon
+transform state histori multistep
+current state scale deriv element current state
+interpol inform previou state repres
+express state current step
+scalar state histori multistep deriv form
+transform scalar state histori nordsieck form multistep

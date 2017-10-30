@@ -1,0 +1,10 @@
+org aspectj ajd swing
+author mik kersten
+build progress panel buildprogresspanel panel jpanel
+param maxval progress bar
+count second
+build progress panel buildprogresspanel
+init jbinit
+compil progress bar compil progressbar set maximum setmaximum max val max val
+except
+runtim except runtimeexcept string tostr

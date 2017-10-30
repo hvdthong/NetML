@@ -1,0 +1,49 @@
+author stephen colebourn
+year thisyear chronolog ichronolog year getyear instant
+rem month remmonthtous month monthtous max imax
+basic month year date time field basicmonthofyeardatetimefield imprecis date time field imprecisedatetimefield
+initi month monthtous base
+month
+month depend
+date part datepart
+month thismonth chronolog ichronolog month year getmonthofyear instant year thisyear
+author brian neill o'neil
+year yeartous
+time part timepart chronolog ichronolog milli dai getmillisofdai instant
+month monthtous math ab month monthtous
+quietli forc dom nearest sane
+param instant time instant milli updat
+date part datepart time part timepart
+end refactor
+month monthtous month thismonth month
+month monthtous month monthtous max imax
+param month month add neg
+add month time instant
+add instant month
+month monthtous
+month total dai
+refactor month year date time field gjmonthofyeardatetimefield
+year month
+instant easi
+rem month remmonthtous
+month monthtous max imax rem month remmonthtous
+order calcul import
+org joda time chrono
+max dai maxdai chronolog ichronolog dai year month getdaysinyearmonth year yeartous month monthtous
+dai month coerc nearest
+org joda time read writabl date time readwritabledatetim add month addmonth
+refactor care consider
+dai daytous max dai maxdai
+save time part
+amount ad neg
+chronolog ichronolog year month dai milli getyearmonthdaymilli year yeartous month monthtous dai daytous
+year yeartous year thisyear month monthtous max imax
+author gui allard
+org joda time date time field datetimefield add
+updat time instant
+sane
+care boundari condit
+proper date part result
+time calcul month year compon time
+dai daytous chronolog ichronolog dai month getdayofmonth instant year thisyear month thismonth
+rem month remmonthtous max imax

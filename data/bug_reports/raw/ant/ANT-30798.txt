@@ -1,0 +1,28 @@
+JUnit showoutput implementation grabs System.out and System.err later than it should
+org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner creates the
+junit.framework.Test instance before grabbing System.out and System.err. As a
+result, anything printed to System.out or System.err in the constructor gets
+through.
+
+Here's why this is bad. I'm using the Commons Logging classes. When my log4j
+instance field is instantiated, it grabs System.out right away, which is before
+JUnitTestRunner.run() is called. So, any log output goes around the Ant JUnit
+task and right to the console, despite the fact that "showoutput" defaults to false.
+
+I can fix this in my own classes by moving the instantiation of the Log into the
+setUp() method of my test case, but StrutsTestCase also makes the logger at
+instantiation time, so now all of my test cases print to the same logger and
+their output goes to the console anyway. In fact, this is the way that <a
+href="http://jakarta.apache.org/commons/logging/guide.html#Developing%20With%20JCL">the
+documentation for the commons logger says to do things</a>, so I wouldn't be
+surprised if there are more projects out there that do the same thing. So, I
+don't think it's reasonable to rely on workarounds. Even so, I've managed to
+create a hackish workaround just by making a test case that creates the log in
+its setUp() method, and making sure that's the first test case to be run.
+
+The fix seems simple, although I haven't tried it yet. Basically, move the code
+that instantiates the test case in JUnitTestRunner from the constructor into the
+part of run() right before it calls suite.run().
+
+I looked in the CVS for Ant and the code still works this way. However I've only
+tested this with Ant 1.6.2.

@@ -1,0 +1,89 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+run system exit put messag holder
+error compil error
+warn compil warn
+fail command error bad argument except thrown
+handl increment behavior
+arg includ increment repeat input char
+'q' enter
+arg includ incrementaltagfil file repeat time
+detect file modif time chang
+list file recompil time arg includ verbos
+exit commmand compil throw throwabl
+complet messag final
+run command fail messag produc run
+command includ throwabl thrown command
+param arg string command line compil
+param holder messagehandl sink messag
+run string arg messag holder imessagehold holder
+print stream printstream log stream logstream
+file output stream fileoutputstream fo
+string log file logfilenam parm arg parminarg log arg
+log file logfilenam
+file log file logfil file log file logfilenam
+log file logfil creat file createnewfil
+fo file output stream fileoutputstream log file logfilenam
+log stream logstream print stream printstream fo
+except
+fail holder open log file log file logfilenam
+date date
+log stream logstream println string tostr
+flag arg flaginarg verbos arg
+handler ourhandl set interceptor setinterceptor log mode messag printer logmodemessageprint log stream logstream
+handler ourhandl ignor messag imessag info
+handler ourhandl set interceptor setinterceptor log mode messag printer logmodemessageprint log stream logstream
+holder handler ourhandl
+lang util langutil empti isempti arg
+arg string
+control run
+fail holder run control control
+arg control init arg holder
+holder num messag nummessag messag imessag error
+command icommand command reflect factori reflectionfactori make command makecommand command commandnam holder
+holder num messag nummessag messag imessag error
+outer
+pass command run command runcommand arg holder
+report pass holder control increment
+control repeat command dorepeatcommand command
+holder clear messag clearmessag
+control build fresh buildfresh
+outer
+pass command repeat command repeatcommand holder
+report pass holder
+abort except abortexcept
+silent issil
+quit
+messag imessag messag messag getimessag
+throwabl thrown thrown getthrown
+thrown null thrown toss abortexcept wrapper
+messag
+holder handl messag handlemessag messag
+fail holder abort messag
+messag
+fail holder abort thrown
+string mssg messag util messageutil messag messag render string rendertostr messag
+fail holder mssg thrown
+throwabl
+fail holder unexpect except
+log stream logstream
+log stream logstream close
+log stream logstream
+fo
+fo close
+except ioexcept
+fail holder unexpect except
+fo

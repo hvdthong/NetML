@@ -1,0 +1,12 @@
+interfac repres href http mathworld wolfram real number realnumb html real
+param sign sign return
+href http mathworld wolfram field html field
+param type field element
+org apach common math3
+instanc sign code sign argument
+real field element realfieldel field element fieldel
+copi sign copysign sign
+version
+nan code sign argument treat posit
+return instanc sign argument
+field element fieldel

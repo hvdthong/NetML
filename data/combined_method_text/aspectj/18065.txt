@@ -1,0 +1,33 @@
+org aspectj util
+file util fileutil
+copi fromfil tofil handl file file dir dir file dir
+copi
+param fromfil file path file directori copi
+readabl
+param tofil file path target file directori
+writabl creat exist
+copi file copyfil file file fromfil file file tofil except ioexcept
+lang util langutil throw iax null throwiaxifnul file fromfil fromfil
+lang util langutil throw iax null throwiaxifnul file tofil tofil
+lang util langutil throw iax fals throwiaxiffals file tofil equal file fromfil file
+file tofil directori isdirectori tofil isdirectori exist directori
+throw iax write dir throwiaxunlesscanwritedir file tofil tofil
+file fromfil file isfil fromfil isfil file dir
+file targ file targfil file file tofil file fromfil getnam
+copi valid file copyvalidfil file fromfil targ file targfil
+file fromfil directori isdirectori fromfil isdirectori dir dir
+copi dir copydir file fromfil file tofil
+lang util langutil throw iax fals throwiaxiffals dir file file fromfil
+file tofil file isfil tofil isfil target file exist
+file fromfil directori isdirectori
+lang util langutil throw iax fals throwiaxiffals copi file dir file fromfil
+copi valid file copyvalidfil file fromfil file tofil copyvalidfil fromfil tofil file file
+target file exist path file dir
+ensur parent writabl ensureparentwrit file tofil file tofilepar ensureparentwrit tofil
+file fromfil file isfil
+copi valid file copyvalidfil file fromfil file tofil
+file fromfil directori isdirectori
+file tofil mkdir
+throw iax write dir throwiaxunlesscanwritedir file tofil tofil
+copi dir copydir file fromfil file tofil
+lang util langutil throw iax fals throwiaxiffals dir file file fromfil

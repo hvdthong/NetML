@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+string simpl maybegetsimplenam
+formal formalnam formal formalnam
+string ret annot type annotationtyp getnam
+ret index indexof ret

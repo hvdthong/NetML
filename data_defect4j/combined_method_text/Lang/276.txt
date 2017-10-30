@@ -1,0 +1,25 @@
+author stephen colebourn
+rang
+set charact
+char set charset serializ
+negat
+author phil steitz
+add string str
+param str set definit string
+remaind str charat po
+author henri yandel
+author gari gregori
+set add char rang charrang str charat po
+version
+po
+org apach common lang
+negat rang
+po len
+remaind len po
+set add char rang charrang str charat po str charat po
+remaind str charat po str charat po
+author pete gieser
+instanc immut instanc subclass
+str
+len str length
+add set definit string code char set charset code

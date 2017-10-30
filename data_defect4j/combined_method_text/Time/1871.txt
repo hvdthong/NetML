@@ -1,0 +1,15 @@
+author stephen colebourn
+extend
+implement code readabl date time readabledatetim code
+year era field
+link readabl date time readabledatetim
+abstract date time abstractdatetim
+centuri era getcenturyofera
+abstract date time abstractdatetim common behaviour datetim class
+abstract date time abstractdatetim subclass mutabl thread safe
+kind date time object referenc
+year era
+chronolog getchronolog centuri era centuryofera milli getmilli
+org joda time base
+author brian neill o'neil
+gener directli api user

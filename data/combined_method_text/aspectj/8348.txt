@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+accept resourc acceptresourc string resourc resourcenam file fromfil
+resourc resourcenam start startswith cv
+resourc resourcenam index indexof cv
+resourc resourcenam end endswith cv
+resourc resourcenam end endswith class
+resourc resourcenam start startswith svn
+resourc resourcenam index indexof svn
+resourc resourcenam end endswith svn
+copi manifest come jar write jar
+resourc resourcenam upper case touppercas equal manifest manifest file fromfil zo

@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+repres access annot element relat 'kinded' pointcut
+depend kind pointcut element field method
+kind annot access var kindedannotationaccessvar bcel var bcelvar
+kind annot access var kindedannotationaccessvar kind kind resolv type resolvedtyp type unresolv type unresolvedtyp target store thetargetisstoredher member sig
+type
+kind kind
+type containingtyp target store thetargetisstoredher
+member sig

@@ -1,0 +1,24 @@
+interv fix millisecond durat
+author stephen colebourn
+repres differ start end point term field
+readabl interv readableinterv
+author brian neill o'neil
+interv convert link readabl period readableperiod
+author sean geoghegan
+readabl interv time instant
+interv inclus start instant exclus end
+period period toperiod
+result interv compar
+durat repres separ link readabl durat readabledur
+method pass interv paramet treat code code
+compar length interv compar durat
+length interv current instant time
+time interv repres period time instant
+convert durat interv period
+year dai
+time period deriv interv
+differ start end instant
+end instant greater equal start instant
+org joda time
+method exract field valu describ
+standard period type

@@ -1,0 +1,15 @@
+pre
+instant
+precis datetim field precis unit durat field
+round floor roundfloor instant
+round floor roundfloor instant align milli align milli
+org joda time field
+method assum field properli round
+subclass
+t00 01t00 round align differ overrid
+precis durat date time field precisedurationdatetimefield base date time field basedatetimefield
+instant instant unit milli iunitmilli
+author brian neill o'neil
+precis durat date time field precisedurationdatetimefield thread safe immut
+instant instant unit milli iunitmilli unit milli iunitmilli
+method

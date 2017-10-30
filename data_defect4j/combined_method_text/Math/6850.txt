@@ -1,0 +1,30 @@
+overrid
+dot0 bdot0 theta theta theta
+org apach common math od nonstiff
+interpol state interpolatedst
+inherit doc inheritdoc
+interpol deriv interpolatedderiv
+higham hall54 step interpol highamhall54stepinterpol
+dot5 bdot5 theta theta
+higham hall54 integr highamhall54integr
+od integr higham hall integr
+dot5 ydot5 dot ydotk
+interpol state interpolatedst length
+deriv except derivativeexcept
+dot2 ydot2 dot ydotk
+current state currentst dot0 ydot0 dot2 ydot2 dot3 ydot3 dot4 ydot4 dot5 ydot5
+version
+version revis date
+dot3 bdot3 theta theta theta
+dot0 ydot0 dot ydotk
+theta2 theta theta
+dot4 ydot4 dot ydotk
+dot4 bdot4 theta theta theta
+comput interpol state deriv computeinterpolatedstateandderiv theta
+minu theta oneminusthetah
+dot3 ydot3 dot ydotk
+dot0 bdot0 dot0 ydot0 dot2 bdot2 dot2 ydot2 dot3 bdot3 dot3 ydot3 dot4 bdot4 dot4 ydot4 dot5 bdot5 dot5 ydot5
+theta2 theta
+repres interpol step
+theta theta theta theta
+dot2 bdot2 theta theta theta

@@ -1,0 +1,6 @@
+org aspectj weaver
+constructor type munger newconstructortypemung resolv type munger resolvedtypemung
+resolv member resolvedmemb match synthet member getmatchingsyntheticmemb member member resolv type resolvedtyp aspect type aspecttyp
+resolv member resolvedmemb ret synthet constructor getsyntheticconstructor
+resolv type resolvedtyp match ret member signatur getsignatur
+match synthet member getmatchingsyntheticmemb member aspect type aspecttyp

@@ -1,0 +1,9 @@
+org apach common math filter
+real matrix realmatrix initi error covari getinitialerrorcovari
+initi error covari matrix
+return initi error covari matrix
+version
+error covari process nois matrix
+defin process dynam model link kalman filter kalmanfilt
+process model processmodel
+note kalman filter initi

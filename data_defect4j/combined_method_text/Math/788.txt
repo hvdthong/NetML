@@ -1,0 +1,54 @@
+spline ysplinex interpol spinterpol interpol xval
+inherit doc inheritdoc
+xval length yval length fval length
+xval length
+dfdy len xlen len ylen
+line len ylen construct spline
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept data
+respect variabl gener arrai
+creat interpol spline
+xval xval yval yval
+gener bicub interpol function
+dfdx xval
+math except mathexcept illeg argument except illegalargumentexcept
+polynomi spline function polynomialsplinefunct spline ysplinex polynomi spline function polynomialsplinefunct len ylen
+line len xlen construct spline
+index nextindex len xlen
+dfdx dfdy d2fdxdy
+fval
+xval yval
+len ylen
+respect variabl
+version revis date
+dfdx len xlen len ylen
+len xlen
+dfdy yval
+d2fdxdy fval fval
+spline xsplinei interpol spinterpol interpol yval fval
+index nextindex len ylen
+cross partial deriv
+univari real function univariaterealfunct spline xsplinei deriv
+yval
+polynomi spline function polynomialsplinefunct spline xsplinei polynomi spline function polynomialsplinefunct len xlen
+len ylen len xlen
+math util mathutil check order checkord yval
+dimens mismatch except dimensionmismatchexcept xval length fval length
+d2fdxdy len xlen len ylen
+fval length len ylen
+org apach common math analysi interpol
+univari real function univariaterealfunct spline ysplinex deriv
+dimens mismatch except dimensionmismatchexcept fval length len ylen
+fval fval
+partial deriv respect grid knot
+bicub spline interpol bicubicsplineinterpol
+previou index previousindex
+bicub spline interpol function bicubicsplineinterpolatingfunct interpol xval
+len xlen xval length
+bicub spline interpol function bicubicsplineinterpolatingfunct xval yval fval
+len ylen yval length
+yval length
+xval length fval length
+data except nodataexcept
+spline interpol splineinterpol interpol spinterpol spline interpol splineinterpol
+math util mathutil check order checkord xval
+sampl index coordin subarrai variabl

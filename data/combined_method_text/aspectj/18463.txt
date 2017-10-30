@@ -1,0 +1,8 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb ajc pre clinit method ajcpreclinitmethod unresolv type unresolvedtyp declar type declaringtyp
+resolv member impl resolvedmemberimpl
+member method
+declar type declaringtyp
+privat static privat static
+mangler namemangl ajc pre clinit ajc pre clinit

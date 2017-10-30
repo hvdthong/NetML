@@ -1,0 +1,57 @@
+work
+osni marqu lbnl nersc usa
+nm1
+dip1
+author jim demmel univers california berkelei usa fortran version
+nm1 lambda
+author christof voemel univers california berkelei usa fortran version
+nm1 length
+dlasq2 dlazq3 dlazq4 dlasq5 dlasq6
+christof voemel univers california berkelei usa
+link getv link getvt link invers getinvers link solv
+comput real real eigenvalu realeigenvalu impli matrix return
+dip1 min pivot minpivot
+link getd diagon imaginari valu return link
+href http www utexa user inderjit paper thesi pdf
+param diagon element
+decompos matrix ldl lambda
+algorithm symmetr tridiagon eigenvalu eigenvector
+work sixi dip1
+org apach common math linear
+progress quotient differ shift progressivequotientdifferencewithshift
+nm1 sixi sixi
+support strong symmetr strong matric
+imag eigenvalu getimageigenvalu link imag eigenvalu getimageigenvalu
+method call
+inderjit dhillon univers texa austin usa
+version revis date
+math ab dip1 min pivot minpivot
+eigen decomposit impl eigendecompositionimpl eigen decomposit eigendecomposit
+href http www netlib org lapack lawnspdf lawn155 pdf implement
+param lambda shift appli
+matric
+sixi nm1
+author origin fortran version
+eigen decomposit matrix set matric
+calcul eigen decomposit strong symmetr strong matrix
+work sixi
+dqd algorithm posit case lapack routin dlarr
+pivot slower safer version dqd
+sixi
+author beresford parlett univers california berkelei usa fortran version
+method correspond algorithm dqd dhillon' thesi
+comput requir link eigenvector geteigenvector
+problem beresford parlett osni marqu paper
+jim demmel univers california berkelei usa
+author osni marqu lbnl nersc usa fortran version
+link solv real matrix realmatrix link solv real vector realvector link solv real vector impl realvectorimpl
+doubl isnan
+call link real matrix realmatrix argument implement
+link getv link getvt link solver getsolv method call
+eigenvalu comput matrix decompos eigenvector
+author inderjit dhillon univers texa austin usa fortran version
+upper part matrix part diagon access
+time
+beresford parlett univers california berkelei usa
+implement base inderjit singh dhillon thesi
+lambda

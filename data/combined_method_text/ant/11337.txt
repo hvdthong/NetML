@@ -1,0 +1,11 @@
+org apach tool ant type resourc
+decor resourc mapper
+dynam remap resourc
+strip fileprovid interfac decor resourc
+circumv map
+ant
+map resourc mappedresourc resourc decor resourcedecor
+string string tostr
+refer isrefer
+check ref getcheckedref string tostr
+getnam

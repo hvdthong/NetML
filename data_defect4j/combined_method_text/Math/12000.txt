@@ -1,0 +1,11 @@
+org apach common math3 fraction
+param local specif local format
+big fraction format bigfractionformat abstract format abstractformat serializ
+number format number numer
+proper big fraction format properbigfractionformat default number format getdefaultnumberformat local
+big fraction format bigfractionformat proper instanc getproperinst local local
+version
+complex format specif local
+denomin configur
+format big fraction bigfract number proper format improp format
+return complex format local

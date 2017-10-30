@@ -1,0 +1,30 @@
+org aspectj bridg
+handler accumul messag
+control messag accumul
+client ignor messag kind
+instal listen interceptor
+interceptor handl messag null
+halt process accuml return true
+client obtain messag accumul method
+xxx permit messag remov
+messag handler messagehandl messag holder imessagehold
+messag specif kind
+pass null kind
+param kind imessag kind expect null messag
+return imessag messag kind
+messag imessag messag getmessag messag imessag kind kind greater orgreat
+kind
+messag imessag messag arrai toarrai messag imessag messag imessag
+arrai list arraylist result arrai list arraylist
+greater orgreat
+iter iter messag iter iter hasnext
+messag imessag messag imessag iter
+kind kind getkind
+result add
+iter iter messag iter iter hasnext
+messag imessag messag imessag iter
+kind issameorlessthan kind getkind
+result add
+result size
+messag imessag messag imessag
+messag imessag result arrai toarrai messag imessag messag imessag

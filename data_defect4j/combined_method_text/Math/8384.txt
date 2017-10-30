@@ -1,0 +1,17 @@
+return href http wikibook org wiki statist summari varianc
+stat util statutil method comput statist base data
+version
+popul varianc populationvari valu
+detail formula comput algorithm
+param valu input arrai
+popul varianc entri input arrai
+throw code illeg argument except illegalargumentexcept code arrai
+stat util statutil
+store arrai
+org apach common math stat
+varianc evalu valu
+link org apach common math stat descript moment varianc
+code doubl nan code arrai empti
+illeg argument except illegalargumentexcept arrai
+return singl length sampl
+popul varianc valu doubl nan arrai empti

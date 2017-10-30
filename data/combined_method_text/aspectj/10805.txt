@@ -1,0 +1,7 @@
+org aspectj ajd swing
+simpl structur view tool panel simplestructureviewtoolpanel panel jpanel
+element updat elementsupd hierarchi ihierarchi model
+string path ajd default getdefault build config manag getbuildconfigmanag activ config file getactiveconfigfil
+string file filenam activ config
+path file filenam file path getnam
+updat curr config label updatecurrconfiglabel file filenam

@@ -1,0 +1,3 @@
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/FieldSignatureImpl_getField_Field
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/ConstructorSignatureImpl_getConstructor_Constructor
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/InitializerSignatureImpl_getInitializer_Constructor

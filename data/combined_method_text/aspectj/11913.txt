@@ -1,0 +1,25 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+chang list path oldpath list path newpath check class file checkclassfil list output loc outputloc
+path oldpath path oldpath arrai list arraylist
+path newpath path newpath arrai list arraylist
+path oldpath size path newpath size
+path oldpath size
+path oldpath equal path newpath
+object path oldpath object oldpath string classpath file path
+file
+string
+file string
+file
+exist directori isdirectori modifi lastmodifi success build time lastsuccessfulbuildtim
+exist directori isdirectori check class file checkclassfil
+found match foundmatch
+iter iter output loc outputloc iter iter
+hasnext
+file dir file iter
+equal dir
+found match foundmatch
+found match foundmatch
+class file chang dir build classfilechangedindirsincelastbuild
+state listen statelisten state listen statelisten detect class chang dir detectedclasschangeinthisdir

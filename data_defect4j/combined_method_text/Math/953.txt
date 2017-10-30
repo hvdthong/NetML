@@ -1,0 +1,13 @@
+abstract differenti univari solver abstractdifferentiableunivariatesolv
+param function accuraci functionvalueaccuraci maximum function error
+function accuraci functionvalueaccuraci
+version
+solver
+param rel accuraci relativeaccuraci maximum rel error
+construct solver accuraci
+abstract differenti univari solver abstractdifferentiableunivariatesolv rel accuraci relativeaccuraci
+provid implement function gener
+absolut accuraci absoluteaccuraci
+param absolut accuraci absoluteaccuraci maximum absolut error
+org apach common math analysi solver
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci function accuraci functionvalueaccuraci

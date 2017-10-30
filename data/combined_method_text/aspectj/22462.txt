@@ -1,0 +1,26 @@
+org aspectj weaver pattern
+pattern parser patternpars
+type pattern typepattern pars singl type pattern parsesingletypepattern insid type paramet insidetypeparamet
+insid type paramet insidetypeparamet eat maybeeat pars gener wildcard type pattern parsegenericswildcardtypepattern
+type pattern allowhastypepattern
+eat identifi maybeeatidentifi hasmethod pars method type pattern parsehasmethodtypepattern
+eat identifi maybeeatidentifi hasfield pars field type pattern parsehasfieldtypepattern
+list name pars dot pattern parsedottednamepattern
+dim
+eat maybeeat
+eat
+dim
+type pattern list typepatternlist type paramet typeparamet pars type paramet list maybeparsetypeparameterlist
+end po endpo token sourc tokensourc peek end getend
+var arg isvararg eat maybeeat
+includ subtyp includesubtyp eat maybeeat
+sourc locat any'
+name size pattern namepattern name isani
+dim var arg isvararg type paramet typeparamet type pattern typepattern
+notic increas dimens vararg set type match
+succe actual signatur runtim method declar vararg arrai type
+origin declar type integ integ bytecod
+pattern 'integ creat wildtypepattern 'integ vararg set match
+shadow match confirm vararg flag match call success
+match
+wild type pattern wildtypepattern name includ subtyp includesubtyp dim var arg isvararg end po endpo var arg isvararg type paramet typeparamet

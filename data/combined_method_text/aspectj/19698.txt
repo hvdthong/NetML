@@ -1,0 +1,24 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+determin variabl type assign valu
+lot
+java lang object convert type
+primit type convert iff assign
+refer type convert iff coerceabl
+word isconvertablefrom iff compil think
+assign variabl type loss precis
+param type
+param world link world assign check
+return true iff variabl type assign valu convers
+convert isconvertablefrom resolv type resolvedtyp
+version typex
+equal object return true
+isprimitivetyp isprimitivetyp return isassignablefrom
+return iscoerceablefrom
+version resolvedtypex
+equal object
+world java5 mode isinjava5mod
+primit type isprimitivetyp primit type isprimitivetyp isprimitivetyp isprimitivetyp primit isnt
+valid box validbox signatur getsignatur signatur getsignatur
+primit type isprimitivetyp primit type isprimitivetyp assign isassignablefrom
+coerceabl iscoerceablefrom

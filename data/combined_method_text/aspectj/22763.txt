@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+target annot pointcut thisortargetannotationpointcut bind pointcut namebindingpointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+match couldmatch shadow fuzzi boolean fuzzyboolean
+resolv type resolvedtyp match tomatchagainst
+isthi shadow type getthistyp shadow target type gettargettyp resolv shadow world getiworld
+annot type pattern annotationtypepattern resolv shadow world getiworld
+annot type pattern annotationtypepattern match runtim type matchesruntimetyp match tomatchagainst true alwaystru
+fuzzi boolean fuzzyboolean
+subtyp match runtim
+fuzzi boolean fuzzyboolean

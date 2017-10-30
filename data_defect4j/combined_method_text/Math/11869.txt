@@ -1,0 +1,49 @@
+model model function jacobian getmodelfunctionjacobian
+weight observ point weightedobservedpoint point observ
+fitter parametr univari real function
+find paramet
+org apach common math3 fit
+optimum point ref getpointref
+initi guess initialguess initi guess initialguess
+initi guess initialguess
+deprec link abstract curv fitter abstractcurvefitt
+link weight observ point weightedobservedpoint
+curv fitter curvefitt parametr univari function parametricunivariatefunct
+univari real function depend
+number allow evalu exceed
+method comput coeffici curv
+param max eval maxev maximum number function evalu
+model model function getmodelfunct
+fit
+point vector pair pointvectorvaluepair optimum
+target target
+weight weight
+find paramet valu minim object
+squar problem
+fit curv
+fit max eval maxev
+param function fit
+weight point weight getweight
+fit paramet
+input optim model jacobian
+observ point
+target observ size
+theoret valu function theoreticalvaluesfunct model theoret valu function theoreticalvaluesfunct
+optim optim max eval maxev max eval maxev
+function sum
+fit curv remain close set
+weight observ size
+extract coeffici
+start point dimens wrong
+add observ point addobservedpoint method
+org apach common math3 except evalu except toomanyevaluationsexcept
+param initi guess initialguess guess function paramet
+link add observ point addobservedpoint weight observ point weightedobservedpoint
+fit sampl observ point previous call
+perform fit
+unknown paramet
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+version curv fitter curvefitt java 14z
+target point geti
+param parametr function fit
+prepar squar problem

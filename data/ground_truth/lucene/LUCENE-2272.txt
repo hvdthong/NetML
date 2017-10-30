@@ -1,0 +1,5 @@
+src/java/org/apache/lucene/search/payloads/AveragePayloadFunction_docScore-int-String-int-float_float
+src/java/org/apache/lucene/search/payloads/MinPayloadFunction_currentScore-int-String-int-int-int-float-float_float
+src/java/org/apache/lucene/search/payloads/PayloadNearQuery_clone_Object
+src/java/org/apache/lucene/search/payloads/PayloadNearQuery$PayloadNearSpanScorer_explain-int_Explanation
+src/java/org/apache/lucene/search/payloads/PayloadNearQuery$PayloadNearSpanScorer_setFreqCurrentDoc_boolean

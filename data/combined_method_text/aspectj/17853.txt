@@ -1,0 +1,21 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+sourc complianc level
+set explicitli eclips default hold
+param input string sourc input
+set sourc setsourc string input
+string ignor cmd add option addopt sourc sourc input sourc input input
+ignor
+ignor ignor

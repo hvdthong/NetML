@@ -1,0 +1,39 @@
+pre
+org apach common math optim fit
+min mini doubl posit infin
+paramet fitter fit
+rang except outofrangeexcept code
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+rang except outofrangeexcept min mini max maxi
+param determin
+rang except outofrangeexcept
+fit point link
+arrai point suitabl determin
+except zeroexcept
+bound interpol point point
+version
+version revis date
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+param point point interpol
+gaussian fitter gaussianfitt curv fitter curvefitt
+interpol bound point
+usag
+weight observ point weightedobservedpoint point idx step idxstep point
+except zeroexcept code idx step idxstep
+param idx step idxstep index step search interpol bound point
+param start idx startidx index point start search
+min mini math min min mini point geti
+idx step idxstep
+org apach common math analysi function gaussian parametr gaussian function
+suitabl determin
+max maxi math max max maxi point geti
+isbetween point geti point idx step idxstep geti
+weight observ point weightedobservedpoint point point
+rang code point
+weight observ point weightedobservedpoint point point idx step idxstep
+start idx startidx idx step idxstep
+weight observ point weightedobservedpoint interpol point getinterpolationpointsfori weight observ point weightedobservedpoint point
+idx step idxstep idx step idxstep idx step idxstep point length
+start idx startidx
+max maxi doubl neg infin

@@ -1,0 +1,247 @@
+varcount varcount
+oper
+code code code code code code code code code code code code code code code code
+variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc variableobjectloc
+skip skip
+move
+rest
+popv popv
+arraylist
+localsmax localsmax localsmax
+firstundefvar firstundefvar firstundefvar firstundefvar
+dynam dynam dynam
+paramet paramet paramet paramet paramet paramet
+isgener isgener
+undef undef undef undef
+const const const const const
+acquir acquir acquir acquir acquir
+addlinenumberentri
+activ activ activ activ activ
+param param param param param param param param
+bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod
+generatenestedfunctioninit
+add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add add
+calls1
+lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg lorg
+save save
+local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local local
+arrai arrai arrai arrai arrai arrai arrai
+getnewwordloc getnewwordloc getnewwordloc getnewwordloc getnewwordloc getnewwordloc
+opt opt opt opt opt
+info info info info
+global
+addinvok addinvok
+generatorst generatorst generatorst generatorst generatorst generatorst
+fals
+void
+getignoredynamicscop
+linenum linenum linenum
+arraylength
+compilerenv compilerenv compilerenv compilerenv
+marklabel marklabel marklabel
+adddstor
+requir
+calls0
+optim
+specif
+list
+method method method method
+remind
+token
+getnewwordpairloc
+debug debug debug debug debug debug debug debug debug
+refer refer
+itscontainscalls1
+getparamandvarcount
+compil compil compil compil
+parmcount parmcount parmcount parmcount
+set
+getregexpcount
+invokestat
+direct direct direct direct direct direct direct direct
+dead
+isusedynamicscop
+aaload
+expect
+arg arg arg arg arg arg arg arg arg arg arg arg arg
+reserv reserv reserv reserv reserv reserv
+variabl variabl variabl variabl variabl variabl variabl variabl variabl variabl variabl variabl variabl variabl
+descriptor descriptor
+addistor
+load load load load load load load load load load load load load load load load load load load
+label label label label label label label label label label label label label label label label label label label
+current current current current current current current current current current current current current current current current current current
+enteractivationfunct
+state state state state state state
+lineno
+getparamcount getparamcount getparamcount
+indirectcallfunct indirectcallfunct indirectcallfunct indirectcallfunct
+getstat getstat
+size
+directparametercount directparametercount directparametercount
+mainclassnam
+signatur signatur
+constdeclar constdeclar constdeclar constdeclar
+initscript
+gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener gener
+javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript
+free free free free free free free free free
+bodi bodi
+pushundefin pushundefin
+paramcount paramcount
+offset offset offset
+org org org
+byte byte byte byte byte byte byte byte byte byte byte byte
+generatecheckforthroworclos
+throw
+fnode fnode fnode fnode fnode
+isgeneratedebuginfo isgeneratedebuginfo
+epiloguelabel epiloguelabel epiloguelabel
+varregist varregist varregist varregist
+thisobjloc thisobjloc thisobjloc
+getparentscop
+script script script script script script script script script script script script script script script
+addvariabledescriptor addvariabledescriptor
+codegen codegen codegen codegen codegen codegen codegen
+invokeinterfac
+context context context context context context context
+prologu prologu
+epilogu epilogu epilogu
+assign
+itsoneargarrai itsoneargarrai
+comment
+reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg
+checkcast
+getcurrentcodeoffset getcurrentcodeoffset
+point point point
+instanti
+pushregexparrai
+addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok addscriptruntimeinvok
+generatorswitch
+number number number number number
+dispatch
+resumpt resumpt resumpt
+generateprologu
+regexp regexp regexp regexp regexp regexp
+wrap
+addpush addpush addpush addpush addpush addpush addpush addpush
+contextloc contextloc contextloc
+argsloc argsloc argsloc argsloc argsloc argsloc
+functioninit
+java java
+area area
+emptyarg
+doubl doubl
+regist regist regist regist
+fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent fncurrent
+mark mark mark
+start start start start start start start start
+call call call call call call
+createfunctionactiv
+var var var var var var var var var var var var var var var var var var
+scope scope scope scope
+itszeroargarrai itszeroargarrai
+store store store store store store store store store store store store store store
+function function function function function function function function function function
+ljava ljava ljava ljava ljava ljava
+thisobj thisobj thisobj thisobj
+isgenerateobservercount
+forc
+parm parm parm parm parm parm
+mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla mozilla
+line
+acmpn acmpn
+isobjectlabel isobjectlabel isobjectlabel
+dup
+scriptorfn scriptorfn scriptorfn scriptorfn scriptorfn scriptorfn
+enclos
+push push push push push push push push push push
+obj obj obj obj obj obj obj obj
+scriptruntim
+bug
+nativefunct nativefunct
+operationloc
+count count count count count count count count count count count count count count count count count
+init init init init init
+word word word word word word word
+target target target
+debugvariablenam debugvariablenam debugvariablenam debugvariablenam
+dataflow
+type type type type type
+prelud
+record
+invok invok invok invok invok invok
+adddoublewrap
+case
+fun fun fun
+parentscop
+initi
+observ
+generategetgeneratorresumptionpoint
+creat creat creat creat
+getfield
+scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl scriptabl
+addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload addaload
+tabl tabl tabl
+argument argument
+anewarrai
+firstfreeloc firstfreeloc firstfreeloc firstfreeloc firstfreeloc firstfreeloc firstfreeloc firstfreeloc firstfreeloc
+liter
+bodycodegen
+cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw cfw
+close
+acquirelabel acquirelabel acquirelabel acquirelabel acquirelabel
+hasvarsinreg
+check check
+addastor addastor addastor addastor addastor addastor addastor addastor addastor addastor addastor addastor
+string string string
+startpc startpc
+end
+generategener
+perform
+generatorstateloc generatorstateloc generatorstateloc
+make
+length
+default
+popvloc popvloc
+pad pad
+addtableswitch
+env env env env
+main
+optruntim optruntim optruntim optruntim
+scriptregexploc scriptregexploc
+itsforcedobjectparamet
+isnumbervar isnumbervar isnumbervar
+icmpg icmpg
+node node
+enterareastartlabel enterareastartlabel
+thi thi
+getparameternumbercontext
+functionnod
+max max max
+nest
+object object object object object object object object object object object object object object object object object object object object object object object object object
+kit
+codebug
+getparamandvarconst
+getparamorvarnam
+eval
+pair
+adddload
+class class class class class class
+lang lang lang lang lang lang lang lang
+prove
+padargu
+getresumptionpoint
+entri entri
+funobjloc funobjloc funobjloc
+getendlineno
+switch switch
+declar declar declar declar
+ignor
+runtim runtim runtim runtim runtim runtim runtim runtim
+exp
+enter enter
+undefin undefin
+savecurrentcodeoffset
+itscontainscalls0

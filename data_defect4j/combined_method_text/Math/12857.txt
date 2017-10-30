@@ -1,0 +1,34 @@
+recurs build tree insert cut hyperplan
+insert iter hasnext
+param node current tree node leaf node begin
+param boundari collect edg belong cell defin
+iter hyperplan subhyperplan iter boundari iter
+insert cut insertcut bsp tree bsptree node collect hyperplan subhyperplan boundari
+insert cut insertcut node minu getminu minu list minuslist
+build current level
+distribut remain edg tree
+minu
+org apach common math3 geometri partit
+arrai list arraylist hyperplan subhyperplan list pluslist arrai list arraylist hyperplan subhyperplan
+iter hasnext
+param type space
+minu list minuslist add
+version
+call
+insert cut insertcut node getplu list pluslist
+node
+list pluslist add
+abstract region abstractregion space space region
+ignor hyperplan belong cut hyperplan
+arrai list arraylist hyperplan subhyperplan minu list minuslist arrai list arraylist hyperplan subhyperplan
+node insert cut insertcut insert copi copyself
+list pluslist add split getplu
+recurs lower level
+hyperplan subhyperplan iter
+abstract region independ geometri type dimens
+insert
+side insert
+hyperplan subhyperplan split hyperplan splitsubhyperplan split split insert
+minu list minuslist add split minu getminu
+insert iter hyperplan gethyperplan
+hyperplan insert

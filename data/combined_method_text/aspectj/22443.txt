@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pattern parser patternpars
+string pars identifi parseidentifi
+token itoken token token sourc tokensourc
+token identifi isidentifi token string getstr
+parser except parserexcept identifi token

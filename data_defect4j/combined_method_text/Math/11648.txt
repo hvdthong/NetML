@@ -1,0 +1,27 @@
+upper
+org apach common math3 distribut
+deprec
+deprec invers cdf calcul analyt
+lower lower
+lower upper
+rng lower upper
+uniform real distribut uniformrealdistribut random gener randomgener rng
+version
+number larg except numberistoolargeexcept code lower upper
+uniform real distribut uniformrealdistribut abstract real distribut abstractrealdistribut
+local format localizedformat lower bound upper bound
+uniform distribut continu wikipedia
+href http wikipedia org wiki uniform distribut continu
+rng
+lower
+creat uniform distribut
+param lower lower bound distribut inclus
+upper upper
+param rng random number gener
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+invers cum accuraci inversecumaccuraci
+param invers cum accuraci inversecumaccuraci invers cumul probabl accuraci
+implement uniform real distribut
+param upper upper bound distribut exclus
+number larg except numberistoolargeexcept
+link uniform real distribut uniformrealdistribut random gener randomgener

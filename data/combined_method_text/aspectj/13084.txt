@@ -1,0 +1,26 @@
+org aspectj apach bcel gener
+super class famili arithmet instruct
+version arithmeticinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+arithmet instruct arithmeticinstruct instruct
+return type instruct
+type type gettyp constant pool gen constantpoolgen
+opcod
+constant dadd constant ddiv constant dmul
+constant dneg constant drem constant dsub
+type doubl
+constant fadd constant fdiv constant fmul
+constant fneg constant frem constant fsub
+type float
+constant iadd constant iand constant idiv
+constant imul constant ineg constant ior constant irem
+constant ishl constant ishr constant isub
+constant iushr constant ixor
+type int
+constant ladd constant land constant ldiv
+constant lmul constant lneg constant lor constant lrem
+constant lshl constant lshr constant lsub
+constant lushr constant lxor
+type long
+default reach
+class gen except classgenexcept unknown type opcod

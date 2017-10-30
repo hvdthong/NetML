@@ -1,0 +1,30 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+remov whitespac comment express
+trim white space comment trimwhitespacesandcom org aspectj org eclips jdt intern compil ast express express
+start express sourc start sourcestart
+end express sourc end sourceend
+token
+trim left posit trimleftposit express sourc start sourcestart
+trim posit trimrightposit express sourc end sourceend
+scanner remov blank scanner removeblankscann ast scanner
+remov blank scanner removeblankscann set sourc setsourc compil unit sourc compilationunitsourc
+remov blank scanner removeblankscann reset resetto start end
+token remov blank scanner removeblankscann token getnexttoken
+token
+termin token terminaltoken token comment javadoc tokennamecom javadoc
+termin token terminaltoken token comment line tokennamecom line
+termin token terminaltoken token comment block tokennamecom block
+trim left posit trimleftposit remov blank scanner removeblankscann current posit currentposit
+termin token terminaltoken token whitespac tokennamewhitespac
+trim left posit trimleftposit remov blank scanner removeblankscann current posit currentposit
+termin token terminaltoken token eof tokennameeof
+express sourc start sourcestart trim left posit trimleftposit
+express sourc end sourceend trim posit trimrightposit
+find whitespac comment
+reset trimrigthposit express
+sourc end
+trim posit trimrightposit remov blank scanner removeblankscann current posit currentposit
+invalid input except invalidinputexcept
+ignor

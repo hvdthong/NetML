@@ -1,0 +1,16 @@
+org aspectj apach bcel gener
+iinc increment local variabl constant
+version iinc java acoly exp
+author href mailto marku dahm berlin dahm
+iinc local variabl instruct localvariableinstruct
+dump instruct byte code stream
+param output stream
+dump data output stream dataoutputstream except ioexcept
+wide wide wide prefix
+write byte writebyt org aspectj apach bcel constant wide
+write byte writebyt opcod
+wide
+write short writeshort
+write short writeshort
+write byte writebyt
+write byte writebyt

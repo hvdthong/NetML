@@ -1,0 +1,33 @@
+org aspectj weaver tool
+abstract trace abstracttrac trace
+format object safe avoid tostr recurs
+nullpointerexcept highli verbos result
+param obj paramet format
+return format paramet
+object format obj formatobj object obj
+class safe implement tostr
+obj
+obj string
+obj number
+obj boolean
+obj except
+obj charact
+obj class
+obj file
+obj string buffer stringbuff
+obj url
+obj kind
+obj
+obj class getclass arrai isarrai
+format arrai formatarrai obj
+obj collect
+format collect formatcollect collect obj
+class provid altern implement tostr
+obj traceabl
+traceabl traceabl obj
+trace string totracestr
+classnam hashcod
+obj class getclass getnam integ hex string tohexstr system ident hash code identityhashcod obj
+object hashcod overrid thow except
+except
+obj class getclass getnam ffffffff

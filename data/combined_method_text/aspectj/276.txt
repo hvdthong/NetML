@@ -1,0 +1,30 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+check user java complianc sourc
+target level error thrown
+check ask java6 complianc checknotaskedforjava6compli
+bug throw imessag errror imessag abort
+mean continu compil code mean
+user error annot
+error requir complianc
+throw imessag abort prevent 'abort'
+compil except
+map java option javaopt compil compil configur getcompilerconfigur java option map getjavaoptionsmap
+java option javaopt
+string version string java option javaopt compil option compileropt option complianc option complianc
+string sourc version sourcevers string java option javaopt compil option compileropt option sourc option sourc
+string target version targetvers string java option javaopt compil option compileropt option target platform option targetplatform
+version version equal java option javaopt version
+string msg java complianc level unsupport
+messag imessag messag msg messag imessag error
+compil messag handler getmessagehandl handl messag handlemessag
+sourc version sourcevers sourc version sourcevers equal java option javaopt version
+string msg java sourc level unsupport
+messag imessag messag msg messag imessag error
+compil messag handler getmessagehandl handl messag handlemessag
+target version targetvers target version targetvers equal java option javaopt version
+string msg java target level unsupport
+messag imessag messag msg messag imessag error
+compil messag handler getmessagehandl handl messag handlemessag

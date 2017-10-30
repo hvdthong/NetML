@@ -1,0 +1,11 @@
+org aspectj bridg
+repres sourc locat start line column end
+line sourc file
+implement immut xxx
+org aspectj lang reflect sourceloc
+org aspectj compil base parser sourceinfo
+org aspectj tool id sourcelin
+org aspectj test har errorlin
+sourc locat isourceloc
+return string applic specif context sourc
+string context getcontext

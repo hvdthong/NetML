@@ -1,0 +1,9 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+equal object
+member
+member member
+kind getkind kind getkind
+getnam equal getnam
+signatur getsignatur equal signatur getsignatur
+declar type getdeclaringtyp equal declar type getdeclaringtyp

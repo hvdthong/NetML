@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+refer pointcut referencepointcut pointcut
+equal object
+refer pointcut referencepointcut
+refer pointcut referencepointcut refer pointcut referencepointcut
+equal argument equal argument
+type ontyp type ontyp type ontyp equal type ontyp

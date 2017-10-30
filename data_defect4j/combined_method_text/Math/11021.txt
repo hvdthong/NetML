@@ -1,0 +1,11 @@
+overrid
+org apach common math3 dfp
+give outward appear decim number digit
+inherit doc inheritdoc
+dfp dec dfpdec field getfield
+decim digit subclass arbitrari number
+dfp dec dfpdec dfp
+version
+decim digit digit
+subclass link dfp hide radix artifact superclass
+dfp instanc newinst string

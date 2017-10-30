@@ -1,0 +1,88 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+weav
+clazz woven iswoven clazz reweav isreweav
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag woven woven clazz type gettyp getnam
+sourc locat getsourceloc
+set aspect affect type aspectsaffectingtyp
+reweav mode inreweavablemod clazz type gettyp aspect isaspect aspect affect type aspectsaffectingtyp hash set hashset
+chang ischang
+touch aspect
+clazz type gettyp aspect isaspect chang ischang
+start mung typemung
+iter type munger typemung iter hasnext
+object
+bcel type munger bceltypemung
+system err println surpris
+bcel type munger bceltypemung munger bcel type munger bceltypemung
+type munger affect type typemungeraffectedtyp munger mung
+type munger affect type typemungeraffectedtyp
+chang ischang
+reweav mode inreweavablemod clazz type gettyp aspect isaspect aspect affect type aspectsaffectingtyp add munger aspect type getaspecttyp getnam
+weav special half type half shadow munger
+chang ischang weav declar method ctor weavedeclareatmethodctor clazz chang ischang
+chang ischang weav declar field weavedeclareatfield clazz chang ischang
+xxx major sort stuff
+sort major type hierarchi
+list domin
+forget sort addedthisinitiali domin
+ad super initi list addedsuperinitializersaslist arrai list arraylist ad super initi addedsuperiniti valu
+ad super initi list addedsuperinitializersaslist partial order partialord sort ad super initi list addedsuperinitializersaslist
+ad super initi list addedsuperinitializersaslist
+except bcexcept circular inter type
+creat static initi
+bad tast nop
+lazi method gen lazymethodgen static init staticinit clazz static initi getstaticiniti
+static init staticinit bodi getbodi insert gen init instruct geninitinstruct ad class initi addedclassiniti
+method match method
+set method' link lazymethodgen matchedshadow field
+possibl add link initializationshadow
+list method gen methodgen arrai list arraylist clazz method gen getmethodgen
+iter method gen methodgen iter hasnext
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+bodi hasbodi
+world joinpoint synchron enabl isjoinpointsynchronizationen
+world synchron pointcut aresynchronizationpointcutsinus
+method getmethod synchron issynchron
+transform synchron method transformsynchronizedmethod
+shadow munger match shadowmungermatch match
+shadow munger match shadowmungermatch
+match munger add declar aspect list affect type
+reweav mode inreweavablemod clazz type gettyp aspect isaspect aspect affect type aspectsaffectingtyp add addal find aspect munger findaspectsformung
+chang ischang
+weav initi shadow
+iter method gen methodgen iter hasnext
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+bodi hasbodi
+implement
+match initi shadow inlin weav
+initi shadow initializationshadow empti isempti
+repeat step left inlin
+infinetli compil detect report
+recurs constructor invoc
+inlin constructor inlineselfconstructor method gen methodgen
+posit implement positionandimpl initi shadow initializationshadow
+proce late type munger
+late type munger latetypemung
+iter late type munger latetypemung iter hasnext
+bcel type munger bceltypemung munger bcel type munger bceltypemung
+munger match clazz type gettyp
+type munger affect type typemungeraffectedtyp munger mung
+type munger affect type typemungeraffectedtyp
+chang ischang
+reweav mode inreweavablemod clazz type gettyp aspect isaspect aspect affect type aspectsaffectingtyp add munger aspect type getaspecttyp getnam
+fixm fix bug comment fix
+flush save memori
+perobjectinterfacetypemung unregisterfromasadvisedbi clazz gettyp
+final chang add introduc method
+chang ischang
+clazz creat weaver state info getorcreateweaverstateinfo reweav mode inreweavablemod
+weav ad method weaveinaddedmethod weaveinaddedmethod fixm asc potenti affect declar annot
+reweav mode inreweavablemod
+weaver state info weaverstateinfo wsi clazz creat weaver state info getorcreateweaverstateinfo
+wsi add aspect affect type addaspectsaffectingtyp aspect affect type aspectsaffectingtyp
+wsi set unwoven class file data setunwovenclassfiledata java class getjavaclass byte getbyt
+wsi set reweav setreweav
+clazz creat weaver state info getorcreateweaverstateinfo set reweav setreweav
+chang ischang

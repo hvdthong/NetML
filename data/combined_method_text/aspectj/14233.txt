@@ -1,0 +1,16 @@
+org aspectj apach bcel gener
+pop pop top operand stack word
+pre stack word pre
+version pop java aclement exp
+author href mailto marku dahm berlin dahm
+pop stack instruct stackinstruct pop instruct popinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack consum visitstackconsum
+visit pop instruct visitpopinstruct
+visit stack instruct visitstackinstruct
+visit pop visitpop

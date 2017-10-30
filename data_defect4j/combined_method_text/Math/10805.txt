@@ -1,0 +1,18 @@
+org apach common math3 analysi solver
+param func type function solv
+univari solver univariatesolv
+link univari solver univariatesolv link polynomi solver polynomialsolv link
+interfac univari real rootfind algorithm
+contract code equal
+base univari solver baseunivariatesolv func univari function univariatefunct
+implement search interv
+librari regular user reli specif interfac
+polynomi solver polynomialsolv
+version
+function accuraci
+return solver function code
+intend apach common math
+function accuraci getfunctionvalueaccuraci
+differenti univari solver differentiableunivariatesolv
+function accuraci configur solver
+function accuraci solver code

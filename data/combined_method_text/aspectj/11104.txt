@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener type aspect method generatepertypewithinhasaspectmethod class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil aspect method hasaspectmethod bodi gener bodygener
+gener code stream codestream code stream codestream
+except label exceptionlabel bang gonebang except label exceptionlabel code stream codestream world make type bind maketypebind unresolv type unresolvedtyp java lang except java lang except
+branch label branchlabel instanc exist noinstanceexist branch label branchlabel code stream codestream
+branch label branchlabel leav branch label branchlabel code stream codestream
+bang gonebang place start placestart
+code stream codestream aload
+code stream codestream invokestat world make method bind makemethodbind ajc member maker ajcmembermak type instanc pertypewithingetinst type typex
+code stream codestream ifnul instanc exist noinstanceexist
+code stream codestream iconst
+code stream codestream goto leav
+instanc exist noinstanceexist place
+code stream codestream iconst
+leav place
+bang gonebang place end placeend
+code stream codestream ireturn
+bang gonebang place
+code stream codestream astor
+code stream codestream iconst
+code stream codestream ireturn

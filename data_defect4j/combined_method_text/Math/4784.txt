@@ -1,0 +1,10 @@
+oper
+creat instanc
+param cond estim condit number offend linear
+ill condit oper except illconditionedoperatorexcept
+org apach common math linear
+link real linear oper reallinearoper high
+ill condit oper except illconditionedoperatorexcept cond
+except thrown condit number
+version
+local format localizedformat ill condit oper cond

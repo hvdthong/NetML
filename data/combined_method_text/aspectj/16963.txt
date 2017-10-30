@@ -1,0 +1,15 @@
+org aspectj org eclips jdt core dom
+aroundadvicedeclar dom ast node
+advicedeclar
+return type return type mark2
+inherit properti descriptor advicedeclar
+add return type
+mix descript class properti list
+redefin
+'around' prefix distinguish defin advicedeclar
+work
+author ajh02
+advic declar aroundadvicedeclar advic declar advicedeclar
+subtre match0 subtreematch0 ast matcher astmatch matcher object
+dispatch correct overload match method
+ast matcher ajastmatch matcher match

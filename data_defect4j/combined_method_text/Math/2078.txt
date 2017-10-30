@@ -1,0 +1,13 @@
+param poisson
+param max iter maxiter maximum number iter cumul probabilit
+creat poisson distribut maximum number iter
+version
+implement link poisson distribut poissondistribut
+poisson distribut impl poissondistributionimpl abstract integ distribut abstractintegerdistribut
+set setmean
+max iter maxiter max iter maxiter
+poisson distribut impl poissondistributionimpl max iter maxiter
+param max iter maxiter maximum number iter cumul probabl
+version revis date
+org apach common math distribut
+default epsilon max iter maxiter

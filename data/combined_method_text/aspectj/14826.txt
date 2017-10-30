@@ -1,0 +1,60 @@
+org aspectj apach bcel verifi
+class implement machin gener frame
+graphicalverfifi
+version verifierappfram java aclement exp
+author enver haas
+graphicalverifi
+verifi app frame verifierappfram frame jframe
+verifi
+set titl settitl wait
+verifi verifi factori verifierfactori verifi getverifi current class
+flush flush cach verif result class
+verif result verificationresult
+pass1 dopass1
+statu getstatu verif result verificationresult verifi reject verifi reject
+pass1 text pane pass1textpan set text settext messag getmessag
+pass1 text pane pass1textpan set background setbackground color red
+pass2 text pane pass2textpan set text settext
+pass2 text pane pass2textpan set background setbackground color yellow
+pass3a text pane pass3atextpan set text settext
+pass3a list pass3ajlist set list data setlistdata object
+pass3a text pane pass3atextpan set background setbackground color yellow
+pass3b text pane pass3btextpan set text settext
+pass3b list pass3bjlist set list data setlistdata object
+pass3b text pane pass3btextpan set background setbackground color yellow
+verifi pass verifi notyet
+pass1 text pane pass1textpan set background setbackground color green
+pass1 text pane pass1textpan set text settext messag getmessag
+pass2 dopass2
+statu getstatu verif result verificationresult verifi reject verifi reject
+pass2 text pane pass2textpan set text settext messag getmessag
+pass2 text pane pass2textpan set background setbackground color red
+pass3a text pane pass3atextpan set text settext
+pass3a text pane pass3atextpan set background setbackground color yellow
+pass3a list pass3ajlist set list data setlistdata object
+pass3b text pane pass3btextpan set text settext
+pass3b text pane pass3btextpan set background setbackground color yellow
+pass3b list pass3bjlist set list data setlistdata object
+verifi pass1 verifi notyet
+pass2 text pane pass2textpan set text settext messag getmessag
+pass2 text pane pass2textpan set background setbackground color green
+java class javaclass repositori lookup class lookupclass current class
+boolean all3aok true
+boolean all3bok true
+string all3amsg
+string all3bmsg
+string methodnam string method getmethod length
+method getmethod length
+methodnam method getmethod string tostr replac replac
+pass3a list pass3ajlist set list data setlistdata methodnam
+pass3a list pass3ajlist set select interv setselectioninterv method getmethod length
+pass3b list pass3bjlist set list data setlistdata methodnam
+pass3b list pass3bjlist set select interv setselectioninterv method getmethod length
+string msg messag getmessag
+messag text pane messagestextpan set background setbackground msg length color green color yellow
+string allmsg
+msg length
+msg msg replac
+allmsg msg
+messag text pane messagestextpan set text settext allmsg
+set titl settitl current class justic version justic version

@@ -1,0 +1,90 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+gener build configur input arg
+pass handler error messag
+param arg string argument build configur
+param setclasspath determin classpath pars set build configur
+param configfil null
+return ajbuildconfig arg
+invalid handler error
+build config ajbuildconfig popul build config populatebuildconfig build config ajbuildconfig build config buildconfig string arg set classpath setclasspath file config file configfil
+dump save command line savecommandlin arg
+build config buildconfig set config file setconfigfil config file configfil
+set filenam null order make file paramt
+filenam string
+ajc config parser ajcconfigpars parser ajc config parser ajcconfigpars build config buildconfig handler
+parser pars command line parsecommandlin arg
+swi build config buildconfig show weav inform getshowweavinginform
+jump firei hoop turn
+handler count messag handler countingmessagehandl
+messag handler imessagehandl deleg count messag handler countingmessagehandl handler deleg
+swi
+deleg dont ignor dontignor messag imessag weaveinfo
+deleg ignor messag imessag weaveinfo
+increment mode incrementalmod build config buildconfig increment mode isincrementalmod
+build config buildconfig increment file mode isincrementalfilemod
+list file list filelist arrai list arraylist
+list file parser file getfil
+lang util langutil empti isempti file
+increment mode incrementalmod
+messag util messageutil error handler increment mode handl sourc file sourceroot
+file list filelist add addal file
+list java arg list javaarglist arrai list arraylist
+disabl special eclips warn default
+overrid getdefaultopt
+java arg list javaarglist add warn
+line nonsens fool eclips batch compil
+search reason valu properti
+todo fix org eclips jdt intern compil batch main hack need
+java arg list javaarglist add classpath
+java arg list javaarglist add system properti getproperti user dir
+java arg list javaarglist add bootclasspath
+java arg list javaarglist add system properti getproperti user dir
+java arg list javaarglist add addal parser unpars arg getunparsedarg
+configur string java arg list javaarglist arrai toarrai string java arg list javaarglist size
+proce
+build config buildconfig proce donotproce
+build config buildconfig
+build config buildconfig sourc root getsourceroot
+iter build config buildconfig sourc root getsourceroot iter hasnext
+file list filelist add addal collect sourc root file collectsourcerootfil file
+build config buildconfig set file setfil file list filelist
+destin path destinationpath destinationpath null xxx unpars set
+build config buildconfig set output dir setoutputdir file destin path destinationpath
+set classpath setclasspath
+build config buildconfig set classpath setclasspath classpath getclasspath parser
+build config buildconfig set bootclasspath setbootclasspath bootclasspath getbootclasspath parser
+increment mode incrementalmod
+build config buildconfig sourc root getsourceroot size
+messag util messageutil error handler sourc root increment mode
+ensur overwrit injar inpath aspectpath outjar
+bug
+file outjar build config buildconfig output jar getoutputjar
+outjar
+search injar
+iter build config buildconfig jar getinjar iter hasnext
+file injar file
+injar equal outjar
+string messag weaver messag weavermessag format weaver messag weavermessag outjar input path outjar input path
+messag util messageutil error handler messag
+search inpath
+iter build config buildconfig inpath getinpath iter hasnext
+file path element inpathel file
+path element inpathel directori isdirectori path element inpathel equal outjar
+string messag weaver messag weavermessag format weaver messag weavermessag outjar input path outjar input path
+messag util messageutil error handler messag
+search aspectpath
+iter build config buildconfig aspectpath getaspectpath iter hasnext
+file path element pathel file
+path element pathel directori isdirectori path element pathel equal outjar
+string messag weaver messag weavermessag format weaver messag weavermessag outjar input path outjar input path
+messag util messageutil error handler messag
+set debug option setdebugopt
+build config buildconfig option getopt set option
+invalid input except invalidinputexcept iie
+sourc locat isourceloc locat
+build config buildconfig config file getconfigfil
+locat sourc locat sourceloc build config buildconfig config file getconfigfil
+messag imessag messag iie messag getmessag messag imessag error locat
+handler handl messag handlemessag
+build config buildconfig

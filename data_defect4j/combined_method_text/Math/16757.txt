@@ -1,0 +1,7 @@
+abstract multipl linear regress abstractmultiplelinearregress
+sampl data
+matrix xmatrix
+real matrix realmatrix getx
+version
+org apach common math3 stat regress
+abstract base implement multipl linear regress multiplelinearregress

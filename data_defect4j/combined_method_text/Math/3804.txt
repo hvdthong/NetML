@@ -1,0 +1,7 @@
+matrix squar row dimens rowdimens column dimens columndimens
+interfac defin basic matrix oper
+matrix anymatrix
+org apach common math linear
+squar matrix
+squar issquar
+version revis date

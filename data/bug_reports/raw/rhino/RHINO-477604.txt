@@ -1,0 +1,13 @@
+Array.concat causes ArrayIndexOutOfBoundException with non dense array
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.5) Gecko/2008121621 Ubuntu/8.04 (hardy) Firefox/3.0.5
+Build Identifier: 
+
+everything is in the title and in "Steps to Reproduce". I'll attach the fix as a patch.
+
+Reproducible: Always
+
+Steps to Reproduce:
+var a = ['a0', 'a1'];
+a[3] = 'a3';
+var b = ['b1', 'b2'];
+b.concat(a)";

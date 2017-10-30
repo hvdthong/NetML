@@ -1,0 +1,43 @@
+pre
+paramet guesser parameterguess observ guess
+inherit doc inheritdoc
+org apach common math3 fit
+weight observ point weightedobservedpoint ob observ
+abstract curv fitter abstractcurvefitt theoret valu function theoreticalvaluesfunct model
+overrid
+initi guess initialguess
+prepar squar problem
+ob add
+target len
+optim valu return order
+org apach common math3 analysi function gaussian parametr gaussian
+fit point link
+target ob geti
+weight observ point weightedobservedpoint ob weight observ point weightedobservedpoint
+version
+len observ size
+target withtarget target
+max iter withmaxiter max iter maxit
+function
+comput estim
+weight withweight diagon matrix diagonalmatrix weight
+observ point
+normal
+usag
+levenberg marquardt optim levenbergmarquardtoptim optim getoptim collect weight observ point weightedobservedpoint observ
+model jacobian withmodelandjacobian model model function getmodelfunct
+start point withstartpoint start point startpoint
+link start point withstartpoint initi guess valu pass
+start point startpoint initi guess initialguess
+max evalu withmaxevalu integ max
+levenberg marquardt optim levenbergmarquardtoptim creat
+gaussian curv fitter gaussiancurvefitt abstract curv fitter abstractcurvefitt levenberg marquardt optim levenbergmarquardtoptim
+paramet gaussian curv fitter gaussiancurvefitt creat fit ob
+abstract curv fitter abstractcurvefitt theoret valu function theoreticalvaluesfunct function
+weight len
+return optim set fit gaussian curv
+observ
+model model function jacobian getmodelfunctionjacobian
+weight ob weight getweight
+sigma
+order

@@ -1,0 +1,5 @@
+org aspectj weaver pattern
+bind type pattern bindingtypepattern exact type pattern exacttypepattern bind pattern bindingpattern
+string string tostr
+thread currentthread dumpstack
+bindingtypepattern string tostr formal index formalindex

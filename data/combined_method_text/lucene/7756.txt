@@ -1,0 +1,27 @@
+org apach lucen search
+fuzzifi term provid string pick differenti term
+effect mix behaviour fuzzyqueri morelikethi special consider
+fuzzi score factor
+gener produc good result queri user provid detail number
+field knowledg boolean queri syntax degre fuzzi match
+fast queri
+sourc term fuzzi variant held booleanqueri coord factor
+match multipl variant doc addition special
+termqueri variant variant term idf favour rarer
+term misspel variant idf rank sourc queri
+term factor variant boost sourc queri term exist
+index averag idf variant
+fuzzi queri fuzzylikethisqueri queri
+overrid
+similar similar getsimilar index searcher indexsearch searcher
+similar result similar getsimilar searcher
+result similar deleg similaritydeleg result
+overrid
+freq
+ignor ignoretf
+return ignor
+freq
+overrid
+idf doc freq docfreq num doc numdoc
+idf factor individu term boost
+result

@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil
+author colyer
+class weaver sourc class file weav
+iter iclassfileprovid interfac receiv result back
+weaver iweaverequestor interfac
+weaver adapt weaveradapt class file provid iclassfileprovid weav requestor iweaverequestor iter
+weaver adapt weaveradapt abstract compil adapt abstractcompileradapt compil forcompil
+weaver messag handler weavermessagehandl weaver messag handler weavermessagehandl
+progress listen iprogresslisten progress listen progresslisten
+compil adapt compileradapt compil forcompil
+weaver messag handler weavermessagehandl weaver messag handler weavermessagehandl
+progress listen progresslisten progress listen progresslisten

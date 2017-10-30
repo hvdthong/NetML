@@ -1,0 +1,29 @@
+final dofin
+version dormand prince853 step interpol dormandprince853stepinterpol java 39z luc
+final step
+equat comput deriv computederiv previou time previoustim c15 tmp ytmp dot ydotklast
+org apach common math od
+od integr dormand princ integr
+deriv except derivativeexcept
+current state currentst
+k16
+k15
+k14
+equat comput deriv computederiv previou time previoustim c14 tmp ytmp dot ydotklast
+version revis date
+perform function evalu k14 k15 k16
+k14 dot ydotk k14 dot ydotk k14 dot ydotk
+equat comput deriv computederiv previou time previoustim c16 tmp ytmp dot ydotklast
+k15 dot ydotk k15 dot ydotk k15 dot ydotk
+underli user function trigger
+final uniniti instanc
+deriv except derivativeexcept except propag caller
+k16 dot ydotk k16 dot ydotk k16 dot ydotk
+k15 dot ydotklast
+k16 dot ydotklast k16 dot ydotklast
+current state currentst length
+tmp ytmp current state currentst length
+dormand prince853 step interpol dormandprince853stepinterpol
+tmp ytmp current state currentst
+dormand prince853 integr dormandprince853integr
+repres interpol step

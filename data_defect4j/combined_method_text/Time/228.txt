@@ -1,0 +1,14 @@
+design extens extract field
+date time field datetimefield
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+author gui allard
+defin calcul engin date time field
+leap durat field field leap
+return durat field leap return
+field leap unit
+org joda time
+author brian neill o'neil
+durat field durationfield leap durat field getleapdurationfield
+millisecond number standard implement provid assist

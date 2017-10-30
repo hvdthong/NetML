@@ -1,0 +1,25 @@
+overrid
+org apach common math od nonstiff
+save local attribut
+max kmax
+write int writeint max kmax
+inherit doc inheritdoc
+rung kutta integr rungekuttaintegr
+embed rung kutta integr embeddedrungekuttaintegr
+version
+dot ydotk length
+version revis date
+except ioexcept
+write doubl writedoubl dot ydotk
+max kmax dot ydotk dot ydotk length
+save state base
+rung kutta step interpol rungekuttastepinterpol
+write int writeint dot ydotk length
+current state currentst length
+write extern writeextern object output objectoutput
+repres interpol step
+od integr rung kutta embed rung kutta integr
+write doubl writedoubl previou state previousst
+save refer equat
+current state currentst current state currentst length
+write base extern writebaseextern

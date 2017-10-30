@@ -1,0 +1,14 @@
+org aspectj weaver reflect
+author colyer
+creat reflectionbasedreferencetypedeleg
+level run reflect avoid depend
+code base
+reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori
+resolv member resolvedmemb creat static init member createstaticinitmemb class type fortyp world world inworld
+resolv member impl resolvedmemberimpl org aspectj weaver member static initi static initi
+resolv type toresolvedtyp type fortyp reflect world ireflectionworld world inworld
+modifi static
+resolv type resolvedtyp void
+clinit
+unresolv type unresolvedtyp
+unresolv type unresolvedtyp

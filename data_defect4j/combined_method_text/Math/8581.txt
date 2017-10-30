@@ -1,0 +1,48 @@
+overrid
+version
+buffer outbuff append std dev standard deviat getstandarddevi
+buffer outbuff append getn
+append endl
+note threadsaf
+dataset
+code window size windows code infinit window
+gener text report displai univari statist valu
+abstract factori univari statist summari
+string string tostr
+link summari statist summarystatist store dataset
+buffer outbuff append descript statist descriptivestatist append endl
+maintain dataset valu singl variabl comput descript
+link synchron descript statist synchronizeddescriptivestatist concurr access multipl
+buffer outbuff append max max getmax
+dataset caution back store
+ad statist displai separ
+buffer outbuff string tostr
+buffer outbuff append max append max getmax append endl
+version revis date
+dataset infinit window put limit size
+ad roll manner valu replac oldest valu
+buffer outbuff append median percentil getpercentil
+grow bound larg dataset
+buffer outbuff append kurtosi kurtosi getkurtosi
+string line feed displai statist
+string builder stringbuild buffer outbuff string builder stringbuild
+buffer outbuff append skew skew getskew
+string endl
+properti set limit number valu store
+thread requir
+buffer outbuff append append getn append endl
+org apach common math stat descript
+line
+descript statist descriptivestatist statist summari statisticalsummari serializ
+buffer outbuff append min append min getmin append endl
+buffer outbuff append descript statist descriptivestatist
+valu ad store dataset valu
+buffer outbuff append append getmean append endl
+buffer outbuff append skew append skew getskew append endl
+buffer outbuff append min min getmin
+buffer outbuff append std dev append standard deviat getstandarddevi
+buffer outbuff append getmean
+buffer outbuff append median append percentil getpercentil append endl
+statist base store data link window size getwindows window size windows
+buffer outbuff append kurtosi append kurtosi getkurtosi append endl
+string buffer stringbuff buffer outbuff string buffer stringbuff

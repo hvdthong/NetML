@@ -1,0 +1,56 @@
+<junit> tasks that timeout do not perform tearDown if fork="true"
+<junit> tests that timeout do not perform their teardown if fork is set to
+"true", this can cause lots of trouble if database handles need to be closed or
+servers need to be shut down in the teardown.
+
+Consider the following junit test:
+
+package org.example;
+import junit.framework.TestCase;
+public class TimeoutTest extends TestCase {
+
+	public void setUp() {
+		System.out.println("setUp");
+	}
+
+	public void tearDown() {
+		System.out.println("tearDown");
+	}
+
+	public void testTimeout() {
+		System.out.println("Test started");
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			System.out.println("Interrupted!");
+		}
+		System.out.println("Test finished");
+	}
+}
+
+
+And the following ant buildfile fragment:
+
+<target name="test" depends="compile">
+	<junit fork="yes" timeout="3000" showoutput="true">
+		<classpath path="classes"/>
+		<test name="org.example.TimeoutTest"/>
+	</junit>
+</target>
+
+
+
+If run the test will timeout, the output on the console shows that the tearDown
+method is never executed:
+test:
+    [junit] setUp
+    [junit] Test started
+    [junit] Test org.example.TimeoutTest FAILED (timeout)
+
+If the timeout property in the buildfile is set to 6000 the test won't timeout
+and the output on the console is:
+test:
+    [junit] setUp
+    [junit] Test started
+    [junit] Test finished
+    [junit] tearDown

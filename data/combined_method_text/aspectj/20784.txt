@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+param userpointcut
+rais ambigu disjunct error raiseambiguityindisjunctionerror pointcut user pointcut userpointcut list name
+string buffer stringbuff formal name formalnam string buffer stringbuff name string tostr
+name size
+formal name formalnam append
+formal name formalnam append name
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag ambigu bind ambigu bind formal name formalnam
+user pointcut userpointcut sourc context getsourcecontext make sourc locat makesourceloc user pointcut userpointcut

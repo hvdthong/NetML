@@ -1,0 +1,16 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+copi resourc directori copyresourcesfromdirectori file dir except ioexcept
+copi inpath dir resourc copi inpath dir resourc
+list file isnt directori
+file file file util fileutil list file listfil dir file filter filefilt
+accept file
+accept directori isdirectori getnam end endswith class
+accept
+file add real class file resourc
+file length
+assert file getabsolutepath startswith infil getabsolutepath
+troubl
+string filenam file absolut path getabsolutepath substr
+dir absolut path getabsolutepath length
+copi resourc file copyresourcesfromfil file filenam dir

@@ -1,0 +1,10 @@
+chi squar test chisquaretest
+provid sampl compar sampl
+sampl underli distribut
+implement handl unknown distribut
+construct chi squar test chisquaretest
+sampl test distribut unknown priori
+version
+provid sampl hypothesi test
+implement chi squar test statist
+org apach common math3 stat infer

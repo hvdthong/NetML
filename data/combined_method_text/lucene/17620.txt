@@ -1,0 +1,12 @@
+org apach lucen util
+method manipul arrai
+lucen intern
+arrai util arrayutil
+shrink arrai target size targets
+size newsiz shrink size getshrinks arrai length target size targets ram usag estim ramusageestim num byte object ref num byte object ref
+size newsiz arrai length
+suppress warn suppresswarn uncheck arrai newarrai
+arrai instanc newinst arrai class getclass compon type getcomponenttyp size newsiz
+system arraycopi arrai arrai newarrai size newsiz
+arrai newarrai
+arrai

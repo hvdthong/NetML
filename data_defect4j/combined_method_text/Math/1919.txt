@@ -1,0 +1,21 @@
+domain
+distribut code method return code
+implement link hypergeometr distribut hypergeometricdistribut
+ret cumul probabl innercumulativeprob domain popul size populations number success numberofsuccess sampl size samples
+param cdf evalu
+org apach common math distribut
+popul size getpopulations
+upper tail cdf distribut
+ret
+domain domain getdomain
+number success numberofsuccess sampl size samples
+version revis date
+disbut method return
+distribut method return
+domain domain getdomain popul size populations number success numberofsuccess sampl size samples
+ret cumul probabl innercumulativeprob domain
+sampl size getsamples
+ret cumul probabl innercumulativeprob domain popul size populations
+upper cumul probabl uppercumulativeprob
+number success getnumberofsuccess
+hypergeometr distribut impl hypergeometricdistributionimpl abstract integ distribut abstractintegerdistribut

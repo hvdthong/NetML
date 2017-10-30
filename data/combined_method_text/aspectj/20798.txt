@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+valid singl branch validatesinglebranch pointcut pointcut user pointcut userpointcut num formal numform string name pointcut bind
+found formal foundform num formal numform
+found formal foundform length
+found formal foundform
+valid singl branch recurs validatesinglebranchrecurs user pointcut userpointcut found formal foundform name bind
+found formal foundform length
+found formal foundform
+ignor
+ataj soften unbound error implicit bind joinpoint style
+user pointcut userpointcut ignor unbound bind name ignoreunboundbindingfornam length
+name name equal user pointcut userpointcut ignor unbound bind name ignoreunboundbindingfornam
+ignor
+ignor
+rais unbound formal error raiseunboundformalerror name user pointcut userpointcut

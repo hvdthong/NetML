@@ -1,0 +1,19 @@
+simpl constructor
+order integr jacobian firstorderintegratorwithjacobian
+step handler wrapper stephandlerwrapp step handler jacobian stephandlerwithjacobian handler
+od jacobian odewithjacobian
+extend jacobian raw od variat equat
+handler handler
+order comput state deriv od problem
+org apach common math od jacobian
+param number paramet
+ad form compound problem higher dimens origin od
+dimens time
+comput partial deriv solut respect initi state
+parameter od parameterizedod
+version revis date
+enhanc order integr differenti equat
+problem dimens paramet compound problem
+param handler underli step handler jacobian
+param dimens origin od
+paramet

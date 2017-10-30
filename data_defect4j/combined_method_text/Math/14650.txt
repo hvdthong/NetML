@@ -1,0 +1,19 @@
+overrid
+link initi guess initialguess
+link simpl bound simplebound
+param pair type point pair return optim
+specif
+param opt data optdata optim data addit document
+base implement optim multivari function
+inherit doc inheritdoc
+perform optim
+boiler plate code initi guess bound
+pair optim optim data optimizationdata opt data optdata
+org apach common math3 optim
+version
+user
+base multivari optim basemultivariateoptim pair
+algorithm
+method regist data
+optim opt data optdata
+link base optim baseoptim pars optim data parseoptimizationdata optim data optimizationdata base optim baseoptim

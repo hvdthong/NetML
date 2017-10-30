@@ -1,0 +1,17 @@
+author stephen colebourn
+field index
+param index index retriev
+kind period object referenc
+index
+link readabl period readableperiod
+index bound except indexoutofboundsexcept string valueof index
+manag singl durat field dai minut
+base singl field period basesinglefieldperiod implement readabl period readableperiod
+index bound except indexoutofboundsexcept index invalid
+getvalu index
+base singl field period basesinglefieldperiod subclass mutabl thread safe
+org joda time base
+getvalu
+base singl field period basesinglefieldperiod
+gener directli api user
+index support period

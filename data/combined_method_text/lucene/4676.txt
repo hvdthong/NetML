@@ -1,0 +1,17 @@
+org apach lucen util
+class encod java utf16 char utf8 byte
+alloc byte
+string getbyt utf
+warn api experiment
+suddenli chang
+unicod util unicodeutil
+encod charact string start offset
+length charact return number byte
+written bytesout
+utf16to utf8 utf16toutf8 string offset length utf8 result utf8result result
+surrog pair
+confirm valid high surrog
+confirm valid low surrog write pair
+replac unpair surrog order low surrog
+substitut charact
+assert match offset length upto

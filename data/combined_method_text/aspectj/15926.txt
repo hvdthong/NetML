@@ -1,0 +1,12 @@
+org aspectj bridg
+repres sourc locat start line column end
+line sourc file
+implement immut xxx
+org aspectj lang reflect sourceloc
+org aspectj compil base parser sourceinfo
+org aspectj tool id sourcelin
+org aspectj test har errorlin
+sourc locat isourceloc
+return int max column actual column
+column input isourceloc column
+column getcolumn

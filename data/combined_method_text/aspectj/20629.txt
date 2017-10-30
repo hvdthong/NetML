@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+return true iff shadow return
+void return type hasanonvoidreturntyp
+return type getreturntyp resolv type resolvedtyp void

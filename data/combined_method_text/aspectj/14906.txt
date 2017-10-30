@@ -1,0 +1,18 @@
+org aspectj apach bcel verifi exc
+instanc class thrown bcel' class file verifi justic
+verif prove constraint class file state
+java virtual machin specif edit violat
+roughli equival verifyerror jvm intern verifi
+throw
+version verifierconstraintviolatedexcept java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi constraint violat except verifierconstraintviolatedexcept runtim except runtimeexcept
+extend error messag string pre post
+'old' error messag string allow null null
+replac empti string invok
+method error messag object longer null
+extend messag extendmessag string pre string post
+pre pre
+detail messag detailmessag detail messag detailmessag
+post post
+detail messag detailmessag pre detail messag detailmessag post

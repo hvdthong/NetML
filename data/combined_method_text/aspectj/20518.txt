@@ -1,0 +1,25 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener claus member generateperclausememb lazi class gen lazyclassgen class gen classgen
+fixm alex handl field handl similar isannotationdefinedaspect
+aspecttyp iter field
+fixm alex percflowx code style gener
+resolv member resolvedmemb failur field info failurefieldinfo ajc member maker ajcmembermak init failur field initfailurecausefield aspect type aspecttyp
+class gen classgen add field addfield make field gen makefieldgen class gen classgen failur field info failurefieldinfo field getfield
+kind claus perclaus singleton
+resolv member resolvedmemb singleton field info persingletonfieldinfo ajc member maker ajcmembermak singleton field persingletonfield aspect type aspecttyp
+class gen classgen add field addfield make field gen makefieldgen class gen classgen singleton field info persingletonfieldinfo field getfield
+pr144602 perobjectinterfac munger
+kind perclaus perobject
+resolvedmemb perobjectfieldinfo ajcmembermak perobjectfield aspecttyp aspecttyp
+classgen addfield makefieldgen classgen perobjectfieldinfo null
+lazi gener interfac mayhaveaspect work ltw previou note
+kind claus perclaus percflow
+resolv member resolvedmemb cflow field info percflowfieldinfo ajc member maker ajcmembermak cflow field percflowfield aspect type aspecttyp
+class gen classgen add field addfield make field gen makefieldgen class gen classgen cflow field info percflowfieldinfo field getfield
+kind claus perclaus pertypewithin
+resolv member resolvedmemb type field pertypewithinforfield ajc member maker ajcmembermak type type field pertypewithinwithintypefield aspect type aspecttyp aspect type aspecttyp
+class gen classgen add field addfield make field gen makefieldgen class gen classgen type field pertypewithinforfield field getfield
+throw error happen kind kind tostr

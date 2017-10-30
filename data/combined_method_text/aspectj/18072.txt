@@ -1,0 +1,8 @@
+org aspectj util
+file util fileutil
+recurs delet content dir dir
+delet subdirectori empti file
+delet
+return total number file delet
+delet content deletecont file dir file filter filefilt filter
+delet content deletecont dir filter

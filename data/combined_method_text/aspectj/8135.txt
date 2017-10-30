@@ -1,0 +1,25 @@
+org aspectj ajdt intern compil lookup
+special method bind repres itd pretend
+member target type match purpos
+inter type method bind intertypemethodbind method bind methodbind
+inter type method bind intertypemethodbind eclips factori eclipsefactori world resolv member resolvedmemb signatur unresolv type unresolvedtyp type withintyp
+abstract method declar abstractmethoddeclar sourc method sourcemethod
+method bind methodbind world make method bind makemethodbind signatur
+modifi modifi
+selector selector
+return type returntyp return type returntyp
+paramet paramet
+thrown except thrownexcept thrown except thrownexcept
+type variabl typevari type variabl typevari
+sourc method sourcemethod sourc method sourcemethod
+target type targettyp refer bind referencebind world make type bind maketypebind signatur declar type getdeclaringtyp
+declar class declaringclass refer bind referencebind world make type bind maketypebind type withintyp
+signatur kind getkind member method
+synthet method syntheticmethod
+world make method bind makemethodbind ajc member maker ajcmembermak inter method dispatch intermethoddispatch signatur type withintyp
+post dispatch method postdispatchmethod
+world make method bind makemethodbind ajc member maker ajcmembermak inter method bodi intermethodbodi signatur type withintyp
+synthet method syntheticmethod world make method bind makemethodbind
+ajc member maker ajcmembermak inter constructor interconstructor world world getworld resolv signatur declar type getdeclaringtyp
+signatur type withintyp
+post dispatch method postdispatchmethod synthet method syntheticmethod

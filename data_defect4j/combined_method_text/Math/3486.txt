@@ -1,0 +1,15 @@
+part reus region
+region1 tree gettre merg region2 tree gettre intersect merger intersectionmerg
+comput intersect region
+factori link region
+param type space
+region intersect region region1 region region2
+bsp tree bsptree tree
+param region2 region unus oper
+version
+region1 build buildnew tree
+param region1 region unus oper
+region factori regionfactori space
+org apach common math geometri partit
+region result code region1 intersect region2
+tree visit node cleaner nodeclean

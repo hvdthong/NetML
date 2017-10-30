@@ -1,0 +1,13 @@
+param poisson
+version
+creat poisson distribut converg criterion
+epsilon default max iter
+implement link poisson distribut poissondistribut
+poisson distribut impl poissondistributionimpl abstract integ distribut abstractintegerdistribut
+set setmean
+poisson distribut impl poissondistributionimpl epsilon
+epsilon epsilon
+param epsilon converg criteria cumul probabilit
+version revis date
+org apach common math distribut
+param epsilon converg criterion cumul probabl

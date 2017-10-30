@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+type repres type pattern annot
+color
+annot type pattern anywithannotationtypepattern type pattern typepattern
+type pattern typepattern read version data input stream versioneddatainputstream sourc context isourcecontext except ioexcept
+annot type pattern annotationtypepattern ann patt annpatt annot type pattern annotationtypepattern read
+annot type pattern anywithannotationtypepattern ret annot type pattern anywithannotationtypepattern ann patt annpatt
+ret read locat readloc
+ret

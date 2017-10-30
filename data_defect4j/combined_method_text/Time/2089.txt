@@ -1,0 +1,27 @@
+author stephen colebourn
+data code period type periodtyp code code code
+durat durat todurationto readabl instant readableinst end instant endinst
+period month vari equival
+end milli endmilli date time util datetimeutil instant milli getinstantmilli end instant endinst
+org joda time base
+kind period object referenc
+author brian neill o'neil
+base period baseperiod implement readabl period readableperiod store
+start milli startmilli chrono add end milli endmilli
+total millisecond durat period rel
+total length period durat rel end instant
+end instant
+dai millisecond due length month
+chronolog chrono date time util datetimeutil instant chronolog getinstantchronolog end instant endinst
+param end instant endinst instant subtract period obtain durat
+instant suppli durat period vari
+base period baseperiod subclass mutabl thread safe
+durat start milli startmilli end milli endmilli
+hour
+method subtract period instant order
+link readabl period readableperiod
+arithmet except arithmeticexcept milli exce capac durat
+base period baseperiod
+calcul durat
+gener directli api user
+similarli dai vari daylight save cutov typic

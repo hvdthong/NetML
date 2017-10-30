@@ -1,0 +1,7 @@
+version
+org apach common math analysi integr
+maxim iter count getmaximaliterationcount
+inherit doc inheritdoc
+base abstract univari integr baseabstractunivariateintegr univari integr univariateintegr
+provid implement gener function
+iter maxim count getmaximalcount

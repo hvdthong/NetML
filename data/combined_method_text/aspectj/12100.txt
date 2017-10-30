@@ -1,0 +1,33 @@
+org aspectj ajdt intern core builder
+central point thing increment
+track state record config file
+limit interact state
+record depend chang info classpath
+jdt 'state' object finish
+increment state manag incrementalstatemanag
+state ajstat find state manag output locat findstatemanagingoutputloc file locat
+collect state allstat increment state incrementalst valu
+debug increment state debugincrementalst system err println findstatemanagingoutputloc locat state allstat size state
+iter iter state allstat iter iter hasnext
+state ajstat element state ajstat iter
+build config ajbuildconfig ajbc element build config getbuildconfig
+ajbc
+fixm asc null
+debug increment state debugincrementalst system err println build configur state element
+file output dir outputdir ajbc output dir getoutputdir
+output dir outputdir output dir outputdir equal locat
+debug increment state debugincrementalst system err println findstatemanagingoutputloc locat return element
+element
+compil result destin manag compilationresultdestinationmanag output manag outputmanag ajbc compil result destin manag getcompilationresultdestinationmanag
+output manag outputmanag
+list output dir outputdir output manag outputmanag output locat getalloutputloc
+iter iter output dir outputdir iter iter
+hasnext
+file dir file iter
+dir equal locat
+debug increment state debugincrementalst system err println findstatemanagingoutputloc locat return element
+element
+output dir outputdir output manag outputmanag
+fixm null due outjar
+debug increment state debugincrementalst system err println output directori output locat manag ajbc null
+debug increment state debugincrementalst system err println findstatemanagingoutputloc locat return null

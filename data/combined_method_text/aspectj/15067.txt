@@ -1,0 +1,53 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+merg vmspec2 page incom frame situat
+execut instruct symbol
+calcul outgo frame situat
+return true iff incom frame situat chang
+merg infram
+execpr arraylist instructioncontext
+object execut correct order
+execut path need correctli
+merg special case ret' successor
+instconstraintvisitor executionvisitor instanc
+set correctli
+return true outgo frame situat
+chang execut ing
+execut frame frame infram arrai list arraylist exec pred execpr inst constraint visitor instconstraintvisitor icv execut visitor executionvisitor
+execut predecessor executionpredecessor arrai list arraylist exec pred execpr clone
+saniti check
+execut jsr lastexecutionjsr subroutin subroutin subroutineof instruct getinstruct subroutin top level gettoplevel
+assert violat except assertionviolatedexcept huh part subroutin
+execut jsr lastexecutionjsr subroutin subroutin subroutineof instruct getinstruct subroutin top level gettoplevel
+assert violat except assertionviolatedexcept huh part subroutin
+frame inf frame frame infram execut jsr lastexecutionjsr
+inf inf null incom frame set set
+frame infram put execut jsr lastexecutionjsr frame infram
+inf frame infram
+infram
+inf equal frame infram inf equal infram shortcut merg equal frame
+merg frame mergeinfram frame infram
+infram chang
+infram merg
+frame work frame workingfram inf clone getclon
+verifi instructionconstraint current
+instruct modifi workingfram object
+instconstraintvisitor icv instconstraintvisitor getinst verifierfactori getverifi method gen getclassnam
+icv set frame setfram work frame workingfram
+instruct getinstruct accept icv
+structur code constraint except structuralcodeconstraintexcept
+extend messag extendmessag ninstructionhandl instruct getinstruct
+extend messag extendmessag nexecut frame work frame workingfram
+extend messag flow extendmessagewithflow
+execut instruct
+workingfram object modifi
+executionvisitor executionvisitor getinst verifierfactori getverifi method gen getclassnam
+set frame setfram work frame workingfram
+instruct getinstruct accept
+getinstruct accept executionvisitor withfram workingfram
+frame outfram put execut jsr lastexecutionjsr work frame workingfram
+return true infram infram merg
+yield infram

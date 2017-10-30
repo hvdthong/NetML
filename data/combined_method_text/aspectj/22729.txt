@@ -1,0 +1,30 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+annot pattern annotationpattern annot type pattern annotationtypepattern
+buf append annot pattern annotationpattern string tostr
+buf append
+modifi modifi pattern modifierspattern
+buf append modifi string tostr
+buf append
+kind member static initi static initi
+buf append declar type declaringtyp string tostr
+buf append clinit buf append clinit fixm bad pars
+kind member handler
+buf append handler
+buf append paramet type parametertyp
+buf append
+kind member constructor
+buf append return type returntyp string tostr
+buf append
+declar type declaringtyp type pattern typepattern
+buf append declar type declaringtyp string tostr
+buf append
+kind member constructor
+buf append
+buf append string tostr
+kind member method kind member constructor
+buf append paramet type parametertyp string tostr
+fixm throw print weird
+buf string tostr

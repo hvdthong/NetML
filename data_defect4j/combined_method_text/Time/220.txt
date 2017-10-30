@@ -1,0 +1,17 @@
+design extens extract field
+date time field datetimefield
+string text getastext readabl partial readableparti partial field fieldvalu local local
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+param field fieldvalu field field provid perform
+text field
+param partial partial instant queri
+author gui allard
+defin calcul engin date time field
+human readabl text field partial instant
+org joda time
+local local
+author brian neill o'neil
+param local local select text symbol
+millisecond number standard implement provid assist

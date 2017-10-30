@@ -1,0 +1,39 @@
+pre
+param chromosom
+parameter chromosom length
+version
+fix length chromosom newfixedlengthchromosom child2 rep child2rep
+arrai list arraylist child2 rep child2rep arrai list arraylist length getlength
+pair chromosom result crossov
+abstract list chromosom abstractlistchromosom dimens mismatch except dimensionmismatchexcept
+denot crossov point
+helper link crossov chromosom chromosom perform actual crossov
+children
+chromosom pair chromosomepair crossov abstract list chromosom abstractlistchromosom
+child1 rep child1rep add parent1 rep parent1rep
+dimens mismatch except dimensionmismatchexcept length chromosom
+part parent copi child
+polici work link abstract list chromosom abstractlistchromosom
+point crossov onepointcrossov crossov polici crossoverpolici
+param gener type link abstract list chromosom abstractlistchromosom crossov
+crossov index crossoverindex genet algorithm geneticalgorithm random gener getrandomgener int nextint length
+select crossov point random length make sens
+part copi crosswis
+length length getlength
+org apach common math3 genet
+part
+child2 rep child2rep add parent2 rep parent2rep
+crossov index crossoverindex
+list parent1 rep parent1rep represent getrepresent
+child1 rep child1rep add parent2 rep parent2rep
+copi part
+chromosom pair chromosomepair fix length chromosom newfixedlengthchromosom child1 rep child1rep
+arrai represent parent
+list parent2 rep parent2rep represent getrepresent
+abstract list chromosom abstractlistchromosom
+crossov index crossoverindex length
+point crossov polici random crossov point select
+parametr chromosom length
+dimens mismatch except dimensionmismatchexcept length getlength length
+child2 rep child2rep add parent1 rep parent1rep
+arrai list arraylist child1 rep child1rep arrai list arraylist length getlength

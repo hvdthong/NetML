@@ -1,0 +1,14 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+proce visitor proceedvisitor ast visitor astvisitor
+comput join point param computejoinpointparam
+walk bodi need
+method travers class scope classscop
+add support option disabl optim
+system err println check haseffectivelystaticref needsdynam
+effect static ref haseffectivelystaticref dynam needsdynam
+replac effect static ref thisjoinpointstaticpart
+replac effect static ref replaceeffectivelystaticref
+static needsstat
+method travers class scope classscop

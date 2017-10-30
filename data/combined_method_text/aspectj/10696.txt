@@ -1,0 +1,22 @@
+org aspectj ajd swing
+browser structur view tool panel browserstructureviewtoolpanel panel jpanel
+popup menu jpopupmenu creat filter menu createfiltermenu
+popup menu jpopupmenu filter menu filtermenu popup menu jpopupmenu
+program element iprogramel access access program element iprogramel access
+access length
+check box select menu button checkboxselectionmenubutton menu item menuitem check box select menu button checkboxselectionmenubutton access
+menu item menuitem set icon seticon ajd default getdefault icon registri geticonregistri access swing icon getaccessibilityswingicon access
+filter menu filtermenu add menu item menuitem
+filter menu filtermenu add separ jsepar
+program element iprogramel kind kind program element iprogramel kind
+kind length
+kind member ismemb
+check box select menu button checkboxselectionmenubutton menu item menuitem check box select menu button checkboxselectionmenubutton kind
+menu item menuitem set icon seticon icon ajd default getdefault icon registri geticonregistri icon geticon kind icon resourc geticonresourc
+filter menu filtermenu add menu item menuitem
+filter menu filtermenu add separ jsepar
+program element iprogramel modifi modifi program element iprogramel modifi
+modifi length
+check box select menu button checkboxselectionmenubutton menu item menuitem check box select menu button checkboxselectionmenubutton modifi
+filter menu filtermenu add menu item menuitem
+filter menu filtermenu

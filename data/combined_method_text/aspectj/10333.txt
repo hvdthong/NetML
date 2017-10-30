@@ -1,0 +1,8 @@
+org aspectj ajd core
+interfac configur requir
+compil perform build
+compil configur icompilerconfigur
+return output jar file compil result
+return null leav classfil unjar'd output directori
+outjar
+string jar getoutjar

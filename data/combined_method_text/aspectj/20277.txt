@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+bcel var bcelvar expos state bcel var getexposedstateasbcelvar isaround
+ataj aspect
+isaround
+closur instanti map extract method wich call
+concret aspect getconcreteaspect concret aspect getconcreteaspect annot style aspect isannotationstyleaspect
+bcel var bcelvar
+system println var arrai aslist exposedst var
+expos state exposedst bcel var bcelvar
+len expos state exposedst var length
+bcel var bcelvar ret bcel var bcelvar len
+len
+ret bcel var bcelvar expos state exposedst var
+ret return ret bcelvar exposedst var

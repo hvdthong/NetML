@@ -1,0 +1,13 @@
+org apach lucen index
+format post doc writer formatpostingsdocswrit format post doc consum formatpostingsdocsconsum
+format post doc writer formatpostingsdocswrit segment write state segmentwritest state format post term writer formatpostingstermswrit parent except ioexcept
+parent parent
+string file filenam index file name indexfilenam segment file segmentfilenam parent parent segment index file name indexfilenam freq extens freq extens
+state flush file flushedfil add file filenam
+parent parent dir creat output createoutput file filenam
+total num doc totalnumdoc parent parent total num doc totalnumdoc
+todo abstract violat
+skip interv skipinterv parent parent term termsout skip interv skipinterv
+skip list writer skiplistwrit parent parent skip list writer skiplistwrit
+skip list writer skiplistwrit set freq output setfreqoutput
+po writer poswrit format post posit writer formatpostingspositionswrit state

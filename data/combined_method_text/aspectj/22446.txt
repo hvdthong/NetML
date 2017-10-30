@@ -1,0 +1,18 @@
+org aspectj weaver pattern
+pattern parser patternpars
+modifi pattern modifierspattern pars modifi pattern parsemodifierspattern
+requir flag requiredflag
+forbidden flag forbiddenflag
+start
+start token sourc tokensourc index getindex
+forbidden isforbidden
+forbidden isforbidden eat maybeeat
+token itoken token sourc tokensourc
+flag modifi pattern modifierspattern modifi flag getmodifierflag string getstr
+flag
+forbidden isforbidden forbidden flag forbiddenflag flag
+requir flag requiredflag flag
+token sourc tokensourc set index setindex start
+requir flag requiredflag forbidden flag forbiddenflag
+modifi pattern modifierspattern
+modifi pattern modifierspattern requir flag requiredflag forbidden flag forbiddenflag

@@ -1,0 +1,7 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+unhandl messag handler unhandledmessagehandl project iproject
+project

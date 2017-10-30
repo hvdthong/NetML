@@ -1,0 +1,15 @@
+author apach softwar foundat
+replac 'j' number format real
+version
+format complex number cartesian format 'i'
+creat instanc custom imaginari charact
+param imaginari charact imaginarycharact custom imaginari charact
+imaginari charact imaginarycharact default number format getdefaultnumberformat
+imaginari charact imaginarycharact composit format compositeformat default number format getdefaultnumberformat
+org apach common math complex
+number format real imaginari part
+version revis date
+complex format complexformat composit format compositeformat
+complex format complexformat
+imaginari part configur
+complex format complexformat string imaginari charact imaginarycharact

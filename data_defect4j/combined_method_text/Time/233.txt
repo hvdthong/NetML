@@ -1,0 +1,14 @@
+design extens extract field
+date time field datetimefield
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+maximum field evalu time
+param instant millisecond t00 01t00 00z queri
+author gui allard
+defin calcul engin date time field
+org joda time
+author brian neill o'neil
+maximum field unit field
+maximum getmaximumvalu instant
+millisecond number standard implement provid assist

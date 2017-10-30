@@ -1,0 +1,3 @@
+src/main/org/apache/tools/ant/taskdefs/Expand_expandFile-FileUtils-File-File_void
+src/main/org/apache/tools/ant/taskdefs/Expand_extractFile-FileUtils-File-File-InputStream-String-Date-boolean_void
+src/main/org/apache/tools/ant/taskdefs/Untar_expandFile-FileUtils-File-File_void

@@ -1,0 +1,91 @@
+radix
+smallest number repres
+dfp result instanc newinst
+dfp extend field element extendedfieldel dfp
+result instanc newinst
+partial fill
+decim digit base digit
+nan infinit
+result instanc newinst getzero
+result mant mant length
+decim
+realiz ad addit round step ensur
+multipli fast multiplyfast
+design goal
+sign time mant time radix exp
+result mant mant length result set exp
+settabl precis mix number set
+multipli instanc newinst
+portabl code portabl
+pre
+result dotrap excp multipli trap result result
+dfp field element fieldel dfp
+compli ieee
+dfp field dfpfield
+excp result round lostdigit
+signific digit left remain digit
+lostdigit
+result dotrap dfp field dfpfield flag invalid multipli trap instanc newinst getzero result
+param multiplicand
+field set ieee flag bit setieeeflagsbit dfp field dfpfield flag invalid
+rais underflow flag number expon
+isnan
+trade off
+repres number perform
+result exp
+dfp real field element realfieldel dfp
+number decim digit repres constant
+requir met
+exp rang
+version
+result nan qnan
+radix point fine
+system encod radix system
+digit bigger round greater loss
+number repres form
+multipli singl digit radix
+mant
+min exp digit digit min exp
+entiti signific radix
+mant signific digit
+exp min expmin flush expon reach min exp digit
+mant length
+result shift shiftright
+ieee standard specif leav intern data encod
+detail matter definit side effect
+lostdigit result mant
+memori foot print memori
+nan finit
+ieee requir radix radix
+digit includ signific signific digit
+number opinion behav radix
+float point built radix
+handl special case
+multipli singl digit
+result dotrap dfp field dfpfield flag invalid multipli trap result result
+excp
+ieee specifi exist normal number
+radix chosen faster oper
+accuraci result ulp basic
+ieee note
+result
+decim math close
+result mant radix
+ieee defin impli radix point li
+subclass made make behav radix
+render invis subclass
+sign plusmn mantissa repres fraction number
+perform
+speed advantag special
+decim float point librari java
+ieee note differ
+number requir met
+product
+implement put impli radix point left
+rang check
+digit support gradual underflow
+org apach common math3 dfp
+decim digit time radix behavior
+algebra oper
+reason conclud subclass radix
+dfp multipli

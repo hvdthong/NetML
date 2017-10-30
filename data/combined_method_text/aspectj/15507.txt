@@ -1,0 +1,14 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+model info modelinfo hierarchi ihierarchi hierarchi relationship map irelationshipmap relationship map relationshipmap
+program element iprogramel ip hierarchi root getroot
+walk model walkmodel ip
+record stat recordstat filemaps
+integ hierarchi file map entri set getfilemapentryset size string tostr
+record stat recordstat relationshipmaps
+integ relationship map relationshipmap entri getentri size string tostr

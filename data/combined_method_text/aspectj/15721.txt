@@ -1,0 +1,7 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+specif child hasmorespecificchild program element iprogramel node string sourc file path sourcefilepath line number linenumb set offset
+iter node children getchildren iter hasnext
+program element iprogramel child program element iprogramel
+match child sourc file path sourcefilepath line number linenumb set offset

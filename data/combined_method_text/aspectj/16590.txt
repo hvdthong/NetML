@@ -1,0 +1,26 @@
+org aspectj org eclips jdt core dom
+afterthrowingadvicedeclar dom ast node
+afteradvicedeclar
+option throw properti
+inherit properti descriptor advicedeclar
+add throw properti
+mix descript class properti list
+redefin
+'throwing' prefix distinguish defin advicedeclar
+work
+author ajh02
+throw advic declar afterthrowingadvicedeclar advic declar afteradvicedeclar
+ast node astnod clone0 ast target
+throw advic declar afterthrowingadvicedeclar result throw advic declar afterthrowingadvicedeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+result paramet add addal
+ast node astnod copi subtre copysubtre target paramet
+result set pointcut setpointcut pointcut getpointcut
+result set throw setthrow throw
+result thrown except thrownexcept add addal
+ast node astnod copi subtre copysubtre target thrown except thrownexcept
+result set bodi setbodi
+block ast node astnod copi subtre copysubtre target bodi getbodi
+result

@@ -1,0 +1,37 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+annot target kind annotationtargetkind annot target kind getannotationtargetkind
+discov annot target kind discoveredannotationtargetkind annot target kind annotationtargetkind
+discov annot target kind discoveredannotationtargetkind
+annot target kind annotationtargetkind annotationtargetkind null null mean idea target annot
+isannot
+annot annotationsonthistyp declar annot
+annotationsonthistyp null
+int annotationsonthistyp length
+annot annotationsonthistyp
+resolvedtyp null
+string packagenam string resolvedtyp qualifiedpackagenam concat
+string sourcenam string resolvedtyp qualifiedsourcenam
+packagenam sourcenam equal unresolvedtyp target getnam
+membervaluepair pair membervaluepair
+int pair length
+membervaluepair pair pair
+targetkind pair tostr
+return targetkind
+return targetkind
+annot isannot
+list target kind targetkind arrai list arraylist
+bind annot tag bit getannotationtagbit tag bit tagbit annot annot type annotationforannotationtyp target kind targetkind add annot target kind annotationtargetkind annot type annot type
+bind annot tag bit getannotationtagbit tag bit tagbit annot constructor annotationforconstructor target kind targetkind add annot target kind annotationtargetkind constructor
+bind annot tag bit getannotationtagbit tag bit tagbit annot field annotationforfield target kind targetkind add annot target kind annotationtargetkind field
+bind annot tag bit getannotationtagbit tag bit tagbit annot local variabl annotationforlocalvari target kind targetkind add annot target kind annotationtargetkind local variabl local variabl
+bind annot tag bit getannotationtagbit tag bit tagbit annot method annotationformethod target kind targetkind add annot target kind annotationtargetkind method
+bind annot tag bit getannotationtagbit tag bit tagbit annot packag annotationforpackag target kind targetkind add annot target kind annotationtargetkind packag
+bind annot tag bit getannotationtagbit tag bit tagbit annot paramet annotationforparamet target kind targetkind add annot target kind annotationtargetkind paramet
+bind annot tag bit getannotationtagbit tag bit tagbit annot type annotationfortyp target kind targetkind add annot target kind annotationtargetkind type
+target kind targetkind empti isempti
+annot target kind annotationtargetkind annot target kind annotationtargetkind target kind targetkind size
+annot target kind annotationtargetkind target kind targetkind arrai toarrai annot target kind annotationtargetkind
+annot target kind annotationtargetkind

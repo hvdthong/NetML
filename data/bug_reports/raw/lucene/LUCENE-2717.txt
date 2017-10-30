@@ -1,0 +1,5 @@
+BasicOperations.concatenate creates invariants
+ I started writing a test for <a href="https://issues.apache.org/jira/browse/LUCENE-2716" title="Improve automaton&#39;s MinimizeOperations.minimizeHopcroft() to not create so many objects" class="issue-link" data-issue-key="LUCENE-2716"><del>LUCENE-2716</del></a>, and i found a problem with BasicOperations.concatenate(Automaton, Automaton): 
+it creates automata with invariant representation (which should never happen, unless you manipulate states/transitions manually). 
+
+ strangely enough the BasicOperations.concatenate(List&lt;Automaton&gt;) does not have this problem. 

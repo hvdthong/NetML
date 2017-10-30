@@ -1,0 +1,25 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+sourc locat isourceloc make locat makeloc ast node astnod node
+string file filenam
+filenam
+file filenam filenam
+amc strategi base node kind
+start line startlin start line getstartlin node
+end line endlin end line getendlin node
+sourc locat sourceloc loc
+start line startlin end line endlin
+found valid end line node
+loc sourc locat sourceloc file file filenam start line startlin end line endlin
+loc set offset setoffset node sourc start sourcestart
+loc sourc locat sourceloc file file filenam start line startlin
+loc set offset setoffset node sourc start sourcestart
+loc

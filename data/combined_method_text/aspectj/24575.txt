@@ -1,0 +1,10 @@
+org aspectj weaver
+lint
+lint messag lintmessag
+string messag
+messag imessag kind messag kind messagekind
+sourc locat isourceloc locat
+sourc locat isourceloc extra locat extraloc
+lint kind lint kind lintkind
+messag messag kind messagekind locat extra locat extraloc
+lint kind lintkind lint kind lintkind

@@ -1,0 +1,11 @@
+hyperplan simpl point orient
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+interv set intervalsset space wholespac
+interv set intervalsset
+region instanc link
+instanc guarante immut
+version
+repres orient hyperplan
+interv set intervalsset interv set intervalsset instanc
+org apach common math geometri euclidean on
+build region cover space

@@ -1,0 +1,18 @@
+param alpha shape paramet posit
+alpha alpha
+param invers cum accuraci inversecumaccuraci maximum absolut error invers
+beta beta
+param beta shape paramet posit
+build instanc
+link default invers absolut accuraci
+well19937c alpha beta invers cum accuraci inversecumaccuraci
+beta distribut betadistribut abstract real distribut abstractrealdistribut
+href http wikipedia org wiki beta distribut beta distribut
+version
+doubl nan
+chang concret
+org apach common math3 distribut
+cumul probabl estim default
+beta distribut betadistribut alpha beta invers cum accuraci inversecumaccuraci
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+implement beta distribut

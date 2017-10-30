@@ -1,0 +1,54 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+visit type declar typedeclar member type declar membertypedeclar block scope blockscop scope
+string full fullnam undefin
+member type declar membertypedeclar alloc
+member type declar membertypedeclar alloc type
+creat 'new runnabl
+full fullnam member type declar membertypedeclar alloc type string tostr
+member type declar membertypedeclar bind
+member type declar membertypedeclar bind constant pool constantpoolnam
+find nice 'new runnabl number
+full fullnam string member type declar membertypedeclar bind constant pool constantpoolnam
+dollar full fullnam index indexof
+full fullnam full fullnam substr dollar
+program element iprogramel kind kind program element iprogramel kind class
+type declar typedeclar kind member type declar membertypedeclar modifi type declar typedeclar interfac decl interfac decl kind program element iprogramel kind interfac
+type declar typedeclar kind member type declar membertypedeclar modifi type declar typedeclar enum decl enum decl kind program element iprogramel kind enum
+type declar typedeclar kind member type declar membertypedeclar modifi type declar typedeclar annot type decl annot type decl kind program element iprogramel kind annot
+support
+member type declar membertypedeclar annot
+member type declar membertypedeclar annot length
+annot annot member type declar membertypedeclar annot
+arrai equal annot type type bind public gettypebindingpubl scope signatur
+lorg aspectj lang annot aspect char arrai tochararrai
+kind program element iprogramel kind aspect
+program element iprogramel node penod program element programel
+full fullnam
+kind
+make locat makeloc member type declar membertypedeclar
+member type declar membertypedeclar modifi
+node penod set sourc signatur setsourcesignatur gen sourc signatur gensourcesignatur member type declar membertypedeclar
+node penod set formal comment setformalcom gener javadoc comment generatejavadoccom member type declar membertypedeclar
+'new runnabl set
+bytecodesignatur typenam match
+creat structur model
+node penod bytecod signatur getbytecodesignatur
+member type declar membertypedeclar bind
+member type declar membertypedeclar bind constant pool constantpoolnam
+string token stringtoken string token stringtoken
+string member type declar membertypedeclar bind constant pool constantpoolnam
+token hasmoretoken
+string token nexttoken
+token hasmoretoken
+node penod set bytecod signatur setbytecodesignatur
+program element iprogramel stack peek add child addchild node penod
+stack push node penod

@@ -1,0 +1,13 @@
+org aspectj ajdt ajc
+icommand adapt aspectj compil
+thread safe
+ajdt command ajdtcommand command icommand
+run aspectj compil wrap except thrown
+abort messag abort messag string
+param handler imessagehandl messag
+org aspectj bridg icommand repeatcommand imessagehandl
+return fals handler error command fail
+repeat command repeatcommand messag handler imessagehandl handler
+build manag buildmanag
+messag util messageutil abort handler repeatcommand call runcommand
+command docommand handler

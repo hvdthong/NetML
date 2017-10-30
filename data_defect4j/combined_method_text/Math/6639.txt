@@ -1,0 +1,18 @@
+order integr jacobian firstorderintegratorwithjacobian
+evalu getevalu
+od jacobian odewithjacobian
+extend jacobian raw od variat equat
+order comput state deriv od problem
+org apach common math od jacobian
+code integr code method method call
+ad form compound problem higher dimens origin od
+dimens time
+number evalu correspond call
+comput partial deriv solut respect initi state
+parameter od parameterizedod
+evalu
+version revis date
+enhanc order integr differenti equat
+problem dimens paramet compound problem
+number evalu differenti equat function
+paramet

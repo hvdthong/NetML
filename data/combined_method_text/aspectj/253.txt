@@ -1,0 +1,7 @@
+org aspectj ajd core
+interfac present user inform
+progress build
+build progress monitor ibuildprogressmonitor
+stop progress monitor
+param wasfullbuild true full build fals
+finish full build wasfullbuild

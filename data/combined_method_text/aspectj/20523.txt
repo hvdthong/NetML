@@ -1,0 +1,34 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener singleton ajc clinit method generatepersingletonajcclinitmethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak ajc post clinit method ajcpostclinitmethod aspect type aspecttyp
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+instruct list instructionlist method bodi getbodi
+append factori creat createnew aspect type aspecttyp getnam
+append instruct constant instructionconst dup
+append factori creat invok createinvok aspect type aspecttyp getnam init type void type arg arg constant invokespeci
+append util creat set createset factori ajc member maker ajcmembermak singleton field persingletonfield aspect type aspecttyp
+append instruct factori instructionfactori creat return createreturn type void
+patch clinit deleg ajc postclinit end
+lazi method gen lazymethodgen clinit class gen classgen static initi getstaticiniti
+instruct list instructionlist
+instruct handl instructionhandl start trystart append factori creat invok createinvok aspect type aspecttyp getnam mangler namemangl ajc post clinit ajc post clinit type void type arg arg constant invokestat
+branch instruct branchinstruct end tryend instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto
+append end tryend
+instruct handl instructionhandl handler append instruct constant instructionconst astor
+append instruct constant instructionconst aload
+append util creat set createset factori ajc member maker ajcmembermak init failur field initfailurecausefield aspect type aspecttyp
+append instruct factori instructionfactori creat return createreturn type void
+end tryend set target settarget end getend
+replac origin return nop
+todo bit odd bcel alter bytecod impdep1 represent
+clinit bodi getbodi end getend instruct getinstruct opcod getopcod constant impdep1
+clinit bodi getbodi end getend prev getprev set instruct setinstruct nop
+clinit bodi getbodi end getend set instruct setinstruct nop
+clinit bodi getbodi append
+clinit add except handler addexceptionhandl
+start trystart handler prev getprev handler object type objecttyp java lang throwabl

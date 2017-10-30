@@ -1,0 +1,12 @@
+deprec remov
+set iter evalu count
+goal
+base handl boiler plate method threshold
+org apach common math3 optim direct
+version
+evalu count initi guess simpl bound set
+optim type
+param func type object function optim
+base implement optim multivari scalar function
+goal type goaltyp goal type getgoaltyp
+base abstract multivari optim baseabstractmultivariateoptim func multivari function multivariatefunct

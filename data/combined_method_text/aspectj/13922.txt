@@ -1,0 +1,55 @@
+org aspectj apach bcel gener
+class contain list
+href instruct html instruct object instruct
+append insert move delet instruct
+wrap
+href instructionhandl html instructionhandl object
+return append insert oper give user
+read access list structur travers
+manipul control
+list final dump byte code arrai
+href getbytecod getbytecod
+version instructionlist java aclement exp
+author href mailto marku dahm berlin dahm
+instruct
+instructionhandl
+branchhandl
+instruct list instructionlist serializ
+remov instruct prev' instruct next' contain
+list throw targetlostexcept remov instruct handl
+target
+param prev start delet predecessor exclus
+param end delet successor exclus
+remov instruct handl instructionhandl prev instruct handl instructionhandl
+target lost except targetlostexcept
+instruct handl instructionhandl instructionhandl delet instruct
+prev prev null null singleton list
+start
+start end
+prev prev null start list
+start
+start
+prev
+prev
+null end list
+end
+end prev
+prev
+prev prev
+prev prev null complet separ rest list
+arrai list arraylist target vec arrai list arraylist
+instruct handl instructionhandl
+instruct getinstruct dispos getinstruct dispos branchinstruct releas target
+string buffer stringbuff buf string buffer stringbuff
+instruct handl instructionhandl
+length
+target hastarget hastarget target
+target vec add
+buf append string tostr
+prev
+dispos
+buf append
+target vec empti isempti
+instruct handl instructionhandl target instruct handl instructionhandl target vec size
+target vec arrai toarrai target
+target lost except targetlostexcept target buf string tostr

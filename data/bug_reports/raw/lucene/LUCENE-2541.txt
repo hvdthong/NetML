@@ -1,0 +1,4 @@
+NumericRangeQuery errors with endpoints near long min and max values
+ This problem first reported in Solr: 
+
+ <a href="http://lucene.472066.n3.nabble.com/range-query-on-TrieLongField-strange-result-tt970974.html#a970974" class="external-link" rel="nofollow">http://lucene.472066.n3.nabble.com/range-query-on-TrieLongField-strange-result-tt970974.html#a970974</a> 

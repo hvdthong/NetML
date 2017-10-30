@@ -1,0 +1,11 @@
+org aspectj ajd core
+interfac handl messag compil
+implement defin messag log
+handler abort process
+build messag handler ibuildmessagehandl
+handl messag report throw abortexcept
+param messag imessag handl null
+return true messag handl handler
+throw illegalargumentexcept messag null
+throw abortexcept depend handler logic
+handl messag handlemessag messag imessag messag abort except abortexcept

@@ -1,0 +1,44 @@
+org aspectj util
+lang util langutil
+extract option argument input paramet list return remaind
+param arg string input option
+param validopt string option find input arg null
+param optionarg int number argument option validopt
+null argument option
+param extract list match option
+return string arg remain extract option extract
+string extract option extractopt string arg string valid option validopt
+option arg optionarg list extract
+lang util langutil empti isempti arg
+lang util langutil empti isempti valid option validopt
+arg
+option arg optionarg
+option arg optionarg length valid option validopt length
+illeg argument except illegalargumentexcept arg match option
+string result string arg length
+result index resultindex
+arg length
+found
+found valid option validopt length
+string sought valid option validopt
+domor option arg optionarg option arg optionarg
+lang util langutil empti isempti sought
+found sought equal arg
+extract
+extract add sought
+domor
+max domor
+max arg length
+string expect domor arg
+illeg argument except illegalargumentexcept arg
+extract
+max
+extract add arg
+max
+found
+result result index resultindex arg
+result index resultindex arg length
+string temp string result index resultindex
+system arraycopi result temp result index resultindex
+arg temp
+arg

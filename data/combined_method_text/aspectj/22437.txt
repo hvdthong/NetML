@@ -1,0 +1,56 @@
+org aspectj weaver pattern
+pattern parser patternpars
+list pars dot pattern parsedottednamepattern
+list name arrai list arraylist
+string buffer stringbuff buf string buffer stringbuff
+token itoken previou
+process ellipsi justprocessedellipsi boolean justprocessedellipsi fals rememb dealt ellipsi pr61536
+process dot justprocesseddot
+dot onadot
+token itoken tok
+start po startpo token sourc tokensourc peek start getstart
+string dot afterdot
+previou previou string getstr equal process dot justprocesseddot
+tok token sourc tokensourc peek
+dot onadot tok string getstr equal
+previou
+adjac isadjac previou tok
+tok string getstr tok identifi isidentifi tok string getstr
+buf append tok string getstr
+tok string getstr
+tok liter kind getliteralkind
+system err println liter kind tok getstr
+string tok string getstr
+dot index indexof
+dot
+buf append substr dot
+dot afterdot substr dot
+previou token sourc tokensourc
+buf append buf append
+previou token sourc tokensourc
+xxx handl float fun stuff
+end po endpo token sourc tokensourc peek end getend
+buf length name empti isempti
+parser except parserexcept pattern tok
+buf length process ellipsi justprocessedellipsi
+parser except parserexcept pattern finish tok
+buf length process dot justprocesseddot dot onadot
+parser except parserexcept pattern finish tok
+buf length
+name add pattern namepattern ellipsi
+process ellipsi justprocessedellipsi
+check legal checklegalnam buf string tostr previou
+pattern namepattern ret pattern namepattern buf string tostr
+ret set locat setloc sourc context sourcecontext start po startpo end po endpo
+name add ret
+process ellipsi justprocessedellipsi
+dot afterdot
+buf set length setlength
+elipsi dot part
+eat maybeeat
+previou token sourc tokensourc peek
+buf set length setlength
+buf append dot afterdot
+dot afterdot
+system err println pars name
+name

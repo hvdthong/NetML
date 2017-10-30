@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+correspond target pcd
+type initi wildtypepattern stai foo
+type deal
+resolvebind method convert bindingtypepattern
+case foo type deal
+author erik hilsdal
+author jim hugunin
+target pointcut thisortargetpointcut bind pointcut namebindingpointcut
+hash code hashcod
+result
+result result isthi
+result result type hash code hashcod
+result

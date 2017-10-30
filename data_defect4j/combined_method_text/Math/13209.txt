@@ -1,0 +1,20 @@
+data v1data
+param vector put back vector
+system arraycopi data v2data data data v1data length data v2data length
+link field vector fieldvector link field element fieldel arrai
+org apach common math3 linear
+param type field element
+code
+field field getfield
+arrai field vector arrayfieldvector field element fieldel field vector fieldvector serializ
+math util mathutil check null checknotnul
+construct vector append vector vector
+arrai field vector arrayfieldvector field vector fieldvector field vector fieldvector
+param vector put front vector
+version
+system arraycopi data v1data data data v1data length
+null argument except nullargumentexcept code code
+data v2data
+arrai field vector arrayfieldvector arrai field vector arrayfieldvector data arrai toarrai
+data math arrai matharrai build arrai buildarrai field data v1data length data v2data length
+null argument except nullargumentexcept

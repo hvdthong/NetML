@@ -1,0 +1,27 @@
+arg read object readobject
+localiz pat localiz read object readobject
+msg pattern msgpattern add pat
+math runtim except mathruntimeexcept runtim except runtimeexcept
+class found except classnotfoundexcept happen
+deseri link messag
+len read int readint
+except ioexcept happen
+msg argument msgargument add arg
+deseri link msg pattern msgpattern link msg argument msgargument
+object arg object len alen
+class found except classnotfoundexcept
+base except
+localiz kei localiz read object readobject
+version revis date
+len alen
+org apach common math except
+messag arrai list arraylist serializ pair serializablepair localiz object len
+len
+len alen read int readint
+param stream
+except ioexcept
+serial messag deserializemessag object input stream objectinputstream
+step
+msg argument msgargument arrai list arraylist object len
+messag add serializ pair serializablepair localiz object kei arg
+msg pattern msgpattern arrai list arraylist localiz len

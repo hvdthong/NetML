@@ -1,0 +1,16 @@
+org apach common math3 analysi solver
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+upper
+param lower lower endpoint
+check endpoint interv
+provid implement function gener
+univari solver util univariatesolverutil verifi interv verifyinterv lower upper
+number larg except numberistoolargeexcept
+param upper upper endpoint
+code lower upper
+verifi interv verifyinterv lower
+org apach common math3 except number larg except numberistoolargeexcept
+number larg except numberistoolargeexcept code lower upper

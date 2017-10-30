@@ -1,0 +1,9 @@
+org apach common math3 analysi solver
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+max getmax
+provid implement function gener
+higher end search interv
+search max searchmax

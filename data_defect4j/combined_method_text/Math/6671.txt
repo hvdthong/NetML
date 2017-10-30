@@ -1,0 +1,221 @@
+55y' 59y' 37y' 9y'
+updat high order deriv phase2 updatehighorderderivativesphase2 scale predict scale predictedsc nordsieck tmp nordsiecktmp
+step adam bashforth method order limit
+set equat setequ equat
+inherit doc inheritdoc
+hnew
+evalu error term taylor expans
+stepsiz control step
+manag step accept stepaccept step nextstep
+hnew filter step filterstep step size stepsiz factor forward
+interpol truncat step truncatestep manag event time geteventtim
+interpol store time storetim step start stepstart
+result taylor seri formula
+step laststep
+system arraycopi interpol interpol state getinterpolatedst length
+y''' deriv
+interpol set interpol time setinterpolatedtim step end stepend
+ratio nordsieck entri getentri row lastrow tol
+stop time stoptim step start stepstart
+math user except mathuserexcept integr except integratorexcept
+higher degre scale deriv step
+scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler scale yscale
+system arraycopi interpol interpol state getinterpolatedst
+comput deriv computederiv step end stepend dot ydot
+stop time stoptim
+step size stepsiz forward step step
+adam bashforth integr adamsbashforthintegr multistep integr multistepintegr
+y'' deriv
+version revis date
+interpol reiniti step start stepstart step size stepsiz scale nordsieck
+step size stepsiz filter step filterstep step size stepsiz forward
+reject step attempt reduc error stepsiz control
+deriv step depend number previou
+step handler stephandl handler step handler stephandl
+combin event manag combinedeventsmanag manag add end time checker addendtimecheck event handler manag eventshandlersmanag
+hnew filter step filterstep scale scaledh forward nextislast
+previou previousf length
+adapt stepsiz implement error control
+system arraycopi interpol interpol state getinterpolatedst tmp ytmp length
+term
+invalid deriv restart scratch
+reset step safe
+predict scale predictedsc length
+nordsieck vector step comput nordsieck vector step
+fast math fastmath ab fast math fastmath ulp step start stepstart
+interpol set interpol time setinterpolatedtim step nextstep
+system arraycopi
+step islaststep
+scale scaledh step size stepsiz factor
+truncat
+nextt step start stepstart scale scaledh
+array2 row real matrix array2drowrealmatrix nordsieck tmp nordsiecktmp updat high order deriv phase1 updatehighorderderivativesphase1 nordsieck
+previou previoust step start stepstart step size stepsiz
+deriv let defin
+manag reset step start stepstart
+error math sqrt error length
+rotat previou step rotatepreviousstep
+step laststep manag stop
+multistep od solver witch fix stepsiz state vector
+step simpl combin step
+factor comput step grow shrink factor computestepgrowshrinkfactor error
+start step start stepstart
+interpol rescal hnew
+step start stepstart step nextstep
+code fail handl
+greatli simplifi step interpol interpol appli
+step laststep manag reset step start stepstart
+predict estim state step end
+simplifi step occur discret event truncat
+sum
+adam bashforth step interpol adamsbashforthstepinterpol prototyp copi
+step start stepstart
+set integr control object
+degre polynomi
+prepar step
+step trigger
+step comput formula
+classic represent nordsieck vector transform
+manag evalu step evaluatestep interpol tmp interpolatortmp
+system arraycopi tmp ytmp length
+error ratio ratio
+deriv
+predict scale predictedsc step size stepsiz dot ydot
+differenti equat
+small due limit accuraci
+previou formula valu comput transform
+reset evalu resetevalu
+set interpol share integr arrai
+interpol store time storetim step nextstep
+reset intern state resetinternalst
+error fast math fastmath sqrt error main set dimens mainsetdimens
+main set dimens mainsetdimens
+evalu deriv
+scale predict scale predictedsc
+row lastrow nordsieck row dimens getrowdimens
+interpol tmp interpolatortmp shift
+interpol tmp interpolatortmp store time storetim step start stepstart
+adam moulton method due adam
+23f 16f
+step start stepstart accept step acceptstep interpol dot ydot
+explicit adam bashforth integr ordinari
+loop loop
+length
+provid step data step handler
+classic implement fix step size state vector
+coeff length
+adam moulton integr adamsmoultonintegr
+interpol set interpol time setinterpolatedtim previou previoust
+nordsieck nordsieck tmp nordsiecktmp
+pre
+reus step chosen starter integr
+23y' 16y' 5y'
+taylor seri formula
+discret event handl
+equat comput deriv computederiv step start stepstart previou previousf
+hnew step size stepsiz
+sum coeff previou previousf
+step adam bashforth method order
+nordsieck step interpol nordsieckstepinterpol interpol tmp interpolatortmp nordsieck step interpol nordsieckstepinterpol
+taylor seri formula show index offset
+interpol tmp interpolatortmp store time storetim step end stepend
+depend precomput
+set artifici size step copi state
+tmp ytmp step size stepsiz sum
+comput step configur starter integr
+implement detail
+start
+vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler scale yscale
+provid link adam moulton integr adamsmoultonintegr adam moulton integr adamsmoultonintegr
+step truncat adjust previou step
+vector time matrix built
+forward
+row shift matrix lower left part ident matrix
+interpol store time storetim step end stepend
+deriv except derivativeexcept integr except integratorexcept
+manag event time geteventtim step start stepstart
+bdf integr bdfintegr
+rare case step size stepsiz
+estim state end step
+evalu differenti equat step
+doubl isnan previou previoust
+math ab math ulp step start stepstart
+method explicit comput
+scale yscale fast math fastmath ab
+interpol reiniti step end stepend step size stepsiz scale nordsieck
+filter filterednextt step start stepstart hnew
+comput initi nordsieck vector configur starter integr
+adam bashforth step interpol adamsbashforthstepinterpol interpol
+tmp ytmp length
+accur implicit adam method exist
+event occur integr start reduc step
+integr order differenti equat firstorderdifferentialequ equat
+step size stepsiz hnew
+tol vec absolut toler vecabsolutetoler
+interpol shift
+accept step
+updat nordsieck vector
+reject step lead small step accept
+hnew step start stepstart
+classic represent deriv
+main integr loop
+defin
+error math sqrt error main set dimens mainsetdimens
+error
+previou previoust step start stepstart
+interpol reiniti step end stepend step size stepsiz predict scale predictedsc nordsieck tmp nordsiecktmp
+loop
+manag evalu step evaluatestep interpol
+overrid
+comput formula exact
+adam bashforth fact due adam method explicit
+org apach common math od nonstiff
+nextislast forward nextt nextt
+step size stepsiz
+nordsieck vector advantag
+step start stepstart previou previoust
+interpol store time storetim step start stepstart step size stepsiz
+reject step match time
+simpli truncat step reject current comput
+interpol reiniti tmp ytmp previou previoust previou previousf forward
+extend method order support adapt stepsiz
+dot ydot
+step size stepsiz step
+set state initi setstateiniti
+adam bashforth method fact due adam explicit
+step size stepsiz doubl nan
+omit index notat clariti definit
+loop comput state truncat step
+defin scale deriv step
+system arraycopi length
+event handler trigger
+step nextstep interpol current time getcurrenttim
+scale yscale math ab
+handler handl step handlestep interpol step laststep
+system arraycopi tmp ytmp
+implement nordsieck vector
+saniti check sanitycheck equat
+comput deriv computederiv step end stepend tmp ytmp dot ydot
+3y'
+start previou previousf length step size stepsiz manag equat step start stepstart
+step start stepstart doubl nan
+initi work arrai
+handler reset
+step nextstep step start stepstart step size stepsiz
+omit index notat clariti
+filter filterednextislast
+interpol reiniti forward
+step end stepend step start stepstart step size stepsiz
+adam bashforth method written
+55f 59f 37f
+step accept truncat
+multistep od solver implement variat classic
+reset occur resetoccur
+adam bashforth integr adamsbashforthintegr adam integr adamsintegr
+definit classic represent previou
+interpol tmp interpolatortmp reiniti tmp ytmp forward
+interpol tmp interpolatortmp reiniti step end stepend step size stepsiz predict scale predictedsc nordsieck tmp nordsiecktmp
+shift data
+filter filterednextislast forward filter filterednextt filter filterednextt
+vector matrix depend state
+nordsieck step interpol nordsieckstepinterpol interpol nordsieck step interpol nordsieckstepinterpol

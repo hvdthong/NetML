@@ -1,0 +1,25 @@
+org aspectj weaver
+shadow
+relationship irelationship kind determin rel kind determinerelkind shadow munger shadowmung munger
+advic kind advicekind advic munger kind getkind
+kei getkei advic kind advicekind kei getkei
+relationship irelationship kind advic advic
+kei getkei advic kind advicekind kei getkei
+relationship irelationship kind advic advic
+kei getkei advic kind advicekind throw afterthrow kei getkei
+relationship irelationship kind advic afterthrow advic afterthrow
+kei getkei advic kind advicekind return afterreturn kei getkei
+relationship irelationship kind advic afterreturn advic afterreturn
+kei getkei advic kind advicekind kei getkei
+relationship irelationship kind advic advic
+kei getkei advic kind advicekind cflow entri cflowentri kei getkei
+kei getkei advic kind advicekind cflow entri cflowbelowentri kei getkei
+kei getkei advic kind advicekind inter initi interiniti kei getkei
+kei getkei advic kind advicekind cflow entri percflowentri kei getkei
+kei getkei advic kind advicekind cflow entri percflowbelowentri kei getkei
+kei getkei advic kind advicekind entri perthisentri kei getkei
+kei getkei advic kind advicekind target entri pertargetentri kei getkei
+kei getkei advic kind advicekind soften kei getkei
+kei getkei advic kind advicekind type entri pertypewithinentri kei getkei
+system err println dont messag
+runtim except runtimeexcept shadow determinerelkind hell

@@ -1,0 +1,11 @@
+solv method unmodifi view deep copi
+org apach common math3 linear
+solut
+link iter linear solver iterativelinearsolv
+return current estim solut linear system
+actual current solut order compromis subsequ
+iter linear solver event iterativelinearsolverev
+version
+real vector realvector solut getsolut
+base event occur iter
+iter sourc link iter linear solver iterativelinearsolv

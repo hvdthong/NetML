@@ -1,0 +1,69 @@
+pass file comput min max
+href http nedwww ipac caltech level5 march02 silverman silver2 html
+except ioexcept error occur
+data adapt factori dataadapterfactori factori afactori data adapt factori dataadapterfactori
+gener uniformli distribut
+summari statist summarystatist stat summari statist summarystatist
+divid interv subinterv bin
+param object provid access data
+bin upper bound binupperbound bin count bincount max
+upper bound upperbound upper bound upperbound
+load arrai bin upper bound evenli space min max
+select subinterv belong
+strong gener random valu distribut strong
+fill data bin stat binstat arrai
+runtim except runtimeexcept messag getmessag
+strong usag note strong
+bin stat binstat clear
+rte
+except ioexcept ioe
+set grid
+runtim except runtimeexcept
+bin upper bound binupperbound bin count bincount
+delta max min doubl valueof bin count bincount doublevalu
+upper bound upperbound bin count bincount
+initi bin stat binstat arrai list arraylist
+except
+fill bin stat binstat arrai pass data file
+bin stat binstat empti isempti
+data adapt dataadapt factori afactori adapt getadapt
+version
+input file plain text file valid numer
+version revis date
+delta max min doubl bin count bincount doublevalu
+bin upper bound binupperbound min delta
+strong digest input file strong
+runtim except runtimeexcept rte
+pass data file comput bin count univari
+except ioexcept messag getmessag
+comput bin stat computebinstat min delta
+bin upper bound binupperbound bin upper bound binupperbound delta
+fill bin stat fillbinstat object except ioexcept
+wrap except except ioexcept
+bin stat binstat getn sampl stat samplestat getn
+math runtim except mathruntimeexcept creat except createioexcept
+min sampl stat samplestat min getmin
+wrap runtim except runtimeexcept
+length bin' subinterv proport count
+entri line
+code bin count bincount code set good rule thumb
+upper bound upperbound
+org apach common math random
+ioe
+bin stat binstat add stat
+summari statist summarystatist bin stat binstat getn
+implement code empir distribut empiricaldistribut code implement
+summari statist summarystatist stat summari statist summarystatist instanc newinst
+empir distribut impl empiricaldistributionimpl serializ empir distribut empiricaldistribut
+divid rang min max code bin count bincount code bin
+set bin count approxim length input file divid
+bin count bincount
+assign upper bound upperbound base bin count
+statist std dev bin
+amount
+comput bin stat computebinstat
+gener random gaussian
+variabl kernel method gaussian smooth
+bin std dev std dev bin
+sampl stat samplestat getn
+max sampl stat samplestat max getmax

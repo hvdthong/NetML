@@ -1,0 +1,12 @@
+leak deleted open file handles pooled readers
+cfs enabled today pooling enabled directly
+pulled nrt reader indexwriter hold open
+segmentreaders cfs format merged segment
+close nrt readers pulled writer
+file handles open files
+deleted
+count grow unbounded limited number
+segments index problem
+app turned cfs place avoid risk
+open files bad ties disk space
+files deleted

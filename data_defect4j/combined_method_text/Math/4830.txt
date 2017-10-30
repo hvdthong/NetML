@@ -1,0 +1,19 @@
+implement partial pivot
+decompos real matrix realmatrix
+org apach common math linear
+link solv link solv real matrix realmatrix link solv real vector realvector
+build instanc
+lup decomposit matrix consist matric
+version revis date
+link solv real vector impl realvectorimpl method call
+calcul lup decomposit squar matrix
+satisfi lup lower triangular
+link getu link determin getdetermin link singular isnonsingular
+note link decompos real matrix realmatrix
+shown presenc matrix decomposit
+time
+upper triangular permut matrix matric
+link getp link pivot getpivot link getl
+decomposit impl ludecompositionimpl decomposit ludecomposit
+decomposit impl ludecompositionimpl
+link decompos real matrix realmatrix strong strong call

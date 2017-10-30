@@ -1,0 +1,6 @@
+org aspectj weaver
+object interfac type munger perobjectinterfacetypemung resolv type munger resolvedtypemung
+object interfac type munger perobjectinterfacetypemung unresolv type unresolvedtyp aspect type aspecttyp pointcut test pointcut testpointcut
+object interfac perobjectinterfac
+test pointcut testpointcut test pointcut testpointcut
+interfac type interfacetyp ajc member maker ajcmembermak object interfac type perobjectinterfacetyp aspect type aspecttyp

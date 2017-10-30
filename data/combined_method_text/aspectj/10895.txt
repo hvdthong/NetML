@@ -1,0 +1,4 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+string print writer stringprintwrit string writer stringwrit
+string writer stringwrit

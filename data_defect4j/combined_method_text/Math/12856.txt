@@ -1,0 +1,12 @@
+org apach common math3 geometri partit
+bsp tree bsptree tree gettre includ boundari attribut includeboundaryattribut
+comput boundari attribut
+inherit doc inheritdoc
+param type space
+tree
+abstract region abstractregion space space region
+recurs build boundari recursebuildboundari tree
+includ boundari attribut includeboundaryattribut tree cut getcut tree attribut getattribut
+version
+abstract region independ geometri type dimens
+tree visit boundari builder boundarybuild

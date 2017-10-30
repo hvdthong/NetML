@@ -1,0 +1,27 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+match declar type return type paramet type throw type
+fuzzi boolean fuzzyboolean match method matchesexactlymethod join point signatur joinpointsignatur method amethod world world subject match subjectmatch
+match method amethod getnam fuzzi boolean fuzzyboolean
+check throw pattern
+subject match subjectmatch throw pattern throwspattern match method amethod except getexcept world fuzzi boolean fuzzyboolean
+declar type declaringtyp match static matchesstat method amethod declar type getdeclaringtyp resolv world fuzzi boolean fuzzyboolean
+return type returntyp match static matchesstat method amethod return type getreturntyp resolv world
+bad parameter
+return type returntyp match static matchesstat method amethod gener return type getgenericreturntyp resolv world
+bad
+fuzzi boolean fuzzyboolean
+paramet type parametertyp match signatur paramet canmatchsignaturewithnparamet method amethod paramet type getparametertyp length fuzzi boolean fuzzyboolean
+resolv type resolvedtyp resolv paramet resolvedparamet world resolv method amethod paramet type getparametertyp
+resolv type resolvedtyp paramet annot type parameterannotationtyp method amethod paramet annot type getparameterannotationtyp
+paramet annot type parameterannotationtyp paramet annot type parameterannotationtyp length paramet annot type parameterannotationtyp
+paramet type parametertyp match resolv paramet resolvedparamet type pattern typepattern static paramet annot type parameterannotationtyp true alwaystru
+match base gener sig paramet type parameter type
+paramet type parametertyp match world resolv method amethod gener paramet type getgenericparametertyp type pattern typepattern static true alwaystru
+fuzzi boolean fuzzyboolean
+match base erasur paramet type
+determin test case
+check vararg specif match
+match var arg matchesvararg method amethod world fuzzi boolean fuzzyboolean
+pass guard
+fuzzi boolean fuzzyboolean

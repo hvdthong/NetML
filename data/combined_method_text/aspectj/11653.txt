@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil lookup
+inter type scope intertypescop class scope classscop
+sourc type bind sourcetypebind make sourc type bind makesourcetypebind refer bind referencebind type ontyp
+type ontyp sourc type bind sourcetypebind sourc type bind sourcetypebind type ontyp
+type ontyp parameter type bind parameterizedtypebind
+refer bind referencebind parameter type bind parameterizedtypebind type ontyp type
+sourc type bind sourcetypebind sourc type bind sourcetypebind
+except bcexcept parameter type type ontyp handl refer bind
+type ontyp problem refer bind problemreferencebind
+type ontyp type variabl bind typevariablebind
+problem report itd type variabl
+except bcexcept handl type ontyp

@@ -1,0 +1,21 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+string gener string togenericstr
+string buffer stringbuff buf string buffer stringbuff
+buf append gener return type getgenericreturntyp simpl getsimplenam
+buf append
+buf append declar type declaringtyp getnam
+buf append
+buf append
+kind field
+buf append
+unresolv type unresolvedtyp param gener paramet type getgenericparametertyp
+param length
+buf append param simpl getsimplenam
+len param length len
+buf append
+buf append param simpl getsimplenam
+buf append
+buf string tostr

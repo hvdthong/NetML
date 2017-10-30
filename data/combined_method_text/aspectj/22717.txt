@@ -1,0 +1,28 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+fuzzi boolean fuzzyboolean match annot matchesannot resolv member resolvedmemb member world world
+member
+member getnam start startswith mangler namemangl prefix
+fuzzi boolean fuzzyboolean
+world lint getlint unresolv member unresolvablememb signal member string tostr sourc locat getsourceloc
+fuzzi boolean fuzzyboolean
+annot pattern annotationpattern resolv world
+optim dig annot itd
+annot pattern annotationpattern annot type pattern anyannotationtypepattern fuzzi boolean fuzzyboolean
+fake member repres itd'd field annot
+relev member origin aspect
+member annot isannotatedelsewher member kind getkind member field
+fixm asc duplic code annotationpointcut matchintern fixm appli
+resolv member resolvedmemb mem member declar type getdeclaringtyp resolv world declar field getdeclaredfield resolvedmemb mem member getdeclaringtyp resolv world getdeclaredfield fixm asc includ super getintertypemungersincludingsup
+list munger member declar type getdeclaringtyp resolv world inter type munger getintertypemung
+iter iter munger iter iter hasnext
+bcel type munger bceltypemung type munger typemung bcel type munger bceltypemung iter
+type munger typemung munger getmung field type munger newfieldtypemung
+resolv member resolvedmemb fakerm type munger typemung signatur getsignatur
+resolv member resolvedmemb ajc method ajcmethod ajc member maker ajcmembermak inter field initi interfieldiniti fakerm type munger typemung aspect type getaspecttyp
+resolv member resolvedmemb rmm find method findmethod type munger typemung aspect type getaspecttyp ajc method ajcmethod
+fakerm equal member
+member rmm
+annot pattern annotationpattern match member true alwaystru
+fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean return fuzzyboolean ancestor member

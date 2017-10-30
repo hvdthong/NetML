@@ -1,0 +1,57 @@
+dimens
+current simplex move vertex
+data abstract simplex abstractsimplex
+previou current simplex converg checker
+scan list requir option optim data
+simplex base direct search optim
+deriv comput approxim
+pars optim data parseoptimizationdata optim data optimizationdata opt data optdata
+optim simpl bound optim
+function unpredict discontinu difficult complex
+simplex updat procedur link nelder mead simplex neldermeadsimplex
+link multi direct simplex multidirectionalsimplex pass
+provid start point optim
+multivari function penalti adapt multivariatefunctionpenaltyadapt
+overrid
+link abstract simplex abstractsimplex
+direct search method object function valu
+version
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+multivari function map adapt multivariatefunctionmappingadapt
+number paramet chang simplex initi
+optim data optimizationdata data opt data optdata
+comput deriv imposs noisi
+converg check provid worst point
+set point dimens updat algorithm
+object function valu vertic simplex
+function wrap adapt
+direct search method
+optimum desir found case
+simplex abstract simplex abstractsimplex data
+link org apach common math3 optim nonlinear scalar multivari function map adapt multivariatefunctionmappingadapt
+character problem
+step
+param opt data optdata optim data
+code optim method
+link org apach common math3 optim nonlinear scalar multivari function penalti adapt multivariatefunctionpenaltyadapt
+call code optim start configur
+chang
+data look
+call link optim optim data optimizationdata optim
+org apach common math3 optim nonlinear scalar noderiv
+link cmae optim cmaesoptim link bobyqa optim bobyqaoptim object
+data pars statement
+simplex optim implement directli support constrain
+base regist data
+simplex base direct search method base comparison
+deriv paper margaret wright
+bad point desir case
+dedic algorithm
+comput cost case optimum
+provid argument list
+search method scorn respect
+simplex optim simplexoptim multivari optim multivariateoptim
+code optim method call solv problem
+pars optim data parseoptimizationdata opt data optdata
+exist valu set previou call reus
+href http bell lab doc direct

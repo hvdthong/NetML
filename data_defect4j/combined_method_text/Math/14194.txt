@@ -1,0 +1,25 @@
+pre
+save membership matrix savemembershipmatrix matrix
+distanc data point cluster center
+system arraycopi membership matrix membershipmatrix matrix cluster size
+algorithm minim object function
+initi cluster center
+number cluster
+algorithm requir paramet
+version
+param type point cluster
+org apach common math3 cluster
+max iter maxiter maximum number iter
+fuzzi mean algorithm variat classic mean algorithm
+major differ singl data point uniqu assign singl cluster
+fuzzi variant mean algorithm robust regard select
+point size
+epsilon converg criteria
+param matrix place store membership matrix
+addit option paramet
+fuzzi determin level cluster fuzzi larger valu lead fuzzier cluster
+cluster
+copi membership matrix provid matrix
+fuzzi mean cluster fuzzykmeanscluster cluster cluster
+point set weight degre membership
+fuzzi mean cluster algorithm

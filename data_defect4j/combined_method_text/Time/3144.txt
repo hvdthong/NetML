@@ -1,0 +1,16 @@
+author stephen colebourn
+set instant field util fieldutil wrap getwrappedvalu instant amount min imin max imax
+param amount amount scale unit add neg
+fix divisor field' unit durat scale
+remaind date time field remainderdatetimefield
+org joda time field
+param instant time instant milli updat
+wrap compon
+divid date time field divideddatetimefield decor date time field decorateddatetimefield
+add scale compon time instant
+updat time instant
+author brian neill o'neil
+add wrap field addwrapfield instant amount
+divid date time field divideddatetimefield thread safe immut
+divid date time field datetimefield retriev valu reduc
+rang durat unchang

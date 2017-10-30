@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+object visit cflow pointcut cflowpointcut node object data
+append node cflow iscflowbelow cflowbelow cflow
+node entri getentri accept data
+append

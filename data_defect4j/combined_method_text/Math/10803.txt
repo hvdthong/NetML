@@ -1,0 +1,19 @@
+org apach common math3 analysi solver
+code solv method root function
+solver accur toler epsilon
+param func type function solv
+univari solver univariatesolv
+link univari solver univariatesolv link polynomi solver polynomialsolv link
+interfac univari real rootfind algorithm
+absolut accuraci solver code return
+base univari solver baseunivariatesolv func univari function univariatefunct
+implement search interv
+librari regular user reli specif interfac
+polynomi solver polynomialsolv
+version
+absolut accuraci getabsoluteaccuraci
+intend apach common math
+absolut accuraci
+absolut accuraci solver solut return
+exist interv code epsilon code epsilon
+differenti univari solver differentiableunivariatesolv

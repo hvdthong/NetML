@@ -1,0 +1,14 @@
+org aspectj ajd swing
+repres configur structur view system render
+code structuretreemanag code
+author mik kersten
+structur view panel structureviewpanel panel jpanel structur view render structureviewrender
+set activ node setactivenod structur view node istructureviewnod node line offset lineoffset
+node
+node getstructurenod instanceof iprogramel return
+program element iprogramel node pnode program element iprogramel node structur node getstructurenod
+tree manag treemanag highlight node highlightnod node pnode
+node pnode sourc locat getsourceloc
+ajd default getdefault editor adapt geteditoradapt show sourc line showsourcelin
+node pnode sourc locat getsourceloc sourc file getsourcefil absolut path getabsolutepath
+node pnode sourc locat getsourceloc line getlin line offset lineoffset

@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math distribut
+
+
+concret distribut factori factori
+common math
+
+version revis date
+deprec pluggabl distribut instanc provid
+constructor setter
+
+distribut factori impl distributionfactoryimpl distribut factori distributionfactori
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+creat poisson distribut poisson paramet lambda
+
+lambda postiv
+code illeg argument except illegalargumentexcept code thrown
+
+param lambda poisson paramet
+poisson distribut
+illeg argument except illegalargumentexcept lambda
+
+poisson distribut poissondistribut creat poisson distribut createpoissondistribut lambda
+poisson distribut impl poissondistributionimpl lambda
+
+

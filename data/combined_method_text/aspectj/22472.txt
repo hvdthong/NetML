@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars code annot pointcut parsewithincodeannotationpointcut
+string kind pars identifi parseidentifi
+eat
+eat maybeeat
+parser except parserexcept expect annotationnam paramet found token sourc tokensourc peek
+exact annot type pattern exactannotationtypepattern type pars annot var type pattern parseannotationnameorvartypepattern
+eat
+code annot pointcut withincodeannotationpointcut type

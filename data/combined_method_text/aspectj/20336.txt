@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+name resolv type method member
+member
+type return find
+resolv member resolvedmemb find resolv member name findresolvedmembernam resolv type resolvedtyp type string method methodnam
+resolv member resolvedmemb method allmethod type declar method getdeclaredmethod
+method allmethod length
+resolv member resolvedmemb member method allmethod
+member getnam equal method methodnam member

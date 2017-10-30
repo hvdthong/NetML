@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+var xxxxjpstaticpart xxx enclos
+param isenclosingjp true enclosingjpstaticpart
+return
+bcel var bcelvar join point static part bcel var getthisjoinpointstaticpartbcelvar enclos isenclosingjp
+join point static part var thisjoinpointstaticpartvar
+field field enclos class getenclosingclass tjp field gettjpfield enclos isenclosingjp
+resolv type resolvedtyp sjp type sjptype
+world target aspect runtime12 istargettingaspectjruntime12 world istargettingaspectjruntime12 tag supporting12 jpsp type
+sjp type sjptype world core type getcoretyp unresolv type unresolvedtyp fornam org aspectj lang joinpoint staticpart
+sjp type sjptype enclos isenclosingjp
+world core type getcoretyp unresolv type unresolvedtyp fornam org aspectj lang joinpoint enclosingstaticpart
+world core type getcoretyp unresolv type unresolvedtyp fornam org aspectj lang joinpoint staticpart
+join point static part var thisjoinpointstaticpartvar bcel field ref bcelfieldref
+sjp type sjptype
+enclos class getenclosingclass class getclassnam
+field getnam
+getenclosingclass warnonaddedstaticiniti munger getsourceloc
+join point static part var thisjoinpointstaticpartvar

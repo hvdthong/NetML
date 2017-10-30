@@ -1,0 +1,14 @@
+param scale paramet distribut
+link org apach common math distribut cauchi distribut cauchydistribut
+creat cauchi distribut medain equal scale
+cauchi distribut impl cauchydistributionimpl
+creat cauchi distribut median scale
+set median setmedian median
+equal
+cauchi distribut impl cauchydistributionimpl abstract continu distribut abstractcontinuousdistribut
+version revis date
+default implement
+param median median distribut
+org apach common math distribut
+cauchi distribut impl cauchydistributionimpl median
+set scale setscal

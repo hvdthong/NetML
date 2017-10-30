@@ -1,0 +1,8 @@
+norm inf getnorminf
+version
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+inherit doc inheritdoc
+instanc guarante immut
+fast math fastmath max fast math fastmath ab fast math fastmath ab
+org apach common math geometri euclidean twod

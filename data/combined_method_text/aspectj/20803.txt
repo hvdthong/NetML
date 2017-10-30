@@ -1,0 +1,121 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+collect weav class file provid iclassfileprovid input except ioexcept
+trace trace enabl istraceen trace enter weav input
+context token contexttoken weav token weavetoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext weav
+collect woven class name wovenclassnam arrai list arraylist
+weav requestor iweaverequestor requestor input requestor getrequestor
+iter input class file iter getclassfileiter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+asm manag asmmanag creat model iscreatingmodel batch weav isbatchweav
+remov relationship file woven target relationship
+asm manag asmmanag default getdefault remov relationship target type removerelationshipstargettingthistyp class file classfil class getclassnam
+type ensur 'damaged' compil time repair prior weav
+iter input class file iter getclassfileiter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+string class classnam class file classfil class getclassnam
+resolv type resolvedtyp type thetyp world resolv class classnam
+type thetyp
+bcel object type bcelobjecttyp class type classtyp bcel world bcelworld bcel object type getbcelobjecttyp type thetyp
+class type classtyp class type classtyp ensur deleg consist ensuredelegateconsist
+special case ataspectjmungeronli
+input appli aspect munger isapplyataspectjmungersonli
+context token contexttoken aspect munger ataspectjmungersonli compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process ataspectjtyp munger process ataspectjtyp munger
+requestor weav aspect weavingaspect
+context token contexttoken aspect token aspecttoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext weav aspect weav aspect
+iter input class file iter getclassfileiter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+string class classnam class file classfil class getclassnam
+resolv type resolvedtyp type thetyp world resolv class classnam
+type thetyp annot style aspect isannotationstyleaspect
+bcel object type bcelobjecttyp class type classtyp bcel world bcelworld bcel object type getbcelobjecttyp type thetyp
+class type classtyp
+except bcexcept find bcel deleg class classnam type type thetyp class getclass
+lazi class gen lazyclassgen clazz class type classtyp lazi class gen getlazyclassgen
+bcel claus aspect adder bcelperclauseaspectadd munger selfmung bcel claus aspect adder bcelperclauseaspectadd type thetyp type thetyp claus getperclaus kind getkind
+munger selfmung forc mung forcemung clazz
+class type classtyp finish finishedwith
+unwoven class file unwovenclassfil class newclass class file getclassfilesfor clazz
+new new class newclass length new
+requestor accept result acceptresult class newclass new
+woven class name wovenclassnam add class file classfil class getclassnam
+requestor weav complet weavecomplet
+compil weav context compilationandweavingcontext leav phase leavingphas aspect munger ataspectjmungersonli
+woven class name wovenclassnam
+requestor process reweav state processingreweavablest
+context token contexttoken reweav token reweavetoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process reweav state process reweav state
+prepar process reweav state preparetoprocessreweavablest
+clear state file reweav
+iter input class file iter getclassfileiter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+string class classnam class file classfil class getclassnam
+bcel object type bcelobjecttyp class type classtyp class type getclasstyp class classnam
+null return getclasstyp mean deleg eclips sourc type
+reweav state brave claim
+class type classtyp
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process reweav state process reweav state class classnam
+process reweav state present processreweavablestateifpres class classnam class type classtyp
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+compil weav context compilationandweavingcontext leav phase leavingphas reweav token reweavetoken
+context token contexttoken type mung token typemungingtoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process type munger process type munger
+requestor ad type munger addingtypemung
+process type munger group munger chang type
+hierarchi 'normal' itd type munger
+process type predict order order encount
+class order superclass superinterfac
+mechan appli recurs
+list type process typestoprocess arrai list arraylist
+iter iter input class file iter getclassfileiter iter hasnext
+unwoven class file unwovenclassfil clf unwoven class file unwovenclassfil iter
+type process typestoprocess add clf class getclassnam
+type process typestoprocess size
+weav parent weaveparentsfor type process typestoprocess string type process typestoprocess
+iter input class file iter getclassfileiter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+string class classnam class file classfil class getclassnam
+add normal type munger addnormaltypemung class classnam
+compil weav context compilationandweavingcontext leav phase leavingphas type mung token typemungingtoken
+requestor weav aspect weavingaspect
+context token contexttoken aspect token aspecttoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext weav aspect weav aspect
+weav aspect
+iter input class file iter getclassfileiter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+string class classnam class file classfil class getclassnam
+resolv type resolvedtyp type thetyp world resolv class classnam
+type thetyp aspect isaspect
+bcel object type bcelobjecttyp class type classtyp bcel world bcelworld bcel object type getbcelobjecttyp type thetyp
+class type classtyp
+bcel deleg found problem occur compil time
+previou compil run case assert deleg eclipsesourcetyp
+ignor problem origin compil error report
+eclips sourc type pr113531
+refer type deleg referencetypedeleg deleg thedeleg refer type referencetyp type thetyp deleg getdeleg
+deleg thedeleg class getclass getnam end endswith eclipsesourcetyp
+except bcexcept find bcel deleg class classnam type type thetyp class getclass
+weav notifi weaveandnotifi class file classfil class type classtyp requestor
+woven class name wovenclassnam add class classnam
+compil weav context compilationandweavingcontext leav phase leavingphas aspect token aspecttoken
+requestor weav class weavingclass
+context token contexttoken class token classtoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext weav class weav class
+weav aspect
+iter input class file iter getclassfileiter hasnext
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil
+string class classnam class file classfil class getclassnam
+resolv type resolvedtyp type thetyp world resolv class classnam
+type thetyp aspect isaspect
+bcel object type bcelobjecttyp class type classtyp bcel world bcelworld bcel object type getbcelobjecttyp type thetyp
+class type classtyp
+bug comment bug
+refer type deleg referencetypedeleg deleg thedeleg refer type referencetyp type thetyp deleg getdeleg
+todo urgh put method interfac check string compar hideou
+deleg thedeleg class getclass getnam end endswith eclipsesourcetyp
+except bcexcept find bcel deleg class classnam type type thetyp class getclass
+weav notifi weaveandnotifi class file classfil class type classtyp requestor
+woven class name wovenclassnam add class classnam
+compil weav context compilationandweavingcontext leav phase leavingphas class token classtoken
+ad class addedclass arrai list arraylist
+delet typenam deletedtypenam arrai list arraylist
+requestor weav complet weavecomplet
+compil weav context compilationandweavingcontext leav phase leavingphas weav token weavetoken
+trace trace enabl istraceen trace exit weav woven class name wovenclassnam
+woven class name wovenclassnam

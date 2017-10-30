@@ -1,0 +1,5 @@
+org aspectj weaver
+type target type munger pertypewithintargettypemung resolv type munger resolvedtypemung
+match resolv type resolvedtyp match type matchtyp resolv type resolvedtyp aspect type aspecttyp
+type iswithintyp match type matchtyp true alwaystru
+match type matchtyp interfac isinterfac

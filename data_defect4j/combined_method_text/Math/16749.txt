@@ -1,0 +1,8 @@
+abstract multipl linear regress abstractmultiplelinearregress
+varianc evalu vector yvector arrai toarrai
+version
+org apach common math3 stat regress
+calcul varianc calculateyvari
+calcul varianc valu
+varianc
+abstract base implement multipl linear regress multiplelinearregress

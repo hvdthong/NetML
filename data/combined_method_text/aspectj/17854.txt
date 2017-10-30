@@ -1,0 +1,24 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+option copi file
+sourc root directori
+sourceroot
+copi file
+filter pattern
+requir sourceroot
+param filter string accept exclud
+filter ant zip fileset
+set sourc root copi filter setsourcerootcopyfilt string filter
+sourc root copi filter sourcerootcopyfilt filter

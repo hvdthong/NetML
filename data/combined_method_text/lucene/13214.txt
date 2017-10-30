@@ -1,0 +1,23 @@
+org apach lucen index
+term buffer termbuff cloneabl
+read index input indexinput input field info fieldinfo field info fieldinfo
+except ioexcept
+term term null invalid cach
+start input read int readvint
+length input read int readvint
+total length totallength start length
+pre utf8 string preutf8str
+text set length setlength total length totallength
+input read char readchar text result start length
+dirti
+fulli convert byte byte dirti
+unicod util unicodeutil utf16to utf8 utf16toutf8 text result text length byte
+byte set length setlength total length totallength
+input read byte readbyt byte result start length
+unicod util unicodeutil utf8to utf16 utf8toutf16 byte result total length totallength text
+dirti
+increment convert utf8 byte
+byte set length setlength total length totallength
+input read byte readbyt byte result start length
+unicod util unicodeutil utf8to utf16 utf8toutf16 byte result start length text
+field field info fieldinfo field fieldnam input read int readvint

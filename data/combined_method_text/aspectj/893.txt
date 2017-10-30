@@ -1,0 +1,10 @@
+org aspectj ajd javaopt
+option panel displai java compil warn option
+user add ajd getoptionsfram
+java compil warn option panel javacompilerwarningsoptionspanel option panel optionspanel
+add border panel addborderstopanel
+parent panel parentpanel panel jpanel
+parent panel parentpanel set layout setlayout border layout borderlayout
+warn panel warningspanel panel jpanel
+warn panel warningspanel set border setbord warn compound border warningscompoundbord
+parent panel parentpanel add warn panel warningspanel border layout borderlayout center

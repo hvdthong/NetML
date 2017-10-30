@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+add dispatch target adddispatchtarget resolv member resolvedmemb
+ad dispatch target addeddispatchtarget add

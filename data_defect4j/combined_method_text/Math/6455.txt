@@ -1,0 +1,9 @@
+set paramet
+comput link jacobian matric jacobianmatric partial deriv equat
+set paramet setparamet string illeg argument except illegalargumentexcept
+interfac comput finit differ jacobian matrix paramet
+except illeg argument except illegalargumentexcept paramet support
+version
+param paramet
+parameter od parameterizedod parameteriz
+org apach common math od

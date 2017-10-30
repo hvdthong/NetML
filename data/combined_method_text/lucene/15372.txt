@@ -1,0 +1,52 @@
+org apach lucen search
+link filter accept document singl
+term field contain
+provid set allow term
+function termsfilt
+contrib queri filter requir
+field singl term document
+drastic implement
+perform characterist
+invoc filter field
+slower link fieldcach doctermsindex
+creat subsequ invoc field
+cach
+function base link fieldcach persist ram
+consum hold cach freed
+link indexread close contrast termsfilt
+persist ram consumpt
+search filter translat
+set term privat link openbitset kei
+term number uniqu link indexread
+reader segment match term
+number docid retriev cach
+check inclus link openbitset
+test ram resid data
+structur perform fast
+fast requir cach
+docidset combin term
+docid simpli scan linearli
+index great small document find
+linear scan costli
+contrast termsfilt build link openbitset
+kei docid time creat enumer
+match doc link docsenum seek
+scan term docid list
+linear scan docid alloc
+underli arrai link openbitset
+approach requir number disk seek proport
+number term exception costli
+cach miss oss cach
+gener filter slower
+invoc field subsequ invoc
+chang allow set term
+faster termsfilt number
+term match increas match
+small number term term turn
+match small number document termsfilt
+perform faster
+filter applic depend
+field cach term filter fieldcachetermsfilt filter
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+field cach term filter doc set fieldcachetermsfilterdocidset field cach getfieldcach term index gettermsindex context reader field

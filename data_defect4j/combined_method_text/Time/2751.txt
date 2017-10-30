@@ -1,0 +1,15 @@
+author stephen colebourn
+zone chronolog zonedchronolog thread safe immut
+obj
+equal object obj
+durat field idurationfield equal durat field idurationfield
+rang durat field irangedurationfield equal rang durat field irangedurationfield
+org joda time chrono
+field ifield equal field ifield
+overrid
+obj zone date time field zoneddatetimefield
+wrap chronolog add support time zone
+zone izon equal zone izon
+author brian neill o'neil
+zone date time field zoneddatetimefield zone date time field zoneddatetimefield obj
+zone chronolog zonedchronolog assembl chronolog assembledchronolog

@@ -1,0 +1,29 @@
+org aspectj util
+lang util langutil
+return throwabl input tail wrap except chain
+throwabl unwrap except unwrapexcept throwabl
+throwabl current
+throwabl
+current
+java except carri except
+current invoc target except invocationtargetexcept
+invoc target except invocationtargetexcept current target except gettargetexcept
+current class found except classnotfoundexcept
+class found except classnotfoundexcept current except getexcept
+current except initi error exceptionininitializererror
+except initi error exceptionininitializererror current except getexcept
+current privileg action except privilegedactionexcept
+privileg action except privilegedactionexcept current except getexcept
+current sql except sqlexcept
+sql except sqlexcept current except getnextexcept
+getexcept
+javax name event namingexceptionev
+javax name ldap unsolicitednotif
+javax xml parser factoryconfigurationerror
+javax xml transform transformerfactoryconfigurationerror
+javax xml transform transformerexcept
+org xml sax saxexcept
+throwabl getcaus
+java util log logrecord getthrown
+current
+current

@@ -1,0 +1,23 @@
+multivari optim multivariateoptim
+param opt data optdata optim data addit document
+inherit doc inheritdoc
+overrid
+pars optim data parseoptimizationdata opt data optdata
+retriev set
+base multivari scalar function optim
+version
+link base multivari optim basemultivariateoptim pars optim data parseoptimizationdata optim data optimizationdata
+link org apach common math3 optim max eval maxev
+evalu except toomanyevaluationsexcept maxim number
+set base perform comput
+org apach common math3 optim nonlinear scalar
+point pair pointvaluepair optim optim data optimizationdata opt data optdata
+param opt data optdata optim data data look
+optim opt data optdata
+link org apach common math3 optim simpl bound simplebound
+link org apach common math3 optim initi guess initialguess
+link goal type goaltyp
+base multivari optim basemultivariateoptim method regist data
+link object function objectivefunct
+evalu exceed
+evalu except toomanyevaluationsexcept

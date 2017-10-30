@@ -1,0 +1,20 @@
+author stephen colebourn
+wrap rang
+param wrap wrapvalu add current
+wrap neg
+param current currentvalu current data lie
+wrap getwrappedvalu current currentvalu wrap wrapvalu min minvalu max maxvalu
+param min minvalu wrap rang minimum
+org joda time field
+li field' legal rang
+util method add wrap field addwrapfield implement ensur
+field util fieldutil thread safe immut
+equal max maxvalu
+gener util fit
+wrap
+wrap getwrappedvalu current currentvalu wrap wrapvalu
+illeg argument except illegalargumentexcept min minvalu greater
+greater min minvalu check method
+field util fieldutil
+min minvalu max maxvalu
+param max maxvalu wrap rang maximum

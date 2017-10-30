@@ -1,0 +1,20 @@
+plane plane oplan plane origin
+vector2 vector2d shift vector2 vector2d plane tplane space tosubspac appli plane oplan origin getorigin
+org apach common math geometri euclidean threed
+version
+cach origin cachedorigin plane origin
+inherit doc inheritdoc
+chang hyperplan reset hyperplan transform
+vector2 vector2d shift plane tplane space tosubspac appli plane oplan origin getorigin
+origin cach origin cachedorigin
+hyperplan euclidean3 euclidean3d origin
+cach transform cachedtransform
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+line sublin appli transform applytransform cach transform cachedtransform
+repres region set polyhedron
+affin transform affinetransform
+org apach common math geometri euclidean twod line transform gettransform
+plane plane tplane plane transform
+affin transform affinetransform translat instanc gettranslateinst shift getx shift geti
+hyperplan subhyperplan euclidean2 euclidean2d appli hyperplan subhyperplan euclidean2 euclidean2d
+hyperplan euclidean3 euclidean3d transform

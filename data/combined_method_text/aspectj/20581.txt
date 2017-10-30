@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bcel shadow bcelshadow copi copyinto lazi method gen lazymethodgen recipi bcel shadow bcelshadow enclos
+bcel shadow bcelshadow bcel shadow bcelshadow world kind getkind signatur getsignatur recipi enclos
+munger size
+list src munger
+munger collect empti list empti list munger arrai list arraylist
+list dest munger
+iter src iter hasnext
+dest add

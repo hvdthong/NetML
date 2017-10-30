@@ -1,0 +1,66 @@
+overrid
+build contribut matrix measur
+point vector pair pointvectorvaluepair optim dooptim
+solv squar problem solv normal equat
+diagon weight matrix
+inherit doc inheritdoc
+residu weight residualsweight
+math intern error mathinternalerror
+increment iter count incrementiterationcount
+solv linear squar problem
+converg checker getconvergencecheck
+comput useless checker loop
+singular matrix except singularmatrixexcept
+current residu currentresidu comput residu computeresidu current object currentobject
+updat estim paramet
+gauss newton squar solver
+gauss newton optim gaussnewtonoptim abstract squar optim abstractleastsquaresoptim gauss newton optim gaussnewtonoptim
+happen
+solver solv arrai real vector arrayrealvector arrai toarrai
+decomposit solver decompositionsolv solver uselu
+org apach common math3 fit leastsquar
+target valu targetvalu target gettarget
+current point currentpoint length
+converg converg
+point vector pair pointvectorvaluepair current
+current point currentpoint
+current
+current point currentpoint start getstart
+checker
+version
+evalu object function jacobian
+decomposit qrdecomposit solver getsolv
+weight residu
+real matrix realmatrix weight jacobian weightedjacobian comput weight jacobian computeweightedjacobian current point currentpoint
+decomposit ludecomposit solver getsolv
+residu current residu currentresidu
+dimens mismatch except dimensionmismatchexcept weight matrix weightmatrix column dimens getcolumndimens
+decomposit solv normal equat decomposit
+previou
+real matrix realmatrix block real matrix blockrealmatrix
+comput normal equat
+object function current point currentpoint
+weight residu weight residualsweight
+converg checker converg iter getiter previou current
+target valu targetvalu length number observ data
+dimens mismatch except dimensionmismatchexcept weight matrix weightmatrix row dimens getrowdimens
+converg checker convergencecheck point vector pair pointvectorvaluepair checker
+real matrix realmatrix weight matrix weightmatrix weight getweight
+grad weight jacobian weightedjacobian row getrow
+current object currentobject comput object computeobjectivevalu current point currentpoint
+converg except convergenceexcept local format localizedformat unabl solv singular problem
+weight matrix weightmatrix column dimens getcolumndimens
+check converg
+current point vector pair pointvectorvaluepair current point currentpoint current object currentobject
+point vector pair pointvectorvaluepair previou current
+build linear problem
+linear problem iter decomposit
+weight matrix weightmatrix row dimens getrowdimens
+faster decomposit robust difficult problem
+converg
+wgk weight grad
+wgk grad
+residu weight residualsweight weight matrix weightmatrix entri getentri
+iter converg reach
+grad
+null argument except nullargumentexcept

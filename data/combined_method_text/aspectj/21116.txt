@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+walk pointcut determin synchron relat design
+lock unlock
+polic extens policeextensionus ident pointcut visitor identitypointcutvisitor
+object visit kind pointcut kindedpointcut node object data
+world visit node data world null return super visit node data error scenario lead lazyclassgen tolongstr
+node kind getkind shadow synchron lock synchronizationlock
+node kind getkind shadow synchron unlock synchronizationunlock
+synchron design encount synchronizationdesignatorencount
+check
+world joinpoint synchron enabl isjoinpointsynchronizationen
+node kind getkind shadow synchron lock synchronizationlock
+messag imessag messag util messageutil warn lock pointcut design option xjoinpoint synchron
+sourc locat getsourceloc
+world messag handler getmessagehandl handl messag handlemessag
+node kind getkind shadow synchron unlock synchronizationunlock
+messag imessag messag util messageutil warn unlock pointcut design option xjoinpoint synchron
+sourc locat getsourceloc
+world messag handler getmessagehandl handl messag handlemessag
+visit node data

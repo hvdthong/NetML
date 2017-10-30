@@ -1,0 +1,12 @@
+author stephen colebourn
+chronolog ichronolog dai week getdayofweek instant
+time instant
+org joda time chrono
+author gui allard
+dai week date time field gjdayofweekdatetimefield precis durat date time field precisedurationdatetimefield
+dai week compon time
+author brian neill o'neil
+instant
+dai week extract input
+param instant time instant milli queri
+dai week date time field gjdayofweekdatetimefield time calcul

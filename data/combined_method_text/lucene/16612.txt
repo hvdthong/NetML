@@ -1,0 +1,57 @@
+org apach lucen search
+expert calcul queri weight build queri scorer
+purpos link weight ensur search modifi
+link queri link queri instanc reus
+link indexsearch depend state queri resid
+link weight
+link indexread depend state resid link scorer
+link weight creat link scorer instanc
+link readercontext link scorer readercontext boolean boolean
+caller maintain relationship searcher top level
+link readercontext context creat link scorer
+link readercontext creat link scorer leaf
+context link atomicreadercontext searcher top level context
+scorer state undefin
+code weight code
+code weight code construct top level queri
+code indexsearch code link queri createweight indexsearch
+link sumofsquaredweight method call
+code weight code comput queri normal factor
+link similar querynorm float queri claus contain
+queri
+queri normal factor pass link normal float
+point weight complet
+code scorer code construct
+link scorer readercontext boolean boolean
+weight serializ
+return link scorer score document order
+code scoredocsinord code
+note code scoredocsinord code fals
+recommend check return code scorer code score
+document order call link scoresdocsoutoford
+code scorer code implement return document
+order
+note null return document score
+queri
+note call method link readercontext
+leaf context link atomicreadercontext searcher top level context
+creat link weight instanc undefin behavior
+param context
+link readercontext return link scorer
+param scoredocsinord
+specifi order score document requir note
+set fals order score requir
+method return score mode support
+order scorer order
+order scorer support link scorer nextdoc
+link scorer advanc int recommend
+request order scorer method requir
+param topscor
+true link scorer score collector call fals
+link scorer nextdoc link scorer advanc int
+call
+return link scorer score document order
+throw ioexcept
+todo make context atomiccontext
+scorer scorer reader context readercontext context score doc order scoredocsinord
+top scorer topscor except ioexcept

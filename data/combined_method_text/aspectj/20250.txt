@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+pars type pattern return null failur issu error
+param patternstr
+param locat
+return type pattern
+type pattern typepattern pars type pattern parsetypepattern string pattern string patternstr attribut struct ajattributestruct locat
+type pattern typepattern type pattern typepattern pattern parser patternpars pattern string patternstr pars type pattern parsetypepattern
+type pattern typepattern set locat setloc locat context typepattern setloc locat context fixm good
+type pattern typepattern
+parser except parserexcept
+report error reporterror invalid type pattern' pattern string patternstr locat getloc locat

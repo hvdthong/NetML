@@ -1,0 +1,19 @@
+author stephen colebourn
+pre
+defaultvalu
+param defaultvalu charact
+param charact convert
+oper primit charact object
+char util charutil char tochar 'a' 'x' 'a'
+charvalu
+charact
+handl code code input gracefulli
+version
+char tochar charact defaultvalu
+convert charact handl code code
+except thrown code code input
+char util charutil char tochar 'x' 'x'
+char util charutil
+char util charutil char tochar 'x'
+method document behaviour detail
+org apach common lang

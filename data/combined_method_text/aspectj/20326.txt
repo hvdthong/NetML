@@ -1,0 +1,58 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+determin method type requir bridg method method
+call calcul covari gener exist
+type hierarchi class chang decp itd
+pr108101
+calcul requir bridg method calculateanyrequiredbridgemethod bcel world bcelworld world lazi class gen lazyclassgen clazz
+world ensur advanc configur process ensureadvancedconfigurationprocess
+world java5 mode isinjava5mod world isinjava5mod return fals doubl check caller verifi
+clazz interfac isinterfac clazz isinterfac return fals dont bother interfac
+didsometh boolean didsometh fals set build bridg method
+method class
+list method clazz method gen getmethodgen list lazymethodgen method clazz getmethodgen
+set method type check bridg method
+creat
+set method set methodsset hash set hashset
+method size
+lazi method gen lazymethodgen method amethod lazi method gen lazymethodgen method
+method set methodsset add method amethod getnam method amethod signatur getsignatur methodsset add amethod getnam amethod getsignatur foo ljava lang string
+method type
+method size
+local method bridg
+lazi method gen lazymethodgen bridg candid bridgetocandid lazi method gen lazymethodgen method
+bridg candid bridgetocandid bridg method isbridgemethod bridgetocandid isbridgemethod continu doh
+string bridg candid bridgetocandid getnam
+string psig bridg candid bridgetocandid paramet signatur getparametersignatur
+string rsig bridg candid bridgetocandid return type getreturntyp signatur getsignatur
+bridgetocandid isabstract continu
+bridg candid bridgetocandid static isstat bridgetocandid isstat continu ignor static method
+end endswith init endswith init continu skip constructor static initi
+world debug bridg code fordebug bridgingcod system err println bridg determin bridg clazz getnam bridg candid bridgetocandid signatur getsignatur
+superclass
+resolv type resolvedtyp superclass thesuperclass clazz super class getsuperclass
+world debug bridg code fordebug bridgingcod system err println bridg check supertyp superclass thesuperclass
+string pkg pkgname clazz packag getpackagenam
+unresolv type unresolvedtyp bcel world bcelworld bcel frombcel bridg candid bridgetocandid argument type getargumenttyp
+resolv member resolvedmemb overridden method overriddenmethod check overrid checkforoverrid superclass thesuperclass psig rsig bridg candid bridgetocandid access flag getaccessflag pkg pkgname
+overridden method overriddenmethod
+bridg method alreadyhaveabridgemethod method set methodsset overridden method overriddenmethod getnam overridden method overriddenmethod signatur getsignatur
+bridg method alreadyhaveabridgemethod
+world debug bridg code fordebug bridgingcod system err println bridg bridg overridden method overriddenmethod
+creat bridg method createbridgemethod world bridg candid bridgetocandid clazz overridden method overriddenmethod
+didsometh
+continu method
+check superinterfac
+string interfac clazz interfac name getinterfacenam
+interfac length
+world debug bridg code fordebug bridgingcod system err println bridg check superinterfac interfac
+resolv type resolvedtyp interfac type interfacetyp world resolv interfac
+overridden method overriddenmethod check overrid checkforoverrid interfac type interfacetyp psig rsig bridg candid bridgetocandid access flag getaccessflag clazz packag getpackagenam
+overridden method overriddenmethod
+bridg method alreadyhaveabridgemethod method set methodsset overridden method overriddenmethod getnam overridden method overriddenmethod signatur getsignatur
+bridg method alreadyhaveabridgemethod
+creat bridg method createbridgemethod world bridg candid bridgetocandid clazz overridden method overriddenmethod
+didsometh
+world debug bridg code fordebug bridgingcod system err println bridg bridg overridden method overriddenmethod
+continu method
+didsometh

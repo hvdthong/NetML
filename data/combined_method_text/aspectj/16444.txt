@@ -1,0 +1,9 @@
+org aspectj intern tool build
+sampl util sampleutil
+common prefix commonprefix string lh string rh
+max smaller size smallers lh rh
+diff firstdiff
+diff firstdiff max
+lh diff firstdiff equal rh diff firstdiff
+diff firstdiff
+diff firstdiff

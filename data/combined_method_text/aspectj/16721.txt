@@ -1,0 +1,11 @@
+org aspectj org eclips jdt core dom
+ast matcher ajastmatch ast matcher astmatch
+match advic declar beforeadvicedeclar node object
+ajh02 method ad
+advic declar beforeadvicedeclar
+advic declar beforeadvicedeclar advic declar beforeadvicedeclar
+safe subtre match safesubtreematch node javadoc getjavadoc javadoc getjavadoc
+safe subtre list match safesubtreelistmatch node paramet paramet
+safe subtre match safesubtreematch node pointcut getpointcut pointcut getpointcut
+safe subtre list match safesubtreelistmatch node thrown except thrownexcept thrown except thrownexcept
+safe subtre match safesubtreematch node bodi getbodi bodi getbodi

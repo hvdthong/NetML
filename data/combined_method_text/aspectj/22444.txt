@@ -1,0 +1,27 @@
+org aspectj weaver pattern
+pattern parser patternpars
+kind pointcut kindedpointcut pars kind pointcut parsekindedpointcut string kind
+eat
+signatur pattern signaturepattern sig
+shadow kind shadow kind shadowkind
+kind equal execut
+sig pars method constructor signatur pattern parsemethodorconstructorsignaturepattern
+sig kind getkind member method
+shadow kind shadowkind shadow method execut methodexecut
+sig kind getkind member constructor
+shadow kind shadowkind shadow constructor execut constructorexecut
+kind equal call
+sig pars method constructor signatur pattern parsemethodorconstructorsignaturepattern
+sig kind getkind member method
+shadow kind shadowkind shadow method call methodcal
+sig kind getkind member constructor
+shadow kind shadowkind shadow constructor call constructorcal
+kind equal
+sig pars field signatur pattern parsefieldsignaturepattern
+shadow kind shadowkind shadow field fieldget
+kind equal set
+sig pars field signatur pattern parsefieldsignaturepattern
+shadow kind shadowkind shadow field set fieldset
+parser except parserexcept bad kind kind token sourc tokensourc peek
+eat
+kind pointcut kindedpointcut shadow kind shadowkind sig

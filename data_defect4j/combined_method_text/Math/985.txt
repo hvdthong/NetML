@@ -1,0 +1,9 @@
+param func type function solv
+set max evalu setmaxevalu max evalu maxevalu
+solver
+inherit doc inheritdoc
+evalu set maxim count setmaximalcount max evalu maxevalu
+provid implement function gener
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+org apach common math analysi solver
+version revis date wed nov

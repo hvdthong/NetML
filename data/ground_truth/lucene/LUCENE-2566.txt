@@ -1,0 +1,13 @@
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_ReInitRounds_void
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_jjMoveNfa_0-int-int_int
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_jjMoveNfa_1-int-int_int
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_jjMoveNfa_2-int-int_int
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_jjMoveStringLiteralDfa0_1_int
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_jjMoveStringLiteralDfa0_2_int
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_jjMoveStringLiteralDfa1_1-long_int
+src/java/org/apache/lucene/queryParser/QueryParserTokenManager_jjStopStringLiteralDfa_1-int-long_int
+src/java/org/apache/lucene/queryParser/QueryParser_Clause-String_Query
+src/java/org/apache/lucene/queryParser/QueryParser_Query-String_Query
+src/java/org/apache/lucene/queryParser/QueryParser_Term-String_Query
+src/java/org/apache/lucene/queryParser/QueryParser_generateParseException_ParseException
+src/java/org/apache/lucene/queryParser/QueryParser_jj_la1_init_0_void

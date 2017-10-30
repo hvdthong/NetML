@@ -1,0 +1,83 @@
+set number variabl
+current currentbest set entri setentri lower bound lowerbound
+upper differ upperdiffer entri getentri initi trust region radiu initialtrustregionradiu
+requir strictli
+comput max
+deriv base optim deriv approxim
+object optimum
+condit minim frobeniu norm
+maxfun set upper bound number call calfun
+lower differ lowerdiffer set entri setentri initi trust region radiu initialtrustregionradiu
+powell' bobyqa algorithm implement translat
+lower differ lowerdiffer set entri setentri
+lower bound argument subroutin
+chang valu give calcul
+accuraci requir valu variabl
+npt number interpol condit
+initi order avoid conflict bound
+link powel optim powelloptim significantli stochast algorithm
+upper differ upperdiffer set entri setentri initi trust region radiu initialtrustregionradiu
+expect chang variabl rhoend
+bound construct quadrat model
+compon distanc rhobeg bound
+partit order provid exact inform
+link cmae optim cmaesoptim succe bobyqa
+chang deriv model begin
+rhobeg typic rhobeg tenth greatest
+rhobeg rhoend set initi valu trust
+current currentbest set entri setentri upper bound upperbound
+upper differ upperdiffer set entri setentri
+print method printmethod xxx
+appli trust region method form quadrat model
+expens bobyqa consid replac
+make call bobyqb
+matrix valu variabl constrain upper
+lower differ lowerdiffer set entri setentri lower bound lowerbound current currentbest entri getentri
+bobyqa
+version
+delta deltaon upper bound upperbound current currentbest entri getentri
+recommend
+comput min
+region radiu posit rhoend greater
+damag sever round error small
+bound move updat set isl isu
+construct quadrat model lower upper
+upper differ upperdiffer set entri setentri bound diff bounddiff
+current currentbest set entri setentri lower bound lowerbound initi trust region radiu initialtrustregionradiu
+arrai work space length
+interpol freedom interpol
+param upper bound upperbound upper bound
+delta deltaon lower bound lowerbound current currentbest entri getentri
+deriv case outperform
+return insuffici space bound modifi
+bobyqa optim bobyqaoptim
+upper bound upperbound
+href http plato asu ftp softwar bobyqa zip
+initi valu variabl set
+adapt fortran version
+upper differ upperdiffer set entri setentri upper bound upperbound current currentbest entri getentri
+contribut model variabl
+finit differ
+bobyqb lower bound lowerbound upper bound upperbound
+org apach common math3 optim nonlinear scalar noderiv
+paper introduct
+delta deltatwo initi trust region radiu initialtrustregionradiu
+provid lower upper
+npt npt
+current currentbest dimens getdimens
+upper differ upperdiffer entri getentri
+error occur differ
+href http www optim onlin org html html
+param lower bound lowerbound lower bound
+current currentbest set entri setentri upper bound upperbound initi trust region radiu initialtrustregionradiu
+lower differ lowerdiffer entri getentri
+lower differ lowerdiffer set entri setentri bound diff bounddiff
+upper differ upperdiffer set entri setentri math max delta deltaon initi trust region radiu initialtrustregionradiu
+lower differ lowerdiffer set entri setentri math min delta deltaon delta deltatwo
+bobyqa suit high dimension problem
+rhobeg
+subroutin seek function variabl
+bound diff bounddiff bound differ bounddiffer
+bobyqa lower bound lowerbound
+interv choic exce
+lower differ lowerdiffer entri getentri initi trust region radiu initialtrustregionradiu

@@ -1,0 +1,29 @@
+org aspectj ajdt intern compil lookup
+eclips type munger eclipsetypemung concret type munger concretetypemung
+modifi signatur typebind classscop
+add method fieldbind plai inherit
+mung sourc type bind sourcetypebind sourc type sourcetyp resolv type resolvedtyp type ontyp
+resolv type resolvedtyp type ontyp
+raw type israwtyp parameter type isparameterizedtyp gener type getgenerictyp
+exact target type isexacttargettyp equal target type targettypex
+exact target type isexacttargettyp
+topmost implementor interfac care
+munger kind getkind resolv type munger resolvedtypemung method
+type ontyp interfac isinterfac
+munger access topmost implementor needsaccesstotopmostimplementor
+access type
+type ontyp topmost implementor istopmostimplementor target type targettypex
+topmost implementor interfac type mung
+care public method
+drive jdt methodverifi correctli
+modifi public ispubl munger signatur getsignatur modifi getmodifi
+system println mung sourcetyp
+system println match world fromeclips sourcetyp
+targettypex
+munger kind getkind resolv type munger resolvedtypemung field
+mung field mungenewfield sourc type sourcetyp field type munger newfieldtypemung munger
+munger kind getkind resolv type munger resolvedtypemung method
+mung method mungenewmethod sourc type sourcetyp type ontyp method type munger newmethodtypemung munger exact target type isexacttargettyp
+munger kind getkind resolv type munger resolvedtypemung constructor
+mung constructor mungenewconstructor sourc type sourcetyp constructor type munger newconstructortypemung munger
+runtim except runtimeexcept unimpl munger kind getkind

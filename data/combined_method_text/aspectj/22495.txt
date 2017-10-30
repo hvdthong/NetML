@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+cflow percflow claus perclaus
+write data output stream dataoutputstream except ioexcept
+percflow write
+entri write
+write boolean writeboolean isbelow
+write locat writeloc

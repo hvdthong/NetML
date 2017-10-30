@@ -1,0 +1,66 @@
+org aspectj weaver pattern
+declar parent declarepar declar
+resolv type resolvedtyp parent maybegetnewpar resolv type resolvedtyp target type targettyp type pattern typepattern type pattern typepattern world world report error reporterror
+type pattern typepattern type pattern typepattern typepattern typepattern return null error
+unresolv type unresolvedtyp type ityp type pattern typepattern exact type getexacttyp
+resolv type resolvedtyp parent type parenttyp type ityp resolv world
+target type targettyp equal world core type getcoretyp unresolv type unresolvedtyp object
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag decp object decp object
+sourc locat getsourceloc
+ensur target
+altern parameter gener type
+parent type parenttyp parameter type isparameterizedtyp parent type parenttyp raw type israwtyp
+parent
+isok verifi inherit altern parameter verifynoinheritedalternateparameter target type targettyp parent type parenttyp world
+isok
+parent type parenttyp assign isassignablefrom target type targettyp parenttyp isassignablefrom targettyp return null parent
+enum type target decp wild type pattern lint
+report error reporterror wild child iswildchild target type targettyp enum isenum
+world lint getlint enum target decp enumastargetfordecpignor signal target type targettyp string tostr sourc locat getsourceloc
+annot type target decp wild type pattern lint
+report error reporterror wild child iswildchild target type targettyp annot isannot
+world lint getlint annot target decp annotationastargetfordecpignor signal target type targettyp string tostr sourc locat getsourceloc
+decp make enum annot type implement interfac
+target type targettyp enum isenum parent type parenttyp interfac isinterfac
+report error reporterror wild child iswildchild
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag decp enum impl interfac decp enum impl interfac target type targettyp sourc locat getsourceloc
+target type targettyp annot isannot parent type parenttyp interfac isinterfac
+report error reporterror wild child iswildchild
+world show messag showmessag messag imessag error weaver messag weavermessag format weaver messag weavermessag decp annot impl interfac decp annot impl interfac target type targettyp sourc locat getsourceloc
+decp chang supertyp enum annot
+target type targettyp enum isenum parent type parenttyp class isclass
+report error reporterror wild child iswildchild
+world show messag showmessag messag imessag error weaver messag weavermessag format weaver messag weavermessag decp enum extend class decp enum extend class target type targettyp sourc locat getsourceloc
+target type targettyp annot isannot parent type parenttyp class isclass
+report error reporterror wild child iswildchild
+world show messag showmessag messag imessag error weaver messag weavermessag format weaver messag weavermessag decp annot extend class decp annot extend class target type targettyp sourc locat getsourceloc
+decp declar java lang enum java lang annot annot parent type
+parent type parenttyp signatur getsignatur equal unresolv type unresolvedtyp enum signatur getsignatur
+report error reporterror wild child iswildchild
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag decp make enum supertyp decp make enum supertyp target type targettyp sourc locat getsourceloc
+parent type parenttyp signatur getsignatur equal unresolv type unresolvedtyp annot signatur getsignatur
+report error reporterror wild child iswildchild
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag decp make annot supertyp decp make annot supertyp target type targettyp sourc locat getsourceloc
+parent type parenttyp assign isassignablefrom target type targettyp parenttyp isassignablefrom targettyp return null parent
+target type targettyp assign isassignablefrom parent type parenttyp
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag extend extend target type targettyp getnam
+sourc locat getsourceloc
+parent type parenttyp class isclass
+target type targettyp interfac isinterfac
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag interfac extend class interfac extend class
+sourc locat getsourceloc
+handl xcut error
+target type targettyp superclass getsuperclass assign isassignablefrom parent type parenttyp
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag decp hierarchi error decp hierarchi error
+type ityp getnam
+target type targettyp superclass getsuperclass getnam
+sourc locat getsourceloc
+parent type parenttyp
+parent type parenttyp

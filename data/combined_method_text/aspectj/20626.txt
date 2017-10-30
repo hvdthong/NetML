@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+var annot var getwithinannotationvar unresolv type unresolvedtyp annot type forannotationtyp
+initi annot var initializewithinannotationvar
+var annot var withinannotationvar annot type forannotationtyp

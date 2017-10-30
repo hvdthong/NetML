@@ -1,0 +1,30 @@
+state dim statedim state dim statedim
+param dydp current jacobian matrix respect name paramet
+order comput jacobian matric respect paramet
+jacobian matric jacobianmatric
+org apach common math od
+param pname paramet comput jacobian matrix
+defin set link secondari equat secondaryequ secondari equat
+link paramet jacobian provid parameterjacobianprovid
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+link order differenti equat firstorderdifferentialequ
+efod secondari state getsecondaryst index
+version
+parameter od parameterizedod
+link parameter od parameterizedod
+primari od set paramet jacobian provid set
+comput jacobian matric respect initi state vector
+param paramet getparameternam equal pname
+order differenti equat firstorderdifferentialequ
+system arraycopi dydp state dim statedim
+intend pack link expand state od expandablestatefulod
+conjunct primari set od
+paramet configur parameterconfigur param select paramet selectedparamet
+current state set equat expand fode
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+state dim statedim
+current paramet jacobian getcurrentparameterjacobian string pname dydp
+link main state jacobian provid mainstatejacobianprovid
+current jacobian matrix respect paramet

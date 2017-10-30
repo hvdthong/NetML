@@ -1,0 +1,4 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv type resolvedtyp superclass getsuperclass
+world core type getcoretyp object

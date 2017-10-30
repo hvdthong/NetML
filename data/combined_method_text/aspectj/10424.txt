@@ -1,0 +1,15 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+write model writemodel build config model buildconfigmodel model
+final list path arraylist
+structurewalk walker structurewalk
+protect void postprocess structurenod node
+buildconfignod confignod buildconfignod node
+confignod isact confignod isvalidresourc
+path add confignod getresourcepath
+model getroot walk walker
+list activ sourc file activesourcefil model activ node getactivenod build config node buildconfignod kind file aspectj file aspectj
+activ sourc file activesourcefil add addal model activ node getactivenod build config node buildconfignod kind file java file java
+list activ import file activeimportedfil model activ node getactivenod build config node buildconfignod kind file lst file lst
+file updat fileupdat write config file writeconfigfil model sourc file getsourcefil activ sourc file activesourcefil activ import file activeimportedfil

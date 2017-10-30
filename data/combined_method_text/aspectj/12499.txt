@@ -1,0 +1,15 @@
+org aspectj apach bcel classfil
+abstract super class field method
+version fieldormethod java acoly exp
+author href mailto marku dahm berlin dahm
+field method fieldormethod access flag accessflag cloneabl node
+dump object file stream binari format
+param file output file stream
+throw ioexcept
+dump data output stream dataoutputstream file except ioexcept
+file write short writeshort access flag
+file write short writeshort index
+file write short writeshort signatur index
+file write short writeshort attribut count
+attribut count
+attribut dump file

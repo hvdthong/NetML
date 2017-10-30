@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+requir join point requirethisjoinpoint guard test hasguardtest isaround
+isaround
+guard test hasguardtest
+join point lazi isthisjoinpointlazi
+lazi tjp consum lazytjpconsum
+hasguardtest
+isthisjoinpointlazi fals
+lazytjpconsum
+join point var thisjoinpointvar
+join point var thisjoinpointvar gen temp var gentempvar unresolv type unresolvedtyp fornam org aspectj lang joinpoint

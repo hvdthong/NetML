@@ -1,0 +1,62 @@
+set
+modifierspattern
+tokensourc tokensourc tokensourc
+signatur signatur signatur signatur
+parser parser
+system
+annotationpattern annotationpattern
+declaringtyp declaringtyp declaringtyp declaringtyp declaringtyp declaringtyp
+org
+weaver
+setloc
+extract
+signaturepattern signaturepattern signaturepattern
+end end end
+typepatternlist typepatternlist typepatternlist
+start start start
+pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern
+startpo startpo
+except
+ret ret ret
+eat
+member
+field field field
+namepattern
+equal
+maybeeat
+type type type type type type type type type type type type type type
+po po po po
+trytoextractnam
+peek peek peek
+sourc sourc sourc sourc
+return return
+string
+followm
+typepattern typepattern typepattern
+annotationtypepattern
+maybeparseannotationpattern
+pars pars pars pars pars pars pars
+parserexcept
+locat
+modifi modifi modifi modifi
+getend
+aspectj
+patternpars
+throw
+endpo endpo
+err
+getstart
+tostr tostr
+list
+annot annot annot annot
+parsefieldsignaturepattern
+parsemodifierspattern
+throwspattern
+declar declar declar declar declar
+returntyp returntyp
+token token token
+context
+sourcecontext
+println
+parsenamepattern
+parsetypepattern parsetypepattern

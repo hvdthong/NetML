@@ -1,0 +1,18 @@
+author stephen colebourn
+org joda time format date time format datetimeformat
+extend
+implement code readabl date time readabledatetim code
+link readabl date time readabledatetim
+pattern
+date time format datetimeformat pattern forpattern pattern print
+abstract date time abstractdatetim
+abstract date time abstractdatetim common behaviour datetim class
+abstract date time abstractdatetim subclass mutabl thread safe
+kind date time object referenc
+string string tostr string pattern
+org joda time base
+author brian neill o'neil
+gener directli api user
+param pattern pattern specif mean code string tostr code
+output instant format pattern
+string tostr

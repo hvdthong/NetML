@@ -1,0 +1,7 @@
+org aspectj weaver reflect
+subtyp resolvedmemberimpl reflect world
+annot java lang reflect member
+reflect base resolv member impl reflectionbasedresolvedmemberimpl resolv member impl resolvedmemberimpl
+annot hasannot
+unpack annot unpackannot
+annot hasannot

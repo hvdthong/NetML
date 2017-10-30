@@ -1,0 +1,8 @@
+org aspectj weaver
+method type munger newmethodtypemung resolv type munger resolvedtypemung
+resolv type munger resolvedtypemung parameter parameterizewith map world
+resolv member resolvedmemb parameter signatur parameterizedsignatur signatur getsignatur parameter parameterizedwith
+method type munger newmethodtypemung nmtm method type munger newmethodtypemung parameter signatur parameterizedsignatur super method call getsupermethodscal type variabl alias typevariablealias
+nmtm set declar signatur setdeclaredsignatur signatur getsignatur
+nmtm set sourc locat setsourceloc sourc locat getsourceloc
+nmtm

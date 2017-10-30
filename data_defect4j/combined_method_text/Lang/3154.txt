@@ -1,0 +1,40 @@
+endian field endian field absent
+method provid encod destin limit number
+arrai intarrai
+code sourc type sourc endian sourc bit order destin type destin endian destin bit order
+absent msb0 field msb0
+byte nbyte
+develop statu work part endian lsb0 method implement
+uuid byte arrai uuidtobytearrai uuid src dst dst po dstpo byte nbyte
+msb0 method
+param dst po dstpo posit code dst copi result
+arrai index bound except arrayindexoutofboundsexcept code dst po dstpo byte nbyte dst length
+arrai bytearrai
+param dst destin arrai
+hexadecim string represent
+uuid
+param src uuid convert
+dst
+version
+byte arrai longtobytearrai src signific bit getmostsignificantbit dst dst po dstpo byte nbyte byte nbyte
+static method convert type endian bit order awar
+code dst
+big endian field bit order lsb0 field
+wai thing deal data jvm platform
+method name follow name rule
+msb0 hex intbemsb0tohex convert big endian order msb0 bit order
+convert uuid arrai endian lsb0 bit
+binari arrai boolean
+hex string hexadecim digit lowercas destin
+sourc destin type field
+hex digit hexdigit char hexadecim digit lowercas destin
+lang
+arrai longarrai
+param byte nbyte number byte copi code dst smaller equal
+convers
+illeg argument except illegalargumentexcept code byte nbyte
+width input src po srcpo msb
+illeg argument except illegalargumentexcept byte nbyte greather
+null pointer except nullpointerexcept code dst code
+order
+byte arrai longtobytearrai src signific bit getleastsignificantbit dst dst po dstpo byte nbyte

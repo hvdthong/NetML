@@ -1,0 +1,54 @@
+sampl underli distribut
+data set test evalu hypothesi list
+set
+perform test common length input observ
+arrai
+local format localizedformat bound signific level alpha
+code alpha
+except zeroexcept count code observed1
+dimens mismatch except dimensionmismatchexcept length arrai
+code observed2 count index
+test data set comparison gtestdatasetscomparison
+observ count neg
+rang except outofrangeexcept
+formula comput llr statist test
+strong precondit strong
+observ count conform frequenc distribut
+except zeroexcept rang except outofrangeexcept max count exceed except maxcountexceededexcept
+sampl test distribut unknown priori
+observ count specif bin
+param observed1 arrai observ frequenc count data set
+param observed2 arrai observ frequenc count data
+version
+test data set comparison gtestdatasetscomparison observed1 observed2 alpha
+test gtest
+match
+org apach common math3 stat infer
+length common length
+signific level code alpha return iff
+precondit met
+observ signific level comput degre freedom
+dimens mismatch except dimensionmismatchexcept posit except notpositiveexcept
+statist genet donald mcdonald kreitman test
+implement href http wikipedia org wiki test test
+code observed2 neg
+rang except outofrangeexcept code alpha rang
+alpha
+link data set comparison gdatasetscomparison detail
+perform test log likelihood ratio test compar bin
+iff hypothesi reject confid
+posit except notpositiveexcept entri code observed1
+param alpha signific level test
+implement handl unknown distribut
+alpha alpha
+link test gtest inform
+hypothesi reject alpha percent confid
+arrai code observed1 code observed2
+observed1
+count arrai
+observ count specif sampl
+observed2
+statist
+max count exceed except maxcountexceededexcept error occur perform test
+code math illeg argument except mathillegalargumentexcept thrown
+provid sampl hypothesi test

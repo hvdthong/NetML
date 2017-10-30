@@ -1,0 +1,15 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+accept node acceptnod program element iprogramel node structur view properti structureviewproperti properti
+node program element iprogramel
+program element iprogramel node pnode program element iprogramel node
+accept granular acceptgranular node pnode kind getkind properti granular getgranular
+node pnode kind getkind member ismemb
+properti filter member access getfilteredmemberaccess node pnode access getaccess
+properti filter member kind getfilteredmemberkind node pnode kind getkind
+iter node pnode modifi getmodifi iter hasnext
+properti filter member modifi getfilteredmembermodifi
+node instanceof irelationship
+irelationship relat irelationship node
+return properti getrel relat

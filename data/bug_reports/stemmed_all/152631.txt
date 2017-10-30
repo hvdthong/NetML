@@ -1,0 +1,168 @@
+problem decp aspect cflow
+occur aspectj build ajdt august juli
+java lang nullpointerexcept
+org aspectj weaver bcel bceltypemung enforcedecprule1 abstractmethodsimpl bceltypemung java
+org aspectj weaver bcel bceltypemung mungenewpar bceltypemung java
+org aspectj weaver bcel bceltypemung mung bceltypemung java
+org aspectj weaver bcel bcelclassweav weav bcelclassweav java
+org aspectj weaver bcel bcelclassweav weav bcelclassweav java
+org aspectj weaver bcel bcelweav weav bcelweav java
+org aspectj weaver bcel bcelweav weavewithoutdump bcelweav java
+org aspectj weaver bcel bcelweav weaveandnotifi bcelweav java
+org aspectj weaver bcel bcelweav weav bcelweav java
+org aspectj ajdt intern compil ajpipeliningcompileradapt weavequeuedentri ajpipeliningcompileradapt java
+org aspectj ajdt intern compil ajpipeliningcompileradapt queueforweav ajpipeliningcompileradapt java
+org aspectj ajdt intern compil ajpipeliningcompileradapt afterprocess ajpipeliningcompileradapt java
+org aspectj ajdt intern compil compileradapt ajc org aspectj ajdt intern compil compileradapt 6b855184 compileradapt
+org aspectj org eclips jdt intern compil compil process compil java
+org aspectj org eclips jdt intern compil compil compil compil java
+org aspectj ajdt intern core builder ajbuildmanag performcompil ajbuildmanag java
+org aspectj ajdt intern core builder ajbuildmanag dobuild ajbuildmanag java
+org aspectj ajdt intern core builder ajbuildmanag batchbuild ajbuildmanag java
+org aspectj ajd intern compileradapt compil compileradapt java
+org aspectj ajd intern aspectjbuildmanag compilerthread run aspectjbuildmanag java
+troubl public class glassbox agent errorcontainmenttest errormockaspect extend java lang object implement glassbox agent api notserializ
+privat static throwabl ajc initfailurecaus synthet
+public static final glassbox agent errorcontainmenttest errormockaspect ajc persingletoninst synthet
+static void clinit
+catch java lang throwabl
+invokestat glassbox agent errorcontainmenttest errormockaspect ajc postclinit line
+catch java lang throwabl
+goto
+astor
+aload
+putstat glassbox agent errorcontainmenttest errormockaspect ajc initfailurecaus ljava lang throwabl
+return
+end static void clinit
+void init
+aload lglassbox agent errorcontainmenttest errormockaspect line
+invokespeci java lang object init
+return
+end void init
+public void ajc glassbox agent errorcontainmenttest errormockaspect 9589fc adviceattribut scope call hook1
+
+java lang runtimeexcept line
+dup
+ldc rte
+invokespeci java lang runtimeexcept init ljava lang string
+athrow
+end public void ajc glassbox agent errorcontainmenttest errormockaspect 9589fc
+public void ajc glassbox agent errorcontainmenttest errormockaspect f75db3e2 adviceattribut execut glassbox agent errorcontainmenttest hook5
+
+java lang runtimeexcept line
+dup
+ldc rte
+invokespeci java lang runtimeexcept init ljava lang string
+athrow
+end public void ajc glassbox agent errorcontainmenttest errormockaspect f75db3e2
+public void ajc glassbox agent errorcontainmenttest errormockaspect a3a17d org aspectj runtim intern aroundclosur adviceattribut scope call hook2
+
+java lang error line
+dup
+ldc foo
+invokespeci java lang error init ljava lang string
+athrow
+end public void ajc glassbox agent errorcontainmenttest errormockaspect a3a17d org aspectj runtim intern aroundclosur
+static void ajc glassbox agent errorcontainmenttest errormockaspect a3a17dproce org aspectj runtim intern aroundclosur throw java lang throwabl org aspectj weaver ajattribut ajsynthet 19a01f9
+
+aload lglassbox agent errorcontainmenttest errormockaspect line
+iconst
+anewarrai java lang object
+invokevirtu org aspectj runtim intern aroundclosur run ljava lang object ljava lang object
+invokestat org aspectj runtim intern convers voidvalu ljava lang object ljava lang object
+return
+end static void ajc glassbox agent errorcontainmenttest errormockaspect a3a17dproce org aspectj runtim intern aroundclosur throw java lang throwabl
+public void ajc glassbox agent errorcontainmenttest errormockaspect bfd07f adviceattribut scope call hook4
+
+org aspectj lang softexcept line
+dup
+aconst null
+invokespeci org aspectj lang softexcept init ljava lang throwabl
+athrow
+end public void ajc glassbox agent errorcontainmenttest errormockaspect bfd07f
+public void ajc glassbox agent errorcontainmenttest errormockaspect e5bddfdc adviceattribut logerrorintest
+
+getstat glassbox agent errorcontainmenttest logcount line
+iconst
+iadd
+putstat glassbox agent errorcontainmenttest logcount
+return line
+end public void ajc glassbox agent errorcontainmenttest errormockaspect e5bddfdc
+public void ajc glassbox agent errorcontainmenttest errormockaspect 16ecfe62 adviceattribut adviceexecut glassbox util log api logmanag cflow logerror cflow execut testloggingerror glassbox agent errorcontainmenttest
+
+getstat java lang system err ljava printstream line
+ldc match
+invokevirtu java printstream println ljava lang string
+return line
+end public void ajc glassbox agent errorcontainmenttest errormockaspect 16ecfe62
+public void ajc glassbox agent errorcontainmenttest errormockaspect e9ae8482 adviceattribut adviceexecut glassbox util log api logmanag cflow execut testloggingerror glassbox agent errorcontainmenttest
+
+getstat java lang system err ljava printstream line
+ldc match test
+invokevirtu java printstream println ljava lang string
+return line
+end public void ajc glassbox agent errorcontainmenttest errormockaspect e9ae8482
+public void ajc glassbox agent errorcontainmenttest errormockaspect c6ac5351 adviceattribut adviceexecut glassbox util log api logmanag cflow logerror
+
+getstat java lang system err ljava printstream line
+ldc match log
+invokevirtu java printstream println ljava lang string
+return line
+end public void ajc glassbox agent errorcontainmenttest errormockaspect c6ac5351
+public void ajc glassbox agent errorcontainmenttest errormockaspect 16ecfe62 adviceattribut adviceexecut glassbox util log api logmanag cflow logerror cflow execut testloggingerror glassbox agent errorcontainmenttest
+
+getstat glassbox agent errorcontainmenttest recursivethrow line
+iconst
+iadd
+putstat glassbox agent errorcontainmenttest recursivethrow
+getstat glassbox agent errorcontainmenttest recursivethrow line
+iconst
+icmpg
+java lang runtimeexcept line
+dup
+ldc recurs log failur
+invokespeci java lang runtimeexcept init ljava lang string
+athrow
+return line
+end public void ajc glassbox agent errorcontainmenttest errormockaspect 16ecfe62
+public static glassbox agent errorcontainmenttest errormockaspect aspectof org aspectj weaver ajattribut ajsynthet 3cd8fe
+
+getstat glassbox agent errorcontainmenttest errormockaspect ajc persingletoninst lglassbox agent errorcontainmenttest errormockaspect line
+ifnonnul
+org aspectj lang noaspectboundexcept
+dup
+ldc glassbox agent errorcontainmenttest errormockaspect
+getstat glassbox agent errorcontainmenttest errormockaspect ajc initfailurecaus ljava lang throwabl
+invokespeci org aspectj lang noaspectboundexcept init ljava lang string ljava lang throwabl
+athrow
+getstat glassbox agent errorcontainmenttest errormockaspect ajc persingletoninst lglassbox agent errorcontainmenttest errormockaspect
+areturn
+end public static glassbox agent errorcontainmenttest errormockaspect aspectof
+public static boolean hasaspect org aspectj weaver ajattribut ajsynthet 1bd4f6
+
+getstat glassbox agent errorcontainmenttest errormockaspect ajc persingletoninst lglassbox agent errorcontainmenttest errormockaspect line
+ifnul
+iconst
+ireturn
+iconst
+ireturn
+end public static boolean hasaspect
+privat static void ajc postclinit org aspectj weaver ajattribut ajsynthet 1febf91
+
+glassbox agent errorcontainmenttest errormockaspect line
+dup
+invokespeci glassbox agent errorcontainmenttest errormockaspect init
+putstat glassbox agent errorcontainmenttest errormockaspect ajc persingletoninst lglassbox agent errorcontainmenttest errormockaspect
+return
+end privat static void ajc postclinit
+end public class glassbox agent errorcontainmenttest errormockaspect
+type mung bceltypemung resolvedtypemung parent null
+weav aspect
+weav
+batch build buildconfig devel glassbox metadata plugin org eclips ajdt core glassboxmonitor gener lst file
+sourc
+public class errorcontainmenttest extend testcas
+
+static aspect errormockaspect implement notserializ
+
+narrow problem obviou

@@ -1,0 +1,17 @@
+deprec remov
+gamma gamma
+version
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+param dimens simplex
+param gamma contract coeffici
+param khi expans coeffici
+org apach common math3 optim direct
+simplex link abstract simplex abstractsimplex abstract simplex abstractsimplex
+side length sidelength
+multi direct direct search method
+param side length sidelength length side hypercub
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+khi khi
+multi direct simplex multidirectionalsimplex side length sidelength
+khi gamma
+build multi direct simplex coeffici

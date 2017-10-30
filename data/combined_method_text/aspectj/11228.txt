@@ -1,0 +1,8 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+set selector setselector selector
+declar selector declaredselector selector
+selector char oper charoper concat selector integ hex string tohexstr sourc start sourcestart char arrai tochararrai
+selector char oper charoper concat prefix getprefix selector

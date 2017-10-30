@@ -1,0 +1,4 @@
+org aspectj weaver
+shadow
+string string tostr
+kind getkind signatur getsignatur return getkind getsignatur getsourcelin

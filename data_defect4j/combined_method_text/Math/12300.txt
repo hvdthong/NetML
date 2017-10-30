@@ -1,0 +1,9 @@
+hyperplan simpl point orient
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+orient sameorientationa hyperplan euclidean1 euclidean1d
+inherit doc inheritdoc
+instanc guarante immut
+version
+repres orient hyperplan
+direct orient point orientedpoint direct
+org apach common math3 geometri euclidean on

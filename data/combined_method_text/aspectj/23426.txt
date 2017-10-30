@@ -1,0 +1,33 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+dump bytcod dump dev mode
+param
+param
+param dump weav
+throw throwabl
+dump string
+string dir dirnam ajdump
+dir dirnam dir dirnam file separ
+string class classnam replac
+file dir
+class classnam index indexof
+dir file dir dirnam file separ class classnam substr class classnam index lastindexof
+dir file dir dirnam
+dir mkdir
+string file filenam dir dirnam file separ class classnam class
+system println weavingadaptor dump filenam file filenam getabsolutepath
+file output stream fileoutputstream file output stream fileoutputstream file filenam
+write
+close
+except ioexcept
+warn unabl dump class directori dir dirnam

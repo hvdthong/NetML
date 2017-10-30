@@ -1,0 +1,10 @@
+org aspectj apach bcel gener
+checkcast check object type
+pre stack objectref objectref pre
+version checkcast java aclement exp
+author href mailto marku dahm berlin dahm
+checkcast instruct cpinstruct
+check object type
+param index class constant pool
+checkcast index
+org aspectj apach bcel constant checkcast index

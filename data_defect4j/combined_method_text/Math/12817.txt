@@ -1,0 +1,8 @@
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+inherit doc inheritdoc
+space space getspac
+instanc guarante immut
+version
+euclidean2 euclidean2d instanc getinst
+org apach common math3 geometri euclidean twod

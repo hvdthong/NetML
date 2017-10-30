@@ -1,0 +1,31 @@
+pre
+euler integr eulerintegr
+version rung kutta integr rungekuttaintegr java 39z luc
+method explicit rung kutta method butcher
+arrai
+set step handler integr
+rung kutta integr rungekuttaintegr
+gill integr gillintegr
+org apach common math od
+step reject error estim phase
+midpoint integr midpointintegr
+handler handler
+a31 a32
+version revis date
+handler call integr accept
+param handler handler accept step
+as1 as2 ass
+integr ordinari differenti equat
+method evalu method
+a21
+step
+common part fix step rung kutta
+asi
+stage behaviour success step
+evalu save fsal method
+set step handler setstephandl step handler stephandl handler
+evalu reus step cost
+method qualifi fsal
+step step
+classic rung kutta integr classicalrungekuttaintegr
+method mean evalu deriv

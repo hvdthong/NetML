@@ -1,0 +1,6 @@
+org aspectj weaver
+checker shadow munger shadowmung
+checker declar error warn declareerrororwarn deow
+deow pointcut getpointcut deow start getstart deow end getend deow sourc context getsourcecontext
+msg deow messag getmessag
+error iserror deow error iserror

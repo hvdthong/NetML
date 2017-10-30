@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+unwoven class file unwovenclassfil class file getclassfilesfor lazi class gen lazyclassgen clazz
+list child class childclass clazz child class getchildclass world
+unwoven class file unwovenclassfil ret unwoven class file unwovenclassfil child class childclass size
+ret unwoven class file unwovenclassfil clazz file getfilenam clazz java class byte includ reweav getjavaclassbytesincludingreweav world
+index
+iter iter child class childclass iter iter hasnext
+unwoven class file unwovenclassfil child class childclass element unwoven class file unwovenclassfil child class childclass iter
+unwoven class file unwovenclassfil child class childclass unwoven class file unwovenclassfil clazz file getfilenam element element byte
+ret index child class childclass
+ret

@@ -1,0 +1,19 @@
+count
+submatrix row column
+interfac defin field valu matrix basic algebra oper
+org apach common math linear
+param type field element
+matrix data
+matrix submatrix data
+matrix element index base code entri getentri code
+org apach common math except rang except outofrangeexcept
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+except matrix index except matrixindexexcept row column select valid
+param select row selectedrow arrai row indic
+field matrix fieldmatrix matrix getsubmatrix select row selectedrow select column selectedcolumn
+version revis date
+row column
+matrix index except matrixindexexcept
+param select column selectedcolumn arrai column indic
+row column select valid

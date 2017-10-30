@@ -1,0 +1,23 @@
+author stephen colebourn
+gregorian calendar exist
+href http wikipedia org wiki gregorian calendar wikipedia
+chronolog gjchronolog
+author brian neill o'neil
+min dai mindai min dai mindai min dai mindai handl renam base chronolog basegjchronolog
+instanc getinst base zone getzon min dai mindai
+object read resolv readresolv
+chronolog assum prolept implement
+julian chronolog julianchronolog
+serial singleton
+implement pure prolept gregorian calendar system defin
+instanc getinst date time zone datetimezon utc min dai mindai
+chronolog base base getbas
+org joda time chrono
+base
+improv julian calendar leap year rule
+fourth year leap year divis
+fix start year januari defin year
+author gui allard
+gregorian chronolog gregorianchronolog basic chronolog basicgjchronolog
+gregorian chronolog gregorianchronolog thread safe immut
+min dai mindai minimum dai week getminimumdaysinfirstweek

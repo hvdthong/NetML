@@ -1,0 +1,67 @@
+org apach lucen search
+queri match document match boolean combin
+queri link termqueri link phrasequeri
+booleanqueri
+boolean queri booleanqueri queri iter boolean claus booleanclaus
+overrid
+explan explain reader context readercontext context doc
+except ioexcept
+min match minshouldmatch
+boolean queri booleanqueri minimum number match getminimumnumbershouldmatch
+complex explan complexexplan sum expl sumexpl complex explan complexexplan
+sum expl sumexpl set descript setdescript sum
+coord
+sum
+fail
+match count shouldmatchcount
+iter boolean claus booleanclaus iter citer claus iter
+iter weight iter witer weight iter iter witer hasnext
+weight iter witer
+boolean claus booleanclaus iter citer
+scorer context
+requir isrequir
+fail
+explan explan match requir claus queri getqueri string tostr
+sum expl sumexpl add detail adddetail
+explan explain context doc
+match ismatch
+prohibit isprohibit
+sum expl sumexpl add detail adddetail
+sum getvalu
+coord
+explan
+explan match prohibit claus queri getqueri string tostr
+add detail adddetail
+sum expl sumexpl add detail adddetail
+fail
+occur getoccur occur
+match count shouldmatchcount
+requir isrequir
+explan explan match requir claus queri getqueri string tostr
+add detail adddetail
+sum expl sumexpl add detail adddetail
+fail
+fail
+sum expl sumexpl set match setmatch boolean fals
+sum expl sumexpl set setvalu
+sum expl sumexpl set descript setdescript
+failur meet condit requir prohibit claus
+sum expl sumexpl
+match count shouldmatchcount min match minshouldmatch
+sum expl sumexpl set match setmatch boolean fals
+sum expl sumexpl set setvalu
+sum expl sumexpl set descript setdescript failur match minimum number
+option claus min match minshouldmatch
+sum expl sumexpl
+sum expl sumexpl set match setmatch coord boolean true boolean fals
+sum expl sumexpl set setvalu sum
+coord factor coordfactor similar coord coord max coord maxcoord
+coord factor coordfactor coordfactor coord
+sum expl sumexpl return sumexpl elimin wrapper
+complex explan complexexplan result complex explan complexexplan sum expl sumexpl match ismatch
+sum coord factor coordfactor
+product
+result add detail adddetail sum expl sumexpl
+result add detail adddetail explan coord factor coordfactor
+coord coord max coord maxcoord
+result

@@ -1,0 +1,12 @@
+code sampl size samples posit
+sampl sampl size samples
+param sampl size samples number random valu gener
+random
+gener random sampl distribut
+arrai repres random sampl
+version
+real distribut realdistribut
+org apach common math3 except strictli posit except notstrictlypositiveexcept
+org apach common math3 distribut
+sampl
+base distribut real

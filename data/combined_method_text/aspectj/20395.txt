@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel field bcelfield resolv member impl resolvedmemberimpl
+unpack gener signatur attribut
+find true field type field list string
+unresolv type unresolvedtyp gener return type getgenericreturntyp
+unpack gener signatur unpackgenericsignatur
+gener field type genericfieldtyp

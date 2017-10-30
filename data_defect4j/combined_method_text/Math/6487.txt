@@ -1,0 +1,42 @@
+pre
+euler integr eulerintegr
+version rung kutta integr rungekuttaintegr java 39z luc
+method explicit rung kutta method butcher
+integr except integratorexcept
+arrai
+rung kutta integr rungekuttaintegr
+equat dimens getdimens length
+gill integr gillintegr
+org apach common math od
+string
+midpoint integr midpointintegr
+param equat differenti equat set
+integ valueof equat dimens getdimens
+object doubl math ab
+integ valueof length
+doubl string tostr math ab
+param target time integr
+math ab math max math ab math ab
+version revis date
+a31 a32
+integ string tostr equat dimens getdimens
+integ equat dimens getdimens
+as1 as2 ass
+integ string tostr length
+integr ordinari differenti equat
+saniti check sanitycheck order differenti equat firstorderdifferentialequ equat
+initi state vector dimens
+integr except integratorexcept dimens mismatch od problem dimens
+object
+param start time
+integr except integratorexcept small integr interv length
+a21
+common part fix step rung kutta
+perform saniti check integr paramet
+param state vector
+except integr except integratorexcept inconsist detect
+object doubl valueof math ab
+param placehold put state vector
+state vector dimens
+classic rung kutta integr classicalrungekuttaintegr
+integ length

@@ -1,0 +1,13 @@
+author stephen colebourn
+defin instant time queri datetim field
+paramet method read datetim perform
+milli getmillisofsecond
+implement mutabl immut
+milli field
+access retriev data chang
+org joda time
+method applic defin code readabl date time readabledatetim code
+milli
+advanc manipul
+author brian neill o'neil
+readabl date time readabledatetim readabl instant readableinst

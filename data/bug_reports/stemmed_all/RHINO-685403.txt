@@ -1,0 +1,51 @@
+final block execut time continu
+creat attach
+java code run script code
+user agent mozilla macintosh intel mac applewebkit khtml gecko version safari
+step reproduc
+code
+function openfil
+
+java lang system println openfil
+return object
+
+function dosomethingwithfil file
+
+java lang system println dosomethingwithfil
+
+function sendeventtooth
+
+java lang system println sendeventtooth
+
+function dosomethingwithev file event
+
+java lang system println dosomethingwithev event event
+
+function closefil file
+
+java lang system println closefil
+
+
+
+file openfil
+dosomethingwithfil file
+sendeventtooth
+event waitsomeev
+dosomethingwithev file event
+
+final
+
+closefil file
+
+waitsomeev function throw continuationpend except event event queue
+actual result
+output script code
+openfil
+dosomethingwithfil
+sendeventtooth
+closefil
+dosomethingwithev event world
+closefil
+case final block closefil execut continuationpend except thrown resumecontinu call
+expect result
+final block execut

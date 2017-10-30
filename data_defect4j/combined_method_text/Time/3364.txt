@@ -1,0 +1,8 @@
+placehold implement datetim field support
+object read resolv readresolv
+instanc getinst type ityp durat field idurationfield
+org joda time field
+ensur proper singleton serial
+author brian neill o'neil
+unsupport date time field unsupporteddatetimefield date time field datetimefield serializ
+unsupport date time field unsupporteddatetimefield thread safe immut

@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+kind pointcut kindedpointcut pointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+shadow kind getkind kind fuzzi boolean fuzzyboolean
+shadow kind getkind shadow synchron lock synchronizationlock kind shadow synchron lock synchronizationlock fuzzi boolean fuzzyboolean
+shadow kind getkind shadow synchron unlock synchronizationunlock kind shadow synchron unlock synchronizationunlock fuzzi boolean fuzzyboolean
+signatur match shadow match signatur getmatchingsignatur shadow world getiworld kind shadow method call methodcal
+kind shadow method call methodcal
+warn confus sig warnonconfusingsig shadow
+warnonbridgemethod shadow
+fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean

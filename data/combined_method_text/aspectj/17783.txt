@@ -1,0 +1,17 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+support nest jvmarg element
+commandlin argument creat jvmarg createjvmarg
+java cmd javacmd creat argument createvmargu

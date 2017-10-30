@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+common super type pointcut bind formal paramet
+author erik hilsdal
+author jim hugunin
+bind pointcut namebindingpointcut pointcut
+test expos state var exposestateforvar var var type pattern typepattern type expos state exposedst state world world
+type bind type pattern bindingtypepattern
+bind type pattern bindingtypepattern bind type pattern bindingtypepattern type
+state set formal index getformalindex var
+resolv type resolvedtyp type mytyp type exact type getexacttyp resolv world
+type mytyp parameter type isparameterizedtyp
+uncheck warn issu
+type mytyp resolv type resolvedtyp type mytyp raw type getrawtyp
+test make instanceof makeinstanceof var type mytyp resolv world

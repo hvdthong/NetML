@@ -1,0 +1,34 @@
+pre
+vector element wise perform oper ad scalar
+rang except outofrangeexcept indic valid
+version creat vector hold result chang instanc
+org apach common math3 except rang except outofrangeexcept
+param start index entri visit
+check indic checkindic start end
+vector element index base code entri getentri
+style
+code code map code map maptoself method oper
+code map maptoself version instanc store
+return element vector
+indic valid
+visitor end
+visit alter entri vector order
+real vector realvector result map add mapaddtoself map maptoself tan map maptoself power
+version
+start end
+return link real vector preserv visitor realvectorpreservingvisitor end
+param end index entri visit inclus
+appli function element turn code map
+param visitor visitor process entri vector
+real vector realvector
+increas index
+result instanc chang method case result
+number small except numberistoosmallexcept code end start
+visitor start dimens getdimens start end
+org apach common math3 linear
+vector return method allow fluent api
+class defin real valu vector basic algebra oper
+end walk
+visitor visit entri getentri
+number small except numberistoosmallexcept rang except outofrangeexcept
+walk default order walkindefaultord real vector preserv visitor realvectorpreservingvisitor visitor

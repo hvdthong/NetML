@@ -1,0 +1,46 @@
+dimens
+current simplex move vertex
+previou current simplex converg checker
+simplex base direct search optim
+deriv comput approxim
+optim simpl bound optim
+function unpredict discontinu difficult complex
+simplex updat procedur link nelder mead simplex neldermeadsimplex
+link multi direct simplex multidirectionalsimplex pass
+provid start point optim
+multivari function penalti adapt multivariatefunctionpenaltyadapt
+direct search method object function valu
+version
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+multivari function map adapt multivariatefunctionmappingadapt
+number paramet chang simplex initi
+param ab absolut threshold
+comput deriv imposs noisi
+converg check provid worst point
+set point dimens updat algorithm
+object function valu vertic simplex
+simpl checker simplevaluecheck rel ab
+function wrap adapt
+direct search method
+optimum desir found case
+link org apach common math3 optim nonlinear scalar multivari function map adapt multivariatefunctionmappingadapt
+step
+code optim method
+link org apach common math3 optim nonlinear scalar multivari function penalti adapt multivariatefunctionpenaltyadapt
+call code optim start configur
+call link optim optim data optimizationdata optim
+org apach common math3 optim nonlinear scalar noderiv
+link cmae optim cmaesoptim link bobyqa optim bobyqaoptim object
+simplex optim implement directli support constrain
+version simplex optim simplexoptim java 58z eran
+simplex base direct search method base comparison
+deriv paper margaret wright
+simplex optim simplexoptim rel ab
+bad point desir case
+dedic algorithm
+comput cost case optimum
+param rel rel threshold
+search method scorn respect
+simplex optim simplexoptim multivari optim multivariateoptim
+code optim method call solv problem
+href http bell lab doc direct

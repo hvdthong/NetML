@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+open output stream openoutputstream file jar outjar
+output stream outputstream file util fileutil make output stream makeoutputstream build config buildconfig output jar getoutputjar
+zo jar output stream jaroutputstream weaver getweav manifest getmanifest
+except ioexcept
+messag imessag messag
+messag unabl open outjar
+jar outjar path getpath
+messag getmessag
+sourc locat sourceloc jar outjar
+handler handl messag handlemessag messag

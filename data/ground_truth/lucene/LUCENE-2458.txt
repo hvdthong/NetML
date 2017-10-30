@@ -1,0 +1,13 @@
+contrib/queryparser/src/java/org/apache/lucene/queryParser/ext/ExtendableQueryParser_getFieldQuery-String-String_Query
+contrib/queryparser/src/java/org/apache/lucene/queryParser/precedence/PrecedenceQueryParser_Term-String_Query
+contrib/queryparser/src/java/org/apache/lucene/queryParser/precedence/PrecedenceQueryParser_getFieldQuery-String-String_Query
+contrib/queryparser/src/java/org/apache/lucene/queryParser/precedence/PrecedenceQueryParser_getFieldQuery-String-String-int_Query
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/QueryParserWrapper_getFieldQuery-String-String_Query
+contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AnalyzerQueryNodeProcessor_postProcessNode-QueryNode_QueryNode
+src/java/org/apache/lucene/queryParser/MultiFieldQueryParser_getFieldQuery-String-String-int_Query
+src/java/org/apache/lucene/queryParser/MultiFieldQueryParser_getFieldQuery-String-String_Query
+src/java/org/apache/lucene/queryParser/QueryParser_QueryParser-Version-String-Analyzer_<init>
+src/java/org/apache/lucene/queryParser/QueryParser_Term-String_Query
+src/java/org/apache/lucene/queryParser/QueryParser_getFieldQuery-String-String_Query
+src/java/org/apache/lucene/queryParser/QueryParser_getFieldQuery-String-String-int_Query
+src/java/org/apache/lucene/queryParser/QueryParser_jj_3R_3_boolean

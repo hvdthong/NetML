@@ -1,0 +1,31 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+construct map time call
+hash map hashmap inlin annot getinlineannot
+string sourc file sourcefil
+show member showsubmemb
+show member type showmemberandtyp
+hierarchi valid isvalid
+hash map hashmap annot hash map hashmap
+program element iprogramel node hierarchi find element sourc file findelementforsourcefil sourc file sourcefil
+node hierarchi ihierarchi structur structur
+program element iprogramel file node filenod program element iprogramel node
+arrai list arraylist node penod arrai list arraylist
+structur children getallstructurechildren file node filenod node penod show member showsubmemb show member type showmemberandtyp
+iter node penod iter hasnext
+program element iprogramel node penod program element iprogramel
+list entri arrai list arraylist
+entri add node penod
+sourc locat isourceloc sourc loc sourceloc node penod sourc locat getsourceloc
+sourc loc sourceloc
+integ hash integ sourc loc sourceloc line getlin
+list exist entri existingentri list annot hash
+exist entri existingentri
+entri add addal exist entri existingentri
+annot put hash entri
+annot

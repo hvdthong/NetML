@@ -1,0 +1,12 @@
+org aspectj weaver
+boundedreferencetyp result gener wildcard express
+extend string super foo
+signatur bound refer type gener signatur
+specif section jvm spec signatur string
+bound type variabl super
+bound refer type boundedreferencetyp refer type referencetyp
+resolv genericswildcardtypex typevariablereferencetyp
+bound refer type boundedreferencetyp string sig string sig erasur sigerasur world world
+sig sig erasur sigerasur world
+set upper bound setupperbound world resolv unresolv type unresolvedtyp object
+set deleg setdeleg refer type refer type deleg referencetypereferencetypedeleg refer type referencetyp upper bound getupperbound

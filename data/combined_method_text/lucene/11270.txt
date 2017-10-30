@@ -1,0 +1,9 @@
+org apach lucen index
+implement skip list reader default post list format
+store posit payload
+default skip list reader defaultskiplistread multi level skip list reader multilevelskiplistread
+return payload length payload store
+doc call link multilevelskiplistread skipto int
+skip
+payload length getpayloadlength
+payload length lastpayloadlength

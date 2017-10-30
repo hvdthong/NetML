@@ -1,0 +1,38 @@
+org aspectj weaver pattern
+pattern parser patternpars
+annot type pattern annotationtypepattern pars singl annot pattern maybeparsesingleannotationpattern
+annot type pattern annotationtypepattern ret
+map valu
+lalr fix make singl token
+start index startindex token sourc tokensourc index getindex
+eat maybeeat
+eat maybeeat
+eat maybeeat
+type pattern typepattern pars type pattern parsetypepattern
+ret annot type pattern notannotationtypepattern wild annot type pattern wildannotationtypepattern
+eat
+ret
+type pattern typepattern pars singl type pattern parsesingletypepattern
+eat adjac maybeeatadjac
+valu pars annot valu parseannotationvalu
+eat
+ret annot type pattern notannotationtypepattern wild annot type pattern wildannotationtypepattern valu
+ret annot type pattern notannotationtypepattern wild annot type pattern wildannotationtypepattern
+ret
+token sourc tokensourc set index setindex start index startindex tokensourc setindex startindex
+ret
+eat maybeeat
+eat maybeeat
+type pattern typepattern pars type pattern parsetypepattern
+ret wild annot type pattern wildannotationtypepattern
+eat
+ret
+type pattern typepattern pars singl type pattern parsesingletypepattern
+eat adjac maybeeatadjac
+valu pars annot valu parseannotationvalu
+eat
+ret wild annot type pattern wildannotationtypepattern valu
+ret wild annot type pattern wildannotationtypepattern
+ret
+token sourc tokensourc set index setindex start index startindex tokensourc setindex startindex
+ret

@@ -1,0 +1,12 @@
+squar root weight matrix
+weight matrix sqrt weightmatrixsqrt copi
+abstract squar optim abstractleastsquaresoptim
+optim provid move
+real matrix realmatrix weight squar root getweightsquareroot
+deprec class interfac deprec
+version
+math
+base implement squar optim
+method error estim
+link org apach common math3 fit leastsquar
+org apach common math3 optim nonlinear vector jacobian

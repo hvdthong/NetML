@@ -1,0 +1,4 @@
+org aspectj weaver
+annot pair annotationnamevaluepair
+annot pair annotationnamevaluepair string annot annotationvalu val
+val val

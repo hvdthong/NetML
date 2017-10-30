@@ -1,0 +1,9 @@
+param rng random number gener
+default implement provid method
+abstract real distribut abstractrealdistribut
+base probabl distribut real
+abstract real distribut abstractrealdistribut random gener randomgener rng
+version
+org apach common math3 distribut
+vari distribut distribut
+random rng

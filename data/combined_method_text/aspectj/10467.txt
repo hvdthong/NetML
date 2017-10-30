@@ -1,0 +1,7 @@
+org aspectj ajd
+author mik kersten
+todo clean merg org aspectj asm structurenod
+build config node buildconfignod
+remov child removechild build config node buildconfignod child
+child set parent setpar
+children remov child

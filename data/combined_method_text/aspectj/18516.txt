@@ -1,0 +1,13 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb pre introduc constructor preintroducedconstructor
+unresolv type unresolvedtyp aspect type aspecttyp
+unresolv type unresolvedtyp target type targettyp
+unresolv type unresolvedtyp param type paramtyp
+resolv member impl resolvedmemberimpl
+member method
+aspect type aspecttyp
+public static final public static final
+unresolv type unresolvedtyp objectarrai
+mangler namemangl pre introduc constructor preintroducedconstructor aspect type aspecttyp target type targettyp
+param type paramtyp

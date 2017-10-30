@@ -1,0 +1,20 @@
+org aspectj tool ajbrows core
+ajbrows implement icompilerconfigur return
+getclasspath getjavaoptionsmap getnonstandardopt
+getoutputlocationmanag null reason
+return getprojectsourcefil lst file record
+need build buildconfigmanag
+browser compil configur browsercompilerconfigur compil configur icompilerconfigur
+string classpath getclasspath
+string buffer stringbuff classpath string buffer stringbuff
+string user path userpath prefer adapt preferencesadapt
+project prefer getprojectprefer prefer store constant preferencestoreconst build classpath build classpath
+user path userpath user path userpath trim length
+classpath append user path userpath
+list output dir outputdir output locat manag getoutputlocationmanag output locat getalloutputloc
+iter iter output dir outputdir iter iter hasnext
+file dir file iter
+classpath append file path separ pathsepar dir absolut path getabsolutepath file path separ pathsepar
+classpath append system properti getproperti java class path
+system println classpath classpath tostr
+classpath string tostr

@@ -1,0 +1,9 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+crosscut member set crosscuttingmembersset world world
+trace enter init world
+world world
+trace exit init

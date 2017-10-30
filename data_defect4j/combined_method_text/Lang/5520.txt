@@ -1,0 +1,23 @@
+overrid
+equal object obj
+org apach common lang3 tupl
+refer element 'left' 'middle' 'right'
+implement defin basic api
+version
+param obj object compar return
+restrict type store object store
+param left element type
+mutabl object store tripl tripl effect mutabl
+compar tripl base element
+obj
+object util objectutil equal getright getright
+param element type
+subclass implement mutabl immut
+object util objectutil equal left getleft left getleft
+tripl tripl obj
+obj tripl
+element tripl equal
+tripl consist element
+object util objectutil equal middl getmiddl middl getmiddl
+tripl compar tripl serializ
+param middl element type

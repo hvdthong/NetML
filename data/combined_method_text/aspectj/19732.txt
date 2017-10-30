@@ -1,0 +1,8 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+packag samepackag
+resolv type resolvedtyp target type targettyp
+resolv type resolvedtyp type fromtyp
+string target type targettyp packag getpackagenam
+string type fromtyp packag getpackagenam
+equal

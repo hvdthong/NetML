@@ -1,0 +1,40 @@
+approxim real univari function
+deprec
+link solv univari real function univariaterealfunct
+note releas actual
+similar pre releas
+param function solv
+link univari real solver impl univariaterealsolverimpl solv univari real function univariaterealfunct
+secant solver secantsolv abstract univari real solver abstractunivariaterealsolv
+unrestrict secant algorithm implement
+secant algorithm modifi version
+secant solver secantsolv univari real solver impl univariaterealsolverimpl
+version
+algorithm modifi maintain bracket root success
+absolut accuraci absoluteaccuraci
+version revis date
+regula falsi method
+gener outperform
+method
+approxim forc bracket converg slower
+function assum continu necessarili smooth
+construct solver function
+equat bit numer mathemat volum number
+link illinoi solver illinoissolv illinoi algorithm
+secant solver secantsolv univari real function univariaterealfunct
+href http mathworld wolfram secant method secantmethod html secant method
+implement base articl dowel jarratt
+page springer
+univari real function solut maintain
+link pegasu solver pegasussolv pegasu algorithm
+construct solver
+backward compat previou version algorithm
+bracket converg guarante
+href http mathworld wolfram methodof fals posit methodoffalseposit html
+implement modifi version
+org apach common math analysi solver
+implement secant method root find approxim
+deprec function solv pass argument
+param absolut accuraci absoluteaccuraci absolut accuraci
+secant solver secantsolv absolut accuraci absoluteaccuraci
+modifi regula falsi method comput root

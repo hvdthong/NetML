@@ -1,0 +1,16 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+method target type inter type method possibl topmost implementor
+target type interfac implement call intermethoddispatch method
+aspect
+resolv member resolvedmemb inter method intermethod resolv member resolvedmemb meth unresolv type unresolvedtyp aspect type aspecttyp interfac oninterfac
+modifi public ispubl meth modifi getmodifi interfac oninterfac meth
+modifi make public final makepublicnonfin meth modifi getmodifi
+interfac oninterfac modifi modifi abstract
+resolv member impl resolvedmemberimpl rmi resolv member impl resolvedmemberimpl member method meth declar type getdeclaringtyp
+modifi
+meth return type getreturntyp
+mangler namemangl inter method intermethod meth modifi getmodifi aspect type aspecttyp meth declar type getdeclaringtyp meth getnam
+meth paramet type getparametertyp meth except getexcept
+rmi set type variabl settypevari meth type variabl gettypevari
+rmi

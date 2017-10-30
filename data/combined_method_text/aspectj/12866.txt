@@ -1,0 +1,15 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+shorten long class name java lang string
+java lang string
+chopit true prefix java lang
+remov
+param str long class
+param chopit flag determin chop execut
+return compact class
+string compact class compactclassnam string str chopit
+compact class compactclassnam str java lang chopit

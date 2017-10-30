@@ -1,0 +1,16 @@
+param text output stream output print
+param arrai
+org apach common math3 util
+check len checklen expect len expectedlen arrai length
+print arrai
+arrai
+param expect len expectedlen expect length arrai
+println tabl start decl
+println tabl end decl
+version
+printf format entri line
+class comput classic function tabl
+println
+param arrai arrai data
+fast math calc fastmathcalc
+printarrai print stream printstream string expect len expectedlen arrai

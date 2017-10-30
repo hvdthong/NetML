@@ -1,0 +1,13 @@
+local format localizedformat posit scale
+param beta scale paramet
+weibul distribut impl weibulldistributionimpl abstract continu distribut abstractcontinuousdistribut
+beta
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+scale posit
+link org apach common math distribut weibul distribut weibulldistribut
+scale beta
+version revis date
+default implement
+org apach common math distribut
+modifi scale paramet
+set scale intern setscaleintern beta

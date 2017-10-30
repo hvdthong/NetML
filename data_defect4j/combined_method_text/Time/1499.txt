@@ -1,0 +1,13 @@
+author stephen colebourn
+param field durat field type durationfieldtyp instanc support period
+field type support period
+defin durat time queri modifi datetim field
+read writabl period readwritableperiod readabl period readableperiod
+param add field
+implement mutabl
+add field
+org joda time
+provid advanc method
+add durat field type durationfieldtyp field
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support

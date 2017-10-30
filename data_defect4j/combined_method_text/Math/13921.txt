@@ -1,0 +1,24 @@
+code vector row indic start
+vector row indic start
+matrix dimens mismatch except matrixdimensionmismatchexcept
+set row vector setrowvector row real vector realvector vector
+rang except outofrangeexcept row index invalid
+version
+param row row set
+match column dimens code matrix
+param vector row vector number column
+rang except outofrangeexcept matrix dimens mismatch except matrixdimensionmismatchexcept
+matrix element index base code entri getentri code
+set entri row index
+row index invalid
+vector dimens match instanc row
+column instanc
+param vector row vector copi number
+org apach common math3 linear
+set code row code matrix entri
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+instanc
+interfac defin real valu matrix basic algebra oper
+matrix dimens mismatch except matrixdimensionmismatchexcept code vector dimens
+real matrix realmatrix matrix anymatrix

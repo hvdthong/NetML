@@ -1,0 +1,14 @@
+org aspectj weaver
+iter
+creat iter return element arrai
+order arrai aslist iter peski safeti
+iter arrai object
+iter
+len length
+hasnext
+len
+object
+len
+element except nosuchelementexcept
+remov
+unsupport oper except unsupportedoperationexcept

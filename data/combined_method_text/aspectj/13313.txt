@@ -1,0 +1,10 @@
+org aspectj apach bcel gener
+dsub substract doubl
+pre stack value1 word1 value1 word2 value2 word1 value2 word2 pre
+result word1 result word2
+version dsub java aclement exp
+author href mailto marku dahm berlin dahm
+dsub arithmet instruct arithmeticinstruct
+substract doubl
+dsub
+org aspectj apach bcel constant dsub

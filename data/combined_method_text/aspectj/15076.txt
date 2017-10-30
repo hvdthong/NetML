@@ -1,0 +1,19 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+actual merg vmspec2 page
+return true iff infram chang merg infram
+merg frame mergeinfram frame frame infram
+todo perform improv
+frame inf frame frame infram execut jsr lastexecutionjsr
+operand stack operandstack oldstack inf stack getstack clone getclon
+local variabl localvari oldloc inf local getloc clone getclon
+inf stack getstack merg frame infram stack getstack
+inf local getloc merg frame infram local getloc
+structur code constraint except structuralcodeconstraintexcept sce
+extend messag flow extendmessagewithflow sce
+sce
+oldstack equal inf stack getstack
+oldloc equal inf local getloc

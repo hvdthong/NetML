@@ -1,0 +1,6 @@
+org aspectj ajd core intern
+enabl output locat detail ioutputlocationmanag
+implement relat comipl weaver
+output locat adapt outputlocationadapt compil result destin manag compilationresultdestinationmanag
+list output locat getalloutputloc
+locat manag locationmanag output locat getalloutputloc

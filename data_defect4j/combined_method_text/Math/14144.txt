@@ -1,0 +1,154 @@
+null argument except nullargumentexcept paramet code
+definit
+link solv real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+link solv place solveinplac real linear oper reallinearoper real vector realvector real vector realvector
+middot hat
+hat middot hat hat
+link adjoint oper except nonselfadjointoperatorexcept linear oper
+href http www stanford group sol softwar symmlq ps75 pdf
+count iter user requir check symmetri
+hat middot
+definit adjoint work iter
+solut
+precondit
+state updat
+dimens mismatch except dimensionmismatchexcept adjoint oper except nonselfadjointoperatorexcept
+earli stop earlystop
+comput middot solv middot
+link org apach common math3 util incrementor max count exceed callback maxcountexceededcallback callback
+link iter linear solver event iterativelinearsolverev norm residu getnormofresidu return norm
+ill condit oper except illconditionedoperatorexcept code ill condit
+solut transform system rhat current estim
+manag fire initi event fireinitializationev event
+dimens inconsist code
+shift middot sens matrix vector
+present context iter understood evalu
+word number iter requir reach converg
+stop
+code shift system middot
+larg multipl code
+present definit iter count differ adopt
+manag reset iter count resetiterationcount
+implement symmlq iter linear solver propos
+shift comput larg compon
+number iter symmlq slightli work iter
+manag fire termin event fireterminationev event
+matrix vector product middot initi phase
+solut spars indefinit system linear equat siam
+set
+check paramet checkparamet
+context except context
+kei code vector2 point offend vector
+param linear oper system
+comput vector approxim unnorm eigenvector
+middot middot
+manag iter getiter
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+entail matrix vector product initi phase
+iter count
+rayleigh quotient iter precis
+ident check requir
+symmlq implicitli solv system equat
+larg base fortran code michael saunder
+version
+middot accuraci
+slightli shift
+refer
+posit definit oper except nonpositivedefiniteoperatorexcept code posit
+hat hat hat middot hat
+state init
+href paig1975 paig saunder implement
+provid posit definit precondition
+initi phase good approxim
+conjug gradient prefer requir
+middot middot solut comput place
+code paramet
+org apach common math3 linear
+real linear oper reallinearoper real vector realvector
+max count exceed except maxcountexceededexcept
+precondition symmetr link except context exceptioncontext
+method invers iter rayleigh quotient iter
+link real linear oper reallinearoper vector oper
+param goodb code code expect
+link solv place solveinplac real linear oper reallinearoper real linear oper reallinearoper real vector realvector real vector realvector
+product form middot comput effici
+paig1975 paig saunder
+approxim
+iter linear solver event iterativelinearsolverev event
+residu
+extra call precondition
+param hand side vector
+stop criterion implement iter stop rhat
+rayleigh quotient middot middot
+param shift amount subtract diagon element
+refer code shallow copi
+state equal null vector bequalsnullvector
+code code code adjoint
+custom
+real vector realvector goodb shift
+solut expect larg multipl code
+initguess initi guess solut
+earli stop earlystop state beta equal betaequalszero state converg hasconverg
+linear oper shift middot posit
+posit definit oper except nonpositivedefiniteoperatorexcept ill condit oper except illconditionedoperatorexcept
+state norm residu getnormofresidu
+journal numer analysi
+squar oper except nonsquareoperatorexcept code code squar
+kei code vector1 point offend vector
+dimens mismatch except dimensionmismatchexcept code code code
+real vector realvector solv place solveinplac real linear oper reallinearoper
+residu delta user toler
+state refin solut refinesolut
+account
+middot shift middot middot
+standard link dimens mismatch except dimensionmismatchexcept
+adjoint oper except nonselfadjointoperatorexcept link check getcheck
+event default iter linear solver event defaultiterativelinearsolverev
+middot shift middot middot middot
+precondit updat residu middot norm
+paig saunder
+solver fire
+return estim solut linear system shift
+precondit reduc number iter requir solver
+achiev code goodb set code requir
+set construct link iter manag iterationmanag
+solv approxim eigenvalu
+hat middot shift middot middot
+iter manag iterationmanag manag iter manag getiterationmanag
+link solv real linear oper reallinearoper real vector realvector real vector realvector
+stopcrit default stop criterion
+kei code vector point offend vector
+product account iter count
+initi count iter
+precondition posit definit relev kei
+normal closer eigenvector
+symm symmlq
+consid initi guess href initguess
+shift scalar shift suitabl chosen
+precondit link iter linear solver event iterativelinearsolverev
+delta ahat xhat xhat current estim
+requir posit definit definit method
+max count exceed except maxcountexceededexcept exhaust iter count
+href http www stanford group sol softwar symmlq f77
+symmlq design solv system linear equat middot
+middot vector
+link except context exceptioncontext
+link posit definit oper except nonpositivedefiniteoperatorexcept thrown
+origin fotran code initi phase
+suffici eigenvector eigenvalu
+manag fire iter perform event fireiterationperformedev event
+kei code oper point offend linear oper
+middot
+manag fire iter start event fireiterationstartedev event
+param precondition code
+termin beta essenti
+state state goodb shift delta check
+state state
+time adjoint linear oper defin
+symmlq design solv system shift middot middot
+inform
+param vector updat solut code
+state converg hasconverg
+manag increment iter count incrementiterationcount
+middot middot middot
+consid initi guess set

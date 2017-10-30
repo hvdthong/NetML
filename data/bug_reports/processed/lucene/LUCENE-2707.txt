@@ -1,0 +1,4 @@
+numericfield throws notserializableexception serialized implements serializable
+numericfield extends abstractfield implements serializable
+numericfield serialized stores precisionstep underlying numerictokenstream serializable numerictokenstream made serializable made transient numericfield precisionstep stored directly numericfield recreated deserialization
+related real reason found bug field numericfield cloneable make copy manually getter method precisionstep numericfield thought clever poor mans clone serializing deserializing numericfield luck

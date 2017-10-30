@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+gener unassoci shadow root method root
+point code root shadowrang
+link shadowrang associatewithshadow bcelshadow method
+bcel shadow bcelshadow
+bcel world bcelworld world
+kind kind
+member signatur
+lazi method gen lazymethodgen enclos method enclosingmethod
+bcel shadow bcelshadow enclos shadow enclosingshadow
+kind signatur enclos shadow enclosingshadow
+world world
+enclos method enclosingmethod enclos method enclosingmethod
+fallsthrough kind argsonstack

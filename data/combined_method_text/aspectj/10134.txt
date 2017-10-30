@@ -1,0 +1,12 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+compil build except buildexcept protect int compil throw buildexcept todo doc fork
+string arg cmd argument getargu
+fork
+log warn fork project msg warn msg warn
+main main arg
+main abort hasabort
+throwabl
+build except buildexcept

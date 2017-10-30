@@ -1,0 +1,14 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+pars pointcut express
+global scope assum resolv type refer pointcut
+formal variabl bound
+throw unsupportedpointcutprimitiveexcept parser encount
+primit pointcut express kind support pointcutpars
+throw illegalargumentexcept express form
+pointcut express
+pointcut express pointcutexpress pars pointcut express parsepointcutexpress string express
+unsupport pointcut primit except unsupportedpointcutprimitiveexcept illeg argument except illegalargumentexcept
+pars pointcut express parsepointcutexpress express pointcut paramet pointcutparamet

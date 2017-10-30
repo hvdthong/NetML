@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener singleton aspect method generatepersingletonhasaspectmethod class file classfil class file classfil
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+gener method generatemethod class file classfil aspect method hasaspectmethod bodi gener bodygener
+gener code stream codestream code stream codestream
+bodi start
+code stream codestream getstat world make field bind makefieldbind ajc member maker ajcmembermak singleton field persingletonfield
+type typex
+branch label branchlabel null isnul branch label branchlabel code stream codestream
+code stream codestream ifnul null isnul
+code stream codestream iconst
+code stream codestream ireturn
+null isnul place
+code stream codestream iconst
+code stream codestream ireturn
+bodi end

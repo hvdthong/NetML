@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+andpointcut dom ast node
+pointcutdesign 'left'
+pointcutdesign 'right'
+author ajh02
+pointcut andpointcut pointcut design pointcutdesign
+ast node astnod clone0 ast target
+pointcut andpointcut result pointcut andpointcut target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+getright
+result set setright pointcut design pointcutdesign getright clone target
+left getleft
+result set left setleft pointcut design pointcutdesign left getleft clone target
+result

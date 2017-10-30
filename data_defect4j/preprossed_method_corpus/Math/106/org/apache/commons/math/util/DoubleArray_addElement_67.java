@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math util
+
+
+
+standard arrai
+arrai implement support storag mechan
+automat expans contract arrai roll
+
+version revis date
+
+doubl arrai doublearrai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+add element end expand arrai
+
+param ad end arrai
+
+add element addel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

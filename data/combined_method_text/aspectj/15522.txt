@@ -1,0 +1,35 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+fixup structur model fixupstructuremodel writer list file compil filestobecompil set file ad set file delet except ioexcept
+kind thing worri
+file ad compil
+file delet compil
+file 'changed' compil config getfil
+list file config getfil
+hierarchi ihierarchi model asm manag asmmanag default getdefault hierarchi gethierarchi
+model modifi modelmodifi
+file delet compil delet
+set file remov structur model filestoremovefromstructuremodel hash set hashset file compil filestobecompil
+file remov structur model filestoremovefromstructuremodel add addal file delet
+set delet node deletednod hash set hashset
+iter iter file remov structur model filestoremovefromstructuremodel iter iter hasnext
+file file compil fileforcompil file iter
+string correct path correctedpath asm manag asmmanag default getdefault canon file path getcanonicalfilepath file compil fileforcompil
+program element iprogramel prog elem progelem program element iprogramel model find file map findinfilemap correct path correctedpath
+prog elem progelem
+found remov
+dump delta process dumpdeltaprocess
+write delet prog elem progelem node file file compil fileforcompil
+remov node removenod prog elem progelem
+delet node deletednod add canon file path getcanonicalfilepath prog elem progelem sourc locat getsourceloc sourc file getsourcefil
+model remov file map removefromfilemap correct path correctedpath string tostr
+runtim except runtimeexcept whilst repair model remov entri file correct path correctedpath string tostr filemap
+model modifi modelmodifi
+model modifi modelmodifi
+model flush type map flushtypemap
+model updat handl map updatehandlemap delet node deletednod

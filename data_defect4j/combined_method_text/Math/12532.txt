@@ -1,0 +1,9 @@
+belong plane
+repres plane dimension space
+org apach common math3 geometri euclidean threed
+param point check
+fast math fastmath ab offset getoffset
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+vector3 vector3d
+check instanc point

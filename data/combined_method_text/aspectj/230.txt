@@ -1,0 +1,9 @@
+org aspectj tool ajbrows swing
+standalon oper
+author mik kersten
+top frame topfram frame jframe
+set editor panel seteditorpanel panel jpanel panel
+editor panel panel
+split pane splitpan remov editor panel
+split pane splitpan add panel split pane jsplitpan top
+panel set visibl setvis

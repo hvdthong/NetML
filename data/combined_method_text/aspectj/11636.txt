@@ -1,0 +1,16 @@
+org aspectj ajdt intern compil lookup
+member finder intertyp declar member type
+member finder type hit itd
+inter type member finder intertypememberfind member finder imemberfind
+field bind fieldbind resolv conflict resolveconflict
+sourc type bind sourcetypebind sourc type bind sourcetypebind
+field bind fieldbind ret field retfield
+field bind fieldbind field
+invoc site invocationsit site
+scope scope
+ret field retfield field
+site
+field canbeseenbi sourc type bind sourcetypebind site scope ret field retfield
+ret field retfield canbeseenbi sourc type bind sourcetypebind site scope field
+xxx domin check aspect
+problem field bind problemfieldbind ret field retfield declar class declaringclass ret field retfield problem iproblem ambigu field ambiguousfield return problemfieldbind retfield declaringclass retfield iproblem ambiguousfield problemreport ambigu

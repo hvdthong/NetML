@@ -1,0 +1,13 @@
+author stephen colebourn
+local symbol gjlocalesymbol local forlocal local dai week short text dayofweekvaluetoshorttext field fieldvalu
+abbrevi textual time instant
+org joda time chrono
+author gui allard
+param field fieldvalu field queri
+dai week date time field gjdayofweekdatetimefield precis durat date time field precisedurationdatetimefield
+param local local
+dai week compon time
+author brian neill o'neil
+string short text getasshorttext field fieldvalu local local
+dai week mon' 'mon'
+dai week date time field gjdayofweekdatetimefield time calcul

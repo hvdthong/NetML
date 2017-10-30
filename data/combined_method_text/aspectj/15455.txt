@@ -1,0 +1,31 @@
+org aspectj apach bcel verifi structur
+class implement stack symbol jvm stack simul
+operand stack substitut
+element stack org aspectj apach bcel gener type object
+version operandstack java aclement exp
+author href http www inf berlin ehaas enver haas
+operand stack operandstack
+merg stack state instance' stack state
+java virtual machin specif edit page
+detail
+merg operand stack operandstack
+slot slotsus slot slotsus size size
+structur code constraint except structuralcodeconstraintexcept merg stack size noperandstack noperandstack
+size
+object initi suppos merg
+uniniti object reject code vmspec2 paragraph
+stack uniniti object type uninitializedobjecttyp stack uniniti object type uninitializedobjecttyp
+structur code constraint except structuralcodeconstraintexcept backward branch uniniti object stack detect
+harder initi suppos broaden
+object type
+stack equal stack stack uniniti object type uninitializedobjecttyp stack uniniti object type uninitializedobjecttyp
+structur code constraint except structuralcodeconstraintexcept backward branch uniniti object stack detect
+hand
+stack uniniti object type uninitializedobjecttyp stack instanceof uninitializedobjecttyp uniniti object
+stack uniniti object type uninitializedobjecttyp stack instanceof uninitializedobjecttyp initi
+stack set uniniti object type uninitializedobjecttyp stack initi getiniti stack set uninitializedobjecttyp stack getiniti note
+stack equal stack
+stack refer type referencetyp
+stack refer type referencetyp
+stack set refer type referencetyp stack common superclass getfirstcommonsuperclass refer type referencetyp stack
+structur code constraint except structuralcodeconstraintexcept merg stack type nstack nstack

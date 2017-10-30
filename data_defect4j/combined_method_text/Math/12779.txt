@@ -1,0 +1,8 @@
+repres hyperplan link line
+segment line getlin build interv set buildintervalset segment start getstart segment end getend
+param segment singl segment form line
+creat line segment
+line sublin abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d
+line sublin segment segment
+version
+org apach common math3 geometri euclidean twod

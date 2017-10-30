@@ -1,0 +1,118 @@
+author href mailto hp intermeta hen schmiedehausen
+param replac list replacementlist
+oper link java lang string
+author href mailto apach org korthof
+remov lead trail whitespac
+containsonli containsnon containsani
+check string text
+param
+abbrevi string ellipsi
+index set string
+compar string report differ
+substr extract rel string
+org apach common lang
+string util stringutil replac replaceeach abcd string string wcte
+string
+string util stringutil replac replaceeach aba string string aba
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+code string util stringutil code
+search string replac string
+text search replac
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+param search list searchlist
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+param text
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+author stephen colebourn
+whitespac charact defin link charact whitespac iswhitespac
+string util stringutil replac replaceeach
+string replac
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+replac replaceeach text repl
+code code refer pass method
+start startswith
+index bound except indexoutofboundsexcept
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+replac occurr string string
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+string replac replaceeach string text string repl string
+code code
+empti length string code code
+string util stringutil replac replaceeach aba string aba
+safe substr extract
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+space space charact code code
+string replac replaceeach string text string search list searchlist string replac list replacementlist
+revers string
+end endswith
+author daniel rall
+code code code code return
+size
+differ
+count match countmatch
+author chri hyzer
+search string string replac replac
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+length arrai
+code string util stringutil code defin word relat
+string util stringutil replac replaceeach abcd string string dcte
+author href mailto jon latchkei jon steven
+index indexof index lastindexof
+code code input code code
+text replac process code code
+code null pointer except nullpointerexcept code consid bug
+code code safe
+remov part string
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+string search
+pre
+author michael davei
+substr left mid
+chomp chop
+string charact
+java lang string
+author gari gregori
+string input
+safe index check
+overload method
+repeat
+string util stringutil replac replaceeach aba string string
+string util stringutil
+string util stringutil replac replaceeach aba aba
+check charact string
+replac replaceeach text search list searchlist replac list replacementlist
+param repl
+code string util stringutil code deprec method
+repeat repeat replac call
+symbol code code input includ code code

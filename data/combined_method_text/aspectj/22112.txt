@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+kind pointcut kindedpointcut pointcut
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+buf append kind simpl getsimplenam
+buf append
+buf append signatur string tostr
+buf append
+buf string tostr

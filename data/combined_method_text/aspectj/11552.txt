@@ -1,0 +1,22 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+annot annotationvalu gener element generateelementvalu express default defaultvalu type bind typebind member pair return type membervaluepairreturntyp
+constant constant default defaultvalu constant
+type bind typebind default bind defaultvaluebind default defaultvalu resolv type resolvedtyp
+default bind defaultvaluebind
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+member pair return type membervaluepairreturntyp arrai type isarraytyp default bind defaultvaluebind arrai type isarraytyp
+constant constant constant constant notaconst
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+generateelementvalu attributeoffset defaultvalu constant membervaluepairreturntyp leafcomponenttyp
+annot annotationvalu gener element constant express generateelementvaluefornonconstantexpress default defaultvalu default bind defaultvaluebind
+arrai annot arrayannotationvalu annot annotationvalu
+constant constant constant constant notaconst
+miss implement except missingimplementationexcept
+rais aspectj bug aspectj convert annot default defaultvalu
+generateelementvalu attributeoffset defaultvalu constant membervaluepairreturntyp leafcomponenttyp
+annot annotationvalu gener element constant express generateelementvaluefornonconstantexpress default defaultvalu default bind defaultvaluebind

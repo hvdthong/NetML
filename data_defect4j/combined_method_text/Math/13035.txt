@@ -1,0 +1,21 @@
+overrid
+method implement link entri getentri access
+inherit doc inheritdoc
+data except nodataexcept null argument except nullargumentexcept rang except outofrangeexcept
+field matrix fieldmatrix matrix submatrix
+copi entri
+basic implement link field matrix fieldmatrix method underli storag
+check matrix index checksubmatrixindex select row selectedrow select column selectedcolumn
+version
+safeti check
+creat matrix creatematrix select row selectedrow length select column selectedcolumn length
+abstract field matrix abstractfieldmatrix field element fieldel
+param type field element
+visit row column
+select column selectedcolumn
+field matrix fieldmatrix matrix getsubmatrix select row selectedrow
+entri getentri select row selectedrow row select column selectedcolumn column
+matrix submatrix
+org apach common math3 linear
+matrix element deriv provid faster implement
+matrix submatrix walk optim order walkinoptimizedord default field matrix chang visitor defaultfieldmatrixchangingvisitor field getzero

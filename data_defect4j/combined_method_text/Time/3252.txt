@@ -1,0 +1,11 @@
+precis datetim field precis unit durat field
+call set method maximum allow
+org joda time field
+subclass
+precis durat date time field precisedurationdatetimefield base date time field basedatetimefield
+return maximum getmaximumvalu instant overrid provid faster
+author brian neill o'neil
+precis durat date time field precisedurationdatetimefield thread safe immut
+implement
+maximum set getmaximumvalueforset instant
+maximum getmaximumvalu instant

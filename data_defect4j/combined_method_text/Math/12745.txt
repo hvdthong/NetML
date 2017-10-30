@@ -1,0 +1,8 @@
+repres region set polygon
+set node setnod bsp tree bsptree euclidean2 euclidean2d node
+node node
+set node cut hyperplan edg
+param node node cut hyperplan edg
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+org apach common math3 geometri euclidean twod

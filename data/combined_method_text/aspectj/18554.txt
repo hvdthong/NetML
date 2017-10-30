@@ -1,0 +1,31 @@
+org aspectj weaver
+annot annotationvalu
+string kind whatkindisthi kind
+kind
+primit byte primit byte case primit byte byte
+byte
+primit char primit char case primit char char
+char
+primit doubl primit doubl case primit doubl doubl
+doubl
+primit float primit float case primit float float
+float
+primit int primit int case primit int int
+int
+primit long primit long case primit long long
+long
+primit short primit short case primit short short
+short
+primit boolean primit boolean case primit boolean boolean
+boolean
+case 's' string
+string
+case 'e' enum constant
+enum
+case 'c' class
+class
+case annot
+annot
+case arrai
+arrai
+runtim except runtimeexcept dont kind

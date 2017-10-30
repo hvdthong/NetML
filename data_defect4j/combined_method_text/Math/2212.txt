@@ -1,0 +1,14 @@
+param alpha shape paramet
+weibul distribut impl weibulldistributionimpl abstract continu distribut abstractcontinuousdistribut
+set scale setscal beta
+weibul distribut impl weibulldistributionimpl alpha beta
+link org apach common math distribut weibul distribut weibulldistribut
+version revis date sat jul
+version revis date
+creat weibul distribut shape scale
+default implement
+locat equal
+org apach common math distribut
+alpha beta default invers absolut accuraci
+set shape setshap alpha
+param beta scale paramet

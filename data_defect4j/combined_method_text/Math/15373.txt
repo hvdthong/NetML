@@ -1,0 +1,29 @@
+row equal dimens
+org apach common math3 optim gener
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+handl boilerpl method threshold set
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+link optim differenti multivari vector function differentiablemultivariatevectorfunct
+link optim multivari differenti vector function multivariatedifferentiablevectorfunct
+checker
+version
+construct jacobian matrix function argument method
+function argument method
+optim assum matrix return
+param checker converg checker
+link multivari matrix function multivariatematrixfunct method row
+abstract squar optim abstractleastsquaresoptim
+link jacobian function jacobianfunct method row
+number column equal length code start point startpoint arrai
+link org apach common math3 optim target target
+link differenti multivari vector function differentiablemultivariatevectorfunct jacobian
+deprec remov
+iter model function column iter paramet
+link jacobian function jacobianfunct jacobian function argument method
+abstract squar optim abstractleastsquaresoptim converg checker convergencecheck point vector pair pointvectorvaluepair checker
+number row equal length code target arrai
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number

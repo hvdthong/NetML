@@ -1,0 +1,11 @@
+src/main/org/apache/tools/ant/IntrospectionHelper_getNestedCreator-Project-String-Object-String-UnknownElement_NestedCreator
+src/main/org/apache/tools/ant/IntrospectionHelper_setAttribute-Project-Object-String-String_void
+src/main/org/apache/tools/ant/IntrospectionHelper_supportsNestedElement-String_boolean
+src/main/org/apache/tools/ant/IntrospectionHelper_supportsNestedElement-String-String_boolean
+src/main/org/apache/tools/ant/taskdefs/MacroDef_addConfiguredElement-TemplateElement_void
+src/main/org/apache/tools/ant/taskdefs/MacroDef$TemplateElement_equals-Object_boolean
+src/main/org/apache/tools/ant/taskdefs/MacroDef$TemplateElement_hashCode_int
+src/main/org/apache/tools/ant/taskdefs/MacroInstance_copy-UnknownElement_UnknownElement
+src/main/org/apache/tools/ant/taskdefs/MacroInstance_createDynamicElement-String_Object
+src/main/org/apache/tools/ant/taskdefs/MacroInstance_execute_void
+src/main/org/apache/tools/ant/taskdefs/MacroInstance_getNsElements_Map

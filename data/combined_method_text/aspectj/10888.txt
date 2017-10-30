@@ -1,0 +1,5 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+ajc config parser ajcconfigpars build config ajbuildconfig build config buildconfig messag handler imessagehandl handler
+build config buildconfig build config buildconfig
+handler handler

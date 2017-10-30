@@ -1,0 +1,50 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+comput full set signatur member walk hierarchi
+give resolvedmemb defin type hierarchi shadowmemb
+creat target type declar type defin
+member long member inherit declar type
+declar type line actual declar type ad addit
+signatur
+class void foo
+class extend
+shadowmemb void foo
+void foo void foo
+param joinpointsignatur
+param inaworld
+join point signatur joinpointsignatur join point signatur getjoinpointsignatur member join point signatur joinpointsignatur world world inaworld
+walk hierarchi creat member type includ
+defin type
+resolv type resolvedtyp origin declar type originaldeclaringtyp join point signatur joinpointsignatur declar type getdeclaringtyp resolv world inaworld
+resolv member impl resolvedmemberimpl defin member firstdefiningmemb resolv member impl resolvedmemberimpl join point signatur joinpointsignatur resolv world inaworld
+defin member firstdefiningmemb
+join point signatur joinpointsignatur
+declaringtyp unresolv match synthet member gener
+fix add resolv call end
+focu problem time
+resolv type resolvedtyp defin type firstdefiningtyp defin member firstdefiningmemb declar type getdeclaringtyp resolv world inaworld
+defin type firstdefiningtyp origin declar type originaldeclaringtyp
+join point signatur joinpointsignatur kind getkind member constructor
+join point signatur joinpointsignatur
+shadowmemb isstat
+return resolvedmemb firstdefiningmemb
+list declar type declaringtyp arrai list arraylist
+accumul type accumulatetypesinbetween origin declar type originaldeclaringtyp
+defin type firstdefiningtyp
+declar type declaringtyp
+set member signatur membersignatur hash set hashset
+iter iter declar type declaringtyp iter iter hasnext
+resolv type resolvedtyp declar type declaringtyp resolv type resolvedtyp iter
+resolv member resolvedmemb member defin member firstdefiningmemb substitut declar type withsubstitutedeclaringtyp declar type declaringtyp
+member signatur membersignatur add member
+walk hierarchi shouldwalkuphierarchyfor defin member firstdefiningmemb
+walk hierarchi firstdefiningmemb includ signatur
+type firstdefiningmemb root defin member
+iter super type iter supertypeiter defin type firstdefiningtyp direct supertyp getdirectsupertyp
+list type visit typesalreadyvisit arrai list arraylist
+accumul member match accumulatemembersmatch defin member firstdefiningmemb super type iter supertypeiter type visit typesalreadyvisit member signatur membersignatur
+join point signatur joinpointsignatur ret join point signatur joinpointsignatur member signatur membersignatur size
+member signatur membersignatur arrai toarrai ret
+ret

@@ -1,0 +1,12 @@
+wrap compon
+param instant time instant milli updat
+org joda time field
+gener offset adjust datetim field
+updat time instant
+add offset compon time instant
+param amount amount unit add neg
+author brian neill o'neil
+add wrap field addwrapfield instant amount
+offset date time field offsetdatetimefield thread safe immut
+set instant field util fieldutil wrap getwrappedvalu instant amount min imin max imax
+offset date time field offsetdatetimefield decor date time field decorateddatetimefield

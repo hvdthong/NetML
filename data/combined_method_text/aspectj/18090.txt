@@ -1,0 +1,21 @@
+org aspectj util
+file util fileutil
+make temporari directori directori
+system temporari file
+file current directori
+param prefer simpl directori null
+return file exist temp dir null unabl creat
+file temp dir gettempdir string
+fileutil gettempdir
+valid file isvalidfilenam
+illeg argument except illegalargumentexcept invalid
+file result
+file temp file tempfil
+temp file tempfil file creat temp file createtempfil ignorem txt
+file temp parent temppar temp file tempfil parent file getparentfil
+result make child dir makenewchilddir temp parent temppar
+except ioexcept
+result make child dir makenewchilddir file
+temp file tempfil
+temp file tempfil delet
+result

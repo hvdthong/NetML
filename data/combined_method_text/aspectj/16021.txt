@@ -1,0 +1,23 @@
+org aspectj bridg
+conveni api' construct print send messag
+messag util messageutil
+render isourceloc string ignor empti element
+null isourceloc file isourceloc column
+implement return getcolumn
+pass column input
+return isourceloc null null string render
+pre file line column pre
+string render sourc locat rendersourceloc sourc locat isourceloc loc
+loc
+isourceloc null
+string buffer stringbuff string buffer stringbuff
+file sourc file sourcefil loc sourc file getsourcefil
+sourc file sourcefil sourc locat isourceloc file file
+append sourc file sourcefil path getpath
+append
+line loc line getlin
+append line
+column loc column getcolumn
+column sourc locat isourceloc column column
+append column
+string tostr

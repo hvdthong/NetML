@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+string system properti secur except getsystempropertywithoutsecurityexcept string properti apropertynam string default adefaultvalu
+system properti getproperti properti apropertynam default adefaultvalu
+secur except securityexcept
+default adefaultvalu

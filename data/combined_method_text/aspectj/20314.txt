@@ -1,0 +1,23 @@
+org aspectj weaver bcel
+bcel cflow stack field adder bcelcflowstackfieldadd bcel type munger bceltypemung
+mung bcel class weaver bcelclassweav weaver
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+gen type gettyp equal cflow stack field cflowstackfield declar type getdeclaringtyp
+field field gen fieldgen cflow stack field cflowstackfield modifi getmodifi
+bcel world bcelworld make bcel type makebceltyp cflow stack field cflowstackfield return type getreturntyp
+cflow stack field cflowstackfield getnam
+gen constant pool gen getconstantpoolgen field getfield
+gen add field addfield sourc locat getsourceloc
+lazi method gen lazymethodgen clinit gen ajc pre clinit getajcpreclinit lazymethodgen clinit gen getajcpreclinit staticiniti
+instruct list instructionlist setup instruct list instructionlist
+instruct factori instructionfactori fact gen factori getfactori
+setup append fact creat createnew object type objecttyp mangler namemangl cflow stack type cflow stack type
+setup append instruct factori instructionfactori creat dup createdup
+setup append fact creat invok createinvok
+mangler namemangl cflow stack type cflow stack type
+init
+type void
+type
+constant invokespeci
+setup append util creat set createset fact cflow stack field cflowstackfield
+clinit bodi getbodi insert setup

@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+weav bodi shouldweavebodi lazi method gen lazymethodgen
+bridg method isbridgemethod
+synthet isajsynthet getnam equal clinit
+attribut ajattribut effect signatur attribut effectivesignatureattribut effect signatur geteffectivesignatur
+weav bodi isweavebodi

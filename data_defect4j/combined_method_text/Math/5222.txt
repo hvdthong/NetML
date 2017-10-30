@@ -1,0 +1,85 @@
+row col diag ludiag
+decomposit support linear system
+data getdata
+strong usag note strong
+invalid matrix except invalidmatrixexcept decomposit requir matrix squar
+row
+decompos ludecompos invalid matrix except invalidmatrixexcept
+row nrow row dimens getrowdimens
+invalid matrix except invalidmatrixexcept matrix singular
+max row
+crout' algorithm partial pivot
+col ncol column dimens getcolumndimens
+maintain permut choic
+permut max permut col
+code data ref getdataref code store decomposit
+col col col ncol col
+upper
+initi permut arrai pariti
+permut col temp
+pariti
+row lurow row
+implement real matrix realmatrix arrai store entri
+tmp
+sum row col
+sum
+version revis date
+method
+col tmp
+temp permut max
+strong implement note strong
+max col
+col ncol
+solv
+permut row nrow
+href http www math gatech bourbaki math2601 web note 2num pdf
+col
+code decompos ludecompos code recomput decomposit
+solut invers
+row col row row nrow row
+singular check
+automat
+permut row row
+pivot
+row col col col
+org apach common math linear
+pariti pariti
+decompost matrix store result method
+invers
+made underli data direct arrai refer
+math ab sum largest
+discard explicitli invok
+row row row nrow row
+row row col row
+decomposit matrix store result method
+largest math ab sum
+decomposit cach reus subsequ call
+href http www damtp cam user fdl peopl lectur nummeth98 linear htm
+invalid matrix except invalidmatrixexcept matrix squar singular
+real matrix impl realmatriximpl real matrix realmatrix serializ
+row nrow col ncol
+determin getdetermin
+singular issingular
+return element row column matrix
+tmp max
+row col sum
+method rare invok directli
+row lurow col sum
+made set xxx setxxx method trigger recomput need
+comput
+decompost perform need support oper
+data modifi refer underli arrai obtain
+loop column
+crout' algortithm partial pivot
+sum row lurow col
+largest
+base code entri getentri code
+decomposit perform need support oper
+diag ludiag col col
+link real matrix realmatrix matrix element index
+divid lower element win diagon elt
+lower
+max col permut row
+forc recomput decomposit
+decompost support linear system
+math ab max col small

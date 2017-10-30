@@ -1,0 +1,17 @@
+return charact match
+version
+str matcher strmatcher
+portion match
+overrid
+param buffer end bufferend end index activ buffer valid buffer
+number match charact match
+author apach softwar foundat
+param po start posit match valid buffer
+param buffer start bufferstart activ index buffer valid buffer
+org apach common lang3 text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+match ismatch buffer po buffer start bufferstart buffer end bufferend
+param buffer text content match chang
+arrai binari search binarysearch char buffer po
+complet factori method

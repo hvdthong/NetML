@@ -1,0 +1,31 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+member make join point signatur arrai construct makejoinpointsignatureforarrayconstruct lazi class gen lazyclassgen instruct handl instructionhandl handl
+instruct handl instruct getinstruct
+constant pool gen constantpoolgen cpg constant pool gen getconstantpoolgen
+member retval
+anewarrai
+anewarrai arrai instruct arrayinstruct anewarrai
+type arrai instruct arrayinstruct type gettyp cpg
+unresolv type unresolvedtyp bcel frombcel
+unresolv type unresolvedtyp make arrai makearrai
+retval member impl memberimpl method modifi public resolv type resolvedtyp void init resolv type resolvedtyp resolv type resolvedtyp int
+multianewarrai
+multianewarrai arrai instruct arrayinstruct multianewarrai
+unresolv type unresolvedtyp
+dimens arrai instruct arrayinstruct dimens getdimens
+object type objecttyp arrai instruct arrayinstruct load class type getloadclasstyp cpg
+bcel frombcel
+unresolv type unresolvedtyp make arrai makearrai dimens
+type arrai instruct arrayinstruct type gettyp cpg
+bcel frombcel
+resolv type resolvedtyp parm resolv type resolvedtyp dimens
+dimens parm resolv type resolvedtyp int
+retval member impl memberimpl method modifi public resolv type resolvedtyp void init parm
+newarrai
+newarrai arrai instruct arrayinstruct newarrai
+type arrai instruct arrayinstruct type gettyp
+unresolv type unresolvedtyp bcel frombcel
+retval member impl memberimpl method modifi public resolv type resolvedtyp void init resolv type resolvedtyp resolv type resolvedtyp int
+except bcexcept creat arrai construct signatur arrai instruct
+retval

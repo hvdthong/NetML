@@ -1,0 +1,27 @@
+org apach common math3 analysi solver
+link illinoi solver illinoissolv illinoi method base
+articl dowel jarratt
+implement link pegasu solver pegasussolv pegasu method
+approxim univari real function
+method method
+implement link regula falsi solver regulafalsisolv regula falsi
+link secant solver secantsolv secant method
+base articl dowel jarratt
+param method secant base root find method
+version
+base secant solver basesecantsolv rel accuraci relativeaccuraci
+absolut accuraci absoluteaccuraci
+bit numer mathemat volum number page springer
+base secant solver basesecantsolv
+base bracket secant base method root find
+bracket method implement separ
+allow allow solut allowedsolut side
+equat bit numer mathemat volum number
+page springer
+construct solver
+param rel accuraci relativeaccuraci rel accuraci
+pegasu method comput root equat
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+param absolut accuraci absoluteaccuraci absolut accuraci
+implement
+modifi regula falsi method comput root

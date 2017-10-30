@@ -1,0 +1,8 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+path creat internalclasspath createinternalclasspath public path createinternalclasspath ajc taskdef
+internalclasspath
+internalclasspath path project
+internalclasspath creat path createpath

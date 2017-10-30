@@ -1,0 +1,13 @@
+code code arrai input statist
+base implement statist
+return result evalu statist input arrai
+base evalu implement statist
+param valu input arrai
+statist appli input arrai
+univari statist univariatestatist
+univari statist univariatestatist serializ
+version revis date
+org apach common math stat descript
+appli input valu
+includ stateless code evalu code method
+evalu valu

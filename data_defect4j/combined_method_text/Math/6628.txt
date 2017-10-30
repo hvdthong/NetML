@@ -1,0 +1,24 @@
+write object writeobject interpol
+write int writeint dydp length
+org apach common math od jacobian
+inherit doc inheritdoc
+ad form compound problem higher dimens origin od
+write arrai writearrai dydy0
+comput partial deriv solut respect initi state
+problem dimens paramet compound problem
+paramet
+write arrai writearrai
+extend jacobian raw od variat equat
+dimens time
+parameter od parameterizedod
+write arrai writearrai dydy0 dot dydy0dot
+version revis date
+write arrai writearrai dydp dot dydpdot
+write arrai writearrai dydp
+od jacobian odewithjacobian
+order comput state deriv od problem
+write int writeint length
+write extern writeextern object output objectoutput except ioexcept
+order integr jacobian firstorderintegratorwithjacobian
+write arrai writearrai dot ydot
+enhanc order integr differenti equat

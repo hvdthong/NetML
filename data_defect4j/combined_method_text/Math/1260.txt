@@ -1,0 +1,13 @@
+author apach softwar foundat
+maximum number fraction digit set
+format complex number cartesian format 'i'
+number format
+complex format complexformat format serializ
+configur
+link number format numberformat instanc getinst custom
+org apach common math complex
+replac 'j' number format real imaginari part
+default number format getdefaultnumberformat local default getdefault
+version revis date
+creat number format number format base
+number format numberformat default number format getdefaultnumberformat

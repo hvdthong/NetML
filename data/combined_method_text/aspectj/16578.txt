@@ -1,0 +1,17 @@
+org aspectj org eclips jdt core dom
+afteradvicedeclar dom ast node
+author ajh02
+advic declar afteradvicedeclar advic declar advicedeclar
+ast node astnod clone0 ast target
+advic declar afteradvicedeclar result advic declar afteradvicedeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+result paramet add addal
+ast node astnod copi subtre copysubtre target paramet
+result thrown except thrownexcept add addal
+ast node astnod copi subtre copysubtre target thrown except thrownexcept
+result set pointcut setpointcut pointcut getpointcut
+result set bodi setbodi
+block ast node astnod copi subtre copysubtre target bodi getbodi
+result

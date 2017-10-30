@@ -1,0 +1,12 @@
+repres region set polygon
+attribut insid getplusinsid
+version
+visit intern node visitinternalnod bsp tree bsptree euclidean2 euclidean2d node
+attribut getplusoutsid
+inherit doc inheritdoc
+add contribut addcontribut attribut getplusoutsid
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+org apach common math geometri euclidean twod
+boundari attribut boundaryattribut euclidean2 euclidean2d attribut boundari attribut boundaryattribut euclidean2 euclidean2d node attribut getattribut
+add contribut addcontribut attribut insid getplusinsid
+suppress warn suppresswarn uncheck

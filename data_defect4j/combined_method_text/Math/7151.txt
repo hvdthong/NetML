@@ -1,0 +1,11 @@
+set max iter setmaxiter max iter maxiter
+multi start differenti multivari real optim multistartdifferentiablemultivariaterealoptim
+multi start featur exist optim
+turn start point order avoid trap
+org apach common math optim
+wrap classic optim time
+max iter maxiter max iter maxiter
+local extremum global
+version revis date
+inherit doc inheritdoc
+special implement link differenti multivari real optim differentiablemultivariaterealoptim ad

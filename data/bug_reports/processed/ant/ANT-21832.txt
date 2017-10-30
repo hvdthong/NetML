@@ -1,0 +1,8 @@
+sync task ignore destination files
+fileset source files directories excluded sync
+ignore files directories
+destination
+subdirectory xdocs destination directory
+lots files source directory xdocs
+sync xdocs deleted ignore xdocs synchronize
+

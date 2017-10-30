@@ -1,0 +1,47 @@
+pre
+restrict neg restricttononneg neg mostneg
+tableau entri getentri basic row basicrow
+extra decis variabl neg valu
+basic row getbasicrow num object function getnumobjectivefunct origin num decis variabl getoriginalnumdecisionvari
+basic row basicrow basic row basicrow
+integ neg var basic row negativevarbasicrow neg var column negativevarcolumn basic row getbasicrow neg var column negativevarcolumn
+neg var column negativevarcolumn column label columnlabel index indexof
+basic row basicrow
+multipl variabl
+basic row basicrow basic row getbasicrow num object function getnumobjectivefunct
+real point pair realpointvaluepair solut getsolut
+phase object function
+coeffici restrict neg restricttononneg neg mostneg
+amp decis variabl
+simplex tableau simplextableau serializ
+version revis date
+col index colindex column label columnlabel index indexof
+rh hand side
+rh
+current solut
+integ basic row basicrow basic row getbasicrow num object function getnumobjectivefunct
+neg mostneg neg var basic row negativevarbasicrow entri getentri neg var basic row negativevarbasicrow rh offset getrhsoffset
+artifici variabl
+decis variabl getdecisionvariablevalu restrict neg restricttononneg neg mostneg
+coeffici
+basic row basicrow entri getentri basic row basicrow rh offset getrhsoffset
+neg mostneg decis variabl getdecisionvariablevalu origin num decis variabl getoriginalnumdecisionvari
+integ neg var basic row negativevarbasicrow basic row getbasicrow neg decis variabl offset getnegativedecisionvariableoffset
+neg var column negativevarcolumn column label columnlabel index indexof neg var column label
+coeffici origin num decis variabl getoriginalnumdecisionvari
+coeffici length
+org apach common math optim linear
+link solv call optim solut
+phase object
+integ basic row basicrow basic row getbasicrow col index colindex
+amp slack surplu variabl
+constraint
+choos set rest equal
+integ basic row basicrow
+set integ basic row basicrow hash set hashset integ
+tableau simplex method
+num object function getnumobjectivefunct num object function getnumobjectivefunct
+real point pair realpointvaluepair coeffici getvalu coeffici
+neg mostneg basic row basicrow entri getentri basic row basicrow rh offset getrhsoffset
+col index colindex
+basic row basicrow add basic row basicrow

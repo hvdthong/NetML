@@ -1,0 +1,23 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+dumprel stderr dumprelsstderr string kei
+system err println relationship dump kei
+relationship map irelationshipmap irm asm manag asmmanag default getdefault relationship map getrelationshipmap
+ctr
+set entri irm entri getentri
+iter iter entri iter iter hasnext
+string hid string iter
+list rel irm hid
+iter iter rel iter iter hasnext
+relationship irelationship relationship irelationship iter
+list target target gettarget
+iter iterator2 target iter
+iterator2 hasnext
+string thid string iterator2
+system err println hid ctr target target size hid getnam thid
+system err println end relationship dump kei

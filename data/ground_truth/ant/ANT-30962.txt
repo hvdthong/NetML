@@ -1,0 +1,4 @@
+src/main/org/apache/tools/ant/taskdefs/cvslib/ChangeLogParser_parseDate-String_Date
+src/main/org/apache/tools/ant/taskdefs/cvslib/ChangeLogParser_processDate-String_void
+src/main/org/apache/tools/ant/taskdefs/cvslib/ChangeLogParser_processGetPreviousRevision-String_void
+src/main/org/apache/tools/ant/taskdefs/cvslib/ChangeLogParser_saveEntry_void

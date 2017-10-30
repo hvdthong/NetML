@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+resolv member resolvedmemb find method2 findmethod2 resolv member resolvedmemb member sig
+resolv member resolvedmemb found
+string searchstr getsignatur getnam getsignatur getparametersignatur
+length found
+resolv member resolvedmemb member
+member getnam equal sig getnam member paramet signatur getparametersignatur equal sig paramet signatur getparametersignatur
+found member
+found

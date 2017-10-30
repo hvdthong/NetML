@@ -1,0 +1,19 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+pre
+normal factor
+guess
+usag
+fit point link
+org apach common math3 fit
+paramet fitter fit
+norm sigma
+version gaussian fitter gaussianfitt java 14z
+guess paramet order
+deprec link gaussian curv fitter gaussiancurvefitt
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+estim paramet
+standard deviat
+link weight observ point weightedobservedpoint
+levenberg marquardt optim levenbergmarquardtoptim
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+fitter add observ point addobservedpoint

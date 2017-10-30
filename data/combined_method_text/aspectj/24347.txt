@@ -1,0 +1,21 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+dump node dumpnod
+dump regist node
+visitor ivisitor dump visitor dumpvisitor visitor ivisitor
+visit object visitobject object obj
+println format obj formatobj obj
+visit list visitlist list list
+println list
+set kei node kei set keyset
+iter kei iter hasnext
+object modul
+inod dumpnod inod node modul
+node inod dump node dumpnod node inod modul
+println format obj formatobj dump node dumpnod
+dump node dumpnod accept dump visitor dumpvisitor
+except
+trace error format obj formatobj dump node dumpnod string tostr

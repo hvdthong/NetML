@@ -1,0 +1,11 @@
+construct integr accuraci
+org apach common math analysi integr
+param absolut accuraci absoluteaccuraci absolut accuraci result
+default min iter count default max iter count
+version
+provid implement gener function
+absolut accuraci absoluteaccuraci
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+param rel accuraci relativeaccuraci rel accuraci result
+univari real integr impl univariaterealintegratorimpl univari real integr univariaterealintegr
+univari real integr impl univariaterealintegratorimpl rel accuraci relativeaccuraci

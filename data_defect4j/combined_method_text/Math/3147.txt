@@ -1,0 +1,6 @@
+org apach common math geometri euclidean threed
+version
+inherit doc inheritdoc
+visit leaf node visitleafnod bsp tree bsptree euclidean3 euclidean3d node
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron

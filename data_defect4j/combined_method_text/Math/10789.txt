@@ -1,0 +1,29 @@
+org apach common math3 analysi solver
+search min searchmin min
+prepar comput
+provid implement function gener
+check
+code solv method
+evalu set maxim count setmaximalcount max eval maxev
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+except null argument except nullargumentexcept
+version
+param max eval maxev maximum number evalu
+param max upper bound interv
+function
+search start searchstart start startvalu
+param start startvalu start
+evalu reset count resetcount
+math util mathutil check null checknotnul
+min max
+subclass call method overrid
+func
+param function solv
+param min lower bound interv
+start startvalu
+reset
+param func type function solv
+setup max eval maxev
+solver
+search max searchmax max
+null argument except nullargumentexcept

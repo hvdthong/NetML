@@ -1,0 +1,47 @@
+org aspectj apach bcel gener
+templat class build method defin except
+handler ad thrown except local variabl attribut
+localvariabletable' linenumbertable' attribut set
+automat code stripattribut
+gener code insert nop oper
+removenops' method rid
+result method object obtain getmethod method
+version methodgen java aclement exp
+author href mailto marku dahm berlin dahm
+author href http www vmeng beard patrick beard setmaxstack
+instructionlist
+method
+method gen methodgen field gen method gen fieldgenormethodgen
+attribut method identifi runtimeparameterannot
+extract content store paramet annot kind
+paramet annot visibl invis unpack attribut
+delet annot rebuilt attribut build method object
+methodgen object
+ensur exist paramet annot unpack ensureexistingparameterannotationsunpack
+unpack paramet annot haveunpackedparameterannot
+find attribut paramet annot data
+attribut attr attribut getattribut
+runtim paramet annot runtimeparameterannot param ann vi attr paramannvisattr
+runtim paramet annot runtimeparameterannot param ann invi attr paramanninvisattr
+list accumul annot accumulatedannot arrai list arraylist
+attr length
+attribut attribut attr
+attribut runtim paramet annot runtimeparameterannot
+initi param annot
+paramet annot hasparameterannot
+param annot list arg type length
+arg type length param annot arrai list arraylist
+paramet annot hasparameterannot
+runtim paramet annot runtimeparameterannot rpa runtim paramet annot runtimeparameterannot attribut
+rpa visibl arevis param ann vi attr paramannvisattr rpa
+param ann invi attr paramanninvisattr rpa
+arg type length
+return annot
+annot immut arrai immutablearrai rpa annot paramet getannotationsonparamet
+transform annotationgen
+list mutabl make mutabl version makemutablevers immut arrai immutablearrai
+add
+param annot add addal mutabl
+param ann vi attr paramannvisattr remov attribut removeattribut param ann vi attr paramannvisattr
+param ann invi attr paramanninvisattr remov attribut removeattribut param ann invi attr paramanninvisattr
+unpack paramet annot haveunpackedparameterannot

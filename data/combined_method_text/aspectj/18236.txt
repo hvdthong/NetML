@@ -1,0 +1,9 @@
+org aspectj util
+lang util langutil
+shorthand null assign throw illegalargumentexcept
+throw illegalargumentexcept assign
+throw iax assign throwiaxifnotallassign collect collect
+class string
+throw iax null throwiaxifnul collect
+iter iter collect iter iter hasnext
+throw iax assign throwiaxifnotassign iter

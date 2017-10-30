@@ -1,0 +1,13 @@
+interfac univari real integr algorithm
+org apach common math analysi integr
+sampl point happen zero function user
+choos
+code converg except convergenceexcept code thrown number
+met
+univari real integr univariaterealintegr
+set minim iter count setminimaliterationcount count
+version revis date
+univari real integr univariaterealintegr converg algorithm convergingalgorithm
+set lower limit number iter
+minim iter need avoid earli converg
+param count minimum number iter

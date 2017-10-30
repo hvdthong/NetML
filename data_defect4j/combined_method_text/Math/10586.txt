@@ -1,0 +1,15 @@
+dimens mismatch except dimensionmismatchexcept
+org apach common math3 analysi integr gauss
+base rule determin integr node
+weight
+param type number repres point weight
+param number point numberofpoint order rule comput
+quadratur rule
+dimens mismatch except dimensionmismatchexcept element pair
+length
+version
+base rule factori baserulefactori number
+pair comput rule computerul number point numberofpoint
+comput rule
+subclass implement link comput rule computerul comput rule computerul method
+comput rule order

@@ -1,0 +1,17 @@
+max max
+param sum sum valu
+statist summari valu statisticalsummaryvalu serializ
+varianc varianc
+max min sum
+org apach common math3 stat descript
+param number observ sampl
+sum sum
+object repres result univari statist summari
+statist summari valu statisticalsummaryvalu varianc
+version
+param max maximum
+constructor
+param sampl
+param min minimum
+param varianc sampl varianc
+min min

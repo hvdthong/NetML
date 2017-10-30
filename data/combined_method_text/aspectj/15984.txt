@@ -1,0 +1,18 @@
+org aspectj bridg
+conveni api' construct print send messag
+messag util messageutil
+string add extra sourc locat addextrasourceloc
+messag imessag messag
+string base messag basemessag
+string writer stringwrit buf string writer stringwrit
+print writer printwrit writer print writer printwrit buf
+writer println base messag basemessag
+iter iter messag extra sourc locat getextrasourceloc iter iter hasnext
+sourc locat isourceloc element sourc locat isourceloc iter
+element
+writer print tsee element string tostr
+iter hasnext
+writer println
+buf close
+except ioexcept ioe
+buf buffer getbuff string tostr

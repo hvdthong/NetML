@@ -1,0 +1,25 @@
+org apach common math analysi
+code neg
+max min
+strictli posit except notstrictlypositiveexcept
+number larg except numberistoolargeexcept min max
+function util functionutil
+interv divid equal code section sampl point
+param min inclus lower bound interv
+code sampl upper bound code max
+greater equal upper bound code max
+number larg except numberistoolargeexcept lower bound code min
+version
+code min code max max min
+param max exclus upper bound interv
+arrai sampl
+integ valueof
+min max
+sampl univari real function interv
+param number sampl point
+local format localizedformat posit number sampl
+strictli posit except notstrictlypositiveexcept number sampl point
+min
+param function sampl
+util manipul function object
+sampl univari function univariatefunct

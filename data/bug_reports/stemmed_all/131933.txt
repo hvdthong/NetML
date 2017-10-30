@@ -1,0 +1,30 @@
+grotti classcastexcept refer pointcut gener type
+import java util list
+public aspect slide71
+generictyp string foo
+generictyp mylist foo
+generictyp foo
+
+class generictyp
+public pointcut foo execut
+
+program mylist type
+java lang classcastexcept
+org aspectj weaver pattern typepattern resolveexacttyp typepattern java
+org aspectj weaver pattern referencepointcut resolvebind referencepointcut java
+org aspectj weaver pattern pointcut resolv pointcut java
+org aspectj ajdt intern compil ast pointcutdesign finishresolvetyp pointcutdesign java
+org aspectj ajdt intern compil ast advicedeclar resolvestat advicedeclar java
+org aspectj org eclips jdt intern compil ast abstractmethoddeclar resolv abstractmethoddeclar java
+org aspectj org eclips jdt intern compil ast typedeclar resolv typedeclar java
+org aspectj ajdt intern compil ast aspectdeclar resolv aspectdeclar java
+org aspectj org eclips jdt intern compil ast typedeclar resolv typedeclar java
+org aspectj org eclips jdt intern compil ast compilationunitdeclar resolv compilationunitdeclar java
+org aspectj org eclips jdt intern compil compil process compil java
+org aspectj org eclips jdt intern compil compil compil compil java
+org aspectj ajdt intern core builder ajbuildmanag performcompil ajbuildmanag java
+org aspectj ajdt intern core builder ajbuildmanag dobuild ajbuildmanag java
+org aspectj ajdt intern core builder ajbuildmanag incrementalbuild ajbuildmanag java
+org aspectj ajd intern compileradapt compil compileradapt java
+org aspectj ajd intern aspectjbuildmanag compilerthread run aspectjbuildmanag java
+classcastexcept thrown org aspectj weaver pattern wildtypepattern

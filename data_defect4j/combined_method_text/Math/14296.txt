@@ -1,0 +1,31 @@
+org apach common math3 od
+jacobian matric jacobianmatric
+param od origin od problem jacobian comput skill
+except dimens mismatch except dimensionmismatchexcept dimens mismatch
+length od dimens getdimens
+defin set link secondari equat secondaryequ secondari equat
+link paramet jacobian provid parameterjacobianprovid
+param step size comput jacobian
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+link order differenti equat firstorderdifferentialequ
+main state jacobian wrapper mainstatejacobianwrapp order differenti equat firstorderdifferentialequ od
+version
+parameter od parameterizedod
+order comput jacobian matric respect paramet
+link parameter od parameterizedod
+wrap link order differenti equat firstorderdifferentialequ link main state jacobian provid mainstatejacobianprovid
+dimens mismatch except dimensionmismatchexcept
+primari od set paramet jacobian provid set
+clone
+dimens mismatch except dimensionmismatchexcept od dimens getdimens length
+comput jacobian matric respect initi state vector
+od od
+intend pack link expand state od expandablestatefulod
+conjunct primari set od
+step arrai code equat dimens
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+link main state jacobian provid mainstatejacobianprovid
+jacobian matric jacobianmatric set main state step setmainstatestep
+order differenti equat firstorderdifferentialequ

@@ -1,0 +1,17 @@
+org aspectj apach bcel gener
+dconst push valu except
+pre stack pre
+version dconst java aclement exp
+author href mailto marku dahm berlin dahm
+dconst instruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit push instruct visitpushinstruct
+visit stack produc visitstackproduc
+visit type instruct visittypedinstruct
+visit constant push instruct visitconstantpushinstruct
+visit dconst visitdconst

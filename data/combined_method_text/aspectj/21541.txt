@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+annot foo annot foo
+match join point subject join point
+annot match annotationtypepattern
+join point kind subject
+method call target method
+method execut method
+constructor call constructor
+constructor execut constructor
+target field
+set target field
+adviceexecut advic
+initi constructor
+preiniti constructor
+staticiniti type initi
+handler declar type handl except
+annot pointcut annotationpointcut bind pointcut namebindingpointcut
+pointcut concretize1 resolv type resolvedtyp aspect inaspect resolv type resolvedtyp declar type declaringtyp int map intmap bind
+exact annot type pattern exactannotationtypepattern type newtyp exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern remap advic formal remapadviceform bind
+pointcut ret annot pointcut annotationpointcut type newtyp bind enclos advic getenclosingadvic
+ret copi locat copylocationfrom
+ret

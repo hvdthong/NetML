@@ -1,0 +1,16 @@
+org aspectj apach bcel gener
+swap swa top operand stack word
+pre stack word2 word1 word1 word2 pre
+version swap java aclement exp
+author href mailto marku dahm berlin dahm
+swap stack instruct stackinstruct stack consum stackconsum stack produc stackproduc
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack consum visitstackconsum
+visit stack produc visitstackproduc
+visit stack instruct visitstackinstruct
+visit swap visitswap

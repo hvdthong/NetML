@@ -1,0 +1,7 @@
+param chromosom
+chromosom pair chromosomepair
+version
+org apach common math3 genet
+creat chromosom pair
+chromosom pair chromosomepair chromosom chromosom
+pair link chromosom object

@@ -1,0 +1,11 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+handl messag handlemessag messag imessag messag abort except abortexcept
+marker imark marker project creat marker createmark java model marker ijavamodelmark java model problem marker java model problem marker
+marker set attribut setattribut marker imark messag messag messag getmessag
+marker set attribut setattribut marker imark sever messag error iserror marker imark sever error sever error marker imark sever warn sever warn
+core except coreexcept
+aspect core aspectjcor plugin getplugin log getlog log statu getstatu

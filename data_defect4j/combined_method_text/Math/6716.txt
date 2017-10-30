@@ -1,0 +1,147 @@
+set equat setequ equat
+classic represent deriv
+repres correct state
+inherit doc inheritdoc
+dot ydot length
+init integr initintegr equat time gettim
+updat high order deriv phase2 updatehighorderderivativesphase2 scale predict scale predictedsc nordsieck tmp nordsiecktmp
+stepsiz control step
+equat set complet state setcompletest
+hnew filter step filterstep step size stepsiz factor forward
+interpol store time storetim step start stepstart
+result taylor seri formula
+integr expand state od expandablestatefulod equat
+y''' deriv
+interpol set interpol time setinterpolatedtim step end stepend
+adam moulton integr adamsmoultonintegr adam integr adamsintegr
+higher degre scale deriv step
+event handler trigger
+stop time stoptim
+forward equat time gettim
+y'' deriv
+hnew step start stepstart
+interpol reiniti step start stepstart step size stepsiz scale nordsieck
+reject step attempt reduc error stepsiz control
+step handler stephandl handler step handler stephandl
+start equat time gettim
+hnew filter step filterstep scale scaledh forward nextislast
+adapt stepsiz implement error control
+system arraycopi interpol interpol state getinterpolatedst tmp ytmp length
+term
+invalid deriv restart scratch
+correct scale correctedsc length
+predict scale predictedsc length
+system arraycopi
+array2 row real matrix array2drowrealmatrix nordsieck tmp nordsiecktmp
+scale scaledh step size stepsiz factor
+deriv step need
+nextt step start stepstart scale scaledh
+adam moulton method fact due adam implicit
+deriv let defin
+scale correct scale correctedsc
+implicit adam moulton integr ordinari
+interpol store time storetim step end stepend
+step simpl combin step
+factor comput step grow shrink factor computestepgrowshrinkfactor error
+start step start stepstart
+interpol rescal hnew
+step adam moulton method order
+stop time stoptim step start stepstart
+greatli simplifi step interpol interpol appli
+5y' 8y'
+simplifi step occur discret event truncat
+sum
+number previou step comput
+degre polynomi
+version
+comput method comput
+step trigger
+version revis date
+classic represent nordsieck vector transform
+predict vector correct vector comput
+system arraycopi tmp ytmp length
+deriv
+predict scale predictedsc step size stepsiz dot ydot
+set integr control object
+error
+reset evalu resetevalu
+set interpol share integr arrai
+reset intern state resetinternalst
+predict estim state step end pece sequenc
+9y' 19y' 5y'
+omit index notat clariti
+estim comput comput
+step start stepstart accept step acceptstep interpol dot ydot
+upper repres
+length
+classic implement fix step size state vector
+evalu estim deriv pece sequenc
+equat set time settim step start stepstart
+nordsieck nordsieck tmp nordsiecktmp
+overrid
+equat complet state getcompletest
+updat high order deriv phase2 updatehighorderderivativesphase2 predict scale predictedsc correct scale correctedsc nordsieck tmp nordsiecktmp
+taylor seri formula
+discret event handl
+correct scale correctedsc step size stepsiz dot ydot
+hnew step size stepsiz
+equat primari mapper getprimarymapp equat secondari mapper getsecondarymapp
+taylor seri formula show index offset
+plusmn
+depend precomput
+implement detail
+start
+vector time matrix built
+comput initi nordsieck vector configur starter integr
+row shift matrix lower left part ident matrix
+interpol reiniti step end stepend step size stepsiz correct scale correctedsc nordsieck tmp nordsiecktmp
+nordsieck tmp nordsiecktmp updat high order deriv phase1 updatehighorderderivativesphase1 nordsieck
+math user except mathuserexcept integr except integratorexcept
+math illeg state except mathillegalstateexcept math illeg argument except mathillegalargumentexcept
+error nordsieck tmp nordsiecktmp walk optim order walkinoptimizedord corrector predict scale predictedsc tmp ytmp
+filter filterednextt step start stepstart hnew
+forward
+tmp ytmp length
+integr order differenti equat firstorderdifferentialequ equat
+dispatch result
+step size stepsiz hnew
+interpol shift
+updat nordsieck vector
+predict state lower
+predict nordsieck vector step comput nordsieck vector step
+defin
+previou formula valu comput transform
+pre
+comput formula exact
+org apach common math od nonstiff
+nextislast forward nextt nextt
+nordsieck vector advantag
+extend method order support adapt stepsiz
+set state initi setstateiniti
+step size stepsiz doubl nan
+omit index notat clariti definit
+defin scale deriv step
+estim formula depend
+system arraycopi tmp ytmp
+implement nordsieck vector
+saniti check sanitycheck equat
+comput deriv computederiv step end stepend tmp ytmp dot ydot
+step start stepstart doubl nan
+initi work arrai
+clone
+handler reset
+formula estim
+filter filterednextislast
+interpol reiniti forward
+step end stepend step start stepstart step size stepsiz
+appli correct pece sequenc
+adam moulton method written
+prepar step
+step islaststep
+multistep od solver implement variat classic
+reset occur resetoccur
+differenti equat
+definit classic represent previou
+filter filterednextislast forward filter filterednextt filter filterednextt
+vector matrix depend state
+nordsieck step interpol nordsieckstepinterpol interpol nordsieck step interpol nordsieckstepinterpol

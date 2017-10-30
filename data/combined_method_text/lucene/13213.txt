@@ -1,0 +1,6 @@
+org apach lucen index
+term buffer termbuff cloneabl
+compar compareto term buffer termbuff
+field field field field field intern
+compar char comparechar text result text length text result text length
+field compar compareto field

@@ -1,0 +1,33 @@
+author stephen colebourn
+mutabl date time mutabledatetim standard implement modifi datetim
+mutabl date time mutabledatetim pars string str date time formatt datetimeformatt formatt
+text
+field minimum
+intern standard compat modern gregorian calendar
+add numer wrap field
+field maximum
+author brian neill o'neil
+param formatt formatt
+code hour dai hourofdai code
+formatt pars date time parsedatetim str mutabl date time tomutabledatetim
+set text
+techniqu access method
+add numer
+pars code mutabl date time mutabledatetim string formatt
+field
+millisecond instant convert date time field
+chronolog code iso chronolog isochronolog code agre
+individu field access wai
+mutabl date time mutabledatetim mutabl thread safe concurr thread
+numer
+author mike schrag
+mutabl date time mutabledatetim
+hold datetim millisecond java epoch t00 01t00 00z
+code hour dai gethourofdai code
+chronolog intern chronolog determin
+set numer
+param str string pars
+date time datetim
+invok mutat method
+author gui allard
+org joda time

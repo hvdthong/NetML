@@ -1,0 +1,41 @@
+dimens
+param refer integr arrai hold state
+version dormand prince853 step interpol dormandprince853stepinterpol java 39z luc
+param dot ydotk refer integr arrai hold
+end step
+reiniti equat dot ydotk forward
+dot ydotklast dimens
+dimens current state currentst length
+link embed rung kutta integr embeddedrungekuttaintegr
+org apach common math od
+od integr dormand princ integr
+rung kutta fehlberg integr rungekuttafehlbergintegr call method
+call link abstract step interpol abstractstepinterpol final step finalizestep
+evalu counterpart step interpol
+method interpol final clone
+evalu perform call
+intermedi slope
+step interpol
+param forward integr direct indic
+version revis date
+embed rung kutta integr embeddedrungekuttaintegr call method
+link rung kutta fehlberg integr rungekuttafehlbergintegr
+interpol perform evalu
+code final dofin code step handler
+rung kutta fehlberg integr fewer function
+dot ydotklast length
+order step interpol perform evalu
+param equat set differenti equat integr
+dormand prince853 step interpol dormandprince853stepinterpol
+dot ydotk forward
+dormand prince853 integr dormandprince853integr
+reiniti order differenti equat firstorderdifferentialequ equat
+tmp ytmp dimens
+final step finalizestep method link
+repres interpol step
+dot ydotklast
+length
+abstract step interpol abstractstepinterpol interpol state getinterpolatedst interpol state getinterpolatedst
+embed rung kutta integr fewer function
+vector initi vectorsiniti
+reiniti instanc

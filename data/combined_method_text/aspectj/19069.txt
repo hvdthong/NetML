@@ -1,0 +1,22 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+string signatur type getsignaturetyp
+kind kind kind getkind
+getnam equal clinit org aspectj lang reflect initializersignatur
+kind method
+org aspectj lang reflect methodsignatur
+kind constructor
+org aspectj lang reflect constructorsignatur
+kind field
+org aspectj lang reflect fieldsignatur
+kind handler
+org aspectj lang reflect catchclausesignatur
+kind static initi static initi
+org aspectj lang reflect initializersignatur
+kind advic
+org aspectj lang reflect advicesignatur
+kind monitorent
+org aspectj lang reflect locksignatur
+kind monitorexit
+org aspectj lang reflect unlocksignatur
+runtim except runtimeexcept unimpl

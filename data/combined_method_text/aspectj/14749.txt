@@ -1,0 +1,77 @@
+org aspectj apach bcel util
+convert code html file
+version codehtml java aclement exp
+author href mailto marku dahm berlin dahm
+code html codehtml org aspectj apach bcel constant
+find target address code mark
+target address bitset object
+find goto findgoto byte sequenc bytesequ byte method method code code
+except ioexcept
+index
+goto set bit set bitset byte
+opcod
+code attribut method except handl
+catch method line number
+code
+code except codeexcept code except tabl getexceptiont
+len length
+len
+goto set set start getstartpc
+goto set set end getendpc
+goto set set handler gethandlerpc
+local variabl rang
+attribut attribut code attribut getattribut
+attribut length
+attribut tag gettag attr local variabl tabl attr local variabl tabl
+local variabl localvari var local variabl tabl localvariablet attribut local variabl tabl getlocalvariablet
+var length
+start var start getstartpc
+end start var length getlength
+goto set set start
+goto set set end
+target address goto jsr tableswitch
+byte
+opcod byte read unsign byte readunsignedbyt
+system println opcod name opcod
+opcod
+tableswitch lookupswitch
+byte readbyt skip read byte
+remaind byte index getindex
+pad byte remaind remaind
+default offset offset
+pad byte
+byte read byte readbyt
+case field default offset common
+default offset byte read int readint
+opcod tableswitch
+low byte read int readint
+high byte read int readint
+offset byte index getindex pad byte
+default offset offset
+goto set set default offset
+high low
+index offset byte read int readint
+goto set set index
+lookupswitch
+npair byte read int readint
+offset byte index getindex pad byte
+default offset offset
+goto set set default offset
+npair
+match byte read int readint
+index offset byte read int readint
+goto set set index
+goto ifeq ifg ifgt
+ifl iflt
+ifn ifnonnul ifnul acmpeq acmpeq
+acmpn acmpn icmpeq icmpeq icmpg icmpg icmpgt icmpgt
+icmpl icmpl icmplt icmplt icmpn icmpn jsr
+byte readbyt skip read byte
+index byte index getindex byte read short readshort
+goto set set index
+goto goto jsr jsr
+byte readbyt skip read byte
+index byte index getindex byte read int readint
+goto set set index
+byte unread byte unreadbyt
+code html codetohtml byte codetohtml byte ignor output

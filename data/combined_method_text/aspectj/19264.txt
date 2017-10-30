@@ -1,0 +1,5 @@
+org aspectj weaver
+object interfac type munger perobjectinterfacetypemung resolv type munger resolvedtypemung
+match resolv type resolvedtyp match type matchtyp resolv type resolvedtyp aspect type aspecttyp
+match type matchtyp interfac isinterfac
+test type pattern gettesttypepattern aspect type aspecttyp match static matchesstat match type matchtyp

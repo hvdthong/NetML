@@ -1,0 +1,11 @@
+compar number amount allow error
+compar compareto ep
+param ep amount error check equal
+org apach common math util
+param number
+util compar number
+precis
+version
+link equal equal ep amp amp
+link equal equal ep
+equal ep

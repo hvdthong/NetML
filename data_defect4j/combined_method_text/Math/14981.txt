@@ -1,0 +1,13 @@
+weight matrix residu model observ
+version weight java 14z
+version
+org apach common math3 optim nonlinear vector
+optim provid move
+weight matrix weightmatrix copi
+deprec class interfac deprec
+real matrix realmatrix weight getweight
+initi guess
+weight optim data optimizationdata
+immut
+link org apach common math3 fit leastsquar
+math

@@ -1,0 +1,12 @@
+param start start point segment
+param line line segment
+line line
+build segment
+simpl contain point segment
+param end end point segment
+org apach common math3 geometri euclidean threed
+end end
+segment vector3 vector3d start vector3 vector3d end line line
+version
+start start
+segment

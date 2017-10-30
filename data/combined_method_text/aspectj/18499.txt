@@ -1,0 +1,13 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb object field perobjectfield unresolv type unresolvedtyp declar type declaringtyp resolv type resolvedtyp aspect type aspecttyp
+modifi modifi privat
+unresolv type unresolvedtyp serializ resolv aspect type aspecttyp world getworld assign isassignablefrom aspect type aspecttyp
+modifi modifi transient
+resolv member impl resolvedmemberimpl
+member field
+declar type declaringtyp
+modifi
+aspect type aspecttyp
+mangler namemangl object interfac field perobjectinterfacefield aspect type aspecttyp
+unresolv type unresolvedtyp

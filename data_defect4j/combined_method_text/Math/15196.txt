@@ -1,0 +1,28 @@
+inherit doc inheritdoc
+base handl boiler plate method threshold
+org apach common math3 optim direct
+deprec
+optim intern optimizeintern max eval maxev start point startpoint
+perform comput
+check
+store optim problem characterist
+set iter evalu count
+evalu set maxim count setmaximalcount max eval maxev
+version
+param func type object function optim
+target clone
+function
+reset
+point vector pair pointvectorvaluepair optim max eval maxev func
+length length
+base abstract multivari vector optim baseabstractmultivariatevectoroptim func multivari vector function multivariatevectorfunct
+evalu reset count resetcount
+deprec remov
+weight clone
+optim dooptim
+start start point startpoint clone
+link optim multivari vector function multivariatevectorfunct optim data optimizationdata
+dimens mismatch except dimensionmismatchexcept length length
+base implement optim multivari scalar function
+start point startpoint
+null argument except nullargumentexcept

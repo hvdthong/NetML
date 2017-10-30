@@ -1,0 +1,6 @@
+org aspectj weaver tool
+common trace commonstrac abstract trace abstracttrac
+common trace commonstrac class clazz
+clazz
+log log factori logfactori log getlog clazz
+class classnam trace class tracedclass getnam

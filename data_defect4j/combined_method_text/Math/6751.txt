@@ -1,0 +1,61 @@
+pre
+org apach common math od nonstiff
+rel tol reltol compon
+integr except integratorexcept
+main set part state vector stepsiz control complet
+adapt stepsiz integr adaptivestepsizeintegr
+algorithm perform integr stepsiz control
+length vec rel toler vecrelativetoler length
+overrid
+step reject attempt made
+dimens mismatch except dimensionmismatchexcept main set dimens mainsetdimens vec rel toler vecrelativetoler length
+main set dimens step accept
+state vector
+length vec absolut toler vecabsolutetoler length
+local format localizedformat dimens mismatch simpl main set dimens mainsetdimens vec rel toler vecrelativetoler length
+param equat differenti equat set
+main set dimens mainsetdimens equat dimens getdimens
+integ valueof vec rel toler vecrelativetoler length
+dimens mismatch except dimensionmismatchexcept number small except numberistoosmallexcept
+except dimens mismatch except dimensionmismatchexcept inconsist detect
+absolut toler vector dimens
+integ valueof length
+dimens mismatch except dimensionmismatchexcept main set dimens mainsetdimens vec absolut toler vecabsolutetoler length
+integ valueof vec absolut toler vecabsolutetoler length
+version
+param target time integr
+compon user scalar valu ab tol abstol
+version revis date
+perform saniti check integr paramet
+except number small except numberistoosmallexcept integr span small
+vec rel toler vecrelativetoler vec rel toler vecrelativetoler length main set dimens mainsetdimens
+local format localizedformat dimens mismatch simpl main set dimens mainsetdimens vec absolut toler vecabsolutetoler length
+sqrt sum err est errest threshold
+saniti check sanitycheck equat
+object
+state vector rel tol reltol rel toler
+saniti check sanitycheck order differenti equat firstorderdifferentialequ equat
+threshold ab tol abstol rel tol reltol max ab ab
+state vector dimens step accept
+param start time
+toler error error threshold comput
+extend od link order differenti equat firstorderdifferentialequ basic od
+stepsiz integr ordinari differenti equat
+dimens mismatch state vector dimens
+ab tol abstol absolut toler compon
+mean user integr step
+hold common part adapt
+vec absolut toler vecabsolutetoler vec absolut toler vecabsolutetoler length main set dimens mainsetdimens
+param state vector
+except integr except integratorexcept inconsist detect
+equat extend order differenti equat extendedfirstorderdifferentialequ
+main set dimens mainsetdimens extend order differenti equat extendedfirstorderdifferentialequ equat main set dimens getmainsetdimens
+rel toler vector dimens
+integr except integratorexcept dimens mismatch state vector dimens
+estim error
+vec rel toler vecrelativetoler vec rel toler vecrelativetoler length length
+vec absolut toler vecabsolutetoler vec absolut toler vecabsolutetoler length length
+param placehold put state vector
+stepsiz
+link extend order differenti equat extendedfirstorderdifferentialequ main set dimens getmainsetdimens
+ordinari differenti equat link extend order differenti equat extendedfirstorderdifferentialequ

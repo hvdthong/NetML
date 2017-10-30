@@ -1,0 +1,24 @@
+code
+submatrix row column count
+indic valid
+real matrix realmatrix matrix getsubmatrix select row selectedrow select column selectedcolumn
+matrix submatrix data row
+submatrix row column
+data except nodataexcept row column select empti
+rang except outofrangeexcept indic valid
+null argument except nullargumentexcept data except nodataexcept rang except outofrangeexcept
+version
+param select column selectedcolumn arrai column indic
+null argument except nullargumentexcept row column select
+matrix element index base code entri getentri code
+param select row selectedrow arrai row indic
+matrix submatrix data
+count
+org apach common math3 linear
+column
+org apach common math3 except rang except outofrangeexcept
+return element row column matrix
+row column
+length
+real matrix realmatrix matrix anymatrix
+interfac defin real valu matrix basic algebra oper

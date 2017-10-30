@@ -1,0 +1,8 @@
+matrix dimens mismatch except matrixdimensionmismatchexcept multi dimens mismatch except multidimensionmismatchexcept
+org apach common math3 linear
+expect row dimens getexpectedrowdimens
+column matrix match expect valu
+expect dimens getexpecteddimens
+version
+except thrown number row number
+expect row dimens

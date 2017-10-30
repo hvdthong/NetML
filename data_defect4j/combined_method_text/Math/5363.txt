@@ -1,0 +1,11 @@
+org apach common math linear
+inherit doc inheritdoc
+data length
+real vector realvector add
+real vector impl realvectorimpl
+real vector impl realvectorimpl real vector realvector serializ
+check vector dimens checkvectordimens length
+version revis date
+link real vector realvector arrai
+data
+illeg argument except illegalargumentexcept

@@ -1,0 +1,9 @@
+org aspectj tool ant taskdef
+preprocess command line
+author we isberg
+command editor icommandeditor
+edit command
+param command string edit
+return string input command unchang
+null arrai null compon
+string edit command editcommand string command

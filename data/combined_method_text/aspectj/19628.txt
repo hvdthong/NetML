@@ -1,0 +1,21 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+actual occur type hierarchi
+'this' type input gener type caller
+raw parameter form
+hierarchi
+return null found
+resolv type resolvedtyp discov actual occurr type hierarchi discoveractualoccurrenceoftypeinhierarchi resolv type resolvedtyp lookingfor
+lookingfor gener type isgenerictyp
+except bcexcept assert fail method call gener type lookingfor lookingfor type kind typekind
+equal resolv type resolvedtyp object
+gener type equal generictypeequ lookingfor
+resolv type resolvedtyp super supert superclass getsuperclass
+super supert gener type equal generictypeequ lookingfor super supert
+resolv type resolvedtyp super superi declar interfac getdeclaredinterfac
+super superi length
+resolv type resolvedtyp super superi super superi
+super superi gener type equal generictypeequ lookingfor super superi
+resolv type resolvedtyp check super checkthesuperi super superi discov actual occurr type hierarchi discoveractualoccurrenceoftypeinhierarchi lookingfor
+check super checkthesuperi check super checkthesuperi
+super supert discov actual occurr type hierarchi discoveractualoccurrenceoftypeinhierarchi lookingfor

@@ -1,0 +1,105 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass java virtual machin
+specif 2nd edit
+detail inform found verifi
+method' document
+version pass2verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass2 verifi pass2verifi pass verifi passverifi constant
+visit code visitcod code obj public void visitcod code obj vmspec2
+code attribut allow nativ abstract method visitmethod method
+code arrai constraint check pass3
+check index checkindex obj obj index getnameindex const utf8 const utf8
+string constant utf8 constantutf8 constant getconst obj index getnameindex byte getbyt
+equal code
+class constraint except classconstraintexcept code attribut tostr obj correctli name 'code'
+method method null satisfi compil
+carrier predecessor method
+add messag addmessag code attribut tostr obj declar method info structur carrier predecessor
+method carrier predecessor method carrier predecessor assum method visit
+data consist verifi
+obj code getcod length
+class constraint except classconstraintexcept code arrai code attribut tostr obj method empti
+justic check correct offset code arrai delai pass
+code except codeexcept exc tabl obj except tabl getexceptiont
+exc tabl length
+exc index exc tabl catch type getcatchtyp
+exc index exc index catch throwabl
+check index checkindex obj exc index const class const class
+constant class constantclass constant class constantclass constant getconst exc index
+check index checkindex index getnameindex const utf8 const utf8 checkindex getnameindex const utf8 constantclass visit check
+string cname constant utf8 constantutf8 constant getconst index getnameindex byte getbyt replac
+verifi verifi factori verifierfactori verifi getverifi cname
+verif result verificationresult pass1 dopass1
+verif result verificationresult
+class constraint except classconstraintexcept code attribut tostr obj method except tabl entri tostr exc tabl refer cname except pass verif pass
+safe trust instanceof mechan transit verifi
+ancestor hierarchi
+java class javaclass repositori lookup class lookupclass cname
+java class javaclass repositori lookup class lookupclass type throwabl class getclassnam
+java class javaclass repositori lookup class lookupclass type object class getclassnam
+break subclass throwabl leav
+verifi factori verifierfactori verifi getverifi superclass getsuperclassnam
+pass1 dopass1
+verif result verificationresult
+class constraint except classconstraintexcept code attribut tostr obj method except tabl entri tostr exc tabl refer cname except superclass getsuperclassnam ancestor hierachi pass verif pass
+repositori lookup class lookupclass superclass getsuperclassnam
+class constraint except classconstraintexcept code attribut tostr obj method except tabl entri tostr exc tabl refer cname except subclass class getclassnam
+creat object local variabl inform
+highli uneleg due usag visitor pattern
+todo rework
+method number
+method repositori lookup class lookupclass owner myowner class getclassnam method getmethod
+length
+method number
+method number method number mmmmh bcel instanti object
+assert violat except assertionviolatedexcept find bcel method object bcel javaclass object
+local variabl info localvariablesinfo method number local variabl info localvariablesinfo obj max local getmaxloc
+num lvt attrib
+iter attribut code attribut
+attribut att obj attribut getattribut
+att length
+att line number tabl linenumbert
+att local variabl tabl localvariablet
+add messag addmessag attribut tostr att attribut code attribut tostr obj method unknown
+linenumbert localvariablet
+add messag addmessag attribut tostr att attribut code attribut tostr obj method effect debugg
+localvariablet check partial delai pass3a
+easier collect inform
+possibl localvariablet belong
+code attribut
+att local variabl tabl localvariablet att instanceof localvariablet check conform vmspec2
+local variabl tabl localvariablet lvt local variabl tabl localvariablet att
+check index checkindex lvt lvt index getnameindex const utf8 const utf8
+string lvtname constant utf8 constantutf8 constant getconst lvt index getnameindex byte getbyt
+lvtname equal localvariablet
+class constraint except classconstraintexcept localvariablet attribut tostr lvt correctli name 'localvariabletable' lvtname
+code code obj
+justic check correct offset code arrai delai pass
+local variabl localvari localvari lvt local variabl tabl getlocalvariablet
+localvari length
+check index checkindex lvt localvari index getnameindex const utf8 const utf8
+string localnam constant utf8 constantutf8 constant getconst localvari index getnameindex byte getbyt
+valid java identifi validjavaidentifi localnam
+class constraint except classconstraintexcept localvariablet tostr lvt refer local variabl localnam legal java simpl
+check index checkindex lvt localvari signatur index getsignatureindex const utf8 const utf8
+string localsig constant utf8 constantutf8 constant getconst localvari signatur index getsignatureindex byte getbyt string localsig constantutf8 getconst localvari getsignatureindex getbyt local signatur descriptor
+type
+type type gettyp localsig
+class format error classformaterror cfe catch classformaterror cfe bcel harsh describ except situat
+class constraint except classconstraintexcept illeg descriptor signatur localsig localvari tostr localvari referenc tostr lvt
+localindex localvari index getindex
+type long type doubl localindex localindex code max local getmaxloc
+class constraint except classconstraintexcept localvariablet attribut tostr lvt refer localvari tostr localvari index exce surround code attribute' max local code max local getmaxloc
+local variabl info localvariablesinfo method number add localindex localnam localvari start getstartpc localvari length getlength
+local variabl info inconsist except localvariableinfoinconsistentexcept lviie
+class constraint except classconstraintexcept conflict inform localvariablet tostr lvt found code attribut tostr obj method tostr lviie messag getmessag
+local variabl localvari localvariablet attribut att end
+num lvt attrib
+num lvt attrib obj max local getmaxloc
+class constraint except classconstraintexcept number localvariablet attribut code attribut tostr obj method tostr exce number local variabl slot obj max local getmaxloc 'there localvariablet attribut local variabl code attribut
+att instanceof localvariablet end
+attribut att end
+visitcod code end

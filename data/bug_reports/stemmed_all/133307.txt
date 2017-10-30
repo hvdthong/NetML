@@ -1,0 +1,11 @@
+declar parent implement gener interfac referenc type
+construct
+public interfac testif extend testif
+public class testclass
+public aspect testaspect
+declar parent testclass implement testif testclass
+
+aspect compil
+public class testclass implement testif testclass
+
+valid class

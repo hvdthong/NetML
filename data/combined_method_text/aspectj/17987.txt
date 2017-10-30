@@ -1,0 +1,27 @@
+org aspectj tool ant taskdef compil
+ajc compileradapt
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef ajc
+ajc default compil adapt defaultcompileradapt
+remov unsupport argument code cline code
+issu warn code log code
+param cline code org apach tool ant type commandlin code
+argument remov
+return code java lang string code arrai
+support argument found code cline code
+throw org apach tool ant buildexcept
+string remov unsupport removeunsupport commandlin cline print stream printstream log
+log log system err
+string arg cline commandlin getcommandlin
+list arg list argslist arrai list arraylist
+arg length
+string arg arg
+javac flag javaconlyflag arg
+log println ajc arg
+javac arg javaconlyarg arg
+arg length
+arg arg arg
+log println ajc arg
+arg list argslist add arg
+string arg list argslist arrai toarrai string arg list argslist size

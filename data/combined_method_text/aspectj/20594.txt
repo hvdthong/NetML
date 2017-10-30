@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+gen temp var index gentempvarindex size
+enclos method enclosingmethod alloc local allocateloc size

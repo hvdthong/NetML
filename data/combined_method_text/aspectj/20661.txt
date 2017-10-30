@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bcel shadow bcelshadow make method execut makemethodexecut
+bcel world bcelworld world
+lazi method gen lazymethodgen enclos method enclosingmethod
+make shadow method makeshadowformethod world enclos method enclosingmethod method execut methodexecut
+enclos method enclosingmethod member view getmemberview enclosingmethod getmemberview world makemethodsignatur enclosingmethod

@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+declar annot declareannot declar
+equal object obj
+obj declar annot declareannot
+declar annot declareannot declar annot declareannot obj
+kind equal kind
+annot string annotationstr equal annot string annotationstr
+annot method annotationmethod equal annot method annotationmethod
+type pattern typepattern
+type pattern typepattern equal type pattern typepattern
+sig pattern sigpattern
+sig pattern sigpattern equal sig pattern sigpattern

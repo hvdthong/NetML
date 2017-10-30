@@ -1,0 +1,17 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+param sourcefilepath modifi delimit path consist
+return structur node file found model
+program element iprogramel find element sourc file findelementforsourcefil string sourc file sourcefil
+valid isvalid sourc file sourcefil
+hierarchi ihierarchi structur structur
+string correct path correctedpath
+asm manag asmmanag default getdefault canon file path getcanonicalfilepath file sourc file sourcefil
+structurenod node structurenod getfilemap correctedpath findfilenod filepath model
+program element iprogramel node program element iprogramel find file map findinfilemap correct path correctedpath iprogramel node iprogramel findinfilemap correctedpath findfilenod filepath model
+node
+node
+creat file structur node createfilestructurenod correct path correctedpath
+except
+hierarchi ihierarchi structur structur

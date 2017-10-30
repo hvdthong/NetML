@@ -1,0 +1,15 @@
+src/main/org/apache/tools/ant/taskdefs/optional/junit/BriefJUnitResultFormatter_endTestSuite-JUnitTest_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/BriefJUnitResultFormatter_formatError-String-Test-Throwable_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnit4TestMethodAdapter_JUnit4TestMethodAdapter-Class-String[]_<init>
+src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnit4TestMethodAdapter$Cache_getDefault_JUnit4TestAdapterCache
+src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnit4TestMethodAdapter$Cache_getNotifier-TestResult_RunNotifier
+src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask_logVmExit-FormatterElement[]-JUnitTest-String-String_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTestRunner_JUnitTestRunner-JUnitTest-String[]-boolean-boolean-boolean-boolean-boolean-ClassLoader_<init>
+src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTestRunner_run_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTestRunner_wrapListener-TestListener_TestListener
+src/main/org/apache/tools/ant/taskdefs/optional/junit/PlainJUnitResultFormatter_endTestSuite-JUnitTest_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/SummaryJUnitResultFormatter_endTestSuite-JUnitTest_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/XMLJUnitResultFormatter_endTestSuite-JUnitTest_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/XMLJUnitResultFormatter_endTest-Test_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/XMLJUnitResultFormatter_formatError-String-Test-Throwable_void
+src/main/org/apache/tools/ant/taskdefs/optional/junit/XMLJUnitResultFormatter_startTest-Test_void

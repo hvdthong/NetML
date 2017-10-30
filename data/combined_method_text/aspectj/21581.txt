@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+type pattern anytypepattern type pattern typepattern
+equal object obj
+obj type pattern anytypepattern

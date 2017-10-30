@@ -1,0 +1,7 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+type map typemap world
+trace trace enabl istraceen trace enter init
+memori profil memoryprofil memoryprofil fals getmessagehandl isignor messag info
+trace trace enabl istraceen trace exit init

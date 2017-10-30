@@ -1,0 +1,23 @@
+author stephen colebourn
+kind interv object referenc
+org joda time base
+start milli istartmilli end milli iendmilli date time util datetimeutil current time milli currenttimemilli
+end milli iendmilli date time util datetimeutil instant milli getinstantmilli end
+start milli istartmilli date time util datetimeutil instant milli getinstantmilli start
+chronolog ichronolog iso chronolog isochronolog instanc getinst
+chronolog ichronolog date time util datetimeutil instant chronolog getinstantchronolog start
+author brian neill o'neil
+param end end interv mean
+check interv checkinterv start milli istartmilli end milli iendmilli
+base interv baseinterv implement readabl interv readableinterv store
+author sean geoghegan
+param start start interv mean
+base interv baseinterv readabl instant readableinst start readabl instant readableinst end
+link readabl interv readableinterv
+start end
+base interv baseinterv
+base interv baseinterv subclass mutabl thread safe
+construct interv start end instant
+data code code millisecond field
+illeg argument except illegalargumentexcept end start
+gener directli api user

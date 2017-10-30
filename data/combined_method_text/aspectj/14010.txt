@@ -1,0 +1,14 @@
+org aspectj apach bcel gener
+ldc push item constant pool
+pre stack item pre
+version ldc java aclement exp
+author href mailto marku dahm berlin dahm
+ldc instruct cpinstruct
+dump instruct byte code stream
+param output stream
+dump data output stream dataoutputstream except ioexcept
+write byte writebyt opcod
+length
+write byte writebyt index
+appli ldc
+write short writeshort index

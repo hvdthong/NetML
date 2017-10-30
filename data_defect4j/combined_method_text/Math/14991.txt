@@ -1,0 +1,32 @@
+overrid
+param opt data optdata optim data addit document
+inherit doc inheritdoc
+pars optim data parseoptimizationdata opt data optdata
+dimens mismatch except dimensionmismatchexcept initi guess target weight
+retriev set
+link org apach common math3 optim nonlinear vector model function jacobian modelfunctionjacobian
+jacobian multivari vector optim jacobianmultivariatevectoroptim method regist data
+optim provid move
+link org apach common math3 optim nonlinear vector model function modelfunct
+deprec class interfac deprec
+version
+link org apach common math3 optim max eval maxev
+evalu except toomanyevaluationsexcept maxim number
+link org apach common math3 fit leastsquar
+math
+link org apach common math3 optim nonlinear vector weight
+argument inconsist dimens
+abstract squar optim abstractleastsquaresoptim
+set base perform comput
+link jacobian multivari vector optim jacobianmultivariatevectoroptim pars optim data parseoptimizationdata optim data optimizationdata
+evalu exceed
+point vector pair pointvectorvaluepair optim optim data optimizationdata opt data optdata
+link org apach common math3 optim nonlinear vector target
+param opt data optdata optim data data look
+optim opt data optdata
+link org apach common math3 optim simpl bound simplebound
+link org apach common math3 optim initi guess initialguess
+org apach common math3 optim nonlinear vector jacobian
+base implement squar optim
+method error estim
+evalu except toomanyevaluationsexcept

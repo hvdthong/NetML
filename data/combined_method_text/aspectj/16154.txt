@@ -1,0 +1,19 @@
+org aspectj intern tool ant taskdef
+implement builder ant
+ant builder antbuild builder
+path aspect lib getaspectjlib project project modul modul string
+path result
+string lib dir name libdirnam aspectj home aspectj home libaspectj rpath libaspectj rpath
+string lib dir libdir string lib dir name libdirnam length
+lib dir name libdirnam length
+libaspectj rpath libaspectj rpath lib dir name libdirnam
+lib dir libdir modul full path getfullpath libaspectj rpath libaspectj rpath
+lib dir libdir project properti getproperti lib dir name libdirnam
+lib dir libdir
+lib dir libdir util path lib dir libdir lib
+result path project util path lib dir libdir
+string path result string tostr
+file path read canread
+result
+string unabl find arrai list aslist lib dir libdir
+build except buildexcept

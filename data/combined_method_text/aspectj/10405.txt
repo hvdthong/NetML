@@ -1,0 +1,12 @@
+org aspectj ajd intern
+read write build configur lst file
+author mik kersten
+lst build config file updat lstbuildconfigfileupdat
+write file writefil string content string file path filepath
+file output stream fileoutputstream fo
+fo file output stream fileoutputstream file path filepath
+fo write content byte getbyt
+except ioexcept ioe
+messag msg messag updat build config file file path filepath messag imessag error ioe
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+fo fo close except ioexcept ioe

@@ -1,0 +1,16 @@
+deprec remov
+set iter evalu count
+deprec link simpl checker simplevaluecheck simpl checker simplevaluecheck
+allow number evalu set link integ max
+simpl checker simplevaluecheck
+base handl boiler plate method threshold
+org apach common math3 optim direct
+simpl constructor set
+deprec
+version
+base implement optim multivari scalar function
+param func type object function optim
+base abstract multivari optim baseabstractmultivariateoptim
+converg check set link simpl checker simplevaluecheck
+evalu count initi guess simpl bound set
+base abstract multivari optim baseabstractmultivariateoptim func multivari function multivariatefunct

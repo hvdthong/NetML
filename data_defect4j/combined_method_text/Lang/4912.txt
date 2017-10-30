@@ -1,0 +1,16 @@
+author apach softwar foundat
+version
+str matcher strmatcher
+portion match
+param str string match empti match
+matcher
+str matcher strmatcher string matcher stringmatch string str
+matcher string
+str str length
+org apach common lang3 text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+constructor creat matcher string
+string matcher stringmatch str
+string util stringutil empti isempti str
+complet factori method

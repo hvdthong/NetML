@@ -1,0 +1,36 @@
+org apach lucen index
+segmentmerg class combin segment repres indexread link add
+singl segment ad reader call merg method combin
+segment
+compoundfil flag set segment merg compound file
+merg
+add
+segment merger segmentmerg
+list string creat compound file createcompoundfil string file filenam
+except ioexcept
+compound file writer compoundfilewrit cf writer cfswriter
+compound file writer compoundfilewrit directori file filenam check abort checkabort
+list string file
+arrai list arraylist string index file name indexfilenam compound extens compound extens length
+basic file
+string ext index file name indexfilenam compound extens compound extens
+ext equal index file name indexfilenam prox extens prox extens prox hasprox
+merg doc store mergedocstor ext equal index file name indexfilenam field extens field extens
+ext equal index file name indexfilenam field index extens field index extens
+file add index file name indexfilenam segment file segmentfilenam segment ext
+fieldabl norm file
+num numfi field info fieldinfo size
+num numfi
+field info fieldinfo field info fieldinfo field info fieldinfo
+index isindex omit norm omitnorm
+file add index file name indexfilenam segment file segmentfilenam segment index file name indexfilenam norm extens norm extens
+vector file
+field info fieldinfo vector hasvector merg doc store mergedocstor
+string ext index file name indexfilenam vector extens vector extens
+file add index file name indexfilenam segment file segmentfilenam segment ext
+merg ad file
+string file file
+cf writer cfswriter add file addfil file
+perform merg
+cf writer cfswriter close
+file

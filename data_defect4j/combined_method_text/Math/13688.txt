@@ -1,0 +1,17 @@
+matrix dimens mismatch except matrixdimensionmismatchexcept multi dimens mismatch except multidimensionmismatchexcept
+integ wrong row dim wrongrowdim wrong col dim wrongcoldim
+matrix dimens mismatch except matrixdimensionmismatchexcept wrong row dim wrongrowdim
+local format localizedformat dimens mismatch 2x2
+param wrong row dim wrongrowdim wrong row dimens
+org apach common math3 linear
+param expect row dim expectedrowdim expect row dimens
+wrong col dim wrongcoldim
+column matrix match expect valu
+param wrong col dim wrongcoldim wrong column dimens
+param expect col dim expectedcoldim expect column dimens
+expect col dim expectedcoldim
+version
+expect row dim expectedrowdim
+except thrown number row number
+integ expect row dim expectedrowdim expect col dim expectedcoldim
+construct except mismatch dimens

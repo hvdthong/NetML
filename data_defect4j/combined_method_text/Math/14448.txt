@@ -1,0 +1,26 @@
+simpl constructor
+step interpol classic fourth
+theta belong
+order rung kutta integr
+step comput interpol equat consist
+interpol comput dens output insid
+refer point step end
+theta theta theta
+initi case link rung kutta integr rungekuttaintegr
+evalu deriv comput
+version
+constructor build instanc usabl
+call instanc order initi
+theta
+refer point step start
+copi
+integr scheme
+link rung kutta step interpol rungekuttastepinterpol reiniti method
+step
+intern arrai constructor order delai
+interpol clone uniniti model initi
+org apach common math3 od nonstiff
+classic rung kutta step interpol classicalrungekuttastepinterpol
+theta theta
+prototyp design pattern creat step
+classic rung kutta integr classicalrungekuttaintegr

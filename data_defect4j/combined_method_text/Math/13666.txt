@@ -1,0 +1,25 @@
+middot residu defin
+defin iter solver linear system
+set construct link iter manag iterationmanag
+param linear oper system
+vector solut
+custom
+version
+max count exceed except maxcountexceededexcept exhaust iter count
+iter linear solver iterativelinearsolv
+link org apach common math3 util incrementor max count exceed callback maxcountexceededcallback callback
+dimens inconsist code
+squar oper except nonsquareoperatorexcept code squar
+param initi guess solut
+math util mathutil check null checknotnul
+dimens mismatch except dimensionmismatchexcept max count exceed except maxcountexceededexcept
+middot linear oper linear system
+param hand side vector
+real vector realvector solv real linear oper reallinearoper real vector realvector real vector realvector
+org apach common math3 linear
+solv place solveinplac copi
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+null argument except nullargumentexcept paramet code
+dimens mismatch except dimensionmismatchexcept code code
+return estim solut linear system middot
+hand side vector current estim solut

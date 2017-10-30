@@ -1,0 +1,7 @@
+defin measur model link kalman filter kalmanfilt
+measur matrix
+measur model measurementmodel
+real matrix realmatrix measur matrix getmeasurementmatrix
+org apach common math3 filter
+version
+return measur matrix

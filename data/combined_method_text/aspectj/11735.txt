@@ -1,0 +1,35 @@
+org aspectj ajdt intern compil problem
+extend problem report support compil side implement declar soft
+overrid error report implement abstract method
+account inter type declar pointcut declar
+job directli sourcetypebind classscop class
+author jim hugunin
+problem report ajproblemreport problem report problemreport
+overrid implement problemreport itd awar
+report real problem itd mark overrid methodmustoverrid method
+method overrid methodmustoverrid abstract method declar abstractmethoddeclar method
+method bind methodbind bind method bind
+ignor ajc method
+string method selector start startswith ajc
+resolv member resolvedmemb possibl erron possiblyerroneousrm factori make resolv member makeresolvedmemb method bind
+resolv type resolvedtyp type ontypex factori eclips fromeclips method bind declar class declaringclass
+'getintertypemungersincludingsup exclud abstract itd
+super class trawl problem
+affect code problem report itd
+resolv type resolvedtyp supertyp supertypetolookat type ontypex superclass getsuperclass
+supertyp supertypetolookat
+list munger itmung supertyp supertypetolookat inter type munger getintertypemung
+iter munger itmung iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+resolv member resolvedmemb sig signatur getsignatur
+sig sig null continu interest kind munger
+unresolv type unresolvedtyp type dtype sig declar type getdeclaringtyp
+type dtype
+resolv type resolvedtyp resolv declar type resolveddeclaringtyp type dtype resolv factori world getworld
+resolv member resolvedmemb ajc member maker ajcmembermak inter method intermethod sig aspect type getaspecttyp
+resolv declar type resolveddeclaringtyp interfac isinterfac
+resolv type resolvedtyp match possibl erron possiblyerroneousrm
+match dont report problem
+supertyp supertypetolookat supertyp supertypetolookat superclass getsuperclass
+report error
+method overrid methodmustoverrid method

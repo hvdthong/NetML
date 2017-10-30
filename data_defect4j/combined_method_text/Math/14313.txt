@@ -1,0 +1,25 @@
+pre
+multistep integr nordsieck represent highli sensit
+nordsieck vector higher degre scale deriv
+org apach common math3 od nonstiff adam bashforth integr adamsbashforthintegr
+store previou step separ implement
+simpl constructor
+factor set low order
+y''' deriv
+param dimens dimens problem
+defin scale deriv step
+version
+org apach common math3 od
+count differenti equat countingdifferentialequ dimens
+deriv
+differenti equat
+y'' deriv
+dimens dimens
+omit index notat clariti
+larg step step multipli factor
+compon accur max growth
+org apach common math3 od nonstiff adam moulton integr adamsmoultonintegr
+base multistep integr ordinari
+step defin
+compon nordsieck vector multipli
+multistep integr multistepintegr adapt stepsiz integr adaptivestepsizeintegr

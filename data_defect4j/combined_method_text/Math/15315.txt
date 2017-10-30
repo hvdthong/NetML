@@ -1,0 +1,58 @@
+function
+simplex optim simplexoptim
+optim intern optimizeintern max eval maxev goal type goaltyp opt data optdata
+previou current simplex converg checker
+goal type goaltyp goal type goaltyp
+cmae optim cmaesoptim
+simplex base direct search optim
+org apach common math3 optim direct
+deriv comput approxim
+optim simpl bound optim
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+link set simplex setsimplex abstract simplex abstractsimplex set simplex setsimplex method
+function unpredict discontinu difficult complex
+param max eval maxev allow number evalu object function
+abstract simplex abstractsimplex
+call link optim multivari function multivariatefunct goal type goaltyp
+param object function
+multivari function penalti adapt multivariatefunctionpenaltyadapt
+overrid
+link abstract simplex abstractsimplex
+direct search method object function valu
+call prior call code optim method
+version
+move vertex provid start point
+comput deriv imposs noisi
+converg check provid worst point
+bobyqa optim bobyqaoptim optim method wrap adapt
+set point dimens updat algorithm
+object function valu vertic simplex
+direct search method
+optim data optimizationdata opt data optdata
+optimum desir found case
+multivari function map adapt multivariatefunctionmappingadapt
+parent' method retriev common paramet
+step
+optim object function
+bobyqa optim bobyqaoptim
+optim start configur current simplex
+problem number paramet chang simplex
+scan opt data optdata input specif optim
+point pair pointvaluepair optim intern optimizeintern max eval maxev multivari function multivariatefunct
+point pair give optim object
+deprec remov
+param opt data optdata optim data data look
+simplex optim implement directli support constrain
+simplex base direct search method base comparison
+opt data optdata call optim dooptim
+deriv paper margaret wright
+link multivari function map adapt multivariatefunctionmappingadapt link
+bad point desir case
+initi dimens
+comput cost case optimum
+param goal type goaltyp optim type
+search method scorn respect
+optim code optim method call solv
+dedic method link cmae optim cmaesoptim link
+pars optim data parseoptimizationdata opt data optdata
+href http bell lab doc direct

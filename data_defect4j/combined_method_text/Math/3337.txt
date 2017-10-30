@@ -1,0 +1,27 @@
+method relat link line intersect hyperplan
+intersect method link line line addit
+check locat point respect line
+includ end point includeendpoint
+intersect instanc line
+line sublin abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d
+line line1 line hyperplan gethyperplan
+loc1 locat insid loc2 locat insid v2d
+vector2 vector2d v2d line1 intersect line2
+version
+loc1 locat loc2 locat v2d
+param line sublin line intersect instanc
+param includ end point includeendpoint endpoint consid belong
+line line2 line line sublin hyperplan gethyperplan
+instanc close set return endpoint
+comput point infinit line check point
+li line rang
+comput intersect infinit line
+repres hyperplan link line
+vector2 vector2d intersect line sublin line sublin includ end point includeendpoint
+consid belong instanc open set intersect
+retriev underli line
+locat loc1 remain region getremainingregion check point checkpoint line1 space tosubspac v2d
+org apach common math geometri euclidean twod
+intersect point line intersect
+occur endpoint lead return
+locat loc2 line sublin remain region getremainingregion check point checkpoint line2 space tosubspac v2d

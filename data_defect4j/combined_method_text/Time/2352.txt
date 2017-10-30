@@ -1,0 +1,16 @@
+author stephen colebourn
+instant
+param instant time instant milli updat
+org joda time chrono
+param year year add neg
+year
+author gui allard
+refactor weekyear date time field gjweekyeardatetimefield
+org joda time date time field datetimefield add
+updat time instant
+time calcul week weekyear compon time
+set instant instant year
+add year time instant
+add instant year
+author brian neill o'neil
+basic weekyear date time field basicweekyeardatetimefield imprecis date time field imprecisedatetimefield

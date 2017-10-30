@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+author mik kersten
+emac structur model manag emacsstructuremodelmanag
+extern model externalizemodel
+asm manag asmmanag default getdefault hierarchi gethierarchi valid isvalid
+set fileset structuremodelmanag instanc getstructuremodel getfilemap entryset
+set file set fileset asm manag asmmanag default getdefault hierarchi gethierarchi file map entri set getfilemapentryset
+iter file set fileset iter hasnext
+program element iprogramel node penod program element iprogramel map entri getvalu
+dump structur file dumpstructuretofil node penod
+except ioexcept ioe
+ioe print stack trace printstacktrac

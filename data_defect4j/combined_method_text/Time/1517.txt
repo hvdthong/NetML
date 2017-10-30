@@ -1,0 +1,11 @@
+author stephen colebourn
+set month setmonth month
+defin durat time queri modifi datetim field
+set number month period
+read writabl period readwritableperiod readabl period readableperiod
+implement mutabl
+param month number month
+org joda time
+provid advanc method
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support

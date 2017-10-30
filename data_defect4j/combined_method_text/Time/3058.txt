@@ -1,0 +1,16 @@
+decor durat field decorateddurationfield base durat field basedurationfield
+deleg durat field delegateddurationfield
+implement minimum requir set method implement
+design durat field durationfield type defin piggyback
+org joda time field
+wrap durat field durationfield
+field ifield
+base durat field basedurationfield method requir pure deleg
+method deleg wrap field
+code decor durat field decorateddurationfield code link base durat field basedurationfield
+wrap field simpli overrid provid wrap field getwrappedfield method
+author brian neill o'neil
+durat field durationfield wrap field getwrappedfield
+top inherit safe method implement
+decor durat field decorateddurationfield thread safe immut subclass
+wrap durat field

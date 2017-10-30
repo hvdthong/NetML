@@ -1,0 +1,16 @@
+param upper bound interv
+solver solv integ max function
+univari solver univariatesolv solver brent solver brentsolv
+solver
+function
+conveni method find univari real function
+param lower bound interv
+util routin link univari solver univariatesolv object
+illeg argument except illegalargumentexcept endpoint
+version
+univari solver util univariatesolverutil
+valid interv
+param function function
+solv univari function univariatefunct function
+org apach common math analysi solver
+null argument except nullargumentexcept local format localizedformat function

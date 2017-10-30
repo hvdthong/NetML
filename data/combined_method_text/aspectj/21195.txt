@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+util
+instruct creat createget instruct factori instructionfactori fact member signatur
+kind
+signatur static isstat
+kind constant getstat
+kind constant getfield
+fact creat field access createfieldaccess
+signatur declar type getdeclaringtyp getnam
+signatur getnam
+bcel world bcelworld make bcel type makebceltyp signatur return type getreturntyp
+kind

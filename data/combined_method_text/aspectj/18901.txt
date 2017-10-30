@@ -1,0 +1,32 @@
+org aspectj weaver
+iter signatur join point calcul signatur
+lazili minim process avoid unneccessari find type
+error iter cach reus call reset method
+iter
+join point signatur iter joinpointsignatureiter iter
+add signatur defin member addsignaturesuptofirstdefiningmemb
+walk hierarchi creat member type includ
+defin type
+resolv type resolvedtyp origin declar type originaldeclaringtyp signatur member signaturesofmemb declar type getdeclaringtyp resolv world
+world joinpoint arrai construct enabl isjoinpointarrayconstructionen origin declar type originaldeclaringtyp arrai isarrai world isjoinpointarrayconstructionen originaldeclaringtyp isarrai aha arrai constructor call join point 'special'
+member signatur member signaturesofmemb
+resolv member resolvedmemb resolv member impl resolvedmemberimpl kind getkind declar type getdeclaringtyp modifi getmodifi return type getreturntyp getnam paramet type getparametertyp
+discov signatur discoveredsignatur add join point signatur joinpointsignatur origin declar type originaldeclaringtyp
+undiscov signatur couldbefurtherasyetundiscoveredsignatur
+defin member firstdefiningmemb resolv member impl resolvedmemberimpl signatur member signaturesofmemb resolv world
+defin member firstdefiningmemb
+undiscov signatur couldbefurtherasyetundiscoveredsignatur
+declaringtyp unresolv match synthet member gener
+fix add resolv call end
+focu problem time
+defin type firstdefiningtyp defin member firstdefiningmemb declar type getdeclaringtyp resolv world
+defin type firstdefiningtyp origin declar type originaldeclaringtyp
+signatur member signaturesofmemb kind getkind member constructor
+list declar type declaringtyp arrai list arraylist
+accumul type accumulatetypesinbetween origin declar type originaldeclaringtyp
+defin type firstdefiningtyp
+declar type declaringtyp
+iter iter declar type declaringtyp iter iter hasnext
+resolv type resolvedtyp declar type declaringtyp resolv type resolvedtyp iter
+resolv member resolvedmemb member resolv member impl resolvedmemberimpl defin member firstdefiningmemb substitut declar type withsubstitutedeclaringtyp declar type declaringtyp
+discov signatur discoveredsignatur add member

@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+annot type pattern notannotationtypepattern annot type pattern annotationtypepattern
+object travers pattern node visitor patternnodevisitor visitor object data
+object ret accept visitor data
+negat pattern negatedpattern travers visitor ret
+ret

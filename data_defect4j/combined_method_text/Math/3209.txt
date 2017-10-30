@@ -1,0 +1,40 @@
+overrid
+hyperplan intersect
+split instanc part hyperplan
+side instanc part
+org apach common math geometri euclidean twod line hyperplan wholehyperplan
+global
+hyperplan parallel
+plane subplan abstract hyperplan abstractsubhyperplan euclidean3 euclidean3d euclidean2 euclidean2d
+plane plane thisplan plane hyperplan gethyperplan
+vector2 vector2d tmp
+param hyperplan split hyperplan
+hyperplan subhyperplan euclidean2 euclidean2d l2dplu
+bsp tree bsptree euclidean2 euclidean2d boolean fals
+tmp
+bsp tree bsptree euclidean2 euclidean2d tree plustre remain region getremainingregion empti isempti split tree splittre getplu
+split hyperplan splitsubhyperplan euclidean3 euclidean3d plane subplan plane thisplan copi copyself polygon set polygonsset tree plustre
+bsp tree bsptree euclidean2 euclidean2d split tree splittre remain region getremainingregion tree gettre split minu l2dminu
+version
+hyperplan subhyperplan euclidean2 euclidean2d minu l2dminu
+vector2 vector2d plane thisplan space tosubspac inter space tospac vector1 vector1d
+object part instanc
+split tree splittre minu getminu
+bsp tree bsptree euclidean2 euclidean2d minu tree minustre remain region getremainingregion empti isempti split tree splittre minu getminu
+global plane otherplan offset getoffset plane thisplan
+line inter plane otherplan intersect plane thisplan
+bsp tree bsptree euclidean2 euclidean2d minu l2dminu bsp tree bsptree euclidean2 euclidean2d boolean fals
+line inter line plane otherplan intersect plane thisplan
+split hyperplan splitsubhyperplan euclidean3 euclidean3d split hyperplan euclidean3 euclidean3d hyperplan
+repres hyperplan link plane
+vector3 vector3d cross crossp vector3 vector3d cross product crossproduct inter direct getdirect plane thisplan normal getnorm
+instanc minu side instanc
+org apach common math geometri euclidean threed
+split tree splittre getplu
+vector3 vector3d dot product dotproduct cross crossp plane otherplan normal getnorm
+plane plane otherplan plane hyperplan
+cross crossp dot product dotproduct plane otherplan normal getnorm
+plane subplan plane thisplan copi copyself polygon set polygonsset minu tree minustre
+inter
+split hyperplan splitsubhyperplan euclidean3 euclidean3d
+bsp tree bsptree euclidean2 euclidean2d l2dplu bsp tree bsptree euclidean2 euclidean2d boolean fals

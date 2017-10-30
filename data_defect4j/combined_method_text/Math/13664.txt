@@ -1,0 +1,30 @@
+except check fail
+row dimens getrowdimens
+defin iter solver linear system
+param linear oper system
+row dimens getrowdimens column dimens getcolumndimens
+perform dimens check paramet
+middot residu defin
+dimens getdimens row dimens getrowdimens
+dimens getdimens column dimens getcolumndimens
+version
+iter linear solver iterativelinearsolv
+column dimens getcolumndimens
+dimens mismatch except dimensionmismatchexcept
+dimens inconsist code
+squar oper except nonsquareoperatorexcept code squar
+param initi guess solut
+math util mathutil check null checknotnul
+middot linear oper linear system
+param hand side vector
+link solv place solveinplac real linear oper reallinearoper real vector realvector real vector realvector solv place solveinplac
+squar oper except nonsquareoperatorexcept row dimens getrowdimens
+check paramet checkparamet real linear oper reallinearoper
+org apach common math3 linear
+dimens mismatch except dimensionmismatchexcept dimens getdimens
+link solv real linear oper reallinearoper real vector realvector real vector realvector solv
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+null argument except nullargumentexcept paramet code
+real vector realvector real vector realvector
+dimens mismatch except dimensionmismatchexcept code code
+hand side vector current estim solut

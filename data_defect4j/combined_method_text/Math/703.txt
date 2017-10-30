@@ -1,0 +1,14 @@
+chapter
+function integr
+org apach common math analysi integr
+construct trapezoid integr set
+construct integr
+max iter count set link trapezoid max iter count
+version
+trapezoid rule integr real univari function
+version revis date
+refer introduct numer analysi isbn 038795452x
+trapezoid integr trapezoidintegr
+implement href http mathworld wolfram trapezoid rule trapezoidalrul html
+trapezoid integr trapezoidintegr univari real integr impl univariaterealintegratorimpl
+default min iter count trapezoid max iter count

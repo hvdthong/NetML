@@ -1,0 +1,26 @@
+org apach lucen search
+queri gener union document produc subqueri score document maximum
+score document produc subqueri tie break increment addit match subqueri
+search word multipl field boost factor field
+combin equival singl search field primari score highest boost
+sum field score booleanqueri give
+queri albino eleph ensur albino match field eleph match
+higher score albino match field
+result booleanqueri disjunctionmaxqueri term disjunctionmaxqueri search
+field set disjunctionmaxqueri combin booleanqueri
+tie breaker capabl result includ term multipl field judg result
+includ term multipl field confus case term
+multipl field
+disjunct max queri disjunctionmaxqueri queri iter queri
+overrid
+scorer scorer reader context readercontext context score doc order scoredocsinord
+top scorer topscor except ioexcept
+scorer scorer scorer weight size
+idx
+weight weight
+scorer scorer subscor scorer context
+scorer subscor scorer subscor doc nextdoc doc set iter docidsetiter doc doc
+scorer idx scorer subscor
+idx idx return null scorer document
+disjunct max scorer disjunctionmaxscor result disjunct max scorer disjunctionmaxscor tie breaker multipli tiebreakermultipli similar scorer idx
+result

@@ -1,0 +1,78 @@
+pre
+implement comput statist definit
+test valu weight begin length
+sigma weight valu weight weightedmean sigma weight
+version
+param weight weight arrai
+vol
+comput varianc valu unbias
+weight weightedmean weight
+varianc sum
+code result getresult code method comput varianc
+param length number element includ
+clear
+throw code illeg argument except illegalargumentexcept code
+valu arrai
+code evalu valu math arrai matharrai normal arrai normalizearrai weight valu length code
+strong note implement strong
+return code evalu code code result getresult code method
+var doubl nan
+comput popul varianc set properti code code
+org apach common math stat descript moment
+start length argument determin valid arrai
+weight arrai
+href http doi acm org chan
+code increment incremental code execut code result getresult code
+code clear code method extern
+param valu input arrai
+comput statist code bia correct isbiascorrect code
+multipl thread access instanc concurr
+sampl varianc definit formula
+empti
+varianc abstract storeless univari statist abstractstorelessunivariatestatist serializ weight evalu weightedevalu
+note ad valu code increment code
+give accur result execut
+full arrai valu memori execut pass algorithm
+input arrai code doubl nan code design subarrai
+formula pre
+version revis date
+var
+formula
+specif method correct pass algorithm
+varianc valu doubl nan length
+varianc comput equal length input vector minu pre
+chan golub levesqu algorithm comput sampl varianc
+thread invok code increment code
+code evalu valu math util mathutil normal arrai normalizearrai weight valu length code
+throw code illeg argument except illegalargumentexcept code arrai
+illeg argument except illegalargumentexcept paramet valid
+code evalu code full arrai valu approach
+sampl observ
+weight repres frequenc count normal weight denomin
+begin length
+chang intern state statist
+weight arrai infinit valu
+weight equal weight equal formula assum
+weight treat expans valu
+formula result unweight varianc
+evalu valu weight begin length
+properti determin popul sampl
+weight arrai nan valu
+weight arrai neg valu
+american statistician vol
+weight varianc valu doubl nan length
+return weight varianc entri portion
+weight arrai length valu arrai
+code evalu code method leverag fact
+link code code number
+updat formula base west' algorithm
+lewi commun acm
+evalu valu weight
+full arrai valu
+length
+return singl length sampl
+varianc abstract storeless univari statist abstractstorelessunivariatestatist serializ
+definit formula good numer properti
+param begin index arrai element includ
+popul varianc sum
+var evalu valu weight begin length

@@ -1,0 +1,6 @@
+nullpointerexcept constructorsignatur getconstructor
+aspectj version 200608290814
+advis constructor obtain constructor java lang reflect member
+member con constructorsignatur thisjoinpointstaticpart
+getsignatur getconstructor
+fail return null

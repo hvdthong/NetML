@@ -1,0 +1,7 @@
+org aspectj apach bcel gener
+impdep1 implement depend
+version impdep1 java aclement exp
+author href mailto marku dahm berlin dahm
+impdep1 instruct
+impdep1
+org aspectj apach bcel constant impdep1

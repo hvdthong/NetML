@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil lookup
+eclips annot convertor eclipseannotationconvertor
+annot annotationvalu gener element constant express generateelementvalueforconstantexpress express default defaultvalu type bind typebind default bind defaultvaluebind
+default bind defaultvaluebind
+constant default defaultvalu constant
+int constant intconst
+int constant intconst constant iconst int constant intconst
+simpl annot simpleannotationvalu element elementvalu primit int primit int integ constant iconst int intvalu
+boolean constant booleanconst
+boolean constant booleanconst constant iconst boolean constant booleanconst
+simpl annot simpleannotationvalu element elementvalu primit boolean primit boolean boolean constant iconst boolean booleanvalu

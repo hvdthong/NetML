@@ -1,0 +1,18 @@
+org aspectj weaver reflect
+find annot present object
+java15 annot finder java15annotationfind annot finder annotationfind arg finder argnamefind
+string annot default getannotationdefaultvalu member member onmemb
+java class javaclass bcel repositori bcelrepositori load class loadclass member onmemb declar class getdeclaringclass
+member onmemb method
+org aspectj apach bcel classfil method bcel method bcelmethod method getmethod method member onmemb
+bcel method bcelmethod
+pr220430
+system err println unexpect problem java15annotationfind retriev annot method onmemb getnam class getclassnam
+attribut attr bcel method bcelmethod attribut getattribut
+attr length
+attribut attribut attr
+attribut getnam equal annotationdefault
+annot default annotationdefault def annot default annotationdefault attribut
+def element getelementvalu stringifi stringifyvalu
+class found except classnotfoundexcept cnf cnfex
+reflect

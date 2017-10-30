@@ -1,0 +1,13 @@
+author stephen colebourn
+creat instanc repres period
+kind period object referenc
+base singl field period basesinglefieldperiod period
+link readabl period readableperiod
+manag singl durat field dai minut
+base singl field period basesinglefieldperiod implement readabl period readableperiod
+param period period repres
+base singl field period basesinglefieldperiod subclass mutabl thread safe
+org joda time base
+base singl field period basesinglefieldperiod
+period iperiod period
+gener directli api user

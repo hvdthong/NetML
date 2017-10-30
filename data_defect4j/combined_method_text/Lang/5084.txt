@@ -1,0 +1,20 @@
+creat unicod unescap unicodeunescap
+specif codepoint
+numer entiti unescap numericentityunescap option option
+option enum set enumset copi copyof arrai list aslist option
+constructor take list option type
+note behaviour ignor
+param option appli unescap
+error ignor semi colon end
+illeg argument except illegalargumentexcept miss
+support numer entiti
+option enum set enumset copi copyof arrai list aslist option option semi colon requir semicolonrequir
+numer entiti unescap numericentityunescap numer entiti unescap numericentityunescap option semi colon option semicolonopt
+version
+option length
+numer entiti unescap numericentityunescap numer entiti unescap numericentityunescap option error semi colon errorifnosemicolon
+note semi colon option
+numer entiti miss
+org apach common lang3 text translat
+translat xml numer entiti form
+numer entiti unescap numericentityunescap char sequenc translat charsequencetransl

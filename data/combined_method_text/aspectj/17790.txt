@@ -1,0 +1,82 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+run compil
+load compil main
+set messag holder
+compil
+convert abort failur error messag
+buildexcept
+throw buildexcept abort failur messag
+error failonerror
+execut executeinsamevm string arg
+max mem maxmem
+log maxmem fork max mem maxmem project msg warn msg warn
+messag holder imessagehold holder messag holder messagehold
+num previou error numpreviouserror
+holder
+messag handler messagehandl mhandler messag handler messagehandl
+messag handler imessagehandl deleg
+deleg ant messag handler antmessagehandl logger verbos
+mhandler set interceptor setinterceptor deleg
+holder mhandler
+num previou error numpreviouserror
+num previou error numpreviouserror holder num messag nummessag messag imessag error
+main newmain main
+newmain set holder sethold holder
+newmain set complet runner setcompletionrunn runnabl
+run
+complet task docompletiontask
+main
+messag util messageutil fail holder run prior main
+main newmain
+main run main runmain arg
+failonerror
+err holder num messag nummessag messag imessag error
+err num previou error numpreviouserror
+err
+string err error
+messag util messageutil print system err holder messag util messageutil messag messag messag util messageutil pick error pick error
+build except buildexcept
+throw buildexcept fail abort
+messag
+buildexcept messag text list class name
+except found messag
+number fail abort messag found
+except fail abort messag
+interceptor messag handler
+print messag includ stack trace
+hack ignor usag messag
+messag imessag fail holder messag getmessag messag imessag fail
+lang util langutil empti isempti fail
+string buffer stringbuff string buffer stringbuff
+string prefix fail due
+num thrown numthrown
+fail length
+string messag fail messag getmessag
+lang util langutil empti isempti messag
+messag messag
+messag index indexof usag substr usag substr
+throwabl fail thrown getthrown
+num thrown numthrown
+append prefix
+append lang util langutil unqualifi class unqualifiedclassnam class getclass
+string thrown messag thrownmessag messag getmessag
+lang util langutil empti isempti thrown messag thrownmessag
+append thrown messag thrownmessag
+append messag
+prefix
+length
+append num thrown numthrown except
+build except buildexcept string tostr

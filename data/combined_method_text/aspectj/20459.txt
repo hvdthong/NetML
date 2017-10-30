@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+ensur deleg consist ensuredelegateconsist
+bitflag damag reset state resetst

@@ -1,0 +1,15 @@
+design extens extract field
+field imprecis
+singl field month second
+param durat millisecond queri neg
+author stephen colebourn
+neg
+millisecond durat number standard implement provid assist
+defin calcul engin durat field
+long getvalueaslong durat
+defin set method manipul millisecond durat
+durat field durationfield compar durat field durationfield
+author brian neill o'neil
+org joda time
+field millisecond approxim
+field unit field

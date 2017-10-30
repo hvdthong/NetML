@@ -1,0 +1,17 @@
+src/org/mozilla/javascript/ScriptableObject_clear_void
+src/org/mozilla/javascript/ScriptableObject_containsKey-Object_boolean
+src/org/mozilla/javascript/ScriptableObject_containsValue-Object_boolean
+src/org/mozilla/javascript/ScriptableObject$KeySet_contains-Object_boolean
+src/org/mozilla/javascript/ScriptableObject_entrySet_Set<Map.Entry<Object,Object>>
+src/org/mozilla/javascript/ScriptableObject$EntrySet_iterator_Iterator<Map.Entry<Object,Object>>
+src/org/mozilla/javascript/ScriptableObject$KeySet_iterator_Iterator<Object>
+src/org/mozilla/javascript/ScriptableObject$ValueCollection_iterator_Iterator<Object>
+src/org/mozilla/javascript/ScriptableObject_keySet_Set<Object>
+src/org/mozilla/javascript/ScriptableObject_putAll-Map_void
+src/org/mozilla/javascript/ScriptableObject_putImpl-String-int-Scriptable-Object-int_boolean
+src/org/mozilla/javascript/ScriptableObject_put-Object-Object_Object
+src/org/mozilla/javascript/ScriptableObject_remove-Object_Object
+src/org/mozilla/javascript/ScriptableObject$EntrySet_size_int
+src/org/mozilla/javascript/ScriptableObject$KeySet_size_int
+src/org/mozilla/javascript/ScriptableObject$ValueCollection_size_int
+src/org/mozilla/javascript/ScriptableObject_values_Collection<Object>

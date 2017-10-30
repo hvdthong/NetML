@@ -1,0 +1,16 @@
+IsSigned conditions doesn't work correctly for alias with invalid characters
+The IsSigned condition correctly upercases the name and shortens it to eight characters but the tool documentation page of jarsigner reads 
+
+> If no -sigfile option appears on the command line, the base file name for the
+> .SF and .DSA files will be the first 8 characters of the alias name specified
+> on the command line, all converted to upper case. > If the alias name has fewer
+> than 8 characters, the full alias name is used.
+> If the alias name contains any characters that are not allowed in a signature
+> file name, each such character is converted to an underscore ("_") character
+> in forming the file name. Legal characters include letters, digits, underscores,
+> and hyphens.
+
+Ant currently lacks the "replace illegal characters with underscores" part.
+
+Note that the spec doesn't say it would treat -sigfile provided names the same
+way, but the documentation of the -sigfile option restricts the legal values so assuming -sigfile provided names can be matched the same way should be fine.

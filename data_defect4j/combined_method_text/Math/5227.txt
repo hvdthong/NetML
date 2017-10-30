@@ -1,0 +1,38 @@
+code decompos ludecompos code recomput decomposit
+solut invers
+inherit doc inheritdoc
+real vector impl realvectorimpl
+decomposit support linear system
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+data modifi refer underli arrai obtain
+org apach common math linear
+sum
+invers
+version revis date
+discard explicitli invok
+row row row nrow row
+base code entri getentri code
+method
+row nrow row dimens getrowdimens
+row sum
+real vector realvector oper real vector realvector illeg argument except illegalargumentexcept
+decomposit perform need support oper
+decomposit cach reus subsequ call
+sum data row datarow entri getentri
+illeg argument except illegalargumentexcept vector wrong length
+real matrix impl realmatriximpl real matrix realmatrix serializ
+link real matrix realmatrix matrix element index
+oper real vector impl realvectorimpl
+col ncol
+solv
+col ncol column dimens getcolumndimens
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+dimens getdimens col ncol
+return element row column matrix
+class cast except classcastexcept cce
+href http www math gatech bourbaki math2601 web note 2num pdf
+data row datarow data row
+row nrow

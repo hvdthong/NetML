@@ -1,0 +1,18 @@
+store databas
+format format object string buffer stringbuff field posit fieldposit
+author apach softwar foundat
+field posit fieldposit po
+string buffer stringbuff format object obj string buffer stringbuff append toappendto
+param append toappendto link string buffer stringbuff append
+param po field posit fieldposit ignor
+org apach common lang3 text
+overrid
+version
+formatt format obj append toappendto po
+code append toappendto code
+composit format compositeformat format
+param obj object format
+format formatt pars formatt
+author archimed trajano
+formatt format instanc
+webapp data

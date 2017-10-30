@@ -1,0 +1,20 @@
+org aspectj weaver
+type typex annot element annotatedel
+make parameter type
+parameter type name
+type typex parameter type name forparameterizedtypenam string string param type name paramtypenam
+type typex ret type typex fornam
+ret set parameter setparameter
+ret type paramet typeparamet type typex param type name paramtypenam length
+param type name paramtypenam length
+ret type paramet typeparamet type typex fornam param type name paramtypenam
+ret raw type signatur rawtypesignatur ret signatur
+sig list string ljava util list ljava lang string
+string buffer stringbuff sig addit sigaddit string buffer stringbuff
+sig addit sigaddit append
+ret type paramet typeparamet length
+sig addit sigaddit append ret type paramet typeparamet signatur
+sig addit sigaddit append
+sig addit sigaddit append
+ret signatur ret signatur substr ret signatur length sig addit sigaddit string tostr
+ret

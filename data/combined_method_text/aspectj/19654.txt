@@ -1,0 +1,11 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return iter resolvedtyp object repres direct
+supertyp type superclass
+declar interfac
+iter direct supertyp getdirectsupertyp
+iter ifac iter ifacesiter iter arrai declar interfac getdeclaredinterfac
+resolv type resolvedtyp superclass superclass getsuperclass
+superclass
+ifac iter ifacesiter
+iter snoc ifac iter ifacesiter superclass

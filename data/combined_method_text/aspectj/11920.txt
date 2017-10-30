@@ -1,0 +1,14 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+delet class file deleteclassfil
+delet file deletedfil
+iter delet file deletedfil iter hasnext
+file delet file deletedfil file
+add depend adddependentsof delet file deletedfil
+list cf list fulli qualifi type name result compil unit fullyqualifiedtypenamesresultingfromcompilationunit delet file deletedfil
+fulli qualifi type name result compil unit fullyqualifiedtypenamesresultingfromcompilationunit remov delet file deletedfil
+cf
+iter iter cf iter iter hasnext
+class file classfil class file classfil iter
+delet class file deleteclassfil

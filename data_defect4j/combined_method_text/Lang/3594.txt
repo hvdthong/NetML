@@ -1,0 +1,37 @@
+author tetsuya kaneuchi
+param osnam
+param version prefix osversionprefix
+decid oper system match
+helper code java lang system
+actual version
+author gari gregori
+param prefix osnameprefix
+author jason gritman
+messag written code system err code
+author base code lucen
+author apach softwar foundat
+author rafal krupinski
+system util systemutil
+author michael beck
+match isosmatch string osnam string version osvers string prefix osnameprefix string version prefix osversionprefix
+param prefix osnameprefix prefix expect
+version
+prefix expect version
+author href mailto sdownei panix steve downei
+helper code java lang system code
+param version osvers
+author base code avalon excalibur
+match determin
+thread safe threadsaf
+param version prefix osversionprefix prefix expect version
+org apach common lang3
+actual
+param version osvers actual version
+osnam start startswith prefix osnameprefix version osvers start startswith version prefix osversionprefix
+system properti read due secur restrict field set code code
+method support unit test invoc
+system properti read due secur restrict field set
+code messag written code system err
+prefix expect
+osnam version osvers
+param osnam actual

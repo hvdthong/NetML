@@ -1,0 +1,7 @@
+org aspectj ajd intern
+author mik kersten
+build config manag buildconfigmanag
+add file configur
+param configfilepath full path configur file
+param file list full path file ad
+add file config addfilestoconfig string config file path configfilepath list file

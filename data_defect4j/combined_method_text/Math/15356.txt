@@ -1,0 +1,15 @@
+base integr
+phase phi code co omega phi code
+param optim optim fit
+optim
+harmon fitter harmonicfitt curv fitter curvefitt harmon oscil harmonicoscil parametr
+class curv fit special sinusoid
+search squar estim initi rough guess
+version
+harmon fitter harmonicfitt curv fitter curvefitt
+simpl constructor
+org apach common math3 optim fit
+harmon fitter harmonicfitt differenti multivari vector optim differentiablemultivariatevectoroptim optim
+deprec remov
+harmon fit simpl curv fit
+estim coeffici amplitud pulsat omega

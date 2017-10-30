@@ -1,0 +1,28 @@
+set remain vertic
+link abstract simplex abstractsimplex constructor set step
+conf confi start configur startconfigur
+dimens
+build start point startpoint
+dimens mismatch except dimensionmismatchexcept start point match
+simplex point pair pointvaluepair start point startpoint doubl nan
+simplex point pair pointvaluepair vertex vertexi doubl nan
+simplex optim simplexoptim
+user call link build build method order
+initi configur simplex set constructor
+param start point startpoint point simplex
+dimens start point startpoint length
+simplex concept
+simplex dimens
+version
+dimens mismatch except dimensionmismatchexcept dimens start point startpoint length
+vertex vertexi start point startpoint conf confi
+build initi simplex
+abstract simplex abstractsimplex optim data optimizationdata
+creat data structur act method
+intend conjunct link simplex optim simplexoptim
+link abstract simplex abstractsimplex link abstract simplex abstractsimplex
+set vertex
+org apach common math3 optim nonlinear scalar noderiv
+vertex vertexi dimens
+simplex point pair pointvaluepair dimens
+build configur unit hypercub

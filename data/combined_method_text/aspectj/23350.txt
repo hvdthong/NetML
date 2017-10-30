@@ -1,0 +1,10 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+set classload parser
+type resolut
+param aload
+set class loader setclassload class loader classload loader aload
+class loader classload loader aload
+world reflect world reflectionworld class loader classload

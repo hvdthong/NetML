@@ -1,0 +1,32 @@
+org aspectj weaver pattern
+basic token sourc basictokensourc token sourc itokensourc
+token sourc itokensourc make token sourc maketokensourc string input sourc context isourcecontext context
+char input char arrai tochararrai
+list token arrai list arraylist
+char length
+char
+token add basic token basictoken make oper makeoper make string makestr
+char length
+char1 nextchar1 char
+char2 nextchar2 char
+char1 nextchar1 char2 nextchar2
+token add basic token basictoken make identifi makeidentifi
+token add basic token basictoken make oper makeoper make string makestr
+token add basic token basictoken make oper makeoper make string makestr
+char length char
+token add basic token basictoken make oper makeoper make string makestr
+fall
+char length
+except bcexcept bad
+char nextchar char
+char nextchar
+token add basic token basictoken make oper makeoper make string makestr
+runtim except runtimeexcept bad
+start0
+char length char
+token add basic token basictoken make liter makeliter string char start0 start0 string start0
+start
+char length charact java identifi part isjavaidentifierpart char
+token add basic token basictoken make identifi makeidentifi string char start start start
+system println token
+basic token sourc basictokensourc token itoken token arrai toarrai token itoken token size context

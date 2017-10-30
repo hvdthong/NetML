@@ -1,0 +1,34 @@
+gener detect field field parameter type
+
+gener issu
+java code
+
+public class test extend integ
+set int hashset
+public set foo
+return int
+
+public static void main string arg
+test integ test integ
+set integ int foo
+
+
+aspect
+
+public privileg aspect testaspect
+pointcut gettingmembercollect test
+target
+public set number mprv secsph
+testaspect
+test test gettingmembercollect test
+system println aspect
+
+
+compil output
+
+warn test test gettingmembercollect test
+
+root ideaproject aspectstest src mprv secsph testaspect advic defin mprv secsph testaspect appli xlint advicedidnotmatch
+expect gettingmembercollect catch access int member test
+lot
+misha

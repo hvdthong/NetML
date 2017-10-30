@@ -1,0 +1,16 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+read except ioexcept
+read
+escap char escap char
+read
+'0' '9' 'a' 'f' normal escap
+read
+tmp
+integ pars int parseint string tmp
+special escap
+map char map char

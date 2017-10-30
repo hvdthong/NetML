@@ -1,0 +1,23 @@
+interv fix millisecond durat
+author stephen colebourn
+interv
+repres differ start end point term field
+author brian neill o'neil
+interv convert link readabl period readableperiod
+author sean geoghegan
+interv inclus start instant exclus end
+result interv compar
+durat repres separ link readabl durat readabledur
+interv thread safe immut
+return code code
+compar length interv compar durat
+author julen parra
+time interv repres period time instant
+interv immut code interv code object
+year dai
+differ start end instant
+end instant greater equal start instant
+code code
+org joda time
+interv standard implement immut time interv
+interv interv tointerv

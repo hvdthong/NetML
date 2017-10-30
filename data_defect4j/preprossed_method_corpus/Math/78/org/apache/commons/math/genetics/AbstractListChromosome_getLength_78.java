@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math genet
+
+
+
+
+
+
+
+chromosom repres immut list fix length
+
+param type represent list
+version revis date
+
+
+abstract list chromosom abstractlistchromosom chromosom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return length chromosom
+length chromosom
+
+length getlength
+represent getrepresent size
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

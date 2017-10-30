@@ -1,0 +1,18 @@
+author stephen colebourn
+creat instanc repres number hour
+type safe repres number hour applic
+code hour gethour code basic mathemat oper provid
+immut time period repres number hour
+hour hour
+hour base singl field period basesinglefieldperiod
+hour
+code divid dividedbi code
+code code code minu code code multipli multipliedbi code
+org joda time
+constructor
+param hour number hour repres
+code hour code immut period store hour
+factori method link hour
+store year month minut
+number hour set constructor queri
+code hour code thread safe immut

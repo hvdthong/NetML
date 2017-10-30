@@ -1,0 +1,75 @@
+org aspectj weaver pattern
+refer pointcut referencepointcut pointcut
+resolv bind resolvebind scope iscop scope bind bind
+type symbol ontypesymbol
+type ontyp type symbol ontypesymbol resolv exact type resolveexacttyp scope bind
+case signal error
+resolv type resolvedtyp miss ismiss type ontyp
+resolv type resolvedtyp search type searchtyp
+type ontyp
+search type searchtyp scope world getworld resolv type ontyp
+search type searchtyp scope enclos type getenclosingtyp
+search type searchtyp type variabl refer istypevariablerefer
+search type searchtyp type variabl refer typevariablerefer search type searchtyp type variabl gettypevari upper bound getupperbound resolv scope world getworld
+argument resolv bind resolvebind scope bind
+xxx ensur argument
+check refer real pointcut declar match
+resolv pointcut definit resolvedpointcutdefinit pointcut def pointcutdef search type searchtyp find pointcut findpointcut
+static refer lookup outer
+pointcut def pointcutdef type ontyp
+unresolv type unresolvedtyp declar type declaringtyp search type searchtyp declar type getdeclaringtyp
+declar type declaringtyp
+search type searchtyp declar type declaringtyp resolv scope world getworld
+pointcut def pointcutdef search type searchtyp find pointcut findpointcut
+pointcut def pointcutdef
+make static refer
+type ontyp search type searchtyp
+pointcut def pointcutdef
+scope messag messag imessag error find referenc pointcut
+check visibl
+pointcut def pointcutdef visibl isvis scope enclos type getenclosingtyp
+scope messag messag imessag error pointcut declar pointcut def pointcutdef access
+modifi abstract isabstract pointcut def pointcutdef modifi getmodifi
+type ontyp type ontyp type variabl refer istypevariablerefer
+scope messag messag imessag error
+make static refer abstract pointcut
+search type searchtyp abstract isabstract
+scope messag messag imessag error
+abstract pointcut concret context
+resolv type resolvedtyp paramet type parametertyp
+scope world getworld resolv pointcut def pointcutdef paramet type getparametertyp
+paramet type parametertyp length argument size
+scope messag messag imessag error incompat number argument pointcut expect
+paramet type parametertyp length found argument size
+ontyp null ontyp pointcutdef getdeclaringtyp
+type ontyp
+type ontyp parameter type isparameterizedtyp
+build type map map type variabl name gener type
+type paramet present
+type variabl map typevariablemap hash map hashmap
+resolv type resolvedtyp underli gener type underlyinggenerictyp resolv type resolvedtyp type ontyp gener type getgenerictyp
+type variabl typevari var tvar underli gener type underlyinggenerictyp type variabl gettypevari
+resolv type resolvedtyp type param typeparam resolv type resolvedtyp type ontyp resolv type paramet getresolvedtypeparamet
+var tvar length
+type variabl map typevariablemap put var tvar getnam type param typeparam
+type ontyp gener type isgenerictyp
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag refer pointcut raw type refer pointcut raw type
+sourc locat getsourceloc
+len argument size len
+type pattern typepattern argument
+allow bind pointcut subtyp type safe
+type variabl map typevariablemap
+parameter parameterizewith type variabl map typevariablemap scope world getworld
+type pattern typepattern
+scope messag messag imessag error
+bad paramet pointcut refer
+report problem reportproblem
+paramet type parametertyp type variabl refer istypevariablerefer exact type getexacttyp type variabl refer istypevariablerefer
+unresolv type unresolvedtyp type variabl refer typevariablerefer paramet type parametertyp type variabl gettypevari bound getfirstbound
+unresolv type unresolvedtyp type variabl refer typevariablerefer exact type getexacttyp type variabl gettypevari bound getfirstbound
+report problem reportproblem resolv scope world getworld assign isassignablefrom resolv scope world getworld
+report problem reportproblem match subtyp matchessubtyp paramet type parametertyp
+exact type getexacttyp equal unresolv type unresolvedtyp object
+report problem reportproblem
+scope messag messag imessag error incompat type expect
+paramet type parametertyp getnam found check type pointcut

@@ -1,0 +1,9 @@
+regexp negat
+negat regexp find line
+foo
+filterchain
+linecontainsregexp
+regexp pattern foo
+linecontainsregexp
+filterchain
+find line foo

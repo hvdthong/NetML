@@ -1,0 +1,46 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+add inter type munger addintertypemung concret type munger concretetypemung munger
+resolv member resolvedmemb sig munger signatur getsignatur
+sig munger munger getmung
+munger munger getmung kind getkind resolv type munger resolvedtypemung privileg access privilegedaccess
+inter type munger intertypemung add munger
+concret type munger concretetypemung origin munger originalmung munger
+'parameterized' itd comparison origin
+pass match ad intertyp member finder
+target type gener type
+discov tvar collaps bound
+munger fill type paramet fillinanytypeparamet munger
+sig munger signatur getsignatur sig munger getsignatur possibl chang type parm fill
+system err println add munger getclassnam intertypemung
+sig kind getkind member method
+compar exist member comparetoexistingmemb munger method iter getmethodswithoutiter comparetoexistingmemb munger getmethodswithoutiter fals true getmethod return
+interfac isinterfac
+compar exist member comparetoexistingmemb munger
+arrai list aslist world core type getcoretyp object declar method getdeclaredmethod iter
+sig kind getkind member field
+compar exist member comparetoexistingmemb munger arrai list aslist declar field getdeclaredfield iter
+compar exist member comparetoexistingmemb munger arrai list aslist declar method getdeclaredmethod iter
+compar existingmung
+iter inter type munger intertypemung iter hasnext
+concret type munger concretetypemung exist munger existingmung concret type munger concretetypemung
+conflict signatur conflictingsignatur exist munger existingmung signatur getsignatur munger signatur getsignatur
+system err println match munger existingmung
+visibl isvis munger signatur getsignatur modifi getmodifi
+munger aspect type getaspecttyp exist munger existingmung aspect type getaspecttyp
+system err println visibl
+compar member preced comparememberpreced sig exist munger existingmung signatur getsignatur
+world getworld compar preced hierarchi comparebyprecedenceandhierarchi munger aspect type getaspecttyp exist munger existingmung aspect type getaspecttyp
+system err println compar
+exist munger domin munger
+check legal overrid checklegaloverrid munger signatur getsignatur exist munger existingmung signatur getsignatur
+munger domin exist
+check legal overrid checklegaloverrid exist munger existingmung signatur getsignatur munger signatur getsignatur
+remov
+inter type conflict error intertypeconflicterror munger exist munger existingmung
+inter type conflict error intertypeconflicterror exist munger existingmung munger
+system err println ad munger
+ad parameter form itd list
+munger munger origin declar
+signatur itd retriev
+inter type munger intertypemung add munger

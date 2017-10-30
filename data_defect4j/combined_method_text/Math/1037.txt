@@ -1,0 +1,9 @@
+param func type function solv
+set max evalu setmaxevalu max evalu maxevalu
+interfac univari real rootfind algorithm
+set maxim number function evalu
+implement search interv
+param max evalu maxevalu maxim number function evalu
+version revis date
+org apach common math analysi solver
+base univari real solver baseunivariaterealsolv func univari real function univariaterealfunct

@@ -1,0 +1,8 @@
+dfp field dfpfield field dfp
+org apach common math3 dfp
+link dfp radic
+field decim float point instanc
+constant radic
+sqr3 reciproc sqr3reciproc
+version
+dfp sqr3 reciproc getsqr3reciproc

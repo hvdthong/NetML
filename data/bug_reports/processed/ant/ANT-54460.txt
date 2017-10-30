@@ -1,0 +1,8 @@
+base64converter properly handling bytes msb set masking byte int conversion
+created attachment
+svn diff trunk
+base64converter properly bytes msb set masking byte int conversion
+3rd byte conversion significant triplet masked added integer msb set leads signed extension overwrites previous bytes
+bits24 octetstring
+
+bits24 octetstring byte mask

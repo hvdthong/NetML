@@ -1,0 +1,43 @@
+xml attribute:: the "default" attribute doesn't refer to the right property
+Hi,
+
+------------------------------------
+CONTEXT
+------------------------------------
+I have 2 build.xml files and both of them are importing common.xml
+The first build.xml is calling the second build.xml. And the second build.xml 
+is calling a macro of the common.xml
+
+This macro have the following definition:
+<property name="jar.dir" location="build/jar"/>     <!-- generated jar files -->
+...
+<macrodef name="common-jar">
+    <attribute name="dir" default="${jar.dir}" Description="Directory in which 
+to create the jar file"/>
+    <sequential>
+		<echo>
+			DEBUG INFO :: COMMON-JAR
+			jar.dir=${jar.dir}	
+			@dir=@{dir}		
+		</echo>
+    
+        <mkdir dir="@{dir}"/>
+           ...
+    </sequential>
+</macrodef>
+
+------------------------------------
+PROBLEM
+------------------------------------
+When the macro is called without defining the attribute "dir", it uses the 
+default value... look at those traces:
+     [echo] DEBUG INFO :: MMS-JAR
+     [echo] 	jar.dir=Y:\mmsoe\common\build\jar
+     [echo] 	@dir=Y:\mms_testtools\tstauto\build\jar
+
+The value contains in the @dir attribute is not the same as the property's 
+value ${jar.dir}... in fact, it is the one that was defined when common.xml was 
+imported by the FIRST build.xml.... 
+
+And I only get this problem when building with ant 1.6.3 (not with ant 1.6.2 or 
+1.6.1)

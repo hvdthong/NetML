@@ -1,0 +1,5 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembersSet_hasChangedSinceLastReset_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembersSet_reset_void
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WildTypePattern_checkBoundsOK-IScope-ResolvedType-boolean_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WildTypePattern_verifyTypeParameters-ResolvedType-IScope-boolean_boolean
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/AjLookupEnvironment_completeTypeBindings_void

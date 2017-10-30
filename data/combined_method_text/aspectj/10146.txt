@@ -1,0 +1,111 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+execut build except buildexcept
+sourcepath argfil
+build except buildexcept sourcepath argfil set
+locat getloc
+sourcepath
+cmd creat argument createargu set setvalu sourcepath
+cmd creat argument createargu set path setpath sourcepath
+destdir
+cmd creat argument createargu set setvalu
+cmd creat argument createargu set file setfil destdir
+classpath
+cmd creat argument createargu set setvalu classpath
+cmd creat argument createargu set path setpath classpath
+bootclasspath
+cmd creat argument createargu set setvalu bootclasspath
+cmd creat argument createargu set path setpath bootclasspath
+extdir
+cmd creat argument createargu set setvalu extdir
+cmd creat argument createargu set path setpath extdir
+source14
+cmd creat argument createargu set setvalu sourc
+cmd creat argument createargu set setvalu
+iter link iter hasnext
+link link link
+link href
+build except buildexcept link href null locat getloc
+link packagelist loc packagelistloc
+cmd creat argument createargu set setvalu linkofflin
+cmd creat argument createargu set setvalu link href
+cmd creat argument createargu set setvalu link packagelist loc packagelistloc
+cmd creat argument createargu set setvalu link
+cmd creat argument createargu set setvalu link href
+doclet
+doclet
+build except buildexcept doclet null locat getloc
+cmd creat argument createargu set setvalu doclet
+cmd creat argument createargu set setvalu doclet
+doclet path
+cmd creat argument createargu set setvalu docletpath
+cmd creat argument createargu set path setpath doclet path
+iter doclet param iter hasnext
+param param param
+param
+build except buildexcept doclet param null
+locat getloc
+cmd creat argument createargu set setvalu param
+param
+cmd creat argument createargu set setvalu param
+map group map groupmap hash map hashmap
+iter group iter hasnext
+group group group
+group titl
+build except buildexcept group name null
+locat getloc
+group packag
+build except buildexcept group packag null
+locat getloc
+list packag list group map groupmap group titl
+packag
+packag arrai list arraylist
+packag add addal group packag
+group map groupmap put group titl packag
+iter group map groupmap kei set keyset iter hasnext
+string titl string
+list packag list group map groupmap titl
+string pkgstr
+iter packag iter hasnext
+pkgstr
+hasnext pkgstr
+cmd creat argument createargu set setvalu group
+cmd creat argument createargu set setvalu titl
+cmd creat argument createargu set setvalu pkgstr
+argfil
+iter argfil iter hasnext
+string
+file argfil project getproject resolv file resolvefil
+check argfil locat getloc
+cmd creat argument createargu set setvalu argfil
+cmd creat argument createargu set file setfil argfil
+packag list packagelist
+cmd creat argument createargu set setvalu packag list packagelist
+packagenam
+iter packagenam iter hasnext
+cmd creat argument createargu set setvalu string
+support includ paramet matchingtask
+numfil
+sourcepath
+string dir sourcepath list
+dir length
+file dir project getproject resolv file resolvefil dir
+check dir dir locat getloc
+string file directori scanner getdirectoryscann dir includ file getincludedfil
+file length
+file file file dir file
+file getnam end endswith java
+file getnam end endswith
+cmd creat argument createargu set file setfil file
+numfil
+sourcefil
+iter sourcefil iter hasnext
+ajdoc resolv sourcefil rel sourcepath
+cmd creat argument createargu set setvalu string
+xxx pr682 weak report error refactor
+result compil
+failonerror result
+build except buildexcept ajdoc fail code result
+reset

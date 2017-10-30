@@ -1,0 +1,110 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass java virtual machin
+specif 2nd edit
+detail inform found verifi
+method' document
+version pass2verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass2 verifi pass2verifi pass verifi passverifi constant
+visit method visitmethod method obj
+check index checkindex obj obj index getnameindex const utf8 const utf8
+string obj getnam
+valid method validmethodnam
+class constraint except classconstraintexcept method tostr obj illeg
+descriptor name signatur bcel
+check index checkindex obj obj signatur index getsignatureindex const utf8 const utf8
+string sig constant utf8 constantutf8 constant getconst obj signatur index getsignatureindex byte getbyt string sig constantutf8 getconst obj getsignatureindex getbyt method' signatur descriptor
+type
+type type need block
+type return type getreturntyp sig
+type argument type getargumenttyp sig
+class format error classformaterror cfe
+bcel harsh describ except situat
+class constraint except classconstraintexcept illeg descriptor signatur sig method tostr obj
+check referenc object exist
+type act
+act arrai type arraytyp act arrai type arraytyp act basic type getbasictyp
+act object type objecttyp
+verifi verifi factori verifierfactori verifi getverifi object type objecttyp act class getclassnam
+verif result verificationresult pass1 dopass1
+verif result verificationresult
+class constraint except classconstraintexcept method tostr obj return type pass verif pass
+length
+act
+act arrai type arraytyp act arrai type arraytyp act basic type getbasictyp
+act object type objecttyp
+verifi verifi factori verifierfactori verifi getverifi object type objecttyp act class getclassnam
+verif result verificationresult pass1 dopass1
+verif result verificationresult
+class constraint except classconstraintexcept method tostr obj argument type pass verif pass
+forgot funni return valu allow empti argument list make method
+equal static initi static initi length
+class constraint except classconstraintexcept method tostr obj illeg resembl class interfac initi method argument descriptor
+class isclass
+maxon
+obj privat ispriv maxon
+obj protect isprotect maxon
+obj public ispubl maxon
+maxon
+class constraint except classconstraintexcept method tostr obj acc privat acc protect acc public modifi set
+obj abstract isabstract
+obj final isfin class constraint except classconstraintexcept abstract method tostr obj acc final modifi set
+obj nativ isn class constraint except classconstraintexcept abstract method tostr obj acc nativ modifi set
+obj privat ispriv class constraint except classconstraintexcept abstract method tostr obj acc privat modifi set
+obj static isstat class constraint except classconstraintexcept abstract method tostr obj acc static modifi set
+obj strictfp isstrictfp class constraint except classconstraintexcept abstract method tostr obj acc strict modifi set
+obj synchron issynchron class constraint except classconstraintexcept abstract method tostr obj acc synchron modifi set
+isinterfac
+equal static initi static initi equal static initi vmspec2 2nd paragraph
+obj public ispubl
+class constraint except classconstraintexcept interfac method tostr obj acc public modifi set
+obj abstract isabstract
+class constraint except classconstraintexcept interfac method tostr obj acc static modifi set
+obj privat ispriv
+obj protect isprotect
+obj static isstat
+obj final isfin
+obj synchron issynchron
+obj nativ isn
+obj strictfp isstrictfp
+class constraint except classconstraintexcept interfac method tostr obj acc privat acc protect acc static acc final acc synchron acc nativ acc abstract acc strict modifi set
+specif instanc initi method vmspec2 page
+equal constructor constructor
+acc privat acc protect acc public set check
+acc strict set flag tabl vmspec2 page
+obj static isstat
+obj final isfin
+obj synchron issynchron
+obj nativ isn
+obj abstract isabstract
+class constraint except classconstraintexcept instanc initi method tostr obj acc static acc final acc synchron acc nativ acc abstract modifi set
+class interfac initi method
+equal static initi static initi
+obj access flag getaccessflag acc strict acc strict
+add messag addmessag class interfac initi method tostr obj superflu access modifi set acc strict
+obj abstract isabstract
+class constraint except classconstraintexcept class interfac initi method tostr obj abstract contradict java languag specif edit omit constraint common practic exist verifi
+obj access flag getaccessflag acc public acc public acc privat acc privat acc protect acc protect acc static acc static acc final acc final acc synchron acc synchron acc nativ acc nativ acc abstract acc abstract acc strict acc strict
+add messag addmessag method tostr obj access flag acc public acc privat acc protect acc static acc final acc synchron acc nativ acc abstract acc strict set
+string nameanddesc sig
+method name desc nameanddesc
+class constraint except classconstraintexcept method tostr obj allow name desciptor
+method name desc add nameanddesc
+attribut att obj attribut getattribut
+num code att
+att length
+att code
+att except tabl exceptiont
+att synthet
+att deprec
+add messag addmessag attribut tostr att attribut method tostr obj unknown
+att code
+att except tabl exceptiont
+add messag addmessag attribut tostr att attribut method tostr obj code except debugg
+att code obj nativ isn obj abstract isabstract
+class constraint except classconstraintexcept nativ abstract method tostr obj code attribut tostr att throw classconstraintexcept nativ abstract method tostr obj code attribut tostr att vmspec2 page120
+att code num code att
+obj nativ isn obj abstract isabstract num code att
+class constraint except classconstraintexcept nativ abstract method tostr obj code attribut found num code att

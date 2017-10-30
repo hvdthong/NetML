@@ -1,0 +1,16 @@
+org apach lucen search payload
+class similar
+link org apach lucen search span spannearqueri factor
+payload locat posit
+link org apach lucen search span termspan occur
+order advantag overrid
+link org apach lucen search similar scorepayload
+return default
+payload score aggreg pluggabl link payloadfunct
+org apach lucen search similar scorepayload
+payload queri payloadnearqueri span queri spannearqueri
+overrid
+scorer scorer atom reader context atomicreadercontext context score doc order scoredocsinord
+top scorer topscor except ioexcept
+payload span scorer payloadnearspanscor queri span getspan context reader
+similar context reader norm queri field getfield

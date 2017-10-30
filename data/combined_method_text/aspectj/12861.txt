@@ -1,0 +1,154 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+disassembl stream byte code return string represent
+param byte stream byte
+param constant pool arrai constant
+param verbos verbos print constant pool index
+return string represent byte code
+string code string codetostr byte sequenc bytesequ byte
+constant pool constantpool constant pool verbos except ioexcept
+opcod byte read unsign byte readunsignedbyt
+default offset low high npair
+index vindex constant
+match jump tabl
+pad byte offset
+string buffer stringbuff buf string buffer stringbuff constant opcod name opcod name opcod
+special case skip pad byte
+byte byte align
+opcod constant tableswitch opcod constant lookupswitch
+remaind byte index getindex
+pad byte remaind remaind
+pad byte
+byte read byte readbyt
+system err println warn pad byte constant opcod name opcod name opcod
+case field default offset common
+default offset byte read int readint
+opcod
+tabl switch variabl length argument
+constant tableswitch
+low byte read int readint
+high byte read int readint
+offset byte index getindex pad byte
+default offset offset
+buf append tdefault default offset low low
+high high
+jump tabl high low
+jump tabl length
+jump tabl offset byte read int readint
+buf append jump tabl
+jump tabl length buf append
+buf append
+lookup switch variabl length argument
+constant lookupswitch
+npair byte read int readint
+offset byte index getindex pad byte
+match npair
+jump tabl npair
+default offset offset
+buf append tdefault default offset npair npair
+npair
+match byte read int readint
+jump tabl offset byte read int readint
+buf append match jump tabl
+npair buf append
+buf append
+address byte offset start byte stream form jump target
+constant goto constant ifeq constant ifg constant ifgt
+constant ifl constant iflt constant jsr constant ifn
+constant ifnonnul constant ifnul constant acmpeq acmpeq
+constant acmpn acmpn constant icmpeq icmpeq constant icmpg icmpg constant icmpgt icmpgt
+constant icmpl icmpl constant icmplt icmplt constant icmpn icmpn
+buf append byte index getindex byte read short readshort
+bit wide jump
+constant goto goto constant jsr jsr
+buf append byte index getindex byte read int readint
+index byte refer local variabl regist
+constant aload constant astor constant dload constant dstore constant fload
+constant fstore constant iload constant istor constant lload constant lstore
+constant ret
+wide
+vindex byte read unsign short readunsignedshort
+wide wide fals clear flag
+vindex byte read unsign byte readunsignedbyt
+buf append vindex
+rememb wide byte form bit address
+instruct reli method call
+opcod
+constant wide wide buf append wide
+arrai basic type
+constant newarrai buf append constant type name type name byte read byte readbyt
+access object class field
+constant getfield constant getstat constant putfield constant putstat
+index byte read unsign short readunsignedshort
+buf append
+constant pool constant string constanttostr index constant constant fieldref constant fieldref
+verbos index
+operand refer class constant pool
+constant
+constant checkcast
+buf append
+constant instanceof
+index byte read unsign short readunsignedshort
+buf append constant pool constant string constanttostr index constant constant class constant class
+verbos index
+operand refer method constant pool
+constant invokespeci constant invokestat constant invokevirtu
+index byte read unsign short readunsignedshort
+buf append constant pool constant string constanttostr index constant constant methodref constant methodref
+verbos index
+constant invokeinterfac
+index byte read unsign short readunsignedshort
+narg byte read unsign byte readunsignedbyt int narg byte readunsignedbyt histor redund
+buf append
+constant pool constant string constanttostr index constant constant interfac methodref constant interfacemethodref
+verbos index narg
+byte read unsign byte readunsignedbyt byte readunsignedbyt byte reserv space
+operand refer item constant pool
+constant ldc ldc constant ldc2 ldc2
+index byte read unsign short readunsignedshort
+buf append constant pool constant string constanttostr
+index constant pool constant getconst index tag gettag
+verbos index
+constant ldc
+index byte read unsign byte readunsignedbyt
+buf append
+constant pool constant string constanttostr
+index constant pool constant getconst index tag gettag
+verbos index
+arrai refer
+constant anewarrai
+index byte read unsign short readunsignedshort
+buf append compact class compactclassnam constant pool constant string getconstantstr
+index constant constant class constant class
+verbos index
+multidimension arrai refer
+constant multianewarrai
+index byte read unsign short readunsignedshort
+dimens byte read unsign byte readunsignedbyt
+buf append compact class compactclassnam constant pool constant string getconstantstr
+index constant constant class constant class
+dimens verbos index
+increment local variabl
+constant iinc
+wide
+vindex byte read unsign short readunsignedshort
+constant byte read short readshort
+wide
+vindex byte read unsign byte readunsignedbyt
+constant byte read byte readbyt
+buf append vindex constant
+constant operand operand opcod
+constant type operand type operand opcod length
+buf append
+constant type operand type operand opcod
+constant byte byte buf append byte read byte readbyt
+constant short short buf append byte read short readshort
+constant int int buf append byte read int readint
+default reach
+system err println unreach default case reach
+system exit
+buf string tostr

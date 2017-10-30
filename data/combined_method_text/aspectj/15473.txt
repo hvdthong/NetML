@@ -1,0 +1,63 @@
+org aspectj apach bcel verifi structur
+passverifi verifi method class file pass
+call structur verif java virtual machin
+specif 2nd edit
+detail inform found verifi method'
+document
+version pass3bverifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3b verifi pass3bverifi pass verifi passverifi
+pass implement data flow analysi java virtual
+machin specif edit
+version localvariablesinfo object verifi
+verifi infer type class file' debug inform localvari
+attribut match todo
+org aspectj apach bcel verifi static localvariablesinfo
+org aspectj apach bcel verifi static pass2verifi getlocalvariablesinfo int
+verif result verificationresult verifi
+owner myowner pass3a dopass3a method equal verif result verificationresult
+verif result verificationresult notyet notyet
+pass ran safe assum javaclass object
+bcel repositori
+java class javaclass repositori lookup class lookupclass owner myowner class getclassnam
+constant pool gen constantpoolgen constant pool gen constantpoolgen constant pool gen constantpoolgen constant pool getconstantpool
+init visitor
+inst constraint visitor instconstraintvisitor icv inst constraint visitor instconstraintvisitor
+icv set constant pool gen setconstantpoolgen constant pool gen constantpoolgen
+execut visitor executionvisitor execut visitor executionvisitor
+set constant pool gen setconstantpoolgen constant pool gen constantpoolgen
+method method method getmethod method method getmethod method method exist ran pass3a
+method gen methodgen method gen methodgen method method owner myowner class getclassnam constant pool gen constantpoolgen
+icv set method gen setmethodgen
+dfa begin
+abstract isabstract nativ isn isabstract isn code pass
+control flow graph controlflowgraph cfg control flow graph controlflowgraph
+build initi frame situat method
+frame frame max local getmaxloc max stack getmaxstack
+static isstat
+getnam equal constant constructor constructor
+frame uniniti object type uninitializedobjecttyp object type objecttyp class getclassnam
+local getloc set frame
+frame
+local getloc set object type objecttyp class getclassnam
+type argtyp argument type getargumenttyp
+twoslotoffset
+argtyp length
+argtyp type short argtyp type byte argtyp type char argtyp type boolean
+argtyp type int
+local getloc set twoslotoffset static isstat argtyp
+argtyp size getsiz
+twoslotoffset
+local getloc set twoslotoffset static isstat type unknown
+circul pump circulationpump cfg cfg context contextof instruct list getinstructionlist start getstart icv
+verifi constraint violat except verifierconstraintviolatedexcept
+extend messag extendmessag constraint violat method method method
+verif result verificationresult verif result verificationresult verifi reject verifi reject messag getmessag
+runtim except runtimeexcept
+intern error
+string writer stringwrit string writer stringwrit
+print writer printwrit print writer printwrit
+print stack trace printstacktrac
+assert violat except assertionviolatedexcept runtimeexcept occur verifi ing class class getclassnam method method method origin runtimeexception' stack trace
+verif result verificationresult

@@ -1,0 +1,8 @@
+org aspectj ajdt intern compil lookup
+privileg handler privilegedhandl privileg handler iprivilegedhandl
+note privileg type access noteprivilegedtypeaccess refer bind referencebind type ast node astnod locat
+resolv member resolvedmemb kei
+resolv member impl resolvedmemberimpl member static initi static initi
+aspect inaspect factori eclips fromeclips type resolv type resolvedtyp void unresolv type unresolvedtyp
+check weav access checkweaveaccess kei declar type getdeclaringtyp locat
+accessor put kei kei

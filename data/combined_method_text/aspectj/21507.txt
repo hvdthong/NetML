@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+left
+bind formal explicitli forbidden composit languag
+author erik hilsdal
+author jim hugunin
+type pattern andtypepattern type pattern typepattern
+match matchesexactli resolv type resolvedtyp type resolv type resolvedtyp annot type annotatedtyp
+left match matchesexactli type annot type annotatedtyp match matchesexactli type annot type annotatedtyp

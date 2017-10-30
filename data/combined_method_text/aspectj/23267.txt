@@ -1,0 +1,5 @@
+org aspectj weaver tool
+common trace commonstrac abstract trace abstracttrac
+warn string messag throwabl
+log warn enabl iswarnen
+log warn messag

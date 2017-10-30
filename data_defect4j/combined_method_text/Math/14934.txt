@@ -1,0 +1,11 @@
+gamma sigma
+org apach common math3 optim nonlinear scalar noderiv
+coeffici rho khi
+nelder mead simplex neldermeadsimplex abstract simplex abstractsimplex
+link abstract simplex abstractsimplex abstract simplex abstractsimplex
+nelder mead simplex neldermeadsimplex refer simplex referencesimplex
+nelder mead simplex algorithm
+version
+build nelder mead simplex coeffici
+refer simplex referencesimplex default rho default khi default gamma default sigma
+param refer simplex referencesimplex refer simplex

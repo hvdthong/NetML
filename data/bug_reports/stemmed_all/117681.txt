@@ -1,0 +1,45 @@
+verifyerror annot defin inter type annot
+sun jdk1
+audit java
+public interfac audit
+public string getlastupdatedbi
+public void setlastupdatedbi string
+
+auditimpl java
+public class auditimpl implement audit
+privat string lastupdatedbi
+public string getlastupdatedbi
+return lastupdatedbi
+
+public void setlastupdatedbi string
+lastupdatedbi
+
+
+testaspect java
+import org aspectj lang annot
+test java
+aspect
+public class testaspect
+declarepar test
+public static audit introduc auditimpl
+
+public class test
+public static void main string arg
+test test
+audit audit
+setlastupdatedbi usernam
+system println usernam getlastupdatedbi
+
+
+file lst
+audit java
+auditimpl java
+testaspect java
+test java
+compil command
+aspectj1 bin ajc classpath aspectj1 lib aspectjrt jar argfi
+file lst
+aspectj1 bin aj5 test
+except thread main java lang verifyerror class test method setlastupdatedbi signatur ljava lang string incompat argument function
+aspectj1 bin aj5 noverifi test
+usernam

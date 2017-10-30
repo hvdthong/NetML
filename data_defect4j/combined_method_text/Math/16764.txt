@@ -1,0 +1,16 @@
+param arrai repres sampl
+number row covari
+abstract multipl linear regress abstractmultiplelinearregress
+dimens mismatch except dimensionmismatchexcept length covari length
+param covari arrai repres covari matrix
+valid covari data validatecovariancedata covari
+covari length covari length covari length
+dimens mismatch except dimensionmismatchexcept number row equal
+version
+length covari length
+org apach common math3 stat regress
+number row covari matrix squar
+squar matrix except nonsquarematrixexcept covari matrix squar
+squar matrix except nonsquarematrixexcept covari length covari length
+abstract base implement multipl linear regress multiplelinearregress
+valid data covari matrix

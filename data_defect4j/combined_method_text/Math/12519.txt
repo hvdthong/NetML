@@ -1,0 +1,9 @@
+simpl constructor
+outlin extractor outlineextractor
+version
+extractor link polygon set polygonsset polyhedron set outlin
+org apach common math3 geometri euclidean threed
+polyhedron set project plane
+project polygon set polygonsset bsp tree bsptree euclidean2 euclidean2d boolean fals
+boundari projector boundaryprojector
+extract outlin link polygon set polygonsset

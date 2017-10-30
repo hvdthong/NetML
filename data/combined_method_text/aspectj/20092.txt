@@ -1,0 +1,10 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+refer type referencetyp make gener type makegenerictypefrom refer type deleg referencetypedeleg deleg refer type referencetyp raw type rawtyp
+string gener sig genericsig deleg declar gener signatur getdeclaredgenericsignatur
+gener sig genericsig
+refer type referencetyp
+unresolv type unresolvedtyp gener type signatur forgenerictypesignatur raw type rawtyp signatur getsignatur deleg declar gener signatur getdeclaredgenericsignatur
+refer type referencetyp
+unresolv type unresolvedtyp gener type variabl forgenerictypevari raw type rawtyp signatur getsignatur deleg type variabl gettypevari

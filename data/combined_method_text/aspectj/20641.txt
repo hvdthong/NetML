@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi annot var initializewithinannotationvar
+annot var withinannotationvar
+annot var withinannotationvar hash map hashmap
+resolv type resolvedtyp annot enclos type getenclosingtyp resolv world annot type getannotationtyp
+annot length
+resolv type resolvedtyp ann annot
+kind shadow static initi staticiniti
+annot var withinannotationvar put ann kind annot access var kindedannotationaccessvar ann enclos type getenclosingtyp

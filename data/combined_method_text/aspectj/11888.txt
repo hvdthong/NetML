@@ -1,0 +1,11 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+string stringifi list stringifylist list
+string buffer stringbuff string buffer stringbuff
+append
+iter iter iter iter hasnext
+object object iter
+append
+iter hasnext append
+append
+string tostr

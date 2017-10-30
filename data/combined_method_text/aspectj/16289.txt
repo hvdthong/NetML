@@ -1,0 +1,17 @@
+org aspectj intern tool ant taskdef
+check version sourc file build version
+ensur tag file reflect
+version uptod versionuptod task
+creat file content
+creat file createfil file version tag file versiontagfil string content
+file writer filewrit writer
+writer file writer filewrit version tag file versiontagfil
+buf content length
+content char getchar buf length buf
+writer write content
+except ioexcept
+build except buildexcept write version tag file versiontagfil
+writer
+writer close
+except ioexcept
+ignor

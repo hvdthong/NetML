@@ -1,0 +1,9 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+return file includ class file found
+directori inpath includ
+class file contain jar
+list binari file getbinaryfil public list binarysourcefil getbinaryfil
+binari file binaryfil

@@ -1,0 +1,21 @@
+vector2 vector2d max max maxmax vector2 vector2d max xmax max ymax
+min ymin max ymax
+vector2 vector2d min min minmin vector2 vector2d min xmin min ymin
+line box boundari boxboundari min xmin max xmax
+creat list hyperplan repres boundari box
+vector2 vector2d min max minmax vector2 vector2d min xmin max ymax
+param max xmax high bound direct
+line min max minmax min min minmin
+version
+vector2 vector2d max min maxmin vector2 vector2d max xmax min ymin
+repres region set polygon
+param min xmin low bound direct
+boundari box
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+param min ymin low bound direct
+line
+line max max maxmax min max minmax
+org apach common math3 geometri euclidean twod
+param max ymax high bound direct
+line max min maxmin max max maxmax
+line min min minmin max min maxmin

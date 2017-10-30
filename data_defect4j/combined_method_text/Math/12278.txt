@@ -1,0 +1,11 @@
+lower
+deprec
+interv set intervalsset
+interv
+lower getlow
+inf getinf
+deprec replac link inf getinf
+version
+org apach common math3 geometri euclidean on
+lower bound interv
+repres interv

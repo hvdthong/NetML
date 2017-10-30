@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+i2l convert int long
+pre stack result word1 result word2 pre
+version i2l java aclement exp
+author href mailto marku dahm berlin dahm
+i2l convers instruct conversioninstruct
+convert int long
+i2l
+org aspectj apach bcel constant i2l

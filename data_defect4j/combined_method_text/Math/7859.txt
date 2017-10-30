@@ -1,0 +1,23 @@
+tableau subtract row subtractrow pivot row pivotrow multipli
+iter doiter simplex tableau simplextableau tableau
+multipli tableau entri getentri pivot col pivotcol
+tableau height getheight
+integ pivot row pivotrow pivot row getpivotrow pivot col pivotcol tableau
+optim except optimizationexcept
+solv linear problem phase simplex method
+increment iter counter incrementiterationscount
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+version revis date
+optim except optimizationexcept maxim iter count
+param tableau simpl tableau problem
+run iter simplex method model
+exceed model found bound solut
+unbound solut except unboundedsolutionexcept
+pivot val pivotv tableau entri getentri pivot row pivotrow pivot col pivotcol
+pivot row pivotrow
+set pivot element
+org apach common math optim linear
+integ pivot col pivotcol pivot column getpivotcolumn tableau
+set rest pivot column
+integ pivot row pivotrow pivot row getpivotrow tableau pivot col pivotcol
+tableau divid row dividerow pivot row pivotrow pivot val pivotv

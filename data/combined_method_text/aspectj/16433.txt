@@ -1,0 +1,16 @@
+org aspectj intern tool build
+data sampl code struct class
+sampl
+kind kind getkind file file
+file
+string file getnam lower case tolowercas
+end endswith java end endswith
+program
+end endswith html end endswith htm
+html
+end endswith end endswith ksh
+script
+end endswith txt end endswith text
+text
+end endswith xml
+xml

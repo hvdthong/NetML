@@ -1,0 +1,79 @@
+load load load load load load load load load
+startsub startsub startsub
+code code
+setconstvar1 setconstvar1 setconstvar1
+evalu
+argument
+pop pop pop pop pop pop pop pop pop
+var var var
+arraylit arraylit arraylit
+set set set
+illegalargumentexcept
+org
+ind ind ind ind ind ind ind ind ind ind ind ind ind ind ind ind ind ind
+bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod
+line line line
+retsub retsub retsub
+ind4 ind4 ind4
+ifeq ifeq ifeq
+ind1 ind1 ind1
+setconstvar setconstvar setconstvar
+ind2 ind2 ind2
+typeofnam typeofnam typeofnam
+str2 str2 str2
+str1 str1 str1
+valueof valueof valueof
+except except
+prop prop prop prop prop prop
+str4 str4 str4
+valid valid
+call call call
+swap swap swap
+print
+scope scope scope scope scope scope
+setter setter setter
+ref ref ref
+reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg reg
+dup dup dup
+validtokencod
+shortnumb shortnumb shortnumb
+validbytecod
+liter liter liter liter liter liter liter liter liter liter liter liter
+setvar1 setvar1 setvar1
+string string string string
+leavedq leavedq leavedq
+intnumb intnumb intnumb
+javascript
+stmt stmt stmt
+closur closur closur closur closur closur
+illeg illeg
+state
+spare spare spare
+icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod icod
+debugg debugg debugg
+end end end
+mozilla
+callspeci callspeci callspeci
+interpret
+bytecodenam
+enterdq enterdq enterdq
+gosub gosub gosub
+retundef retundef retundef
+save save save
+tail tail tail
+expr expr expr
+clear clear clear
+getvar1 getvar1 getvar1
+elem elem elem elem elem elem
+local local local
+illegalstateexcept
+token token token
+getter getter getter
+str str str str str str str str str str str str
+setconst setconst setconst
+gener gener gener gener gener gener
+dup2 dup2 dup2
+dec dec dec dec dec dec dec dec dec dec dec dec dec dec dec
+printicod
+undef undef undef
+result result result

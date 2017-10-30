@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart encod
+
+
+
+
+factori return link imag encod imageencod
+link imag format imageformat
+
+imag encod factori imageencoderfactori
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+retriev imag encod imageencod specif imag format
+
+param format imag format requir
+param qualiti qualiti set return
+param encod alpha encodingalpha set alpha transpar encod
+
+imag encod imageencod code code
+
+imag encod imageencod instanc newinst string format qualiti
+encod alpha encodingalpha
+imag encod imageencod imag encod imageencod instanc newinst format
+imag encod imageencod set qualiti setqual qualiti
+imag encod imageencod set encod alpha setencodingalpha encod alpha encodingalpha
+imag encod imageencod
+
+
+

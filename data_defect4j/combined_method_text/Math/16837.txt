@@ -1,0 +1,34 @@
+comput request statist
+intercept hasintercept
+intercept regress line
+code intercept slope code
+return intercept estim regress line slope
+fewer observ model
+param slope current slope
+getter statist comput valu base current
+link simpl regress simpleregress constructor
+strong usag note strong
+provid dimension arrai observ store
+statist code nan code observ
+sum sumi slope sum sumx
+code nan code slope code nan code
+intercept term suppress pass code
+observ pair ad model time
+simpl regress simpleregress serializ updat multipl linear regress updatingmultiplelinearregress
+version
+org apach common math3 stat regress
+estim ordinari squar regress model
+anova squar pearson' statist
+coordin requir estim bivari regress
+constant term link intercept getintercept return code
+variat valu valu
+independ variabl
+code intercept hasintercept properti model estim
+intercept getintercept slope
+set observ statist add data
+updat statist instanc
+standard error code intercept code code slope code
+memori limit number observ
+comput method updat statist getter perform
+model
+ad model

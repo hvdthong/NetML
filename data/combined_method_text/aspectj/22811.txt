@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+exact subtyp allow areallexactwithnosubtypesallow
+type pattern typepattern length
+type pattern typepattern arrai element type pattern typepattern
+arrai element exact type pattern exacttypepattern
+exact type pattern exacttypepattern etp exact type pattern exacttypepattern arrai element
+etp includ subtyp isincludesubtyp

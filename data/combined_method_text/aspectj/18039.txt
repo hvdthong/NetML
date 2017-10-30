@@ -1,0 +1,6 @@
+org aspectj util
+config parser configpars
+string strip singl line comment stripsinglelinecom string string comment string commentstr
+comment start commentstart index indexof comment string commentstr
+comment start commentstart
+substr comment start commentstart

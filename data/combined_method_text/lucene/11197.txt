@@ -1,0 +1,65 @@
+org apach lucen index
+basic tool api check health index
+write segment file remov refer
+problemat segment
+tool check byte index larg
+index long time run
+lucen experiment make complet backup
+index fix index
+check index checkindex
+test term index
+statu term index statu termindexstatu test term index testtermindex segment info segmentinfo info segment reader segmentread reader
+statu term index statu termindexstatu statu statu term index statu termindexstatu
+info stream infostream
+info stream infostream print test term freq prox
+term enum termenum term enum termenum reader term
+term posit termposit term posit termposit reader term posit termposit
+count delet doc term
+segment term doc mysegmenttermdoc term doc mytermdoc segment term doc mysegmenttermdoc reader
+max doc maxdoc reader max doc maxdoc
+term enum termenum
+statu term count termcount
+term term term enum termenum term
+doc freq docfreq term enum termenum doc freq docfreq
+term posit termposit seek term
+doc lastdoc
+freq0
+statu tot freq totfreq doc freq docfreq
+term posit termposit
+freq0
+doc term posit termposit doc
+freq term posit termposit freq
+doc doc lastdoc
+runtim except runtimeexcept term term doc doc lastdoc doc lastdoc
+doc max doc maxdoc
+runtim except runtimeexcept term term doc doc maxdoc max doc maxdoc
+doc lastdoc doc
+freq
+runtim except runtimeexcept term term doc doc freq freq bound
+po lastpo
+statu tot po totpo freq
+freq
+po term posit termposit posit nextposit
+po
+runtim except runtimeexcept term term doc doc po po bound
+po po lastpo
+runtim except runtimeexcept term term doc doc po po lastpo po lastpo
+po lastpo po
+count delet doc occur
+term
+del count delcount
+reader delet hasdelet
+term doc mytermdoc seek term
+term doc mytermdoc
+del count delcount term doc mytermdoc del count delcount
+del count delcount
+freq0 del count delcount doc freq docfreq
+runtim except runtimeexcept term term docfreq
+doc freq docfreq num doc freq0 num doc delet del count delcount
+msg statu term count termcount term statu tot freq totfreq term doc pair statu tot po totpo token
+throwabl
+msg error string valueof messag getmessag
+statu error
+info stream infostream
+print stack trace printstacktrac info stream infostream
+statu

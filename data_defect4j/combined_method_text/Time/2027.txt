@@ -1,0 +1,22 @@
+author stephen colebourn
+construct interv millisecond durat end instant
+kind interv object referenc
+end milli iendmilli date time util datetimeutil instant milli getinstantmilli end
+org joda time base
+author brian neill o'neil
+param end end interv mean
+check interv checkinterv start milli istartmilli end milli iendmilli
+base interv baseinterv implement readabl interv readableinterv store
+author sean geoghegan
+link readabl interv readableinterv
+durat milli durationmilli date time util datetimeutil durat milli getdurationmilli durat
+base interv baseinterv subclass mutabl thread safe
+base interv baseinterv
+base interv baseinterv readabl durat readabledur durat readabl instant readableinst end
+start milli istartmilli field util fieldutil safe add safeadd end milli iendmilli durat milli durationmilli
+chronolog ichronolog date time util datetimeutil instant chronolog getinstantchronolog end
+param durat durat interv mean length
+data code code millisecond field
+illeg argument except illegalargumentexcept end start
+arithmet except arithmeticexcept start instant exce capac
+gener directli api user

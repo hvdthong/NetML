@@ -1,0 +1,38 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+process reweav state present processreweavablestateifpres string class classnam bcel object type bcelobjecttyp class type classtyp
+class mark reweav check aspect built world
+weaver state info weaverstateinfo wsi class type classtyp weaver state getweaverst
+wsi wsi reweav isreweav wsi null wsi isreweav check type
+world show messag showmessag messag imessag info
+weaver messag weavermessag format weaver messag weavermessag process reweav process reweav class classnam class type classtyp sourc locat getsourceloc sourc file getsourcefil
+set aspect previous world aspectspreviouslyinworld wsi aspect affect type getaspectsaffectingtyp
+aspect previous world aspectspreviouslyinworld
+track ensur uniqu miss aspect error report
+set confirm reweav state alreadyconfirmedreweavablest hash set hashset
+iter iter aspect previous world aspectspreviouslyinworld iter iter hasnext
+string requir type requiredtypenam string iter
+confirm reweav state alreadyconfirmedreweavablest requir type requiredtypenam
+resolv type resolvedtyp rtx world resolv unresolv type unresolvedtyp fornam requir type requiredtypenam
+exist rtx miss ismiss
+exist
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag miss reweav type miss reweav type requir type requiredtypenam class classnam
+class type classtyp sourc locat getsourceloc
+weav aspect declar aop xml trigger error
+headhach ltw packag lib aop xml
+xcut set xcutset aspect containsaspect rtx
+world show messag showmessag
+messag imessag error
+weaver messag weavermessag format
+weaver messag weavermessag reweav aspect regist reweav aspect regist
+requir type requiredtypenam
+class classnam
+world messag handler getmessagehandl ignor isignor messag imessag info
+world show messag showmessag messag imessag info
+weaver messag weavermessag format weaver messag weavermessag verifi reweav type verifi reweav type requir type requiredtypenam rtx sourc locat getsourceloc sourc file getsourcefil
+confirm reweav state alreadyconfirmedreweavablest add requir type requiredtypenam
+classtyp setjavaclass util makejavaclass classtyp getjavaclass getfilenam wsi getunwovenclassfiledata
+reweav default clever diff
+class type classtyp set java class setjavaclass util make java class makejavaclass class type classtyp java class getjavaclass file getfilenam wsi unwoven class file data getunwovenclassfiledata class type classtyp java class getjavaclass byte getbyt
+classtyp resetst

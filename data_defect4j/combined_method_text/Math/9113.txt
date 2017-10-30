@@ -1,0 +1,54 @@
+test ttest statist summari statisticalsummari sampl stats1 samplestats1
+code test ttest sampl stats1 samplestats1 sampl stats2 samplestats2 code
+href http www itl nist gov div898 handbook prc section3 prc31 htm
+statist degre freedom approxim
+side test evalu hypothesi
+illeg argument except illegalargumentexcept precondit met
+statist summari statisticalsummari sampl stats2 samplestats2 alpha
+welch satterthwait approxim
+href http www basic nwu statguidefil ttest unpair ass viol html
+strong usag note strong
+perform side test code alpha code
+dataset univari
+code alpha code
+code sampl stats1 samplestats1 code code sampl stats2 samplestats2 code describ
+illeg argument except illegalargumentexcept math except mathexcept
+perform
+strong precondit strong
+math except mathexcept error occur perform test
+test impl ttestimpl test ttest
+implement test statist defin link test ttest
+statist summari statisticalsummari sampl stats2 samplestats2
+version
+param sampl stats1 samplestats1 statist summari statisticalsummari describ sampl data valu
+version revis date
+common math link org apach common math distribut distribut impl tdistributionimpl
+org apach common math stat infer
+math except mathexcept
+test side hypothesi code code
+alpha alpha
+hypothesi reject
+equal reject confid code alpha code
+alpha
+dataset drawn popul signific
+href http www itl nist gov div898 handbook eda section3 eda353 htm
+level verifi measur
+illeg argument except illegalargumentexcept bad signific level alpha
+link homoscedast test homoscedasticttest statist summari statisticalsummari statist summari statisticalsummari
+check signific level checksignificancelevel alpha
+param alpha signific level test
+strong exampl strong
+test ttest sampl stats1 samplestats1 sampl stats2 samplestats2 alpha
+common math link org apach common math distribut distribut tdistribut
+code sampl code code sampl code
+implement estim exact valu
+confid alpha
+return code code iff hypothesi mean
+param sampl stats2 samplestats2 statist summari statisticalsummari describ sampl data valu
+level code alpha code test assum
+varianc assumpt
+test procedur discuss
+valid test depend assumpt parametr
+subpopul varianc equal perform test equal
+observ
+link formula comput

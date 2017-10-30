@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+resolv member resolvedmemb declar field getdeclaredfield
+ensur gener signatur unpack ensuregenericsignatureunpack
+field
+field java class javaclass field getfield
+field resolv member resolvedmemb length
+len length len
+field bcel field bcelfield
+field

@@ -1,0 +1,20 @@
+primari set equat expand set secondari
+primari set equat correspond raw od
+error step size secondari
+version
+org apach common math3 od
+param time current time
+equat comput link abstract integr abstractintegr integr
+jacobian matric jacobianmatric
+set time settim time
+repres combin set order differenti equat
+primari set end secondari set begin
+add set bunch secondari equat repres jacobian
+equat
+expand state od expandablestatefulod
+typic comput jacobian matrix od
+set current time
+integr primari set estim
+order differenti equat firstorderdifferentialequ
+time time
+matrix primari set

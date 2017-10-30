@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+string lastbit string fqname
+fqname index lastindexof
+fqname fqname substr

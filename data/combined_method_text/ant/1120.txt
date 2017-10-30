@@ -1,0 +1,73 @@
+org apach tool ant
+class scan directori file directori match
+criteria
+criteria consist selector pattern
+selector select file includ
+file select exclud pattern includ
+exclud file base filenam
+idea simpl directori recurs scan file
+directori file directori match set selector
+includ special support match filenam includ
+exclud pattern file directori match
+pattern includ pattern list file selector match
+pattern exclud pattern list fail match requir
+selector list file directori found
+list includ pattern suppli
+mean match list exclud pattern
+suppli empti list exclud
+selector suppli appli
+filenam pattern match
+match split path segment path segment
+directori file bound
+code file separ code unix window
+abc def ghi xyz java split segment abc
+def ghi xyz java
+pattern match
+segment pattern match
+path segment pattern match
+path segment
+special case code file separ code
+begin pattern string match
+pattern start code file separ code string
+match start code file separ code
+pattern start code file separ code
+string match start code file separ code
+rule obei string
+match
+path segment match pattern path segment
+special charact
+match charact
+match charact
+exampl
+class match class file dir directori tree
+test java match file dir start a
+charact java directori call test
+match directori tree
+test xyz match file dir start xyz
+parent directori call test abc test def ghi xyz123
+case sensit turn default
+turn
+usag
+pre
+string includ class
+string exclud modul
+setinclud includ
+setexclud exclud
+setbasedir file test
+setcasesensit true
+scan
+system println file
+string file getincludedfil
+int file length
+system println file
+pre
+scan directori call test class file exclud
+file proper subdirectori directori call modul
+directori scanner directoryscann
+account includ dir accountforincludeddir string file file fast
+string children
+stack directori name directorynamesfollow
+process includ processinclud file dir includ dirsinclud dir exclud dirsexclud dir deselect dirsdeselect
+fast hold includ couldholdinclud content exclud contentsexclud
+scandir file file separ fast children
+directori name directorynamesfollow

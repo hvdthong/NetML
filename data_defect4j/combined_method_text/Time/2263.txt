@@ -1,0 +1,17 @@
+author stephen colebourn
+basic dai month date time field basicdayofmonthdatetimefield precis durat date time field precisedurationdatetimefield
+year valu
+partial field type getfieldtyp date time field type datetimefieldtyp month year monthofyear
+time calcul dai month compon time
+org joda time chrono
+author gui allard
+chronolog ichronolog dai year month getdaysinyearmonth year month
+maximum getmaximumvalu
+month valu
+author brian neill o'neil
+partial field type getfieldtyp date time field type datetimefieldtyp year
+refactor dai month date time field gjdayofmonthdatetimefield
+chronolog ichronolog dai month max getdaysinmonthmax month
+maximum getmaximumvalu readabl partial readableparti partial valu
+size partial size
+size

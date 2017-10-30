@@ -1,0 +1,66 @@
+jar archive update excluding defaultexcludes fails
+trouble create update archive defaultexcludes
+guess directory structure
+domain somegeneralfile
+domain project build xml
+domain project package somesourcefile
+domain project package somesourcefile backup file
+ant build file targets creating projects archive
+subsequently updating general files domain
+step works fine defaultexcludes attribute
+backup file somesourcefile included running step
+updating archive backup file lost removed
+including original fileset impact
+global defaultexcludes task ant make work
+question bug works intended designed
+defaultexcludes task helpful
+comment lines sample documentation
+output
+create jar
+jar building jar myarchive jar
+jar adding directory meta inf
+jar adding entry meta inf manifest
+jar adding entry build xml
+jar adding directory package
+jar adding entry package somesourcefile
+jar adding entry package somesourcefile
+update jar
+jar project added project exist
+jar somegeneralfile added somegeneralfile exist
+jar updating jar myarchive jar
+jar adding directory meta inf
+jar adding entry meta inf manifest
+jar adding directory project
+jar adding entry somegeneralfile
+jar adding directory package
+jar adding entry build xml
+jar adding entry package somesourcefile
+
+xml version encoding utf standalone
+project antbuildtest
+
+target create jar
+jar destfile myarchive jar
+fileset dir domain project
+includes
+defaultexcludes
+jar
+target
+
+target update jar
+set reset global defaultexcludes make work
+defaultexcludes remove
+jar destfile myarchive jar
+update true
+defaultexcludes
+fileset dir domain
+includes
+defaultexcludes
+including original fileset impact
+fileset dir domain project
+includes
+defaultexcludes
+jar
+defaultexcludes default true
+target
+project

@@ -1,0 +1,6 @@
+org apach common math geometri euclidean threed
+version
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+build polyhedron set repres real line
+repres region set polyhedron
+polyhedron set polyhedronsset

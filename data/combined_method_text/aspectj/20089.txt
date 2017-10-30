@@ -1,0 +1,12 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+lookup type signatur found build put
+map
+refer type referencetyp lookup creat lookuporcreatenam unresolv type unresolvedtyp
+string signatur signatur getsignatur
+refer type referencetyp ret lookup signatur lookupbysignatur signatur
+ret
+ret refer type referencetyp type fromtypex
+type map typemap put signatur ret
+ret

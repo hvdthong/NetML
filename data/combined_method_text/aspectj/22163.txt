@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+annot type pattern notannotationtypepattern annot type pattern annotationtypepattern
+annot type pattern annotationtypepattern read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+annot type pattern annotationtypepattern ret annot type pattern notannotationtypepattern annot type pattern annotationtypepattern read context
+ret read locat readloc context
+major version getmajorvers weaver version info weaverversioninfo weaver version minor aj160 weaver version minor aj160
+read boolean readboolean ret set paramet annot match setforparameterannotationmatch
+ret

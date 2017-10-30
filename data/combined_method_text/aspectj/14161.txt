@@ -1,0 +1,23 @@
+org aspectj apach bcel gener
+templat class build method defin except
+handler ad thrown except local variabl attribut
+localvariabletable' linenumbertable' attribut set
+automat code stripattribut
+gener code insert nop oper
+removenops' method rid
+result method object obtain getmethod method
+version methodgen java aclement exp
+author href mailto marku dahm berlin dahm
+author href http www vmeng beard patrick beard setmaxstack
+instructionlist
+method
+method gen methodgen field gen method gen fieldgenormethodgen
+return linenumbertable' attribut local variabl method
+line number tabl linenumbert line number tabl getlinenumbert constant pool gen constantpoolgen
+size line number vec size
+line number linenumb line number linenumb size
+size
+line number gen linenumbergen line number vec line number getlinenumb
+arrai index bound except arrayindexoutofboundsexcept catch arrayindexoutofboundsexcept occur
+line number tabl linenumbert add utf8 addutf8 linenumbert
+length constant pool getconstantpool

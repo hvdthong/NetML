@@ -1,0 +1,11 @@
+author stephen colebourn
+zone chronolog zonedchronolog thread safe immut
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+org joda time chrono
+field ifield differ long getdifferenceaslong
+minuend instant minuendinst time field itimefield offset offset add getoffsettoadd minuend instant minuendinst
+wrap chronolog add support time zone
+author brian neill o'neil
+offset offset add getoffsettoadd subtrahend instant subtrahendinst
+subtrahend instant subtrahendinst offset
+zone chronolog zonedchronolog assembl chronolog assembledchronolog

@@ -1,0 +1,16 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+param instant milli t00 01t00 00z
+instant
+org joda time chrono
+instant date time constant datetimeconst milli dai
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+date time constant datetimeconst milli dai
+milli dai getmillisofdai instant
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+reflect intent defin

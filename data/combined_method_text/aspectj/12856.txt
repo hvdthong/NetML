@@ -1,0 +1,23 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+convert bit field flag string 'static final'
+special case class compil compil
+'acc super' flag synchron
+sun flag 'acc super'
+'acc synchronized'
+param access flag access flag
+param class access flag class qualifi
+return string represent flag
+string access string accesstostr access flag class
+string buffer stringbuff buf string buffer stringbuff
+constant max acc flag max acc flag int constant max acc flag loop flag
+pow2
+access flag
+special case comment top class
+class constant acc super acc super constant acc interfac acc interfac
+buf append constant access name access name append
+buf string tostr trim

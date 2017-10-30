@@ -1,0 +1,18 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+pre
+defin
+epoch gregorian
+approx milli epoch divid getapproxmillisatepochdividedbytwo
+org joda time chrono
+year epoch yearatepoch averag milli year averagemillisperyear milli year epoch millisofyearatepoch
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+elaps year chronolog divid constant
+return constant repres approxim number millisecond
+reflect intent defin

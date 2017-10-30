@@ -1,0 +1,11 @@
+regexp cannot be negated
+There is no way to negate a regexp. For example, the following will find lines 
+containing "foo":
+
+      <filterchain>
+        <linecontainsregexp>
+            <regexp pattern="foo*"/>
+        </linecontainsregexp>
+      </filterchain>
+
+But there is no way to find lines that do *not* contain "foo".

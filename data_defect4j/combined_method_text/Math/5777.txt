@@ -1,0 +1,20 @@
+param vector comput
+max
+iter iter entri iter
+inf distanc linfdist
+org apach common math linear
+iter advanc
+inf distanc getlinfdist spars real vector sparserealvector
+entri kei containskei kei
+iter entri getentri iter
+kei iter kei
+iter hasnext
+spars real vector sparserealvector real vector realvector
+delta max
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+optim method comput inf distanc linfdist
+max iter
+delta math ab iter entri getentri iter kei
+max delta
+iter max

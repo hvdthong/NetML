@@ -1,0 +1,6 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+remov child removechild program element iprogramel child
+child set parent setpar
+children remov child

@@ -1,0 +1,6 @@
+src/java/org/apache/lucene/search/BooleanQuery$BooleanWeight_BooleanWeight-Searcher_<init>
+src/java/org/apache/lucene/search/BooleanQuery$BooleanWeight_explain-IndexReader-int_Explanation
+src/java/org/apache/lucene/search/BooleanQuery$BooleanWeight_scorer-IndexReader-boolean-boolean_Scorer
+src/java/org/apache/lucene/search/BooleanScorer2_BooleanScorer2-Similarity-int-List<Scorer>-List<Scorer>-List<Scorer>_<init>
+src/java/org/apache/lucene/search/BooleanScorer2$Coordinator_init_void
+src/java/org/apache/lucene/search/BooleanScorer_BooleanScorer-Similarity-int-List<Scorer>-List<Scorer>_<init>

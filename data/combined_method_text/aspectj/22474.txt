@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+pattern parser patternpars
+method parsewithinpointcut
+return pointcut
+pointcut pars pointcut parsewithinpointcut
+parseidentifi
+eat
+type pattern typepattern type pars type pattern parsetypepattern
+eat
+pointcut withinpointcut type

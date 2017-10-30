@@ -1,0 +1,14 @@
+org aspectj apach bcel classfil annot
+annot immut object annotationgen mutabl variant basic list
+pair
+annot
+string string tostr
+string buffer stringbuff string buffer stringbuff
+append annot type signatur gettypesignatur
+runtim visibl isruntimevis runtimevis runtimeinvis
+iter iter ev iter iter hasnext
+element pair elementnamevaluepair element element pair elementnamevaluepair iter
+append element string tostr
+iter hasnext append
+append
+string tostr

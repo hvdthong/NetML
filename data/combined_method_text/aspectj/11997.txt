@@ -1,0 +1,42 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+creat node packag root add
+program element iprogramel gen add node genaddtonod
+compil unit declar compilationunitdeclar unit
+hierarchi ihierarchi structur model structuremodel
+program element iprogramel add node addtonod
+import refer importrefer current packag currentpackag unit current packag currentpackag
+current packag currentpackag
+add node addtonod structur model structuremodel root getroot
+string pkg pkgname
+string buffer stringbuff buffer namebuff string buffer stringbuff
+import importnam current packag currentpackag import getimportnam
+import importnam length
+import importnam length
+buffer namebuff append string import importnam
+buffer namebuff append
+pkg pkgname buffer namebuff string tostr
+program element iprogramel pkg node pkgnode
+structur model structuremodel structur model structuremodel root getroot structur model structuremodel root getroot children getchildren
+iter structur model structuremodel root getroot children getchildren iter
+hasnext
+program element iprogramel curr node currnod program element iprogramel
+pkg pkgname equal curr node currnod getnam
+pkg node pkgnode curr node currnod
+pkg node pkgnode
+note packag sourc locat
+pkg node pkgnode program element programel
+pkg pkgname
+program element iprogramel kind packag
+arrai list arraylist
+structur model structuremodel root getroot add child addchild pkg node pkgnode
+add node addtonod pkg node pkgnode
+add node addtonod

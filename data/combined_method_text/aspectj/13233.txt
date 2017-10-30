@@ -1,0 +1,19 @@
+org aspectj apach bcel gener
+class build constant pool user add
+constant addxxx' method addstring' addclass'
+method return index constant
+pool final getfinalconstantpool return constant pool
+built intermedi version constant pool
+obtain getconstantpool constant pool capac
+constant max short entri note
+jvm doubl long constant slot
+version constantpoolgen java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+constant pool gen constantpoolgen java serializ
+add refer arrai class string need multianewarrai
+instruct constantpool
+param type type arrai class
+return index entri
+add arrai class addarrayclass arrai type arraytyp type
+add class addclass type signatur getsignatur

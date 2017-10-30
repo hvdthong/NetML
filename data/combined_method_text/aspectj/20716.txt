@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+field gen fieldgen make field gen makefieldgen lazi class gen lazyclassgen gen resolv member resolvedmemb member
+field gen fieldgen
+member modifi getmodifi
+bcel world bcelworld make bcel type makebceltyp member return type getreturntyp
+member getnam
+gen constant pool gen getconstantpoolgen

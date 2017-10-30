@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+bind annot type pattern bindingannotationtypepattern exact annot type pattern exactannotationtypepattern bind pattern bindingpattern
+formal index getformalindex
+formal index formalindex

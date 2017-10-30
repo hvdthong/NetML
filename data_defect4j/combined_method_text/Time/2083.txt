@@ -1,0 +1,23 @@
+author stephen colebourn
+data code period type periodtyp code code code
+check updat checkandupd durat field type durationfieldtyp minut valu newvalu minut
+check updat checkandupd durat field type durationfieldtyp month valu newvalu month
+org joda time base
+author brian neill o'neil
+hour minut second milli
+privat method call constructor
+base period baseperiod implement readabl period readableperiod store
+check updat checkandupd durat field type durationfieldtyp milli valu newvalu milli
+valu newvalu size
+check updat checkandupd durat field type durationfieldtyp hour valu newvalu hour
+check updat checkandupd durat field type durationfieldtyp year valu newvalu year
+base period baseperiod subclass mutabl thread safe
+set period intern setperiodintern year month week dai
+check updat checkandupd durat field type durationfieldtyp second valu newvalu second
+valu newvalu
+check updat checkandupd durat field type durationfieldtyp week valu newvalu week
+kind period object referenc
+link readabl period readableperiod
+check updat checkandupd durat field type durationfieldtyp dai valu newvalu dai
+base period baseperiod
+gener directli api user

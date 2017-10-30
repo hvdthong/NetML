@@ -1,0 +1,24 @@
+org aspectj apach bcel gener
+super class x2y famili instruct
+version conversioninstruct java aclement exp
+author href mailto marku dahm berlin dahm
+convers instruct conversioninstruct instruct
+return type instruct
+type type gettyp constant pool gen constantpoolgen
+opcod
+constant d2i constant f2i constant l2i
+type int
+constant d2f constant i2f constant l2f
+type float
+constant d2l constant f2l constant i2l
+type long
+constant f2d constant i2d constant l2d
+type doubl
+constant i2b
+type byte
+constant i2c
+type char
+constant i2
+type short
+default reach
+class gen except classgenexcept unknown type opcod

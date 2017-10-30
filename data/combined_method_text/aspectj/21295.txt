@@ -1,0 +1,11 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+check class store gener class cach
+flush cach empti
+param classnam todo
+return true class gener store cach
+gener class exist generatedclassesexistfor string class classnam
+system err println classloaderweavingadaptor generatedclassesexist classnam classnam size generatedclass
+class classnam gener class generatedclass empti isempti
+gener class generatedclass kei containskei class classnam

@@ -1,0 +1,16 @@
+org aspectj ajdt intern compil ast
+walk bodi advic
+make member access public member
+convert access method need ensur
+make simpler modular inlin bodi
+constructor handl requir access
+target type org eclips jdt intern compil ast allocationexpress
+requir fix issu
+author jim hugunin
+access inlin visitor accessforinlinevisitor ast visitor astvisitor
+end visit endvisit alloc express allocationexpress send block scope blockscop scope
+send bind send bind valid bind isvalidbind
+xxx tbd
+public ispubl send bind
+make public makepubl send bind declar class declaringclass
+send bind handler privileg access method getprivilegedaccessmethod send bind send

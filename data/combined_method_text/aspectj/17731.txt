@@ -1,0 +1,50 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+expand argfil expandargfil file argfil list includ list argument
+log argfil argfil project msg verbos msg verbos
+path rel parent
+file parent argfil parent file getparentfil
+saniti check
+parent parent exist parent directori isdirectori
+read file
+buffer reader bufferedread
+buffer reader bufferedread file reader fileread argfil
+string line
+line read line readlin
+line line trim
+skip blank line
+equal line
+line comment
+isharp line index indexof
+isharp
+line line substr isharp
+int istar
+argument
+line start startswith
+argument add line
+star resolv file
+line index indexof
+log argfil line line invalid
+project msg warn msg warn
+argfil
+line start startswith
+string argfil newargfilenam line substr
+file argfil newargfil file parent argfil newargfilenam
+expand argfil expandargfil argfil newargfil includ argument
+sourc file
+file newfil file line
+newfil absolut isabsolut
+newfil file parent line
+newfil newfil exist
+newfil directori isdirectori
+newfil getnam end endswith java
+includ add newfil
+except ioexcept ioe
+log troubl argfil argfil ioe project msg err msg err
+close
+except ioexcept ioe2

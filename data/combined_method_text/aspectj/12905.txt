@@ -1,0 +1,18 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+convert byte hexidecim string
+return byte hexidecim string
+string hex string tohexstr byte
+string buffer stringbuff buf string buffer stringbuff
+byte length
+byte short bytetoshort byte
+string hex integ string tostr
+digit prepend
+buf append
+buf append hex
+byte length buf append
+buf string tostr

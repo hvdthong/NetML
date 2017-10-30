@@ -1,0 +1,46 @@
+overrid
+set set set set set set set set set set set set set set set
+fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt
+storepayload
+ensur
+fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset
+open
+payload payload payload
+size
+segmentread
+index index index index index index index index index index index index index index index index index index index index index index index index
+getfieldnam getfieldnam
+isindex isindex isindex isindex
+apach apach
+field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field
+add add add add add add add add add add add
+experiment
+storepositionwithtermvector storepositionwithtermvector storepositionwithtermvector storepositionwithtermvector
+reader reader reader reader reader reader reader reader reader reader reader reader reader reader
+ensureopen
+indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread
+store store store store store store store store store store store store store store
+core core
+hash
+option option option option option option option option option option option option option option option option option option option option option option option option
+hashset
+storeoffsetwithtermvector storeoffsetwithtermvector storeoffsetwithtermvector storeoffsetwithtermvector
+offset offset offset offset offset offset offset offset
+org org
+freq freq freq
+segment
+string string string
+info info info info
+term term term term term term term term term term term term term term
+unindex
+name
+storetermvector storetermvector storetermvector
+termvector termvector termvector termvector termvector termvector termvector termvector termvector termvector termvector
+omit omit omit
+omittermfreqandposit
+collect
+vector vector vector vector vector vector vector vector vector vector vector
+lucen lucen lucen
+cloneabl
+posit posit posit posit posit posit posit posit posit posit posit
+fieldinfo fieldinfo fieldinfo fieldinfo

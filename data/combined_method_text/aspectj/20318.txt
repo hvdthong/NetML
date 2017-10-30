@@ -1,0 +1,26 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+bcel class weaver bcelclassweav
+bcel world bcelworld world
+lazi class gen lazyclassgen clazz
+list shadow munger shadowmung
+list type munger typemung
+list late type munger latetypemung
+assert world clazz gettyp getworld
+world world
+clazz clazz
+shadow munger shadowmung shadow munger shadowmung
+type munger typemung type munger typemung
+late type munger latetypemung late type munger latetypemung
+clazz bcel object type getbcelobjecttyp
+cpg clazz constant pool gen getconstantpoolgen
+fact clazz factori getfactori
+fast match shadow munger fastmatchshadowmung shadow munger shadowmung
+initi super initi map initializesuperinitializermap resolv type getresolvedtypex
+check xset low level context captur checkedxsetforlowlevelcontextcaptur
+properti world extra configur getextraconfigur
+string properti getproperti world xset captur context xsetcaptur context fals
+captur low level context capturelowlevelcontext equal ignor case equalsignorecas true
+captur low level context capturelowlevelcontext
+world messag handler getmessagehandl handl messag handlemessag messag util messageutil info world xset captur context xsetcaptur context true enabl collect low level context debug crash messag
+check xset low level context captur checkedxsetforlowlevelcontextcaptur

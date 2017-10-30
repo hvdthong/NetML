@@ -1,0 +1,30 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+report model info reportmodelinfo string reason report reasonforreport
+dump model dumpmodel dump relationship dumprelationship
+file writer filewrit file writer filewrit dump filenam dumpfilenam
+buffer writer bufferedwrit buffer writer bufferedwrit
+dump model dumpmodel
+write model statu report reason report reasonforreport
+dumptre asm manag asmmanag default getdefault hierarchi gethierarchi root getroot
+write end model report
+dump relationship dumprelationship
+write relationship report reason report reasonforreport
+dumprel
+write end relationship report
+properti model info modelinfo summar model summarizemodel properti getproperti
+enumer pkeyenum kei
+write properti model relationship map
+pkeyenum element hasmoreel
+string pkei string pkeyenum element nextel
+write pkei properti getproperti pkei
+flush
+close
+except ioexcept
+system err println internalerror unabl report model inform
+print stack trace printstacktrac

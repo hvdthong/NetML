@@ -1,0 +1,10 @@
+org aspectj ajd swing
+repres configur structur view system render
+code structuretreemanag code
+author mik kersten
+structur view panel structureviewpanel panel jpanel structur view render structureviewrender
+highlight activ node highlightactivenod
+current view currentview activ node getactivenod
+program element iprogramel node current view currentview activ node getactivenod structur node getstructurenod
+node program element iprogramel
+tree manag treemanag highlight node highlightnod program element iprogramel node

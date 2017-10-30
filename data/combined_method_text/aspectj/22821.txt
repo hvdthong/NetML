@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+string clean name maybegetcleannam
+string param name theparamnam string type pattern typepattern length
+type pattern typepattern length
+type pattern typepattern string type pattern typepattern
+string exact type pattern exacttypepattern
+param name theparamnam exact type pattern exacttypepattern string exact type getexacttyp getnam
+param name theparamnam

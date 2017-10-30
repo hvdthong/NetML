@@ -1,0 +1,81 @@
+org aspectj weaver pattern
+pointcut ifpointcut pointcut
+pointcut concretize1 resolv type resolvedtyp aspect inaspect resolv type resolvedtyp declar type declaringtyp int map intmap bind
+system err println concret partiallyconcret
+declar isdeclar bind enclos advic getenclosingadvic
+enforc rule design support declar
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag declar declar
+bind enclos advic getenclosingadvic sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+partial concret partiallyconcret
+partial concret partiallyconcret
+pointcut ifpointcut ret
+extra paramet flag extraparameterflag test method testmethod
+style find testmethod aspect defin enclos pointcut
+resolv pointcut definit resolvedpointcutdefinit def bind peek enclos definit peekenclosingdefinit
+def
+resolv type resolvedtyp aspect aspect inaspect world getworld resolv def declar type getdeclaringtyp
+iter member iter memberit aspect method getmethod member iter memberit hasnext
+resolv member resolvedmemb method resolv member resolvedmemb member iter memberit
+def getnam equal method getnam
+def paramet type getparametertyp length method paramet type getparametertyp length
+sig samesig
+method paramet type getparametertyp length
+unresolv type unresolvedtyp arg argj method paramet type getparametertyp
+arg argj equal def paramet type getparametertyp
+sig samesig
+sig samesig
+test method testmethod method
+test method testmethod
+aspect inaspect world getworld show messag showmessag
+messag imessag error
+find bodi def string tostr enclos pointcut hint enclosingpointcuthint
+sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+test method testmethod aspect inaspect world getworld resolv bind advic signatur getadvicesignatur
+ret pointcut ifpointcut enclos pointcut hint enclosingpointcuthint
+ret test method testmethod test method testmethod
+ret pointcut ifpointcut test method testmethod extra paramet flag extraparameterflag
+ret copi locat copylocationfrom
+partial concret partiallyconcret ret
+directli code pointcut express claus
+defin pointcut declar referenc
+claus problem bug
+polic code pointcut claus
+put compil error
+bind directli advic directlyinadvic bind enclos advic getenclosingadvic
+assumpt claus directli advic
+enclos advic
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag perclaus perclaus
+sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+bind directli advic directlyinadvic
+shadow munger shadowmung advic bind enclos advic getenclosingadvic
+advic advic
+ret base arg count baseargscount advic advic base paramet count getbaseparametercount
+ret base arg count baseargscount
+ret residu sourc residuesourc advic pointcut getpointcut concret aspect inaspect aspect inaspect ret base arg count baseargscount advic
+resolv pointcut definit resolvedpointcutdefinit def bind peek enclos definit peekenclosingdefinit
+def cflow pointcut cflowpointcut cflow marker cflow marker
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag lexic cflow lexic cflow
+sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+ret base arg count baseargscount def paramet type getparametertyp length
+style implicit bind joinpoint thing
+fixm lead failur arg test thejp arg implement
+ret extra paramet flag extraparameterflag
+ret base arg count baseargscount
+test method testmethod paramet type getparametertyp length
+string arg signatur argsignatur test method testmethod paramet type getparametertyp signatur getsignatur
+ajc member maker ajcmembermak typex joinpoint typex joinpoint signatur getsignatur equal arg signatur argsignatur
+ajc member maker ajcmembermak typex proceedingjoinpoint typex proceedingjoinpoint signatur getsignatur equal arg signatur argsignatur
+ajc member maker ajcmembermak typex staticjoinpoint typex staticjoinpoint signatur getsignatur equal arg signatur argsignatur
+ajc member maker ajcmembermak typex enclosingstaticjoinpoint typex enclosingstaticjoinpoint signatur getsignatur equal arg signatur argsignatur
+ret base arg count baseargscount
+int map intmap bind newbind int map intmap map idmap ret base arg count baseargscount
+bind newbind copi context copycontext bind
+ret residu sourc residuesourc def pointcut getpointcut concret aspect inaspect declar type declaringtyp bind newbind
+ret

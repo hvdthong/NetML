@@ -1,0 +1,20 @@
+org apach lucen store
+abstract base class input file link directori
+random access input stream lucen index input oper
+directori
+index input indexinput cloneabl closeabl
+read number byte arrai
+offset control read
+buffer caller buffer
+pass fals usebuff
+link bufferedindexinput respect paramet
+param arrai read byte
+param offset offset arrai start store byte
+param len number byte read
+param usebuff set fals caller handl
+buffer
+indexoutput writebyt byte int
+read byte readbyt offset len buffer usebuff
+except ioexcept
+default ignor usebuff
+read byte readbyt offset len

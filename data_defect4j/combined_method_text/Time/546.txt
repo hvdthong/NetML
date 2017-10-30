@@ -1,0 +1,21 @@
+author stephen colebourn
+period hour
+type safe repres number hour applic
+creat code hour code repres number hour
+param start start instant
+code divid dividedbi code
+param end end instant
+code hour code immut period store hour
+code hour code thread safe immut
+code code code minu code code multipli multipliedbi code
+hour hour amount
+store year month minut
+number hour set constructor queri
+illeg argument except illegalargumentexcept instant invalid
+code hour gethour code basic mathemat oper provid
+immut time period repres number hour
+hour base singl field period basesinglefieldperiod
+hour hour hoursbetween readabl instant readableinst start readabl instant readableinst end
+datetim
+org joda time
+amount base singl field period basesinglefieldperiod start end durat field type durationfieldtyp hour

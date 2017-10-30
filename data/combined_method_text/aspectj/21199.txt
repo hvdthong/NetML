@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+util
+instruct creat invok createinvok
+instruct factori instructionfactori fact
+java class javaclass declar class declaringclass
+method method newmethod
+kind
+method newmethod interfac isinterfac
+kind constant invokeinterfac
+method newmethod static isstat
+kind constant invokestat
+method newmethod privat ispriv method newmethod getnam equal init
+kind constant invokespeci
+kind constant invokevirtu
+fact creat invok createinvok
+declar class declaringclass class getclassnam
+method newmethod getnam
+type return type getreturntyp method newmethod signatur getsignatur
+type argument type getargumenttyp method newmethod signatur getsignatur
+kind

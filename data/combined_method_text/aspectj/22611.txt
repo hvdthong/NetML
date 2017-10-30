@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+author colyer
+perform term rewrit pointcut express
+pointcut rewrit pointcutrewrit
+collect node collectandnod pointcut andpointcut apc set node nodessofar
+pointcut left apc left getleft
+pointcut apc getright
+isand left
+collect node collectandnod pointcut andpointcut left node nodessofar
+node nodessofar add left
+isand
+collect node collectandnod pointcut andpointcut node nodessofar
+node nodessofar add

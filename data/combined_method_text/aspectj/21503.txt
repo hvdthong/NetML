@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+left
+bind formal explicitli forbidden composit languag
+author erik hilsdal
+author jim hugunin
+type pattern andtypepattern type pattern typepattern
+equal object obj
+obj type pattern andtypepattern
+type pattern andtypepattern atp type pattern andtypepattern obj
+left equal atp left equal atp

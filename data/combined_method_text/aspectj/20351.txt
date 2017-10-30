@@ -1,0 +1,31 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+inlin call bytecod
+param donor method inlin
+param recipi method call inlin
+param call instructionhandl recipient' bodi hold call
+inlin
+inlin method inlinemethod
+lazi method gen lazymethodgen donor
+lazi method gen lazymethodgen recipi
+instruct handl instructionhandl call
+assert recipi call
+implement note
+alloc slot tempvar screw
+long doubl share space conserv avoid
+refer long doubl instruct pack
+bother pack
+alloc var formal param inlin fill stack
+content copi inlin instruct remap
+tabl frameloc local inlin realloc top
+frame
+instruct factori instructionfactori fact recipi enclos class getenclosingclass factori getfactori
+int map intmap frame env frameenv int map intmap
+set initi environ
+instruct list instructionlist argument store argumentstor
+gen argument store genargumentstor donor recipi frame env frameenv fact
+instruct list instructionlist inlin instruct inlineinstruct
+gen inlin instruct geninlineinstruct donor recipi frame env frameenv fact
+inlin instruct inlineinstruct insert argument store argumentstor
+recipi bodi getbodi append call inlin instruct inlineinstruct
+util delet instruct deleteinstruct call recipi

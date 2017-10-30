@@ -1,0 +1,8 @@
+construct solver
+brent optim brentoptim
+org apach common math optim univari
+univari function
+brent optim brentoptim abstract univari real optim abstractunivariaterealoptim
+version revis date
+implement richard brent' algorithm book algorithm
+minim deriv find minima real

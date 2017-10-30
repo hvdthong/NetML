@@ -1,0 +1,13 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+join point visitor thisjoinpointvisitor ast visitor astvisitor
+join point visitor thisjoinpointvisitor abstract method declar abstractmethoddeclar method
+method method
+index method argument length
+join point static part dec local thisjoinpointstaticpartdecloc method scope local index
+join point static part dec thisjoinpointstaticpartdec method argument index bind
+join point dec local thisjoinpointdecloc method scope local index
+join point dec thisjoinpointdec method argument index bind
+enclos join point static part dec local thisenclosingjoinpointstaticpartdecloc method scope local index
+enclos join point static part dec thisenclosingjoinpointstaticpartdec method argument index bind

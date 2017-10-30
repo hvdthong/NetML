@@ -1,0 +1,6 @@
+org apach lucen index
+segment term posit segmenttermposit
+skip payload skippayload except ioexcept
+load payload needtoloadpayload payload length payloadlength
+prox stream proxstream seek prox stream proxstream file pointer getfilepoint payload length payloadlength
+load payload needtoloadpayload

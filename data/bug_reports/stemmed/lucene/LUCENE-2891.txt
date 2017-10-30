@@ -1,0 +1,3 @@
+indexwriterconfig readertermsindexdivisor latest term index load
+pass open document indexwrit reader iwc block set add support test randomli set robert suggest randomiw randomli open reader
+work patch

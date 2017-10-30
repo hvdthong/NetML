@@ -1,0 +1,11 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb type creat aspect instanc pertypewithincreateaspectinst unresolv type unresolvedtyp declar type declaringtyp
+public static ajc createaspectinst java lang string
+resolv member impl resolvedmemberimpl resolv member impl resolvedmemberimpl
+member method
+declar type declaringtyp
+public static public static
+declar type declaringtyp declaringtyp return
+mangler namemangl pertypewithin createaspectinst method pertypewithin createaspectinst method
+unresolv type unresolvedtyp unresolv type unresolvedtyp signatur forsignatur ljava lang string unresolv type unresolvedtyp

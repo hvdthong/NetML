@@ -1,0 +1,20 @@
+org aspectj weaver
+kind advic aspectj
+author erik hilsdal
+author jim hugunin
+advic kind advicekind type safe enum typesafeenum
+advic kind advicekind read version data input stream versioneddatainputstream except ioexcept
+kei read byte readbyt
+kei
+throw afterthrow
+return afterreturn
+cflow entri cflowentri
+cflow entri cflowbelowentri
+inter initi interiniti
+cflow entri percflowentri
+cflow entri percflowbelowentri
+entri perthisentri
+target entri pertargetentri
+soften
+type entri pertypewithinentri
+runtim except runtimeexcept unimpl kind kei

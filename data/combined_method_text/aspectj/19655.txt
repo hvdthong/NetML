@@ -1,0 +1,19 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+list expos pointcut getexposedpointcut
+list ret arrai list arraylist
+superclass getsuperclass ret add addal superclass getsuperclass expos pointcut getexposedpointcut
+iter arrai list aslist declar interfac getdeclaredinterfac iter hasnext
+resolv type resolvedtyp resolv type resolvedtyp
+add pointcut resolv conflict addpointcutsresolvingconflict ret arrai list aslist declar pointcut getdeclaredpointcut
+add pointcut resolv conflict addpointcutsresolvingconflict ret arrai list aslist declar pointcut getdeclaredpointcut
+iter ret iter hasnext
+resolv pointcut definit resolvedpointcutdefinit inherit resolv pointcut definit resolvedpointcutdefinit
+system err println inherit
+system err println inherit isabstract isabstract
+inherit abstract isabstract
+abstract isabstract
+world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag poincut concret poincut concret inherit getnam
+inherit sourc locat getsourceloc sourc locat getsourceloc
+ret

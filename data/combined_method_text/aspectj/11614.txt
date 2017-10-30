@@ -1,0 +1,19 @@
+org aspectj ajdt intern compil lookup
+field refer bodi advic
+forc public access method make
+advic inlin shadow appli
+similar privilegedfieldbind relat
+intertypefieldbind common supertyp
+author jim hugunin
+inlin access field bind inlineaccessfieldbind field bind fieldbind
+inlin access field bind inlineaccessfieldbind aspect declar aspectdeclar aspect inaspect field bind fieldbind base field basefield resolv member resolvedmemb resolv field resolvedfield
+base field basefield base field basefield declar class declaringclass
+reader simpl synthet access method bind simplesyntheticaccessmethodbind
+aspect inaspect factori make method bind makemethodbind
+ajc member maker ajcmembermak inlin access method field inlineaccessmethodforfieldget
+aspect inaspect type typex resolv field resolvedfield
+writer simpl synthet access method bind simplesyntheticaccessmethodbind aspect inaspect factori make method bind makemethodbind
+ajc member maker ajcmembermak inlin access method field set inlineaccessmethodforfieldset
+aspect inaspect type typex resolv field resolvedfield
+constant constant constant notaconst
+base field basefield base field basefield

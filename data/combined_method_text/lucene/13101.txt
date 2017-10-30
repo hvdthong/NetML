@@ -1,0 +1,4 @@
+org apach lucen index
+segment term posit segmenttermposit
+segment term posit segmenttermposit segment reader segmentread
+prox stream proxstream proxstream null proxstream clone lazili nextposit call time

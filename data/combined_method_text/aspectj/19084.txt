@@ -1,0 +1,9 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+string make string makestr unresolv type unresolvedtyp type
+type
+string buffer stringbuff buf string buffer stringbuff
+len type length len
+buf append make string makestr type
+buf append
+buf string tostr

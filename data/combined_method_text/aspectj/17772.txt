@@ -1,0 +1,32 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+throw buildexcept file valid
+param file file check
+param symbol print error
+param isdir true verifi file directori
+param loc locat creat buildexcept
+return
+throw buildexcept file valid
+check file file string
+dir isdir locat loc
+loc loc loc locat
+file
+build except buildexcept null loc
+file exist
+build except buildexcept file exist loc
+dir isdir file directori isdirectori
+string file dir isdir n't
+directori
+build except buildexcept loc

@@ -1,0 +1,10 @@
+org aspectj apach bcel classfil
+class repres constant pool refer field
+version constantfieldref java aclement exp
+author href mailto marku dahm berlin dahm
+constant fieldref constantfieldref constant constantcp
+param class index refer class field
+param type index field signatur
+constant fieldref constantfieldref class index
+type index
+constant constant fieldref constant fieldref class index type index

@@ -1,0 +1,44 @@
+junit task timeout perform teardown fork true
+junit test timeout perform teardown fork set
+true lot troubl databas handl close
+server shut teardown
+junit test
+packag org
+import junit framework testcas
+public class timeouttest extend testcas
+public void setup
+system println setup
+
+public void teardown
+system println teardown
+
+public void testtimeout
+system println test start
+
+thread sleep
+catch interruptedexcept
+system println interrupt
+
+system println test finish
+
+
+ant buildfil fragment
+target test depend compil
+junit fork timeout showoutput true
+classpath path class
+test org timeouttest
+junit
+target
+run test timeout output consol show teardown
+method execut
+test
+junit setup
+junit test start
+junit test org timeouttest fail timeout
+timeout properti buildfil set test timeout
+output consol
+test
+junit setup
+junit test start
+junit test finish
+junit teardown

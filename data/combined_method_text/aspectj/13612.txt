@@ -1,0 +1,22 @@
+org aspectj apach bcel gener
+getstat fetch static field class
+pre stack pre
+pre stack word1 word2 pre
+version getstat java aclement exp
+author href mailto marku dahm berlin dahm
+getstat field instruct fieldinstruct push instruct pushinstruct except thrower exceptionthrow
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit stack produc visitstackproduc
+visit push instruct visitpushinstruct
+visit except thrower visitexceptionthrow
+visit type instruct visittypedinstruct
+visit load class visitloadclass
+visit instruct visitcpinstruct
+visit field method visitfieldormethod
+visit field instruct visitfieldinstruct
+visit getstat visitgetstat

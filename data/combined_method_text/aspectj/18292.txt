@@ -1,0 +1,6 @@
+org aspectj util
+reflect
+run main runmaininsamevm class main class mainclass string arg secur except securityexcept method except nosuchmethodexcept illeg argument except illegalargumentexcept illeg access except illegalaccessexcept invoc target except invocationtargetexcept
+lang util langutil throw iax null throwiaxifnul main class mainclass main class
+method main main class mainclass method getmethod main main parm type main parm type
+main invok object arg

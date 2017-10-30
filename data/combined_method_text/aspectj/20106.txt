@@ -1,0 +1,34 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+attempt resolv type gener type
+resolv type resolvedtyp resolv gener type resolvegenerictypefor unresolv type unresolvedtyp unresolv type anunresolvedtyp miss allowmiss
+raw type signatur
+string raw signatur rawsignatur unresolv type anunresolvedtyp raw type getrawtyp signatur getsignatur
+resolv type resolvedtyp raw type rawtyp resolv type resolvedtyp type map typemap raw signatur rawsignatur
+raw type rawtyp
+raw type rawtyp resolv unresolv type unresolvedtyp signatur forsignatur raw signatur rawsignatur miss allowmiss
+type map typemap put raw signatur rawsignatur raw type rawtyp
+raw type rawtyp miss ismiss raw type rawtyp
+raw type gener form creat
+raw type sourc type creat
+referenc java util list
+resolv type resolvedtyp gener type generictyp raw type rawtyp gener type getgenerictyp
+special case testgenericsbang pr95993 highlight
+unresolvedtyp parameter type
+back simpl type gener type occur
+type gener type inherit enclos type
+type variabl
+raw type rawtyp simpl type issimpletyp unresolv type anunresolvedtyp type paramet typeparamet unresolv type anunresolvedtyp type paramet typeparamet length
+raw type rawtyp world
+raw type rawtyp
+gener type generictyp
+gener type generictyp world
+gener type generictyp
+fault gener underpin raw type
+refer type deleg referencetypedeleg deleg resolv deleg resolvedeleg refer type referencetyp raw type rawtyp
+refer type referencetyp gener ref type genericreftyp make gener type makegenerictypefrom deleg refer type referencetyp raw type rawtyp
+refer type referencetyp raw type rawtyp set gener type setgenerictyp gener ref type genericreftyp
+gener ref type genericreftyp set deleg setdeleg deleg
+refer type referencetyp raw type rawtyp set deleg setdeleg deleg
+gener ref type genericreftyp

@@ -1,0 +1,12 @@
+org aspectj intern tool ant taskdef
+instal ajinstal match task matchingtask
+write content writecont zip output stream zipoutputstream zout except ioexcept
+write stringbuff
+string buffer stringbuff buf string buffer stringbuff
+buf append content byte contentsbyt
+buf append newlin
+iter content name contentsnam iter hasnext
+string string
+buf append
+buf append newlin
+zip file zipfil string buffer input stream stringbufferinputstream buf string tostr zout content file content file system current time milli currenttimemilli

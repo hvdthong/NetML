@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math genet
+
+
+
+
+
+
+popul chromosom repres link list
+
+
+version revis date
+
+list popul listpopul popul
+
+
+
+
+
+
+
+
+
+creat list popul listpopul instanc
+
+param chromosom list chromosom popul
+param popul limit populationlimit maxim size popul
+
+list popul listpopul list chromosom chromosom popul limit populationlimit
+chromosom size popul limit populationlimit
+illeg argument except illegalargumentexcept list chromosom bigger max popul size maxpopulations
+
+popul limit populationlimit
+illeg argument except illegalargumentexcept popul limit
+
+
+chromosom chromosom
+popul limit populationlimit popul limit populationlimit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

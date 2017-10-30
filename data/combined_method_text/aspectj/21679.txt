@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+marker interfac bindingtypepattern bindingannotationtypepattern
+bind pattern bindingpattern posit ihasposit
+formal index getformalindex

@@ -1,0 +1,9 @@
+org aspectj bridg
+imessagehandl implement write printwrit
+client set throw abortexcept fail error messag
+subclass control messag print
+render overrid render imessag
+messag writer messagewrit messag handler imessagehandl
+return null print messag render includ newlin
+string render messag imessag messag
+messag string tostr

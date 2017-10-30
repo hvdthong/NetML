@@ -1,0 +1,15 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+eclips sourc type eclipsesourcetyp refer type referencetyp resolv type resolvedtypex eclips factori eclipsefactori factori
+sourc type bind sourcetypebind bind type declar typedeclar declar
+compil unit declar compilationunitdeclar unit
+resolv type resolvedtypex
+factori factori
+bind bind
+declar declar
+unit unit
+set sourc context setsourcecontext eclips sourc context eclipsesourcecontext declar compil result compilationresult
+resolv type resolvedtypex set start po setstartpo declar sourc start sourcestart
+resolv type resolvedtypex set end po setendpo declar sourc end sourceend

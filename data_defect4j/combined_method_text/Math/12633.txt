@@ -1,0 +1,24 @@
+loc1 locat insid loc2 locat insid v1d
+org apach common math3 geometri euclidean threed
+repres subset link line
+intersect method link line line addit
+check locat point respect line
+includ end point includeendpoint
+intersect instanc line
+param line sublin line intersect instanc
+locat loc2 line sublin remain region remainingregion check point checkpoint line sublin line space tosubspac v1d
+vector3 vector3d v1d line intersect line sublin line
+method relat link line intersect line
+version
+locat loc1 remain region remainingregion check point checkpoint line space tosubspac v1d
+param includ end point includeendpoint endpoint consid belong
+instanc close set return endpoint
+comput point infinit line check point
+vector3 vector3d intersect line sublin line sublin includ end point includeendpoint
+li line rang
+comput intersect infinit line
+consid belong instanc open set intersect
+loc1 locat loc2 locat v1d
+intersect point line intersect
+occur endpoint lead return
+line sublin

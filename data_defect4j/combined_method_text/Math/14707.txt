@@ -1,0 +1,8 @@
+linear constraint set linearconstraintset optim data optimizationdata
+constraint
+set linear constraint
+org apach common math3 optim linear
+collect unmodifi set unmodifiableset linear constraint linearconstraint
+version
+collect linear constraint linearconstraint constraint getconstraint
+class repres set link linear constraint linearconstraint linear constraint

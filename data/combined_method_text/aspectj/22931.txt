@@ -1,0 +1,51 @@
+org aspectj weaver pattern
+patternpars creat wildtypepattern type pattern pointcut
+express directli turn typepattern
+resolvebind work turn type
+pattern match exacttypepattern
+wildtypepattern
+process pan gener parameter pattern
+genericswildtypepatternresolvingtestcas
+foo foo exist gener
+parser creat wildtypepattern namepattern foo
+resolvebind resolv foo foo raw
+return exacttypepattern lfoo
+foo string foo exist string meet bound
+parser creat wildtypepattern namepattern foo typeparamet wtp string
+resolvebind resolv typeparamet exacttypepattern string
+resolv foo foo
+return exacttypepattern pfoo string parameter
+foo str foo exist take bound
+parser creat wildtypepattern namepattern foo typeparamet wtp str
+resolvebind resolv typeparamet wtp str
+resolv foo foo
+return wildtypepattern foo typeparamet wtp str isgener fals
+string
+parser creat wildtypepattern namepattern typeparamet wtp string
+resolvebind resolv typeparamet etp string
+return wildtypepattern typeparamet etp string isgener fals
+foo
+foo extend number
+foo extend number
+foo super number
+wild type pattern wildtypepattern type pattern typepattern
+match innermatchesexactli name anonym isanonym
+name length nameslength name length
+pattern length patternslength pattern namepattern length
+name index namesindex
+pattern index patternsindex
+pattern namepattern pattern length patternslength isani anonym isanonym
+ellipsi count ellipsiscount
+name length nameslength pattern length patternslength
+pattern index patternsindex pattern length patternslength
+pattern namepattern pattern index patternsindex match name name index namesindex
+ellipsi count ellipsiscount
+name length nameslength pattern length patternslength
+pattern index patternsindex pattern length patternslength
+pattern namepattern pattern namepattern pattern index patternsindex
+pattern namepattern ellipsi
+name index namesindex name length nameslength pattern length patternslength pattern index patternsindex
+match name name index namesindex
+system err print match arrai aslist namepattern arrai aslist name
+star outofstar pattern namepattern name pattern length patternslength ellipsi count ellipsiscount name length nameslength ellipsi count ellipsiscount
+system err println

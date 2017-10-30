@@ -1,0 +1,20 @@
+column vector column indic start
+column index invalid
+real matrix realmatrix
+version
+param column column fetch
+org apach common math linear
+interfac defin real valu matrix basic algebra oper
+matrix element index base code entri getentri code
+org apach common math except rang except outofrangeexcept
+return element row column matrix
+vector column indic start
+real matrix realmatrix serializ
+real matrix realmatrix matrix anymatrix
+real vector realvector column vector getcolumnvector column matrix index except matrixindexexcept
+version revis date
+entri column index
+matrix index except matrixindexexcept column index invalid
+column vector
+return entri column number code column code
+real vector realvector column vector getcolumnvector column

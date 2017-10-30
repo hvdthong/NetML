@@ -1,0 +1,10 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+return true ignor unuseddeclaredthrownexcept fals
+compil option set error warn
+ignor unus declar thrown except isignoringunuseddeclaredthrownexcept
+0x800000 compileropt unuseddeclaredthrownexcept
+astnod bit24
+error threshold errorthreshold
+warn threshold warningthreshold

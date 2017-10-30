@@ -1,0 +1,13 @@
+org aspectj ajd core
+interfac configur requir
+compil perform build
+compil configur icompilerconfigur
+return tabl current custom java option
+complet descript configur option
+link org aspectj ajd core javaopt getdefaultjavaopt
+link org aspectj org eclips jdt core ijavaproject getopt boolean
+return tabl current set option
+kei type code string code type code string code
+org aspectj ajd core javaopt getdefaultjavaopt
+org aspectj org eclips jdt core ijavaproject getopt boolean
+map java option map getjavaoptionsmap public map string string getjavaoptionsmap

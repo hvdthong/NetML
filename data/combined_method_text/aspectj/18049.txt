@@ -1,0 +1,8 @@
+org aspectj util
+file util fileutil
+alia code pipe 100l fals fals code
+param inputstream sourc read
+param outputstream sink write
+pipe
+input stream inputstream
+output stream outputstream

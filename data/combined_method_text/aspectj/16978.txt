@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+aspectdeclar dom ast node
+ajtypedeclar
+astnod call 'perclause'
+boolean call 'privileged'
+author ajh02
+aspect declar aspectdeclar type declar ajtypedeclar
+set aspect privileg
+param isprivileg code true code privileg aspect
+declar code fals code
+set privileg setprivileg privileg isprivileg
+pre chang prevaluechang privileg properti privileg properti
+privileg isprivileg privileg isprivileg
+post chang postvaluechang privileg properti privileg properti

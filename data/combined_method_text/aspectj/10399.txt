@@ -1,0 +1,22 @@
+org aspectj ajd intern
+read write build configur lst file
+author mik kersten
+lst build config file updat lstbuildconfigfileupdat
+read entri configur file
+list read config file readconfigfil string file path filepath
+file config file configfil file file path filepath
+config file configfil exist
+messag msg messag config file file path filepath
+exist updat fail messag imessag warn
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg
+list file content filecont arrai list arraylist
+buffer reader bufferedread reader buffer reader bufferedread file reader fileread config file configfil
+string line reader read line readlin
+line
+file content filecont add line replac
+line reader read line readlin
+reader close
+file content filecont
+except ioexcept ioe
+messag msg messag updat build config file messag imessag error ioe
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

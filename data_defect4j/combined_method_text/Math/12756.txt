@@ -1,0 +1,7 @@
+repres region set polygon
+vector2 vector2d locat getloc
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+locat
+org apach common math3 geometri euclidean twod
+vertex locat

@@ -1,0 +1,92 @@
+param state vector step end time reset event
+current event currentev step accept stepaccept event eventt event eventi
+initi event state need
+inherit doc inheritdoc
+step handler stephandl handler step handler stephandl
+reset needreset reset needreset state reset event eventt event complet eventycomplet
+abstract integr abstractintegr order integr firstorderintegr
+equat mapper equationsmapp secondari expand secondari mapper getsecondarymapp
+previou previoust event eventt
+trigger event
+iter remov
+sort set sortedset event state eventst occur event occuringev tree set treeset event state eventst compar event state eventst
+expand primari mapper getprimarymapp insert equat data insertequationdata interpol interpol state getinterpolatedst
+number function evalu exceed
+system arraycopi event complet eventycomplet length
+current currentt interpol global current time getglobalcurrenttim
+param dot ydot placehold arrai put time deriv state vector
+order sign orderingsign doubl compar es0 event time geteventtim es1 event time geteventtim
+current currenti interpol interpol state getinterpolatedst
+system arraycopi event eventi length
+part step event
+event eventi interpol interpol state getinterpolatedst clone
+iter event state eventst iter occur event occuringev iter
+param end tend integr time
+occur event occuringev add state
+index
+advanc event state current time
+interpol set soft current time setsoftcurrenttim current currentt
+step islaststep step islaststep precis equal current currentt end tend
+event state eventst remain occur event occuringev
+interpol set interpol time setinterpolatedtim event eventt
+version
+time end step
+event state eventst state event state eventsst
+order sign orderingsign interpol forward isforward
+prepar handl remain part step
+interpol set soft previou time setsoftprevioustim previou previoust
+state step accept stepaccept current currentt current currenti
+state step accept stepaccept event eventt event complet eventycomplet
+event occur current step
+org apach common math3 od
+occur event occuringev add current event currentev
+state reiniti begin reinitializebegin interpol
+handl chronolog event
+max count exceed except maxcountexceededexcept dimens mismatch except dimensionmismatchexcept bracket except nobracketingexcept
+ask reset event stop integr step
+occur event occuringev empti isempti
+event complet eventycomplet length
+check event occur remain part step
+dot ydot end tend
+event complet eventycomplet
+event eventt
+accept step trigger event step handler
+secondari insert equat data insertequationdata interpol interpol secondari state getinterpolatedsecondaryst index
+current currenti length
+compar event state eventst es0 event state eventst es1
+remain step accept stepaccept event eventt event eventi
+restrict interpol part step event
+math illeg state except mathillegalstateexcept
+invalid deriv recomput
+previou previoust interpol global previou time getglobalprevioustim
+base manag common boilerpl integr
+state evalu step evaluatestep interpol
+step islaststep step islaststep state stop
+state event time
+handl part step event
+reset needreset
+param interpol step interpol
+except max count exceed except maxcountexceededexcept interpol
+comput deriv computederiv event eventt dot ydot
+except bracket except nobracketingexcept locat event bracket
+search event occur step
+accept step acceptstep abstract step interpol abstractstepinterpol interpol
+event state eventst current event currentev iter
+handl remain part step event
+current event currentev reset event eventt event eventi
+handler handl step handlestep interpol step islaststep
+event handler trigger
+state initi statesiniti
+event ask stop integr
+interpol set soft current time setsoftcurrenttim event eventt
+step islaststep current event currentev stop
+except dimens mismatch except dimensionmismatchexcept arrai dimens match equat set
+event eventt current event currentev event time geteventtim
+interpol set interpol time setinterpolatedtim current currentt
+current currenti
+reset occur resetoccur
+except math illeg state except mathillegalstateexcept event state evalu
+current currentt
+interpol set soft previou time setsoftprevioustim event eventt
+step islaststep
+current event currentev evalu step evaluatestep interpol

@@ -1,0 +1,75 @@
+finally block executed more than 1 time when using continuation
+Created attachment 559039
+Java code to run my example script code.
+
+User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+
+Steps to reproduce:
+
+this is my example code.
+
+function openFile()
+{
+	java.lang.System.out.println("openFile");
+	return new Object();
+}
+
+
+function doSomethingWithFile(file)
+{
+	java.lang.System.out.println("doSomethingWithFile");
+
+}
+
+function sendEventToOther()
+{
+	java.lang.System.out.println("sendEventToOther");
+
+}
+
+function doSomethingWithEvent(file , event)
+{
+	java.lang.System.out.println("doSomethingWithEvent event = " + event);
+
+}
+
+function closeFile(file)
+{
+	java.lang.System.out.println("closeFile");
+
+}
+try
+{
+       file = openFile();
+       doSomethingWithFile(file);
+       sendEventToOther();
+       event = waitSomeEvent();
+       doSomethingWithEvent(file, event);
+}
+finally
+{
+       closeFile(file);
+}
+waitSomeEvent() function throws ContinuationPending Exception, if there is no event in event queue.
+
+
+
+
+
+Actual results:
+
+this is output of above example script code.
+
+openFile
+doSomethingWithFile
+sendEventToOther
+closeFile
+doSomethingWithEvent event = hello world
+closeFile
+
+In this case, the finally block (closeFile()) is executed twice when after ContinuationPending Exception thrown and after cx.resumeContinuation() called.
+
+
+Expected results:
+
+finally block should be executed only once.

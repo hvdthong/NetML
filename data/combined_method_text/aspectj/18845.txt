@@ -1,0 +1,9 @@
+org aspectj weaver
+author colyer
+client implement iclassfileprovid set class file
+control woven weaver call weav iclassfileprovid sourc method
+contract call getrequestor acceptresult provid result
+class file recent return getclassfileiter
+class file provid iclassfileprovid
+client woven result return
+weav requestor iweaverequestor requestor getrequestor

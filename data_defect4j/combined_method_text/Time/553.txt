@@ -1,0 +1,19 @@
+author stephen colebourn
+hour hour field util fieldutil safe multipli safemultipli getvalu scalar
+param scalar amount multipli neg
+type safe repres number hour applic
+code hour gethour code basic mathemat oper provid
+immut time period repres number hour
+hour multipli multipliedbi scalar
+period multipli scalar
+hour base singl field period basesinglefieldperiod
+code divid dividedbi code
+arithmet except arithmeticexcept result overflow
+code code code minu code code multipli multipliedbi code
+org joda time
+instanc immut unaffect method call
+code hour code immut period store hour
+return instanc hour multipli scalar
+store year month minut
+number hour set constructor queri
+code hour code thread safe immut

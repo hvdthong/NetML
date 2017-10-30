@@ -1,0 +1,18 @@
+param scal absolut toler scalabsolutetoler allow absolut error
+adapt stepsiz integr
+version revis date mer nov
+max step maxstep scal absolut toler scalabsolutetoler
+higham hall54 integr highamhall54integr min step minstep max step maxstep
+integr step smaller
+creat link adapt stepsiz integr adaptivestepsizeintegr
+scal rel toler scalrelativetoler
+scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler
+factori buid link higham hall54 integr highamhall54integr higham hall integr
+provid implement function gener
+integr
+adapt stepsiz integr adaptivestepsizeintegr higham hall54 integr newhighamhall54integr min step minstep
+org apach common math od
+order integr factori impl firstorderintegratorfactoryimpl
+param scal rel toler scalrelativetoler allow rel error
+param min step minstep minim step posit backward
+param max step maxstep maxim step posit backward

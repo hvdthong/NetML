@@ -1,0 +1,8 @@
+base converg checker implement
+param pair type point pair
+rel threshold getrelativethreshold
+org apach common math3 optim
+version
+rel threshold relativethreshold
+abstract converg checker abstractconvergencecheck pair
+rel threshold

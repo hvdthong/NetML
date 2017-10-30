@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+unpack attribut unpackajattribut world world
+shadow munger associatedshadowmung
+list bcel attribut bcelattribut read attribut readajattribut declar type getdeclaringtyp class getclassnam method attribut getattribut sourc context getsourcecontext world world bcel object type bcelobjecttyp weaver version attribut getweaverversionattribut
+process attribut processattribut world
+attribut atajattribut read aj5 method attribut readaj5methodattribut method world resolv declar type getdeclaringtyp pre resolv pointcut preresolvedpointcut sourc context getsourcecontext world world messag handler getmessagehandl
+process attribut processattribut world

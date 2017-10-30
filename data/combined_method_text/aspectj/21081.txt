@@ -1,0 +1,46 @@
+org aspectj weaver bcel
+lazymethodgen treat methodgen abstract
+low level method object convert link methodgen creat
+serial
+rate wai creat lazymethodgen
+method
+work methodgen correct thing
+creation complet empti
+lazymethodgen construct code scratch
+stai target rangei thing shadow except
+lazi method gen lazymethodgen traceabl
+initi
+return type returntyp
+check configur optim
+check xset option checkedxsetopt
+properti enclos class enclosingclass world getworld extra configur getextraconfigur
+string properti getproperti optimizewithtag true
+avoid bcel gen object avoiduseofbcelgenobject equal ignor case equalsignorecas true
+avoid bcel gen object avoiduseofbcelgenobject
+enclos class enclosingclass world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil info optimizewithtag fals disabl optim tag gen
+check xset option checkedxsetopt
+system err println initi getnam enclosingclass getnam returntyp savedmethod
+method gen methodgen gen method gen methodgen save method savedmethod enclos class enclosingclass getnam enclos class enclosingclass constant pool gen getconstantpoolgen avoid bcel gen object avoiduseofbcelgenobject
+return type returntyp gen return type getreturntyp
+argument type argumenttyp gen argument type getargumenttyp
+declar except declaredexcept gen except getexcept
+attribut gen attribut getattribut
+annot gen getannot
+max local maxloc gen max local getmaxloc
+returntyp bcelworld makebceltyp memberview getreturntyp
+argumenttyp bcelworld makebceltyp memberview getparametertyp
+declaredexcept unresolvedtyp getnam memberview getexcept gen getexcept
+attribut attribut gen getattribut
+maxloc savedmethod getcod getmaxloc
+gen abstract isabstract gen nativ isn
+bodi
+bodi instructionlist savedmethod getcod getcod
+bodi gen instruct list getinstructionlist
+unpack handler unpackhandl gen
+avoid bcel gen object avoiduseofbcelgenobject
+ensur line number setup ensurealllinenumbersetup gen
+highest line number highestlinenumb gen highestlinenumb gethighestlinenumb
+unpack line number unpacklinenumb gen
+unpack local unpackloc gen
+assert good bodi assertgoodbodi
+system err println initi getclassnam getnam

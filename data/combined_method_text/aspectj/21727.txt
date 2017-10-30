@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+concret cflow pointcut concretecflowpointcut pointcut
+concret cflow pointcut concretecflowpointcut member cflow field cflowfield list slot counter usescount
+cflow field cflowfield cflow field cflowfield
+slot slot
+counter usescount counter usescount
+pointcut kind pointcutkind cflow

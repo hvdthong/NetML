@@ -1,0 +1,15 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+check file file string
+dir isdir locat loc
+loc loc loc locat getloc
+file
+build except buildexcept null loc
+file exist
+build except buildexcept file exist loc
+dir isdir file directori isdirectori
+build except buildexcept file
+dir isdir n't
+directori loc

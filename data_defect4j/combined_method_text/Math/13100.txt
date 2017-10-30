@@ -1,0 +1,23 @@
+overrid
+method implement link entri getentri access
+inherit doc inheritdoc
+abstract real matrix abstractrealmatrix
+arrai real vector arrayrealvector
+sum
+version
+row row row nrow row
+row nrow row dimens getrowdimens
+dimens mismatch except dimensionmismatchexcept
+sum entri getentri row entri getentri
+row sum
+arrai real vector arrayrealvector oper arrai real vector arrayrealvector data ref getdataref
+col ncol
+col ncol column dimens getcolumndimens
+dimens mismatch except dimensionmismatchexcept dimens getdimens col ncol
+org apach common math3 linear
+class cast except classcastexcept cce
+matrix element deriv provid faster implement
+dimens getdimens col ncol
+row nrow
+basic implement real matrix realmatrix method underli storag
+real vector realvector oper real vector realvector

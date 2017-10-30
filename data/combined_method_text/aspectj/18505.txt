@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb singleton field persingletonfield unresolv type unresolvedtyp declar type declaringtyp
+resolv member impl resolvedmemberimpl
+member field
+declar type declaringtyp
+public static final public static final
+mangler namemangl persingleton field persingleton field
+declar type declaringtyp signatur getsignatur

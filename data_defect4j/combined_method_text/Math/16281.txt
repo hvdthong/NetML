@@ -1,0 +1,24 @@
+link set varianc impl setvarianceimpl storeless univari statist storelessunivariatestatist actual paramet
+state comput statist configur setter
+implement varianc overridden call
+current valu statist
+statist summari valu statisticalsummaryvalu getmean varianc getvari getn
+method implement link storeless univari statist storelessunivariatestatist
+stream
+version
+note thread safe
+return link statist summari valu statisticalsummaryvalu instanc report current
+memori comput statist larg data
+provid implement
+summari statist summarystatist statist summari statisticalsummari serializ
+link storeless univari statist storelessunivariatestatist instanc maintain summari
+statist summari statisticalsummari summari getsummari
+org apach common math3 stat descript
+max getmax min getmin sum getsum
+call configur common math
+link add addvalu add addvalu method data valu store
+configur complet code add addvalu code
+comput summari statist stream data valu ad
+link synchron summari statist synchronizedsummarystatist concurr access multipl
+statist
+thread requir

@@ -1,0 +1,6 @@
+src/org/mozilla/javascript/Interpreter_interpretLoop-Context-CallFrame-Object_Object
+src/org/mozilla/javascript/ast/ForInLoop_toSource-int_String
+src/org/mozilla/javascript/ast/ForLoop_toSource-int_String
+src/org/mozilla/javascript/ast/IfStatement_toSource-int_String
+src/org/mozilla/javascript/ast/WhileLoop_toSource-int_String
+src/org/mozilla/javascript/ast/WithStatement_toSource-int_String

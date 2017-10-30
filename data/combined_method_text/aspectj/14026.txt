@@ -1,0 +1,17 @@
+org aspectj apach bcel gener
+lneg negat long
+pre stack word1 word2 result word1 result word2 pre
+version lneg java aclement exp
+author href mailto marku dahm berlin dahm
+lneg arithmet instruct arithmeticinstruct
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit type instruct visittypedinstruct
+visit stack produc visitstackproduc
+visit stack consum visitstackconsum
+visit arithmet instruct visitarithmeticinstruct
+visit lneg visitlneg

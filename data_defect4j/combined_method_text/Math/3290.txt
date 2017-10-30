@@ -1,0 +1,38 @@
+co
+line hyperplan euclidean2 euclidean2d embed euclidean2 euclidean2d euclidean1 euclidean1d
+orient line defin prolong line
+line orient
+unambigu identifi left half plane half
+reset instanc built point
+angular direct trigonometr orient
+angl fast math fastmath fast math fastmath atan2
+reset vector2 vector2d vector2 vector2d
+half plane set point posit offset
+plane identifi interior exterior
+param point
+version
+line point plane uniqu identifi
+plane suffici select specif point
+orient half plane side
+sin
+simpl local properti part line
+origin offset originoffset getx geti getx geti
+abscissa line offset
+repres orient line plane
+fast math fastmath hypot
+coordin line set point offset
+segment point past point point
+orthogon vector orient left half plane half
+origin offset originoffset geti
+left half plane set point neg offset
+getx getx
+angl
+line complet defin refer frame
+geti geti
+defin part polygon boundari
+org apach common math geometri euclidean twod
+line orthogon project origin refer frame
+sin fast math fastmath sin angl
+line unit vector line direct
+co fast math fastmath co angl
+plane defin coordin process

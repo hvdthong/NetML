@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+util
+creat invok instruct
+param fact
+param kind invokeinterfac invokevirtu
+param member
+return
+instruct creat invok createinvok
+instruct factori instructionfactori fact
+kind
+member member
+fact creat invok createinvok
+member declar type getdeclaringtyp getnam
+member getnam
+bcel world bcelworld make bcel type makebceltyp member return type getreturntyp
+bcel world bcelworld make bcel type makebceltyp member paramet type getparametertyp
+kind

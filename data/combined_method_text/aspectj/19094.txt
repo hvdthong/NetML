@@ -1,0 +1,9 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+member pointcut unresolv type unresolvedtyp decl declti mod unresolv type unresolvedtyp rty string unresolv type unresolvedtyp param ty paramti
+member impl memberimpl
+pointcut
+decl declti
+mod
+rty
+param ty paramti

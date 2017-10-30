@@ -1,0 +1,24 @@
+org aspectj weaver
+repres type variabl bound
+type variabl typevari
+match bound matchingbound type variabl refer type typevariablereferencetyp tvrt
+tvrt upper bound getupperbound upper bound getupperbound
+tvrt lower bound haslowerbound lower bound getlowerbound
+tvrt lower bound haslowerbound tvrt lower bound getlowerbound lower bound getlowerbound
+bound bound
+refer type referencetyp tvrt bound tvrtbound tvrt addit bound getadditionalbound
+tvrt bound tvrtbound addit interfac bound additionalinterfacebound
+addit interfac bound additionalinterfacebound
+bound compar
+tvrt bound tvrtbound length addit interfac bound additionalinterfacebound length
+set aandnotb hash set hashset
+set bandnota hash set hashset
+addit interfac bound additionalinterfacebound length
+aandnotb add addit interfac bound additionalinterfacebound
+tvrt bound tvrtbound length
+bandnota add tvrt bound tvrtbound
+addit interfac bound additionalinterfacebound length
+bandnota remov addit interfac bound additionalinterfacebound
+tvrt bound tvrtbound length
+aandnotb remov tvrt bound tvrtbound
+aandnotb empti isempti bandnota empti isempti

@@ -1,0 +1,57 @@
+org aspectj asm intern
+typesaf enum pattern
+handl provid delimit handleproviderdelimit
+return delimit iprogramel
+iprogramel aspect return
+iprogramel method return
+delimit getdelimit program element iprogramel ip
+program element iprogramel kind kind ip kind getkind
+kind equal program element iprogramel kind project
+javaproject delimit getdelimit
+kind equal program element iprogramel kind packag
+packagefrag delimit getdelimit
+kind equal program element iprogramel kind file java file java
+ip getnam end endswith
+aspect aspect delimit getdelimit
+compilationunit delimit getdelimit
+kind equal program element iprogramel kind file aspectj file aspectj
+aspect aspect delimit getdelimit
+kind equal program element iprogramel kind import refer import refer
+importdeclar delimit getdelimit
+kind equal program element iprogramel kind class
+kind equal program element iprogramel kind interfac
+kind equal program element iprogramel kind enum
+kind equal program element iprogramel kind annot
+type delimit getdelimit
+kind equal program element iprogramel kind aspect
+aspect type aspect type delimit getdelimit
+kind equal program element iprogramel kind initi
+initi delimit getdelimit
+kind equal program element iprogramel kind inter type field inter type field
+kind equal program element iprogramel kind inter type method inter type method
+kind equal program element iprogramel kind inter type constructor inter type constructor
+kind equal program element iprogramel kind inter type parent inter type parent
+itd delimit getdelimit
+kind equal program element iprogramel kind constructor
+kind equal program element iprogramel kind method
+method delimit getdelimit
+kind equal program element iprogramel kind field
+kind equal program element iprogramel kind enum enum
+field delimit getdelimit
+kind equal program element iprogramel kind pointcut
+pointcut delimit getdelimit
+kind equal program element iprogramel kind advic
+advic delimit getdelimit
+kind equal program element iprogramel kind declar parent declar parent
+kind equal program element iprogramel kind declar warn declar warn
+kind equal program element iprogramel kind declar error declar error
+kind equal program element iprogramel kind declar soft declar soft
+kind equal program element iprogramel kind declar preced declar preced
+kind equal program element iprogramel kind declar annot constructor declar annot constructor
+kind equal program element iprogramel kind declar annot field declar annot field
+kind equal program element iprogramel kind declar annot method declar annot method
+kind equal program element iprogramel kind declar annot type declar annot type
+declar delimit getdelimit
+kind equal program element iprogramel kind code
+codeel delimit getdelimit
+empti

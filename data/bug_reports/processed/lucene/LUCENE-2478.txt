@@ -1,0 +1,29 @@
+cachingwrapperfilter throws npe filter getdocidset returns null
+followup href http www lucidimagination search document 1014ea92f15677bd filter getdocidset returning null means cachingwrapperfilter class external link rel nofollow http www lucidimagination search document 1014ea92f15677bd filter getdocidset returning null means cachingwrapperfilter
+daniel noll exception
+div class preformatted panel style border width 1px div class preformattedcontent panelcontent
+pre java lang nullpointerexception
+org apache lucene search cachingwrapperfilter docidsettocache cachingwrapperfilter java
+org apache lucene search cachingwrapperfilter getdocidset cachingwrapperfilter java
+nuix storage search lazyconstantscorequery lazyfilterwrapper getdocidset sourcefile
+org apache lucene search constantscorequery constantscorer init constantscorequery java
+org apache lucene search constantscorequery constantweight scorer constantscorequery java
+org apache lucene search booleanquery booleanweight scorer booleanquery java
+org apache lucene search booleanquery booleanweight scorer booleanquery java
+org apache lucene search querywrapperfilter iterator querywrapperfilter java
+pre
+div div
+class intermediary delays creating filter object
+div class code panel style border width 1px div class codecontent panelcontent
+pre class code java
+override
+span class code keyword public span docidset getdocidset indexreader reader span class code keyword throws span ioexception
+span class code keyword span delegate span class code keyword null span
+delegate factory createfilter
+
+span class code keyword return span delegate getdocidset reader
+
+pre
+div div
+tracing code cachingwrapperfilter npe occur getdocidset return null
+javadoc filter null returned documents accepted filter lucene handling null return values correctly correct code javadoc supposing null problems cachingwrapperfilter implementing caching notice calling comparing null distinguish entry cache entry cache null

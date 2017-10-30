@@ -1,0 +1,21 @@
+org aspectj runtim reflect
+factori
+method signatur methodsignatur make method sig makemethodsig string modifi string method methodnam string declar type declaringtyp string param type paramtyp string param name paramnam string except type exceptiontyp string return type returntyp
+modifi int modifiersasint integ pars int parseint modifi
+class declar type class declaringtypeclass make class makeclass declar type declaringtyp lookup class loader lookupclassload
+string token stringtoken string token stringtoken param type paramtyp
+num param numparam count token counttoken
+class param type class paramtypeclass class num param numparam
+num param numparam param type class paramtypeclass make class makeclass token nexttoken lookup class loader lookupclassload
+string token stringtoken param name paramnam
+num param numparam count token counttoken
+string param name arrai paramnamesarrai string num param numparam
+num param numparam param name arrai paramnamesarrai token nexttoken
+string token stringtoken except type exceptiontyp
+num param numparam count token counttoken
+class except type class exceptiontypeclass class num param numparam
+num param numparam except type class exceptiontypeclass make class makeclass token nexttoken lookup class loader lookupclassload
+class return type class returntypeclass make class makeclass return type returntyp lookup class loader lookupclassload
+method signatur impl methodsignatureimpl ret
+method signatur impl methodsignatureimpl modifi int modifiersasint method methodnam declar type class declaringtypeclass param type class paramtypeclass param name arrai paramnamesarrai except type class exceptiontypeclass return type class returntypeclass
+ret

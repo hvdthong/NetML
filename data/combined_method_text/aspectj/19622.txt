@@ -1,0 +1,15 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+collect collect shadow munger collectshadowmung
+aspect isaspect abstract isabstract expos shadow munger doesnotexposeshadowmung collect empti list empti list
+arrai list arraylist acc arrai list arraylist
+iter filter dup filter dupfilt iter dup filter dupfilt
+iter getter type getter typegett iter getter
+iter object
+dup filter dupfilt filter
+resolv type resolvedtyp direct supertyp getdirectsupertyp
+iter type iter typeiter iter recur type getter typegett
+type iter typeiter hasnext
+resolv type resolvedtyp resolv type resolvedtyp type iter typeiter
+acc add addal declar shadow munger getdeclaredshadowmung
+acc

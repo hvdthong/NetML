@@ -1,0 +1,87 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+convert pointcut declar converttopointcutdeclar method declar methoddeclar method declar methoddeclar class scope classscop scope
+type declar typedeclar type decl typedecl type declar typedeclar type stack typestack peek
+type decl typedecl bind
+type decl typedecl bind class isclass
+method declar methoddeclar scope problem report problemreport
+signal error signalerror method declar methoddeclar sourc start sourcestart method declar methoddeclar sourc end sourceend pointcut declar class aspect
+method declar methoddeclar thrown except thrownexcept method declar methoddeclar thrown except thrownexcept length
+method declar methoddeclar scope problem report problemreport
+signal error signalerror method declar methoddeclar sourc start sourcestart method declar methoddeclar sourc end sourceend pointcut throw except
+pointcut declar pointcutdeclar decl pcdecl pointcut declar pointcutdeclar unit compil result compilationresult
+copi field copyallfield method declar methoddeclar decl pcdecl
+annot ajannot advic annot hasadviceannot
+method declar methoddeclar scope problem report problemreport disallow target annot disallowedtargetforannot annot ajannot advic annot adviceannot
+annot ajannot aspect annot hasaspectannot
+method declar methoddeclar scope problem report problemreport disallow target annot disallowedtargetforannot annot ajannot aspect annot aspectannot
+annot ajannot advic annot hasadvicenameannot
+method declar methoddeclar scope problem report problemreport disallow target annot disallowedtargetforannot annot ajannot advic annot advicenameannot
+suppli novaluesuppli
+pcd containsifpcd
+locat pclocat
+string pointcut express pointcutexpress string liter getstringliteralfor annot ajannot pointcut annot pointcutannot locat pclocat
+sourc context isourcecontext context eclips sourc context eclipsesourcecontext unit compil result compilationresult locat pclocat
+pointcut pointcut null abstract
+pointcut express pointcutexpress pointcut express pointcutexpress length
+suppli novaluesuppli novaluesuppli true match pointcut
+suppli novaluesuppli
+pattern parser patternpars pointcut express pointcutexpress context pars pointcut parsepointcut
+decl pcdecl pointcut design pointcutdesign pointcut design pointcutdesign
+decl pcdecl set gener synthet pointcut method setgeneratesyntheticpointcutmethod
+type declar typedeclar type ontyp type declar typedeclar type stack typestack peek
+decl pcdecl post pars postpars type ontyp
+eclipsefactori factori eclipsefactori fromscopelookupenviron methoddeclar scope
+int argslength methoddeclar argument null methoddeclar argument length
+formal bind formalbind bind build formal advic bind buildformaladvicebindingsfrom method declar methoddeclar
+formalbind bind formalbind argslength
+int len bind length len
+argument arg methoddeclar argument
+string string arg
+unresolvedtyp type factori frombind methoddeclar bind paramet
+bind formalbind type arg sourcestart arg sourceend unknown
+swap type ontyp method declar methoddeclar decl pcdecl
+express
+resolv eclips scope eclipsescop bind method declar methoddeclar scope
+pcd visitor hasifpcdvisitor finder iffind pcd visitor hasifpcdvisitor
+travers finder iffind
+pcd containsifpcd finder iffind pcd containsifpcd
+parser except parserexcept pex
+method declar methoddeclar scope problem report problemreport pars error parseerror
+locat pclocat pex locat getloc start getstart
+locat pclocat pex locat getloc end getend
+pointcut express pointcutexpress char arrai tochararrai
+pointcut express pointcutexpress
+string pex messag getmessag
+return void returnsvoid
+return boolean returnsboolean
+method declar methoddeclar return type returntyp singl type refer singletyperefer
+singl type refer singletyperefer ret type rettyp singl type refer singletyperefer method declar methoddeclar return type returntyp
+char oper charoper equal void type voidtyp ret type rettyp token return void returnsvoid
+char oper charoper equal boolean type booleantyp ret type rettyp token return boolean returnsboolean
+return void returnsvoid pcd containsifpcd
+method declar methoddeclar scope problem report problemreport signal error signalerror method declar methoddeclar return type returntyp sourc start sourcestart
+method declar methoddeclar return type returntyp sourc end sourceend
+method annot pointcut return void pointcut express
+return boolean returnsboolean pcd containsifpcd
+method declar methoddeclar scope problem report problemreport signal error signalerror method declar methoddeclar return type returntyp sourc start sourcestart
+method declar methoddeclar return type returntyp sourc end sourceend
+method annot pointcut return boolean pointcut express
+method declar methoddeclar statement method declar methoddeclar statement length pcd containsifpcd
+method declar methoddeclar scope problem report problemreport signal error signalerror method declar methoddeclar return type returntyp sourc start sourcestart
+method declar methoddeclar return type returntyp sourc end sourceend
+pointcut express empti method bodi
+decl pcdecl pointcut design pointcutdesign
+modifi abstract isabstract method declar methoddeclar modifi
+suppli novaluesuppli novaluesuppli match pointcut
+check make sens aop xml concret regular abstract pointcut
+returnsvoid
+methoddeclar argument null methoddeclar argument length
+fine
+method declar methoddeclar scope problem report problemreport signal error signalerror method declar methoddeclar return type returntyp sourc start sourcestart
+method declar methoddeclar return type returntyp sourc end sourceend
+method annot pointcut abstract pointcut abstract
+modifi abstract isabstract method declar methoddeclar modifi
+method declar methoddeclar scope problem report problemreport signal error signalerror method declar methoddeclar return type returntyp sourc start sourcestart
+method declar methoddeclar return type returntyp sourc end sourceend
+method annot abstract pointcut pointcut express pointcutexpress abstract

@@ -1,0 +1,20 @@
+org aspectj org eclips jdt core dom
+aroundadvicedeclar dom ast node
+advicedeclar
+return type return type mark2
+inherit properti descriptor advicedeclar
+add return type
+mix descript class properti list
+redefin
+'around' prefix distinguish defin advicedeclar
+work
+author ajh02
+advic declar aroundadvicedeclar advic declar advicedeclar
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+properti return type properti aroundreturn type properti
+return type getreturntyp
+set return type setreturntyp type child
+properti return type2 properti aroundreturn type2 properti
+return type2 getreturntype2
+set return type2 setreturntype2 type child
+intern set child properti internalgetsetchildproperti properti child

@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+pattern parser patternpars
+string eat identifi maybeeatidentifi
+token itoken token sourc tokensourc peek
+identifi isidentifi
+token sourc tokensourc
+string getstr

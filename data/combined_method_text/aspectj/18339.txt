@@ -1,0 +1,7 @@
+org aspectj weaver
+kind advic aspectj
+author erik hilsdal
+author jim hugunin
+advic kind advicekind type safe enum typesafeenum
+cflow iscflow
+cflow iscflow

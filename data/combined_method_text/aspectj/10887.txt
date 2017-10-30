@@ -1,0 +1,24 @@
+org aspectj ajdt ajc
+icommand adapt aspectj compil
+thread safe
+ajdt command ajdtcommand command icommand
+run aspectj compil wrap except thrown
+abort messag abort messag string
+param arg string compil
+param handler imessagehandl messag
+org aspectj bridg icommand runcommand string imessagehandl
+return fals handler error command fail
+run command runcommand string arg messag handler imessagehandl handler
+build manag buildmanag build manag ajbuildmanag handler
+save arg savedarg string arg length
+system arraycopi arg save arg savedarg save arg savedarg length
+arg length
+amc pr58681 abort eclips compil thing
+equal arg
+info handler suppress
+messageutil abort handler buildargpars getusag
+return true
+equal arg
+info handler suppress
+messag util messageutil abort handler build arg parser buildargpars option usag getxoptionusag
+command docommand handler

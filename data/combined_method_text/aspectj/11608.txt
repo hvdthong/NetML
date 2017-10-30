@@ -1,0 +1,15 @@
+org aspectj ajdt intern compil lookup
+helper interfac bind helperinterfacebind sourc type bind sourcetypebind
+gener class generateclass compil result compilationresult result class file classfil enclos class file enclosingclassfil
+class file classfil class file classfil class file classfil
+class file classfil initi enclos class file enclosingclassfil
+class file classfil record class recordinnerclass
+classfil addfieldinfo
+class file classfil content class file classfil content offset contentsoffset
+class file classfil content class file classfil content offset contentsoffset
+class file classfil set method info setformethodinfo
+iter method iter hasnext
+method bind methodbind method bind methodbind
+gener method generatemethod class file classfil
+class file classfil add attribut addattribut
+result record constant pool constantpoolnam class file classfil

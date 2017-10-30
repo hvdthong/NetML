@@ -1,0 +1,25 @@
+overrid
+reflect simplex
+comput contract simplex
+inherit doc inheritdoc
+point pair pointvaluepair origin
+multi direct direct search method
+point pair pointvaluepair reflect evalu simplex evaluatenewsimplex evalu function evaluationfunct
+comput expand simplex
+compar compar reflect expand
+compar point pair pointvaluepair compar
+version
+compar compar reflect
+iter multivari function multivariatefunct evalu function evaluationfunct
+save origin simplex
+point pair pointvaluepair expand evalu simplex evaluatenewsimplex evalu function evaluationfunct
+origin khi compar
+multi direct simplex multidirectionalsimplex abstract simplex abstractsimplex
+point pair pointvaluepair reflect simplex reflectedsimplex point getpoint
+org apach common math3 optim nonlinear scalar noderiv
+origin compar
+expand simplex
+set point setpoint reflect simplex reflectedsimplex
+point pair pointvaluepair origin point getpoint
+evalu simplex evaluatenewsimplex evalu function evaluationfunct origin gamma compar
+perform reflect step

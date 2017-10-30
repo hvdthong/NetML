@@ -1,0 +1,20 @@
+system arraycopi extend state extendedst start dydy0
+order integr jacobian firstorderintegratorwithjacobian
+od jacobian odewithjacobian
+extend jacobian raw od variat equat
+start
+order comput state deriv od problem
+org apach common math od jacobian
+inherit doc inheritdoc
+interpol dy0 getinterpolateddydy0 deriv except derivativeexcept
+ad form compound problem higher dimens origin od
+dimens time
+dydy0
+extend state extendedst interpol interpol state getinterpolatedst
+comput partial deriv solut respect initi state
+length
+parameter od parameterizedod
+version revis date
+enhanc order integr differenti equat
+problem dimens paramet compound problem
+paramet

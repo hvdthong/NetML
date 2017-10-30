@@ -1,0 +1,23 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+add singleton field addpersingletonfield member field
+object type objecttyp aspect type aspecttyp object type objecttyp bcel world bcelworld make bcel type makebceltyp field return type getreturntyp
+string aspect aspectnam field return type getreturntyp getnam
+lazi method gen lazymethodgen clinit clazz static initi getstaticiniti
+instruct list instructionlist setup instruct list instructionlist
+instruct factori instructionfactori fact clazz factori getfactori
+setup append fact creat createnew aspect type aspecttyp
+setup append instruct factori instructionfactori creat dup createdup
+setup append fact creat invok createinvok
+aspect aspectnam
+init
+type void
+type
+constant invokespeci
+setup append
+fact creat field access createfieldaccess
+aspect aspectnam
+field getnam
+aspect type aspecttyp
+constant putstat
+clinit bodi getbodi insert setup

@@ -1,0 +1,33 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+string valid comma list validcommalist string list list valid string label max
+string buffer stringbuff result string buffer stringbuff
+string token stringtoken string token stringtoken list
+num
+token hasmoretoken
+string token token nexttoken trim
+num
+num max
+ignor entri
+label
+token
+valid token
+ignor bad commalist entri
+label
+token
+result length
+result append
+result append token
+result length result string tostr

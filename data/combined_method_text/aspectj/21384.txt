@@ -1,0 +1,12 @@
+org aspectj weaver loadtim definit
+fixm doc concret aspect
+author href mailto alex gnilux dot alexandr vasseur
+document parser documentpars default handler defaulthandl
+xml reader xmlreader xml reader getxmlread sax except saxexcept parser configur except parserconfigurationexcept
+xml reader xmlreader xml reader xmlreader
+java
+xml reader xmlreader xml reader factori xmlreaderfactori creat xml reader createxmlread
+ignor system properti set
+sax except saxexcept
+xml reader xmlreader sax parser factori saxparserfactori instanc newinst sax parser newsaxpars xml reader getxmlread
+xml reader xmlreader

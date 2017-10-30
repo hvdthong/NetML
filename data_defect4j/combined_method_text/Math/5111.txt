@@ -1,0 +1,28 @@
+dot product dotproduct
+row diag rdiag row
+row dot product dotproduct row idx
+inherit doc inheritdoc
+solv triangular system
+appli household transform solv
+dot product dotproduct diag rdiag idx minor idx
+row
+dot product dotproduct row row idx
+minor minor rank minor
+arrai real vector arrayrealvector
+org apach common math linear
+pivot decomposit pivotingqrdecomposit
+qrt row qrtrow qrt row
+idx perm minor
+row perm row
+singular matrix except singularmatrixexcept
+author gregsterijevski
+row rank row row
+row yrow row
+perm row row yrow
+real vector realvector solv real vector realvector
+row minor row row
+length
+singular isnonsingular
+dimens getdimens
+arrai toarrai
+dimens mismatch except dimensionmismatchexcept dimens getdimens

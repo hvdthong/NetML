@@ -1,0 +1,23 @@
+Calling toSource on a parsed script containing lambda returns extra return and semi-colon - sample attached
+User Agent: Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.22) Gecko/20110902 Firefox/3.6.22
+Build ID: 20110902133716
+
+Steps to reproduce:
+
+String source = "[,]";
+Parser parser = new Parser();
+AstRoot astRoot = parser.parse(new StringReader(source), null, 1);
+System.out.println(astRoot.toSource());
+
+
+Actual results:
+
+Output:
+x = function([a, b])  return a + b;
+;
+
+
+Expected results:
+
+Output:
+x = function([a, b]) a + b;

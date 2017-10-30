@@ -1,0 +1,12 @@
+open indexinput indexoutput open
+modified mockdirwrapper assert
+segments segments gen expected uncovered
+couple places involving nrt readers open shared doc
+store file open writing
+install merged segment warmer failing
+force merge doc stores case potentially
+opening doc stores open writing
+actively adding docs threads call
+getreader threads sneak flush
+segments sharing doc stores returned reader opens
+doc store files open writing

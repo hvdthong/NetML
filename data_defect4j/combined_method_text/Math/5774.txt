@@ -1,0 +1,11 @@
+org apach common math linear
+max
+inherit doc inheritdoc
+length
+spars real vector sparserealvector real vector realvector
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date
+distanc getl1dist illeg argument except illegalargumentexcept
+max delta
+check vector dimens checkvectordimens length
+delta math ab entri getentri

@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+annot type pattern notannotationtypepattern annot type pattern annotationtypepattern
+equal object obj
+obj annot type pattern notannotationtypepattern
+annot type pattern notannotationtypepattern annot type pattern notannotationtypepattern obj
+negat pattern negatedpattern equal negat pattern negatedpattern paramet annot match isforparameterannotationmatch paramet annot match isforparameterannotationmatch

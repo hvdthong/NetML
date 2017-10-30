@@ -1,0 +1,31 @@
+primari set equat expand set secondari
+primari set equat correspond raw od
+param dot ydot placehold arrai put time deriv complet state vector
+add contribut secondari equat
+repres combin set order differenti equat
+comput deriv computederiv dot ydot
+primari comput deriv computederiv primari state primaryst primari state dot primarystatedot
+typic comput jacobian matrix od
+equat comput link abstract integr abstractintegr integr
+integr primari set estim
+compon equat comput deriv computederiv primari state primaryst primari state dot primarystatedot
+version
+add set bunch secondari equat repres jacobian
+param arrai current complet state vector
+matrix primari set
+compon state compon state dot statedot
+jacobian matric jacobianmatric
+error step size secondari
+compon mapper extract equat data extractequationdata compon state
+primari set end secondari set begin
+org apach common math od
+current time deriv complet state vector
+primari mapper primarymapp insert equat data insertequationdata primari state dot primarystatedot dot ydot
+compon mapper insert equat data insertequationdata compon state dot statedot dot ydot
+primari mapper primarymapp extract equat data extractequationdata primari state primaryst
+expand state od expandablestatefulod
+comput deriv primari equat
+equat
+secondari compon secondarycompon compon compon
+order differenti equat firstorderdifferentialequ
+param current independ time variabl

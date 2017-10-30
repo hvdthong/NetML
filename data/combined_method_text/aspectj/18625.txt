@@ -1,0 +1,36 @@
+org aspectj weaver
+asm relationship provid asmrelationshipprovid
+advic munger advicemung hierarchi ihierarchi model shadow shadow shadow munger shadowmung munger
+asm manag asmmanag creat model iscreatingmodel
+munger advic
+advic advic advic munger
+advic kind getkind entri isperentri advic kind getkind cflow iscflow
+todo show futur
+world creat injar hierarchi createinjarhierarchi
+munger creat hierarchi createhierarchi
+relationship map irelationshipmap mapper asm manag asmmanag default getdefault relationship map getrelationshipmap
+program element iprogramel target node targetnod node getnod asm manag asmmanag default getdefault hierarchi gethierarchi shadow
+target node targetnod
+runtim test runtimetest bcel advic bceladvic munger dynam test hasdynamictest
+work extra info inform interest ui
+program element iprogramel extra inform extrainform program element iprogramel extra inform extrainform
+string advic handl advicehandl advic handl gethandl
+advic handl advicehandl
+kind advic
+todo prob
+cv
+advic kind advicekind advic munger kind getkind
+set extra advic inform setextraadviceinform getnam
+program element iprogramel advic element adviceel asm manag asmmanag default getdefault hierarchi gethierarchi find element handl findelementforhandl advic handl advicehandl
+advic element adviceel
+advic element adviceel set extra info setextrainfo
+string target handl targethandl target node targetnod handl identifi gethandleidentifi
+advic kind getkind equal advic kind advicekind soften
+relationship irelationship foreward mapper advic handl advicehandl relationship irelationship kind declar soft declar soft soften runtim test runtimetest
+foreward foreward add target addtarget target handl targethandl foreward null foreward addtarget targethandl foreward gettarget add targethandl
+relationship irelationship back mapper target handl targethandl relationship irelationship kind declar soften soften runtim test runtimetest
+back back add target addtarget advic handl advicehandl back null back addtarget advicehandl back gettarget add advicehandl
+relationship irelationship foreward mapper advic handl advicehandl relationship irelationship kind advic advis runtim test runtimetest
+foreward foreward add target addtarget target handl targethandl foreward null foreward addtarget targethandl foreward gettarget add targethandl
+relationship irelationship back mapper target handl targethandl relationship irelationship kind advic advis advis runtim test runtimetest
+back back add target addtarget advic handl advicehandl back null back addtarget advicehandl back gettarget add advicehandl

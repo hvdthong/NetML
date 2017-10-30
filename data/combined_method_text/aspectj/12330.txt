@@ -1,0 +1,47 @@
+org aspectj apach bcel classfil
+class repres constant pool tabl constant
+pars classfil null refer due jvm
+specif skip entri byte constant doubl
+long entri interest gener constant pool
+programat href gener constantpoolgen html
+constantpoolgen
+version constantpool java aclement exp
+constant
+org aspectj apach bcel gener constantpoolgen
+author href mailto marku dahm berlin dahm
+constant pool constantpool cloneabl node serializ
+resolv constant string represent
+param constant constant print
+return string represent
+string constant string constanttostr constant
+class format except classformatexcept
+string str
+tag tag gettag
+tag
+constant constant class constant class
+constant class constantclass index getnameindex
+constant getconst constant constant utf8 constant utf8
+str util compact class compactclassnam constant utf8 constantutf8 byte getbyt
+constant constant string constant string
+constant string constantstr string index getstringindex
+constant getconst constant constant utf8 constant utf8
+str escap constant utf8 constantutf8 byte getbyt
+constant constant utf8 constant utf8 str constant utf8 constantutf8 byte getbyt
+constant constant doubl constant doubl str constant doubl constantdoubl byte getbyt
+constant constant float constant float str constant float constantfloat byte getbyt
+constant constant long constant long str constant long constantlong byte getbyt
+constant constant integ constant integ str constant integ constantinteg byte getbyt
+constant constant type constant nameandtyp
+str constant string constanttostr constant type constantnameandtyp index getnameindex
+constant constant utf8 constant utf8
+constant string constanttostr constant type constantnameandtyp signatur index getsignatureindex
+constant constant utf8 constant utf8
+constant constant interfac methodref constant interfacemethodref constant constant methodref constant methodref
+constant constant fieldref constant fieldref
+str constant string constanttostr constant constantcp class index getclassindex
+constant constant class constant class
+constant string constanttostr constant constantcp type index getnameandtypeindex
+constant constant type constant nameandtyp
+default reach
+runtim except runtimeexcept unknown constant type tag
+str

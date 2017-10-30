@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript rank
+
+
+
+
+
+
+
+
+return maximum valu
+
+
+result code nan code iff valu code nan code
+code nan code valu impact statist
+valu equal code doubl posit infin code
+result code doubl posit infin code
+
+
+strong note implement strong
+multipl thread access instanc concurr
+thread invok code increment code
+code clear code method extern
+
+version
+
+max abstract storeless univari statist abstractstorelessunivariatestatist serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copi constructor creat code max ident
+code origin
+
+param origin code max instanc copi
+
+max max origin
+copi origin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

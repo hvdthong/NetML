@@ -1,0 +1,10 @@
+org apach tool ant taskdef
+process set xml document xslt
+build view xml base document
+ant
+ant task xslt categori xml
+xslt process xsltprocess match task matchingtask xslt logger xsltlogger
+paramtyp
+ant
+string type gettyp
+type

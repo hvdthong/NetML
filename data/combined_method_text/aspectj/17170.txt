@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+pointcutdesign call 'left'
+pointcutdesign call 'right'
+author ajh02
+pointcut orpointcut pointcut design pointcutdesign
+pointcut orpointcut ast ast
+ast

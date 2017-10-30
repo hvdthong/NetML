@@ -1,0 +1,4 @@
+PayloadNearQuery has hardwired explanation for 'AveragePayloadFunction'
+ The 'explain' method in PayloadNearSpanScorer assumes the AveragePayloadFunction was used. This patch adds the 'explain' method to the 'PayloadFunction' interface, where the Scorer can call it. Added unit tests for 'explain' and for  
+{Min,Max}
+ PayloadFunction. 

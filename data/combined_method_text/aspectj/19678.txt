@@ -1,0 +1,6 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return resolvedtyp object repres superclass type null
+repres java lang object primit type void
+method return null
+resolv type resolvedtyp superclass getsuperclass

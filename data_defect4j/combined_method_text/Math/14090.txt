@@ -1,0 +1,16 @@
+jira
+link field vector fieldvector link open int field hash map openinttofieldhashmap back store
+spars field vector sparsefieldvector field element fieldel field vector fieldvector serializ
+org apach common math3 linear
+param type field element
+param expect dimens
+deprec version deprec reason expos
+remov version
+dimens mismatch except dimensionmismatchexcept
+href http issu apach org jira brows math ticket
+version
+check instanc dimens equal expect
+check vector dimens checkvectordimens
+dimens mismatch except dimensionmismatchexcept dimens match
+dimens getdimens
+dimens mismatch except dimensionmismatchexcept dimens getdimens

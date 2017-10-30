@@ -1,0 +1,36 @@
+org aspectj util
+file util fileutil
+extract class path file
+basedir null class assum
+default packag classfil
+top level suffix org java javax parent directori
+param basedir file base directori prefix classfil
+param classfil file class extract
+throw illegalargumentexcept classfil null end
+class null basedir prefix classfil
+string file class filetoclassnam file basedir file class file classfil
+lang util langutil throw iax null throwiaxifnul class file classfil classfil
+string class file path classfilepath normal path normalizedpath class file classfil
+class file path classfilepath end endswith class
+string class file classfil end class
+illeg argument except illegalargumentexcept
+class file path classfilepath class file path classfilepath substr class file path classfilepath length
+basedir
+string base path basepath normal path normalizedpath basedir
+class file path classfilepath start startswith base path basepath
+string class file classfil start basedir
+illeg argument except illegalargumentexcept
+class file path classfilepath class file path classfilepath substr base path basepath length
+string suffix string org java javax
+found
+found suffix length
+loc class file path classfilepath index indexof suffix
+loc
+loc class file path classfilepath char charat loc
+class file path classfilepath class file path classfilepath substr loc
+found
+found
+loc class file path classfilepath index lastindexof
+loc loc treat default packag
+class file path classfilepath class file path classfilepath substr loc
+class file path classfilepath replac

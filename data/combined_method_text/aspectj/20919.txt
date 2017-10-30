@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+repres access annot element relat 'kinded' pointcut
+depend kind pointcut element field method
+kind annot access var kindedannotationaccessvar bcel var bcelvar
+append load convert appendloadandconvert
+instruct list instructionlist
+instruct factori instructionfactori fact
+resolv type resolvedtyp type totyp
+append creat load instruct createloadinstruct type totyp fact

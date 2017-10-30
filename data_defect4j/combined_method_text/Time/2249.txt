@@ -1,0 +1,18 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+param instant milli t00 01t00 00z
+year getyear instant date time constant datetimeconst milli week
+org joda time chrono
+weekyear getweekyear instant
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+week
+year year getyear instant
+year
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+week week weekyear getweekofweekyear instant year
+reflect intent defin

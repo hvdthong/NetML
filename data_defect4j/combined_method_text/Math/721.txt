@@ -1,0 +1,16 @@
+univari real integr impl univariaterealintegratorimpl univari real integr univariaterealintegr
+org apach common math analysi integr
+strictli posit except notstrictlypositiveexcept number small except numberistoosmallexcept
+maxim iter count maximaliterationcount
+param maxim iter count maximaliterationcount maximum number iter
+univari real integr impl univariaterealintegratorimpl minim iter count minimaliterationcount
+minim iter count minimaliterationcount maxim iter count maximaliterationcount
+except number small except numberistoosmallexcept maxim number iter
+construct integr iter count
+version
+param minim iter count minimaliterationcount minimum number iter
+provid implement gener function
+default rel accuraci default absolut accuraci
+except strictli posit except notstrictlypositiveexcept minim number iter
+strictli posit
+lesser equal minim number iter

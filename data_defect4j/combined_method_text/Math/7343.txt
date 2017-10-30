@@ -1,0 +1,10 @@
+set iter evalu count
+goal
+base handl boiler plate method threshold
+org apach common math optim direct
+version
+base implement optim multivari scalar function
+optim type
+param func type object function optim
+goal type goaltyp goal type getgoaltyp
+base abstract multivari optim baseabstractmultivariateoptim func multivari function multivariatefunct

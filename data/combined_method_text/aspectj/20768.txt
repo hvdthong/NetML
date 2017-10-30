@@ -1,0 +1,21 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+match join point couldevermatchsamejoinpoint pointcut left pointcut
+left pointcut orpointcut
+pointcut orpointcut left pointcut leftorpointcut pointcut orpointcut left
+match join point couldevermatchsamejoinpoint left pointcut leftorpointcut left getleft
+match join point couldevermatchsamejoinpoint left pointcut leftorpointcut getright
+pointcut orpointcut
+pointcut orpointcut pointcut rightorpointcut pointcut orpointcut
+match join point couldevermatchsamejoinpoint left pointcut rightorpointcut left getleft
+match join point couldevermatchsamejoinpoint left pointcut rightorpointcut getright
+within
+pointcut withinpointcut left leftwithin pointcut withinpointcut find pointcut findfirstpointcutin left pointcut withinpointcut
+pointcut withinpointcut rightwithin pointcut withinpointcut find pointcut findfirstpointcutin pointcut withinpointcut
+left leftwithin rightwithin
+left leftwithin match join point couldevermatchsamejoinpointsa rightwithin
+kind
+kind pointcut kindedpointcut left kind leftkind kind pointcut kindedpointcut find pointcut findfirstpointcutin left kind pointcut kindedpointcut
+kind pointcut kindedpointcut kind rightkind kind pointcut kindedpointcut find pointcut findfirstpointcutin kind pointcut kindedpointcut
+left kind leftkind kind rightkind
+left kind leftkind match join point couldevermatchsamejoinpointsa kind rightkind

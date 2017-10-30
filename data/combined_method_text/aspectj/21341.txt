@@ -1,0 +1,13 @@
+org aspectj weaver loadtim
+class add support aspectj osgi environ
+author david knibb
+weav context iweavingcontext
+standard classload getresourc mechan
+replac implement
+osgi environ filter
+place result classload getresourc osgi
+environ classload getresourc return
+param resourc search
+return enumer match resourc found
+throw ioexcept
+enumer resourc getresourc string except ioexcept

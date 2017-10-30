@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math optim
+
+
+
+
+base converg checker implement
+
+param pair type point pair
+
+version revis date
+
+
+abstract converg checker abstractconvergencecheck pair
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rel threshold
+
+rel threshold getrelativethreshold
+rel threshold relativethreshold
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+param function accuraci functionvalueaccuraci maximum function error
+param func type function solv
+version
+solver
+param rel accuraci relativeaccuraci maximum rel error
+rel accuraci relativeaccuraci rel accuraci relativeaccuraci
+construct solver accuraci
+absolut accuraci absoluteaccuraci absolut accuraci absoluteaccuraci
+function accuraci functionvalueaccuraci function accuraci functionvalueaccuraci
+provid implement function gener
+absolut accuraci absoluteaccuraci
+base abstract univari solver baseabstractunivariatesolv rel accuraci relativeaccuraci
+function accuraci functionvalueaccuraci
+param absolut accuraci absoluteaccuraci maximum absolut error
+org apach common math analysi solver

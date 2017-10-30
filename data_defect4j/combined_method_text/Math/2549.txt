@@ -1,0 +1,8 @@
+param specif specif context pattern
+specif local format localizedformat allow
+construct except specif context
+except zeroexcept math illeg number except mathillegalnumberexcept
+except zeroexcept localiz specif
+version revis date
+except thrown provid allow
+org apach common math except

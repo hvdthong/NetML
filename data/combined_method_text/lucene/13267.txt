@@ -1,0 +1,24 @@
+org apach lucen index
+store monoton increas set term terminfo pair
+directori terminfo written order
+term info writer terminfoswrit
+compar term comparetolastterm field number fieldnumb term byte termbyt term byte length termbyteslength
+field number lastfieldnumb field number fieldnumb
+cmp field info fieldinfo field fieldnam field number lastfieldnumb compar compareto field info fieldinfo field fieldnam field number fieldnumb
+field name empti string
+comparison
+field number map
+cmp field number lastfieldnumb
+cmp
+unicod util unicodeutil utf8to utf16 utf8toutf16 term byte lasttermbyt term byte length lasttermbyteslength utf16 result1 utf16result1
+unicod util unicodeutil utf8to utf16 utf8toutf16 term byte termbyt term byte length termbyteslength utf16 result2 utf16result2
+len
+utf16 result1 utf16result1 length utf16 result2 utf16result2 length
+len utf16 result1 utf16result1 length
+len utf16 result2 utf16result2 length
+len
+ch1 utf16 result1 utf16result1 result
+ch2 utf16 result2 utf16result2 result
+ch1 ch2
+ch1 ch2
+utf16 result1 utf16result1 length utf16 result2 utf16result2 length

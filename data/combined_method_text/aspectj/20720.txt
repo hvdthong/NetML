@@ -1,0 +1,86 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung method deleg mungemethoddeleg bcel class weaver bcelclassweav weaver method deleg type munger methoddelegatetypemung munger
+resolv member resolvedmemb introduc munger signatur getsignatur
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+resolv type resolvedtyp type fromtyp weaver world getworld resolv introduc declar type getdeclaringtyp munger sourc locat getsourceloc
+type fromtyp raw type israwtyp type fromtyp type fromtyp gener type getgenerictyp
+gen type gettyp annot isannot gen type gettyp enum isenum
+signal error consequ wild type pattern
+appli shouldappli munger match weaver lazi class gen getlazyclassgen type gettyp aspect type aspecttyp
+appli shouldappli
+implement class intent type match pattern
+implement interfac check
+munger impl class getimplclassnam
+isok
+list exist method existingmethod gen method gen getmethodgen list lazymethodgen existingmethod gen getmethodgen
+iter exist method existingmethod iter hasnext isok
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+getnam equal introduc getnam
+paramet signatur getparametersignatur equal introduc paramet signatur getparametersignatur
+return type getreturntyp equal introduc return type getreturntyp
+isok
+isok
+class implement method need suppli default impl class
+messag imessag msg messag declarepar defaultimpl type gen getnam
+implement method stringifi member stringifymemb introduc defin interfac introduc declar type getdeclaringtyp
+weaver lazi class gen getlazyclassgen type gettyp sourc locat getsourceloc sourc locat isourceloc munger sourc locat getsourceloc
+weaver world getworld messag handler getmessagehandl handl messag handlemessag msg
+lazi method gen lazymethodgen lazi method gen lazymethodgen
+introduc modifi getmodifi modifi abstract
+bcel world bcelworld make bcel type makebceltyp introduc return type getreturntyp
+introduc getnam
+bcel world bcelworld make bcel type makebceltyp introduc paramet type getparametertyp
+bcel world bcelworld make bcel type class name makebceltypesasclassnam introduc except getexcept
+gen
+annot copi annot itd interfac
+weaver world getworld java5 mode isinjava5mod
+annot annotationx annot real member annotationsonrealmemb
+resolv type resolvedtyp tolookon weaver world getworld lookup creat lookuporcreatenam introduc declar type getdeclaringtyp
+type fromtyp raw type israwtyp tolookon type fromtyp gener type getgenerictyp
+lookup method
+resolv member resolvedmemb tolookon declar java method getdeclaredjavamethod
+length
+resolv member resolvedmemb
+introduc getnam equal getnam introduc signatur getsignatur equal signatur getsignatur
+annot real member annotationsonrealmemb annot getannot
+annot real member annotationsonrealmemb
+annot real member annotationsonrealmemb length
+annot annotationx annot annotationx annot real member annotationsonrealmemb
+annot annot annotationx bcel annot getbcelannot
+annot gen annotationgen annot gen annotationgen weaver lazi class gen getlazyclassgen constant pool gen getconstantpoolgen
+add annot addannot annot annotationx annot getannot weaver world getworld
+instruct list instructionlist bodi instruct list instructionlist
+instruct factori instructionfactori fact gen factori getfactori
+getfield
+bodi append instruct constant instructionconst aload
+bodi append util creat createget fact munger deleg getdeleg weaver lazi class gen getlazyclassgen type gettyp
+branch instruct branchinstruct null ifnonnul instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifnonnul
+bodi append null ifnonnul
+creat store instanc
+bodi append instruct constant instructionconst aload
+bodi append fact creat createnew munger impl class getimplclassnam
+bodi append instruct constant instructionconst dup
+bodi append fact creat invok createinvok munger impl class getimplclassnam init type void type arg arg constant invokespeci
+bodi append util creat set createset fact munger deleg getdeleg weaver lazi class gen getlazyclassgen type gettyp
+null instanc
+instruct handl instructionhandl null ifnonnullels bodi append instruct constant instructionconst aload
+null ifnonnul set target settarget null ifnonnullels
+bodi append util creat createget fact munger deleg getdeleg weaver lazi class gen getlazyclassgen type gettyp
+arg
+po
+introduc static isstat introduc isstat skip 'this' happen
+bodi append instructionfactori createthi
+po
+type param type paramtyp bcel world bcelworld make bcel type makebceltyp introduc paramet type getparametertyp
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+po param type paramtyp size getsiz
+bodi append util creat invok createinvok fact constant invokeinterfac introduc
+bodi append
+instruct factori instructionfactori creat return createreturn
+bcel world bcelworld make bcel type makebceltyp introduc return type getreturntyp
+bodi getbodi append bodi
+weaver add lazi method gen addlazymethodgen
+weaver lazi class gen getlazyclassgen warn ad method warnonaddedmethod method getmethod signatur getsignatur sourc locat getsourceloc

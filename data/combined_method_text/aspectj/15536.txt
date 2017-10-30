@@ -1,0 +1,41 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+process delta processdelta list file tobecompil set file ad set file delet
+writer
+record
+dump delta process dumpdeltaprocess
+file writer filewrit filew file writer filewrit dump filenam dumpfilenam
+buffer writer bufferedwrit filew
+write process delta model
+write file compil file tobecompil size file tobecompil
+write file ad file ad size file ad
+write file delet file delet size file delet
+stime system current time milli currenttimemilli
+modif occur modificationoccur
+fixupstructuremodel filestobecompil file ad file delet
+remov file delet compil
+modif occur modificationoccur
+remov structur model file removestructuremodelforfil file delet
+modif occur modificationoccur
+etime1 system current time milli currenttimemilli long etime1 system currenttimemilli etime1 stime time fix model
+repair relationship repairrelationship
+etime2 system current time milli currenttimemilli long etime2 system currenttimemilli etime2 stime time repair relationship map
+modif occur modificationoccur
+remov structur model file removestructuremodelforfil file tobecompil
+modif occur modificationoccur
+dump delta process dumpdeltaprocess
+write delta process time
+write hierarchi etime1 stime relationshipmap etime2 etime1
+write travers
+write sourc handl process srchandlecount
+write target handl process tgthandlecount
+write
+flush close
+report model info reportmodelinfo delta process
+except ioexcept
+print stack trace printstacktrac

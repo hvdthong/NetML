@@ -1,0 +1,28 @@
+org aspectj ajdt intern core builder
+compil option eclips integr ajdt
+compil option ajcompileropt compil option compileropt
+map map getmap
+map map map getmap
+add aspectj addit option
+map put option report invalid absolut type option reportinvalidabsolutetypenam sever string getseveritystr invalid absolut type invalidabsolutetypenam
+map put option report invalid wildcard type option reportinvalidwildcardtypenam sever string getseveritystr invalid wild card type invalidwildcardtypenam
+map put option report unresolv member option reportunresolvablememb sever string getseveritystr unresolv member unresolvablememb
+map put option report type expos weaver option reporttypenotexposedtoweav sever string getseveritystr type expos weaver typenotexposedtoweav
+map put option report shadow structur option reportshadownotinstructur sever string getseveritystr shadow structur shadownotinstructur
+map put option report unmatch super type call option reportunmatchedsupertypeincal sever string getseveritystr unmatch super type call unmatchedsupertypeincal
+map put option report implement lazi tjp option reportcannotimplementlazytjp sever string getseveritystr implement lazi tjp cannotimplementlazytjp
+map put option report serial version uid field option reportneedserialversionuidfield sever string getseveritystr serial version uid field needserialversionuidfield
+map put option report incompat serial version option reportincompatibleserialvers sever string getseveritystr incompat serial version incompatibleserialvers
+map put compil option compileropt option report swallow except catch block option reportswallowedexceptionincatchblock sever string getseveritystr compil option compileropt swallow except catch block swallowedexceptionincatchblock
+map put option termin compil option terminateaftercompil termin compil terminateaftercompil enabl disabl
+map put option serializ aspect option xserializableaspect serializ aspect xserializableaspect enabl disabl
+map put option lazi join point option xlazythisjoinpoint lazi join point xlazythisjoinpoint enabl disabl
+map put option inlin option xnoinlin inlin xnoinlin enabl disabl
+map put option reweav option xnotreweav reweav xnotreweav enabl disabl
+map put option member option xhasmemb member xhasmemb enabl disabl
+map put option xdev pinpoint option xdevpinpoint xdev pinpoint xdevpinpoint enabl disabl
+map put option gener model option generatemodel gener model generatemodel enabl disabl
+map put option gener java doc model option generatejavadocsinmodel gener java doc model generatejavadocsinmodel enabl disabl
+map put option emacssym option emacssym gener emac sym file generateemacssymfil enabl disabl
+map put option dev aspect process option xdevnoataspectjprocess aspect process noataspectjprocess enabl disabl
+map

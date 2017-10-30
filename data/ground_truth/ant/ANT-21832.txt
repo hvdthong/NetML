@@ -1,0 +1,6 @@
+src/main/org/apache/tools/ant/DirectoryScanner_isEverythingIncluded_boolean
+src/main/org/apache/tools/ant/DirectoryScanner_scan_void
+src/main/org/apache/tools/ant/taskdefs/Sync$MyCopy_buildMap-File-File-String[]-FileNameMapper-Hashtable_void
+src/main/org/apache/tools/ant/taskdefs/Sync_execute_void
+src/main/org/apache/tools/ant/taskdefs/Sync_removeOrphanFiles-Hashtable-File_int[]
+src/main/org/apache/tools/ant/types/PatternSet_makeArray-Vector-Project_String[]

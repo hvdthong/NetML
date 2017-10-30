@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+set find aspect munger findaspectsformung lazi method gen lazymethodgen
+set aspect affect type aspectsaffectingtyp hash set hashset
+iter iter match shadow matchedshadow iter iter hasnext
+bcel shadow bcelshadow shadow ashadow bcel shadow bcelshadow iter
+munger effect shadow
+iter iter2 shadow ashadow munger getmung iter iter2 hasnext
+shadow munger shadowmung munger amung shadow munger shadowmung iter2
+munger amung bcel advic bceladvic
+bcel advic bceladvic advic badvic bcel advic bceladvic munger amung
+advic badvic concret aspect getconcreteaspect
+aspect affect type aspectsaffectingtyp add advic badvic concret aspect getconcreteaspect getnam
+'checker' rememb aspect contribut checker
+aspect affect type aspectsaffectingtyp

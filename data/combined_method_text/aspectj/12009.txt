@@ -1,0 +1,23 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+resolv member resolvedmemb pointcut declar getpointcutdeclar refer pointcut referencepointcut method declar methoddeclar declar
+eclips factori eclipsefactori factori lookup environ ajlookupenviron declar scope environ factori
+world world factori world getworld
+unresolv type unresolvedtyp type ontyp type ontyp
+type ontyp
+declar bind
+member member factori make resolv member makeresolvedmemb declar bind
+type ontyp member declar type getdeclaringtyp
+resolv member resolvedmemb member type ontyp resolv world declar pointcut getdeclaredpointcut
+member
+member length
+member getnam equal
+member

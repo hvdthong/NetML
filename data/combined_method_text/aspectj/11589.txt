@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil lookup
+eclips type munger eclipsetypemung concret type munger concretetypemung
+eclips type munger eclipsetypemung eclips factori eclipsefactori world resolv type munger resolvedtypemung munger resolv type resolvedtyp aspect type aspecttyp
+abstract method declar abstractmethoddeclar sourc method sourcemethod
+munger aspect type aspecttyp
+world world
+sourc method sourcemethod sourc method sourcemethod
+sourc method sourcemethod
+sourc locat sourceloc
+eclips sourc locat eclipsesourceloc sourc method sourcemethod compil result compilationresult
+sourc method sourcemethod sourc start sourcestart sourc method sourcemethod sourc end sourceend
+piec magic tell type munger
+persist resolvedtypemung persistsourceloc true
+munger set sourc locat setsourceloc sourc locat sourceloc
+target type targettypex munger signatur getsignatur declar type getdeclaringtyp resolv world world getworld
+amc need gener raw distinct sig
+target type targettypex parameter type isparameterizedtyp target type targettypex raw type israwtyp target type targettypex target type targettypex gener type getgenerictyp
+targetbind referencebind world maketypebind targettypex

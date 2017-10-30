@@ -1,0 +1,8 @@
+org aspectj bridg
+wrap imessagehandl count messag handl
+messag deleg imessagehandl count
+count messag handler countingmessagehandl messag handler imessagehandl
+return true
+code nummessag imessag error true code
+error haserror
+num messag nummessag messag imessag error

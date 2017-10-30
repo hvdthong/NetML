@@ -1,0 +1,19 @@
+hyperplan subhyperplan euclidean3 euclidean3d boundari facet boundaryfacet vector3 vector3d point
+check point belong boundari part node
+param point point check
+version
+boundari attribut boundaryattribut euclidean3 euclidean3d attribut
+bsp tree bsptree euclidean3 euclidean3d node
+attribut getplusoutsid
+org apach common math3 geometri euclidean threed
+vector2 vector2d point2 point2d plane node cut getcut hyperplan gethyperplan space tosubspac point
+boundari attribut boundaryattribut euclidean3 euclidean3d node attribut getattribut
+param node node boundari facet check
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+attribut insid getplusinsid
+plane subplan attribut getplusoutsid remain region getremainingregion check point checkpoint point2 point2d locat insid
+repres region set polyhedron
+plane subplan attribut insid getplusinsid remain region getremainingregion check point checkpoint point2 point2d locat insid
+boundari facet point belong
+suppress warn suppresswarn uncheck
+belong boundari facet

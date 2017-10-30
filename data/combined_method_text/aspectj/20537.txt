@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+instruct list instructionlist creat jump base boolean stack createjumpbasedonbooleanonstack
+instruct list instructionlist instruct list instructionlist
+bother gener matter
+insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto
+insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifn
+insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifeq
+insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto
+insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifeq

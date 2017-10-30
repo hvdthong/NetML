@@ -1,0 +1,41 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+unresolv type unresolvedtyp ensur target type correct ensuretargettypeiscorrect unresolv type unresolvedtyp
+member msig signatur getsignatur
+msig ariti getar
+kind getkind method call methodcal
+msig getnam char charat
+equal resolv type resolvedtyp object
+msig return type getreturntyp equal resolv type resolvedtyp object
+msig getnam equal clone
+let back code start shadow
+instruct handl instructionhandl search ptr searchptr rang start getstart prev getprev
+rang rang handl israngehandl search ptr searchptr
+search ptr searchptr instruct getinstruct store instruct storeinstruct searchptr getinstruct instanceof storeinstruct ignor instruct doesnt give info
+search ptr searchptr search ptr searchptr prev getprev
+load instruct real type clone call
+search ptr searchptr instruct getinstruct load instruct loadinstruct
+load instruct loadinstruct load instruct loadinstruct search ptr searchptr instruct getinstruct
+index getindex
+local variabl tag localvariabletag lvt lazi method gen lazymethodgen local variabl tag getlocalvariabletag search ptr searchptr index getindex
+lvt unresolv type unresolvedtyp signatur forsignatur lvt type gettyp
+field access instruct real type clone call
+search ptr searchptr instruct getinstruct field instruct fieldinstruct
+field instruct fieldinstruct field instruct fieldinstruct search ptr searchptr instruct getinstruct
+type field type getfieldtyp enclos class getenclosingclass constant pool gen getconstantpoolgen
+bcel world bcelworld bcel frombcel
+arrai instruct tell arrai type
+search ptr searchptr instruct getinstruct anewarrai
+anewarrai ana anewarrai searchpoint getinstruct
+type ana gettyp getenclosingclass getconstantpoolgen
+standard java lang object arrai work fine
+bcel world bcelworld bcel frombcel arrai type arraytyp type object
+multi arrai instruct tell arrai type
+search ptr searchptr instruct getinstruct multianewarrai
+multianewarrai ana multianewarrai search ptr searchptr instruct getinstruct
+type ana gettyp getenclosingclass getconstantpoolgen
+arraytyp ana getdimens
+standard java lang object arrai work fine
+bcel world bcelworld bcel frombcel arrai type arraytyp type object ana dimens getdimens
+except bcexcept determin real target clone process instruct
+search ptr searchptr instruct getinstruct avoid select clone pointcut

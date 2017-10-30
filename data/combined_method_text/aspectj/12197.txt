@@ -1,0 +1,62 @@
+org aspectj apach bcel classfil
+wrapper class pars java class file method
+href pars pars return href javaclass html
+javaclass object success error
+inconsist occur appropi except propag back
+caller
+structur name compli conveni
+href ftp java sun doc spec vmspec
+jvm specif paper
+detail structur bytecod file
+version classpars java aclement exp
+author href mailto marku dahm berlin dahm
+class parser classpars
+pars java class file return object repres
+contain data constant method field command
+classformatexcept rais file valid
+class file includ verif byte code
+perform java interpret
+return class object repres pars class file
+throw ioexcept
+throw classformatexcept
+java class javaclass pars except ioexcept class format except classformatexcept
+read header
+check magic tag class file
+read readid
+compil version
+read version readvers
+read constant pool relat
+read constant pool entri
+read constant pool readconstantpool
+class inform
+read class info readclassinfo
+interfac inform implement interfac
+read interfac readinterfac
+read class field method
+read class field variabl class
+read field readfield
+read class method function class
+read method readmethod
+read class attribut
+read attribut readattribut
+check unknown variabl
+unknown unknown getunknownattribut
+int length
+system err println warn
+read
+file
+int byte file
+byte buf byte byte
+file read buf
+zip buf length
+system err println warn trail garbag end file
+system err println byte extra byte util tohexstr buf
+read interest close file
+file close
+zip
+zip close
+return inform gather object
+java class javaclass class index superclass index
+file major minor access flag
+constant pool interfac field
+method attribut zip java class javaclass zip java class javaclass file

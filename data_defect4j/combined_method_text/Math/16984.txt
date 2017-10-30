@@ -1,0 +1,29 @@
+code
+org apach common math3 util
+href http mathworld wolfram binomi coeffici binomialcoeffici html binomi
+repres integ
+combinator util combinatoricsutil check binomi checkbinomi
+param size set
+result
+code illeg argument except illegalargumentexcept thrown
+code choos
+doubl max comput exce doubl max
+doubl posit infin return
+strong precondit strong
+version
+code element set
+largest code coeffici
+param size subset count
+binomi coeffici binomialcoeffici
+code element subset select
+combinatori util
+result small fit code
+math arithmet except matharithmeticexcept result larg
+posit except notpositiveexcept number larg except numberistoolargeexcept math arithmet except matharithmeticexcept
+number larg except numberistoolargeexcept code
+fast math fastmath floor result
+combinator util combinatoricsutil
+coeffici code choos number
+posit except notpositiveexcept code
+return code represent
+binomi coeffici doubl binomialcoefficientdoubl

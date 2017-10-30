@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+bcel method bcelmethod bcel object type bcelobjecttyp declar type declaringtyp method method
+method getnam equal init constructor
+method getnam equal clinit static initi static initi method
+declar type declaringtyp resolv type getresolvedtypex
+declar type declaringtyp interfac isinterfac
+method access flag getaccessflag modifi interfac
+method access flag getaccessflag
+method getnam
+method signatur getsignatur
+method method
+sourc context sourcecontext declar type declaringtyp resolv type getresolvedtypex sourc context getsourcecontext
+world declar type declaringtyp resolv type getresolvedtypex world getworld
+bcel object type bcelobjecttyp declar type declaringtyp
+unpack java attribut unpackjavaattribut
+unpack attribut unpackajattribut world

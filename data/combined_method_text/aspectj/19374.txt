@@ -1,0 +1,40 @@
+org aspectj weaver
+refer type repres 'real' type primit arrai
+real type java util list referencetyp deleg
+underli artifact eclips artifact
+bcel artifact type repres raw type
+gener form generictyp field set point
+gener type parameter type gener type
+set point gener form
+refer type referencetyp resolv type resolvedtyp
+coerceabl parameter type iscoerceablefromparameterizedtyp resolv type resolvedtyp
+parameter type isparameterizedtyp
+resolv type resolvedtyp raw type myrawtyp resolv type resolvedtyp raw type getrawtyp
+resolv type resolvedtyp raw type theirrawtyp resolv type resolvedtyp raw type getrawtyp
+raw type myrawtyp raw type theirrawtyp
+type paramet gettypeparamet length type paramet gettypeparamet length
+chanc
+resolv type resolvedtyp type paramet mytypeparamet resolv type paramet getresolvedtypeparamet
+resolv type resolvedtyp type paramet theirtypeparamet resolv type paramet getresolvedtypeparamet
+type paramet mytypeparamet length
+type paramet mytypeparamet type paramet theirtypeparamet
+thin ic list string coerceabl list
+type paramet mytypeparamet gener wildcard isgenericwildcard
+bound refer type boundedreferencetyp wildcard bound refer type boundedreferencetyp type paramet mytypeparamet
+wildcard coerc canbecoercedto type paramet theirtypeparamet
+type paramet mytypeparamet type variabl refer istypevariablerefer
+type variabl refer type typevariablereferencetyp tvrt type variabl refer type typevariablereferencetyp type paramet mytypeparamet
+type variabl typevari tvrt type variabl gettypevari
+resolv world
+bound canbeboundto type paramet theirtypeparamet
+type paramet theirtypeparamet type variabl refer istypevariablerefer
+type variabl refer type typevariablereferencetyp tvrt type variabl refer type typevariablereferencetyp type paramet theirtypeparamet
+type variabl typevari tvrt type variabl gettypevari
+resolv world
+bound canbeboundto type paramet mytypeparamet
+walk situat
+base extend base
+coerceabl base
+iter direct supertyp getdirectsupertyp hasnext
+refer type referencetyp parent refer type referencetyp
+parent coerceabl parameter type iscoerceablefromparameterizedtyp

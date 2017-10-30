@@ -1,0 +1,16 @@
+org aspectj weaver pattern
+pattern parser patternpars
+throw pattern throwspattern pars option throw pattern parseoptionalthrowspattern
+token itoken token sourc tokensourc peek
+identifi isidentifi string getstr equal throw
+token sourc tokensourc
+list requir arrai list arraylist
+list forbidden arrai list arraylist
+forbidden isforbidden eat maybeeat
+error paren
+type pattern typepattern pars type pattern parsetypepattern
+forbidden isforbidden forbidden add
+requir add
+eat maybeeat
+throw pattern throwspattern type pattern list typepatternlist requir type pattern list typepatternlist forbidden
+throw pattern throwspattern

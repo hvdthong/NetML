@@ -1,0 +1,51 @@
+org aspectj weaver bcel
+access method field public bodi advic replac
+invoc wrapper call advic inlin
+munger aspect inlin wrapper compil time
+specif state logic munger ala itd call set pointcut match
+wrap member effectivesignatur attribut
+author href mailto alex gnilux dot alexandr vasseur
+bcel access inlin munger bcelaccessforinlinemung bcel type munger bceltypemung
+add inlin wrapper public super method call
+param resolvedmemb
+return
+resolv member resolvedmemb creat inlin accessor super dispatch createorgetinlineaccessorforsuperdispatch resolv member resolvedmemb resolv member resolvedmemb
+string accessor mangler namemangl super dispatch method superdispatchmethod
+aspect type aspecttyp resolv member resolvedmemb getnam
+resolv member resolvedmemb inlin accessor inlineaccessor resolv member resolvedmemb inlin accessor bcel method inlineaccessorbcelmethod accessor
+inlin accessor inlineaccessor
+add static method aspect
+inlin accessor inlineaccessor ajc member maker ajcmembermak super access method superaccessmethod
+aspect type aspecttyp
+resolv member resolvedmemb
+add accessor method aspect bytecod
+instruct factori instructionfactori factori aspect gen aspectgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen aspect gen aspectgen inlin accessor inlineaccessor
+flag synthet ajsynthet
+method make synthet makesynthet
+method add attribut addattribut
+bcel attribut bcelattribut bcel attribut bcelattribut attribut ajattribut synthet ajsynthet aspect gen aspectgen constant pool gen getconstantpoolgen
+flag effect signatur deobfusc signatur appli method call pointcut
+method add attribut addattribut
+bcel attribut bcelattribut bcel attribut bcelattribut
+attribut ajattribut effect signatur attribut effectivesignatureattribut resolv member resolvedmemb shadow method call methodcal
+aspect gen aspectgen constant pool gen getconstantpoolgen
+inlin accessor method gen inlineaccessormethodgen add method
+instruct list instructionlist method bodi getbodi
+append instruct constant instructionconst aload
+regist
+inlin accessor inlineaccessor paramet type getparametertyp length
+unresolv type unresolvedtyp type typex inlin accessor inlineaccessor paramet type getparametertyp
+type type bcel world bcelworld make bcel type makebceltyp type typex
+append instruct factori instructionfactori creat load createload type regist
+regist type size getsiz
+append
+util creat invok createinvok
+factori
+constant invokespeci
+resolv member resolvedmemb
+append instruct factori instructionfactori creat return createreturn bcel world bcelworld make bcel type makebceltyp inlin accessor inlineaccessor return type getreturntyp
+inlin accessor bcel method inlineaccessorbcelmethod put
+accessor
+bcel method bcelmethod aspect gen aspectgen bcel object type getbcelobjecttyp method method getmethod
+inlin accessor inlineaccessor

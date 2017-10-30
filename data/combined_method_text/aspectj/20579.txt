@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bind target bindsthisortarget pointcut pointcut
+target finder thistargetfind visitor target finder thistargetfind
+pointcut accept visitor
+visitor bind target bindsthisortarget

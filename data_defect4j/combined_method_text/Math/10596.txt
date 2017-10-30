@@ -1,0 +1,20 @@
+arbitrari interv code
+param lower bound integr interv
+org apach common math3 analysi integr gauss
+assum natur interv code
+point rule getfirst
+perform chang variabl integr perform
+gauss integr factori gaussintegratorfactori
+weight scale
+pair point weight
+weight rule getsecond
+point length
+param rule origin point weight
+class wai comput node weight
+link gauss integr gaussintegr gaussian integr rule
+version
+scale
+pair transform pair rule
+point point scale shift
+shift scale
+point weight adapt interv

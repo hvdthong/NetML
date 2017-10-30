@@ -1,0 +1,9 @@
+org aspectj ajd intern
+author mik kersten
+navig histori model navigationhistorymodel
+return null histori empti
+program element iprogramel navig forward navigateforward
+forward histori forwardhistori empti isempti curr node currnod
+back histori backhistori push curr node currnod
+curr node currnod program element iprogramel forward histori forwardhistori pop
+curr node currnod

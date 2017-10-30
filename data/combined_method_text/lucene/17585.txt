@@ -1,0 +1,11 @@
+org apach lucen util
+method manipul arrai
+lucen intern
+arrai util arrayutil
+grow arrai min size minsiz
+arrai length min size minsiz
+suppress warn suppresswarn uncheck arrai newarrai
+arrai instanc newinst arrai class getclass compon type getcomponenttyp overs min size minsiz ram usag estim ramusageestim num byte object ref num byte object ref
+system arraycopi arrai arrai newarrai arrai length
+arrai newarrai
+arrai

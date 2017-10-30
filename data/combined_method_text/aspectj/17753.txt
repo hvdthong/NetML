@@ -1,0 +1,58 @@
+org aspectj tool ant taskdef
+partial implement compileradapt ajc task
+javac interfac support argfil
+typic compil ajc
+implement document recommend support
+apach request enhanc
+href http nagoya apach org bugzilla show bug cgi
+compileradapt
+ajc compil adapt ajccompileradapt compil adapt compileradapt
+compileradapt
+set javac setjavac javac javac
+javac
+illeg argument except illegalargumentexcept null javac
+object task javac project getproject creat task createtask ajc
+string err
+task
+err ajc defin put ajc taskdef librari classpath
+task ajc10
+string task class getclass getnam
+err wrong class ajc task
+equal ajc10 getnam
+err err class loader put ajc taskdef librari
+system classpath ant lib
+err err
+err
+error err
+ajc10 temp ajc tempajc ajc10 task
+path src dir srcdir javac srcdir getsrcdir
+src dir srcdir
+temp ajc tempajc set srcdir setsrcdir src dir srcdir
+file dest dir destdir javac destdir getdestdir
+dest dir destdir
+temp ajc tempajc set destdir setdestdir dest dir destdir path getpath
+path classpath javac classpath getclasspath
+classpath
+temp ajc tempajc set classpath setclasspath classpath
+path bootclasspath javac bootclasspath getbootclasspath
+bootclasspath
+temp ajc tempajc set bootclasspath setbootclasspath bootclasspath
+path ext dir extdir javac extdir getextdir
+ext dir extdir
+temp ajc tempajc set extdir setextdir ext dir extdir
+temp ajc tempajc set failonerror setfailonerror javac failonerror getfailonerror
+temp ajc tempajc set deprec setdeprec javac deprec getdeprec tempajc setdeprec javac getdeprec xxx unsupport
+temp ajc tempajc set encod setencod javac encod getencod
+temp ajc tempajc set debug setdebug javac debug getdebug tempajc setdebug javac getdebug xxx unsupport
+temp ajc tempajc set optim setoptim javac optim getoptim tempajc setoptim javac getoptim xxx unsupport
+temp ajc tempajc set depend setdepend javac depend getdepend tempajc setdepend javac getdepend xxx unsupport
+temp ajc tempajc set verbos setverbos javac verbos getverbos
+string target javac target gettarget
+target
+temp ajc tempajc set target settarget target
+temp ajc tempajc set includeantruntim setincludeantruntim javac includeantruntim getincludeantruntim tempajc setincludeantruntim javac getincludeantruntim xxx unsupport
+file file javac file list getfilelist
+file
+file length
+temp ajc tempajc backdoor set file backdoorsetfil file
+ajc temp ajc tempajc

@@ -1,0 +1,15 @@
+org aspectj ajd swing
+error dialog errordialog dialog jdialog
+error dialog errordialog frame owner string titl throwabl throwabl string messag string detail
+owner titl
+init jbinit
+string except exceptionnam unknown except
+throwabl except exceptionnam throwabl class getclass getnam
+error label1 set text settext except except exceptionnam
+error label2 set text settext fix submit bug http dev eclips org bug
+stack trace text area stacktrac textarea set text settext messag messag stack trace detail
+set size setsiz
+set locat rel setlocationrelativeto owner
+content pane getcontentpan set layout setlayout border layout1 borderlayout1
+except
+print stack trace printstacktrac

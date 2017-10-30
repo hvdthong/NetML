@@ -1,0 +1,28 @@
+generics problem signature generic type
+public aspect outeraspect
+private pointcut issetter execution void set
+public static aspect inneraspect pertarget issetter
+
+
+java lang illegalstateexception
+org aspectj apache bcel classfile genericsignatureparser parsefieldtypesignature genericsignatureparser java
+org aspectj apache bcel classfile genericsignatureparser parsetypeargument genericsignatureparser java
+org aspectj apache bcel classfile genericsignatureparser maybeparsetypearguments genericsignatureparser java
+org aspectj apache bcel classfile genericsignatureparser parseclasstypesignature genericsignatureparser java
+org aspectj apache bcel classfile genericsignatureparser parseasclasssignature genericsignatureparser java
+org aspectj apache bcel classfile signature asclasssignature signature java
+org aspectj apache bcel classfile javaclass getgenericclasstypesignature javaclass java
+org aspectj weaver bcel bcelobjecttype initializefromjavaclass bcelobjecttype java
+org aspectj weaver bcel bcelobjecttype init bcelobjecttype java
+org aspectj weaver bcel bcelworld buildbceldelegate bcelworld java
+org aspectj weaver bcel bcelworld addsourceobjecttype bcelworld java
+org aspectj weaver bcel bcelweaver addifaspect bcelweaver java
+org aspectj weaver bcel bcelweaver addaspectsfromdirectory bcelweaver java
+org aspectj weaver bcel bcelweaver addlibraryjarfile bcelweaver java
+org aspectj ajdt internal core builder ajbuildmanager initbcelworld ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager dobuild ajbuildmanager java
+org aspectj ajdt internal core builder ajbuildmanager incrementalbuild ajbuildmanager java
+org aspectj ajde internal compileradapter compile compileradapter java
+org aspectj ajde internal aspectjbuildmanager compilerthread run aspectjbuildmanager java
+illegalstateexception thrown expecting found pjava unpacking ljava util abstractset pjava util map entry

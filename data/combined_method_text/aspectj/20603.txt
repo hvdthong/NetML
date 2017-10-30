@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+lazi method gen lazymethodgen enclos method getenclosingmethod
+enclos method enclosingmethod

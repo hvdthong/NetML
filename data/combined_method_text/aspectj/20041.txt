@@ -1,0 +1,17 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+dump process fatal error occur
+accept dump visitor ivisitor visitor
+visitor visitobject extra configur
+visitor visitlist extraconfigur
+visitor visit object visitobject shadow munger
+visitor visit list visitlist crosscut member set crosscuttingmembersset shadow munger getshadowmung
+visitor visit object visitobject type munger
+visitor visit list visitlist crosscut member set crosscuttingmembersset type munger gettypemung
+visitor visit object visitobject late type munger
+visitor visit list visitlist crosscut member set crosscuttingmembersset late type munger getlatetypemung
+dump state find type except dumpstat cantfindtypeexcept
+visitor visit object visitobject find type problem
+visitor visit list visitlist dump state find type except dumpstat cantfindtypeexcept
+dump state find type except dumpstat cantfindtypeexcept

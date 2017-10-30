@@ -1,0 +1,36 @@
+temp temp
+tangent tabl
+org apach common math3 util
+split add splitadd result temp result
+angl addit formula complet tabl
+result
+split reciproc splitreciproc
+param tangent tabl tabl signific part tangent
+split mult splitmult temp
+param sine tabl len length tabl
+split mult splitmult result
+sine tabl result
+slow co slowco result
+suppress warn suppresswarn unus
+version
+comput sine
+build sin co tabl buildsincost sine tabl sine tabl
+cosin tabl result
+fast math calc fastmathcalc
+build sine cosin tabl
+class comput classic function tabl
+param cosin tabl tabl signific part cosin
+split add splitadd temp result
+cosin tabl cosin tabl
+slow sin slowsin result
+comput tangent sine cosin
+sine tabl len tangent tabl tangent tabl
+temp
+angl
+sine tabl
+taylor seri
+param sine tabl tabl signific part sine
+comput cosin
+cosin tabl
+split mult splitmult
+sine tabl len

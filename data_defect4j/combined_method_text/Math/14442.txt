@@ -1,0 +1,34 @@
+pre
+rel tol reltol compon
+inherit doc inheritdoc
+adapt stepsiz integr adaptivestepsizeintegr
+algorithm perform integr stepsiz control
+overrid
+step reject attempt made
+dimens mismatch except dimensionmismatchexcept main set dimens mainsetdimens vec rel toler vecrelativetoler length
+main set dimens step accept
+link expand state od expandablestatefulod primari state getprimaryst primari part
+dimens mismatch except dimensionmismatchexcept main set dimens mainsetdimens vec absolut toler vecabsolutetoler length
+vec absolut toler vecabsolutetoler vec absolut toler vecabsolutetoler length main set dimens mainsetdimens
+dimens mismatch except dimensionmismatchexcept number small except numberistoosmallexcept
+state vector stepsiz control complet state vector
+version
+compon user scalar valu ab tol abstol
+main set dimens mainsetdimens equat primari mapper getprimarymapp dimens getdimens
+sqrt sum err est errest threshold
+saniti check sanitycheck equat
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+org apach common math3 od nonstiff
+vec rel toler vecrelativetoler vec rel toler vecrelativetoler length main set dimens mainsetdimens
+stepsiz integr ordinari differenti equat
+ab tol abstol absolut toler compon
+mean user integr step
+hold common part adapt
+extend od link
+toler error error threshold comput
+ordinari differenti equat link expand state od expandablestatefulod
+org apach common math3 od order differenti equat firstorderdifferentialequ basic od
+saniti check sanitycheck expand state od expandablestatefulod equat
+estim error
+stepsiz

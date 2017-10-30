@@ -1,0 +1,24 @@
+org apach lucen search
+wrap filter result cach purpos
+filter simpli filter wrap class
+add cach
+note wrap filter queri
+constantscorequeri enforc
+delet link deletesmod recach
+link deletesmod dynam
+cach wrapper filter cachingwrapperfilt filter
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+index reader indexread reader context reader
+object core kei corekei reader core cach kei getcorecachekei
+object del core kei delcorekei reader delet hasdelet reader delet doc getdeleteddoc core kei corekei
+doc set docidset doc set docidset cach reader core kei corekei del core kei delcorekei
+doc set docidset
+hit count hitcount
+doc set docidset
+miss count misscount
+cach miss
+doc set docidset doc set cach docidsettocach filter doc set getdocidset context reader
+doc set docidset
+cach put core kei corekei del core kei delcorekei doc set docidset
+doc set docidset

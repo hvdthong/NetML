@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+pattern parser patternpars
+eat maybeeatnew type pattern typepattern return type returntyp
+return type returntyp wild type pattern wildtypepattern
+wild type pattern wildtypepattern wild type pattern wildtypepattern return type returntyp
+extract maybeextractnam
+start token sourc tokensourc index getindex
+eat maybeeat
+string eat identifi maybeeatidentifi
+equal
+token sourc tokensourc set index setindex start

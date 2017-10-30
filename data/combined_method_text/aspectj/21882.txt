@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+fuzzi boolean fuzzyboolean match runtim type matchesruntimetyp annot element annotatedel annot
+resolv annot type getresolvedannotationtyp annot hasannot unresolv type unresolvedtyp inherit inherit
+static match good
+match annot true alwaystru
+fuzzi boolean fuzzyboolean
+subtyp match runtim
+fuzzi boolean fuzzyboolean

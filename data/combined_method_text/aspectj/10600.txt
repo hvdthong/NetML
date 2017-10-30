@@ -1,0 +1,26 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+structur view node istructureviewnod crosscut children getcrosscuttingchildren program element iprogramel node
+structureviewnodeadapt treenod structureviewnodeadapt node
+istructureviewnod treenod nodefactori createnod node
+list relat iprogramel node getrel
+runtim except runtimeexcept unimpl
+relat null
+iter relat iter hasnext
+irelationship relat irelationship
+relat getnam equal pointcut
+iter it2 relat gettarget iter it2 hasnext
+iprogramel pnode linknod it2 getprogramelementnod
+structureviewnod newnod getcrosscuttingchildren pnode
+iter it3 pnode getrel iter it3 hasnext
+irelationship relationnod irel it3
+relationnod getnam indexof pointcut
+newnod add getrel relationnod
+treenod add newnod
+relat tostr indexof pointcut
+iter it4 relat iter it4 hasnext
+irel relationnod irelationship it4
+relationnod getnam indexof pointcut
+treenod add getrel relationnod
+return treenod

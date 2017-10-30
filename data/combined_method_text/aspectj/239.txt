@@ -1,0 +1,16 @@
+org aspectj ajd core
+class tool drive build ajcompil creat
+uniqu absolut pathnam project
+lst file implement icompilerconfigur
+ibuildprogressmonitor ibuildmessagehandl tool call
+build buildfresh ajcompil
+ajcompil
+creat project lst file
+respons tool manag lifecycl ajcompiler'
+compil ajcompil
+clear increment state ajcompil
+incrementalstatemanag ajstat
+rework ajstat ajcompil
+requir map
+clear state clearlastst
+increment state manag incrementalstatemanag remov increment state inform removeincrementalstateinformationfor compil compilerid

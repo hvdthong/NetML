@@ -1,0 +1,25 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+param cudeclar
+param buildconfig
+param structuremodel hiearchi add unit' declar
+build structur compil unit buildstructureforcompilationunit compil unit declar compilationunitdeclar declar cudeclar hierarchi ihierarchi structur model structuremodel build config ajbuildconfig build config buildconfig
+curr compil result currcompilationresult declar cudeclar compil result compilationresult
+filenam string curr compil result currcompilationresult file filenam
+linesep curr compil result currcompilationresult line separ posit lineseparatorposit
+lang util langutil throw iax null throwiaxifnul curr compil result currcompilationresult result
+stack stack
+build config buildconfig build config buildconfig
+intern build internalbuild declar cudeclar structur model structuremodel
+build config buildconfig buildconfig null clear refer structur anchor static
+curr compil result currcompilationresult
+stack clear
+throw runtimeexcept implement

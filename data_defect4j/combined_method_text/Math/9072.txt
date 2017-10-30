@@ -1,0 +1,14 @@
+pre
+org apach common math stat infer
+group
+common math distribut implement estim exact valu
+default constructor
+anova impl onewayanovaimpl anova onewayanova
+anova impl onewayanovaimpl
+abbrevi group
+http faculti vassar lowri ch13pt1 html
+version revis date
+implement base descript
+implement anova statist defin link anova impl onewayanovaimpl
+link org apach common math distribut distribut fdistribut
+sum squar deviat

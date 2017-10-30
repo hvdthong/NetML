@@ -1,0 +1,16 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+byte arrai output stream bytearrayoutputstream outxml content getoutxmlcont list aspect name aspectnam
+byte arrai output stream bytearrayoutputstream bao byte arrai output stream bytearrayoutputstream
+print stream printstream print stream printstream bao
+println aspectj
+println aspect
+aspect name aspectnam
+iter aspect name aspectnam iter hasnext
+string string
+println aspect
+println aspect
+println aspectj
+println
+close
+bao

@@ -1,0 +1,121 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+compar class structur intermedi unwoven class
+existingresolvedtyp class world
+structur differ ignor member result weav
+note andi lot problem eventu resolv
+build compactstructur base classfileread
+resolvedtyp accessor type funki field
+compil creat support languag static type
+mangl ctor prefix instanc surround type
+warn long bore method implement
+param reader
+param existingtyp
+return
+structur hasstructuralchang class file reader classfileread reader compact type structur represent compacttypestructurerepresent exist type existingtyp
+exist type existingtyp
+modifi
+modifi equal modifiersequ reader modifi getmodifi exist type existingtyp modifi
+gener signatur
+char oper charoper equal reader gener signatur getgenericsignatur exist type existingtyp gener signatur genericsignatur
+superclass
+char oper charoper equal reader superclass getsuperclassnam exist type existingtyp superclass superclassnam
+interfac
+exist if existingif exist type existingtyp interfac
+if char newifsaschar reader interfac name getinterfacenam
+if char newifsaschar if char newifsaschar empti char arrai empti char arrai newifsaschar null newifsaschar empti char arrai damn lazi
+exist if existingif exist if existingif empti char arrai empti char arrai
+exist if existingif length if char newifsaschar length
+interfac loop if char newifsaschar length
+exist if existingif length
+char oper charoper equal exist if existingif if char newifsaschar
+interfac loop
+field
+compactmemberstructurerepresent existingfield existingtyp field
+binari field ibinaryfield field newfield reader field getfield
+field newfield field newfield compact type structur represent compacttypestructurerepresent field nofield
+redund optim point
+remov ajc xxx field compar
+exist field bug
+list nongenfield arraylist
+int newfield length
+ibinaryfield field newfield
+charoper prefixequ namemangl ajc dollar prefix field getnam skip ajc field
+field getmodifi 0x1000 0x1000 synthet skip synthet field
+nongenfield add field
+binari field ibinaryfield exist existingf exist type existingtyp bin field binfield
+field newfield length exist existingf length
+field loop
+field newfield length
+binari field ibinaryfield field field newfield
+field fieldnam field getnam
+exist existingf length
+char oper charoper equal exist existingf getnam field fieldnam
+modifi equal modifiersequ field modifi getmodifi exist existingf modifi getmodifi
+char oper charoper equal exist existingf type gettypenam field type gettypenam
+field loop
+method
+compactmemberstructurerepresent existingmethod existingtyp method
+binari method ibinarymethod method newmethod reader method getmethod
+method newmethod method newmethod compact type structur represent compacttypestructurerepresent method nomethod
+redund optim point
+ctor static type 'extra parameter' enclos type
+skippabledescriptorprefix set set descriptor portion
+'extra parameter' class pkg foo skippabl descriptor
+prefix lpkg foo compar init method
+compar
+code complic worth rip
+creat structur object base classread output
+resolvedtyp treat method peculiar
+char skippabledescriptorprefix null
+char enclosingtypenam reader getenclosingtypenam
+boolean isstatictyp modifi isstat reader getmodifi
+isstatictyp enclosingtypenam null
+stringbuff stringbuff
+append append string enclosingtypenam append
+skippabledescriptorprefix tostr tochararrai
+remov aspectof hasaspect clinit ajc xxx method
+compar exist method bug
+list nongenmethod arraylist
+int newmethod length
+ibinarymethod method newmethod
+method getmodifi 0x1000 continu 0x1000 synthet skip access safe
+char methodnam method getselector
+charoper equal methodnam namemangl method aspectof
+charoper equal methodnam namemangl method hasaspect
+charoper equal methodnam namemangl static initi
+charoper prefixequ namemangl ajc dollar prefix methodnam
+charoper prefixequ namemangl clinit methodnam
+nongenmethod add method
+binari method ibinarymethod exist existingm exist type existingtyp bin method binmethod
+method newmethod length exist existingm length
+method loop
+method newmethod length
+binari method ibinarymethod method method newmethod
+method methodnam method selector getselector
+exist existingm length
+char oper charoper equal exist existingm selector getselector method methodnam
+candid match
+char oper charoper equal method method descriptor getmethoddescriptor exist existingm method descriptor getmethoddescriptor
+descriptor match funki ctor static
+type
+boolean mightbeok
+skippabledescriptorprefix null set type
+charoper equal methodnam namemangl init ctor
+charoper prefixequ skippabledescriptorprefix method getmethoddescriptor check prefix descriptor
+mightbeok
+descriptor start lpkg foo rest
+descriptor take paramet
+lpkg ljava lang string skippableprefix lpkg
+char method getmethoddescriptor
+char remaind charoper subarrai skippabledescriptorprefix length length
+charoper equal remaind bracket continu method loop paramet worri
+char comparablesig charoper subarrai existingmethod signatur existingmethod signatur length
+boolean match charoper equal comparablesig remaind
+match continu method loop
+continu overload
+match sig
+modifi equal modifiersequ method modifi getmodifi exist existingm modifi getmodifi
+method loop
+return true match found

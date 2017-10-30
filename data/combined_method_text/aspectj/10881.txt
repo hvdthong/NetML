@@ -1,0 +1,51 @@
+org aspectj ajd swing
+automat updat build configur file lst
+project configur chang
+author mik kersten
+updat configur dialog updateconfigurationdialog frame jframe
+init jbinit except
+box5 box creat vertic box createverticalbox
+titl border1 titledborder1 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color project file ad remov
+titl border2 titledborder2 titl border titledbord border factori borderfactori creat etch border createetchedbord color white color build configur affect
+box2 box creat vertic box createverticalbox
+content pane getcontentpan set layout setlayout border layout1 borderlayout1
+cancel button set text settext cancel
+cancel button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+cancel button action perform cancel button actionperform
+button set text settext updat select configur
+button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+button action perform button actionperform
+global button panel globalbutton panel set layout setlayout flow layout1 flowlayout1
+panel1 jpanel1 set layout setlayout border layout3 borderlayout3
+panel1 jpanel1 set border setbord titl border1 titledborder1
+panel1 jpanel1 set minimum size setminimums dimens
+panel1 jpanel1 set prefer size setpreferreds dimens
+panel2 jpanel2 set border setbord titl border2 titledborder2
+panel2 jpanel2 set minimum size setminimums dimens
+panel2 jpanel2 set prefer size setpreferreds dimens
+panel2 jpanel2 set layout setlayout border layout2 borderlayout2
+global button panel globalbutton panel set minimum size setminimums dimens
+global button panel globalbutton panel set prefer size setpreferreds dimens
+panel3 jpanel3 set layout setlayout grid layout1 gridlayout1
+panel3 jpanel3 set minimum size setminimums dimens
+panel3 jpanel3 set prefer size setpreferreds dimens
+build config list buildconfiglist set border setbord border factori borderfactori creat lower bevel border createloweredbevelbord
+messag label1 messagelabel1 set text settext message1
+messag label2 messagelabel2 set text settext message2
+updat file list updatedfileslist set font setfont java awt font dialog
+content pane getcontentpan add box5 border layout borderlayout center
+box5 add panel3 jpanel3
+panel3 jpanel3 add box2
+box2 add messag label1 messagelabel1
+box2 add messag label2 messagelabel2
+box5 add panel1 jpanel1
+panel1 jpanel1 add scroll pane1 jscrollpane1 border layout borderlayout center
+scroll pane1 jscrollpane1 viewport getviewport add updat file list updatedfileslist
+box5 add panel2 jpanel2
+panel2 jpanel2 add scroll pane2 jscrollpane2 border layout borderlayout center
+scroll pane2 jscrollpane2 viewport getviewport add build config list buildconfiglist
+box5 add global button panel globalbutton panel
+global button panel globalbutton panel add button
+global button panel globalbutton panel add cancel button

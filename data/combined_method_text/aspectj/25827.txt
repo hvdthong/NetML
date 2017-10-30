@@ -1,0 +1,9 @@
+org aspectj weaver
+type typex annot element annotatedel
+dump helper dumphelp string buffer stringbuff collector depth
+collector append typex signatur signatur getsignatur parameter parameter isparameter param type paramet gettypeparamet length
+parameter isparameter
+type paramet gettypeparamet length
+type typex type paramet gettypeparamet
+collector append depth collector append
+dump helper dumphelp collector depth

@@ -1,0 +1,12 @@
+vector visit
+param dimens size vector
+real vector chang visitor realvectorchangingvisitor
+org apach common math3 linear
+visit
+defin visitor entri vector visitor
+implement alter entri vector
+version
+start visit vector method call entri
+param start index entri visit
+param end index entri visit inclus
+start dimens start end

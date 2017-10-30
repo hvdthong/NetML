@@ -1,0 +1,36 @@
+org aspectj ajd swing
+edit build configur lst file graphic tree base
+represent
+author mik kersten
+tree view build config editor treeviewbuildconfigeditor panel jpanel build config editor buildconfigeditor
+init jbinit except
+set layout setlayout border layout1 borderlayout1
+label1 jlabel1 set font setfont java awt font dialog
+label1 jlabel1 set maximum size setmaximums dimens
+label1 jlabel1 set minimum size setminimums dimens
+label1 jlabel1 set prefer size setpreferreds dimens
+label1 jlabel1 set text settext config file editor
+cancel button set font setfont java awt font dialog
+cancel button set maximum size setmaximums dimens
+cancel button set minimum size setminimums dimens
+cancel button set prefer size setpreferreds dimens
+cancel button set text settext cancel
+cancel button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+cancel button action perform cancel button actionperform
+panel1 jpanel1 set layout setlayout border layout2 borderlayout2
+save button set text settext save
+save button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+save button action perform save button actionperform
+save button set prefer size setpreferreds dimens
+save button set minimum size setminimums dimens
+save button set maximum size setmaximums dimens
+save button set font setfont java awt font dialog
+add panel1 jpanel1 border layout borderlayout north
+panel1 jpanel1 add panel2 jpanel2 border layout borderlayout east
+panel2 jpanel2 add save button
+jpanel2 add cancel button null
+panel1 jpanel1 add label1 jlabel1 border layout borderlayout center
+add scroll pane jscrollpan border layout borderlayout center
+scroll pane jscrollpan viewport getviewport add build config tree buildconfig tree

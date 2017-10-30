@@ -1,0 +1,20 @@
+org aspectj weaver reflect
+author colyer
+creat reflectionbasedreferencetypedeleg
+level run reflect avoid depend
+code base
+reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori
+resolv member resolvedmemb creat resolv advic member createresolvedadvicememb method method amethod world world inworld
+reflect base resolv member impl reflectionbasedresolvedmemberimpl ret
+reflect base resolv member impl reflectionbasedresolvedmemberimpl org aspectj weaver member advic
+resolv type toresolvedtyp method amethod declar class getdeclaringclass reflect world ireflectionworld world inworld
+method amethod modifi getmodifi
+resolv type toresolvedtyp method amethod return type getreturntyp reflect world ireflectionworld world inworld
+method amethod getnam
+resolv type arrai toresolvedtypearrai method amethod paramet type getparametertyp world inworld
+resolv type arrai toresolvedtypearrai method amethod except type getexceptiontyp world inworld
+method amethod
+world inworld reflect world ireflectionworld
+ret set annot finder setannotationfind reflect world ireflectionworld world inworld annot finder getannotationfind
+ret set gener signatur inform provid setgenericsignatureinformationprovid creat gener signatur provid creategenericsignatureprovid world inworld
+ret

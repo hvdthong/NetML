@@ -1,0 +1,49 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+determin method type requir bridg method
+import method fast method type
+nov fast
+optim
+tag type touch decp itd heavi work scan type hierarchi
+supertyp tag
+check flag test basic test suit
+calcul requir bridg method calculateanyrequiredbridgemethod
+world java5 mode isinjava5mod world isinjava5mod return
+debug
+list local method localmethod clazz method gen getmethodgen list lazymethodgen localmethod clazz getmethodgen
+set method type check bridg method
+creat
+set local method set localmethodsset hash set hashset set localmethodsset hashset method type
+local method localmethod size
+lazi method gen lazymethodgen method amethod lazi method gen lazymethodgen local method localmethod
+local method set localmethodsset add method amethod getnam method amethod signatur getsignatur
+method type
+local method localmethod size
+local method bridg
+lazi method gen lazymethodgen local method localmethod lazi method gen lazymethodgen local method localmethod
+string local method localmethodnam local method localmethod getnam
+string local paramet sig localparametersig local method localmethod paramet signatur getparametersignatur
+string local return type sig localreturntypesig local method localmethod return type getreturntyp signatur getsignatur
+local method localmethod static isstat localmethod isstat continu ignor static method
+local method localmethodnam end endswith init localmethodnam endswith init continu skip constructor static initi
+debug system err println bridg local method localmethodnam local method localmethod signatur getsignatur
+debug system err println check supertyp clazz super classnam getsuperclassnam
+check superclass
+resolv type resolvedtyp superclass thesuperclass world resolv clazz super classnam getsuperclassnam
+resolv member resolvedmemb overridden method overriddenmethod check overrid checkforoverrid superclass thesuperclass local method localmethodnam local paramet sig localparametersig local return type sig localreturntypesig local method localmethod access flag getaccessflag clazz packag getpackagenam
+overridden method overriddenmethod
+bridg method alreadyhaveabridgemethod local method set localmethodsset overridden method overriddenmethod getnam overridden method overriddenmethod signatur getsignatur
+bridg method alreadyhaveabridgemethod
+creat bridg method createbridgemethod world local method localmethod member view getmemberview clazz overridden method overriddenmethod
+debug system err println bridg overridden method overriddenmethod
+check superinterfac
+string interfac clazz interfac name getinterfacenam
+interfac length
+debug system err println check superinterfac interfac
+resolv type resolvedtyp interfac type interfacetyp world resolv interfac
+overridden method overriddenmethod check overrid checkforoverrid interfac type interfacetyp local method localmethodnam local paramet sig localparametersig local return type sig localreturntypesig local method localmethod access flag getaccessflag clazz packag getpackagenam
+overridden method overriddenmethod
+bridg method alreadyhaveabridgemethod local method set localmethodsset overridden method overriddenmethod getnam overridden method overriddenmethod signatur getsignatur
+bridg method alreadyhaveabridgemethod
+creat bridg method createbridgemethod world local method localmethod member view getmemberview clazz overridden method overriddenmethod
+debug system err println bridg overridden method overriddenmethod

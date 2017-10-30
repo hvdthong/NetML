@@ -1,0 +1,11 @@
+code code degre freedom varianc
+version
+inherit doc inheritdoc
+calcul numer varianc calculatenumericalvari
+chi squar distribut impl chisquareddistributionimpl
+overrid
+code code
+degre freedom getdegreesoffreedom
+version revis date
+implement link chi squar distribut chisquareddistribut
+org apach common math distribut

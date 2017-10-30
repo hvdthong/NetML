@@ -1,0 +1,13 @@
+org apach common math geometri euclidean threed
+repres plane dimension space
+plane link line line instanc
+build line share instanc plane
+vector3 vector3d direct vector3 vector3d cross product crossproduct
+line intersect instanc
+param plane
+direct
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+direct norm getnorm
+line intersect plane direct
+line intersect plane

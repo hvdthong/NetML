@@ -1,0 +1,18 @@
+order integr jacobian firstorderintegratorwithjacobian
+od jacobian odewithjacobian
+extend jacobian raw od variat equat
+event occur eventoccur increas
+order comput state deriv od problem
+org apach common math od jacobian
+inherit doc inheritdoc
+event except eventexcept
+ad form compound problem higher dimens origin od
+dimens time
+handler event occur eventoccur dydy0 dydp increas
+comput partial deriv solut respect initi state
+parameter od parameterizedod
+dispatch compound state dispatchcompoundst dydy0 dydp
+version revis date
+enhanc order integr differenti equat
+problem dimens paramet compound problem
+paramet

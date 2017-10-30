@@ -1,0 +1,7 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+resolv afterresolv compil unit declar compilationunitdeclar unit
+resolv token resolvingtoken
+compil weav context compilationandweavingcontext leav phase leavingphas resolv token resolvingtoken

@@ -1,0 +1,23 @@
+data except nodataexcept dimens mismatch except dimensionmismatchexcept
+number small except numberistoosmallexcept number point small
+bivari function bivariatefunct interpol xval yval
+code fval xval yval
+monoton sequenc except nonmonotonicsequenceexcept arrai sort
+org apach common math3 analysi interpol
+fval
+version
+dimens mismatch except dimensionmismatchexcept arrai length inconsist
+monoton sequenc except nonmonotonicsequenceexcept number small except numberistoosmallexcept
+dimens mismatch except dimensionmismatchexcept
+data except nodataexcept arrai length
+interfac repres bivari real interpol function
+increas order
+comput interpol function dataset
+bivari grid interpol bivariategridinterpol
+param yval coordin interpol point sort
+param fval valu interpol point grid knot
+function interpol dataset
+order interpol
+data except nodataexcept
+sampl point regular grid
+param xval coordin interpol point sort

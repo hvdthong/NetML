@@ -1,0 +1,9 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+regist pointcut design handler world pointcut parser attach
+world
+param designatorhandl handler pointcut
+regist pointcut handler registerpointcuthandl pointcut design handler pointcutdesignatorhandl design handler designatorhandl
+pointcut design pointcutdesign pointcut design pointcutdesign hash set hashset
+pointcut design pointcutdesign add design handler designatorhandl

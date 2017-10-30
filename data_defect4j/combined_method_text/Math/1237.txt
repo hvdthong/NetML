@@ -1,0 +1,12 @@
+param upper upper endpoint
+upper
+param lower lower endpoint
+util routin link univari solver univariatesolv object
+check endpoint interv
+number larg except numberistoolargeexcept local format localizedformat endpoint interv
+version
+univari solver util univariatesolverutil
+lower upper
+verifi interv verifyinterv lower
+org apach common math analysi solver
+number larg except numberistoolargeexcept code lower upper

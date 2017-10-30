@@ -1,0 +1,7 @@
+org aspectj weaver
+shadow
+type target object
+throw illegalstateexcept target
+unresolv type unresolvedtyp target type gettargettyp
+target hastarget illeg state except illegalstateexcept target
+signatur getsignatur declar type getdeclaringtyp

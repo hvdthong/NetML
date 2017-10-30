@@ -1,0 +1,26 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+sourc line getsourcelin
+kind join point shadow repres
+method constructor execut sourc line
+enclosingmethod declarationlinenumb
+sourcelin sourcelin
+kind kind kind getkind
+kind method execut methodexecut
+kind constructor execut constructorexecut
+kind advic execut adviceexecut
+kind static initi staticiniti
+kind pre initi preiniti
+kind initi
+enclos method getenclosingmethod declar line number info hasdeclaredlinenumberinfo
+sourcelin enclos method getenclosingmethod declar line number getdeclarationlinenumb
+sourcelin
+rang
+enclos method getenclosingmethod bodi hasbodi
+sourcelin util sourc line getsourcelin enclos method getenclosingmethod bodi getbodi start getstart
+sourcelin
+sourcelin
+sourcelin
+sourcelin util sourc line getsourcelin rang start getstart
+sourcelin sourcelin
+sourcelin

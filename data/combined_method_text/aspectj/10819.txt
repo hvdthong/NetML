@@ -1,0 +1,16 @@
+org aspectj ajd swing
+author mik kersten
+structur tree manag structuretreemanag
+expand tree file expandtreetofil
+structur tree structuretre row count getrowcount
+tree path treepath path structur tree structuretre path row getpathforrow
+swing tree view node swingtreeviewnod node swing tree view node swingtreeviewnod path path compon getlastpathcompon
+node user object getuserobject program element iprogramel
+program element iprogramel node pnode program element iprogramel node user object getuserobject
+program element iprogramel kind kind node pnode kind getkind
+kind program element iprogramel kind project
+kind program element iprogramel kind packag
+structur tree structuretre expand path expandpath path
+structur tree structuretre collaps path collapsepath path
+structur tree structuretre collaps path collapsepath path
+structur tree structuretre expand path expandpath structur tree structuretre path row getpathforrow

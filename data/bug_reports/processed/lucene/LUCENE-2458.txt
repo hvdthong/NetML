@@ -1,0 +1,7 @@
+queryparser makes cjk queries phrase queries analyzer
+queryparser automatically makes cjk thai lao myanmar tibetan queries phrase queries turn
+completely breaks lucene languages treats queries grep
+query abcd standardanalyzer chinese characters phrasequery cjk analyzer phrasequery smartchinese analyzer phrasequery user turn
+reason code form phrase queries internationally assumes whitespace tokenization token whitespace delimited text automatically phrase query matter
+proposed patch fixes core queryparser backwards compat form phrase queries double quote operator
+implementing subclasses extend auto generate kind queries completely break search languages care core general purpose qps language independent

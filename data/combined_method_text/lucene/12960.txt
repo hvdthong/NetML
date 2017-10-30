@@ -1,0 +1,16 @@
+org apach lucen index
+lucen experiment
+segment reader segmentread index reader indexread cloneabl
+load term index loadtermsindex segment info segmentinfo term index divisor termsindexdivisor except ioexcept
+ti
+directori dir0
+compound file getusecompoundfil
+case origin open cf
+ask open
+term reader index segment switch
+cf
+cf reader cfsreader
+cf reader cfsreader compound file reader compoundfileread dir index file name indexfilenam segment file segmentfilenam segment index file name indexfilenam compound file extens compound file extens read buffer size readbuffers
+dir0 cf reader cfsreader
+dir0 dir
+ti term info reader terminfosread dir0 segment field info fieldinfo read buffer size readbuffers term index divisor termsindexdivisor

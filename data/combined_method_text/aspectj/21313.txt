@@ -1,0 +1,11 @@
+org aspectj weaver loadtim
+gener class pre processor interfac separ aspectj load time weav
+java jvmti interfac java
+author href mailto alex gnilux dot alexandr vasseur
+class pre processor classpreprocessor
+weav
+param classnam
+param byte
+param classload
+return
+pre process preprocess string class classnam byte class loader classload class loader classload

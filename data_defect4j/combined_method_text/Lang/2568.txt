@@ -1,0 +1,29 @@
+author stephen colebourn
+pattern languag format
+format iso8601 period format
+author href mailto sbailliez apach org stephan bailliez
+year
+month
+second
+tabl border
+tabl
+millisecond
+time string
+author henri yandel
+format durat formatdur durat milli durationmilli iso extend format pattern
+version
+durat format util constant tabl describ token
+iso format pattern th5 p7d6th5m4 321
+string format durat iso formatdurationiso durat milli durationmilli
+durat format util durationformatutil
+param durat milli durationmilli durat format
+dai
+author href mailto ggregori seagullsw gari gregori
+method format durat dai lower field
+format time gap string
+charact durat element
+author apach ant date util dateutil
+hour
+author href mailto stefan bodewig epost stefan bodewig
+org apach common lang time
+minut

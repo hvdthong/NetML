@@ -1,0 +1,7 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+lookup refer type world signatur return
+null found
+refer type referencetyp lookup signatur lookupbysignatur string signatur
+refer type referencetyp type map typemap signatur

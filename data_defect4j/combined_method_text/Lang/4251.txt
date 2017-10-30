@@ -1,0 +1,39 @@
+overrid
+implement serializ depend valu
+buffer append
+pair string object pair context valu contextvalu
+author ashmor
+string str valuestr
+default implement context store label pair context except
+except
+buffer append pair kei getkei
+string label context map contextvaluemap kei set keyset
+buffer append label
+author apach softwar foundat
+string format except messag getformattedexceptionmessag string base messag basemessag
+org apach common lang3 except
+except util exceptionutil stack trace getstacktrac
+default except context defaultexceptioncontext except context exceptioncontext serializ
+str valuestr string tostr
+throwabl
+context map contextvaluemap label
+str valuestr except string tostr
+context map contextvaluemap size
+except messag context inform append
+object
+buffer append except context
+buffer append system util systemutil line separ
+str valuestr except thrown string tostr except util exceptionutil stack trace getstacktrac
+buffer append str valuestr
+context runtim except contextedruntimeexcept
+param base messag basemessag base except messag context inform append
+buffer string tostr
+base messag basemessag
+context valu contextvalu size
+object pair getvalu
+buffer append base messag basemessag
+string builder stringbuild buffer string builder stringbuild
+ad serializ
+buffer length
+build messag contextu inform
+context except contextedexcept

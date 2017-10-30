@@ -1,0 +1,28 @@
+org aspectj apach bcel verifi structur
+visitor class test valid precondit jvm instruct
+instanc class throw structuralcodeconstraintexcept
+instanc instruct visitxxx precondit
+satisfi
+todo jvm' behaviour monitor monitorent
+monitorexit model justic
+version instconstraintvisitor java aclement exp
+author href http www inf berlin ehaas enver haas
+org aspectj apach bcel verifi exc structuralcodeconstraintexcept
+org aspectj apach bcel verifi exc linkingconstraintexcept
+inst constraint visitor instconstraintvisitor empti visitor emptyvisitor org aspectj apach bcel gener visitor
+ensur specif precondit instruct
+visit aastor visitaastor aastor
+type arrayref stack peek
+type index stack peek
+type stack peek
+index int indexofint index
+refer type referencetyp
+constraint violat constraintviol 'value' referencetyp type
+refer type initi referencetypeisiniti refer type referencetyp
+bother referencetypeisiniti arrai
+uniniti object type
+arrayref arrai type arrayrefofarraytyp arrayref
+arrai type arraytyp arrayref element type getelementtyp refer type referencetyp
+constraint violat constraintviol 'arrayref' refer arrai element referencetyp arrai arrai type arraytyp arrayref element type getelementtyp
+refer type referencetyp assign compat isassignmentcompatiblewith refer type referencetyp arrai type arraytyp arrayref element type getelementtyp
+constraint violat constraintviol type 'value' assign compat compon arrai 'arrayref' refer arrai type arraytyp arrayref element type getelementtyp

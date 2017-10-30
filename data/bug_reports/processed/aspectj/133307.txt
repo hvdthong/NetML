@@ -1,0 +1,11 @@
+declare parents implementing generic interface referencing type
+construct
+public interface testif extends testif
+public class testclass
+public aspect testaspect
+declare parents testclass implements testif testclass
+
+aspect compile
+public class testclass implements testif testclass
+
+valid class

@@ -1,0 +1,9 @@
+org aspectj weaver
+abstract refer type deleg abstractreferencetypedeleg refer type deleg referencetypedeleg
+signatur class signatur classsignatur gener class type signatur getgenericclasstypesignatur
+cach gener class type signatur cachedgenericclasstypesignatur
+string sig declar gener signatur getdeclaredgenericsignatur
+sig
+gener signatur parser genericsignaturepars parser gener signatur parser genericsignaturepars
+cach gener class type signatur cachedgenericclasstypesignatur parser pars class signatur parseasclasssignatur sig
+cach gener class type signatur cachedgenericclasstypesignatur

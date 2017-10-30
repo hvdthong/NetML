@@ -1,0 +1,5 @@
+org aspectj tool ajbrows
+run ajbrows lst file argument ajc
+main
+report throwabl
+print stack trace printstacktrac system err

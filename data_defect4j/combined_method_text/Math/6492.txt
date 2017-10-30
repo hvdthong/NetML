@@ -1,0 +1,37 @@
+param refer integr arrai hold state
+perform call code final dofin code
+param dot ydotk refer integr arrai hold
+end step
+link abstract step interpol abstractstepinterpol interpol state getinterpolatedst
+rung kutta integr rungekuttaintegr
+org apach common math od
+integr
+embed rung kutta integr embeddedrungekuttaintegr
+od integr rung kutta rung kutta fehlberg
+intermedi slope
+param forward integr direct indic
+rung kutta integr fewer function evalu
+dot ydotk dot ydotk
+version revis date
+version rung kutta step interpol rungekuttastepinterpol java 39z luc
+interpol state getinterpolatedst method interpol
+counterpart step interpol interpol
+step handler call link
+rung kutta step interpol rungekuttastepinterpol
+interpol perform evalu evalu
+rung kutta fehlberg integr rungekuttafehlbergintegr rung kutta fehlberg integr rungekuttafehlbergintegr
+param equat set differenti equat integr
+embed rung kutta integr embeddedrungekuttaintegr embed rung kutta integr embeddedrungekuttaintegr
+dot ydotk forward
+abstract step interpol abstractstepinterpol final step finalizestep final step finalizestep method
+final clone step interpol
+reiniti order differenti equat firstorderdifferentialequ equat
+perform evalu
+equat equat
+repres interpol step
+od integr rung kutta embed rung kutta integr
+link rung kutta integr rungekuttaintegr rung kutta integr rungekuttaintegr link
+rung kutta fehlberg integr rungekuttafehlbergintegr
+class call method order step
+reiniti instanc
+reiniti forward

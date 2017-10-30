@@ -1,0 +1,6 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+set gener model mode setgeneratemodelmod structur model mode structuremodelmod
+option gener model generatemodel structur model mode structuremodelmod

@@ -1,0 +1,24 @@
+higham hall54 integr highamhall54integr embed rung kutta integr embeddedrungekuttaintegr
+inherit doc inheritdoc
+overrid
+comput high order formula stepsiz control
+estim error estimateerror dot ydotk
+org apach common math3 od nonstiff
+version
+method function evalu step
+fast math fastmath sqrt error main set dimens mainsetdimens
+scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler scale yscale
+tol vec absolut toler vecabsolutetoler
+error ratio ratio
+higham hall integr
+error
+ordinari differenti equat
+main set dimens mainsetdimens
+err sum errsum static dot ydotk
+automat step initi continu output
+integr embed rung kutta integr
+ratio err sum errsum tol
+vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler scale yscale
+scale yscale fast math fastmath max fast math fastmath ab fast math fastmath ab
+order local extrapol mode solut
+static length

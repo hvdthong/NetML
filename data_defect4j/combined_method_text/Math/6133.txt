@@ -1,0 +1,25 @@
+pre
+rel tol reltol compon
+algorithm perform integr stepsiz control
+step reject attempt made
+switch handler switcheshandl switch function getswitchingfunct
+org apach common math od
+add switch function addswitchingfunct switch function switchingfunct
+clear switch function clearswitchingfunct
+compon user scalar valu ab tol abstol
+version revis date
+switch function ad integr
+sqrt sum err est errest threshold
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+state vector dimens step accept
+collect switch state switchstat switch function getswitchingfunct
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+ab tol abstol absolut toler compon
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+mean user integr step
+estim error
+stepsiz
+unmodifi collect ad switch function

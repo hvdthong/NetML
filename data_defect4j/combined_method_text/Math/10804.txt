@@ -1,0 +1,17 @@
+org apach common math3 analysi solver
+param func type function solv
+univari solver univariatesolv
+link univari solver univariatesolv link polynomi solver polynomialsolv link
+interfac univari real rootfind algorithm
+base univari solver baseunivariatesolv func univari function univariatefunct
+implement search interv
+librari regular user reli specif interfac
+number evalu correspond call
+code optim method method
+polynomi solver polynomialsolv
+version
+call
+intend apach common math
+evalu getevalu
+number evalu object function
+differenti univari solver differentiableunivariatesolv

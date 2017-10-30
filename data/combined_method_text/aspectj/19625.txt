@@ -1,0 +1,64 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+compar exist member comparetoexistingmemb concret type munger concretetypemung munger iter exist member existingmemb
+resolv member resolvedmemb sig munger signatur getsignatur
+resolv type resolvedtyp declar aspect type declaringaspecttyp munger aspect type getaspecttyp
+declaringaspecttyp israwtyp declaringaspecttyp declaringaspecttyp getgenerictyp
+declaringaspecttyp isgenerictyp
+resolvedtyp genericontyp getworld resolv sig getdeclaringtyp getgenerictyp
+concretetypemung ctm munger parameterizedfor discoveractualoccurrenceoftypeinhierarchi genericontyp
+sig ctm getsignatur sig chang type
+munger getmung hastypevariablealias
+resolvedtyp genericontyp
+getworld resolv sig getdeclaringtyp getgenerictyp
+concretetypemung ctm
+munger parameterizedfor discoveractualoccurrenceoftypeinhierarchi genericontyp
+sig ctm getsignatur sig chang type paramet fill
+exist member existingmemb hasnext
+resolv member resolvedmemb exist member existingmemb resolv member resolvedmemb exist member existingmemb
+worri clash bridg method
+exist member existingmemb bridg method isbridgemethod
+system err println compar munger sig member existingmemb
+conflict signatur conflictingsignatur exist member existingmemb munger signatur getsignatur
+system err println conflict existingmemb existingmemb typemung munger
+system err println munger getsourceloc munger getsignatur munger getsignatur getsourceloc
+visibl isvis exist member existingmemb modifi getmodifi munger aspect type getaspecttyp
+compar member preced comparememberpreced sig exist member existingmemb
+system err println
+existingmemb domin munger
+check legal overrid checklegaloverrid munger signatur getsignatur exist member existingmemb
+munger domin existingmemb
+check legal overrid checklegaloverrid exist member existingmemb munger signatur getsignatur
+intertypemung add munger
+list overridden abstract
+bridg method differ sole return type
+fixm method hokei unawar covari vararg bridg
+rewrit
+return type samereturntyp exist member existingmemb return type getreturntyp equal sig return type getreturntyp
+return type samereturntyp
+pr206732 existingmemb due previou applic itd
+happen binari type brought aspectpath 'better' fix
+recogn aspectpath higher level dont
+work
+duplic previou itd isduplicateofpreviousitd
+resolv type resolvedtyp declar declaringrt exist member existingmemb declar type getdeclaringtyp resolv world
+weaver state info weaverstateinfo wsi declar declaringrt weaver state getweaverst
+wsi
+list munger affect type mungersaffectingthistyp wsi type munger gettypemung declar declaringrt
+munger affect type mungersaffectingthistyp
+iter iter munger affect type mungersaffectingthistyp iter iter hasnext duplic previou itd isduplicateofpreviousitd
+concret type munger concretetypemung munger ctmunger concret type munger concretetypemung iter
+crude check itd existingmemb aspect
+munger ctmunger signatur getsignatur equal exist member existingmemb munger ctmunger aspect type aspecttyp equal munger aspect type getaspecttyp
+duplic previou itd isduplicateofpreviousitd
+duplic previou itd isduplicateofpreviousitd
+world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil error weaver messag weavermessag format weaver messag weavermessag itd member conflict itd member conflict munger aspect type getaspecttyp getnam
+exist member existingmemb
+munger sourc locat getsourceloc
+duplic member target type isduplicatememberwithintargettyp exist member existingmemb sig
+world getworld messag handler getmessagehandl handl messag handlemessag
+messag util messageutil error weaver messag weavermessag format weaver messag weavermessag itd member conflict itd member conflict munger aspect type getaspecttyp getnam
+exist member existingmemb
+munger sourc locat getsourceloc
+return

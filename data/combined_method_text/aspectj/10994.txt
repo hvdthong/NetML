@@ -1,0 +1,13 @@
+org aspectj ajdt intern compil
+author colyer
+class weaver sourc class file weav
+iter iclassfileprovid interfac receiv result back
+weaver iweaverequestor interfac
+weaver adapt weaveradapt class file provid iclassfileprovid weav requestor iweaverequestor iter
+ad type munger addingtypemung
+progress report logic
+point complet iter class aspect
+deal rememb max localiteratorcount
+accur progress report
+record progress recordprogress ad type munger
+progress max type progressmaxtyp local iter counter localiteratorcount

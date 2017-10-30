@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+pattern parser patternpars
+type variabl typevari pars type variabl parsetypevari
+type pattern typepattern upper bound upperbound
+type pattern typepattern addit interfac bound additionalinterfacebound
+type pattern typepattern lower bound lowerbound
+string type variabl typevariablenam
+type variabl typevariablenam type variabl typevariablenam pars identifi parseidentifi
+eat identifi maybeeatidentifi extend
+upper bound upperbound pars type pattern parsetypepattern
+addit interfac bound additionalinterfacebound pars addit interfac bound maybeparseadditionalinterfacebound
+eat identifi maybeeatidentifi super
+lower bound lowerbound pars type pattern parsetypepattern
+type variabl typevari type variabl typevariablenam upper bound upperbound addit interfac bound additionalinterfacebound lower bound lowerbound

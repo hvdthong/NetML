@@ -1,0 +1,35 @@
+comput residu
+link comput object computeobjectivevalu comput object computeobjectivevalu
+param object objectivevalu object function
+row equal dimens
+org apach common math3 optim gener
+residu
+comput residu computeresidu object objectivevalu
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+residu target object objectivevalu
+handl boilerpl method threshold set
+residu element vector valu
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+jacobian error estim
+return call
+object objectivevalu length target length
+target target gettarget
+version
+construct jacobian matrix function argument method
+dimens mismatch except dimensionmismatchexcept code param wrong
+function
+residu differ observ target
+abstract squar optim abstractleastsquaresoptim
+valu model object function
+link org apach common math3 optim target target
+residu target length
+arrai argument model paramet
+deprec remov
+length
+dimens mismatch except dimensionmismatchexcept target length
+optim assum row matrix iter model
+base implement squar optim
+function column iter paramet number
+object objectivevalu length
+target length

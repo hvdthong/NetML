@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+delet class file deleteclassfil string typenam
+delet typenam deletedtypenam add typenam
+sourcejavaclass remov typenam
+world delet sourc object type deletesourceobjecttyp unresolv type unresolvedtyp fornam typenam

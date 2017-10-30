@@ -1,0 +1,33 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+compar compareto object
+bcel advic bceladvic
+bcel advic bceladvic bcel advic bceladvic
+system err println compareto
+kind preced getpreced kind preced getpreced
+kind preced getpreced kind preced getpreced
+kind cflow iscflow
+system err println sort innercflowentri innercflowentri
+system err println innercflowentri innercflowentri
+isbelow kind advic kind advicekind cflow entri cflowbelowentri
+cflow entri innercflowentri isbelow
+cflow entri innercflowentri isbelow
+kind entri isperentri kind advic kind advicekind soften
+system println compar
+world world concret aspect concreteaspect world getworld
+ret
+concret aspect concreteaspect world getworld compar preced comparebypreced
+concret aspect concreteaspect
+concret aspect concreteaspect
+ret ret
+resolv type resolvedtyp declar aspect declaringaspect declar aspect getdeclaringaspect resolv world
+resolv type resolvedtyp declar aspect declaringaspect declar aspect getdeclaringaspect resolv world
+declar aspect declaringaspect declar aspect declaringaspect
+kind isaft kind isaft
+start getstart start getstart
+start getstart start getstart
+declar aspect declaringaspect assign isassignablefrom declar aspect declaringaspect
+declar aspect declaringaspect assign isassignablefrom declar aspect declaringaspect

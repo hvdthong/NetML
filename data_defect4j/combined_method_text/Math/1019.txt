@@ -1,0 +1,16 @@
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+param func type function solv
+version
+univari solver util univariatesolverutil verifi sequenc verifysequ lower initi upper
+solver
+code lower initi code initi upper
+upper
+param lower lower endpoint
+param initi initi
+provid implement function gener
+verifi sequenc verifysequ lower
+check code lower initi upper
+param upper upper endpoint
+org apach common math analysi solver
+org apach common math except number larg except numberistoolargeexcept
+initi

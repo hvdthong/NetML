@@ -1,0 +1,36 @@
+org aspectj weaver bcel
+lazymethodgen treat methodgen abstract
+low level method object convert link methodgen creat
+serial
+rate wai creat lazymethodgen
+method
+work methodgen correct thing
+creation complet empti
+lazymethodgen construct code scratch
+stai target rangei thing shadow except
+lazi method gen lazymethodgen traceabl
+unpack handler unpackhandl method gen methodgen gen
+code except gen codeexceptiongen exn gen except handler getexceptionhandl
+exn
+len exn length
+len hasexceptionhandl true
+prioriti len
+len prioriti
+code except gen codeexceptiongen exn exn
+instruct handl instructionhandl start
+rang gen start genstart
+bodi
+outermost except start getoutermostexceptionstart exn start getstartpc
+instruct handl instructionhandl end rang gen end genend bodi outermost except end getoutermostexceptionend exn end getendpc
+necessarili handl overlap correctli
+except rang exceptionrang
+except rang exceptionrang
+bodi
+exn catch type getcatchtyp
+bcel world bcelworld bcel frombcel exn catch type getcatchtyp
+prioriti
+associ target associatewithtarget start end exn handler gethandlerpc
+exn set start setstartpc exn setstartpc null remov target
+exn set end setendpc exn setendpc null remov target
+exn set handler sethandlerpc exn sethandlerpc null remov target
+gen remov except handler removeexceptionhandl

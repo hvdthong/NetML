@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart axi
+
+
+
+
+base repres tick unit determin space
+tick mark axi
+
+subclass immut reason
+order collect tick unit maintain instanc
+chang destroi order collect belong
+addit implement immut belong
+multipl collect
+
+axi valueaxi
+
+tick unit tickunit compar serializ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+convert suppli string
+
+subclass implement special format overrid method
+
+param data
+
+string
+
+string string valuetostr
+string valueof
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

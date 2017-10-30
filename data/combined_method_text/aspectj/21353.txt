@@ -1,0 +1,7 @@
+org aspectj weaver loadtim
+weav url class loader weavingurlclassload extens url class loader extensibleurlclassload weav class loader weavingclassload
+weav url class loader weavingurlclassload url url class loader classload parent
+url parent
+trace trace enabl istraceen trace enter init object url parent
+system println weavingurlclassload weavingurlclassload
+trace trace enabl istraceen trace exit init

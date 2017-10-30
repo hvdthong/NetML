@@ -1,0 +1,24 @@
+org aspectj org eclips jdt core dom
+pointcutdeclar dom ast node
+option pointcut design call 'designator'
+singlevariabledeclar list call 'parameters'
+javadoc
+modifi
+note
+properti paramet list
+methoddeclar
+author ajh02
+pointcut declar pointcutdeclar bodi declar bodydeclar
+accept0 ast visitor astvisitor visitor
+visitor ast visitor ajastvisitor
+ast visitor ajastvisitor ajvi ast visitor ajastvisitor visitor
+visit children visitchildren ajvi visit
+visit children visitchildren
+visit children normal left read order
+accept child acceptchild ajvi javadoc getjavadoc
+ast api level apilevel ast jls3
+accept children acceptchildren ajvi modifi
+accept child acceptchild ajvi getnam
+accept child acceptchild ajvi design getdesign
+accept children acceptchildren visitor paramet
+ajvi end visit endvisit

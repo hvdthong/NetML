@@ -1,0 +1,83 @@
+org aspectj ajdt intern compil ast
+inter type constructor declar
+gener implement method aspect main bodi
+constructor addit code premethod code code
+run super constructor call
+author jim hugunin
+inter type constructor declar intertypeconstructordeclar inter type declar intertypedeclar
+method declar methoddeclar make pre method makepremethod class scope classscop scope
+explicit constructor call explicitconstructorcal explicit constructor call explicitconstructorcal
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron scope
+unresolv type unresolvedtyp aspect type aspecttypex world bind frombind bind declar class declaringclass
+unresolv type unresolvedtyp target type targettypex world bind frombind type bind ontypebind
+arrai bind arraybind object arrai bind objectarraybind scope creat arrai type createarraytyp scope java lang object getjavalangobject
+method declar methoddeclar pre method declar methoddeclar compil result compilationresult
+pre modifi class file constant classfileconst acc public accpubl class file constant classfileconst acc static accstat
+pre return type returntyp ast util astutil make type refer maketyperefer object arrai bind objectarraybind
+pre selector mangler namemangl post introduc constructor postintroducedconstructor aspect type aspecttypex target type targettypex char arrai tochararrai
+pre argument ast util astutil copi argument copyargu argument
+xxx except
+pre scope method scope methodscop scope pre
+scope
+factori build semi correct resolvedmemb patch
+reset call safe
+resolv member resolvedmemb pre introduc constructor preintroducedconstructorrm world make resolv member makeresolvedmemb bind
+pre introduc constructor preintroducedconstructorrm reset resetnam mangler namemangl pre introduc constructor preintroducedconstructor aspect type aspecttypex target type targettypex
+pre introduc constructor preintroducedconstructorrm reset modifi resetmodifi modifi public modifi static modifi final
+pre introduc constructor preintroducedconstructorrm reset return type object arrai resetreturntypetoobjectarrai
+pre bind world make method bind makemethodbind pre introduc constructor preintroducedconstructorrm
+pre bind argument bindargu
+pre bind thrown except bindthrownexcept
+explicit constructor call explicitconstructorcal
+pre statement statement
+pre statement statement
+explicit constructor call explicitconstructorcal
+inter type scope intertypescop parent newpar
+inter type scope intertypescop scope type bind ontypebind
+pre scope parent parent newpar
+pre resolv statement resolvestat pre resolvestat newpar
+param nparam pre argument length
+method bind methodbind explicit constructor explicitconstructor
+explicit constructor call explicitconstructorcal
+explicit constructor explicitconstructor explicit constructor call explicitconstructorcal bind
+null report wrong code
+explicit constructor explicitconstructor explicit constructor explicitconstructor access method alwaysneedsaccessmethod
+explicit constructor explicitconstructor explicit constructor explicitconstructor access method getaccessmethod
+expr nexpr
+explicit constructor explicitconstructor expr nexpr
+expr nexpr explicit constructor explicitconstructor paramet length
+arrai initi arrayiniti init arrai initi arrayiniti
+init express express expr nexpr param nparam
+index
+expr nexpr
+explicit constructor call explicitconstructorcal argument length
+init express index null liter nullliter
+express arg explicit constructor call explicitconstructorcal argument
+resolv member resolvedmemb convers method conversionmethod
+ajc member maker ajcmembermak object convers method toobjectconversionmethod world bind frombind explicit constructor call explicitconstructorcal bind paramet
+convers method conversionmethod
+arg messag send knownmessagesend world make method bind call makemethodbindingforcal convers method conversionmethod
+cast express castexpress null liter nullliter
+ast util astutil make type refer maketyperefer world make type bind maketypebind ajc member maker ajcmembermak convers type convers type
+express arg
+init express index arg
+param nparam
+local variabl bind localvariablebind bind pre argument bind
+express arg ast util astutil make resolv local variabl refer makeresolvedlocalvariablerefer bind
+resolv member resolvedmemb convers method conversionmethod
+ajc member maker ajcmembermak object convers method toobjectconversionmethod world bind frombind bind type
+convers method conversionmethod
+arg messag send knownmessagesend world make method bind call makemethodbindingforcal convers method conversionmethod
+cast express castexpress null liter nullliter
+ast util astutil make type refer maketyperefer world make type bind maketypebind ajc member maker ajcmembermak convers type convers type
+express arg
+init express index arg
+init bind object arrai bind objectarraybind
+arrai alloc express arrayallocationexpress arrai newarrai arrai alloc express arrayallocationexpress
+arrai newarrai initi init
+arrai newarrai type ast util astutil make type refer maketyperefer scope java lang object getjavalangobject
+arrai newarrai dimens express
+arrai newarrai constant constant constant notaconst
+pre statement statement
+return statement returnstat arrai newarrai
+pre

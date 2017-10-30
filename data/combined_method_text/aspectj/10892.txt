@@ -1,0 +1,251 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+extract aspectj specif option argfil
+caller warn sourceroot empti
+increment mode
+signal warn error handler set constructor
+pars option parseopt string arg link list linkedlist arg public void parseopt string arg linkedlist arg xxx listiter remov
+arg index nextargindex arg index indexof arg int nextargindex arg indexof arg xxx assum uniqu
+trim arg
+build config buildconfig set xlazi tjp setxlazytjp buildconfig setxlazytjp true default minor push made default lower level
+lang util langutil empti isempti arg
+show warn showwarn empti arg found
+arg equal inpath
+arg size arg index nextargindex
+buildconfig getajopt put ajcompileropt option inpath compileropt preserv
+list path inpath build config buildconfig inpath getinpath
+string token stringtoken string token stringtoken
+config parser configpars arg arg arg index nextargindex getvalu
+file path separ pathsepar
+token hasmoretoken
+string filenam token nexttoken
+file file make file makefil filenam
+file util fileutil zip file iszipfil file
+path inpath add file
+file directori isdirectori
+path inpath add file
+show warn showwarn skip miss empti corrupt inpath entri filenam
+build config buildconfig set path setinpath path inpath
+arg remov arg arg index nextargindex
+arg equal injar
+arg size arg index nextargindex
+buildconfig getajopt put ajcompileropt option injar compileropt preserv
+string token stringtoken string token stringtoken
+config parser configpars arg arg arg index nextargindex getvalu
+file path separ pathsepar
+token hasmoretoken
+string filenam token nexttoken
+file jar file jarfil make file makefil filenam
+file util fileutil zip file iszipfil jar file jarfil
+build config buildconfig jar getinjar add jar file jarfil
+file dir file dirfil make file makefil filenam
+dir file dirfil directori isdirectori
+build config buildconfig jar getinjar add dir file dirfil
+show warn showwarn skip miss empti corrupt injar filenam
+arg remov arg arg index nextargindex
+arg equal aspectpath
+arg size arg index nextargindex
+string token stringtoken string token stringtoken
+config parser configpars arg arg arg index nextargindex getvalu
+file path separ pathsepar
+token hasmoretoken
+string filenam token nexttoken
+file jar file jarfil make file makefil filenam
+file util fileutil zip file iszipfil jar file jarfil jar file jarfil directori isdirectori
+build config buildconfig aspectpath getaspectpath add jar file jarfil
+show warn showwarn skip miss empti corrupt aspectpath entri filenam
+arg remov arg arg index nextargindex
+arg equal sourceroot
+arg size arg index nextargindex
+list sourc root sourceroot arrai list arraylist
+string token stringtoken string token stringtoken
+config parser configpars arg arg arg index nextargindex getvalu
+file path separ pathsepar
+token hasmoretoken
+file make file makefil token nexttoken
+directori isdirectori read canread
+sourc root sourceroot add
+show error showerror bad sourceroot
+sourc root sourceroot size
+build config buildconfig set sourc root setsourceroot sourc root sourceroot
+arg remov arg arg index nextargindex
+show error showerror sourceroot requir list directori
+arg equal outjar
+arg size arg index nextargindex
+buildconfig getajopt put ajcompileropt option outjar compileropt gener
+file jar file jarfil make file makefil config parser configpars arg arg arg index nextargindex getvalu
+jar file jarfil directori isdirectori
+jar file jarfil exist
+jar file jarfil creat file createnewfil
+build config buildconfig set output jar setoutputjar jar file jarfil
+except ioexcept ioe
+show error showerror unabl creat outjar file jar file jarfil
+show error showerror invalid outjar file jar file jarfil
+arg remov arg arg index nextargindex
+show error showerror outjar requir jar path argument
+arg equal outxml
+build config buildconfig set outxml setoutxmlnam org aspectj bridg constant aop ajc xml aop ajc xml
+arg equal outxmlfil
+arg size arg index nextargindex
+string config parser configpars arg arg arg index nextargindex getvalu
+build config buildconfig set outxml setoutxmlnam
+arg remov arg arg index nextargindex
+show error showerror outxmlfil requir file argument
+arg equal log
+remov handl org aspectj tool ajc main
+arg remov arg arg index nextargindex
+arg equal messagehold
+remov handl org aspectj tool ajc main
+arg remov arg arg index nextargindex
+arg equal increment
+build config buildconfig set increment mode setincrementalmod
+arg equal xincrementalfil
+arg size arg index nextargindex
+file file make file makefil config parser configpars arg arg arg index nextargindex getvalu
+build config buildconfig set increment file setincrementalfil file
+file read canread
+show error showerror bad xincrementalfil file
+creat recompil test stop compil
+arg remov arg arg index nextargindex
+show error showerror xincrementalfil requir file argument
+arg equal crossref
+build config buildconfig set gener cross ref mode setgeneratecrossrefsmod
+build config buildconfig set gener model mode setgeneratemodelmod
+arg equal emacssym
+build config buildconfig set emac sym mode setemacssymmod
+build config buildconfig set gener model mode setgeneratemodelmod
+arg equal xjavadocsinmodel
+build config buildconfig set gener model mode setgeneratemodelmod
+build config buildconfig set gener javadoc model mode setgeneratejavadocsinmodelmod
+arg equal xdev noataspectjprocess
+build config buildconfig set aspect annot process setnoataspectjannotationprocess
+arg equal xaddserialversionuid
+build config buildconfig set add serial ver uid setaddserialveruid
+arg equal xdev pinpoint
+build config buildconfig set xdev pinpoint mode setxdevpinpointmod
+arg start startswith xjoinpoint
+build config buildconfig set joinpoint setxjoinpoint arg substr
+arg equal noweav arg equal xnoweav
+show warn showwarn noweav option longer requir
+arg equal xterminateaftercompil
+build config buildconfig set termin compil setterminateaftercompil
+arg equal xserializableaspect
+build config buildconfig set xserializ aspect setxserializableaspect
+arg equal xlazytjp
+default
+show warn showwarn xlazytjp longer build tjp lazili default
+arg start startswith xreweav
+show warn showwarn xreweav default
+arg end endswith compress
+show warn showwarn xreweav compress longer reweav default
+arg start startswith xset
+build config buildconfig set xconfigur info setxconfigurationinfo arg substr
+arg start startswith xnotreweav
+build config buildconfig set xnot reweav setxnotreweav
+arg equal xnoinlin
+build config buildconfig set xno inlin setxnoinlin
+arg equal xhasmemb
+build config buildconfig set member support setxhasmembersupport
+arg start startswith showweaveinfo
+build config buildconfig set show weav inform setshowweavinginform
+arg equal xlintfil
+arg size arg index nextargindex
+file lint spec file lintspecfil make file makefil config parser configpars arg arg arg index nextargindex getvalu
+xxx relax restrict prop file suffix
+lint spec file lintspecfil read canread lint spec file lintspecfil getnam end endswith properti
+build config buildconfig set lint spec file setlintspecfil lint spec file lintspecfil
+show error showerror bad xlintfil file lint spec file lintspecfil
+build config buildconfig set lint spec file setlintspecfil
+arg remov arg arg index nextargindex
+show error showerror xlintfil requir properti file argument
+arg equal xlint
+buildconfig getajopt put
+ajcompileropt option xlint
+compileropt gener
+build config buildconfig set lint mode setlintmod build config ajbuildconfig ajlint default ajlint default
+arg start startswith xlint
+arg length
+build config buildconfig set lint mode setlintmod arg substr
+show error showerror invalid lint option arg
+arg equal bootclasspath
+arg size arg index nextargindex
+string bcp arg bcparg config parser configpars arg arg arg index nextargindex getvalu
+string buffer stringbuff bcp string buffer stringbuff
+string token stringtoken str tok strtok string token stringtoken bcp arg bcparg file path separ pathsepar
+str tok strtok token hasmoretoken
+bcp append make file makefil str tok strtok token nexttoken
+str tok strtok token hasmoretoken
+bcp append file path separ pathsepar
+bootclasspath bcp string tostr
+arg remov arg arg index nextargindex
+show error showerror bootclasspath requir classpath entri
+arg equal classpath arg equal
+arg size arg index nextargindex
+string arg cparg config parser configpars arg arg arg index nextargindex getvalu
+string buffer stringbuff string buffer stringbuff
+string token stringtoken str tok strtok string token stringtoken arg cparg file path separ pathsepar
+str tok strtok token hasmoretoken
+append make file makefil str tok strtok token nexttoken
+str tok strtok token hasmoretoken
+append file path separ pathsepar
+classpath string tostr
+arg remov arg arg index nextargindex
+show error showerror classpath requir classpath entri
+arg equal extdir
+arg size arg index nextargindex
+string extdir arg extdirsarg config parser configpars arg arg arg index nextargindex getvalu
+string buffer stringbuff string buffer stringbuff
+string token stringtoken str tok strtok string token stringtoken extdir arg extdirsarg file path separ pathsepar
+str tok strtok token hasmoretoken
+append make file makefil str tok strtok token nexttoken
+str tok strtok token hasmoretoken
+append file path separ pathsepar
+extdir string tostr
+arg remov arg arg index nextargindex
+show error showerror extdir requir list extern directori
+error directori boot classpath extdir
+arg equal
+dir lookahead dirlookahead arg arg arg index nextargindex
+arg equal classpath
+dirlookahead arg arg nextargindex
+arg equal bootclasspath
+dirlookahead arg arg nextargindex
+arg equal extdir
+dirlookahead arg arg nextargindex
+arg equal proceedonerror
+build config buildconfig set proce error setproceedonerror
+file arg directori isdirectori
+show error showerror dir arg permit arg
+arg start startswith xajruntimetarget
+arg end endswith
+build config buildconfig set target aspectj runtim level settargetaspectjruntimelevel constant runtim level runtim level
+arg end endswith
+build config buildconfig set target aspectj runtim level settargetaspectjruntimelevel constant runtim level runtim level
+show error showerror xajruntimetarget level support target level
+arg equal
+build config buildconfig set behav java5 setbehaveinjava5wai
+unpars arg unparsedarg add
+enabl sourc doesnt sound
+option doesnt support sourc code peopl confus
+arg equal
+build config buildconfig set behav java5 setbehaveinjava5wai
+unpars arg unparsedarg add
+arg equal sourc
+arg size arg index nextargindex
+string level config parser configpars arg arg arg index nextargindex getvalu
+level equal level equal
+level equal level equal
+build config buildconfig set behav java5 setbehaveinjava5wai
+unpars arg unparsedarg add sourc
+unpars arg unparsedarg add level
+arg remov arg arg index nextargindex
+argfil file pars superclass
+eclips option pars
+arg handl
+classpath target sourc
+nowarn warn deprec noimporterror
+preserveallloc
+referenceinfo encod verbos log time
+noexit repeat
+noexit grab main
+unpars arg unparsedarg add arg

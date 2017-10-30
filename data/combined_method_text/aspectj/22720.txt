@@ -1,0 +1,15 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+match declar type field type
+fuzzi boolean fuzzyboolean match field matchesexactlyfield join point signatur joinpointsignatur field afield world world
+match field afield getnam fuzzi boolean fuzzyboolean
+resolv type resolvedtyp field declar type fielddeclaringtyp field afield declar type getdeclaringtyp resolv world
+declar type declaringtyp match static matchesstat field declar type fielddeclaringtyp
+fuzzi boolean fuzzyboolean
+return type returntyp match static matchesstat field afield return type getreturntyp resolv world
+bad parameter
+return type returntyp match static matchesstat field afield gener return type getgenericreturntyp resolv world
+bad
+fuzzi boolean fuzzyboolean
+pass guard
+fuzzi boolean fuzzyboolean

@@ -1,0 +1,12 @@
+setter scriptabl host object accept null
+user agent mozilla x11 linux i686 gecko ubuntu hardi firefox
+build identifi
+defin setter host object field implement scriptabl rhino throw ecmaerror
+org mozilla javascript ecmaerror typeerror convert null object
+assign null
+workaround consist chang signatur setter accept java lang object desir scriptabl pleasant
+reproduc
+step reproduc
+
+
+

@@ -1,0 +1,15 @@
+org aspectj apach bcel verifi structur
+class implement stack symbol jvm stack simul
+operand stack substitut
+element stack org aspectj apach bcel gener type object
+version operandstack java aclement exp
+author href http www inf berlin ehaas enver haas
+operand stack operandstack
+push type object stack
+push type type
+type assert violat except assertionviolatedexcept push null operandstack
+type type boolean type type char type type byte type type short
+assert violat except assertionviolatedexcept operandstack type type int
+slot slotsus max stack maxstack
+assert violat except assertionviolatedexcept operandstack small thrown proper except stack
+stack add type

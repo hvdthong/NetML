@@ -1,0 +1,21 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+fail silent
+write structur model writestructuremodel string config file path configfilepath
+string file path filepath gen extern file path genexternfilepath config file path configfilepath
+file output stream fileoutputstream fo file output stream fileoutputstream file path filepath
+object output stream objectoutputstream object output stream objectoutputstream fo
+write object writeobject hierarchi writeobject hierarchi store program element tree
+write object writeobject mapper writeobject mapper store relationship
+flush
+fo flush
+fo close
+close
+except
+system err println asmmanag unabl write structur model configfilepath
+printstacktrac

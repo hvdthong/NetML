@@ -1,0 +1,15 @@
+param arrai
+field vector impl fieldvectorimpl field element fieldel field vector fieldvector serializ
+link field vector fieldvector link field element fieldel arrai
+org apach common math linear
+param type field element
+construct vector arrai copi input arrai
+illeg argument except illegalargumentexcept code code empti
+field field getfield
+arrai index bound except arrayindexoutofboundsexcept
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+vector element
+field vector impl fieldvectorimpl
+version revis date
+data clone
+illeg argument except illegalargumentexcept

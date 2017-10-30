@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+state environ statefulnameenviron environ inameenviron
+state environ statefulnameenviron environ inameenviron base environ baseenviron map class classesfromnam state ajstat state
+class classesfromnam class classesfromnam
+inflat class file cach inflatedclassfilescach hash map hashmap
+base environ baseenviron base environ baseenviron
+state state
+packag name packagenam hash set hashset
+iter class classesfromnam kei set keyset iter hasnext
+string class classnam string
+add packag name addallpackagenam class classnam
+system err println packagenam

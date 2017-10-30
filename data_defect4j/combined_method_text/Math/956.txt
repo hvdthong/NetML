@@ -1,0 +1,11 @@
+abstract differenti univari solver abstractdifferentiableunivariatesolv
+version
+solver
+inherit doc inheritdoc
+setup max eval maxev differenti univari function differentiableunivariatefunct
+overrid
+provid implement function gener
+function deriv functionderiv deriv
+min max start startvalu
+org apach common math analysi solver
+setup max eval maxev min max start startvalu

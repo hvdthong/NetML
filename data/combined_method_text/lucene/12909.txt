@@ -1,0 +1,15 @@
+org apach lucen index
+segment merg info segmentmergeinfo
+doc map getdocmap
+doc map docmap
+del count delcount
+build arrai map document number delet
+reader delet hasdelet
+max doc maxdoc reader max doc maxdoc
+doc map docmap max doc maxdoc
+max doc maxdoc
+reader delet isdelet
+del count delcount
+doc map docmap
+doc map docmap
+doc map docmap

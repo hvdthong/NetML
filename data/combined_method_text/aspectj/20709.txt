@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+lazi method gen lazymethodgen find match method findmatchingmethod lazi class gen lazyclassgen parent target newparenttarget resolv member resolvedmemb
+lazi method gen lazymethodgen found
+search type method overrid super method method parent
+return comparison overrid doesnt
+iter parent target newparenttarget method gen getmethodgen iter hasnext found
+lazi method gen lazymethodgen gen lazi method gen lazymethodgen
+gen getnam equal getnam
+gen paramet signatur getparametersignatur equal paramet signatur getparametersignatur
+found gen
+found

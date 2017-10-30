@@ -1,0 +1,20 @@
+construct solver
+param function accuraci functionvalueaccuraci function accuraci
+param rel accuraci relativeaccuraci rel accuraci
+quot
+approxim solv root point
+laguerr solver laguerresolv rel accuraci relativeaccuraci
+function accuraci functionvalueaccuraci
+algorithm requir bracket condit
+laguerre' method global sens start initi
+laguerr solver laguerresolv abstract polynomi solver abstractpolynomialsolv
+laguerre' method root find real coeffici polynomi
+isbn 048641454x chapter
+absolut accuraci absoluteaccuraci
+version revis date
+param absolut accuraci absoluteaccuraci absolut accuraci
+numer analysi
+org apach common math analysi solver
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci function accuraci functionvalueaccuraci
+implement href http mathworld wolfram laguerr method laguerresmethod html
+refer

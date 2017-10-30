@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+author mik kersten
+asm element formatt asmelementformatt
+string gen type pattern label gentypepatternlabel type pattern typepattern
+string type pattern liter type pattern liter type pattern
+string label
+unresolv type unresolvedtyp type typex exact type getexacttyp
+resolv type resolvedtyp miss ismiss type typex
+label type typex getnam
+includ subtyp isincludesubtyp label
+label type pattern liter type pattern liter
+label

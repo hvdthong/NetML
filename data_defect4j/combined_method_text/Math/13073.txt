@@ -1,0 +1,16 @@
+param row dimens rowdimens number row matrix
+param column dimens columndimens number column matrix
+method implement link entri getentri access
+org apach common math3 linear
+matrix element deriv provid faster implement
+strictli posit except notstrictlypositiveexcept row column dimens posit
+column dimens columndimens
+strictli posit except notstrictlypositiveexcept row dimens rowdimens
+strictli posit except notstrictlypositiveexcept column dimens columndimens
+version
+abstract real matrix abstractrealmatrix
+basic implement real matrix realmatrix method underli storag
+row dimens rowdimens
+creat real matrix realmatrix suppli row column dimens
+abstract real matrix abstractrealmatrix row dimens rowdimens column dimens columndimens
+creat matrix data

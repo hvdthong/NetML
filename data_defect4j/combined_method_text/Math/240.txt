@@ -1,0 +1,15 @@
+overrid
+org apach common math analysi
+code
+param function compos
+postcompos instanc function
+base link univari real function univariaterealfunct compos function
+inherit doc inheritdoc
+compos function composablefunct univari real function univariaterealfunct
+compos function composablefunct post compos postcompos univari real function univariaterealfunct
+compos function creat code post compos postcompos
+version revis date
+function comput code
+univari real function univariaterealfunct
+function evalu except functionevaluationexcept
+compos function composablefunct

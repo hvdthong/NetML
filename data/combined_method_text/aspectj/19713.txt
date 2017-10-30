@@ -1,0 +1,11 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+visibl isvis modifi resolv type resolvedtyp target type targettyp resolv type resolvedtyp type fromtyp
+system err println mod modifi targettyp fromtyp
+modifi public ispubl modifi
+modifi privat ispriv modifi
+target type targettyp outermost type getoutermosttyp equal type fromtyp outermost type getoutermosttyp
+modifi protect isprotect modifi
+packag samepackag target type targettyp type fromtyp target type targettyp assign isassignablefrom type fromtyp
+packag visibl
+packag samepackag target type targettyp type fromtyp

@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+pointcut withinpointcut pointcut
+object accept pattern node visitor patternnodevisitor visitor object data
+visitor visit data

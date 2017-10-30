@@ -1,0 +1,10 @@
+author stephen colebourn
+object read resolv readresolv
+time calcul week week base year compon time
+org joda time chrono
+author gui allard
+basic week weekyear date time field basicweekofweekyeardatetimefield precis durat date time field precisedurationdatetimefield
+author brian neill o'neil
+chronolog ichronolog week weekyear weekofweekyear
+refactor week weekyear date time field gjweekofweekyeardatetimefield
+serial singleton

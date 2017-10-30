@@ -1,0 +1,27 @@
+input arrai posit length
+data except nodataexcept local format localizedformat insuffici dimens
+dimens mismatch except dimensionmismatchexcept arrai
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+param sample1 arrai
+result
+param sample2 arrai
+stat util statutil method comput statist base data
+input arrai sum sample1 sample2
+local format localizedformat insuffici dimens sample2 length
+return sum sign differ element
+stat util statutil
+version
+result sample1 sample2
+version revis date
+data except nodataexcept sampl arrai empti
+sum pair differ
+sample2 length
+dimens mismatch except dimensionmismatchexcept sample2 length
+org apach common math stat
+sum differ sumdiffer sample1 sample2
+illeg argument except illegalargumentexcept arrai
+local format localizedformat dimens mismatch simpl sample2 length
+posit length
+sample1 length
+store arrai
+illeg argument except illegalargumentexcept

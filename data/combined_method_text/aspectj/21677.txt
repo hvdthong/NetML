@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+bind annot type pattern bindingannotationtypepattern exact annot type pattern exactannotationtypepattern bind pattern bindingpattern
+verifi runtim retent verifyruntimeretent world world resolv type resolvedtyp resolv annot type resolvedannotationtyp
+resolv annot type resolvedannotationtyp annot runtim retent isannotationwithruntimeretent resolvedannotationtyp isannotationwithruntimeretent default class visibl
+default class visibl
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag bind runtim retent annot bind runtim retent annot annot type annotationtyp getnam
+sourc locat getsourceloc
+world messag handler getmessagehandl handl messag handlemessag
+resolv

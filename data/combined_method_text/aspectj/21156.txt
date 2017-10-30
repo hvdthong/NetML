@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+target arg repres access annot
+'thing' main creat instruct retriev
+annot 'thing' createloadinstruct
+type annot access var typeannotationaccessvar bcel var bcelvar
+append load convert appendloadandconvert
+instruct list instructionlist
+instruct factori instructionfactori fact
+resolv type resolvedtyp type totyp
+append creat load instruct createloadinstruct type totyp fact

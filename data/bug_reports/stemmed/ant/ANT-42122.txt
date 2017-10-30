@@ -1,0 +1,42 @@
+zipfileset src zip copi wrong file permiss
+ant appar extern file attribut field zip file entri
+specif top bit file permiss confirm
+pkzip specif http www info zip org pub infozip doc
+unzip implement notabl
+solari bin unzip standard practic
+appar zip program creat zip file
+attribut confirm program creat zip file
+extern file attribut set platform bit set
+file permiss store zip file
+zip file sourc zipfileset zip
+zip file
+zip destfil foo zip
+zipfileset src bar zip
+zip
+attempt copi entri ant intern call
+zipresourc setentri
+privat void setentri zipentri
+null
+setexist fals
+return
+
+setnam getnam
+setexist true
+setlastmodifi gettim
+setdirectori isdirectori
+setsiz getsiz
+setmod getunixmod
+
+problemat bit setmod getunixmod wrote
+zip file declar platform unix mode set
+getunixmod return ant call setmod method assum
+explicitli set
+public void setmod int mode
+checkattributesallow
+mode mode
+modeset true
+
+eventu entri creat foo zip permiss
+code chang
+getplatform platform unix
+setmod getunixmod

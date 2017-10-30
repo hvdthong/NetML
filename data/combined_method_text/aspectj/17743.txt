@@ -1,0 +1,15 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+set argument file comma delimit string pass
+param argfil comma delimit string contain argument file
+set argfil setargfil string argfil
+string token stringtoken tok string token stringtoken argfil
+tok token hasmoretoken
+file argfil project resolv file resolvefil tok token nexttoken
+argfil argfil exist argfil directori isdirectori
+creat argfil createargfil set file setfil argfil

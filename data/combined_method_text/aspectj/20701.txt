@@ -1,0 +1,45 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+rule declar parent allow target type overrid implement
+inherit abstract method type declar abstract
+enforc decp rule1 abstract method implement enforcedecprule1 abstractmethodsimpl bcel class weaver bcelclassweav weaver sourc locat isourceloc munger loc mungerloc lazi class gen lazyclassgen parent target newparenttarget resolv type resolvedtyp parent newpar
+rule check succeed rulecheckingsucceed
+parent target newparenttarget abstract isabstract parent target newparenttarget interfac isinterfac newparenttarget isabstract newparenttarget isinterfac ignor abstract class interfac
+list method parent newpar method iter getmethodswithoutiter
+iter method iter hasnext
+resolv member resolvedmemb resolv member resolvedmemb
+abstract isabstract getnam start startswith ajc interfield isabstract getnam startswith ajc interfield ignor abstract method ajc interfield prefix method
+resolv member resolvedmemb discov impl discoveredimpl
+list parent target method newparenttargetmethod parent target newparenttarget type gettyp method iter getmethodswithoutiter
+iter parent target method newparenttargetmethod iter hasnext discov impl discoveredimpl
+resolv member resolvedmemb gen2 resolv member resolvedmemb
+gen2 getnam equal getnam
+gen2 paramet signatur getparametersignatur equal paramet signatur getparametersignatur gen2 abstract isabstract
+discov impl discoveredimpl gen2 discoveredimpl gen2 found valid implement
+discov impl discoveredimpl
+didnt find valid implement let check itd type satisfi
+satisfi itd satisfiedbyitd
+iter parent target newparenttarget type gettyp inter type munger includ super getintertypemungersincludingsup iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+munger getmung munger getmung kind getkind resolv type munger resolvedtypemung method
+resolv member resolvedmemb sig signatur getsignatur
+modifi abstract isabstract sig modifi getmodifi
+itd share type variabl target type tailor
+type
+target type parameter istargettypeparameter
+resolv type resolvedtyp gener type genericontyp world getworld resolv sig declar type getdeclaringtyp gener type getgenerictyp
+parameter parameterizedfor parent newpar discov actual occurr type hierarchi discoveractualoccurrenceoftypeinhierarchi gener type genericontyp
+sig signatur getsignatur sig getsignatur sig chang type paramet fill
+resolv type resolvedtyp
+match
+ajc member maker ajcmembermak inter method intermethod
+sig aspect type getaspecttyp sig declar type getdeclaringtyp resolv weaver world getworld interfac isinterfac
+satisfi itd satisfiedbyitd
+munger getmung munger getmung kind getkind resolv type munger resolvedtypemung method deleg methoddeleg
+satisfi itd satisfiedbyitd satisfiedbyitd true check
+satisfi itd satisfiedbyitd
+error weaver
+type parent target newparenttarget getnam implement inherit abstract method declar type getdeclaringtyp getnam paramet signatur getparametersignatur
+parent target newparenttarget type gettyp sourc locat getsourceloc sourc locat isourceloc sourc locat getsourceloc munger loc mungerloc
+rule check succeed rulecheckingsucceed
+rule check succeed rulecheckingsucceed

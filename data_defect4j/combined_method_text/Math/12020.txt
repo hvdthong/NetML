@@ -1,0 +1,17 @@
+org apach common math3 fraction
+param scale
+scale code big decim bigdecim code quotient return
+round mode calcul fraction numer divid
+big decim bigdecim big decim bigdecimalvalu scale round mode roundingmod
+represent ration number overflow
+big fraction bigfract
+param round mode roundingmod
+version
+link big decim bigdecim inform
+big decim bigdecim numer divid big decim bigdecim denomin scale round mode roundingmod
+immut
+fraction code big decim bigdecim code pass scale
+fraction code big decim bigdecim code
+denomin
+big decim bigdecim
+round mode appli link big decim bigdecim constant

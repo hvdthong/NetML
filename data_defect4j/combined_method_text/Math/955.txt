@@ -1,0 +1,13 @@
+abstract differenti univari solver abstractdifferentiableunivariatesolv
+version
+solver
+param point point object function evalu
+org apach common math except evalu except toomanyevaluationsexcept
+comput deriv object computederivativeobjectivevalu point
+function deriv functionderiv point
+maxim number evalu exceed
+provid implement function gener
+object function point
+increment evalu count incrementevaluationcount
+org apach common math analysi solver
+comput object function

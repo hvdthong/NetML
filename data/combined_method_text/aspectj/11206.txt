@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+add aspect annot addataspectjannot
+munger
+annot ann aspect annot factori ataspectjannotationfactori creat itd annot createitdannot
+munger signatur getsignatur declar type getdeclaringtyp getnam char arrai tochararrai
+declar modifi declaredmodifi declar selector declaredselector declar sourc start declarationsourcestart
+aspect annot factori ataspectjannotationfactori add annot addannot ann scope

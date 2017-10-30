@@ -1,0 +1,19 @@
+squar problem
+org apach common math optim fit
+observ add observ
+unknown paramet
+fit
+fitter parametr univari real function
+find paramet
+add observ point addobservedpoint weight observ point weightedobservedpoint observ
+add observ weight point sampl
+function sum
+find paramet valu minim object
+fit curv remain close set
+curv fitter curvefitt
+add observ point addobservedpoint
+version revis date
+observ getobserv
+param observ observ point add
+univari real function depend
+observ point

@@ -1,0 +1,11 @@
+author stephen colebourn
+field period type
+defin durat time queri modifi datetim field
+set field interv divid
+read writabl period readwritableperiod readabl period readableperiod
+implement mutabl
+set period setperiod readabl interv readableinterv interv
+org joda time
+provid advanc method
+author brian neill o'neil
+param interv interv set mean length

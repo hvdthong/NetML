@@ -1,0 +1,11 @@
+org aspectj weaver
+repres resolv arrai type
+author andi clement
+arrai refer type arrayreferencetyp refer type referencetyp
+resolv member resolvedmemb declar method getdeclaredmethod
+return clone
+code
+resolvedmemb clonemethod
+resolvedmemb member method modifi public unresolvedtyp object clone unresolvedtyp
+return resolvedmemb clonemethod
+resolv member resolvedmemb

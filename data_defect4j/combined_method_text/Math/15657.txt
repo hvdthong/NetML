@@ -1,0 +1,53 @@
+pass file comput min max
+href http nedwww ipac caltech level5 march02 silverman silver2 html
+observ data make assumpt function form
+version
+gener uniformli distribut
+divid interv subinterv bin
+inherit doc inheritdoc
+evalu result cdf match group frequenc
+getnextvalu
+load distribut file observ data valu
+select subinterv belong
+strong gener random valu distribut strong
+overrid
+distribut valu file
+sampl
+set kernel distribut
+strong usag note strong
+bin bin kernel
+support oper
+observ bin
+empir distribut empiricaldistribut link real distribut realdistribut
+report univari statist describ full set data valu
+repres href http http wikipedia org wiki empir distribut function
+frequenc histogram repres input data gener random valu
+input file plain text file valid numer
+strong digest input file strong
+pass data file comput bin count univari
+applic code empir distribut empiricaldistribut code build group
+org apach common math3 random
+distribut bin endpoint interpol bin
+empir probabl distribut probabl distribut deriv
+length bin' subinterv proport count
+code empir distribut empiricaldistribut code maintain data structur call
+rang valu dataset
+input file valu gener follow
+gener random valu distribut
+popul distribut data
+bin kernel
+divid input data bin rang report bin frequenc
+sum probabl bin
+empir distribut empiricaldistribut abstract real distribut abstractrealdistribut
+count data histogram
+implement amount
+code bin count bincount code set good rule thumb
+divid rang min max code bin count bincount code bin
+set bin count approxim length input file divid
+distribut digest describ empir distribut
+statist std dev bin
+entri line
+gener random gaussian
+variabl kernel method gaussian smooth
+bin std dev std dev bin
+mass integr kernel densiti

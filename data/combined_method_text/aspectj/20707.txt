@@ -1,0 +1,5 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+error bcel class weaver bcelclassweav weaver string text sourc locat isourceloc primari loc primaryloc sourc locat isourceloc extra loc extraloc
+messag imessag msg messag text primari loc primaryloc extra loc extraloc
+weaver world getworld messag handler getmessagehandl handl messag handlemessag msg

@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+add custom munger addcustommung
+custom munger factori custommungerfactori
+iter ad class addedclass iter hasnext
+unwoven class file unwovenclassfil unwoven class file unwovenclassfil
+string class getclassnam
+resolv type resolvedtyp type world resolv
+type aspect isaspect
+collect shadow munger shadowmung custom munger factori custommungerfactori creat custom shadow munger createcustomshadowmung type collect shadowmung shadowmung custommungerfactori createcustomshadowmung type
+shadow munger shadowmung
+shadow munger list shadowmungerlist add addal shadow munger shadowmung
+collect type munger typemung custom munger factori custommungerfactori collect concretetypemung typemung custommungerfactori
+creat custom type munger createcustomtypemung type
+type munger typemung
+type munger list typemungerlist add addal type munger typemung

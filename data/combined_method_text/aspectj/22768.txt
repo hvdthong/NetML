@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+target annot pointcut thisortargetannotationpointcut bind pointcut namebindingpointcut
+verifi runtim retent verifyruntimeretent resolv type resolvedtyp annot type rannotationtyp
+annot type rannotationtyp annot runtim retent isannotationwithruntimeretent
+messag imessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag bind runtim retent annot bind runtim retent annot annot type rannotationtyp getnam
+sourc locat getsourceloc
+annot type rannotationtyp world getworld messag handler getmessagehandl handl messag handlemessag

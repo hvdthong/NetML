@@ -1,0 +1,71 @@
+pre
+rel tol reltol compon
+except deriv except derivativeexcept except propag
+math sqrt scale2 yonscale2 dot scale2 ydotonscale2
+dot scale2 ydotonscale2
+algorithm perform integr stepsiz control
+param dot1 ydot1 work arrai time deriv
+step reject attempt made
+scale2 yonscale2 dot scale2 ydotonscale2
+step size comput
+org apach common math od
+dot scale2 ydotonscale2 ratio ratio
+initi integr step
+deriv except derivativeexcept
+param equat differenti equat set
+param state vector
+param start time
+param dot0 ydot0 time deriv
+dot scale yddotonscal math sqrt dot scale yddotonscal
+guess perform euler step
+dot0 ydot0
+estim deriv solut
+max step getmaxstep
+dot scale yddotonscal
+compon user scalar valu ab tol abstol
+version revis date
+forward
+length
+param scale scale vector state vector
+dot scale yddotonscal ratio ratio
+sqrt sum err est errest threshold
+forward order scale
+state vector rel tol reltol rel toler
+math min math ab
+integr step
+order max tol y'' tol
+threshold ab tol abstol rel tol reltol max ab ab
+state vector dimens step accept
+max inv2 maxinv2 math max math sqrt dot scale2 ydotonscale2 dot scale yddotonscal
+param order order method
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc
+initi step initializestep order differenti equat firstorderdifferentialequ equat
+ratio scale
+ab tol abstol absolut toler compon
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+ratio
+param forward forward integr indic
+ratio dot1 ydot1 dot0 ydot0 scale
+initi step initialstep
+mean user integr step
+dot1 ydot1
+forward initi step initialstep initi step initialstep
+caller underli user function trigger
+perform euler step preced rough guess
+max inv2 maxinv2
+scale2 yonscale2 ratio ratio
+estim error
+math max math ab
+param work arrai state vector
+stepsiz
+math max math ab avoid cancel comput
+equat comput deriv computederiv dot1 ydot1
+scale2 yonscale2
+rough guess scale scale
+math pow max inv2 maxinv2 order
+user provid
+ratio dot0 ydot0 scale
+min step getminstep

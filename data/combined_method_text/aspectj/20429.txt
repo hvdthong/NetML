@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+attribut ajattribut attribut getattribut string
+list result arrai list arraylist
+list bcel attribut bcelattribut read attribut readajattribut declar type getdeclaringtyp class getclassnam method attribut getattribut sourc context getsourcecontext world world bcel object type bcelobjecttyp weaver version attribut getweaverversionattribut
+iter iter iter iter hasnext
+attribut ajattribut element attribut ajattribut iter
+element string getnamestr equal result add element
+result size
+attribut ajattribut result arrai toarrai attribut ajattribut

@@ -1,0 +1,16 @@
+end
+param func type function solv
+code argument form increas sequenc
+solver
+check argument form strictli increas sequenc
+param end number
+mid
+param mid number
+provid implement function gener
+param start number
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+version
+sequenc issequ start
+univari real solver util univariaterealsolverutil sequenc issequ start mid end
+org apach common math analysi solver
+version revis date wed nov

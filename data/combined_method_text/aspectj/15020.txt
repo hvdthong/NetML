@@ -1,0 +1,67 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass static part java virtual
+machin specif 2nd edit
+detail inform found verifi
+method' document
+version pass3averifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3a verifi pass3averifi pass verifi passverifi
+check pass delai pass
+perform reason check access code arrai
+code attribut method perform
+descript verifi method
+throw classconstraintexcept verif fail
+verifi
+delai pass2 check delayedpass2check
+instruct posit instructionposit instruct list instructionlist instruct posit getinstructionposit
+code length codelength code code getcod length
+linenumbert
+line number tabl linenumbert lnt code line number tabl getlinenumbert
+lnt
+line number linenumb line number linenumb lnt line number tabl getlinenumbert
+int list intlist offset int list intlist
+line number loop linenumb loop line number linenumb length linenumb loop int linenumb length order
+instruct posit instructionposit length
+todo make binari search instructionposit arrai natur order
+offset line number linenumb start getstartpc
+instruct posit instructionposit offset
+offset offset
+add messag addmessag linenumbert attribut code line number tabl getlinenumbert refer code offset offset violat semant produc ibm' 'jikes' compil
+offset add offset
+line number loop linenumb loop
+class constraint except classconstraintexcept code attribut code linenumbert attribut code line number tabl getlinenumbert refer code offset line number linenumb start getstartpc exist
+localvariablet
+code getlocalvariablet
+bug bcel
+attribut att code attribut getattribut
+att length
+att local variabl tabl localvariablet
+local variabl tabl localvariablet lvt local variabl tabl localvariablet att
+lvt
+local variabl localvari local variabl localvari lvt local variabl tabl getlocalvariablet
+local variabl localvari length
+startpc local variabl localvari start getstartpc
+length local variabl localvari length getlength
+instruct posit instructionposit startpc
+class constraint except classconstraintexcept code attribut code localvariablet attribut code local variabl tabl getlocalvariablet refer code offset startpc exist
+instruct posit instructionposit startpc length startpc length code length codelength
+class constraint except classconstraintexcept code attribut code localvariablet attribut code local variabl tabl getlocalvariablet refer code offset start length startpc length exist
+exceptiont
+bcel' classfil api startpc endpc notat
+inclus exclus java virtual machin specif
+warn true bcel' gener api
+code except codeexcept except tabl exceptiont code except tabl getexceptiont
+except tabl exceptiont length
+startpc except tabl exceptiont start getstartpc
+endpc except tabl exceptiont end getendpc
+handlerpc except tabl exceptiont handler gethandlerpc
+startpc endpc
+class constraint except classconstraintexcept code attribut code except tabl entri except tabl exceptiont start startpc smaller end endpc
+instruct posit instructionposit startpc
+class constraint except classconstraintexcept code attribut code except tabl entri except tabl exceptiont exist bytecod offset start startpc
+instruct posit instructionposit endpc endpc code length codelength
+class constraint except classconstraintexcept code attribut code except tabl entri except tabl exceptiont exist bytecod offset end startpc equal code length code length codelength
+instruct posit instructionposit handlerpc
+class constraint except classconstraintexcept code attribut code except tabl entri except tabl exceptiont exist bytecod offset handler handlerpc

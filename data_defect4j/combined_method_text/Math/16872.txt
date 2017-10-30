@@ -1,0 +1,33 @@
+simpl constructor
+variant discret fourier transform
+comput
+current implement discret fourier transform fast
+count dimens
+dimens lastdimens arrai
+param multi dimension complex arrai multidimensionalcomplexarrai arrai matrix
+zero meet requir flavor fft
+link dft normal dftnormal
+implement fast fourier transform transform dimension
+object dimens lastdimens multi dimension complex arrai multidimensionalcomplexarrai
+object arrai object dimens lastdimens
+multi dimension complex matrix multidimensionalcomplexmatrix
+dimens size dimensions num dimens numofdimens
+dimens lastdimens object
+version
+alloc arrai exact count
+dft normal dftnormal
+dimens size dimensions num dimens numofdimens arrai length
+fourier transform requir length data set power
+greatli simplifi speed code user pad data
+org apach common math3 transform
+normal convent paramet
+fill arrai
+object multi dimension complex arrai multidimensionalcomplexarrai
+refer winograd
+real complex data set refer appli numer linear
+element
+algebra isbn chapter
+num dimens numofdimens
+fast fourier transform fastfouriertransform serializ
+comput discret fourier transform mathemat
+multi dimension complex arrai multidimensionalcomplexarrai multi dimension complex arrai multidimensionalcomplexarrai

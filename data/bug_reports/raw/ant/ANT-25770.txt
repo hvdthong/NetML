@@ -1,0 +1,10 @@
+[PATCH] FixCRLF "preserveLastModified"
+can a boolean preserveLastModified attribute (that behaves similar to copy's) 
+be added to FixCRLF:
+
+example use case:
+<fixCRLF srcDir="/badEOL" destDir="/fixedEOL" preserveLastModified="true">
+<ftp ... depends="yes"/>
+
+currently, fixCRLF will always generate a file w/ the current timestamp which 
+means that FTP (which uses TS for dependency checking) will always transfer it

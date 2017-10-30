@@ -1,0 +1,26 @@
+org aspectj apach bcel gener
+denot arrai type int
+version arraytyp java aclement exp
+author href mailto marku dahm berlin dahm
+arrai type arraytyp refer type referencetyp
+constructor arrai type
+param type type arrai arrai
+arrai type arraytyp type type dimens
+constant arrai arrai dummi
+dimens dimens constant max byte max byte
+class gen except classgenexcept invalid number dimens dimens
+type type gettyp
+constant arrai arrai
+arrai type arraytyp arrai arrai type arraytyp type
+dimens dimens arrai dimens
+basic type arrai basic type
+constant void void
+class gen except classgenexcept invalid type void
+default basic type refer
+dimens dimens
+basic type type
+string buffer stringbuff buf string buffer stringbuff
+dimens
+buf append
+buf append basic type signatur getsignatur
+signatur buf string tostr

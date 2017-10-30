@@ -1,0 +1,10 @@
+org aspectj apach bcel gener
+super class invokexxx famili instruct
+version invokeinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+invok instruct invokeinstruct field method fieldormethod
+work instruct stack effect depend
+constant pool entri refer
+return number word produc stack instruct
+produc stack producestack constant pool gen constantpoolgen cpg
+return type getreturntyp cpg size getsiz

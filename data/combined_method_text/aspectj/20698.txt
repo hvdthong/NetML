@@ -1,0 +1,33 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+creat bridg method munger
+param world
+param munger
+param unmangledintermethod method bridg 'to' creat 'subtype'
+param clazz class put bridg method
+param paramtyp paramet type bridg method pass optim caller creat
+param thebridgemethod
+creat bridg method createbridgemethod bcel world bcelworld world method type munger newmethodtypemung munger
+resolv member resolvedmemb mangl inter method unmangledintermethod lazi class gen lazyclassgen clazz type param type paramtyp resolv member resolvedmemb bridg method thebridgemethod
+instruct list instructionlist bodi
+instruct factori instructionfactori fact
+po
+lazi method gen lazymethodgen bridg method bridgemethod make method gen makemethodgen clazz bridg method thebridgemethod lazymethodgen bridgemethod makemethodgen clazz thebridgemethod bridg method type signatur supertyp
+bridg method bridgemethod set access flag setaccessflag bridg method bridgemethod access flag getaccessflag bridgemethod setaccessflag bridgemethod getaccessflag 0x00000040 bridg 0x00000040
+unresolv type unresolvedtyp param newparam munger signatur getsignatur paramet type getparametertyp
+type return type returntyp bcel world bcelworld make bcel type makebceltyp bridg method thebridgemethod return type getreturntyp
+bodi bridg method bridgemethod bodi getbodi
+fact clazz factori getfactori
+mangl inter method unmangledintermethod static isstat
+bodi append instruct factori instructionfactori creat createthi
+po
+len param type paramtyp length len
+type param type paramtyp param type paramtyp
+bodi append instruct factori instructionfactori creat load createload param type paramtyp po
+bridgingsett getparametertyp geterasuresignatur equal unmangledintermethod getparametertyp geterasuresignatur
+system err println put cast paramtyp bridgingtoparm
+bodi append fact createcast paramtyp bridgingtoparm
+po param type paramtyp size getsiz
+bodi append util creat invok createinvok fact world mangl inter method unmangledintermethod
+bodi append instruct factori instructionfactori creat return createreturn return type returntyp
+clazz add method gen addmethodgen bridg method bridgemethod

@@ -1,0 +1,7 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+return filenam
+string file getfil url url
+url file getfil

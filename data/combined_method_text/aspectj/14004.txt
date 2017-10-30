@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+ldc push item constant pool
+pre stack item pre
+version ldc java aclement exp
+author href mailto marku dahm berlin dahm
+ldc instruct cpinstruct
+ldc index
+org aspectj apach bcel constant ldc ldc index
+set size setsiz

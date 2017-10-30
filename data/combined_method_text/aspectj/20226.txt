@@ -1,0 +1,32 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+build bind method pointcut advic
+param struct
+return null debug info
+formal bind formalbind extract bind extractbind attribut method struct ajattributemethodstruct struct
+unread debug info except unreadabledebuginfoexcept
+method method struct method
+string argument name argumentnam struct argument name getargumentnam
+assert debug info
+argument name argumentnam length method argument type getargumenttyp length
+report error reporterror read debug info aspect handl formal bind pointcut compil 'javac javac debug 'true' ant struct
+unread debug info except unreadabledebuginfoexcept
+list bind arrai list arraylist
+argument name argumentnam length
+string argument argumentnam argument name argumentnam
+unresolv type unresolvedtyp argument type argumenttyp unresolv type unresolvedtyp signatur forsignatur method argument type getargumenttyp signatur getsignatur
+bind joinpoint staticjoinpoint enclosingstaticjoinpoint
+todo solv mean sjp esjp bind
+appli advic advic
+ajc member maker ajcmembermak typex joinpoint typex joinpoint equal argument type argumenttyp
+ajc member maker ajcmembermak typex proceedingjoinpoint typex proceedingjoinpoint equal argument type argumenttyp
+ajc member maker ajcmembermak typex staticjoinpoint typex staticjoinpoint equal argument type argumenttyp
+ajc member maker ajcmembermak typex enclosingstaticjoinpoint typex enclosingstaticjoinpoint equal argument type argumenttyp
+ajc member maker ajcmembermak closur type closur type equal argument type argumenttyp
+continu skip
+bind add formal bind formalbind implicit formal bind implicitformalbind argument type argumenttyp argument argumentnam
+bind add formal bind formalbind argument type argumenttyp argument argumentnam
+formal bind formalbind bind arrai toarrai formal bind formalbind

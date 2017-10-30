@@ -1,0 +1,17 @@
+precondition
+param diag diagon coeffici precondition
+param diag diagon coeffici linear oper
+org apach common math linear
+perform
+jacobi precondition jacobiprecondition diag deep
+creat instanc
+jacobi precondition jacobiprecondition real linear oper reallinearoper
+precondit
+diag arrai real vector arrayrealvector diag deep
+matrix precondition
+version
+diag hellip
+standard jacobi diagon precondition
+jacobi precondition jacobiprecondition
+param deep code deep copi arrai
+link creat real linear oper reallinearoper return invers

@@ -1,0 +1,20 @@
+link number format numberformat current local advis
+param local specif local format
+user defin string number format compon configur
+white space pars time prefix suffix
+vector2 format vector2dformat vector format vectorformat euclidean2 euclidean2d
+charact format time input string
+vector format specif local
+close curli brace trail space
+vector2 format vector2dformat instanc getinst local local
+pars error vector
+version
+link number format numberformat instanc disabl group
+return vector format local
+prefix suffix separ replac
+separ specif separ includ space
+note separ interfer group separ
+return pars posit pars
+format vector compon list format
+vector2 format vector2dformat composit format compositeformat default number format getdefaultnumberformat local
+org apach common math3 geometri euclidean twod

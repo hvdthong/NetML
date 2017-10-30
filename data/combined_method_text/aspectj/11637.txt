@@ -1,0 +1,42 @@
+org aspectj ajdt intern compil lookup
+special method bind repres itd pretend
+member target type match purpos
+inter type method bind intertypemethodbind method bind methodbind
+inter type method bind intertypemethodbind eclips factori eclipsefactori world resolv type munger resolvedtypemung munger unresolv type unresolvedtyp type withintyp
+abstract method declar abstractmethoddeclar sourc method sourcemethod
+resolv member resolvedmemb signatur munger signatur getsignatur
+method bind methodbind world make method bind makemethodbind signatur munger type variabl alias gettypevariablealias
+modifi modifi
+selector selector
+return type returntyp return type returntyp
+paramet paramet
+thrown except thrownexcept thrown except thrownexcept
+type variabl typevari type variabl typevari
+sourc method sourcemethod sourc method sourcemethod
+target type targettyp refer bind referencebind world make type bind maketypebind signatur declar type getdeclaringtyp
+declar class declaringclass refer bind referencebind world make type bind maketypebind type withintyp
+set typevari declar element
+1st set
+typevari declar sourc method declar element
+type variabl typevari length
+type variabl bind typevariablebind type variabl typevari
+string string sourc sourcenam
+type variabl bind typevariablebind tv2 sourc method sourcemethod bind type variabl typevari
+tv2 length
+type variabl bind typevariablebind type variabl typevari tv2
+string tv2 sourc sourcenam equal type variabl typevari declar element declaringel
+type variabl typevari length
+type variabl typevari declar element declaringel runtim except runtimeexcept declar element set
+typevari declaringel
+tvar getdeclaringel instanceof member
+declaringel makemethodbind resolvedmemb tvar getdeclaringel
+declaringel maketypebind unresolvedtyp tvar getdeclaringel
+signatur kind getkind member method
+synthet method syntheticmethod
+world make method bind makemethodbind ajc member maker ajcmembermak inter method dispatch intermethoddispatch signatur type withintyp
+post dispatch method postdispatchmethod
+world make method bind makemethodbind ajc member maker ajcmembermak inter method bodi intermethodbodi signatur type withintyp
+synthet method syntheticmethod world make method bind makemethodbind
+ajc member maker ajcmembermak inter constructor interconstructor world world getworld resolv signatur declar type getdeclaringtyp
+signatur type withintyp
+post dispatch method postdispatchmethod synthet method syntheticmethod

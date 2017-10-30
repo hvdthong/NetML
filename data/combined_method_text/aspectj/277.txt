@@ -1,0 +1,45 @@
+org aspectj ajd core intern
+build manag drive build ajcompil
+tool call build ajcompil drive
+ajd core build manag ajdecorebuildmanag
+configur ajbuildconfig option found
+icompilerconfigur implement ajcompil
+ajdecorebuildmanag
+param config
+configur compil option configurecompileropt build config ajbuildconfig config
+string propcp compil compil configur getcompilerconfigur classpath getclasspath
+lang util langutil empti isempti propcp
+string token stringtoken string token stringtoken propcp file path separ pathsepar
+list config classpath configclasspath config classpath getclasspath
+arrai list arraylist add toadd arrai list arraylist
+token hasmoretoken
+string entri token nexttoken
+config classpath configclasspath entri
+add toadd add entri
+add toadd size
+arrai list arraylist arrai list arraylist config classpath configclasspath size add toadd size
+add addal config classpath configclasspath
+add addal add toadd
+config set classpath setclasspath
+set outputjar
+config output jar getoutputjar
+string jar outjar compil compil configur getcompilerconfigur jar getoutjar
+lang util langutil empti isempti jar outjar
+config set output jar setoutputjar file jar outjar
+set compil result destin manag
+output locat manag ioutputlocationmanag output locat manag outputlocationmanag compil compil configur getcompilerconfigur output locat manag getoutputlocationmanag
+config compil result destin manag getcompilationresultdestinationmanag output locat manag outputlocationmanag
+config set compil result destin manag setcompilationresultdestinationmanag output locat adapt outputlocationadapt output locat manag outputlocationmanag
+join config inpath getinpath compil compil configur getcompilerconfigur inpath getinpath
+bug call 'setinpath creat binarysourcefil
+class inpath
+config inpath getinpath config set path setinpath config inpath getinpath
+config set sourc path resourc setsourcepathresourc compil compil configur getcompilerconfigur sourc path resourc getsourcepathresourc
+join config aspectpath getaspectpath compil compil configur getcompilerconfigur aspect path getaspectpath
+map jom compil compil configur getcompilerconfigur java option map getjavaoptionsmap
+jom
+string version string jom compil option compileropt option complianc option complianc
+version version equal compil option compileropt version version equal compil option compileropt version
+config set behav java5 setbehaveinjava5wai
+config option getopt set jom
+configur standard option configurenonstandardopt config

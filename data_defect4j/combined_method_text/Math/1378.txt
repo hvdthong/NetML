@@ -1,0 +1,25 @@
+dfp high precis highprecisionon dfp high precis field highprecisionfield
+recomput high precis string constant
+sqr2 string sqr2string high precis sqr2 highprecisionsqr2 string tostr
+sqr2 reciproc string sqr2reciprocalstr high precis highprecisionon divid high precis sqr2 highprecisionsqr2 string tostr
+dfp high precis sqr3 highprecisionsqr3 high precis highprecisionthre sqrt
+string pistr comput computepi high precis highprecisionon high precis highprecisiontwo high precis highprecisionthre string tostr
+ln2 string ln2string comput computeln high precis highprecisiontwo high precis highprecisionon high precis highprecisiontwo string tostr
+dfp high precis sqr2 highprecisionsqr2 high precis highprecisiontwo sqrt
+comput string constant computestringconst high precis decim digit highprecisiondecimaldigit
+org apach common math dfp
+version
+version revis date
+dfp field dfpfield field dfp
+param high precis decim digit highprecisiondecimaldigit precis string constant mu comput
+dfp high precis highprecisionthre dfp high precis field highprecisionfield
+field decim float point instanc
+sqr3 reciproc string sqr3reciprocalstr high precis highprecisionon divid high precis sqr3 highprecisionsqr3 string tostr
+ln5 string ln5string comput computeln dfp high precis field highprecisionfield high precis highprecisionon high precis highprecisiontwo string tostr
+dfp high precis highprecisiontwo dfp high precis field highprecisionfield
+dfp field dfpfield high precis field highprecisionfield dfp field dfpfield high precis decim digit highprecisiondecimaldigit
+ln10 string ln10string comput computeln dfp high precis field highprecisionfield high precis highprecisionon high precis highprecisiontwo string tostr
+sqr3 string sqr3string high precis sqr3 highprecisionsqr3 string tostr
+recomput string represent transcendent constant
+string estr comput exp computeexp high precis highprecisionon high precis highprecisionon string tostr
+sqr2 string sqr2string sqr2 string sqr2string length high precis decim digit highprecisiondecimaldigit

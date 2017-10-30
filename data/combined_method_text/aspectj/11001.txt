@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil
+author colyer
+class weaver sourc class file weav
+iter iclassfileprovid interfac receiv result back
+weaver iweaverequestor interfac
+weaver adapt weaveradapt class file provid iclassfileprovid weav requestor iweaverequestor iter
+process reweav state processingreweavablest
+progress report logic
+percent fromperc fromperc assum weav take progress bar
+record progress recordprogress process reweav state

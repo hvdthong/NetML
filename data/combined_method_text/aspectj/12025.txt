@@ -1,0 +1,8 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+org aspectj bridg imessagehandl isignor org aspectj bridg imessag kind
+param kind
+dont ignor dontignor messag imessag kind kind

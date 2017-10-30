@@ -1,0 +1,8 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+path creat sourcepath createsourcepath
+sourcepath
+sourcepath path project getproject
+sourcepath creat path createpath

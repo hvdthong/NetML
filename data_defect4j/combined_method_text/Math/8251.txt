@@ -1,0 +1,10 @@
+gener random vector isotrop locat surfac sphere
+rand rand
+random gener randomgener rand
+version revis date
+dimens dimens
+unit sphere random vector gener unitsphererandomvectorgener
+unit sphere random vector gener unitsphererandomvectorgener dimens
+param rand rng individu compon vector
+param dimens space dimens
+org apach common math random

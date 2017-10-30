@@ -1,0 +1,9 @@
+end
+interfac defin visitor matrix entri
+org apach common math3 linear
+param type field element
+end visit matrix
+field matrix preserv visitor fieldmatrixpreservingvisitor field element fieldel
+version
+code walk xxx order walkinxxxord code
+method call entri matrix visit

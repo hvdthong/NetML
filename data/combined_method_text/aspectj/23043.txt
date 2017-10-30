@@ -1,0 +1,5 @@
+org aspectj weaver reflect
+author colyer
+code access annot safe
+annot finder annotationfind
+object annot member getannotationfrommemb resolv type resolvedtyp annot type annotationtyp member member amemb

@@ -1,0 +1,32 @@
+org apach lucen search
+altern booleanscor minimum number
+option scorer match
+implement skipto limit number ad scorer
+conjunctionscor disjunctionscor reqoptscor reqexclscor
+boolean scorer2 booleanscorer2 scorer
+scorer make count sum scorer req makecountingsumscorersomereq disabl coord disablecoord similar similar except ioexcept privat scorer makecountingsumscorersomereq boolean disablecoord similar similar throw ioexcept requir scorer
+option scorer optionalscor size min match minnrshouldmatch optionalscor size minnrshouldmatch option scorer requir
+arrai list arraylist scorer req allreq arrai list arraylist scorer requir scorer requiredscor
+req allreq add addal option scorer optionalscor
+add prohibit scorer addprohibitedscor count conjunct sum scorer countingconjunctionsumscor disabl coord disablecoord similar req allreq
+optionalscor size minnrshouldmatch requir scorer
+scorer requir count sum scorer requiredcountingsumscor
+requir scorer requiredscor size
+singl match scorer singlematchscor requir scorer requiredscor
+count conjunct sum scorer countingconjunctionsumscor disabl coord disablecoord similar requir scorer requiredscor
+min match minnrshouldmatch minnrshouldmatch requir disjunct scorer option scorer
+add prohibit scorer addprohibitedscor
+dual conjunct sum scorer dualconjunctionsumscor dualconjunctionsumscor count
+disabl coord disablecoord
+similar
+requir count sum scorer requiredcountingsumscor
+count disjunct sum scorer countingdisjunctionsumscor
+option scorer optionalscor
+min match minnrshouldmatch
+minnrshouldmatch
+req opt sum scorer reqoptsumscor
+add prohibit scorer addprohibitedscor requir count sum scorer requiredcountingsumscor
+option scorer optionalscor size
+singl match scorer singlematchscor option scorer optionalscor
+requir combin option scorer
+count disjunct sum scorer countingdisjunctionsumscor option scorer optionalscor

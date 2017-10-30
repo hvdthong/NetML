@@ -1,0 +1,8 @@
+org apach common math filter
+inherit doc inheritdoc
+default implement link process model processmodel
+default process model defaultprocessmodel process model processmodel
+real vector realvector initi state estim getinitialstateestim
+version
+initi state estim vector initialstateestimatevector
+link kalman filter kalmanfilt

@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+singl refer singlenamerefer make resolv local variabl refer makeresolvedlocalvariablerefer
+local variabl bind localvariablebind bind
+singl refer singlenamerefer ret singl refer singlenamerefer bind
+ret bind bind
+ret codegen bind codegenbind bind
+ret constant constant constant notaconst
+ret bit ast node astnod restrict flag mask restrictiveflagmask ret bit astnod restrictiveflagmask clear bit
+ret bit bind local
+ret

@@ -1,0 +1,12 @@
+param lookup char sequenc charsequ tabl size
+lookup map lookupmap hash map hashmap char sequenc charsequ char sequenc charsequ
+seq length
+lookup translat lookuptransl char sequenc charsequ lookup
+translat lookup tabl
+lookup translat lookuptransl char sequenc translat charsequencetransl
+lookup map lookupmap put seq seq
+longest
+defin lookup tabl translat
+char sequenc charsequ seq lookup
+shortest
+org apach common lang text translat

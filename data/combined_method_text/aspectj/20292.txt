@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel attribut bcelattribut
+attribut bcel attribut bcelattribut attribut ajattribut constant pool gen constantpoolgen pool
+index nameindex pool add utf8 addutf8 string getnamestr
+byte byte getbyt
+length byte length
+unknown index nameindex length byte pool constant pool getconstantpool

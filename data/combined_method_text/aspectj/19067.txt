@@ -1,0 +1,22 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+string signatur maker getsignaturemakernam
+getnam equal clinit makeinitializersig
+kind kind kind getkind
+kind method
+makemethodsig
+kind constructor
+makeconstructorsig
+kind field
+makefieldsig
+kind handler
+makecatchclausesig
+kind static initi static initi
+makeinitializersig
+kind advic
+makeadvicesig
+kind monitorent
+makelocksig
+kind monitorexit
+makeunlocksig
+runtim except runtimeexcept unimpl

@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+target arg repres access annot
+'thing' main creat instruct retriev
+annot 'thing' createloadinstruct
+type annot access var typeannotationaccessvar bcel var bcelvar
+instruct list instructionlist creat load instruct createloadinstruct resolv type resolvedtyp type totyp instruct factori instructionfactori fact
+instruct list instructionlist instruct list instructionlist
+type class jlclass bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp java lang class java lang class
+type jla annot jlaannot bcel world bcelworld make bcel type makebceltyp unresolv type unresolvedtyp signatur forsignatur ljava lang annot annot
+append target creat load createload fact
+append fact creat invok createinvok java lang object getclass class jlclass type constant invokevirtu
+append fact creat constant createconst object type objecttyp type totyp getnam
+append fact creat invok createinvok java lang class getannot jla annot jlaannot type class jlclass constant invokevirtu
+append util creat convers createconvers fact jla annot jlaannot bcel world bcelworld make bcel type makebceltyp type totyp

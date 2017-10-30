@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+string argument name getargumentnam
+argument name lazi argumentnameslazi
+argument name lazi argumentnameslazi method argument name getmethodargumentnam method unpars argument name unparsedargumentnam
+argument name lazi argumentnameslazi

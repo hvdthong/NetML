@@ -1,0 +1,22 @@
+org aspectj ajd swing
+edit build configur lst file graphic tree base
+represent
+author mik kersten
+tree view build config editor treeviewbuildconfigeditor panel jpanel build config editor buildconfigeditor
+mous press mousepress mous event mouseev
+getx
+geti
+tree path treepath path tree closest path locat getclosestpathforloc
+config tree node configtreenod node config tree node configtreenod path path compon getlastpathcompon
+ischeckbox tree getpathbound path
+node check box checkbox select isselect
+node model node getmodelnod set activ setact
+node check box checkbox set select setselect
+node model node getmodelnod set activ setact
+node check box checkbox set select setselect
+default tree model defaulttreemodel tree model getmodel node chang nodechang node
+node model node getmodelnod getnam
+node check box checkbox select isselect
+select entri selectedentri add node model node getmodelnod getnam
+select entri selectedentri remov node model node getmodelnod getnam
+mous press mousepress

@@ -1,0 +1,12 @@
+author stephen colebourn
+param dai number dai
+defin durat time queri modifi datetim field
+read writabl period readwritableperiod readabl period readableperiod
+add dai number dai period
+implement mutabl
+arithmet except arithmeticexcept addit exce capac period
+org joda time
+provid advanc method
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support
+add dai adddai dai

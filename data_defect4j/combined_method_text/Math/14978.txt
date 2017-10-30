@@ -1,0 +1,14 @@
+paramet model optim
+optim provid move
+deprec class interfac deprec
+org apach common math3 optim nonlinear vector
+target optim procedur
+target optim data optimizationdata
+initi guess
+target gettarget
+version
+valu object vector function reproduc
+immut
+target clone
+link org apach common math3 fit leastsquar
+math

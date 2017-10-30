@@ -1,0 +1,33 @@
+check row index checkrowindex start row startrow
+check column index checkcolumnindex start column startcolumn
+param matrix submatrix
+param start row startrow initi row index
+number small except numberistoosmallexcept code end row endrow start row startrow
+code end column endcolumn start column startcolumn
+except matrix index except matrixindexexcept indic valid
+row column count
+param matrix
+org apach common math linear
+param start column startcolumn initi column index
+param end column endcolumn final column index
+param end row endrow final row index
+version
+check submatrix rang indic valid
+start column startcolumn end column endcolumn
+matrix index except matrixindexexcept local format localizedformat initi column final column
+check column index checkcolumnindex end column endcolumn
+collect method oper matric
+check matrix index checksubmatrixindex matrix anymatrix
+matrix util matrixutil
+matrix index except matrixindexexcept initi column column
+number small except numberistoosmallexcept local format localizedformat initi row final row
+matrix index except matrixindexexcept initi row row
+version revis date
+number small except numberistoosmallexcept local format localizedformat initi column final column
+start row startrow end row endrow
+row column count code
+end column endcolumn start column startcolumn
+check row index checkrowindex end row endrow
+matrix index except matrixindexexcept local format localizedformat initi row final row
+end row endrow start row startrow
+rang except outofrangeexcept indic invalid

@@ -1,0 +1,38 @@
+captur method annot gener aspect compil
+aspect compil aspect
+packag
+import java lang annot annot
+public abstract aspect genericannot extend annot
+pointcut annotatedcal call annot
+compil
+annotatedcal
+system println annotationtyp
+
+
+
+call annot
+system println annotationtyp
+
+
+
+ajc src
+src genericannot error incompat type expect java lang annot annot found bindingtypepattern check type pointcut annotatedcal
+error
+
+comment advic let program run expect
+packag
+import java lang annot retent
+import java lang annot retentionpolici
+public class main
+retent retentionpolici runtim
+interfac myannot
+
+static aspect concreteannot extend genericannot myannot
+
+public static void main string arg
+somemethod
+
+myannot
+privat static void somemethod
+
+

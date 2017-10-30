@@ -1,0 +1,19 @@
+pre
+org apach common math stat infer
+group
+dfwg dfwg
+dfbg dfbg
+common math distribut implement estim exact valu
+anova impl onewayanovaimpl anova onewayanova
+param dfbg degre freedom numer group
+constructor
+param dfwg degre freedom denomin group
+abbrevi group
+http faculti vassar lowri ch13pt1 html
+anova stat anovastat dfbg dfwg
+param statist
+version revis date
+implement base descript
+implement anova statist defin link anova impl onewayanovaimpl
+link org apach common math distribut distribut fdistribut
+sum squar deviat

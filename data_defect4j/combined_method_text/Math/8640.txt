@@ -1,0 +1,22 @@
+overrid
+version
+append endl
+org apach common math stat descript
+string string tostr
+buffer outbuff append min append min getmin append endl
+statist summari valu statisticalsummaryvalu serializ
+gener text report displai valu statist
+buffer outbuff append max append max getmax append endl
+version revis date
+buffer outbuff append varianc append varianc getvari append endl
+string line feed displai statist
+string endl
+object repres result univari statist summari
+statist displai separ line
+buffer outbuff append append getn append endl
+buffer outbuff string tostr
+buffer outbuff append append getmean append endl
+buffer outbuff append std dev append standard deviat getstandarddevi
+buffer outbuff append statist summari valu statisticalsummaryvalu append endl
+buffer outbuff append sum append sum getsum append endl
+string buffer stringbuff buffer outbuff string buffer stringbuff

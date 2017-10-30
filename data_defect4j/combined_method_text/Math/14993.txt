@@ -1,0 +1,13 @@
+cost cost
+abstract squar optim abstractleastsquaresoptim
+param cost cost
+set cost setcost cost
+optim provid move
+deprec class interfac deprec
+version
+math
+base implement squar optim
+method error estim
+link org apach common math3 fit leastsquar
+org apach common math3 optim nonlinear vector jacobian
+set cost

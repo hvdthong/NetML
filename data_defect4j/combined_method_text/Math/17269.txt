@@ -1,0 +1,35 @@
+pre
+appli nan element input arrai sum
+org apach common math3 util
+valu normal sum normalizedsum sum
+doubl isnan valu
+math arithmet except matharithmeticexcept local format localizedformat arrai sum
+doubl infinit isinfinit valu
+doubl isnan normal sum normalizedsum
+math arithmet except matharithmeticexcept input arrai infinit
+math illeg argument except mathillegalargumentexcept local format localizedformat normal nan
+param valu input arrai normal
+sum
+math illeg argument except mathillegalargumentexcept math arithmet except matharithmeticexcept
+nan arithmet except arithmeticexcept input arrai infinit element
+version
+normal arrai normalizearrai valu normal sum normalizedsum
+math arrai matharrai
+len valu length
+len
+sum valu
+throw illeg argument except illegalargumentexcept code normal sum normalizedsum infinit
+param normal sum normalizedsum target sum normal arrai
+doubl nan
+return result transform pre
+element sum
+arrai util
+math illeg argument except mathillegalargumentexcept local format localizedformat infinit arrai element valu
+sum nan entri input arrai
+doubl infinit isinfinit normal sum normalizedsum
+math illeg argument except mathillegalargumentexcept local format localizedformat normal infinit
+normal arrai make sum
+normal sum normalizedsum sum
+normal arrai
+math illeg argument except mathillegalargumentexcept target sum infinit code nan
+ignor copi unchang output arrai nan input arrai

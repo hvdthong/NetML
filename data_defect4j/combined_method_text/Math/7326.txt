@@ -1,0 +1,58 @@
+dimens
+model deriv paramet modelsecondderivativesparamet arrai real vector arrayrealvector number interpol point numberofinterpolationpoint
+initi data structur bobyqa method
+min diff mindiff doubl posit infin
+dimens minimum problem dimens
+deriv base optim deriv approxim
+rang except outofrangeexcept local format localizedformat number interpol point
+dimens init length
+check number interpol point
+powell' bobyqa algorithm implement translat
+print method printmethod xxx
+min diff mindiff requir min diff requiredmindiff
+trial step point trialsteppoint arrai real vector arrayrealvector dimens
+min diff mindiff math min min diff mindiff bound differ bounddiffer
+altern point alternativenewpoint arrai real vector arrayrealvector dimens
+link powel optim powelloptim significantli stochast algorithm
+interpol point fatinterpolationpoint arrai real vector arrayrealvector number interpol point numberofinterpolationpoint
+gradient trust region center gradientattrustregioncent arrai real vector arrayrealvector dimens
+model deriv valu modelsecondderivativesvalu arrai real vector arrayrealvector dimens dimens
+setup lower bound lowerbound
+bound differ bounddiffer upper bound upperbound lower bound lowerbound
+link cmae optim cmaesoptim succe bobyqa
+number interpol point numberofinterpolationpoint
+number interpol point numberofinterpolationpoint dimens
+check problem dimens
+param upper bound upperbound upper bound constraint object variabl
+expens bobyqa consid replac
+requir min diff requiredmindiff initi trust region radiu initialtrustregionradiu
+point newpoint arrai real vector arrayrealvector dimens
+upper differ upperdiffer arrai real vector arrayrealvector dimens
+param lower bound lowerbound lower bound constraint object variabl
+version
+matrix zmatrix array2 row real matrix array2drowrealmatrix number interpol point numberofinterpolationpoint
+interpol point interpolationpoint array2 row real matrix array2drowrealmatrix number interpol point numberofinterpolationpoint
+point interv npointsinterv dimens dimens dimens
+bound differ bounddiffer dimens
+matrix bmatrix array2 row real matrix array2drowrealmatrix dimens number interpol point numberofinterpolationpoint
+trust region center offset trustregioncenteroffset arrai real vector arrayrealvector dimens
+initi trust region radiu initialtrustregionradiu min diff mindiff
+lower differ lowerdiffer arrai real vector arrayrealvector dimens
+deriv case outperform
+bobyqa optim bobyqaoptim
+upper bound upperbound
+number interpol point numberofinterpolationpoint point interv npointsinterv
+adapt fortran version
+finit differ
+origin shift originshift arrai real vector arrayrealvector dimens
+number small except numberistoosmallexcept dimens minimum problem dimens
+paper introduct
+initi bound differ
+perform valid check
+lagrang valu point lagrangevaluesatnewpoint arrai real vector arrayrealvector dimens number interpol point numberofinterpolationpoint
+href http www optim onlin org html html
+org apach common math optim direct
+init start point getstartpoint
+bobyqa suit high dimension problem
+href http plato asu ftp softwar bobyqa zip
+point interv npointsinterv

@@ -1,0 +1,12 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+target annot pointcut thisortargetannotationpointcut bind pointcut namebindingpointcut
+pointcut parameter parameterizewith map type variabl map typevariablemap world
+exact annot type pattern exactannotationtypepattern pattern newpattern exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern parameter parameterizewith type variabl map typevariablemap
+pattern newpattern annot type getannotationtyp resolv type resolvedtyp
+verifi runtim retent verifyruntimeretent resolv type resolvedtyp pattern newpattern resolv annot type getresolvedannotationtyp
+target annot pointcut thisortargetannotationpointcut ret target annot pointcut thisortargetannotationpointcut isthi exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern parameter parameterizewith type variabl map typevariablemap
+ret copi locat copylocationfrom
+ret

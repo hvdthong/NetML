@@ -1,0 +1,10 @@
+junit frames xsl included ant properly deal stack traces
+latest version junit xslt style sheet properly replace stack trace
+carriage returns tags removes carriage
+returns
+ths bug introduced src junit frames xsl
+checkin comments change avoid stack overflow
+issues
+workaround problem extracted latest junit frames xsl reverted
+replace function rev custom style sheet
+junitreport worked

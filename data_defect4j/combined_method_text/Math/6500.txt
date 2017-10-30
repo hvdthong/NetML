@@ -1,0 +1,22 @@
+case user integr problem specif equat
+user add equat primari set link
+org apach common math od
+param secondari arrai current secondari state vector
+param primari dot primarydot arrai deriv primari state vector
+param secondari dot secondarydot placehold arrai put deriv secondari state vector
+user add secondari differenti equat primari
+version
+expand state od expandablestatefulod add secondari equat addsecondaryequ secondari equat secondaryequ
+method
+primari set differenti equat optim control
+comput deriv relat secondari state paramet
+link
+param primari arrai current primari state vector
+adjoin paramet link minim hamiltonian integr
+order differenti equat firstorderdifferentialequ order differenti equat
+secondari secondari dot secondarydot
+comput deriv computederiv primari primari dot primarydot
+set differenti equat
+expand state od expandablestatefulod
+secondari equat secondaryequ
+param current independ time variabl

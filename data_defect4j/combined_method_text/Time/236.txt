@@ -1,0 +1,14 @@
+design extens extract field
+date time field datetimefield
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+minimum field unit field
+param instant partial instant queri
+author gui allard
+defin calcul engin date time field
+org joda time
+minimum field evalu time
+author brian neill o'neil
+minimum getminimumvalu readabl partial readableparti instant
+millisecond number standard implement provid assist

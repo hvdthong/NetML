@@ -1,0 +1,13 @@
+org aspectj util
+lang util langutil
+split string code list code
+code stringtoken code
+param text code string code split
+list string string text
+lang util langutil empti isempti text
+collect empti list empti list
+list string arrai list arraylist
+string token stringtoken tok string token stringtoken text
+tok token hasmoretoken
+string add tok token nexttoken
+string

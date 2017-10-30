@@ -1,0 +1,8 @@
+org aspectj ajd intern
+read write build configur lst file
+author mik kersten
+lst build config file updat lstbuildconfigfileupdat
+exist string entri string config file configfil string root path rootpath
+iter read config file readconfigfil config file configfil iter
+hasnext
+entri equal root path rootpath string

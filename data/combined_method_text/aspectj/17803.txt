@@ -1,0 +1,52 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+task test
+reset public void reset xxx reset matchingtask
+declar field initi
+adapt argument adapterargu
+adapt file adapterfil arrai list arraylist
+argfil
+execut
+aspectpath
+bootclasspath
+classpath
+cmd guard command guardedcommand
+copi injar copyinjar
+copi inpath copyinpath
+dest dir destdir default destdir default destdir
+execut
+execut executinginothervm
+extdir
+failonerror failonerror true standard default
+forkclasspath
+increment mode inincrementalmod
+increment file mode inincrementalfilemod
+arrai list arraylist
+injar
+inpath
+list file arg listfilearg
+max mem maxmem
+messag holder messagehold
+outjar
+sourc root copi filter sourcerootcopyfilt
+inpath dir copi filter inpathdircopyfilt
+sourc root sourceroot
+srcdir
+tmp outjar tmpoutjar
+verbos
+xweav dir xweavedir
+xdone signal xdonesign
+log command logcommand
+java cmd javacmd commandlin java commandlinejava

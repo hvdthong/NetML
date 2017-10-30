@@ -1,0 +1,15 @@
+method implement link entri getentri access
+org apach common math3 linear
+rang except outofrangeexcept matrix dimens mismatch except matrixdimensionmismatchexcept
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+matrix util matrixutil check column index checkcolumnindex column
+set column setcolumn column arrai
+version
+arrai length row nrow
+abstract real matrix abstractrealmatrix
+matrix dimens mismatch except matrixdimensionmismatchexcept arrai length row nrow
+basic implement real matrix realmatrix method underli storag
+row nrow
+set entri setentri column arrai
+row nrow row dimens getrowdimens

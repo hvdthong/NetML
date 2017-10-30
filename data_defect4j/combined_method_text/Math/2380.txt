@@ -1,0 +1,14 @@
+overrid
+context local messag getlocalizedmessag
+inherit doc inheritdoc
+string local messag getlocalizedmessag
+messag
+link arithmet except arithmeticexcept provid local
+messag getmessag local default getdefault
+version
+except semant standard
+except share semant standard
+math arithmet except matharithmeticexcept arithmet except arithmeticexcept
+base arithmet except
+version revis date
+org apach common math except

@@ -1,0 +1,21 @@
+org aspectj intern tool ant taskdef
+condit task conditionaltask task
+set if setif string if
+string token stringtoken tok string token stringtoken if
+tok token hasmoretoken
+string tok token nexttoken
+iequal index lastindexof
+string equal
+string
+strict
+creat createif
+iequal
+substr iequal
+equal substr iequal
+strict
+substr
+equal true
+strict
+set setnam
+set equal setequ equal
+set strict setstrict strict

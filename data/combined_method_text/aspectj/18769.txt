@@ -1,0 +1,150 @@
+org aspectj weaver
+hold member invas effect
+compil unit member gather
+world weav place
+import compil process gather
+inter type declar weav stage unsurprisingli
+member concret
+author jim hugunin
+crosscut member crosscuttingmemb
+updat record chang call firstli
+whilst collect itd declar point crosscuttingmemb
+compar shadowmung straight comparison
+exist list shadowmung return chang
+round ignor shadowmung
+time call whilst prepar weav point
+system compar shadowmung list
+bug
+param
+param careaboutshadowmung
+return true chang time method
+call fals
+replac replacewith crosscut member crosscuttingmemb care shadow munger careaboutshadowmung
+chang
+care shadow munger careaboutshadowmung
+claus perclaus claus perclaus equal claus perclaus
+chang
+claus perclaus claus perclaus
+xxx set equal list equal
+system err println shadowmung shadowmung
+care shadow munger careaboutshadowmung
+bug set equal list equal
+set shadow munger theseshadowmung hash set hashset
+set inlin munger theseinlinedaroundmung hash set hashset
+iter iter shadow munger shadowmung iter iter
+hasnext
+shadow munger shadowmung munger shadow munger shadowmung iter
+munger advic
+advic advic munger advicemung advic munger
+bug advic inlin
+check exist equal
+method
+world xno inlin isxnoinlin advic munger advicemung kind getkind equal advic kind advicekind
+inlin munger theseinlinedaroundmung add advic munger advicemung
+shadow munger theseshadowmung add advic munger advicemung
+shadow munger theseshadowmung add munger
+set temp set tempset hash set hashset
+temp set tempset add addal shadow munger shadowmung
+set shadow munger othershadowmung hash set hashset
+set inlin munger otherinlinedaroundmung hash set hashset
+iter iter temp set tempset iter iter hasnext
+shadow munger shadowmung munger shadow munger shadowmung iter
+munger advic
+advic advic munger advicemung advic munger
+bug advic inlin
+check exist equal
+method
+world xno inlin isxnoinlin advic munger advicemung kind getkind equal advic kind advicekind
+inlin munger otherinlinedaroundmung add rewrit pointcut munger rewritepointcutinmung advic munger advicemung
+shadow munger othershadowmung add rewrit pointcut munger rewritepointcutinmung advic munger advicemung
+shadow munger othershadowmung add rewrit pointcut munger rewritepointcutinmung munger
+shadow munger theseshadowmung equal shadow munger othershadowmung
+chang
+equival inlin munger theseinlinedaroundmung inlin munger otherinlinedaroundmung
+chang
+bug preserv
+shadowmung match
+chang
+iter iter shadow munger shadowmung iter iter
+hasnext
+shadow munger shadowmung munger shadow munger shadowmung iter
+shadow munger shadowmung index indexof munger
+shadow munger shadowmung munger othermung shadow munger shadowmung shadow munger shadowmung
+munger bcel advic bceladvic
+bcel advic bceladvic munger othermung set match sethasmatchedsometh bcel advic bceladvic munger match hasmatchedsometh
+replac exist list shadowmung
+case sourceloc
+chang flag chang
+forc full build bug
+shadow munger shadowmung shadow munger shadowmung
+bug set equal list equal
+dont care shadow munger ignor
+typemung creat implement
+shadowmung
+set type munger thesetypemung hash set hashset
+set type munger othertypemung hash set hashset
+care shadow munger careaboutshadowmung
+iter iter type munger typemung iter iter hasnext
+object iter
+bcel type munger bceltypemung
+bcel type munger bceltypemung type munger typemung bcel type munger bceltypemung
+type munger typemung exist support shadow mung existstosupportshadowmung
+type munger thesetypemung add type munger typemung
+type munger thesetypemung add
+iter iter type munger typemung iter iter hasnext
+object iter
+bcel type munger bceltypemung
+bcel type munger bceltypemung type munger typemung bcel type munger bceltypemung
+type munger typemung exist support shadow mung existstosupportshadowmung
+type munger othertypemung add type munger typemung
+type munger othertypemung add
+type munger thesetypemung add addal type munger typemung
+type munger othertypemung add addal type munger typemung
+initi equival logic set compar pr133532
+thesetypemung size othertypemung size
+chang true
+typemung typemung
+boolean foundinequ fals
+iter iter thesetypemung iter iter hasnext foundinequ
+object thison object iter
+boolean foundinotherset fals
+iter iter othertypemung iter iter hasnext
+object otheron object iter
+thison instanceof concretetypemung otheron instanceof concretetypemung
+concretetypemung thison equivalentto otheron
+foundinotherset true
+thison equal otheron
+foundinotherset true
+thison equal otheron
+foundinotherset true
+foundinotherset foundinequ true
+foundinequ
+chang true
+typemung typemung
+typemung typemung
+type munger thesetypemung equal type munger othertypemung
+chang
+type munger typemung type munger typemung
+late type munger latetypemung equal late type munger latetypemung
+chang
+late type munger latetypemung late type munger latetypemung
+declar domin declaredomin equal declar domin declaredomin
+chang
+declar domin declaredomin declar domin declaredomin
+declar parent declarepar equal declar parent declarepar
+chang
+declar parent declarepar declar parent declarepar
+declar soft declaresoft equal declar soft declaresoft
+chang
+declar soft declaresoft declar soft declaresoft
+decat attempt replac aspect
+declar annot type declareannotationsontyp equal declar annot type declareannotationsontyp
+chang
+declar annot type declareannotationsontyp declar annot type declareannotationsontyp
+declar annot field declareannotationsonfield equal declar annot field declareannotationsonfield
+chang
+declar annot field declareannotationsonfield declar annot field declareannotationsonfield
+declar annot method declareannotationsonmethod equal declar annot method declareannotationsonmethod
+chang
+declar annot method declareannotationsonmethod declar annot method declareannotationsonmethod
+chang

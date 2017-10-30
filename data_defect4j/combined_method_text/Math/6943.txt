@@ -1,0 +1,23 @@
+overrid
+current time
+state end current step
+theta previou time step current time step
+deriv except derivativeexcept
+method interpol state
+dummi step interpol dummystepinterpol
+step interpol
+link step handler stephandl step handler
+set interpol time setinterpolatedtim call impli interpol state
+system arraycopi current state currentst interpol state interpolatedst current state currentst length
+version revis date
+org apach common math od sampl
+underli user function trigger
+deriv except derivativeexcept except propag caller
+param theta normal interpol abscissa step
+comput state interpol time
+system arraycopi current deriv currentderiv interpol deriv interpolatedderiv current deriv currentderiv length
+recomput state link abstract step interpol abstractstepinterpol set interpol time setinterpolatedtim
+set user step interpol
+param minu theta oneminusthetah time gap interpol time
+comput interpol state deriv computeinterpolatedstateandderiv theta minu theta oneminusthetah
+step handler stephandl

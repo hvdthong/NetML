@@ -1,0 +1,5 @@
+org aspectj ajd swing
+author mik kersten
+build progress panel buildprogresspanel panel jpanel
+set config file setconfigfil string config file configfil
+config file label configfil label set text settext build configur config file configfil

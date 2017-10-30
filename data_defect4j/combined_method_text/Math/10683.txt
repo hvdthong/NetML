@@ -1,0 +1,143 @@
+expect number element
+param d3fdxdydz valu cross partial deriv function grid point
+len xlen dfdy length
+dimens mismatch except dimensionmismatchexcept dfdz length len ylen
+dimens mismatch except dimensionmismatchexcept dfdy length len ylen
+d3fdxdydz length len ylen
+param dfdx valu partial deriv function respect grid point
+dfdz jp1 kp1 dfdz ip1 jp1 kp1
+kp1
+dfdx length len zlen
+d3fdxdydz jp1 kp1 d3fdxdydz ip1 jp1 kp1
+math arrai matharrai check order checkord
+dimens mismatch except dimensionmismatchexcept dfdz length len zlen
+org apach common math3 analysi interpol
+d2fdxdz d2fdxdz ip1
+dimens mismatch except dimensionmismatchexcept arrai
+grid point
+lekien marsden
+len zlen length
+d2fdxdy d2fdxdy ip1
+dfdz
+monoton sequenc except nonmonotonicsequenceexcept
+dfdx
+dfdy
+d2fdxdz jp1 kp1 d2fdxdz ip1 jp1 kp1
+d3fdxdydz kp1 d3fdxdydz ip1 kp1
+illeg argument except illegalargumentexcept code code code
+strictli increas
+param dfdx valu partial deriv function respect
+len xlen length
+param valu function grid point
+dfdz kp1 dfdz ip1 kp1
+dfdz length len ylen
+dimens mismatch except dimensionmismatchexcept len xlen dfdy length
+data except nodataexcept
+param d2fdydz valu cross partial deriv function
+d3fdxdydz length len zlen
+d2fdydz
+d2fdxdz
+d2fdxdy
+d2fdxdy jp1 d2fdxdy ip1 jp1
+zval clone
+dfdy length len zlen
+lastj len ylen
+d2fdxdz jp1 d2fdxdz ip1 jp1
+len ylen length
+tricub interpol dimens
+len xlen d2fdxdz length
+d2fdydz length len zlen
+d2fdydz jp1 kp1 d2fdydz ip1 jp1 kp1
+d2fdxdz length len zlen
+version
+dfdx jp1 dfdx ip1 jp1
+param dfdz valu partial deriv function respect
+dimens mismatch except dimensionmismatchexcept arrai expect number element
+length len zlen
+len xlen d2fdydz length
+int numer meth engng
+param dfdy valu partial deriv function respect
+lasti
+dfdx kp1 dfdx ip1 kp1
+lastk
+lastj
+dfdz length len zlen
+d3fdxdydz jp1 d3fdxdydz ip1 jp1
+param sampl valu coordin increas order
+dimens mismatch except dimensionmismatchexcept d2fdydz length len ylen
+dfdz jp1 dfdz ip1 jp1
+param d2fdydz valu cross partial deriv function grid point
+tricub spline interpol propos
+dimens mismatch except dimensionmismatchexcept dfdx length len ylen
+kp1 ip1 kp1
+param d3fdxdydz valu cross partial deriv function
+param dfdz valu partial deriv function respect grid point
+param d2fdxdz valu cross partial deriv function grid point
+lastk len zlen
+dfdx dfdx ip1
+dfdy jp1 dfdy ip1 jp1
+dimens mismatch except dimensionmismatchexcept d2fdxdy length len zlen
+len xlen len ylen length length length
+d2fdxdy length len zlen
+xval clone
+dimens mismatch except dimensionmismatchexcept len xlen dfdz length
+param d2fdxdy valu cross partial deriv function grid point
+param d2fdxdz valu cross partial deriv function
+dimens mismatch except dimensionmismatchexcept len xlen dfdx length
+d3fdxdydz d3fdxdydz ip1
+tricub spline interpol function tricubicsplineinterpolatingfunct
+dimens mismatch except dimensionmismatchexcept len xlen d2fdxdz length
+dfdy jp1 kp1 dfdy ip1 jp1 kp1
+dimens mismatch except dimensionmismatchexcept d3fdxdydz length len zlen
+jp1 ip1 jp1
+dimens mismatch except dimensionmismatchexcept d2fdxdz length len zlen
+function
+dfdz dfdz ip1
+dfdy dfdy ip1
+yval clone
+dimens mismatch except dimensionmismatchexcept len xlen d2fdxdy length
+dfdy length len ylen
+d2fdydz kp1 d2fdydz ip1 kp1
+dimens mismatch except dimensionmismatchexcept d2fdxdz length len ylen
+len xlen d2fdxdy length
+d2fdxdy length len ylen
+dimens mismatch except dimensionmismatchexcept len xlen length
+len xlen d3fdxdydz length
+dimens mismatch except dimensionmismatchexcept len xlen d3fdxdydz length
+d3fdxdydz
+jp1 kp1 ip1 jp1 kp1
+dfdy kp1 dfdy ip1 kp1
+dfdx length len ylen
+dimens mismatch except dimensionmismatchexcept d3fdxdydz length len ylen
+d2fdydz d2fdydz ip1
+spline tricub spline function tricubicsplinefunct comput spline coeffici computesplinecoeffici beta
+lasti len xlen
+except code code code
+quot
+spline tricub spline function tricubicsplinefunct lasti lastj lastk
+dimens mismatch except dimensionmismatchexcept dfdy length len zlen
+monoton sequenc except nonmonotonicsequenceexcept code code code strictli increas
+param dfdy valu partial deriv function respect grid point
+dimens mismatch except dimensionmismatchexcept len xlen d2fdydz length
+dimens mismatch except dimensionmismatchexcept
+data except nodataexcept arrai length
+param d2fdxdy valu cross partial deriv function
+dimens mismatch except dimensionmismatchexcept d2fdxdy length len ylen
+beta
+d2fdxdz kp1 d2fdxdz ip1 kp1
+dimens mismatch except dimensionmismatchexcept length len zlen
+len xlen dfdz length
+dfdx jp1 kp1 dfdx ip1 jp1 kp1
+jp1
+d2fdxdy jp1 kp1 d2fdxdy ip1 jp1 kp1
+d2fdydz length len ylen
+dimens mismatch except dimensionmismatchexcept d2fdydz length len zlen
+len xlen dfdx length
+d2fdxdz length len ylen
+length len ylen
+dimens mismatch except dimensionmismatchexcept length len ylen
+d2fdxdy kp1 d2fdxdy ip1 kp1
+ip1
+href http wikipedia org wiki tricub interpol
+d2fdydz jp1 d2fdydz ip1 jp1
+dimens mismatch except dimensionmismatchexcept dfdx length len zlen

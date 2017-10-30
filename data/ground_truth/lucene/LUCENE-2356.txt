@@ -1,0 +1,5 @@
+src/java/org/apache/lucene/index/IndexWriterConfig_IndexWriterConfig-Version-Analyzer_<init>
+src/java/org/apache/lucene/index/IndexWriterConfig_getIndexingChain_IndexingChain
+src/java/org/apache/lucene/index/IndexWriterConfig_toString_String
+src/java/org/apache/lucene/index/IndexWriter_getReader_IndexReader
+src/java/org/apache/lucene/index/IndexWriter$ReaderPool_get-SegmentInfo-boolean_SegmentReader

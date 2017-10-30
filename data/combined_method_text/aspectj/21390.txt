@@ -1,0 +1,61 @@
+org aspectj weaver loadtim definit
+fixm doc concret aspect
+author href mailto alex gnilux dot alexandr vasseur
+document parser documentpars default handler defaulthandl
+start element startel string uri string local localnam string qname attribut attribut sax except saxexcept
+aspect element aspect element equal qname
+string attribut getvalu attribut attribut
+null isnul
+definit aspect class name getaspectclassnam add
+weaver element weaver element equal qname
+string option attribut getvalu option attribut option attribut
+null isnul option
+definit append weaver option appendweaveropt option
+weaver inweav
+concret aspect element concret aspect element equal qname
+string attribut getvalu attribut attribut
+string extend attribut getvalu extend attribut extend attribut
+string preced attribut getvalu preced attribut preced attribut
+null isnul
+null isnul preced null isnul extend isnul preced isnul extend preced extend
+concret aspect lastconcreteaspect definit concret aspect concreteaspect extend
+null isnul preced
+wether pure preced def extendsandpreced def
+concret aspect lastconcreteaspect definit concret aspect concreteaspect extend preced
+definit concret aspect getconcreteaspect add concret aspect lastconcreteaspect
+pointcut element pointcut element equal qname concret aspect lastconcreteaspect
+string attribut getvalu attribut attribut
+string express attribut getvalu express attribut express attribut
+null isnul null isnul express
+concret aspect lastconcreteaspect pointcut add definit pointcut replac xml replacexmland express
+aspectj element aspectj element equal qname
+aspect inaspectj
+sax except saxexcept found nest aspectj element
+aspect inaspectj
+aspect element aspect element equal qname
+aspect inaspect
+includ element includ element equal qname weaver inweav
+string type pattern typepattern attribut getwithinattribut attribut
+null isnul type pattern typepattern
+definit includ pattern getincludepattern add type pattern typepattern
+exclud element exclud element equal qname weaver inweav
+string type pattern typepattern attribut getwithinattribut attribut
+null isnul type pattern typepattern
+definit exclud pattern getexcludepattern add type pattern typepattern
+dump element dump element equal qname weaver inweav
+string type pattern typepattern attribut getwithinattribut attribut
+null isnul type pattern typepattern
+definit dump pattern getdumppattern add type pattern typepattern
+string beforeandaft attribut getvalu dump beforeandaft attribut dump beforeandaft attribut
+true istru beforeandaft
+definit set dump setdumpbefor
+exclud element exclud element equal qname aspect inaspect
+string type pattern typepattern attribut getwithinattribut attribut
+null isnul type pattern typepattern
+definit aspect exclud pattern getaspectexcludepattern add type pattern typepattern
+includ element includ element equal qname aspect inaspect
+string type pattern typepattern attribut getwithinattribut attribut
+null isnul type pattern typepattern
+definit aspect includ pattern getaspectincludepattern add type pattern typepattern
+sax except saxexcept unknown element pars aspectj element qname
+start element startel uri local localnam qname attribut

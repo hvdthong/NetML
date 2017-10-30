@@ -1,0 +1,8 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+path creat bootclasspath createbootclasspath public path createbootclasspath todo unsupport
+bootclasspath
+bootclasspath path project getproject
+bootclasspath creat path createpath

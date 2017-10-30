@@ -1,0 +1,17 @@
+author stephen colebourn
+set era compon time instant
+instant
+param instant time instant milli updat
+era oldera instant
+param era era updat time
+org joda time chrono
+time calcul era compon time
+illeg argument except illegalargumentexcept era invalid
+era date time field gjeradatetimefield base date time field basedatetimefield
+era oldera era
+updat time instant
+set instant era
+author brian neill o'neil
+chronolog ichronolog set year setyear instant year
+year chronolog ichronolog year getyear instant
+field util fieldutil verifi bound verifyvaluebound era date time constant datetimeconst bce date time constant datetimeconst

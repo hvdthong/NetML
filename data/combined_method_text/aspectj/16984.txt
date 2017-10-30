@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+cflowpointcut dom ast node
+pointcutdesign call 'body'
+author ajh02
+cflow pointcut cflowpointcut pointcut design pointcutdesign
+accept0 ast visitor astvisitor visitor
+visitor ast visitor ajastvisitor
+visit children visitchildren ast visitor ajastvisitor visitor visit
+visit children visitchildren
+visit children normal left read order
+accept child acceptchild visitor bodi getbodi
+todo accept paramet
+ast visitor ajastvisitor visitor end visit endvisit

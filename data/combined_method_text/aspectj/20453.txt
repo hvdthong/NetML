@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+add annot addannot annot annotationx annot
+bitflag damag
+len annot length
+annot annotationx ret annot annotationx len
+system arraycopi annot ret len
+ret len annot
+annot ret
+len annot type annotationtyp length
+resolv type resolvedtyp ret2 resolv type resolvedtyp len
+system arraycopi annot type annotationtyp ret2 len
+ret2 len resolv type getresolvedtypex world getworld resolv unresolv type unresolvedtyp fornam annot type gettypenam
+annot type annotationtyp ret2

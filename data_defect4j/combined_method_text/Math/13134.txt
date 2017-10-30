@@ -1,0 +1,35 @@
+col ncol length
+array2 row field matrix array2drowfieldmatrix field element fieldel
+data except nodataexcept local format localizedformat row
+implement field matrix fieldmatrix link field element fieldel arrai store entri
+link field matrix fieldmatrix matrix element index
+set code prevent copi improv
+copi copyin
+array2 row field matrix array2drowfieldmatrix field field copi arrai copyarrai
+data arrai
+row nrow length
+dimens mismatch except dimensionmismatchexcept code rectangular
+param copi arrai copyarrai copi refer input arrai
+param data matrix
+code field matrix fieldmatrix directli code copi arrai copyarrai
+field
+version
+base code entri getentri code
+param type field element
+perform arrai built data copi
+math util mathutil check null checknotnul
+col ncol
+data
+data except nodataexcept row column
+creat code field matrix fieldmatrix input arrai underli
+null argument except nullargumentexcept code code
+dimens mismatch except dimensionmismatchexcept col ncol length
+org apach common math3 linear
+param field field element belong
+data except nodataexcept local format localizedformat column
+copi arrai copyarrai
+length col ncol
+arrai built special order embed
+return element row column matrix
+dimens mismatch except dimensionmismatchexcept data except nodataexcept null argument except nullargumentexcept
+row nrow

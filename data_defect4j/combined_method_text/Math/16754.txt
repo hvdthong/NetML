@@ -1,0 +1,8 @@
+real vector realvector calcul beta calculatebeta
+estim regress paramet estimateregressionparamet
+abstract multipl linear regress abstractmultiplelinearregress
+inherit doc inheritdoc
+version
+org apach common math3 stat regress
+arrai toarrai
+abstract base implement multipl linear regress multiplelinearregress

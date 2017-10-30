@@ -1,0 +1,19 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+append url path weavingadptor resolv class
+param url append search path
+add url addurl url url
+file lib file libfil file url path getpath
+weaver add librari jar file addlibraryjarfil lib file libfil
+except ioexcept
+warn bad librari lib file libfil

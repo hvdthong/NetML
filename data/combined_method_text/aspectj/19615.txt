@@ -1,0 +1,21 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+check
+abstract type munger type abstract
+abstract itdm interfac declar public compil limit pr70794
+check inter type munger checkintertypemung
+abstract isabstract
+itd problem itdproblem
+iter iter inter type munger includ super getintertypemungersincludingsup iter iter hasnext
+concret type munger concretetypemung munger concret type munger concretetypemung iter
+itd problem itdproblem check abstract declar checkabstractdeclar munger itd problem itdproblem itdproblem checkabstractdeclar munger itdproblem rule
+itd problem itdproblem itdproblem return rule broken return
+iter iter inter type munger includ super getintertypemungersincludingsup iter iter hasnext
+concret type munger concretetypemung munger concret type munger concretetypemung iter
+munger signatur getsignatur munger signatur getsignatur abstract isabstract munger getsignatur null munger getsignatur isabstract rule
+munger munger getmung kind getkind resolv type munger resolvedtypemung method deleg methoddeleg
+ignor itd munger getsignatur interfac method abstract
+world messag handler getmessagehandl handl messag handlemessag
+messag implement abstract inter type declar munger signatur getsignatur
+messag imessag error sourc locat getsourceloc
+sourc locat isourceloc munger locat getmungerloc munger

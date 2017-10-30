@@ -1,0 +1,51 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass static part java virtual
+machin specif 2nd edit
+detail inform found verifi
+method' document
+version pass3averifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass3a verifi pass3averifi pass verifi passverifi
+check constraint satisfi
+java virtual machin specif edit static constraint
+instruct java virtual machin code chapter
+throw staticcodeconstraintexcept verif fail
+pass3 static instruct check pass3staticinstructioncheck
+code arrai empti
+enforc pass state static constraint code
+arrai vmspec2 pass read code length byte
+interpret code check
+code code getcod length code getcod length contradict vmspec2 page limit page
+static code instruct constraint except staticcodeinstructionconstraintexcept code arrai code attribut code big smaller byte
+opcod offset clear
+instanc instruct document section
+code arrai
+bcel' sake handl wide stuff bcel job
+byte instruct code arrai byte index
+code length verifi comment iter
+byte arrai instructionlist check bcel
+thing implicitli
+todo check bcel handl handl instruct impdep1 impdep2
+breakpoint bcel illeg
+safe
+instruct handl instructionhandl instruct list instructionlist start getstart
+instruct instruct getinstruct
+impdep1
+static code instruct constraint except staticcodeinstructionconstraintexcept impdep1 code illeg instruct intern jvm
+impdep2
+static code instruct constraint except staticcodeinstructionconstraintexcept impdep2 code illeg instruct intern jvm
+breakpoint
+static code instruct constraint except staticcodeinstructionconstraintexcept breakpoint code illeg instruct intern jvm
+getnext
+origin verifi check
+unreach instruct fall
+end code stupid origin
+verifier' subroutin semant predict reachabl
+instruct instruct list instructionlist end getend instruct getinstruct
+return instruct returninstruct
+ret
+goto instruct gotoinstruct
+athrow instanceof athrow jsr jsr possibl return fall code
+static code instruct constraint except staticcodeinstructionconstraintexcept execut fall bottom code arrai constraint enforc static exist verifi fals alarm instruct reachabl

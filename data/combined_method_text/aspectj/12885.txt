@@ -1,0 +1,20 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+method signatur class file format ljava lang string return
+string repres return type 'normal' form 'boolean'
+param signatur method signatur
+param chopit shorten class name
+return return type method
+string method signatur return type methodsignaturereturntyp string signatur chopit class format except classformatexcept
+index
+string type
+read return type
+index signatur index lastindexof
+type signatur string signaturetostr signatur substr index chopit
+string index bound except stringindexoutofboundsexcept
+class format except classformatexcept invalid method signatur signatur
+type

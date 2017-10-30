@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+type add type addtyp type type type type
+len type length
+type ret type len
+ret type
+system arraycopi type ret len
+ret

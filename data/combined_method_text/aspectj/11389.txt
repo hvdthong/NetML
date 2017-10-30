@@ -1,0 +1,28 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+declar parent dodeclarepar declar parent declarepar declar parent declarepar sourc type bind sourcetypebind sourc type sourcetyp
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext process declar parent process declar parent sourc type sourcetyp sourc sourcenam
+resolv type resolvedtyp resolv sourc type resolvedsourcetyp factori eclips fromeclips sourc type sourcetyp
+list parent newpar declar parent declarepar find match parent findmatchingnewpar resolv sourc type resolvedsourcetyp
+parent newpar empti isempti
+iter parent newpar iter hasnext
+resolv type resolvedtyp parent resolv type resolvedtyp
+danger interfac dangerousinterfac kei containskei parent
+resolv type resolvedtyp type ontyp factori eclips fromeclips sourc type sourcetyp
+factori show messag showmessag messag imessag error
+type ontyp danger interfac dangerousinterfac parent
+type ontyp sourc locat getsourceloc
+modifi final isfin parent modifi getmodifi
+factori show messag showmessag messag imessag error extend final class parent class getclassnam declar parent declarepar sourc locat getsourceloc
+type expos correctli report problem
+resolv sourc type resolvedsourcetyp expos weaver isexposedtoweav
+asm relationship provid asmrelationshipprovid default getdefault add declar parent relationship adddeclareparentsrelationship declar parent declarepar sourc locat getsourceloc factori eclips fromeclips sourc type sourcetyp parent newpar
+add parent addpar sourc type sourcetyp parent
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+compil weav context compilationandweavingcontext leav phase leavingphas tok

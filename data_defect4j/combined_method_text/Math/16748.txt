@@ -1,0 +1,11 @@
+notat
+pre
+abstract multipl linear regress abstractmultiplelinearregress
+real vector realvector calcul residu calculateresidu
+real vector realvector calcul beta calculatebeta
+version
+vector yvector subtract matrix xmatrix oper
+calcul residu multipl linear regress matrix
+org apach common math3 stat regress
+residu matrix
+abstract base implement multipl linear regress multiplelinearregress

@@ -1,0 +1,15 @@
+calling tosource parsed script lambda returns extra return semi colon sample attached
+user agent mozilla windows windows gecko firefox
+build 20110902133716
+steps reproduce
+string source
+parser parser parser
+astroot astroot parser parse stringreader source null
+system println astroot tosource
+actual results
+output
+function return
+
+expected results
+output
+function

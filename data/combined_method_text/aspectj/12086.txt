@@ -1,0 +1,54 @@
+org aspectj ajdt intern core builder
+author mik kersten
+emac structur model manag emacsstructuremodelmanag
+param structurenod programelementnod linknod
+print decl printdecl program element iprogramel node recurs
+node node sourc locat getsourceloc
+string kind node kind getkind string tostr lower case tolowercas
+print
+print node sourc locat getsourceloc line getlin node sourc locat getsourceloc column getcolumn
+print node sourc locat getsourceloc line getlin node sourc locat getsourceloc column getcolumn
+print kind print kind
+hack
+string displai displaynam node string tostr replac
+print displai displaynam
+node sourc locat getsourceloc sourc file getsourcefil absolut path getabsolutepath
+print fix filenam fixfilenam node sourc locat getsourceloc sourc file getsourcefil absolut path getabsolutepath print fixfilenam node getsourceloc getsourcefil getabsolutepath
+print nil
+node getnam
+print node declar type getdeclaringtyp print node getdeclaringtyp
+print nil
+recurs
+print nil
+print nil
+print nil
+print
+node instanceof iprogramel
+java util list relat iprogramel node getrel
+relat null
+iter relat iter hasnext
+irelationship relnod irelationship
+relnod getkind irelationship kind advic
+relnod getkind irelationship kind declar
+printdecl relnod
+print
+print
+print
+print
+iter it3 node children getchildren iter
+it3 hasnext
+it3 hasnext
+ignor relat compil unit
+object node object nodeobject it3
+node object nodeobject program element iprogramel
+program element iprogramel curr node currnod program element iprogramel node object nodeobject
+currnod isstmntkind
+curr node currnod kind getkind equal undefin
+print decl printdecl curr node currnod
+print
+print node kind getkind equal class nil print node getkind equal class nil
+print node getkind equal introduct nil
+print node kind getkind equal introduct nil nil print node getkind equal introduct nil nil
+print nil print nil
+print nil print nil
+print

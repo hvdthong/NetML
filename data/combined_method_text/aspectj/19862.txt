@@ -1,0 +1,11 @@
+org aspectj weaver
+repres type variabl type gener method declar
+type variabl refer type typevariablereferencetyp bound refer type boundedreferencetyp type variabl refer typevariablerefer
+annot isannot
+world world refer type referencetyp upper bound getupperbound world getworld
+resolv type resolvedtyp annot type annotationtyp resolv type resolvedtyp annot resolv world
+upper bound getupperbound refer type referencetyp upper bound getupperbound annot isannot
+refer type referencetyp bound ifbound addit bound getadditionalbound
+bound ifbound length
+bound ifbound annot isannot
+bound ifbound annot type annotationtyp ifbound annotationtyp return true annot annot flag set java

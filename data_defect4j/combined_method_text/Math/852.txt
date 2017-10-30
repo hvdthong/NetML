@@ -1,0 +1,19 @@
+arrai length
+function interpol data set
+fval
+org apach common math except data except nodataexcept
+org apach common math except dimens mismatch except dimensionmismatchexcept
+trivari grid interpol trivariategridinterpol
+sampl point regular grid
+trivari function trivariatefunct interpol xval yval zval
+version
+param yval coordin interpol point sort
+increas order
+param zval coordin interpol point sort
+param fval valu interpol point grid knot
+arrai length inconsist
+code fval xval yval zval
+comput interpol function dataset
+org apach common math analysi interpol
+interfac repres trivari real interpol function
+param xval coordin interpol point sort

@@ -1,0 +1,27 @@
+org aspectj weaver
+iter
+creat filter wrap iter
+creat iter return valu
+return discard duplic
+filter dup filter dupfilt
+filter
+set hash set hashset final set hashset weak ptr
+iter filter iter
+iter
+fresh
+object peek
+hasnext
+fresh
+hasnext
+peek
+peek
+fresh
+peek peek null garbag collect
+object
+hasnext element except nosuchelementexcept
+object ret peek
+peek
+fresh
+ret
+remov
+unsupport oper except unsupportedoperationexcept

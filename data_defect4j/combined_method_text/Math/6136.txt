@@ -1,0 +1,24 @@
+pre
+rel tol reltol compon
+algorithm perform integr stepsiz control
+step reject attempt made
+org apach common math od
+compon user scalar valu ab tol abstol
+state vector dimens step accept
+reset intern state dummi valu
+sqrt sum err est errest threshold
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+version revis date
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+mean user integr step
+reset intern state resetinternalst
+estim error
+stepsiz
+step start stepstart doubl nan
+step size stepsiz math sqrt min step minstep max step maxstep
+ab tol abstol absolut toler compon

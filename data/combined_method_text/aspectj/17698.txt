@@ -1,0 +1,6 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+set internalclasspathref setinternalclasspathref refer internalclasspathref public void setinternalclasspathref refer internalclasspathref ajc taskdef
+creat internalclasspath createinternalclasspath set refid setrefid internalclasspathref

@@ -1,0 +1,40 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+weav soften weavesoften bcel advic bceladvic munger unresolv type unresolvedtyp catch type catchtyp
+good optim gener
+shadow guarante empti
+shadow insid
+rang getrang start getstart getnext rang getrang end getend
+instruct factori instructionfactori fact factori getfactori
+instruct list instructionlist handler instruct list instructionlist
+instruct list instructionlist handler rtexhandl instruct list instructionlist
+bcel var bcelvar except var exceptionvar gen temp var gentempvar catch type catchtyp
+handler append fact creat createnew mangler namemangl soft except type soft except type
+handler append instruct factori instructionfactori creat dup createdup
+handler append except var exceptionvar creat load createload fact
+handler append fact creat invok createinvok mangler namemangl soft except type soft except type init
+type void type type throwabl constant invokespeci type void type type throwabl constant invokespeci special
+handler append instruct constant instructionconst athrow
+enh
+except var exceptionvar append store appendstor handler rtexhandl fact
+aload
+handler rtexhandl append except var exceptionvar creat load createload fact
+instanceof class java lang runtimeexcept
+handler rtexhandl append fact creat instanc createinstanceof object type objecttyp java lang runtimeexcept
+ifeq soft except type instruct
+handler rtexhandl append instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifeq handler start getstart
+aload
+handler rtexhandl append except var exceptionvar creat load createload fact
+athrow
+handler rtexhandl append instruct factori instructionfactori athrow
+instruct handl instructionhandl handler start handlerstart handler rtexhandl start getstart
+fall isfallsthrough
+instruct handl instructionhandl jump target jumptarget rang end getend instructionhandl jumptarget rang getend handler append fact nop
+handler rtexhandl insert instruct factori instructionfactori creat branch instruct createbranchinstruct constant goto jump target jumptarget
+handler rtexhandl append handler
+instruct handl instructionhandl protect end protectedend handler rtexhandl start getstart
+rang insert handler rtexhandl rang insid insideaft
+enclos method enclosingmethod add except handler addexceptionhandl rang start getstart getnext protect end protectedend prev getprev
+handler start handlerstart object type objecttyp bcel world bcelworld make bcel type makebceltyp catch type catchtyp
+high prioriti arg stack
+kind getkind high prioriti except hashighpriorityexcept

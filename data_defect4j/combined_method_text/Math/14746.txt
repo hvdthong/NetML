@@ -1,0 +1,45 @@
+float point comparison ulp
+default converg criteria
+goal type getgoaltyp
+inherit doc inheritdoc
+solv phase1 solvephase1 tableau
+iter except toomanyiterationsexcept
+overrid
+optim org apach common math3 optim optim data optimizationdata optim optim data optimizationdata
+constraint getconstraint
+cut
+solv linear problem phase simplex method
+simplex tableau simplextableau tableau
+feasibl solut except nofeasiblesolutionexcept
+lead numer instabl due natur simplex algorithm
+version
+max ulp maxulp
+link iter except toomanyiterationsexcept advis adjust
+epsilon
+counter product provid larg link
+simplex solver simplexsolv linear optim linearoptim
+pivot row chang order cycl due degener problem
+accord chosen epsilon
+count half allow max iter reach strategi select
+version simplex solver simplexsolv java 14z
+unbound solut except unboundedsolutionexcept
+pivot element denomin problem definit tight
+cut cutoff
+counter product provid larg link max iter maxit
+simplex tableau simplextableau function getfunct
+cut introduc small number simplex tableau
+algorithm converg
+iter doiter tableau
+tableau drop phase1 object dropphase1object
+criteria valu relax epsilon
+restrict neg isrestrictedtononneg
+strict result link feasibl solut except nofeasiblesolutionexcept
+cut small advis increas larger
+link simplex solver simplexsolv strategi depend current iter
+org apach common math3 optim linear
+point pair pointvaluepair optim dooptim
+tableau solut getsolut
+paramet call link optim org apach common math3 optim optim data optimizationdata
+org apach common math3 optim max iter maxit max iter maxit paramet call link
+note depend problem definit converg criteria
+tableau optim isoptim

@@ -1,0 +1,9 @@
+<fail> in an <imported> macro outputs wrong
+write a macro, with <macrodef> and add it to a file that you <import>. Then run
+in it. I would have expected to see the fail message, as you normally see, but
+instead you see nesting information:
+
+build.xml:184: Following error occured while executing this line
+common.xml:121: Unit tests failed see
+
+Is this appropriate?

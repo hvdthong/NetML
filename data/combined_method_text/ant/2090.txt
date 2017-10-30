@@ -1,0 +1,11 @@
+org apach tool ant filter
+wrap string inputstream
+author magesh umasankar
+string input stream stringinputstream
+mark read limit stringread
+param limit maximum limit byte read
+mark posit invalid
+mark limit
+mark limit
+except ioexcept ioe
+runtim except runtimeexcept ioe messag getmessag

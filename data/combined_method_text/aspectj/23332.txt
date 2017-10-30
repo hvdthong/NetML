@@ -1,0 +1,24 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+creat pointcut parser pars pointcut express built
+user defin subset aspectj' support pointcut primit
+restrict appli
+code cflow cflowbelow code pointcut design support
+pointcut express contain refer
+name pointcut
+pointcut express anonym formal allow
+param supportedpointcutkind set pointcutprimit parser
+support
+throw unsupportedoperationexcept set cflow
+cflow
+pointcut parser pointcutpars set support pointcut kind supportedpointcutkind privat pointcutpars set pointcutprimit supportedpointcutkind
+support primit supportedprimit support pointcut kind supportedpointcutkind
+iter iter support pointcut kind supportedpointcutkind iter iter hasnext
+pointcut primit pointcutprimit element pointcut primit pointcutprimit iter
+element pointcut primit pointcutprimit
+element pointcut primit pointcutprimit cflow
+element pointcut primit pointcutprimit cflow cflow
+unsupport oper except unsupportedoperationexcept handl cflow cflowbelow primit
+set class loader setclassload pointcut parser pointcutpars class loader getclassload

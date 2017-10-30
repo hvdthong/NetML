@@ -1,0 +1,6 @@
+org aspectj apach bcel classfil
+attribut exist local
+anonym class
+enclos method enclosingmethod attribut
+accept visitor
+visit enclos method visitenclosingmethod

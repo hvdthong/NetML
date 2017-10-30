@@ -1,0 +1,9 @@
+org apach lucen index
+term buffer termbuff cloneabl
+compar char comparechar chars1 len1
+chars2 len2
+end len1 len2 len1 len2
+end
+chars1
+chars2
+len1 len2

@@ -1,0 +1,45 @@
+org aspectj weaver
+asm relationship provid asmrelationshipprovid
+find creat code iprogramel shadow
+bytecodenam creat node set 'shadowsig getnam counter'
+println counter occur count children
+enclosingnod method
+system println statement
+bytecodenam 'println bytecodenam 'println
+ensur node uniqu handl handl
+depend sourceloc
+shadow examin sequenc
+sourc file mean counter consist increment
+build aspect compil front aspect creat forc
+full build bodi enclosingshadow chang
+model rebuilt scratch
+program element iprogramel find creat code node findorcreatecodenod program element iprogramel enclos node enclosingnod member shadow sig shadowsig shadow shadow
+iter enclos node enclosingnod children getchildren iter hasnext
+program element iprogramel node program element iprogramel
+excl node bytecod getbytecodenam index lastindexof
+excl
+shadow sig shadowsig getnam equal node bytecod getbytecodenam substr excl
+shadow sig shadowsig getnam equal node bytecod getbytecodenam
+shadow sig shadowsig signatur getsignatur equal node bytecod signatur getbytecodesignatur
+sourc line match sourcelinesmatch node sourc locat getsourceloc shadow sourc locat getsourceloc
+node
+sourc locat isourceloc shadow sourc locat getsourceloc
+xxx shadow file sourceloc getsourcefil getlin
+sourc locat sourceloc loc peloc sourc locat sourceloc enclos node enclosingnod sourc locat getsourceloc sourc file getsourcefil line getlin
+loc peloc set offset setoffset offset getoffset
+program element iprogramel node penod program element programel
+shadow string tostr
+program element iprogramel kind code
+loc peloc
+check enclos shadow children
+add counter bytecodenam
+wont uniqu handl
+number children numberofchildrenwiththisnam
+iter enclos node enclosingnod children getchildren iter hasnext
+program element iprogramel child program element iprogramel
+child getnam equal shadow string tostr
+number children numberofchildrenwiththisnam
+node penod set bytecod setbytecodenam shadow sig shadowsig getnam string valueof number children numberofchildrenwiththisnam
+node penod set bytecod signatur setbytecodesignatur shadow sig shadowsig signatur getsignatur
+enclos node enclosingnod add child addchild node penod
+node penod

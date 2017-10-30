@@ -1,0 +1,109 @@
+author href mailto hp intermeta hen schmiedehausen
+oper link java lang string
+author href mailto apach org korthof
+remov lead trail whitespac
+string util stringutil method
+link charact space isspac
+method remov common lang
+safe substr extract
+check string text
+abbrevi string ellipsi
+index set string
+compar string report differ
+local
+substr extract rel string
+org apach common lang
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+deprec local link delet whitespac deletewhitespac string
+search string replac string
+author arun mammen thoma
+param str string delet space
+code space isspac code definit advis
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+string delet space deletespac string str
+check string end suffix safe
+string util stringutil delet space deletespac
+author gener java core generationjavacor
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+author stephen colebourn
+whitespac charact defin link charact whitespac iswhitespac
+delet 'space' charact string defin
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+start startswith
+abbrevi
+version
+method give sampl code explain oper
+author href mailto bayard generationjava henri yandel
+trim strip
+remov delet
+compar string safe
+author href mailto alex purpletech alexand dai chaffe
+substr substringbefor substr substringaft substr substringbetween
+levenstein distanc levensteindist
+string handl
+empti isempti blank isblank
+split string arrai substr vice versa
+protect input string
+author holger krauth
+equal
+code code
+empti length string code code
+containsonli containsnon containsani
+string util stringutil delet space deletespac abc
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+link delet whitespac deletewhitespac string whitespac
+string 'spaces' code code string input
+differ
+line deprec code space isspac code method
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+author href mailto jon latchkei jon steven
+char set util charsetutil delet str
+index indexof index lastindexof
+code code input code code
+code null pointer except nullpointerexcept code consid bug
+author href mailto dlr finemaltcod daniel rall
+code code safe
+remov part string
+str
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+chomp chop
+string charact
+java lang string
+author gari gregori
+safe index check
+space defin code code
+string util stringutil delet space deletespac abc abc
+string util stringutil
+check charact string
+containsonli containsnon
+code string util stringutil code deprec method
+symbol code code input includ code code

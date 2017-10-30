@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil ast
+pseudo token pseudotoken ast node astnod
+report error reporterror parser parser parser except parserexcept
+posit ihasposit tok locat getloc
+start end
+tok token itoken eof
+start sourc end sourceend
+end sourc end sourceend
+start tok start getstart
+end tok end getend
+string found unknown
+tok token itoken
+found token itoken tok string getstr
+parser problem report problemreport pars error parseerror start end
+termin token terminaltoken token identifi tokennameidentifi
+found char arrai tochararrai
+found
+string messag getmessag

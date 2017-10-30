@@ -1,0 +1,41 @@
+org aspectj org eclips jdt core dom
+ast ajast ast
+intern method
+method convert intern compil ast sourc string
+compil unit method intend call client
+param level api level level constant
+param compilationunitdeclar intern ast node compil unit declar
+param sourc string java compil unit
+param option compil option
+param workingcopi work copi ast creat
+param monitor progress monitor report progress request cancel
+code null code
+param isresolv compil unit declar resolv
+return compil unit node
+compil unit compilationunit convert compil unit convertcompilationunit
+level
+org aspectj org eclips jdt intern compil ast compil unit declar compilationunitdeclar compil unit declar compilationunitdeclar
+sourc
+map option
+resolv isresolv
+org aspectj org eclips jdt intern core compil unit compilationunit work copi workingcopi
+progress monitor iprogressmonitor monitor
+ast convert astconvert convert
+aspectj extens factori
+ast convert astconvert ast convert getastconvert option resolv isresolv monitor
+creat ajast differ method ajast ast
+ast ajast ast ast ajast ast newajast level
+save default node flag saveddefaultnodeflag ast default node flag getdefaultnodeflag
+ast set default node flag setdefaultnodeflag ast node astnod origin
+bind resolv bindingresolv resolv
+resolv isresolv
+resolv default bind resolv defaultbindingresolv compil unit declar compilationunitdeclar scope work copi workingcopi owner default bind resolv defaultbindingresolv bind tabl bindingt
+ast set flag setflag ast resolv bind resolv bind
+resolv bind resolv bindingresolv
+ast set bind resolv setbindingresolv resolv
+convert set ast setast ast
+compil unit compilationunit unit convert convert compil unit declar compilationunitdeclar sourc
+unit set line end tabl setlineendt compil unit declar compilationunitdeclar compil result compilationresult line separ posit lineseparatorposit
+unit set type root settyperoot work copi workingcopi
+ast set default node flag setdefaultnodeflag save default node flag saveddefaultnodeflag
+unit

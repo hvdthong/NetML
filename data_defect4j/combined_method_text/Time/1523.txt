@@ -1,0 +1,11 @@
+author stephen colebourn
+set number week period
+set week setweek week
+defin durat time queri modifi datetim field
+read writabl period readwritableperiod readabl period readableperiod
+implement mutabl
+org joda time
+provid advanc method
+author brian neill o'neil
+illeg argument except illegalargumentexcept field support
+param week number week

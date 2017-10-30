@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil lookup
+support view eclips typedeclar sourcetypebind resolvedtyp
+author jim hugunin
+eclips sourc type eclipsesourcetyp abstract refer type deleg abstractreferencetypedeleg
+formal bind formalbind build formal advic bind buildformaladvicebindingsfrom abstract method declar abstractmethoddeclar decl mdecl
+decl mdecl argument formal bind formalbind
+decl mdecl bind formal bind formalbind
+eclips factori eclipsefactori factori eclips factori eclipsefactori scope lookup environ fromscopelookupenviron decl mdecl scope
+string extra arg extraargnam string extraargnam null maybegetextraargnam
+extra arg extraargnam extra arg extraargnam
+formal bind formalbind ret formal bind formalbind decl mdecl argument length
+decl mdecl argument length
+argument arg decl mdecl argument
+string string arg
+type bind typebind arg type bind argtypebind decl mdecl bind paramet
+unresolv type unresolvedtyp type factori bind frombind arg type bind argtypebind
+char oper charoper equal join point joinpoint arg type bind argtypebind signatur
+char oper charoper equal join point static part joinpointstaticpart arg type bind argtypebind signatur
+char oper charoper equal join point enclos static part joinpointenclosingstaticpart arg type bind argtypebind signatur
+char oper charoper equal proceed join point proceedingjoinpoint arg type bind argtypebind signatur
+equal extra arg extraargnam
+ret formal bind formalbind implicit formal bind implicitformalbind type
+ret formal bind formalbind type arg sourc start sourcestart arg sourc end sourceend unknown
+ret

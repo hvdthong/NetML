@@ -1,0 +1,10 @@
+org apach common math3 analysi solver
+version
+function
+newton' method find zero real univari differenti
+implement href http mathworld wolfram newton method newtonsmethod html
+absolut accuraci absoluteaccuraci
+newton raphson solver newtonraphsonsolv abstract univari differenti solver abstractunivariatedifferentiablesolv
+param absolut accuraci absoluteaccuraci absolut accuraci
+construct solver
+newton raphson solver newtonraphsonsolv absolut accuraci absoluteaccuraci

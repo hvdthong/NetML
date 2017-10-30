@@ -1,0 +1,18 @@
+absolut threshold absolutethreshold
+param rel threshold relativethreshold rel toler threshold
+threshold absolut differ object
+param absolut threshold absolutethreshold absolut toler threshold
+simpl implement link converg checker convergencecheck
+check rel toler set neg
+simpl checker simplevaluecheck
+build instanc threshold
+function valu smaller threshold
+org apach common math optim
+simpl checker simplevaluecheck rel threshold relativethreshold
+version
+differ object function valu smaller
+set neg order perform absolut
+order perform rel check absolut toler
+object function valu
+rel threshold relativethreshold absolut threshold absolutethreshold
+converg consid reach rel

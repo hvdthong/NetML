@@ -1,0 +1,22 @@
+author stephen colebourn
+link field getfield chronolog method return actual calcul engin
+requir creat field quarter year quarterofyear
+directli enabl calcul provid
+overrid
+equal object obj
+author brian neill o'neil
+field type defin type field hour dai hourofdai
+compar code code
+inheritdoc
+access relat link durat field type durationfieldtyp
+creat subclass code date time field type datetimefieldtyp code defin field type
+ordin iordin standard date time field type standarddatetimefieldtyp obj ordin iordin
+obj standard date time field type standarddatetimefieldtyp
+obj
+chronolog
+return actual calcul engin link field getfield chronolog
+identifi field year minut hour minuteofhour chronolog neutral
+subclass implement equal hash code hashcod
+org joda time
+instanc code date time field type datetimefieldtyp code singleton
+date time field type datetimefieldtyp serializ

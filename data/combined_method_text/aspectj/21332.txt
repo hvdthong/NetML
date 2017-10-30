@@ -1,0 +1,11 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+return unqualifiedclassnam hashcod
+string getid
+short shortnam
+short shortnam class loader getclassloadernam replac
+index short shortnam index lastindexof
+short shortnam short shortnam substr index
+short shortnam

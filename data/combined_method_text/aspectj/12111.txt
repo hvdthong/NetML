@@ -1,0 +1,6 @@
+org aspectj ajdt intern core builder
+state environ statefulnameenviron environ inameenviron
+packag ispackag parent packag parentpackagenam packag packagenam
+base environ baseenviron packag ispackag parent packag parentpackagenam packag packagenam
+string full packag fullpackagenam string char oper charoper concat concatwith parent packag parentpackagenam packag packagenam
+packag name packagenam full packag fullpackagenam

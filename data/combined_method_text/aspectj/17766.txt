@@ -1,0 +1,46 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+adjust arg size creat
+argument file delet client
+compil run complet
+param max int maximum length command line char
+return temp file argument gener
+delet
+throw illegalargumentexcept max neg
+string limit limitto string arg max
+locat locat
+max
+illeg argument except illegalargumentexcept neg max max
+sigh count
+size
+arg length size max
+size arg arg length
+size max
+arg
+file tmp file tmpfile
+print writer printwrit
+adapt defaultcompileradapt executeexternalcompil
+string user dir userdirnam system properti getproperti user dir
+file user dir userdir file user dir userdirnam
+tmp file tmpfile file creat temp file createtempfil argfil user dir userdir
+print writer printwrit file writer filewrit tmp file tmpfile
+arg length
+println arg
+flush
+string argfil tmp file tmpfile absolut path getabsolutepath
+except ioexcept
+build except buildexcept error creat temporari file
+locat
+close throwabl

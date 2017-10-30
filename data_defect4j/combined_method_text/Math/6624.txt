@@ -1,0 +1,28 @@
+dydy0 dot dydy0dot
+org apach common math od jacobian
+inherit doc inheritdoc
+read arrai readarrai dydp
+ad form compound problem higher dimens origin od
+read arrai readarrai dydp dot dydpdot
+comput partial deriv solut respect initi state
+problem dimens paramet compound problem
+paramet
+dot ydot
+extend jacobian raw od variat equat
+dimens time
+parameter od parameterizedod
+version revis date
+od jacobian odewithjacobian
+order comput state deriv od problem
+dydy0
+read arrai readarrai dydy0 dot dydy0dot
+read arrai readarrai dot ydot
+dydp
+order integr jacobian firstorderintegratorwithjacobian
+read arrai readarrai
+interpol step interpol stepinterpol read object readobject
+dydp dot dydpdot
+read int readint
+read extern readextern object input objectinput except ioexcept class found except classnotfoundexcept
+enhanc order integr differenti equat
+read arrai readarrai dydy0

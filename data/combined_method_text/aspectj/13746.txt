@@ -1,0 +1,12 @@
+org aspectj apach bcel gener
+invokeinterfac invok interfac method
+pre stack objectref arg1 arg2 pre
+version invokeinterfac java aclement exp
+author href mailto marku dahm berlin dahm
+invokeinterfac invok instruct invokeinstruct
+invokeinterfac index narg
+constant invokeinterfac index
+length
+narg
+class gen except classgenexcept number argument narg
+narg narg

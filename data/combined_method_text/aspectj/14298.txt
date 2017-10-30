@@ -1,0 +1,31 @@
+org aspectj apach bcel gener
+switch branch depend int gener lookupswitch
+tableswitch instruct depend match valu int
+sort gap number
+version switch java aclement exp
+author href mailto marku dahm berlin dahm
+switch compound instruct compoundinstruct
+templat switch construct match arrai
+sort ascend order gap larger max gap
+number tableswitch instruct gener
+lookupswitch effici
+space
+note kei arrai sort leav
+origin arrai unalt
+param match arrai match valu case case
+param target instruct branch case
+param target default target
+param max gap maximum gap case branch
+switch match instruct handl instructionhandl target
+instruct handl instructionhandl target max gap
+match match clone
+target instruct handl instructionhandl target clone
+match length match length match length match length empti switch default
+match length
+instruct lookupswitch match target target
+instruct tableswitch match target target
+sort match length
+match order matchisord max gap
+fillup max gap target
+instruct tableswitch match target target
+instruct lookupswitch match target target

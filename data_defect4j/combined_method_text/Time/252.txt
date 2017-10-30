@@ -1,0 +1,24 @@
+author stephen colebourn
+param valu valu partial instant updat
+set readabl partial readableparti instant field index fieldindex valu newvalu
+set field make field invalid field
+month set februari dai invalid dai
+author brian neill o'neil
+singl field month year monthofyear minut secondofminut
+millisecond number standard implement provid assist
+param field index fieldindex index field instant
+set partial instant
+chang closest 28th 29th februari
+design extens extract field
+date time field datetimefield
+defin set method manipul millisecond datetim
+param newvalu set unit field
+defin calcul engin date time field
+chang current date 31st januari
+param instant partial instant
+field index set
+author gui allard
+invalid except thrown
+org joda time
+pass valu
+illeg argument except illegalargumentexcept invalid

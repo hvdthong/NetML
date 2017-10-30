@@ -1,0 +1,238 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math distribut
+
+
+
+
+
+
+
+
+
+
+default implement
+link org apach common math distribut distribut fdistribut
+
+version revis date
+
+distribut impl fdistributionimpl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+creat distribut degre freedom
+invers cumul probabl accuraci
+param numer degre freedom numeratordegreesoffreedom numer degre freedom
+param denomin degre freedom denominatordegreesoffreedom denomin degre freedom
+param invers cum accuraci inversecumaccuraci maximum absolut error invers
+cumul probabl estim
+default link default invers absolut accuraci
+strictli posit except notstrictlypositiveexcept code numer degre freedom numeratordegreesoffreedom
+code denomin degre freedom denominatordegreesoffreedom
+
+
+distribut impl fdistributionimpl numer degre freedom numeratordegreesoffreedom
+denomin degre freedom denominatordegreesoffreedom
+invers cum accuraci inversecumaccuraci
+numer degre freedom numeratordegreesoffreedom
+strictli posit except notstrictlypositiveexcept local format localizedformat degre freedom
+numer degre freedom numeratordegreesoffreedom
+
+denomin degre freedom denominatordegreesoffreedom
+strictli posit except notstrictlypositiveexcept local format localizedformat degre freedom
+denomin degre freedom denominatordegreesoffreedom
+
+numer degre freedom numeratordegreesoffreedom numer degre freedom numeratordegreesoffreedom
+denomin degre freedom denominatordegreesoffreedom denomin degre freedom denominatordegreesoffreedom
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

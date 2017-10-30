@@ -1,0 +1,35 @@
+org aspectj ajdt intern compil ast
+declar declar declaredeclar method declar ajmethoddeclar
+add aspect annot addataspectjannot
+annot annot
+declar decl declaredecl declar annot declareannot
+declar annot declareannot declar annot declareannot declar decl declaredecl
+string pattern string patternstr pattern string getpatternasstr
+string ann string annstr annot string getannotationstr
+string kind kind getkind string tostr
+annot aspect annot factori ataspectjannotationfactori creat declar ann annot createdeclareannannot
+pattern string patternstr ann string annstr kind declar sourc start declarationsourcestart
+declar decl declaredecl declar error warn declareerrororwarn
+declar error warn declareerrororwarn declar error warn declareerrororwarn declar decl declaredecl
+annot aspect annot factori ataspectjannotationfactori
+creat declar error warn annot createdeclareerrororwarningannot pointcut getpointcut string tostr messag getmessag error iserror declar sourc start declarationsourcestart
+declar decl declaredecl declar parent declarepar
+declar parent declarepar declar parent declarepar declar decl declaredecl
+string child pattern childpattern child getchild string tostr
+collect parent pattern parentpattern parent getpar exact type getexacttyp
+string buffer stringbuff parent string buffer stringbuff
+iter iter parent pattern parentpattern iter iter hasnext
+unresolv type unresolvedtyp urt unresolv type unresolvedtyp iter
+parent append urt getnam
+iter hasnext parent append
+annot aspect annot factori ataspectjannotationfactori
+creat declar parent annot createdeclareparentsannot child pattern childpattern parent string tostr extend isextend declar sourc start declarationsourcestart
+declar decl declaredecl declar preced declarepreced
+declar preced declarepreced declar preced declarepreced declar decl declaredecl
+string preced list precedencelist pattern getpattern string tostr
+annot aspect annot factori ataspectjannotationfactori creat declar preced annot createdeclareprecedenceannot preced list precedencelist declar sourc start declarationsourcestart
+declar decl declaredecl declar soft declaresoft
+declar soft declaresoft declar soft declaresoft declar decl declaredecl
+annot aspect annot factori ataspectjannotationfactori
+creat declar soft annot createdeclaresoftannot pointcut getpointcut string tostr except getexcept exact type getexacttyp getnam declar sourc start declarationsourcestart
+annot aspect annot factori ataspectjannotationfactori add annot addannot annot scope

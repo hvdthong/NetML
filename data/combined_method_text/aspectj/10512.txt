@@ -1,0 +1,12 @@
+org aspectj ajd
+author mik kersten
+structur view manag structureviewmanag
+navig default view regist
+histori
+param newfilepath canonic path file
+fire navig action firenavigationact string file path newfilepath line number linenumb
+program element iprogramel curr node currnod asm manag asmmanag default getdefault hierarchi gethierarchi find element sourc line findelementforsourcelin
+file path newfilepath
+line number linenumb
+curr node currnod program element iprogramel
+navig action navigationact program element iprogramel curr node currnod

@@ -1,0 +1,62 @@
+overrid
+compar compar reflect secondbest
+compar compar contract outcontract reflect
+real point pair realpointvaluepair secondbest simplex
+real point pair realpointvaluepair contract outcontract real point pair realpointvaluepair evalu
+centroid scale
+accept expans point
+real point pair realpointvaluepair expand
+compar compar expand reflect
+function evalu except functionevaluationexcept optim except optimizationexcept
+centroid gamma centroid worst xworst
+replac worst point replaceworstpoint contract outcontract compar
+multi direct multidirect
+serializ
+real point pair realpointvaluepair contract incontract real point pair realpointvaluepair evalu
+accept reflect point
+dismiss worst point index
+scale
+worst xworst worst point ref getpointref
+comput centroid vertic
+nelder mead neldermead direct search optim directsearchoptim serializ
+simplex point getpoint
+increment iter counter incrementiterationscount
+compar compar reflect worst
+smallest xsmallest simplex point ref getpointref
+real point pair realpointvaluepair simplex
+centroid
+simplex point dimens
+nelder mead neldermead direct search optim directsearchoptim
+version revis date
+replac worst point replaceworstpoint reflect compar
+compar compar contract incontract worst
+simplex length
+inherit doc inheritdoc
+centroid rho centroid worst xworst
+evalu simplex evaluatesimplex compar
+compar compar reflect
+centroid khi centroid
+simplex point ref getpointref
+nelder mead direct search method
+real point pair realpointvaluepair reflect real point pair realpointvaluepair evalu
+real point pair realpointvaluepair contract incontract
+comput reflect point
+smallest xsmallest sigma smallest xsmallest
+centroid gamma centroid
+replac worst point replaceworstpoint contract incontract compar
+real point pair realpointvaluepair worst simplex
+function evalu except functionevaluationexcept
+interest valu
+comput expans point
+perform contract
+accept contract point
+real point pair realpointvaluepair reflect
+org apach common math optim direct
+iter simplex iteratesimplex compar real point pair realpointvaluepair compar
+perform shrink
+real point pair realpointvaluepair comput object computeobjectivevalu
+simplex real point pair realpointvaluepair doubl nan
+perform insid contract
+real point pair realpointvaluepair contract outcontract
+replac worst point replaceworstpoint expand compar
+real point pair realpointvaluepair expand real point pair realpointvaluepair evalu

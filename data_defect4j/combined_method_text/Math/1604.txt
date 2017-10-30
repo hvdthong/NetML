@@ -1,0 +1,11 @@
+probabl success getprobabilityofsuccess
+version
+probabl success probabilityofsuccess
+inherit doc inheritdoc
+binomi distribut impl binomialdistributionimpl
+access probabl success distribut
+implement link binomi distribut binomialdistribut
+probabl success
+version revis date
+org apach common math distribut
+binomi distribut impl binomialdistributionimpl abstract integ distribut abstractintegerdistribut

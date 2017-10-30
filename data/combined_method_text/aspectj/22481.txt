@@ -1,0 +1,26 @@
+org aspectj weaver pattern
+cflow percflow claus perclaus
+claus perclaus concret resolv type resolvedtyp aspect inaspect
+cflow percflow ret cflow percflow entri isbelow
+ret aspect inaspect aspect inaspect
+aspect inaspect abstract isabstract ret
+member cflow stack field cflowstackfield resolv member impl resolvedmemberimpl
+member field aspect inaspect modifi static modifi public modifi final
+unresolv type unresolvedtyp fornam mangler namemangl cflow stack type cflow stack type mangler namemangl percflow field percflow field unresolv type unresolvedtyp
+world world aspect inaspect world getworld
+crosscut member crosscuttingmemb xcut aspect inaspect crosscut member crosscuttingmemb
+collect previou cflow entri previouscflowentri xcut cflow entri getcflowentri
+pointcut concret entri concreteentri entri concret aspect inaspect aspect inaspect pointcut concreteentri entri concret inaspect inaspect null intmap empti
+list cflow entri innercflowentri arrai list arraylist xcut cflow entri getcflowentri
+cflow entri innercflowentri remov removeal previou cflow entri previouscflowentri
+xcut add concret shadow munger addconcreteshadowmung
+advic make cflow entri makepercflowentri world concret entri concreteentri isbelow cflow stack field cflowstackfield
+aspect inaspect cflow entri innercflowentri
+ataj add munger add aspectof aspect
+aspect inaspect annot style aspect isannotationstyleaspect aspect inaspect abstract isabstract
+aspect inaspect crosscut member crosscuttingmemb add late type munger addlatetypemung
+aspect inaspect world getworld make claus aspect makeperclauseaspect aspect inaspect kind getkind
+ataj inlin advic support late munger inl
+aspect inaspect annot style aspect isannotationstyleaspect aspect inaspect world getworld xno inlin isxnoinlin
+aspect inaspect crosscut member crosscuttingmemb add type munger addtypemung bcel access inlin munger bcelaccessforinlinemung aspect inaspect
+ret

@@ -1,0 +1,14 @@
+org aspectj weaver loadtim definit
+pojo raw string xml sort xmlbean simpl ltw dtd
+author href mailto alex gnilux dot alexandr vasseur
+definit
+definit
+weaver option weaveropt string buffer stringbuff
+dump dumpbefor
+dump pattern dumppattern arrai list arraylist
+includ pattern includepattern arrai list arraylist
+exclud pattern excludepattern arrai list arraylist
+aspect class name aspectclassnam arrai list arraylist
+aspect exclud pattern aspectexcludepattern arrai list arraylist
+aspect includ pattern aspectincludepattern arrai list arraylist
+concret aspect concreteaspect arrai list arraylist

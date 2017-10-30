@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+equal object obj
+obj exact annot type pattern exactannotationtypepattern
+exact annot type pattern exactannotationtypepattern exact annot type pattern exactannotationtypepattern obj
+annot type annotationtyp equal annot type annotationtyp paramet annot match isforparameterannotationmatch paramet annot match isforparameterannotationmatch

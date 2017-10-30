@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+hasif pointcut pointcut
+finder iffind visitor finder iffind
+pointcut accept visitor
+visitor hasif

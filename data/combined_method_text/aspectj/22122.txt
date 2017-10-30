@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+modifi pattern modifierspattern pattern node patternnod
+string string tostr
+string ret modifi string tostr requir modifi requiredmodifi
+forbidden modifi forbiddenmodifi ret
+ret modifi string tostr forbidden modifi forbiddenmodifi

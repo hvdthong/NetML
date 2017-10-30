@@ -1,0 +1,14 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+count node countnod program element iprogramel ip
+string node ip kind getkind string tostr
+integ ctr integ node type count nodetypecount node
+ctr
+node type count nodetypecount put node integ
+ctr integ ctr int intvalu
+node type count nodetypecount put node ctr

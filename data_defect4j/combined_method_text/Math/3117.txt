@@ -1,0 +1,14 @@
+build plane point normal
+except illeg argument except illegalargumentexcept normal norm small
+org apach common math geometri euclidean threed
+set frame setfram
+repres plane dimension space
+plane vector3 vector3d vector3 vector3d normal
+param normal normal direct plane
+except math arithmet except matharithmeticexcept normal norm small
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+origin offset originoffset dot product dotproduct
+set normal setnorm normal
+origin offset originoffset vector3 vector3d dot product dotproduct
+param point belong plane

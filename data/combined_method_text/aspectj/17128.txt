@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+declarewarningdeclar dom ast node
+declaredeclar
+pointcutdesign call 'pointcut'
+stringliter call 'message'
+declar warn declar declarewarningdeclar declar declar declaredeclar
+set pointcut setpointcut pointcut design pointcutdesign pointcut
+pointcut
+illeg argument except illegalargumentexcept
+ast node astnod child oldchild pointcut
+pre replac child prereplacechild child oldchild pointcut pointcut properti pointcut properti
+pointcut pointcut
+post replac child postreplacechild child oldchild pointcut pointcut properti pointcut properti

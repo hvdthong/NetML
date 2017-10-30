@@ -1,0 +1,12 @@
+org aspectj org eclips jdt core dom
+subtyp typedeclar extens aspectj
+type aspect pointcut exist
+class type repres aspect repres
+aspectdeclar subtyp ajtypedeclar
+type declar ajtypedeclar type declar typedeclar
+intern set boolean properti internalgetsetbooleanproperti simpl properti descriptor simplepropertydescriptor properti
+properti aspect properti aspect properti
+aspect isaspect
+set aspect setaspect
+default implement flag error
+intern set boolean properti internalgetsetbooleanproperti properti

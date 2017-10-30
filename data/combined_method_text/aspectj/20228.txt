@@ -1,0 +1,20 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+comput flag xxxjoinpoint extra argument
+param argumentsignatur
+return extra arg flag
+extract extra argument extractextraargu string argument signatur argumentsignatur
+extra argument extraargu
+argument signatur argumentsignatur length
+ajc member maker ajcmembermak typex joinpoint typex joinpoint signatur getsignatur equal argument signatur argumentsignatur
+extra argument extraargu advic join point thisjoinpoint
+ajc member maker ajcmembermak typex proceedingjoinpoint typex proceedingjoinpoint signatur getsignatur equal argument signatur argumentsignatur
+extra argument extraargu advic join point thisjoinpoint
+ajc member maker ajcmembermak typex staticjoinpoint typex staticjoinpoint signatur getsignatur equal argument signatur argumentsignatur
+extra argument extraargu advic join point static part thisjoinpointstaticpart
+ajc member maker ajcmembermak typex enclosingstaticjoinpoint typex enclosingstaticjoinpoint signatur getsignatur equal argument signatur argumentsignatur
+extra argument extraargu advic enclos join point static part thisenclosingjoinpointstaticpart
+extra argument extraargu

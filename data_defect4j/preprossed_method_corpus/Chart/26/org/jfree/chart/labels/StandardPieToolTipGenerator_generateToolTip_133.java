@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart label
+
+
+
+
+
+
+
+
+standard item label gener plot data
+link pie dataset piedataset
+
+label format pie section kei insert
+absolut section percent amount pie
+section code code displai
+code appl code
+
+standard pie tool tip gener standardpietooltipgener abstract pie item label gener abstractpieitemlabelgener
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gener tool tip text item section pie chart
+
+param dataset dataset code code permit
+param kei section kei code code permit
+
+tool tip text possibl code code
+
+string gener tool tip generatetooltip pie dataset piedataset dataset compar kei
+gener section label generatesectionlabel dataset kei
+
+
+
+
+
+
+
+
+
+
+
+
+
+

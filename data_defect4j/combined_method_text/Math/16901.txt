@@ -1,0 +1,21 @@
+data datac length
+version
+param data datac arrai link complex data transform
+code data datari data datac real getreal
+data datai data datari
+creat real imaginari arrai createrealimaginaryarrai complex data datac
+build dimension arrai code fill real
+dimension arrai fill real imaginari part
+data datar data datari
+return arrai code data datari data laid
+transform util transformutil
+org apach common math3 transform
+function implement transform
+imaginari part link complex number
+data datari
+code data datari data datac imaginari getimaginari
+data datar real getreal
+complex data datac
+data datai imaginari getimaginari
+data datari data datac length
+complex input

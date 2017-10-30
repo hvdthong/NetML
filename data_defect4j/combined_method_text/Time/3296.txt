@@ -1,0 +1,9 @@
+scale durat field durationfield unit milli larger
+org joda time field
+magnitud
+wrap field getwrappedfield differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst scalar iscalar
+scale durat field scaleddurationfield thread safe immut
+scale durat field scaleddurationfield decor durat field decorateddurationfield
+differ long getdifferenceaslong minuend instant minuendinst subtrahend instant subtrahendinst
+author brian neill o'neil
+precis durat field precisedurationfield

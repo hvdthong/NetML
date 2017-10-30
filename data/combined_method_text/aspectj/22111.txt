@@ -1,0 +1,85 @@
+org aspectj weaver pattern
+kind pointcut kindedpointcut pointcut
+resolv bind resolvebind scope iscop scope bind bind
+kind shadow initi
+scope getmessagehandl handlemessag
+messageutil error
+initi unimpl 1beta1
+getsourceloc
+signatur signatur resolv bind resolvebind scope bind
+kind shadow constructor execut constructorexecut kind shadow constructorexecut bug fix
+signatur declar type getdeclaringtyp
+world world scope world getworld
+unresolv type unresolvedtyp exact type exacttyp signatur declar type getdeclaringtyp exact type getexacttyp
+signatur kind getkind member constructor
+resolv type resolvedtyp miss ismiss exact type exacttyp
+exact type exacttyp resolv world interfac isinterfac
+signatur declar type getdeclaringtyp includ subtyp isincludesubtyp
+world lint getlint interfac ctor joinpoint nointerfacectorjoinpoint signal exact type exacttyp string tostr sourc locat getsourceloc
+parameter type
+kind shadow static initi staticiniti
+type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur declar type getdeclaringtyp travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag static init jp parameter type static init jp parameter type
+sourc locat getsourceloc
+parameter type declar type posit
+kind shadow field fieldget kind shadow field set fieldset
+type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur declar type getdeclaringtyp travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag set dont support dec type paramet set dont support dec type paramet
+sourc locat getsourceloc
+field void type
+unresolv type unresolvedtyp return type returntyp signatur return type getreturntyp exact type getexacttyp
+return type returntyp resolv type resolvedtyp void
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag field void type field void type
+sourc locat getsourceloc
+join point initi preiniti parameter type
+throwabl parameter type
+kind shadow initi kind shadow pre initi preiniti
+type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur declar type getdeclaringtyp travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag init jp parameter type init jp parameter type
+sourc locat getsourceloc
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur throw pattern getthrowspattern travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag gener throwabl gener throwabl
+sourc locat getsourceloc
+parameter type declar type posit
+throwabl parameter type
+kind shadow method execut methodexecut kind shadow constructor execut constructorexecut
+type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur declar type getdeclaringtyp travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag execut doesnt support parameter declar type execut doesnt support parameter declar type
+sourc locat getsourceloc
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur throw pattern getthrowspattern travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag gener throwabl gener throwabl
+sourc locat getsourceloc
+parameter type declar type posit
+throwabl parameter type
+kind shadow method call methodcal kind shadow constructor call constructorcal
+type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur declar type getdeclaringtyp travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag call doesnt support parameter declar type call doesnt support parameter declar type
+sourc locat getsourceloc
+visitor type pattern sneak gener parameter type pattern match stuff visitor hasthistypepatterntriedtosneakinsomegenericorparameterizedtypepatternmatchingstuffanywherevisitor
+signatur throw pattern getthrowspattern travers visitor
+visitor wellhasitthen visitor wellhasitthen
+scope messag messag util messageutil error weaver messag weavermessag format weaver messag weavermessag gener throwabl gener throwabl
+sourc locat getsourceloc
+scope world getworld joinpoint arrai construct enabl isjoinpointarrayconstructionen
+kind shadow constructor call constructorcal
+signatur declar type getdeclaringtyp arrai isarrai
+scope messag messag util messageutil warn weaver messag weavermessag format weaver messag weavermessag newarrai joinpoint default newarrai joinpoint default sourc locat getsourceloc

@@ -1,0 +1,11 @@
+delete foo.prop should not walk the property chain to find prop
+User-Agent:       Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.0.13) Gecko/2009080315 Ubuntu/9.04 (jaunty) Firefox/3.0.13
+Build Identifier: 
+
+Statement
+delete foo.prop 
+should delete property defined in foo (if any) but not in anywhere in foo's prototype chain.
+
+See Ecma 262, 8.6.2.5
+
+Reproducible: Always

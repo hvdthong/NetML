@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil
+author colyer
+adapt standard jdt compil add aspectj specif behaviour
+compil adapt ajcompileradapt abstract compil adapt abstractcompileradapt
+gener beforegener compil unit declar compilationunitdeclar unit
+gener token generatingtoken compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext gener unwoven code compil unit gener unwoven code compil unit unit file getfilenam

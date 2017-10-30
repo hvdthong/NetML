@@ -1,0 +1,41 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+accept string class classnam byte
+avoid resolvedtyp need
+exclud type pattern excludetypepattern empti isempti includ type pattern includetypepattern empti isempti
+avoid resolvedtyp simpl pattern
+string fast class fastclassnam class classnam replac replac
+exclud start excludestartswith size
+fast class fastclassnam start startswith string exclud start excludestartswith
+bug
+exclud pattern match start
+fast accept
+exclud type pattern excludetypepattern empti isempti
+fast accept fastaccept boolean fastaccept fals default fals fast includ
+includ start includestartswith size
+fast accept fastaccept fast class fastclassnam start startswith string includ start includestartswith
+fast accept fastaccept
+analysi
+todo refactor
+ltw call resolv stage bad bytecod classload hook
+resolv getresourcesasstream disk
+problemat jit stub disk underli infra
+return null info getresourceasstream wl cr248491
+pars bytecod mean pars
+weavingclassfileprovid weavingadaptor getwovenbyt
+ensur deleg initi ensuredelegateiniti class classnam byte
+resolv type resolvedtyp class info classinfo deleg current class delegateforcurrentclass resolv type getresolvedtypex resolvedtyp classinfo delegateforcurrentclass getresolvedtypex bad weaver getworld resolv unresolvedtyp fornam classnam true
+exclud
+iter iter exclud type pattern excludetypepattern iter iter hasnext
+type pattern typepattern type pattern typepattern type pattern typepattern iter
+type pattern typepattern match static matchesstat class info classinfo
+exclud match skip
+includ
+accept boolean accept true default true includ
+iter iter includ type pattern includetypepattern iter iter hasnext
+type pattern typepattern type pattern typepattern type pattern typepattern iter
+accept type pattern typepattern match static matchesstat class info classinfo
+accept
+includ match
+accept

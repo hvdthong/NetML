@@ -1,0 +1,136 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+empti open close return empti string
+string util stringutil substr substringbetween tagabctag
+safe substr extract
+prepend prefix start string present
+abbrevi string ellipsi
+end index found
+index set string
+string util stringutil substr substringbetween
+compar string report differ
+substr extract rel string
+substr code code match
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+code code safe
+substr substringbetween str tag tag
+string substr substringbetween string str string open string close
+param open string substr
+string nest instanc
+author arun mammen thoma
+param tag string substr
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+start index found
+check string end suffix safe
+code code tag return code code
+code string util stringutil defin word relat
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+code code open close return code code match
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+param close string substr
+start startswith
+code code input string return code code
+abbrevi
+version
+method give sampl code explain oper
+str substr start open length end
+trim strip
+remov delet
+compar string safe
+code string util stringutil code
+symbol code input includ code
+org apach common lang3
+string util stringutil substr substringbetween yabcz abc
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+author holger krauth
+code input code
+code code
+code safe
+containsonli containsnon containsani
+side effect code code handl
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+check string text
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+string util stringutil substr substringbetween tagabctag tag abc
+code code code code return
+param str string substr
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+author href mailto jon latchkei jon steven
+string util stringutil substr substringbetween tag
+start str index indexof open
+empti isempti blank isblank
+code code input code code
+substr code match
+str open close
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+remov part string
+match return
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+equal
+code null pointer except nullpointerexcept consid bug
+string nest string
+code input string return code
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+string util stringutil substr substringbetween yabcz
+author gari gregori
+safe index check
+string substr substringbetween string str string tag
+code string util stringutil
+string util stringutil
+thread safe threadsaf
+string util stringutil substr substringbetween yabczyabcz abc
+code tag return code
+check charact string
+end str index indexof close start open length
+append miss appendifmiss
+prepend miss prependifmiss
+symbol code code input includ code code

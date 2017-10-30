@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+signatur pattern signaturepattern member kind kind modifi pattern modifierspattern modifi
+type pattern typepattern return type returntyp type pattern typepattern declar type declaringtyp
+pattern namepattern type pattern list typepatternlist paramet type parametertyp
+throw pattern throwspattern throw pattern throwspattern
+annot type pattern annotationtypepattern annot pattern annotationpattern
+kind kind
+modifi modifi
+return type returntyp return type returntyp
+declar type declaringtyp declar type declaringtyp
+paramet type parametertyp paramet type parametertyp
+throw pattern throwspattern throw pattern throwspattern
+annot pattern annotationpattern annot pattern annotationpattern

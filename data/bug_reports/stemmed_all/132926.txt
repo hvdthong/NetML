@@ -1,0 +1,25 @@
+compil crash process annot
+upgrad latest ajdt version build 20060322082516
+aspectj version 20060320075953
+compil crash rebuld project work fine
+march 16th version retri 'clean' build produc
+crash
+java lang nullpointerexcept
+org aspectj weaver annotationx ensureattargetiniti annotationx java
+org aspectj weaver annotationx specifiestarget annotationx java
+org aspectj weaver bcel bcelweav verifytargetisok bcelweav java
+org aspectj weaver bcel bcelweav applydeclareattyp bcelweav java
+org aspectj weaver bcel bcelweav weaveparenttypemung bcelweav java
+org aspectj weaver bcel bcelweav weaveparentsfor bcelweav java
+org aspectj weaver bcel bcelweav weaveparentsfor bcelweav java
+org aspectj weaver bcel bcelweav weav bcelweav java
+org aspectj ajdt intern compil ajcompileradapt weav ajcompileradapt java
+org aspectj ajdt intern compil ajcompileradapt aftercompil ajcompileradapt java
+org aspectj ajdt intern compil compileradapt ajc afterreturn org aspectj ajdt intern compil compileradapt f9cc9ca0 compileradapt
+org aspectj org eclips jdt intern compil compil compil compil java
+org aspectj ajdt intern core builder ajbuildmanag performcompil ajbuildmanag java
+org aspectj ajdt intern core builder ajbuildmanag dobuild ajbuildmanag java
+org aspectj ajdt intern core builder ajbuildmanag batchbuild ajbuildmanag java
+org aspectj ajd intern compileradapt compil compileradapt java
+org aspectj ajd intern aspectjbuildmanag compilerthread run aspectjbuildmanag java
+nullpointerexcept thrown null

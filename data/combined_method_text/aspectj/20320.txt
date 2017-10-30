@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+add initi addiniti concret type munger concretetypemung
+field type munger newfieldtypemung field type munger newfieldtypemung munger getmung
+resolv type resolvedtyp type ontyp signatur getsignatur declar type getdeclaringtyp resolv world
+type ontyp raw type israwtyp type ontyp type ontyp gener type getgenerictyp
+signatur getsignatur static isstat
+ad class initi addedclassiniti add
+type ontyp resolv type getresolvedtypex
+ad initi addedthisiniti add
+ifac init list ifaceinitlist ifac init list ifaceinitlist ad super initi addedsuperiniti type ontyp
+list add

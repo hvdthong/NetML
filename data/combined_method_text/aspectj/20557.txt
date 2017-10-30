@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+visit string constant
+param stringconst
+visit string const expr stringconstexpr string const stringconst
+instruct insert fact creat constant createconst string const stringconst string const getstringconst

@@ -1,0 +1,38 @@
+org aspectj apach bcel classfil
+repres java class data structur constant pool
+field method command contain java class file
+href ftp java sun doc spec jvm
+specif detail
+intent class repres pars exist
+class file interest programat gener class
+href gener classgen html classgen class
+version javaclass java acoly exp
+org aspectj apach bcel gener classgen
+author href mailto marku dahm berlin dahm
+java class javaclass access flag accessflag cloneabl node
+dump java class output stream binari format
+param file output stream
+except ioexcept
+dump data output stream dataoutputstream file except ioexcept
+file write int writeint
+file write short writeshort minor
+file write short writeshort major
+constant pool dump file
+file write short writeshort access flag
+file write short writeshort class index
+file write short writeshort superclass index
+file write short writeshort interfac length
+interfac length
+file write short writeshort interfac
+file write short writeshort field length
+field length
+field dump file
+file write short writeshort method length
+method length
+method dump file
+attribut
+file write short writeshort attribut length
+attribut length
+attribut dump file
+file write short writeshort
+file close

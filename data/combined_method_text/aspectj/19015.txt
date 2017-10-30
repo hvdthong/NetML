@@ -1,0 +1,7 @@
+org aspectj weaver
+lint
+clear suppress clearsuppress collect lint kind lintkind
+lint kind lintkind empti isempti
+iter iter lint kind lintkind iter iter hasnext
+kind kind iter
+set suppress setsuppress

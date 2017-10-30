@@ -1,0 +1,14 @@
+lang
+builder append
+string string tostr
+pair serializ
+builder append left
+author matt benson
+overrid
+return string represent pair form
+string builder stringbuild builder string builder stringbuild
+version
+builder string tostr
+basic immut object pair
+org apach common lang3
+thread safe threadsaf object threadsaf

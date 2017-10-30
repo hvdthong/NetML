@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+pattern parser patternpars
+type pattern typepattern pars addit interfac bound maybeparseadditionalinterfacebound
+list bound list boundslist arrai list arraylist
+eat maybeeat
+type pattern typepattern pars type pattern parsetypepattern
+bound list boundslist add
+bound list boundslist size
+type pattern typepattern ret type pattern typepattern bound list boundslist size
+bound list boundslist arrai toarrai ret
+ret

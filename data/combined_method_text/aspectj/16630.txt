@@ -1,0 +1,15 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+prefix express prefixexpress convert org aspectj org eclips jdt intern compil ast prefix express prefixexpress express
+prefix express prefixexpress prefix express prefixexpress prefix express prefixexpress ast
+resolv bind resolvebind
+record node recordnod prefix express prefixexpress express
+prefix express prefixexpress set sourc rang setsourcerang express sourc start sourcestart express sourc end sourceend express sourc start sourcestart
+prefix express prefixexpress set operand setoperand convert express lh
+express oper
+org aspectj org eclips jdt intern compil ast oper id operatorid
+prefix express prefixexpress set oper setoper prefix express prefixexpress oper increment
+org aspectj org eclips jdt intern compil ast oper id operatorid minu
+prefix express prefixexpress set oper setoper prefix express prefixexpress oper decrement
+prefix express prefixexpress

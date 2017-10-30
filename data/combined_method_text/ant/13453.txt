@@ -1,0 +1,31 @@
+org apach tool zip
+replac code java util zipfil code
+class add support file encod utf
+requir work zip file creat nativ zip tool
+skip preambl found
+extract archiv return instanc
+code org apach tool zip zipentri code
+code java util zip zipentri code
+extend code java util zip zipfil code
+reimplement method
+code java util zipfil code randomaccessfil
+cover support compress uncompress entri
+method signatur mimic
+code java util zip zipfil code coupl except
+getnam method
+entri renam getentri
+getentri getentri return
+code org apach tool zip zipentri code instanc
+close allow throw ioexcept
+zip file zipfil
+open file read assum
+encod file name
+param archiv
+param encod encod file name
+param mustnotbeempti empti central directori
+case error
+throw ioexcept error occur read file
+ant
+zip file zipfil string string encod
+empti mustnotbeempti except ioexcept
+file encod empti mustnotbeempti

@@ -1,0 +1,11 @@
+plane copi copyself
+repres plane dimension space
+org apach common math3 geometri euclidean threed
+share immut object
+plane
+copi instanc
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+instanc creat complet independ origin
+hyperplan copi instanc
+deep copi underli object

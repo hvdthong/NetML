@@ -1,0 +1,6 @@
+org aspectj apach bcel gener annot
+enum element gen enumelementvaluegen element gen elementvaluegen
+enum element gen enumelementvaluegen object type objecttyp string constant pool gen constantpoolgen cpool
+element gen elementvaluegen enum constant enum constant cpool
+type idx typeidx cpool add utf8 addutf8 signatur getsignatur typeidx cpool addutf8 getsignatur addclass
+idx valueidx cpool add utf8 addutf8 valueidx cpool addutf8 addstr

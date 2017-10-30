@@ -1,0 +1,7 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+set bootclasspathref setbootclasspathref refer bootclasspathref public void setbootclasspathref refer bootclasspathref javac eajc docdon
+ignor bootclasspath ignor bootclasspath xxx juri rig
+createbootclasspath setrefid bootclasspathref

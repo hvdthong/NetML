@@ -1,0 +1,18 @@
+block real matrix blockrealmatrix instanc built
+return link real matrix realmatrix dimens
+element element time
+param column number column matrix
+org apach common math3 linear
+param row number row matrix
+collect method oper matric
+matrix element set
+matrix util matrixutil
+squar matrix store 32k 32kb arrai link
+row column
+version
+creat real matrix createrealmatrix
+array2 row real matrix array2drowrealmatrix row column block real matrix blockrealmatrix row column
+real matrix realmatrix dimens
+real matrix realmatrix creat real matrix createrealmatrix row column
+array2 row real matrix array2drowrealmatrix instanc built threshold link
+type matrix return depend dimens

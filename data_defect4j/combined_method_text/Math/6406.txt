@@ -1,0 +1,36 @@
+pre
+initi high order scale deriv step start
+multistep integr nordsieck represent highli sensit
+nordsieck vector higher degre scale deriv
+store previou step separ implement
+org apach common math od nonstiff adam bashforth integr adamsbashforthintegr
+org apach common math od
+factor set low order
+param scale deriv step start
+org apach common math od nonstiff adam moulton integr adamsmoultonintegr
+modifi
+param multistep scale deriv step start hy'1 hy'k
+y''' deriv
+high order scale deriv step start
+defin scale deriv step
+version
+param step size scale
+version revis date
+multistep
+array2 row real matrix array2drowrealmatrix initi high order deriv initializehighorderderiv
+deriv
+dot ydot
+differenti equat
+y'' deriv
+param step state
+param dot ydot step deriv
+nordieck vector step y''
+omit index notat clariti
+larg step step multipli factor
+compon accur max growth
+base multistep integr ordinari
+step defin
+y'''
+compon nordsieck vector multipli
+param step time
+multistep integr multistepintegr adapt stepsiz integr adaptivestepsizeintegr

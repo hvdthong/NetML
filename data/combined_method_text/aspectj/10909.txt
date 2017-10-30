@@ -1,0 +1,10 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+print version printvers
+string version bind misc version final string version bind misc version nl
+string
+bind compil bind compil nl
+version text built version time text
+bind compil version bind compil version nl
+bind compil copyright bind compil copyright nl
+system println version

@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil ast
+pseudo token pseudotoken ast node astnod
+claus perclaus pars claus parseperclaus parser parser
+pattern parser patternpars pattern parser patternpars pattern parser patternpars token sourc tokensourc
+claus perclaus ret pattern parser patternpars pars claus maybeparseperclaus
+check eof checkeof parser
+ret singleton persingleton
+ret
+parser except parserexcept
+report error reporterror parser
+singleton persingleton

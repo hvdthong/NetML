@@ -1,0 +1,15 @@
+org aspectj ajdt intern compil
+author colyer
+adaptor classfil let act bytecod repositori
+unwovenclassfil classfil byte
+copi made
+class file base byte code provid classfilebasedbytecodeprovid
+unwoven class file unwovenclassfil unwoven class file unwovenclassfilesfor compil result compilationresult result
+output class file provid ioutputclassfilenameprovid provid nameprovid
+class file classfil cf result class file getclassfil
+unwoven class file unwovenclassfil ret unwoven class file unwovenclassfil cf length
+ret length
+class file base byte code provid classfilebasedbytecodeprovid class file base byte code provid classfilebasedbytecodeprovid cf
+string file filenam provid nameprovid output class file getoutputclassfilenam cf file filenam result
+ret unwoven class file parti manag bytecod unwovenclassfilewiththirdpartymanagedbytecod file filenam
+ret

@@ -1,0 +1,9 @@
+org aspectj weaver
+shadow
+unresolv type unresolvedtyp gener arg type getgenericargtyp
+shadow arrai construct joinpoint isshadowforarrayconstructionjoinpoint
+argument type arrai construct shadow getargumenttypesforarrayconstructionshadow
+shadow monitor isshadowformonitor
+unresolv type unresolvedtyp arrai object arrai object
+kind getkind field set fieldset unresolv type unresolvedtyp resolv signatur getresolvedsignatur gener return type getgenericreturntyp
+resolv signatur getresolvedsignatur gener paramet type getgenericparametertyp

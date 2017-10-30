@@ -1,0 +1,14 @@
+param scale paramet distribut
+link org apach common math distribut cauchi distribut cauchydistribut
+solver absolut accuraci solverabsoluteaccuraci invers cum accuraci inversecumaccuraci
+param invers cum accuraci inversecumaccuraci maximum absolut error invers cumul probabl estim
+default link default invers absolut accuraci
+creat cauchi distribut median scale
+cauchi distribut impl cauchydistributionimpl median invers cum accuraci inversecumaccuraci
+set scale intern setscaleintern
+cauchi distribut impl cauchydistributionimpl abstract continu distribut abstractcontinuousdistribut
+set median intern setmedianintern median
+version revis date
+default implement
+param median median distribut
+org apach common math distribut

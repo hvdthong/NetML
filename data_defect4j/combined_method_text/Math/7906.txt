@@ -1,0 +1,21 @@
+pre
+optim isoptim
+extra decis variabl neg valu
+model solv
+num object function getnumobjectivefunct width getwidth
+phase object function
+math util mathutil compar compareto tableau entri getentri epsilon
+amp decis variabl
+version revis date
+rh hand side
+rh
+entri tableau entri getentri
+artifici variabl
+math util mathutil compar compareto entri epsilon
+org apach common math optim linear
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+return problem optim state
+tableau simplex method

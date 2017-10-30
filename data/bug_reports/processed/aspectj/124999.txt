@@ -1,0 +1,32 @@
+generics incorrect call generic inherited method advice
+case produces runtime error
+package
+public abstract aspect genericinheritedmethod
+protected final getsomething
+return null
+
+
+package
+aspect useinheritedmethod extends genericinheritedmethod integer
+works expected
+execution void somemethod
+system println getsomething
+
+runtime error
+void execution void somemethod
+system println getsomething
+
+public static void main string args
+somemethod
+
+private static void somemethod
+
+
+java useinheritedmethod
+null
+exception thread main java lang nosuchmethoderror useinheritedmethod getsomething ljava lang integer
+useinheritedmethod ajc inlineaccessmethod useinheritedmethod useinheritedmethod getsomething useinheritedmethod
+useinheritedmethod ajc useinheritedmethod c74e36b7 useinheritedmethod
+useinheritedmethod somemethod useinheritedmethod
+useinheritedmethod main useinheritedmethod
+inlineaccessmethod call getsomething ljava lang object advice

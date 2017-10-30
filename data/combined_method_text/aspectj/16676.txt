@@ -1,0 +1,24 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+method retriev arrai dimens declar
+local field declar
+int null
+return
+return int dimens found
+retriev extra dimens retrieveextradimens start end
+scanner reset resetto start end
+dimens
+token
+token scanner token getnexttoken termin token terminaltoken token eof tokennameeof
+token
+termin token terminaltoken token lbracket tokennamelbracket
+termin token terminaltoken token comment block tokennamecom block
+termin token terminaltoken token comment javadoc tokennamecom javadoc
+termin token terminaltoken token comment line tokennamecom line
+termin token terminaltoken token rbracket tokennamerbracket case terminaltoken tokennamerbracket
+dimens
+dimens
+invalid input except invalidinputexcept
+ignor
+dimens

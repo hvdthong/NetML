@@ -1,0 +1,27 @@
+process
+docfieldprocessorperthread docfieldprocessorperthread docfieldprocessorperthread
+consum consum consum consum consum
+accept
+addthread addthread
+index
+end end
+invert invert invert invert invert invert invert invert invert
+docinvert docinvert docinvert docinvert docinvert docinvert
+apach
+add add
+docfieldconsumerperthread
+field field field field field
+state state
+lucen
+document
+docfieldconsum
+invertedtermsconsum
+org
+term
+endconsum endconsum
+thread thread thread thread thread thread thread thread
+doc doc doc doc doc doc doc doc doc doc doc doc doc doc
+separ
+docinverterperthread docinverterperthread
+docstat docstat
+processor processor processor

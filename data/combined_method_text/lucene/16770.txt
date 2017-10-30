@@ -1,0 +1,24 @@
+org apach lucen search function
+queri set document score programmat function score
+score subqueri queri
+option score valuesourcequeri queri
+simpl conveni case queri
+link org apach lucen search function fieldscorequeri fieldscorequeri
+subclass modifi comput overrid link getcustomscoreprovid
+lucen experiment
+custom score queri customscorequeri queri
+explan explain doexplain reader context readercontext info doc except ioexcept
+explan queri expl subqueryexpl queri weight subqueryweight explain info doc
+queri expl subqueryexpl match ismatch
+queri expl subqueryexpl
+match
+explan val src expl valsrcexpl explan val src weight valsrcweight length
+val src weight valsrcweight length
+val src expl valsrcexpl val src weight valsrcweight explain info doc
+explan custom exp customexp custom score queri customscorequeri custom score provid getcustomscoreprovid info reader custom explain customexplain doc queri expl subqueryexpl val src expl valsrcexpl
+getvalu custom exp customexp getvalu
+explan re complex explan complexexplan
+custom score queri customscorequeri string tostr product
+re add detail adddetail custom exp customexp
+re add detail adddetail explan getvalu queryboost re adddetail explan getvalu queryboost boost weight weight
+re

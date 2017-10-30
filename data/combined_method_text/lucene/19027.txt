@@ -1,0 +1,11 @@
+org apach lucen search
+unit test helper class test filter cach
+cach wrapper filter helper cachingwrapperfilterhelp cach wrapper filter cachingwrapperfilt
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+save miss count savemisscount miss count misscount
+doc set docidset doc set docidset doc set getdocidset context
+cach shouldhavecach
+assert assert equal assertequ cach data save miss count savemisscount miss count misscount
+assert assert true asserttru cach null doc set docidset miss count misscount save miss count savemisscount
+doc set docidset

@@ -1,0 +1,53 @@
+author stephen colebourn
+fraction add addsub fraction fraction add isadd
+result u'v u'v'
+big integ biginteg uvp big integ biginteg valueof numer
+ident addit
+fraction number compar fraction
+param add isadd add subtract
+big integ biginteg upv big integ biginteg valueof fraction numer
+result
+quantiti 't' requir bit precis knuth
+big integ biginteg divid big integ biginteg valueof
+greatest common divisor greatestcommondivisor denomin fraction denomin
+param fraction fraction subtract code code
+tmodd1 mod big integ biginteg valueof intvalu
+gcd gcd mod
+uvp mul check mulandcheck numer fraction denomin
+mul po check mulposandcheck denomin fraction denomin
+illeg argument except illegalargumentexcept fraction
+multipli big integ biginteg valueof fraction denomin
+numer
+intvalu
+version
+fraction
+author tim brien o'brien
+repres code code
+illeg argument except illegalargumentexcept fraction code code
+immut interoper method accept
+add isadd add check addandcheck uvp upv check subandcheck uvp upv
+fraction numer
+author scott ananian
+upv mul check mulandcheck fraction numer denomin
+tmodd1 greatest common divisor greatestcommondivisor tmodd1
+author travi reeder
+multipli big integ biginteg valueof denomin
+store fraction accur
+exercis big integ biginteg
+fraction number serializ compar
+org apach common lang math
+code fraction code instanc result valu
+code number code
+implement add subtract algorithm knuth
+arithmet except arithmeticexcept
+big integ biginteg add isadd uvp add upv uvp subtract upv
+overflow numer larg multipli
+bit length bitlength
+author pete gieser
+extra precis
+fraction number compar
+code fraction code code number code implement
+denomin randomli distribut
+add isadd fraction fraction negat
+time
+arithmet except arithmeticexcept result numer denomin

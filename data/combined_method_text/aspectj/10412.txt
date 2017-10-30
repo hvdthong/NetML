@@ -1,0 +1,8 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+add problem entri addproblementri build config node buildconfignod root list bad entri badentri
+iter bad entri badentri iter hasnext
+root add child addchild build config node buildconfignod
+string tostr
+build config node buildconfignod kind error

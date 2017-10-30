@@ -1,0 +1,10 @@
+lower end search interv
+param func type function solv
+version
+solver
+search min searchmin
+provid implement function gener
+min getmin
+version revis date wed nov
+org apach common math analysi solver
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct

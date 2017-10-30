@@ -1,0 +1,4 @@
+org aspectj weaver
+abstract refer type deleg abstractreferencetypedeleg refer type deleg referencetypedeleg
+sourc locat isourceloc sourc locat getsourceloc
+sourc context getsourcecontext make sourc locat makesourceloc

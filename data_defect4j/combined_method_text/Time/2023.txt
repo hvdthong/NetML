@@ -1,0 +1,19 @@
+author stephen colebourn
+period period toperiodfrom readabl instant readableinst start instant startinst
+base durat basedur
+param start instant startinst instant calcul period mean
+link readabl durat readabledur
+result base instant milli chronolog instant
+period start instant startinst
+standard period type length durat
+data code code durat millisecond field
+convert durat period instanc ad durat start
+base durat basedur implement readabl durat readabledur store
+org joda time base
+kind durat object referenc
+author brian neill o'neil
+period creat millisecond durat instanc
+instant obtain interv standard period type
+gener directli api user
+convers determin field period accur
+base durat basedur subclass mutabl thread safe

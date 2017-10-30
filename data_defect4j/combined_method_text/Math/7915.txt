@@ -1,0 +1,19 @@
+construct solver iter count accuraci
+param maxim iter count defaultmaximaliterationcount maximum number iter
+param absolut accuraci defaultabsoluteaccuraci maximum absolut error
+absolut accuraci defaultabsoluteaccuraci
+abstract univari real optim abstractunivariaterealoptim
+optim
+set max evalu setmaxevalu integ max
+result comput resultcomput
+valu maximum number iter evalu
+org apach common math optim univari
+absolut rel accuraci threshold
+absolut accuraci defaultabsoluteaccuraci valid
+provid implement function gener
+deprec setter method assign meaning
+illeg argument except illegalargumentexcept
+version revis date
+abstract univari real optim abstractunivariaterealoptim maxim iter count defaultmaximaliterationcount
+function evalu except function evalu except functionevaluationexceptionfunctionevaluationexcept
+maxim iter count defaultmaximaliterationcount absolut accuraci defaultabsoluteaccuraci

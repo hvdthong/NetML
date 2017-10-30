@@ -1,0 +1,47 @@
+targets identical work imported project
+
+real hidden feature ant
+build file
+build xml
+xml version encoding iso
+project test default test
+target test case1 property
+echo property set echo
+target
+target test case2 property
+echo property set echo
+target
+project
+fails expected
+workspace utilitiy project ant
+buildfile build xml
+build failed
+workspace utilitiy project build xml duplicate target test id
+total time seconds
+import statement
+build xml
+xml version encoding iso
+project test default test
+import file test xml
+project
+test xml
+xml version encoding iso
+project default test
+target test case1 property
+echo property set echo
+target
+target test case2 property
+echo property set echo
+target
+project
+fail surprise works output ant
+workspace utilitiy project ant
+buildfile build xml
+test
+build successful
+total time seconds
+behavior considered bug
+differentiation targets names implemented
+save dummy target depends case tags
+
+jens

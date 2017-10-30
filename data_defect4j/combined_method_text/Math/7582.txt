@@ -1,0 +1,23 @@
+org apach common math optim fit
+fitter parametr univari real function
+find paramet
+add observ point addobservedpoint
+param weight weight observ point fit
+close
+univari real function depend
+fit
+find paramet valu minim object
+squar problem
+version revis date
+param abscissa point
+observ point
+function sum
+add observ weight point sampl
+fit curv remain close set
+add observ point addobservedpoint weight observ point weightedobservedpoint
+observ getobserv
+observ add weight observ point weightedobservedpoint weight
+unknown paramet
+add observ point addobservedpoint weight
+curv fitter curvefitt
+param observ point fit

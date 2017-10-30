@@ -1,0 +1,18 @@
+org aspectj apach bcel gener
+wrapper class push oper implement bipush
+ldc xconst instruct
+version push java aclement exp
+author href mailto marku dahm berlin dahm
+push
+constructor appli valu type short char byte
+param constant pool
+param push
+push constant pool gen constantpoolgen
+iconst
+instruct instruct constant iconst
+bipush
+instruct bipush
+sipush
+instruct sipush
+fail creat constant pool entri
+instruct ldc add integ addinteg

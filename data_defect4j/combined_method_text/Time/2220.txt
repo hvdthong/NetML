@@ -1,0 +1,21 @@
+author stephen colebourn
+author brian neill o'neil
+reflect intent defin
+millisecond
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+field util fieldutil verifi bound verifyvaluebound date time field type datetimefieldtyp month year monthofyear month year monthofyear max month getmaxmonth year
+field util fieldutil verifi bound verifyvaluebound date time field type datetimefieldtyp dai month dayofmonth dai month dayofmonth dai year month getdaysinyearmonth year month year monthofyear
+abstract implement calendar system typic
+basic chronolog basicchronolog thread safe immut subclass
+year month dai milli getyearmonthdaymilli year month year monthofyear dai month dayofmonth
+org joda time chrono
+param dai month dayofmonth dai
+millisecond date midnight
+param month year monthofyear month
+dai month year leap year leapyear model
+date midnight milli getdatemidnightmilli year month year monthofyear dai month dayofmonth
+author gui allard
+renam base chronolog basegjchronolog
+field util fieldutil verifi bound verifyvaluebound date time field type datetimefieldtyp year year min year getminyear max year getmaxyear
+util method requir subclass
+param year year

@@ -1,0 +1,2 @@
+Support for ZIP extra fields is incomplete
+extra fields can have different contents in CFH and LFH, but we currently only really support the LFH content (because this is what java.util.zip does) - at least we don't parse the CFH content at all.

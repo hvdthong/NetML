@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+pattern parser patternpars
+method parsethisortargetpointcut
+return pointcut
+pointcut pars target pointcut parsethisortargetpointcut string kind
+eat
+type pattern typepattern type pars type pattern parsetypepattern
+eat
+target pointcut thisortargetpointcut kind equal type

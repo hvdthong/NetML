@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+match shadow shadow world world
+suppress lint warn suppresslintwarn world
+ret match shadow world
+clear lint suppress clearlintsuppress world suppress lint kind suppressedlintkind
+ret

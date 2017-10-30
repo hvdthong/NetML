@@ -1,0 +1,51 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+org aspectj org eclips jdt core dom pointcut design pointcutdesign convert org aspectj weaver pattern pointcut pointcut
+ajh02 seper method
+huge elseif elseif thing
+org aspectj org eclips jdt core dom pointcut design pointcutdesign pointcut desi pointcutdesi
+pointcut org aspectj weaver pattern refer pointcut referencepointcut
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom refer pointcut referencepointcut ast
+simpl simplenam pointcut pointcutnam simpl simplenam ast
+start pointcut start getstart
+end retriev identifi end posit retrieveidentifierendposit start pointcut end getend
+pointcut pointcutnam set sourc rang setsourcerang start end start
+pointcut pointcutnam intern set identifi internalsetidentifi org aspectj weaver pattern refer pointcut referencepointcut pointcut
+org aspectj org eclips jdt core dom refer pointcut referencepointcut pointcut desi pointcutdesi set setnam pointcut pointcutnam
+pointcut org aspectj weaver pattern pointcut notpointcut
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom pointcut notpointcut ast
+org aspectj org eclips jdt core dom pointcut design pointcutdesign bodi convert org aspectj weaver pattern pointcut notpointcut pointcut negat pointcut getnegatedpointcut
+org aspectj org eclips jdt core dom pointcut notpointcut pointcut desi pointcutdesi set bodi setbodi bodi
+pointcut org aspectj weaver pattern object perobject
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom object perobject ast
+org aspectj org eclips jdt core dom pointcut design pointcutdesign bodi convert org aspectj weaver pattern object perobject pointcut entri getentri
+org aspectj org eclips jdt core dom object perobject pointcut desi pointcutdesi set bodi setbodi bodi
+pointcut org aspectj weaver pattern cflow percflow
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom cflow percflow ast
+org aspectj org eclips jdt core dom pointcut design pointcutdesign bodi convert org aspectj weaver pattern cflow percflow pointcut entri getentri
+org aspectj org eclips jdt core dom cflow percflow pointcut desi pointcutdesi set bodi setbodi bodi
+pointcut org aspectj weaver pattern type pertypewithin
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom type pertypewithin ast
+set type pattern
+pointcut org aspectj weaver pattern cflow pointcut cflowpointcut
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom cflow pointcut cflowpointcut ast
+org aspectj org eclips jdt core dom pointcut design pointcutdesign bodi convert org aspectj weaver pattern cflow pointcut cflowpointcut pointcut entri getentri
+org aspectj org eclips jdt core dom cflow pointcut cflowpointcut pointcut desi pointcutdesi set bodi setbodi bodi
+org aspectj org eclips jdt core dom cflow pointcut cflowpointcut pointcut desi pointcutdesi set cflow setiscflowbelow org aspectj weaver pattern cflow pointcut cflowpointcut pointcut cflow iscflowbelow
+pointcut org aspectj weaver pattern pointcut andpointcut
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom pointcut andpointcut ast
+org aspectj org eclips jdt core dom pointcut design pointcutdesign left convert org aspectj weaver pattern pointcut andpointcut pointcut left getleft
+org aspectj org eclips jdt core dom pointcut design pointcutdesign convert org aspectj weaver pattern pointcut andpointcut pointcut getright
+org aspectj org eclips jdt core dom pointcut andpointcut pointcut desi pointcutdesi set left setleft left
+org aspectj org eclips jdt core dom pointcut andpointcut pointcut desi pointcutdesi set setright
+pointcut org aspectj weaver pattern pointcut orpointcut
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom pointcut orpointcut ast
+org aspectj org eclips jdt core dom pointcut design pointcutdesign left convert org aspectj weaver pattern pointcut orpointcut pointcut left getleft
+org aspectj org eclips jdt core dom pointcut design pointcutdesign convert org aspectj weaver pattern pointcut orpointcut pointcut getright
+org aspectj org eclips jdt core dom pointcut orpointcut pointcut desi pointcutdesi set left setleft left
+org aspectj org eclips jdt core dom pointcut orpointcut pointcut desi pointcutdesi set setright
+ajh02 default stub make concret pointcutdesign type
+pointcut desi pointcutdesi org aspectj org eclips jdt core dom default pointcut defaultpointcut ast pointcut string tostr
+pointcut desi pointcutdesi set sourc rang setsourcerang pointcut start getstart pointcut end getend pointcut start getstart
+pointcut desi pointcutdesi

@@ -1,0 +1,10 @@
+version
+base manag common boilerpl integr
+equat equat
+set differenti equat
+comput deriv computederiv
+abstract integr abstractintegr order integr firstorderintegr
+param equat differenti equat integr
+set equat setequ order differenti equat firstorderdifferentialequ equat
+version revis date
+org apach common math od

@@ -1,0 +1,17 @@
+org aspectj util
+file util fileutil
+param inputstream sourc read
+param outputstream sink write
+param tryclosingstream true close stream
+param sleep millisecond delai read pin minut
+pipe
+input stream inputstream
+output stream outputstream
+sleep
+close input closeinput
+close output closeoutput
+lang util langutil throw iax null throwiaxifnul
+lang util langutil throw iax null throwiaxifnul
+close input closeinput close input closeinput
+close output closeoutput close output closeoutput
+sleep math min math max sleep

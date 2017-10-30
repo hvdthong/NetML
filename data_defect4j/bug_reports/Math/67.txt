@@ -1,0 +1,1 @@
+method getresult multistartunivariaterealoptimizer multistartunivariaterealoptimizer package optimization method getresult returns result run underlying optimizer result case correspond returned optimize method confusing getresult defined public double getresult return optima similarly public double getfunctionvalue return optimavalues

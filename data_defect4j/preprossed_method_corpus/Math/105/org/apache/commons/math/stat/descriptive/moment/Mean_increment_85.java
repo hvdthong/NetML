@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript moment
+
+
+
+
+
+
+
+return arithmet valu definit
+formula
+
+sum
+
+code code number observ
+
+statist comput recurs
+updat algorithm
+
+
+initi code code
+addit updat
+code number observ code
+
+
+return code doubl nan code dataset empti
+
+strong note implement strong
+multipl thread access instanc concurr
+thread invok code increment code
+code clear code method extern
+
+version revis date
+
+abstract storeless univari statist abstractstorelessunivariatestatist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math stat descript storeless univari statist storelessunivariatestatist increment
+
+increment
+moment incmoment
+moment increment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

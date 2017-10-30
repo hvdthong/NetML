@@ -1,0 +1,5 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+object accept pattern node visitor patternnodevisitor visitor object data
+visitor visit data

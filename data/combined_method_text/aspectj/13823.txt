@@ -1,0 +1,23 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+creat arrai size type
+return instruct creat arrai runtim allocationinstruct
+instruct creat arrai createnewarrai type dim
+dim
+object type objecttyp
+anewarrai add class addclass object type objecttyp
+arrai type arraytyp
+anewarrai add arrai class addarrayclass arrai type arraytyp
+newarrai basic type basictyp type gettyp
+arrai type arraytyp
+arrai type arraytyp
+arrai type arraytyp
+arrai type arraytyp dim
+multianewarrai add arrai class addarrayclass dim

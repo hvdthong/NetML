@@ -1,0 +1,23 @@
+author stephen colebourn
+data code period type periodtyp code code code
+base period baseperiod durat
+dummi period object time type
+org joda time base
+author brian neill o'neil
+calcul period type period object bad design
+iso rule ensur calcul perform time period type
+valu iso chronolog isochronolog instanc utc getinstanceutc dummi period durat
+base period baseperiod implement readabl period readableperiod store
+type ityp period type periodtyp standard
+valu ivalu
+param durat durat millisecond
+creat period millisecond durat standard period type
+base period baseperiod subclass mutabl thread safe
+system arraycopi valu valu ivalu
+bug
+calcul hour minut millisecond field
+kind period object referenc
+link readabl period readableperiod
+durat
+base period baseperiod
+gener directli api user

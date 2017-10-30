@@ -1,0 +1,8 @@
+org aspectj intern tool ant taskdef
+check version sourc file build version
+ensur tag file reflect
+version uptod versionuptod task
+param versionsourc file version java text constant
+requir
+set version sourc file setversionsourcefil file version sourc versionsourc
+version sourc versionsourc version sourc versionsourc

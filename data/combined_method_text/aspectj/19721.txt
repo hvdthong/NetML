@@ -1,0 +1,10 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv member resolvedmemb lookup member super lookupmemberwithsupersanditd member member
+resolv member resolvedmemb ret lookup member super lookupmembernosup member
+ret ret
+resolv type resolvedtyp supert superclass getsuperclass
+ret supert
+ret supert lookup member super lookupmembernosup member
+ret supert supert superclass getsuperclass
+ret

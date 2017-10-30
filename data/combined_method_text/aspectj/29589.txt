@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+author colyer
+repres type variabl declar part type declar paramet declar
+type paramet specif
+genericmethod
+static extend foo staticgenericmethod
+foo extend bar amp igoo
+type variabl typevari pattern node patternnod
+resolv type resolvedtypex resolv type resolvedtyp
+unsupport oper except unsupportedoperationexcept implement resolvedtypex typevari
+return resolvedtyp

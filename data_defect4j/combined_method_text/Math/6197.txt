@@ -1,0 +1,16 @@
+simpl constructor
+param refer integr arrai hold state
+end step
+param forward integr direct indic
+recomput state link abstract step interpol abstractstepinterpol set interpol time setinterpolatedtim
+dummi step interpol dummystepinterpol
+set interpol time setinterpolatedtim call impli interpol state
+state end current step
+step interpol
+link step handler stephandl step handler
+set user step interpol
+version revis date
+forward
+org apach common math od
+dummi step interpol dummystepinterpol forward
+step handler stephandl

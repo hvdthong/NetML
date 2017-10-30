@@ -1,0 +1,16 @@
+org aspectj weaver reflect
+author colyer
+creat reflectionbasedreferencetypedeleg
+level run reflect avoid depend
+code base
+reflect base refer type deleg factori reflectionbasedreferencetypedelegatefactori
+convert java lang reflect member resolv member world
+param reflectmemb
+param inworld
+return
+resolv member resolvedmemb creat resolv member createresolvedmemb member reflect member reflectmemb world world inworld
+reflect member reflectmemb method
+creat resolv method createresolvedmethod method reflect member reflectmemb world inworld
+reflect member reflectmemb constructor
+creat resolv constructor createresolvedconstructor constructor reflect member reflectmemb world inworld
+creat resolv field createresolvedfield field reflect member reflectmemb world inworld

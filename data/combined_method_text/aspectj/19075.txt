@@ -1,0 +1,7 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+compat iscompatiblewith member
+kind method kind getkind method
+equal getnam
+equal type equaltyp paramet type getparametertyp paramet type getparametertyp
+return type getreturntyp equal return type getreturntyp

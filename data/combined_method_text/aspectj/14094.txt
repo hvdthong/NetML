@@ -1,0 +1,24 @@
+org aspectj apach bcel gener
+abstract super class instruct deal local variabl
+version localvariableinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+local variabl instruct localvariableinstruct instruct
+return type instruct
+case aload astor type object return
+bit incorrect aload astor
+work referencetyp includ type null
+astor work returnaddresstyp
+return type instruct
+type type gettyp constant pool gen constantpoolgen
+canon tag
+constant iload constant istor
+type int
+constant lload constant lstore
+type long
+constant dload constant dstore
+type doubl
+constant fload constant fstore
+type float
+constant aload constant astor
+type object
+class gen except classgenexcept oop unknown case switch canon tag

@@ -1,0 +1,11 @@
+org aspectj weaver loadtim
+class add support aspectj osgi environ
+author david knibb
+weav context iweavingcontext
+return true classload weav context
+defin class
+deleg classload hierarchi check parent
+defin child osgi
+param classnam class java lang string
+return true classload defin class
+local defin islocallydefin string classnam

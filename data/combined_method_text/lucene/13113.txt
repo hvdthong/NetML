@@ -1,0 +1,4 @@
+org apach lucen index
+segment term posit segmenttermposit
+skip posit skipposit except ioexcept
+int skip unread posit

@@ -1,0 +1,11 @@
+deprec remov
+org apach common math3 stat cluster
+param point point add
+add point cluster
+add point addpoint point
+cluster hold set link cluster point
+link org apach common math3 cluster cluster
+version
+param type point cluster
+point add point
+cluster cluster serializ

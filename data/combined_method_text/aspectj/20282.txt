@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+dynam test hasdynamictest
+hasextraparamet getkind advicekind afterreturn
+unresolvedtyp extraparametertyp getextraparametertyp
+extraparametertyp equal unresolvedtyp object
+extraparametertyp isprimit
+return true
+pointcut test pointcuttest
+pointcut test pointcuttest liter true pointcuttest liter true pointcuttest liter test

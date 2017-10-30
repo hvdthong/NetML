@@ -1,0 +1,59 @@
+recurs build tree insert cut hyperplan
+insert node getnod
+exclud edg belong cell defin node
+insert split point hyperplan
+minu list minuslist empti isempti
+minu
+param node current tree node leaf node begin
+start offset startoffset insert line getlin offset getoffset edg start getstart locat getloc
+set insid indic
+belong hyperplan slab
+list edg edg
+param hyperplan thick hyperplanethick toler point
+list pluslist add split point splitpoint outgo getoutgo
+node insert cut insertcut insert line getlin
+bsp tree bsptree euclidean2 euclidean2d node
+index
+vertex split point splitpoint edg split insert line getlin
+side end side endsid fast math fastmath ab end offset endoffset hyperplan thick hyperplanethick
+end side endsid side minu
+node minu getminu set attribut setattribut boolean true
+list pluslist empti isempti
+insert edg index
+edg edg edg
+insert edg insertedg hyperplan thick hyperplanethick
+version
+call
+insert edg insertedg hyperplan thick hyperplanethick node getplu list pluslist
+edg insert
+start side startsid
+node getplu set attribut setattribut boolean fals
+list edg list pluslist arrai list arraylist edg
+repres region set polygon
+suitabl edg found node remain leaf node
+split node insert edg cut hyperplan
+end offset endoffset insert line getlin offset getoffset edg end getend locat getloc
+side start side startsid fast math fastmath ab start offset startoffset hyperplan thick hyperplanethick
+node set attribut setattribut boolean true
+list pluslist add edg
+distribut remain edg tree
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+parent node parent minu getminu
+list pluslist add split point splitpoint incom getincom
+side hyper start offset startoffset side minu side
+org apach common math3 geometri euclidean twod
+insert edg insertedg hyperplan thick hyperplanethick node minu getminu minu list minuslist
+insert
+recurs lower level
+minu list minuslist add split point splitpoint outgo getoutgo
+bsp tree bsptree euclidean2 euclidean2d parent node parent getpar
+minu list minuslist add edg
+end side endsid side
+insert set node setnod node
+side hyper end offset endoffset side minu side
+find edg hyperplan insert node
+insert index edg size
+list edg minu list minuslist arrai list arraylist edg
+minu list minuslist add split point splitpoint incom getincom
+param edg list edg insert cell defin node
+node set attribut setattribut boolean fals

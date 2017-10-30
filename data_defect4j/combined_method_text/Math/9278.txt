@@ -1,0 +1,20 @@
+pre
+varianc
+valid sampl data validatesampledata
+gl assum gener covari matrix omega error
+valid covari data validatecovariancedata covari
+estim gl
+gl implement multipl linear regress
+sampl data newxsampledata
+replac sampl data overrid previou sampl
+param covari arrai repres covari matrix
+param valu sampl
+var omega
+sampl data newsampledata covari
+omega omega 1x'omega
+version revis date
+org apach common math stat regress
+omega
+sampl data newysampledata
+covari data newcovariancedata covari
+gl multipl linear regress glsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress

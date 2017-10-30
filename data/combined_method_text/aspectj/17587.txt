@@ -1,0 +1,16 @@
+org aspectj tool ajbrows
+respons control editor
+todo remov coupl code basiceditor code
+author mik kersten
+editor manag editormanag
+todo remov instanceof ajdemanag hack
+show sourc line showsourcelin string file path filepath line number linenumb highlight
+editor size
+editor box remov removeal
+editor box add basic editor basiceditor panel getpanel
+ajdeuimanag getdefault getideuiadapt resetgui
+editor remov element removeallel
+editor add basic editor basiceditor
+basic editor basiceditor
+basic editor basiceditor show sourc line showsourcelin file path filepath line number linenumb highlight
+editor show sourc line showsourcelin file path filepath line number linenumb highlight

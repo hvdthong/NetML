@@ -1,0 +1,60 @@
+powel algorithm
+code translat adapt python version
+real point pair realpointvaluepair current real point pair realpointvaluepair val fval
+inherit doc inheritdoc
+set point direct setnewpointanddirect direc1 alpha min alphamin
+set converg checker setconvergencecheck converg checker convergencecheck converg checker convergencecheck
+direc
+line search
+goal type goaltyp goal goal type getgoaltyp
+alpha min alphamin line optimum getoptimum
+optim except optimizationexcept
+fx2 comput object computeobjectivevalu
+guess start point getstartpoint
+temp val fval delta
+result point direct newpointanddirect alpha min alphamin
+guess
+real point pair realpointvaluepair previou real point pair realpointvaluepair
+direc big ind bigind direc ind lastind
+arrai copi copyof direc
+org apach common math optim gener
+temp temp
+iter
+increment iter counter incrementiterationscount
+delta fx2 val fval
+direc1
+delta temp temp
+version revis date
+alpha min alphamin optimum point getpoint
+val fval current previou
+big ind bigind
+user respons call link
+val fval line optimum getvalueatoptimum
+fx2 val fval
+val fval
+fx2 val fval delta
+clone
+sci scipi
+prior optim
+goal goal type goaltyp minim
+temp fx2
+delta
+converg checker getconvergencecheck converg iter previou current
+alpha min alphamin
+converg checker getconvergencecheck converg iter getiter previou current
+function evalu except functionevaluationexcept
+direc1 direc
+algorithm implement modul code optim
+val fval comput object computeobjectivevalu
+direc ind lastind result
+ind lastind
+guess length
+powel optim powelloptim
+real point pair realpointvaluepair optim dooptim
+fx2
+line search direc1
+overrid
+val fval optimum getvalu
+direc ind lastind direc1
+univari real point pair univariaterealpointvaluepair optimum line search
+result

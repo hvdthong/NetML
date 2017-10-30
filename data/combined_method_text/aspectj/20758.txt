@@ -1,0 +1,12 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+add aspect addifaspect byte string list list tolist except ioexcept
+class parser classpars parser class parser classpars byte arrai input stream bytearrayinputstream byte
+java class javaclass parser pars
+resolv type resolvedtyp type world add sourc object type addsourceobjecttyp resolv type getresolvedtypex
+string type typenam type getnam replac file separ char separatorchar
+end index indexof type typenam
+string binari path binarypath substr end
+type set binari path setbinarypath binari path binarypath
+type aspect isaspect
+list tolist add type

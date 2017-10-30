@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+member make field join point signatur makefieldjoinpointsignatur lazi class gen lazyclassgen field instruct fieldinstruct
+constant pool gen constantpoolgen cpg constant pool gen getconstantpoolgen
+member impl memberimpl field
+class getclassnam cpg
+getstat putstat
+modifi static
+getnam cpg
+signatur getsignatur cpg

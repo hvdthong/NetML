@@ -1,0 +1,89 @@
+org aspectj bridg
+conveni api' construct print send messag
+messag util messageutil
+render messag line
+imessag kind print unqualifi except class
+remaind text locat rel scale
+fit max charact
+render thrown unqualifi class
+param max number charact forc
+param textscal rel proport spend messag except
+messag rel sourc locat messag suppress
+param locscal rel proport spend sourc locat
+suppress
+return imessag null messag spec
+string render messag line rendermessagelin
+messag imessag messag
+text scale textscal
+loc scale locscal
+max
+messag
+imessag null
+max
+max
+max
+max
+text scale textscal
+text scale textscal text scale textscal
+loc scale locscal
+loc scale locscal loc scale locscal
+string text messag messag getmessag
+throwabl thrown messag thrown getthrown
+sourc locat isourceloc messag sourc locat getsourceloc
+messag imessag kind kind messag kind getkind
+string buffer stringbuff result string buffer stringbuff
+result append kind string tostr
+result append
+thrown
+result append lang util langutil unqualifi class unqualifiedclassnam thrown
+text equal text
+text thrown messag getmessag
+text scale textscal
+text
+text thrown
+decid messag except text
+string thrown messag getmessag
+length
+text
+string loc
+loc scale locscal
+file sourc file getsourcefil
+sourc locat isourceloc file file
+loc getnam
+line line getlin
+col column getcolumn
+end end line getendlin
+line col end
+ignor number default
+loc line col col
+line end line end xxx suppress nonstandard
+loc end
+lang util langutil empti isempti loc
+loc loc loc loc match ad clip
+budget text loc
+total scale totalscal loc scale locscal text scale textscal
+remaind max result length
+remaind total scale totalscal
+text size textsiz remaind text scale textscal total scale totalscal
+loc size locsiz remaind loc scale locscal total scale totalscal
+adjust underutil
+extra loc size locsiz loc length
+extra
+loc size locsiz loc length
+text size textsiz extra
+extra text size textsiz text length
+extra
+text size textsiz text length
+loc size locsiz loc length
+loc size locsiz extra
+loc size locsiz loc length
+loc size locsiz loc length
+text size textsiz text length
+text size textsiz text length
+text size textsiz
+result append text substr text size textsiz
+loc size locsiz
+text size textsiz
+result append
+result append loc substr loc size locsiz
+result string tostr

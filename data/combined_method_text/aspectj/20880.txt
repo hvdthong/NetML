@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+input stream inputstream input stream getinputstream except ioexcept
+zip file zipfil zip file getzipfil input stream getinputstream entri

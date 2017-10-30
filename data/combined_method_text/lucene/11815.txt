@@ -1,0 +1,21 @@
+org apach lucen index
+format post field writer formatpostingsfieldswrit format post field consum formatpostingsfieldsconsum
+format post field writer formatpostingsfieldswrit segment write state segmentwritest state field info fieldinfo field info fieldinfo except ioexcept
+dir state directori
+segment state segment segmentnam
+total num doc totalnumdoc state num doc numdoc
+field info fieldinfo field info fieldinfo
+term termsout term info writer terminfoswrit dir
+segment
+field info fieldinfo
+state term index interv termindexinterv
+todo nasti abstract violat
+peek find freqout proxout
+abstract child consum
+provid skip data
+skip list writer skiplistwrit default skip list writer defaultskiplistwrit term termsout skip interv skipinterv
+term termsout max skip level maxskiplevel
+total num doc totalnumdoc
+state flush file flushedfil add state segment file segmentfilenam index file name indexfilenam term extens term extens
+state flush file flushedfil add state segment file segmentfilenam index file name indexfilenam term index extens term index extens
+term writer termswrit format post term writer formatpostingstermswrit state

@@ -1,0 +1,22 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+gener singleton aspect method generatepersingletonaspectofmethod lazi class gen lazyclassgen class gen classgen
+instruct factori instructionfactori factori class gen classgen factori getfactori
+lazi method gen lazymethodgen method make method gen makemethodgen class gen classgen ajc member maker ajcmembermak singleton aspect method persingletonaspectofmethod aspect type aspecttyp
+flag synthet flagassynthet method
+class gen classgen add method gen addmethodgen method
+instruct list instructionlist method bodi getbodi
+append util creat createget factori ajc member maker ajcmembermak singleton field persingletonfield aspect type aspecttyp
+branch instruct branchinstruct null ifnotnul instruct factori instructionfactori creat branch instruct createbranchinstruct constant ifnonnul
+append null ifnotnul
+append factori creat createnew ajc member maker ajcmembermak aspect bound except aspect bound except getnam
+append instruct constant instructionconst dup
+append push class gen classgen constant pool gen getconstantpoolgen aspect type aspecttyp getnam
+append util creat createget factori ajc member maker ajcmembermak init failur field initfailurecausefield aspect type aspecttyp
+append factori creat invok createinvok ajc member maker ajcmembermak aspect bound except aspect bound except getnam init type void type type string object type objecttyp java lang throwabl constant invokespeci
+append instruct constant instructionconst athrow
+instruct handl instructionhandl ifels append util creat createget factori ajc member maker ajcmembermak singleton field persingletonfield aspect type aspecttyp
+append instruct factori instructionfactori creat return createreturn type object
+null ifnotnul set target settarget ifels

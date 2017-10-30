@@ -1,0 +1,11 @@
+org aspectj tool ajbrows core
+ajbrows implement icompilerconfigur return
+getclasspath getjavaoptionsmap getnonstandardopt
+getoutputlocationmanag null reason
+return getprojectsourcefil lst file record
+need build buildconfigmanag
+browser compil configur browsercompilerconfigur compil configur icompilerconfigur
+output locat manag ioutputlocationmanag output locat manag getoutputlocationmanag
+locat manag locationmanag
+locat manag locationmanag browser output locat manag browseroutputlocationmanag prefer adapt preferencesadapt
+locat manag locationmanag

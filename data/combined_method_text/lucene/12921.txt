@@ -1,0 +1,17 @@
+org apach lucen index
+segmentmerg class combin segment repres indexread link add
+singl segment ad reader call merg method combin
+segment
+compoundfil flag set segment merg compound file
+merg
+add
+segment merger segmentmerg
+segment merger segmentmerg index writer indexwrit writer string merg polici mergepolici merg onemerg merg
+directori writer directori getdirectori
+segment
+merg
+check abort checkabort check abort checkabort merg directori
+check abort checkabort check abort checkabort
+overrid
+work unit merg abort except mergeabortedexcept
+term index interv termindexinterv writer config getconfig term index interv gettermindexinterv

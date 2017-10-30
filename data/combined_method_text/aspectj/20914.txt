@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+pointcut
+finder iffind ident pointcut visitor identitypointcutvisitor
+object visit pointcut ifpointcut node object data
+node fals alwaysfals node true alwaystru
+iffals iftru
+hasif
+node

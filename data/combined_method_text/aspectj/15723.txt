@@ -1,0 +1,19 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+match program element iprogramel node string sourc file path sourcefilepath line number linenumb set offset
+node null node getsourceloc null
+system err println
+sourcefilepath
+node getsourceloc getsourcefil getcanonicalpath equal sourcefilepath
+node
+node sourc locat getsourceloc
+node sourc locat getsourceloc sourc file getsourcefil absolut path getabsolutepath equal sourc file path sourcefilepath
+set offset node sourc locat getsourceloc offset getoffset set offset
+set offset
+node sourc locat getsourceloc line getlin line number linenumb
+node sourc locat getsourceloc end line getendlin line number linenumb
+line number linenumb
+node kind getkind sourc file issourcefil
+catch ioexcept ioe
+return fals

@@ -1,0 +1,5 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb singleton aspect method persingletonhasaspectmethod unresolv type unresolvedtyp declar type declaringtyp
+resolv member impl resolvedmemberimpl member method
+declar type declaringtyp public static public static hasaspect

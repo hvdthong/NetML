@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+check resolv member field method ctor annot
+put warn return true
+annot doesalreadyhaveannot resolv member resolvedmemb declar annot declareannot deca list report problem reportedproblem
+annot hasannot deca annot type getannotationtypex
+world lint getlint element annot elementalreadyannot enabl isen
+integ uniqu uniqueid integ hash code hashcod deca hash code hashcod
+report problem reportedproblem uniqu uniqueid
+report problem reportedproblem add uniqu uniqueid
+world lint getlint element annot elementalreadyannot signal
+string string tostr deca annot type getannotationtypex string tostr
+sourc locat getsourceloc sourc locat isourceloc deca sourc locat getsourceloc

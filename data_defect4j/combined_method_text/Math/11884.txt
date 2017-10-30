@@ -1,0 +1,20 @@
+function
+pre
+gaussian curv fitter gaussiancurvefitt abstract curv fitter abstractcurvefitt levenberg marquardt optim levenbergmarquardtoptim
+paramet gaussian curv fitter gaussiancurvefitt creat fit ob
+optim valu return order
+normal
+org apach common math3 analysi function gaussian parametr gaussian
+usag
+inherit doc inheritdoc
+fit point link
+org apach common math3 fit
+gaussian curv fitter gaussiancurvefitt initi guess initialguess
+weight observ point weightedobservedpoint ob weight observ point weightedobservedpoint
+version
+max
+link start point withstartpoint initi guess valu pass
+gaussian curv fitter gaussiancurvefitt max iter withmaxiter max
+sigma
+order
+ob add

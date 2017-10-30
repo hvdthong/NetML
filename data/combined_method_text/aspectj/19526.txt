@@ -1,0 +1,8 @@
+org aspectj weaver
+resolv pointcut definit resolvedpointcutdefinit resolv member impl resolvedmemberimpl
+write data output stream dataoutputstream except ioexcept
+declar type getdeclaringtyp write
+write int writeint modifi getmodifi
+write utf writeutf getnam
+unresolv type unresolvedtyp write arrai writearrai paramet type getparametertyp
+pointcut write

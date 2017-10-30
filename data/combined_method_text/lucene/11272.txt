@@ -1,0 +1,12 @@
+org apach lucen index
+implement skip list reader default post list format
+store posit payload
+default skip list reader defaultskiplistread multi level skip list reader multilevelskiplistread
+init skip pointer skippoint freq base pointer freqbasepoint prox base pointer proxbasepoint store payload storespayload
+init skip pointer skippoint
+current field store payload currentfieldstorespayload store payload storespayload
+freq pointer lastfreqpoint freq base pointer freqbasepoint
+prox pointer lastproxpoint prox base pointer proxbasepoint
+arrai fill freq pointer freqpoint freq base pointer freqbasepoint
+arrai fill prox pointer proxpoint prox base pointer proxbasepoint
+arrai fill payload length payloadlength

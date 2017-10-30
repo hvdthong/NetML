@@ -1,0 +1,9 @@
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+param func type function solv
+version
+solv max eval maxev doubl nan doubl nan start startvalu
+solver
+solv max eval maxev func start startvalu
+inherit doc inheritdoc
+provid implement function gener
+org apach common math analysi solver

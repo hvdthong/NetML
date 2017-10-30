@@ -1,0 +1,44 @@
+version
+provid deriv polynomi compon
+coeff valuecoeff field getfield geton
+deriv length
+valu vector polynomi degre degre
+interpol deriv row
+delta deltax subtract abscissa
+math arrai matharrai build arrai buildarrai field getfield order
+org apach common math3 analysi interpol
+coeff valuecoeff math arrai matharrai build arrai buildarrai field getfield order
+interpol deriv abscissa
+abscissa empti isempti
+add
+deriv row deriv row
+polynomi interpol sampl valu sampl deriv
+field getfield geton
+param interpol abscissa
+divid differ divideddiffer top diagon topdiagon
+coeff valuecoeff coeff valuecoeff multipli delta deltax
+interpol polynomi sampl point
+field getfield getzero
+field hermit interpol fieldhermiteinterpol field element fieldel
+deriv
+remain point degre
+param type field element
+polynomi depend number point number deriv
+math util mathutil check null checknotnul
+deriv order data except nodataexcept
+point interpol polynomi sampl point
+except data except nodataexcept sampl empti
+deriv add divid differ divideddiffer multipli coeff valuecoeff
+deriv point degre
+sampl point extrem point deriv
+safeti check
+param order maximum deriv order
+math arrai matharrai build arrai buildarrai field getfield order top diagon topdiagon length
+coeff valuecoeff coeff valuecoeff add multipli coeff valuecoeff
+deriv degre interpol polynomi
+interpol polynomi match sampl point includ valu
+deriv order data except nodataexcept null argument except nullargumentexcept
+top diagon topdiagon size
+order
+data except nodataexcept local format localizedformat empti interpol sampl
+null argument except nullargumentexcept

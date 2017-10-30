@@ -1,0 +1,11 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+list list string str mapper mapper
+str collect empti list empti list
+list list arrai list arraylist
+string token stringtoken string token stringtoken str
+token hasmoretoken
+list add mapper map token nexttoken trim
+list

@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+creation type pattern wildtypepattern node bindingtyp exacttyp
+call resolvebind compil
+concret enclos pointcut call remapadviceform
+author erik hilsdal
+author jim hugunin
+type pattern typepattern pattern node patternnod
+includ subtyp isincludesubtyp
+includ subtyp includesubtyp

@@ -1,0 +1,24 @@
+pre
+initi guess initialguess initi guess initialguess
+max iter maxit
+org apach common math3 fit
+param initi guess initialguess initi guess set code initi guess
+ob add
+optim valu return order
+org apach common math3 analysi function gaussian parametr gaussian
+fit point link
+weight observ point weightedobservedpoint ob weight observ point weightedobservedpoint
+version
+order
+function
+normal
+usag
+max iter maxit max iter maxit
+link start point withstartpoint initi guess valu pass
+param max iter maxit maximum number iter optim algorithm
+gaussian curv fitter gaussiancurvefitt initi guess initialguess
+gaussian curv fitter gaussiancurvefitt abstract curv fitter abstractcurvefitt levenberg marquardt optim levenbergmarquardtoptim
+paramet gaussian curv fitter gaussiancurvefitt creat fit ob
+contructor factori method
+sigma
+estim link paramet guesser parameterguess

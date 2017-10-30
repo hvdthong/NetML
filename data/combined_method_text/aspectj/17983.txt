@@ -1,0 +1,33 @@
+org aspectj tool ant taskdef compil
+ajc compileradapt
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef ajc
+ajc default compil adapt defaultcompileradapt
+invok ajc compil reflect
+param cline command line pass compil
+return true good compil fals
+throw org apach tool ant buildexcept
+compil commandlin cline build except buildexcept
+print stream printstream err system err
+print stream printstream system
+class main class fornam main class main class
+main
+class found except classnotfoundexcept main class main class
+print stream printstream logstr
+print stream printstream log output stream logoutputstream attribut
+project msg warn msg warn
+system set setout logstr
+system set err seterr logstr
+integ main method getmethod
+compil class string invok
+main instanc newinst object
+remov unsupport removeunsupport cline logstr
+int intvalu ajc compil success ajc compil success
+except
+build except buildexcept
+build except buildexcept
+build except buildexcept error start ajc compil
+locat
+system set err seterr err
+system set setout

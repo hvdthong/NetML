@@ -1,0 +1,25 @@
+pre
+millisecond instant
+link readabl instant readableinst
+author stephen colebourn
+date time field datetimefield field
+kind date time object referenc
+org joda time base
+author brian neill o'neil
+abstract instant abstractinst thread safe immut subclass
+abstract instant abstractinst common behaviour instant class
+implement code readabl instant readableinst code
+field
+field milli getmilli
+mutabl thread safe
+abstract instant abstractinst readabl instant readableinst
+extend
+year gjyear chronolog coptic getcopt year
+illeg argument except illegalargumentexcept field
+concept chronolog method work
+field datetim
+instant instant
+param field date time field datetimefield
+gener directli api user
+field chronolog
+illeg argument except illegalargumentexcept date time field datetimefield

@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+advic declar advicedeclar compil result compilationresult result advic kind advicekind kind
+result
+return type returntyp type refer typerefer base type refer basetyperefer void
+kind kind

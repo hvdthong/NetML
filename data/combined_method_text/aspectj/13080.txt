@@ -1,0 +1,15 @@
+org aspectj apach bcel gener
+athrow throw except
+pre stack objectref objectref pre
+version athrow java aclement exp
+author href mailto marku dahm berlin dahm
+athrow instruct uncondit branch unconditionalbranch except thrower exceptionthrow
+call visitor method order
+call visitor method implement interfac
+call method class hierarchi descend order
+specif visitxxx call
+param visitor object
+accept visitor
+visit uncondit branch visitunconditionalbranch
+visit except thrower visitexceptionthrow
+visit athrow visitathrow

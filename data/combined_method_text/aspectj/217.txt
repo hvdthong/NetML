@@ -1,0 +1,219 @@
+org aspectj tool ajbrows swing
+standalon oper
+author mik kersten
+top frame topfram frame jframe
+init jbinit except
+border8 border factori borderfactori creat compound border createcompoundbord border factori borderfactori
+creat etch border createetchedbord color white color
+border factori borderfactori creat empti border createemptybord
+empti border emptybord border factori borderfactori creat empti border createemptybord
+menu1 jmenu1 set font setfont java awt font dialog
+menu1 jmenu1 set text settext file
+menu1 jmenu1 set mnemon setmnemon kei event keyev
+menu2 jmenu2 set font setfont java awt font dialog
+menu2 jmenu2 set text settext project
+menu2 jmenu2 set mnemon setmnemon kei event keyev
+project build menu item projectbuild menuitem set font setfont java awt font dialog
+project build menu item projectbuild menuitem set text settext build
+project build menu item projectbuild menuitem set mnemon setmnemon kei event keyev
+project build menu item projectbuild menuitem set acceler setacceler kei stroke keystrok kei stroke getkeystrok
+kei event keyev action event actionev alt mask alt mask
+project build menu item projectbuild menuitem
+add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+project build menu item action perform projectbuild menuitem actionperform
+left flow layout left flowlayout set align setalign flow layout flowlayout left
+menu item1 jmenuitem1 set font setfont java awt font dialog
+menu item1 jmenuitem1 set text settext save
+menu item1 jmenuitem1 set mnemon setmnemon kei event keyev
+menu item1 jmenuitem1 set acceler setacceler kei stroke keystrok kei stroke getkeystrok kei event keyev
+action event actionev alt mask alt mask
+menu item1 jmenuitem1 add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+menu item1 action perform jmenuitem1 actionperform
+exit menu item exit menuitem set font setfont java awt font dialog
+exit menu item exit menuitem set text settext exit
+exit menu item exit menuitem add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+exit menu item action perform exit menuitem actionperform
+top split pane top splitpan set prefer size setpreferreds dimens
+top split pane top splitpan set divid size setdividers
+content pane getcontentpan set layout setlayout border layout3 borderlayout3
+project run menu item projectrun menuitem set enabl seten
+project run menu item projectrun menuitem set font setfont java awt font dialog
+project run menu item projectrun menuitem set text settext run
+project run menu item projectrun menuitem
+set tool tip text settooltiptext run hold shift run separ process
+project run menu item projectrun menuitem set mnemon setmnemon kei event keyev
+project run menu item projectrun menuitem set acceler setacceler kei stroke keystrok kei stroke getkeystrok
+kei event keyev action event actionev alt mask alt mask
+project run menu item projectrun menuitem
+add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+project run menu item action perform projectrun menuitem actionperform
+project run menu item projectrunoth menuitem set enabl seten
+project run menu item projectrunoth menuitem set font setfont java awt font dialog
+project run menu item projectrunoth menuitem set text settext run separ process
+project run menu item projectrunoth menuitem set mnemon setmnemon kei event keyev
+project run menu item projectrunoth menuitem set acceler setacceler kei stroke keystrok kei stroke getkeystrok
+kei event keyev action event actionev alt mask alt mask
+project run menu item projectrunoth menuitem
+add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+project run menu item action perform projectrunoth menuitem actionperform
+statu text label statustext label set font setfont java awt font dialog
+statu text label statustext label set border setbord border factori borderfactori creat lower bevel border createloweredbevelbord
+statu text label statustext label set maximum size setmaximums dimens
+statu text label statustext label set prefer size setpreferreds dimens
+statu panel set layout setlayout border layout4 borderlayout4
+add window listen addwindowlisten java awt event window adapt windowadapt
+window close windowclos window event windowev
+window close windowclos
+window close windowclos window event windowev
+window close windowclos
+toolbar panel set layout setlayout border layout5 borderlayout5
+split pane splitpan set orient setorient split pane jsplitpan vertic split vertic split
+split pane splitpan set border setbord
+split pane splitpan set divid size setdividers
+tool menu set font setfont java awt font dialog
+tool menu set text settext tool
+tool menu set mnemon setmnemon kei event keyev
+project debug menu item projectdebug menuitem set enabl seten
+project debug menu item projectdebug menuitem set font setfont java awt font dialog
+project debug menu item projectdebug menuitem set text settext debug
+properti menu item svproperti menuitem
+add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+properti menu item action perform svproperti menuitem actionperform
+properti menu item svproperti menuitem set text settext option
+properti menu item svproperti menuitem set action command setactioncommand ajd consol
+properti menu item svproperti menuitem set font setfont java awt font dialog
+properti menu item svproperti menuitem set mnemon setmnemon kei event keyev
+properti menu item svproperti menuitem set acceler setacceler kei stroke keystrok kei stroke getkeystrok
+kei event keyev action event actionev alt mask alt mask
+build tool bar build toolbar set border setbord empti border emptybord
+build tool bar build toolbar set floatabl setfloat
+close config button closeconfig button set maximum size setmaximums dimens
+close config button closeconfig button set enabl seten
+close config button closeconfig button set font setfont java awt font dialog
+close config button closeconfig button set border setbord
+close config button closeconfig button set minimum size setminimums dimens
+close config button closeconfig button set prefer size setpreferreds dimens
+close config button closeconfig button set tool tip text settooltiptext close build configur
+close config button closeconfig button set icon seticon ajd default getdefault icon registri geticonregistri
+close config icon getcloseconfigicon
+close config button closeconfig button
+add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+close config button action perform closeconfig button actionperform
+open config button openconfig button set maximum size setmaximums dimens
+open config button openconfig button set enabl seten
+open config button openconfig button set font setfont java awt font dialog
+open config button openconfig button set border setbord
+open config button openconfig button set minimum size setminimums dimens
+open config button openconfig button set prefer size setpreferreds dimens
+open config button openconfig button set tool tip text settooltiptext select build configur
+open config button openconfig button set icon seticon ajd default getdefault icon registri geticonregistri
+open config icon getopenconfigicon
+open config button openconfig button
+add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+open config button action perform openconfig button actionperform
+run button set maximum size setmaximums dimens
+run button set enabl seten
+run button set font setfont java awt font dialog
+run button set border setbord
+run button set minimum size setminimums dimens
+run button set prefer size setpreferreds dimens
+run button
+set tool tip text settooltiptext run hold shift run separ process
+run button set icon seticon ajd default getdefault icon registri geticonregistri
+execut icon getexecuteicon
+run button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+run button action perform run button actionperform
+project tool bar project toolbar set border setbord empti border emptybord
+save button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+save button action perform save button actionperform
+save button set icon seticon ajd default getdefault icon registri geticonregistri
+save icon getsaveicon
+save button set text settext save
+save button set tool tip text settooltiptext save
+save button set prefer size setpreferreds dimens
+save button set minimum size setminimums dimens
+save button set font setfont java awt font dialog
+save button set border setbord
+save button set maximum size setmaximums dimens
+option button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+option button action perform option button actionperform
+option button set icon seticon ajd default getdefault icon registri geticonregistri
+browser option icon getbrowseroptionsicon
+option button set text settext option
+option button set tool tip text settooltiptext option
+option button set prefer size setpreferreds dimens
+option button set minimum size setminimums dimens
+option button set font setfont java awt font dialog
+option button set border setbord
+option button set maximum size setmaximums dimens
+edit config button editconfig button
+add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+edit config button action perform editconfig button actionperform
+edit config button editconfig button set icon seticon ajd default getdefault icon registri geticonregistri
+structur swing icon getstructureswingicon program element iprogramel kind file lst file lst
+edit config button editconfig button set text settext edit config
+edit config button editconfig button set tool tip text settooltiptext edit config
+edit config button editconfig button set prefer size setpreferreds dimens
+edit config button editconfig button set minimum size setminimums dimens
+edit config button editconfig button set font setfont java awt font dialog
+edit config button editconfig button set border setbord
+edit config button editconfig button set maximum size setmaximums dimens
+file tool bar file toolbar set border setbord empti border emptybord
+tool bar panel toolbar panel set layout setlayout border layout6 borderlayout6
+label1 jlabel1 set font setfont java awt font dialog
+label1 jlabel1 set text settext build
+label2 jlabel2 set text settext run
+label2 jlabel2 set font setfont java awt font dialog
+filestructur panel setfont java awt font dialog
+browser panel setfont java awt font dialog
+content pane getcontentpan add top split pane top splitpan border layout borderlayout center
+top split pane top splitpan add split pane splitpan split pane jsplitpan
+top split pane top splitpan add multi view panel multiview panel split pane jsplitpan left
+split pane splitpan add messag panel split pane jsplitpan bottom
+split pane splitpan add editor panel split pane jsplitpan top
+structureview pane add filestructur panel jsplitpan
+structureview pane add browser panel jsplitpan left
+content pane getcontentpan add statu panel border layout borderlayout south
+statu panel add statu text label statustext label border layout borderlayout center
+content pane getcontentpan add toolbar panel border layout borderlayout north
+toolbar panel add filler panel border layout borderlayout center
+toolbar panel add tool bar panel toolbar panel border layout borderlayout west
+file toolbar add editconfig button null
+file tool bar file toolbar add save button
+file tool bar file toolbar add option button
+tool bar panel toolbar panel add build tool bar build toolbar border layout borderlayout west
+tool bar panel toolbar panel add project tool bar project toolbar border layout borderlayout center
+project tool bar project toolbar add label2 jlabel2
+project tool bar project toolbar add run button
+build tool bar build toolbar add label1 jlabel1
+build tool bar build toolbar add open config button openconfig button
+build tool bar build toolbar add close config button closeconfig button
+tool bar panel toolbar panel add file tool bar file toolbar border layout borderlayout east
+menu bar menubar add menu1 jmenu1
+menu bar menubar add menu2 jmenu2
+menu bar menubar add tool menu
+menu1 jmenu1 add menu item1 jmenuitem1
+menu1 jmenu1 add separ addsepar
+menu1 jmenu1 add exit menu item exit menuitem
+menu2 jmenu2 add project build menu item projectbuild menuitem
+menu2 jmenu2 add project run menu item projectrun menuitem
+menu2 jmenu2 add project run menu item projectrunoth menuitem
+jmenu2 add projectdebug menuitem
+tool menu add joinpoint probe menu item joinpointprob menuitem
+tool menu add properti menu item svproperti menuitem
+top split pane top splitpan set divid locat setdividerloc
+split pane splitpan set divid locat setdividerloc
+project tool bar project toolbar add separ addsepar
+project tool bar project toolbar add separ addsepar

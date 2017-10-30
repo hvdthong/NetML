@@ -1,0 +1,8 @@
+org apach lucen index
+segment merg queue segmentmergequeu prioriti queue priorityqueu segment merg info segmentmergeinfo
+overrid
+lessthan segment merg info segmentmergeinfo sti stia segment merg info segmentmergeinfo sti stib
+comparison sti stia term compar compareto sti stib term
+comparison
+sti stia base sti stib base
+comparison

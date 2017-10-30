@@ -1,0 +1,33 @@
+org aspectj apach bcel classfil
+class repres method info structur represent
+method class jvm specif detail
+method access flag signatur number attribut
+version method java aclement exp
+author href mailto marku dahm berlin dahm
+method field method fieldormethod
+return string represent close declar format
+public static void main string arg throw ioexception'
+return string represent method
+string string tostr
+constant utf8 constantutf8
+string signatur access string signatur access short cut constant pool
+string buffer stringbuff buf
+access util access string accesstostr access flag
+signatur constant pool
+constant utf8 constantutf8 constant pool constant getconst signatur index
+constant constant utf8 constant utf8
+signatur byte getbyt
+constant utf8 constantutf8 constant pool constant getconst index constant constant utf8 constant utf8
+byte getbyt
+signatur util method signatur string methodsignaturetostr signatur access
+local variabl tabl getlocalvariablet
+buf string buffer stringbuff signatur
+attribut count
+attribut attribut
+code except tabl exceptiont
+buf append string tostr
+except tabl exceptiont except tabl getexceptiont
+string str string tostr
+str equal
+buf append tthrow str
+buf string tostr

@@ -1,0 +1,16 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+collect modifi binari file getmodifiedbinaryfil build time lastbuildtim
+list ret arrai list arraylist
+job account delet file
+iter build config buildconfig binari file getbinaryfil iter hasnext
+build config ajbuildconfig binari sourc file binarysourcefil bsfile build config ajbuildconfig binari sourc file binarysourcefil
+file file bsfile bin src binsrc
+file exist
+mod time modtim file modifi lastmodifi
+system println check file mod modtim build lastbuildtim
+add lastmodtim accur platform
+mod time modtim build time lastbuildtim
+ret add bsfile
+ret

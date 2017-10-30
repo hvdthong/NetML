@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot pattern list annotationpatternlist pattern node patternnod
+annot pattern list annotationpatternlist annot type pattern annotationtypepattern argument
+type pattern typepattern argument
+argument length
+argument annot type pattern annotationtypepattern ellipsi ellipsi count ellipsiscount

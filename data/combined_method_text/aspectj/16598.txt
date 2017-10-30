@@ -1,0 +1,73 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+ast node astnod convert declar declar declaredeclar declar decl declaredecl
+check cancel checkcancel checkcancel line need
+org aspectj org eclips jdt core dom declar declar declaredeclar declar declar declaredeclar
+declar declar declar decl declaredecl declar decl declaredecl
+declar declar annot declareannot
+declar annot declareannot declar annot declareannot declar
+kind getkind equal declar annot declareannot type type
+declar declar declaredeclar declar type declar declareattypedeclar ast
+declar type declar declareattypedeclar declar declar declaredeclar set pattern node setpatternnod convert type pattern gettypepattern
+simpl simplenam annot annotationnam simpl simplenam ast
+annot annotationnam intern set identifi internalsetidentifi string annot string getannotationstr
+declar type declar declareattypedeclar declar declar declaredeclar set annot setannotationnam annot annotationnam
+kind getkind equal declar annot declareannot constructor constructor
+declar declar declaredeclar declar constructor declar declareatconstructordeclar ast
+declar constructor declar declareatconstructordeclar declar declar declaredeclar set pattern node setpatternnod convert signatur pattern getsignaturepattern
+simpl simplenam annot annotationnam simpl simplenam ast
+annot annotationnam intern set identifi internalsetidentifi string annot string getannotationstr
+declar constructor declar declareatconstructordeclar declar declar declaredeclar set annot setannotationnam annot annotationnam
+kind getkind equal declar annot declareannot field field
+declar declar declaredeclar declar field declar declareatfielddeclar ast
+declar field declar declareatfielddeclar declar declar declaredeclar set pattern node setpatternnod convert signatur pattern getsignaturepattern
+simpl simplenam annot annotationnam simpl simplenam ast
+annot annotationnam intern set identifi internalsetidentifi string annot string getannotationstr
+declar field declar declareatfielddeclar declar declar declaredeclar set annot setannotationnam annot annotationnam
+kind getkind equal declar annot declareannot method method
+declar declar declaredeclar declar method declar declareatmethoddeclar ast
+declar method declar declareatmethoddeclar declar declar declaredeclar set pattern node setpatternnod convert signatur pattern getsignaturepattern
+simpl simplenam annot annotationnam simpl simplenam ast
+annot annotationnam intern set identifi internalsetidentifi string annot string getannotationstr
+declar method declar declareatmethoddeclar declar declar declaredeclar set annot setannotationnam annot annotationnam
+declar declar error warn declareerrororwarn
+declar error warn declareerrororwarn deow declar error warn declareerrororwarn declar
+deow error iserror
+declar declar declaredeclar declar error declar declareerrordeclar ast
+declar error declar declareerrordeclar declar declar declaredeclar set pointcut setpointcut convert deow pointcut getpointcut
+string liter stringliter messag string liter stringliter ast
+messag set escap setescapedvalu updat string updatestr deow messag getmessag
+declar error declar declareerrordeclar declar declar declaredeclar set messag setmessag messag
+declar declar declaredeclar declar warn declar declarewarningdeclar ast
+declar warn declar declarewarningdeclar declar declar declaredeclar set pointcut setpointcut convert deow pointcut getpointcut
+string liter stringliter messag string liter stringliter ast
+messag set escap setescapedvalu updat string updatestr deow messag getmessag
+declar warn declar declarewarningdeclar declar declar declaredeclar set messag setmessag messag
+declar declar parent declarepar
+declar parent declarepar declar parent declarepar declar
+declar declar declaredeclar org aspectj org eclips jdt core dom declar parent declar declareparentsdeclar ast extend isextend
+org aspectj org eclips jdt core dom pattern node patternnod node pnode convert child getchild
+node pnode org aspectj org eclips jdt core dom type pattern typepattern
+declar parent declar declareparentsdeclar declar declar declaredeclar set child type pattern setchildtypepattern org aspectj org eclips jdt core dom type pattern typepattern node pnode
+type pattern typepattern weaver type pattern weavertypepattern parent getpar type pattern gettypepattern
+list type pattern typepattern declar parent declar declareparentsdeclar declar declar declaredeclar parent type pattern parenttypepattern
+weaver type pattern weavertypepattern length
+type pattern typepattern add convert weaver type pattern weavertypepattern
+declar declar preced declarepreced
+declar declar declaredeclar org aspectj org eclips jdt core dom declar preced declar declareprecedencedeclar ast
+declar preced declarepreced declar preced declarepreced declar
+type pattern typepattern weaver type pattern weavertypepattern pattern getpattern type pattern gettypepattern
+list type pattern typepattern declar preced declar declareprecedencedeclar declar declar declaredeclar type pattern typepattern
+weaver type pattern weavertypepattern length
+type pattern typepattern add convert weaver type pattern weavertypepattern
+declar declar soft declaresoft
+declar declar declaredeclar declar soft declar declaresoftdeclar ast
+declar soft declaresoft declar soft declaresoft declar
+declar soft declar declaresoftdeclar declar declar declaredeclar set pointcut setpointcut convert pointcut getpointcut
+org aspectj org eclips jdt core dom pattern node patternnod node pnode convert except getexcept
+node pnode org aspectj org eclips jdt core dom type pattern typepattern
+declar soft declar declaresoftdeclar declar declar declaredeclar set type pattern settypepattern org aspectj org eclips jdt core dom type pattern typepattern node pnode
+declar declar declaredeclar set sourc rang setsourcerang declar decl declaredecl declar sourc start declarationsourcestart
+declar decl declaredecl declar sourc end declarationsourceend declar decl declaredecl declar sourc start declarationsourcestart
+declar declar declaredeclar

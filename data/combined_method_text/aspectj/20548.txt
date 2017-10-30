@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel render bcelrender test visitor itestvisitor expr visitor iexprvisitor
+visit field call fieldgetcal field call fieldgetcal
+member field field call fieldgetcal field getfield
+member method field call fieldgetcal method getmethod
+instruct list instructionlist instruct list instructionlist
+append util creat createget fact field
+assert method isstat
+expr arg field call fieldgetcal arg getarg
+system println arg arrai aslist arg
+append render expr renderexpr fact world arg
+system println render arg callil
+append util creat invok createinvok fact world method
+append creat jump base boolean stack createjumpbasedonbooleanonstack
+instruct insert

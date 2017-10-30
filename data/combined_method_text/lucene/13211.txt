@@ -1,0 +1,12 @@
+org apach lucen index
+term buffer termbuff cloneabl
+overrid
+object clone
+term buffer termbuff clone
+clone term buffer termbuff clone
+clone support except clonenotsupportedexcept
+clone dirti
+clone byte unicod util unicodeutil utf8 result utf8result
+clone text unicod util unicodeutil utf16 result utf16result
+clone text copi text copytext text
+clone

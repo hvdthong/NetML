@@ -1,0 +1,4 @@
+org aspectj weaver
+weaver messag weavermessag
+string format string kei object insert1 object insert2
+messag format messageformat format bundl string getstr kei object insert1 insert2

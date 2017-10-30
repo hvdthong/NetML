@@ -1,0 +1,33 @@
+math util mathutil equal stat max getmax max getmax
+equal object object
+code statist summari valu statisticalsummaryvalu code instanc statist
+precis equal includ equalsincludingnan stat getmean getmean
+object statist summari valu statisticalsummaryvalu
+overrid
+math util mathutil equal includ equalsincludingnan stat getmean getmean
+precis equal includ equalsincludingnan stat min getmin min getmin
+math util mathutil equal includ equalsincludingnan stat sum getsum sum getsum
+param object object test equal
+statist summari valu statisticalsummaryvalu stat statist summari valu statisticalsummaryvalu object
+precis equal includ equalsincludingnan stat sum getsum sum getsum
+statist summari valu statisticalsummaryvalu serializ
+version
+math util mathutil equal stat sum getsum sum getsum
+math util mathutil equal stat varianc getvari varianc getvari
+math util mathutil equal stat min getmin min getmin
+math util mathutil equal includ equalsincludingnan stat getn getn
+math util mathutil equal stat getn getn
+precis equal includ equalsincludingnan stat varianc getvari varianc getvari
+precis equal includ equalsincludingnan stat getn getn
+object equal
+object
+object repres result univari statist summari
+precis equal includ equalsincludingnan stat max getmax max getmax
+org apach common math stat descript
+version revis date
+valu
+return iff code object code
+math util mathutil equal includ equalsincludingnan stat varianc getvari varianc getvari
+math util mathutil equal includ equalsincludingnan stat min getmin min getmin
+math util mathutil equal includ equalsincludingnan stat max getmax max getmax
+math util mathutil equal stat getmean getmean

@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+lshl arithmet shift left long
+pre stack value1 word1 value1 word2 value2 result word1 result word2 pre
+version lshl java aclement exp
+author href mailto marku dahm berlin dahm
+lshl arithmet instruct arithmeticinstruct
+lshl
+org aspectj apach bcel constant lshl

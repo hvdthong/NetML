@@ -1,0 +1,5 @@
+org aspectj weaver
+enum annot enumannotationvalu annot annotationvalu
+enum annot enumannotationvalu string type string
+annot annotationvalu enum constant enum constant
+type type

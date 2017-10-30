@@ -1,0 +1,44 @@
+pre
+interpol deriv interpolatedderiv
+org apach common math od nonstiff
+interpol state interpolatedst
+order rung kutta integr
+inherit doc inheritdoc
+step comput interpol equat consist
+overrid
+coeff dot3 coeffdot3 dot23 cdot23 tpq
+interpol comput dens output insid
+coeff dot1 coeffdot1 dot1 ydot1 coeff dot2 coeffdot2 dot2 ydot2 coeff dot3 coeffdot3 dot3 ydot3 coeff dot4 coeffdot4 dot4 ydot4
+gill integr gillintegr
+interpol state interpolatedst length
+deriv except derivativeexcept
+omt theta
+theta fourtheta theta
+coeff4 theta theta fourtheta
+theta theta theta
+dot4 ydot4 dot ydotk
+evalu deriv comput
+version revis date
+theta
+comput interpol state computeinterpolatedst theta
+c23 somt theta twotheta
+coeff1 somt theta fourtheta
+gill step interpol gillstepinterpol
+integr scheme
+coeff dot4 coeffdot4 theta theta twotheta
+step
+step interpol gill fourth
+dot2 ydot2 dot ydotk
+coeff3 c23 tpq
+coeff2 c23 tmq
+current state currentst coeff1 dot1 ydot1 coeff2 dot2 ydot2 coeff3 dot3 ydot3 coeff4 dot4 ydot4
+coeff dot1 coeffdot1 theta theta twotheta
+theta belong sqrt
+theta theta
+dot3 ydot3 dot ydotk
+theta twotheta theta
+somt omt
+dot23 cdot23 theta omt
+coeff dot2 coeffdot2 dot23 cdot23 tmq
+minu theta oneminusthetah
+dot1 ydot1 dot ydotk

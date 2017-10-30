@@ -1,0 +1,14 @@
+repres region set polygon
+code boolean true code boolean fals
+version
+code boolean attribut repres insid statu
+tree
+leaf node bsp tree
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+org apach common math geometri euclidean twod
+recommend predefin constant
+param tree insid bsp tree repres region
+cell order avoid build small object
+build polygon set bsp tree
+cell insid cell
+polygon set polygonsset bsp tree bsptree euclidean2 euclidean2d tree

@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+kind pointcut kindedpointcut pointcut
+fuzzi boolean fuzzyboolean fast match fastmatch fast match info fastmatchinfo info
+info kind getkind
+info kind getkind kind fuzzi boolean fuzzyboolean
+fuzzi boolean fuzzyboolean

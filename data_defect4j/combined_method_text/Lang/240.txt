@@ -1,0 +1,20 @@
+author stephen colebourn
+oper primit boolean object
+param string falsestr string code code
+author matthew hawthorn
+pre
+bool string truestr string falsestr
+param string truestr string code code
+string string tostr bool string string truestr string string falsestr
+author gari gregori
+boolean util booleanutil
+handl code code input gracefulli
+version
+boolean util booleanutil string tostr
+code code
+except thrown code code input
+input string
+convert string return input string
+param bool boolean check
+method document behaviour detail
+org apach common lang

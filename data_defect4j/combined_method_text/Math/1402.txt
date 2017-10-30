@@ -1,0 +1,12 @@
+link dfp finit
+dfp field dfpfield field dfp
+creat link dfp finit
+field decim float point instanc
+param nan code link dfp infinit
+link dfp snan link dfp qnan
+version
+dfp sign nan
+param sign sign dfp creat
+dfp dfp newdfp sign nan
+version revis date
+org apach common math dfp

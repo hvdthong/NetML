@@ -1,0 +1,47 @@
+org aspectj weaver pattern
+patternpars creat wildtypepattern type pattern pointcut
+express directli turn typepattern
+resolvebind work turn type
+pattern match exacttypepattern
+wildtypepattern
+process pan gener parameter pattern
+genericswildtypepatternresolvingtestcas
+foo foo exist gener
+parser creat wildtypepattern namepattern foo
+resolvebind resolv foo foo raw
+return exacttypepattern lfoo
+foo string foo exist string meet bound
+parser creat wildtypepattern namepattern foo typeparamet wtp string
+resolvebind resolv typeparamet exacttypepattern string
+resolv foo foo
+return exacttypepattern pfoo string parameter
+foo str foo exist take bound
+parser creat wildtypepattern namepattern foo typeparamet wtp str
+resolvebind resolv typeparamet wtp str
+resolv foo foo
+return wildtypepattern foo typeparamet wtp str isgener fals
+string
+parser creat wildtypepattern namepattern typeparamet wtp string
+resolvebind resolv typeparamet etp string
+return wildtypepattern typeparamet etp string isgener fals
+foo
+foo extend number
+foo extend number
+foo super number
+wild type pattern wildtypepattern type pattern typepattern
+search world resolvedtyp typenam
+found suppli prefix prepend typenam
+prefix search world resolvedtyp
+found missingresolvedtypewithknownsignatur
+return origin request typenam ensur typenam
+make sens
+resolv type resolvedtyp lookup type world includ prefix lookuptypeinworldincludingprefix world world string type typenam string prefix
+resolv type resolvedtyp ret lookup type world lookuptypeinworld world type typenam
+ret miss ismiss ret
+resolv type resolvedtyp ret prefix retwithprefix ret
+counter
+ret prefix retwithprefix miss ismiss counter prefix length
+ret prefix retwithprefix lookup type world lookuptypeinworld world prefix counter type typenam
+counter
+ret prefix retwithprefix miss ismiss ret prefix retwithprefix
+ret

@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+mung bcel class weaver bcelclassweav weaver
+lazi class gen lazyclassgen gen weaver lazi class gen getlazyclassgen
+aggress doaggressiveinn gen
+mung aspect type
+gen type gettyp equal aspect type aspecttyp
+mung domung gen

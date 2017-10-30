@@ -1,0 +1,222 @@
+cauchi set squar knew lagrang function
+subd half
+squar function
+temp xopt entri getentri stpsav xpt entri getentri ksav xopt entri getentri
+xpt knew specif satisfi trust region
+bound provid larg denomin call
+powell' bobyqa algorithm implement translat
+iflag xalt calcul revers
+hcol work space vector length npt deriv
+ilbd
+temp xpt entri getentri work1 entri getentri
+ksav
+step subd
+param xpt
+scale csave tempa tempb tempd sumin
+link cmae optim cmaesoptim succe bobyqa
+work1 entri getentri
+end l120
+npt number interpol point numberofinterpolationpoint
+altmov
+half curv
+temp subd subd
+temp hcol entri getentri temp
+chosen larger cauchi
+param
+alpha cauchi
+work1 set entri setentri
+construct xnew satisfi bound constraint
+coeffici knew lagrang function
+distsq temp temp
+finit differ
+work1 set entri setentri bigstp
+system println altmov xxx
+fortran arrai fortranarrai xalt
+temp xopt entri getentri scale work1 entri getentri
+comput min
+tempd half dderiv
+vlag slbd dderiv slbd diff
+tempa tempd diff slbd
+entri getentri
+knew lagrang function xopt
+ndim bmat row dimens getrowdimens
+work1 set entri setentri entri getentri xopt entri getentri
+xalt set entri setentri math max entri getentri min
+bound step line turn predsq
+fortran arrai fortranarrai
+scale curv
+step sum squar fix compon form
+xalt set entri setentri work2 entri getentri
+distsq
+system gener local
+prepar iter method assembl constrain cauchi
+csave cauchi
+calcul gradient knew lagrang function xopt
+math sqrt
+href http plato asu ftp softwar bobyqa zip
+argument npt xpt xopt bmat zmat ndim
+slbd entri getentri xopt entri getentri temp
+param bmat
+end l100
+subd adelt math sqrt distsq
+half alpha
+comput max
+wfixsq wsqsav ggfree
+set npt compon lead element
+l120
+href http www optim onlin org html html
+iflag
+mean argument bobyqb
+xalt set entri setentri xopt entri getentri
+fortran arrai fortranarrai hcol fortran arrai fortranarrai npt
+stpsav step
+glag set entri setentri bmat entri getentri knew
+temp entri getentri
+glag entri getentri
+scale
+fortran arrai fortranarrai xnew
+half scale
+vlag subd temp
+temp adelt adelt wfixsq
+set largest admiss predsq occur
+tempa tempb
+version
+iubd
+glag work space vector length gradient
+calcul predsq current line search maintain presav
+function bodi
+adelt current trust region bound
+step xalt xopt xopt vector xalt return
+slbd temp entri getentri xopt entri getentri
+predsq vlag vlag vlag vlag temp temp
+subd math max
+fortran arrai fortranarrai xopt
+straight line xopt interpol point
+current currentbest dimens getdimens
+alpha hcol entri getentri knew
+presav
+glag entri getentri work1 entri getentri
+ibdsav
+paper introduct
+entri getentri xopt entri getentri temp
+vlag slbd slbd
+deriv case outperform
+curv curv
+math min temp
+ibdsav isbd
+hcol set entri setentri hcol entri getentri temp zmat entri getentri
+interpol point slbd subd lower upper
+sign glag xalt vector
+xnew set entri setentri math max
+deriv base optim deriv approxim
+ggfree
+isbd
+step tempd diff
+diff
+sumin
+lagrang function xopt set cauchi
+vlag dderiv
+work1 entri getentri bigstp
+cauchi
+temp zmat entri getentri knew
+xnew set entri setentri ibdsav entri getentri ibdsav
+param knew
+revis slbd subd bound
+xopt entri getentri work1 entri getentri
+presav predsq
+glag set entri setentri glag entri getentri temp xpt entri getentri
+fortran matrix fortranmatrix bmat
+isbd ilbd
+cauchi set xalt calcul
+wsqsav wfixsq
+tempb tempd diff subd
+xalt set entri setentri entri getentri
+wfixsq
+investig compon fix
+curv hcol entri getentri temp temp
+fortran matrix fortranmatrix zmat
+min math min entri getentri
+set curv curvatur knew lagrang function
+bobyqa optim bobyqaoptim
+alpha doubl nan
+cauchi csave
+fortran arrai fortranarrai glag fortran arrai fortranarrai
+adapt fortran version
+temp step step distsq
+param xopt
+temp
+xalt set entri setentri math max entri getentri
+fortran matrix fortranmatrix xpt
+kopt index optim interpol point
+dderiv glag entri getentri temp
+interpol point line xopt knew
+predsq presav
+vlag temp
+work space vector length hold
+param xnew
+bobyqa suit high dimension problem
+temp tempd tempd diff
+step slbd
+search line xopt point
+isbd iubd
+curv
+wfixsq free compon set bigstp
+dderiv
+adelt
+tempb math max
+sumin math min subd
+cauchi doubl nan
+search larg denomin straight line xopt
+param adelt
+tempa math min
+link powel optim powelloptim significantli stochast algorithm
+diff dderiv
+differ xnew xalt xopt constrain version
+l100
+hcol set entri setentri
+fortran arrai fortranarrai work2 fortran arrai fortranarrai
+set remain free compon compon xalt
+math ab vlag
+ilbd isbd
+expens bobyqa consid replac
+function subject constraint mention main
+xalt larg modulu knew lagrang
+cauchi step trust region except xalt
+updat step xnew xopt xopt restrict move
+set squar predict denomin line presav
+local variabl
+vlag
+seek larg modulu knew lagrang function index
+comput 2nd power
+param zmat
+step half
+param xalt
+knew
+temp xopt entri getentri step glag entri getentri
+scale factor reduc modulu
+work1 set entri setentri step glag entri getentri
+max npt max
+alpha set knew diagon element matrix
+slbd
+npt
+bigstp adelt adelt
+temp xpt entri getentri xopt entri getentri
+constrain cauchi step xopt lagrang function
+downhil version xalt uphil step calcul
+glag set entri setentri glag entri getentri
+work2 set entri setentri xalt entri getentri
+fortran arrai fortranarrai work1 fortran arrai fortranarrai
+step math sqrt temp ggfree
+step curv
+calcul compon glag
+org apach common math optim direct
+xopt entri getentri entri getentri
+trust region center interpol point index trustregioncenterinterpolationpointindex
+slbd subd
+knew column matrix
+knew index interpol point move
+dderiv bigstp predsq presav distsq stpsav wfixsq wsqsav
+xnew set suitabl posit interpol point
+subd temp entri getentri xopt entri getentri
+math ab temp math ab vlag
+temp subd dderiv subd diff

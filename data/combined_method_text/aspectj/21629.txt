@@ -1,0 +1,29 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+resolv type resolvedtyp arg match argstomatch argument match getargumentstomatchagainst shadow
+argument match arg match argstomatch type pattern typepattern dynam fals alwaysfals
+liter fals
+ellipsi count ellipsiscount argument ellipsi count ellipsiscount
+ellipsi count ellipsiscount
+find residu ellipsi findresiduenoellipsi shadow state argument type pattern gettypepattern
+ellipsi count ellipsiscount
+type pattern typepattern pattern ellipsi patternswithellipsi argument type pattern gettypepattern
+type pattern typepattern pattern ellipsi patternswithoutellipsi type pattern typepattern arg match argstomatch length
+len ellipsi lenwithellipsi pattern ellipsi patternswithellipsi length
+len ellipsi lenwithoutellipsi pattern ellipsi patternswithoutellipsi length
+index ellipsi indexwithellipsi
+index ellipsi indexwithoutellipsi
+index ellipsi indexwithoutellipsi len ellipsi lenwithoutellipsi
+type pattern typepattern pattern ellipsi patternswithellipsi index ellipsi indexwithellipsi
+type pattern typepattern ellipsi
+len ellipsi newlenwithoutellipsi
+len ellipsi lenwithoutellipsi len ellipsi lenwithellipsi index ellipsi indexwithellipsi
+index ellipsi indexwithoutellipsi len ellipsi newlenwithoutellipsi
+pattern ellipsi patternswithoutellipsi index ellipsi indexwithoutellipsi type pattern typepattern
+pattern ellipsi patternswithoutellipsi index ellipsi indexwithoutellipsi
+find residu ellipsi findresiduenoellipsi shadow state pattern ellipsi patternswithoutellipsi
+beta except betaexcept unimpl

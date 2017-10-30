@@ -1,0 +1,25 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+version gaussian fitter gaussianfitt java 14z
+org apach common math3 fit
+paramet fitter fit
+code boundary2
+isbetween
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+boundary2 boundary1
+determin valu
+code boundary2 inclus code
+fit point link
+boundary2
+boundary1
+deprec link gaussian curv fitter gaussiancurvefitt
+param test code boundary1
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+link weight observ point weightedobservedpoint
+usag
+code code code boundary1
+param boundary1 end rang
+boundary1 boundary2
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+pre
+param boundary2 end rang

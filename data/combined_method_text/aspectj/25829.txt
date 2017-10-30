@@ -1,0 +1,14 @@
+org aspectj weaver
+type typex annot element annotatedel
+expos test dump parameter info typex string check
+call typex dump
+ljava util map ljava util list ljava lang string ljava lang string
+result
+typex signatur ljava util map ljava util list ljava lang string ljava lang string parameter true param
+typex signatur ljava util list ljava lang string parameter true param
+typex signatur ljava lang string parameter fals param
+typex signatur ljava lang string parameter fals param
+string dump
+string buffer stringbuff string buffer stringbuff
+dump helper dumphelp
+string tostr

@@ -1,0 +1,12 @@
+org apach common math3 od nonstiff adam moulton integr adamsmoultonintegr
+version
+org apach common math3 od nonstiff adam bashforth integr adamsbashforthintegr
+inherit doc inheritdoc
+nordsieck step interpol nordsieckstepinterpol abstract step interpol abstractstepinterpol
+interpol comput dens output current point
+overrid
+interpol equat base taylor seri formula
+nordsieck step interpol nordsieckstepinterpol
+step interpol stepinterpol copi docopi
+org apach common math3 od sampl
+interpol integr nordsieck represent

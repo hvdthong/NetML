@@ -1,0 +1,15 @@
+org aspectj ajd swing
+author mik kersten
+pointcut wizard pointcutwizard frame jframe
+pointcut wizard pointcutwizard java util list signatur
+signatur signatur
+arrai list arraylist view arrai list arraylist
+view add structur view properti structureviewproperti hierarchi inherit
+typetreeview browserviewpanel ajdeuimanag getdefault geticonregistri view structureviewproperti hierarchi inherit
+runtim except runtimeexcept unimpl current file
+typetreeview updatetre ajd getdefault geteditormanag getcurrfil
+jbinit
+catch except
+ajd getdefault geterrorhandl handleerror initi gui
+setsiz
+seticonimag imageicon ajdeuimanag getdefault geticonregistri getstructureswingicon programelementnod kind pointcut getimag

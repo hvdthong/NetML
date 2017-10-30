@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+arg0 occupi
+arg0 hold arg0holdsthi
+kind getkind enclos kind isenclosingkind
+signatur getsignatur static isstat
+enclos shadow enclosingshadow
+xxx
+thing call pre part introduc constructor
+enclos method enclosingmethod static isstat
+bcel shadow bcelshadow enclos shadow enclosingshadow arg0 hold arg0holdsthi

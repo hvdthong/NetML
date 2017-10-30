@@ -1,0 +1,12 @@
+param checker converg checker
+abstract squar optim abstractleastsquaresoptim
+optim provid move
+deprec class interfac deprec
+checker
+version
+math
+abstract squar optim abstractleastsquaresoptim converg checker convergencecheck point vector pair pointvectorvaluepair checker
+base implement squar optim
+method error estim
+link org apach common math3 fit leastsquar
+org apach common math3 optim nonlinear vector jacobian

@@ -1,0 +1,8 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+member aspect bound except init noaspectboundexceptioninit
+resolv member impl resolvedmemberimpl
+member method
+aspect bound except aspect bound except
+modifi public
+init

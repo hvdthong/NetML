@@ -1,0 +1,122 @@
+abstract step interpol abstractstepinterpol interpol
+method embed explicit rung kutta method
+stepsiz control step
+hnew initi step initializestep equat forward order getord scale
+rki reiniti equat tmp ytmp dot ydotk forward
+step reject error estim phase
+step laststep
+step laststep forward step nextstep step nextstep
+dot ydotk length
+invalid deriv recomput
+dot ydotk stage
+switch handler switcheshandl evalu step evaluatestep interpol
+handler handl step handlestep interpol step laststep
+param initi time
+hnew filter step filterstep step size stepsiz factor
+fsal
+reject step attempt reduc error stepsiz control
+b'1 b'2 b' b'
+equat comput deriv computederiv step start stepstart dot ydotk
+param equat differenti equat integr
+stage length
+factor math min max growth maxgrowth
+scale scaledh step size stepsiz factor
+nextt step start stepstart scale scaledh
+method qualifi fsal
+step adjust bound
+switch function handl
+switch function trigger
+hnew switch handler switcheshandl event time geteventtim step start stepstart
+step start stepstart step nextstep
+underli user function trigger
+safeti math pow error exp
+scale
+method store intern state variabl made
+compar
+version embed rung kutta integr embeddedrungekuttaintegr java 39z luc
+switch handler switcheshandl step accept stepaccept step nextstep
+step start stepstart
+scale vec absolut toler vecabsolutetoler
+a31 a32
+version revis date
+step accept
+system arraycopi tmp ytmp length
+rung kutta step interpol rungekuttastepinterpol rki rung kutta step interpol rungekuttastepinterpol prototyp copi
+tmp ytmp step size stepsiz sum
+set interpol share integr arrai
+interpol store time storetim step nextstep
+reset intern state resetinternalst
+math max min reduct minreduct
+asi
+stage
+handler requir dens output requiresdenseoutput switch handler switcheshandl empti isempti
+system arraycopi dot ydotk stage dot ydotk length
+step end integr object
+loop loop
+length
+provid step data step handler
+integr differenti equat time
+switch handler switcheshandl reset step start stepstart step laststep
+time firsttim fsal
+step nextstep step start stepstart step size stepsiz
+hnew
+common part embed rung kutta
+arrai
+estim error end step
+step start stepstart dot ydotk tmp ytmp dot ydotk
+accept step
+reject step match time
+param target time integr
+vec absolut toler vecabsolutetoler
+switch handler switcheshandl stop
+forward
+deriv except derivativeexcept integr except integratorexcept
+as1 as2 ass
+param initi state vector
+estim state end step
+creat intern work arrai
+method evalu method
+save evalu step
+tmp ytmp length
+integr order differenti equat firstorderdifferentialequ equat
+integr except integratorexcept integr perform integr
+step size stepsiz hnew
+hnew filter step filterstep scale scaledh nextislast
+equat comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+interpol shift
+error estim error estimateerror dot ydotk tmp ytmp step size stepsiz
+stage behaviour success step
+evalu save fsal method
+interpol rki
+evalu reus step cost
+integr link
+step size stepsiz step start stepstart
+step step
+error
+current sign stepsiz getcurrentsignedsteps thread safe
+loop
+pre
+a21
+nextislast forward nextt nextt
+interpol store time storetim
+forward step start stepstart step size stepsiz
+comput directli error comput estim
+org apach common math od
+interpol store time storetim step start stepstart step size stepsiz
+deriv except derivativeexcept except propag caller
+scale scal absolut toler scalabsolutetoler
+embed rung kutta integr embeddedrungekuttaintegr
+sum dot ydotk
+set coeffici allow estim error butcher
+fact arrai defin b'j
+system arraycopi length
+interpol dummi step interpol dummystepinterpol tmp ytmp forward
+saniti check sanitycheck equat
+integr ordinari differenti equat
+handler reset
+method solv initi problem ivp
+set smaller code code backward integr
+time firsttim
+scale length
+method mean evalu deriv
+param placehold put state vector success

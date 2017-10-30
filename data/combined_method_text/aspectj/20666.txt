@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+bcel shadow bcelshadow make shadow method makeshadowformethod bcel world bcelworld world
+lazi method gen lazymethodgen enclos method enclosingmethod shadow kind kind member sig
+instruct list instructionlist bodi enclos method enclosingmethod bodi getbodi
+bcel shadow bcelshadow
+bcel shadow bcelshadow
+world
+kind
+sig
+enclos method enclosingmethod
+shadow rang shadowrang shadow rang shadowrang bodi
+associ shadow associatewithshadow
+associ target associatewithtarget
+rang gen start genstart bodi
+rang gen end genend bodi

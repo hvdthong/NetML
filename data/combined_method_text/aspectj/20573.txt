@@ -1,0 +1,28 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+add pre initi return code addpreinitializationreturncod
+lazi method gen lazymethodgen extract method extractedmethod
+type super constructor type superconstructortyp
+instruct list instructionlist bodi extract method extractedmethod bodi getbodi
+instruct factori instructionfactori fact factori getfactori
+bcel var bcelvar arrai var arrayvar bcel var bcelvar
+world core type getcoretyp unresolv type unresolvedtyp objectarrai
+extract method extractedmethod alloc local allocateloc
+len super constructor type superconstructortyp length
+bodi append util creat constant createconst fact len
+bodi append instruct fact creat arrai createnewarrai type object
+arrai var arrayvar append store appendstor bodi fact
+len
+convert thing top stack object
+bodi append
+util creat convers createconvers fact super constructor type superconstructortyp type object
+push object arrai
+arrai var arrayvar append load appendload bodi fact
+swap
+bodi append instruct constant instructionconst swap
+object arrai store
+bodi append util creat constant createconst fact
+bodi append instruct constant instructionconst swap
+bodi append instruct factori instructionfactori creat arrai store createarraystor type object
+arrai var arrayvar append load appendload bodi fact
+bodi append instruct constant instructionconst areturn

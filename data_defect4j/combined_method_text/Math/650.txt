@@ -1,0 +1,7 @@
+rel accuraci relativeaccuraci
+version
+org apach common math analysi integr
+inherit doc inheritdoc
+rel accuraci getrelativeaccuraci
+base abstract univari integr baseabstractunivariateintegr univari integr univariateintegr
+provid implement gener function

@@ -1,0 +1,7 @@
+real matrix realmatrix state transit matrix getstatetransitionmatrix
+state transit matrix
+org apach common math3 filter
+version
+defin process dynam model link kalman filter kalmanfilt
+process model processmodel
+return state transit matrix

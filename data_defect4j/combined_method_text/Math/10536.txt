@@ -1,0 +1,11 @@
+base abstract univari integr baseabstractunivariateintegr rel accuraci relativeaccuraci
+construct integr accuraci
+param absolut accuraci absoluteaccuraci absolut accuraci result
+base abstract univari integr baseabstractunivariateintegr univari integr univariateintegr
+default min iter count default max iter count
+org apach common math3 analysi integr
+version
+provid implement gener function
+absolut accuraci absoluteaccuraci
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+param rel accuraci relativeaccuraci rel accuraci result

@@ -1,0 +1,25 @@
+org aspectj intern tool build
+build util
+mirror util modul api
+util
+requir bundl requiredbundl string entri
+text entri
+string token stringtoken string token stringtoken entri
+token nexttoken
+string ver
+string opt
+bundl version resolut optiona
+string resolut resolut
+string version bundl version
+token hasmoretoken
+string token token nexttoken
+token start startswith version
+start version length
+end token index lastindexof
+ver token substr start end
+token start startswith resolut
+start resolut length
+end token length
+opt token substr start end
+version ver
+option option equal opt

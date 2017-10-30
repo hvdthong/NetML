@@ -1,0 +1,8 @@
+repres vector
+vector2 vector2d vector euclidean2 euclidean2d
+inherit doc inheritdoc
+dot product dotproduct vector euclidean2 euclidean2d
+instanc guarante immut
+version
+vector2 vector2d vector2 vector2d
+org apach common math3 geometri euclidean twod

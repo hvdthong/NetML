@@ -1,0 +1,89 @@
+order max tol y'' tol
+param dot1 ydot1 work arrai time deriv
+fast math fastmath pow max inv2 maxinv2 order
+fast math fastmath max fast math fastmath ab
+comput deriv computederiv dot1 ydot1
+ratio
+param forward forward integr indic
+toler error error threshold comput
+initi step initializestep order differenti equat firstorderdifferentialequ equat
+ab tol abstol absolut toler compon
+adapt stepsiz integr adaptivestepsizeintegr
+ratio dot1 ydot1 dot0 ydot0 scale
+fast math fastmath max fast math fastmath ab avoid cancel comput
+dot1 ydot1
+forward initi step initialstep initi step initialstep
+scale2 yonscale2 ratio ratio
+param work arrai state vector
+stepsiz
+rough guess scale scale
+math pow max inv2 maxinv2 order
+rel tol reltol compon
+except deriv except derivativeexcept except propag
+main set part state vector stepsiz control complet
+main set dimens step accept
+fast math fastmath min fast math fastmath ab
+initi integr step
+math min math ab
+param dot0 ydot0 time deriv
+guess perform euler step
+estim deriv solut
+version
+dot scale yddotonscal
+compon user scalar valu ab tol abstol
+version revis date
+dot scale yddotonscal ratio ratio
+forward order scale
+state vector rel tol reltol rel toler
+user provid
+param order order method
+mean user integr step
+hold common part adapt
+perform euler step preced rough guess
+estim error
+length
+ordinari differenti equat link extend order differenti equat extendedfirstorderdifferentialequ
+equat comput deriv computederiv dot1 ydot1
+math sqrt scale2 yonscale2 dot scale2 ydotonscale2
+dot scale2 ydotonscale2
+algorithm perform integr stepsiz control
+step reject attempt made
+dot scale2 ydotonscale2 ratio ratio
+deriv except derivativeexcept
+param equat differenti equat set
+max step getmaxstep
+state vector dimens step accept
+forward
+param scale scale vector state vector
+sqrt sum err est errest threshold
+integr step
+math max math ab
+max inv2 maxinv2 math max math sqrt dot scale2 ydotonscale2 dot scale yddotonscal
+param start time
+ratio scale
+param scale scale vector state vector shorter state vector
+step size comput
+dot scale yddotonscal fast math fastmath sqrt dot scale yddotonscal
+initi step initialstep
+max inv2 maxinv2 fast math fastmath max fast math fastmath sqrt dot scale2 ydotonscale2 dot scale yddotonscal
+caller underli user function trigger
+scale2 yonscale2
+ratio dot0 ydot0 scale
+pre
+org apach common math od nonstiff
+scale2 yonscale2 dot scale2 ydotonscale2
+except math user except mathuserexcept except propag
+state vector
+dot0 ydot0
+dot scale yddotonscal math sqrt dot scale yddotonscal
+threshold ab tol abstol rel tol reltol max ab ab
+extend od link order differenti equat firstorderdifferentialequ basic od
+stepsiz integr ordinari differenti equat
+param state vector
+max inv2 maxinv2
+fast math fastmath sqrt scale2 yonscale2 dot scale2 ydotonscale2
+math max math ab avoid cancel comput
+math user except mathuserexcept
+scale length
+min step getminstep
+link extend order differenti equat extendedfirstorderdifferentialequ main set dimens getmainsetdimens

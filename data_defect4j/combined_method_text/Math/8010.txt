@@ -1,0 +1,12 @@
+param func type object function optim
+inherit doc inheritdoc
+turn start point order avoid trap
+multi start univari real optim multistartunivariaterealoptim func univari real function univariaterealfunct
+wrap classic optim time
+org apach common math optim univari
+set converg checker setconvergencecheck converg checker convergencecheck univari real point pair univariaterealpointvaluepair checker
+special implement link univari real optim univariaterealoptim
+local extremum global
+version revis date
+optim set converg checker setconvergencecheck checker
+ad multi start featur exist optim

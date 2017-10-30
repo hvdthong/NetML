@@ -1,0 +1,13 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+retriev identifi set posit retrieveidentifierandsetposit start end
+scanner reset resetto start end
+token
+token scanner token getnexttoken termin token terminaltoken token eof tokennameeof
+token termin token terminaltoken token identifi tokennameidentifi
+start startnam scanner start posit startposit
+end endnam scanner current posit currentposit
+set sourc rang setsourcerang start startnam end endnam start startnam
+invalid input except invalidinputexcept
+ignor

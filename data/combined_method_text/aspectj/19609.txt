@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+note overridden subtyp
+add annot addannot annot annotationx annot annotationx
+runtim except runtimeexcept resolvedtyp addannot call

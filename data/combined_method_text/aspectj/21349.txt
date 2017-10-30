@@ -1,0 +1,11 @@
+org aspectj weaver loadtim
+bea jrocket jmapi agent
+xmanag class org aspectj weaver loadtim jrockitag
+rockit agent jrockitag bea jvm class pre processor classpreprocessor
+pre process preprocess class loader classload loader string class classnam byte
+byte newbyt byte
+stack empti
+stack push class classnam
+byte newbyt pre processor preprocessor pre process preprocess class classnam byte loader
+stack pop
+byte newbyt

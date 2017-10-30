@@ -1,0 +1,72 @@
+varianc assumpt
+code test ttest sampl stats1 samplestats1 sampl stats2 samplestats2 code
+href http www itl nist gov div898 handbook prc section3 prc31 htm
+side side
+statist degre freedom approxim
+side test evalu hypothesi
+input test code code arrai
+illeg argument except illegalargumentexcept precondit met
+homoscedast equal varianc assumpt heteroscedast
+test ttest sampl stats1 samplestats1 sampl stats2 samplestats2 alpha
+rang except outofrangeexcept code alpha code rang
+common math link org apach common math distribut distribut tdistribut
+href http www basic nwu statguidefil ttest unpair ass viol html
+number small except numberistoosmallexcept number sampl
+strong usag note strong
+null argument except nullargumentexcept sampl statist code code
+test side hypothesi code code
+test method code code valu method valu
+sampl test
+code sampl stats1 samplestats1 code code sampl stats2 samplestats2 code describ
+statist summari statisticalsummari sampl stats1 samplestats1
+sampl sampl
+perform
+strong precondit strong
+math except mathexcept error occur perform test
+rang except outofrangeexcept max count exceed except maxcountexceededexcept
+test ttest statist summari statisticalsummari sampl stats1 samplestats1
+perform side test code alpha code
+statist summari statisticalsummari sampl stats2 samplestats2
+dataset univari
+version
+param sampl stats1 samplestats1 statist summari statisticalsummari describ sampl data valu
+version revis date
+test
+max count exceed except maxcountexceededexcept error occur comput
+name perform test method statist
+org apach common math stat infer
+test level code alpha code
+signific level number
+code alpha code
+hypothesi reject
+student' test
+test ttest
+fix signific level valu return valu
+implement estim exact valu
+equal reject confid code alpha code
+illeg argument except illegalargumentexcept math except mathexcept
+code code valu method perform fix signific level test
+alpha
+pair unpair sampl test
+dataset drawn popul signific
+href http www itl nist gov div898 handbook eda section3 eda353 htm
+level verifi measur
+implement student' test
+null argument except nullargumentexcept number small except numberistoosmallexcept
+link homoscedast test homoscedasticttest statist summari statisticalsummari statist summari statisticalsummari
+check signific level checksignificancelevel alpha
+param alpha signific level test
+strong exampl strong
+welch satterthwait approxim
+code sampl code code sampl code
+test statist test method includ test
+confid alpha
+return code code iff hypothesi mean
+param sampl stats2 samplestats2 statist summari statisticalsummari describ sampl data valu
+level code alpha code test assum
+link statist summari statisticalsummari instanc
+test procedur discuss
+valid test depend assumpt parametr
+subpopul varianc equal perform test equal
+observ
+link formula comput

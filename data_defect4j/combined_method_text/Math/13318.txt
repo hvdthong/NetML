@@ -1,0 +1,23 @@
+overrid
+inherit doc inheritdoc
+set vector setsubvector index
+set vector setsubvector index arrai real vector arrayrealvector data
+check index checkindex index dimens getdimens
+check index checkindex index
+set vector setsubvector index real vector realvector
+size
+system arraycopi data index length
+rang except outofrangeexcept
+arrai real vector arrayrealvector
+rang except outofrangeexcept index inconsist vector
+version
+check index checkindex index length
+param index index element set
+set set consecut element
+data entri getentri index
+arrai real vector arrayrealvector real vector realvector serializ
+org apach common math3 linear
+index index dimens getdimens
+link real vector realvector arrai
+param vector valu set
+index bound except indexoutofboundsexcept

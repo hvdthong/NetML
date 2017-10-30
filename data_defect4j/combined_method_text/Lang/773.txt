@@ -1,0 +1,22 @@
+deem invalid illeg argument except illegalargumentexcept thrown
+author norm dean
+version
+author stephen colebourn
+valid empti notempti map mymap
+illeg argument except illegalargumentexcept map empti
+author gari gregori
+valid true istru greater
+empti notempti map map
+messag except 'the valid map empty'
+org apach common lang
+assist valid argument
+base line unit junit argument
+illeg argument except illegalargumentexcept valid map empti
+valid null notnul surnam surnam
+param map map check empti
+pre
+argument map empti code code element
+author href mailto ola berg arkitema ola berg
+map map size
+valid argument throw code illeg argument except illegalargumentexcept code
+valid

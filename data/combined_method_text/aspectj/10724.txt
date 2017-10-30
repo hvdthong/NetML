@@ -1,0 +1,16 @@
+org aspectj ajd swing
+author mik kersten
+browser view tree listen browserviewtreelisten tree select listen treeselectionlisten mous listen mouselisten
+singl click navig singleclicknavig mous event mouseev
+swing tree view node swingtreeviewnod tree node treenod swing tree view node swingtreeviewnod tree select path compon getlastselectedpathcompon
+tree node treenod control iscontroldown shift isshiftdown modifi getmodifi
+program element iprogramel curr node currnod program element iprogramel tree node treenod user object getuserobject
+curr node currnod program element iprogramel control iscontroldown
+shift isshiftdown modifi getmodifi
+ajdeuimanag getdefault getviewmanag shownodeinmasterview programelementnod currnod
+ajdeuimanag getdefault getviewmanag issplitviewmod
+ajdeuimanag getdefault getviewmanag shownodeinslaveview programelementnod currnod
+currnod instanceof linknod
+ajdeuimanag getdefault getviewmanag issplitviewmod
+ajdeuimanag getdefault getviewmanag shownodeinmasterview linknod currnod
+ajdeuimanag getdefault getviewmanag shownodeinslaveview linknod currnod getprogramelementnod

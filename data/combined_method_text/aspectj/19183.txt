@@ -1,0 +1,11 @@
+org aspectj weaver
+mangler namemangl
+method advic declar
+form ajc advicekind aspectnam numberofadviceinaspect pointcuthash
+string advic advicenam string identifi nameasidentifi advic kind advicekind kind advic seq number adviceseqnumb pcd hash pcdhash
+string newnam make makenam
+kind getnam
+identifi nameasidentifi
+integ string tostr advic seq number adviceseqnumb
+integ hex string tohexstr pcd hash pcdhash
+newnam

@@ -1,0 +1,6 @@
+org aspectj ajdt intern core builder
+eclips adapt util eclipseadapterutil
+messag imessag make error messag makeerrormessag compil unit icompilationunit unit string text except
+sourc locat isourceloc loc sourc locat sourceloc file string unit file getfilenam
+messag imessag msg messag text messag imessag error loc
+msg

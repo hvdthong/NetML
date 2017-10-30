@@ -1,0 +1,50 @@
+org aspectj weaver
+weaverstateinfo repres type process weaver determin type
+previous treat reweav allow
+format data stream
+byte kind untouch woven extend extend extra bit set 'reweavable' 'reweav compress bit'
+short typemungercount type munger affect type
+unresolvedtyp resolvedtypemung type munger
+reweav
+short number aspect touch type previous woven
+string fulli qualifi type
+int length class file data unwovenclassfil
+byte class file data compress reweav compress bit set
+weaver state info weaverstateinfo
+clever reweav diff mode class file disk insid weaverstateinfo attribut diff
+appli 'itself' recov origin class rewoven
+replac kei diff replacekeywithdiff woven class file wovenclassfil
+made diff earlier
+wovenclassfil
+left kei marker back
+reweav diff mode reweavablediffmod
+byte arrai output stream bytearrayoutputstream arrai stream arraystream byte arrai output stream bytearrayoutputstream
+data output stream dataoutputstream data output stream dataoutputstream arrai stream arraystream
+end kei endofkei find end kei findendofkei woven class file wovenclassfil
+start kei startofkei end kei endofkei kei length
+length wsi attribut written infront classfil
+swap diff kei chang length wsi
+fiddl 'int length' byte
+length locat oldlengthloc start kei startofkei
+length oldlength read int readint woven class file wovenclassfil length locat oldlengthloc
+woven class file wovenclassfil delet arrai deleteinarrai woven class file wovenclassfil start kei startofkei end kei endofkei wovenclassfil deleteinarrai wovenclassfil startofkei endofkei delet kei
+woven class file wsi wovenclassfileuptowsi length locat oldlengthloc
+system arraycopi woven class file wovenclassfil woven class file wsi wovenclassfileuptowsi length locat oldlengthloc
+diff gener diff generatediff woven class file wsi wovenclassfileuptowsi unwoven class file unwovenclassfil
+put length diff infront diff
+write int writeint diff length
+write diff
+except ioexcept
+diff arrai stream arraystream byte arrai tobytearrai
+swap oldlength
+add diff oldlength work
+length newlength length oldlength kei length diff length
+length byte newlengthbyt serial int serializeint length newlength
+swap serial newlength oldon
+woven class file wovenclassfil length locat oldlengthloc length byte newlengthbyt
+woven class file wovenclassfil length locat oldlengthloc length byte newlengthbyt
+woven class file wovenclassfil length locat oldlengthloc length byte newlengthbyt
+woven class file wovenclassfil length locat oldlengthloc length byte newlengthbyt
+add diff
+woven class file wovenclassfil insert arrai insertarrai diff woven class file wovenclassfil length locat oldlengthloc length oldlength kei length
+woven class file wovenclassfil

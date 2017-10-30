@@ -1,0 +1,16 @@
+version
+link field vector fieldvector link field element fieldel arrai
+org apach common math linear
+dot product dotproduct arrai field vector arrayfieldvector
+param type field element
+inherit doc inheritdoc
+check vector dimens checkvectordimens
+arrai field vector arrayfieldvector field element fieldel field vector fieldvector serializ
+class cast except classcastexcept cce
+dot field getzero
+dot dot add data multipli entri getentri
+dot
+version revis date
+data length
+dot product dotproduct field vector fieldvector
+illeg argument except illegalargumentexcept

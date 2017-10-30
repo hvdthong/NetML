@@ -1,0 +1,18 @@
+org aspectj util
+lang util langutil
+subclass implement synchron notic complet
+pipe process complet time
+except thrown pipe
+code getthrown code
+except process complet abruptli
+includ side effect user halt process
+code userstop code true client ask
+process destroi code stop code
+result code result
+return process
+param thrown code getthrown fromprocess code
+param result code getresult code
+getthrown
+getresult
+stop
+complet docomplet thrown thrown result

@@ -1,0 +1,19 @@
+param elit rate elitismr chromosom directli transfer
+creat link elitist list popul elitisticlistpopul instanc initi chromosom list
+org apach common math3 genet
+posit except notpositiveexcept rang except outofrangeexcept
+posit except notpositiveexcept popul limit posit number
+popul chromosom elit percentag
+set elit rate setelitismr elit rate elitismr
+chromosom directli copi gener
+popul limit populationlimit
+version
+elitist list popul elitisticlistpopul popul limit populationlimit elit rate elitismr
+param popul limit populationlimit maxim size popul
+elitist list popul elitisticlistpopul list popul listpopul
+chromosom list
+rang except outofrangeexcept elit rate rang
+creat list popul listpopul instanc initi
+elit rate elitismr elit rate elitismr
+gener
+param elit rate elitismr chromosom directli transfer gener

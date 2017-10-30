@@ -1,0 +1,36 @@
+overrid
+code decompos ludecompos code recomput decomposit
+solut invers
+inherit doc inheritdoc
+start row startrow end row endrow start column startcolumn end column endcolumn
+decomposit support linear system
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+visitor start row dimens getrowdimens column dimens getcolumndimens
+data modifi refer underli arrai obtain
+org apach common math linear
+invers
+visitor end
+version
+start column startcolumn end column endcolumn
+discard explicitli invok
+matrix index except matrixindexexcept matrix visitor except matrixvisitorexcept
+base code entri getentri code
+method
+store entri
+decomposit perform need support oper
+matrix util matrixutil check matrix index checksubmatrixindex start row startrow end row endrow start column startcolumn end column endcolumn
+decomposit cach reus subsequ call
+version revis date
+link real matrix realmatrix matrix element index
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+visitor visit data
+solv
+implement link real matrix realmatrix code arrai
+walk column order walkincolumnord real matrix preserv visitor realmatrixpreservingvisitor visitor
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+return element row column matrix
+href http www math gatech bourbaki math2601 web note 2num pdf
+start row startrow end row endrow

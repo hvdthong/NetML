@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+buf append
+len type pattern typepattern length len
+type pattern typepattern type type pattern typepattern
+buf append
+type type pattern typepattern ellipsi
+buf append
+buf append type string tostr
+buf append
+buf string tostr

@@ -1,0 +1,16 @@
+data entri getentri index
+link field vector fieldvector link field element fieldel arrai
+org apach common math3 linear
+class cast except classcastexcept cce
+param type field element
+inherit doc inheritdoc
+arrai field vector arrayfieldvector field element fieldel field vector fieldvector serializ
+set vector setsubvector index field vector fieldvector rang except outofrangeexcept
+rang except outofrangeexcept index valid
+index index dimens getdimens
+version
+check index checkindex index dimens getdimens
+set vector setsubvector index field vector fieldvector
+check index checkindex index
+set index arrai field vector arrayfieldvector
+index bound except indexoutofboundsexcept

@@ -1,0 +1,16 @@
+decor date time field decorateddatetimefield
+param local local select text symbol
+implement return maximum text length getmaximumtextlength
+org joda time field
+base date time field basedatetimefield date time field datetimefield
+date time field datetimefield kind date time field datetimefield
+maximum text field
+maximum short text length getmaximumshorttextlength local local
+base date time field basedatetimefield thread safe immut subclass
+object referenc
+author brian neill o'neil
+implement
+gener directli api user
+maximum text length
+base date time field basedatetimefield common behaviour date time field datetimefield
+maximum text length getmaximumtextlength local

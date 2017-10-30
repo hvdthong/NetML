@@ -1,0 +1,28 @@
+boundari tree
+plane min pxmin plane vector3 vector3d min xmin vector3 vector3d minu
+build parallellepiped box boundari
+org apach common math3 geometri euclidean threed
+plane min pzmin plane vector3 vector3d min zmin vector3 vector3d minu
+min ymin max ymax
+plane max pxmax plane vector3 vector3d max xmax vector3 vector3d
+min zmin max zmax
+bsp tree bsptree euclidean3 euclidean3d build boundari buildboundari min xmin max xmax
+happen provid normal
+plane max pymax plane vector3 vector3d max ymax vector3 vector3d
+param min zmin low bound direct
+param max xmax high bound direct
+version
+repres region set polyhedron
+param min xmin low bound direct
+region euclidean3 euclidean3d boundari
+plane min pymin plane vector3 vector3d min ymin vector3 vector3d minu
+param max ymax high bound direct
+param min ymin low bound direct
+suppress warn suppresswarn uncheck
+region factori regionfactori euclidean3 euclidean3d build convex buildconvex min pxmin max pxmax min pymin max pymax min pzmin max pzmax
+math intern error mathinternalerror mae
+math arithmet except matharithmeticexcept mae
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+param max zmax high bound direct
+plane max pzmax plane vector3 vector3d max zmax vector3 vector3d
+boundari tree gettre

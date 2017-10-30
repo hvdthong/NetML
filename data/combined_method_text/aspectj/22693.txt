@@ -1,0 +1,27 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+exactannotationtypepattern incorrect target
+object visit exact annot type pattern exactannotationtypepattern node object data
+resolv type resolvedtyp resolv type resolvedtyp node annot type getannotationtyp resolv scope world getworld
+target type allow targetsotherthantypeallow
+annot target kind annotationtargetkind target kind targetkind resolv type resolvedtyp annot target kind getannotationtargetkind
+target kind targetkind data
+list incorrect target incorrecttarget arrai list arraylist
+target kind targetkind length
+target kind targetkind getnam equal kind getnam
+target kind targetkind getnam equal paramet node paramet annot match isforparameterannotationmatch
+data
+incorrect target incorrecttarget add target kind targetkind
+incorrect target incorrecttarget empti isempti data
+annot target kind annotationtargetkind kind annot target kind annotationtargetkind incorrect target incorrecttarget size
+incorrect target kind incorrecttargetkind put node annot target kind annotationtargetkind incorrect target incorrecttarget arrai toarrai kind
+target type allow targetsotherthantypeallow resolv type resolvedtyp annot target type canannotationtargettyp
+annot target kind annotationtargetkind target kind targetkind resolv type resolvedtyp annot target kind getannotationtargetkind
+target kind targetkind data
+except paramet annot allow
+paramet target annot allow parametertargettingannotationsallow
+target kind targetkind length
+annot target kind annotationtargetkind annot target kind annotationtargetkind target kind targetkind
+annot target kind annotationtargetkind getnam equal paramet node paramet annot match isforparameterannotationmatch data
+incorrect target kind incorrecttargetkind put node target kind targetkind
+data

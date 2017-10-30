@@ -1,0 +1,13 @@
+set iter evalu count
+allow number evalu set link integ max
+simpl vectori checker simplevectorialvaluecheck integ max
+simpl vectori checker simplevectorialvaluecheck
+converg check set link simpl vectori checker simplevectorialvaluecheck
+base handl boiler plate method threshold
+org apach common math optim direct
+base abstract vectori optim baseabstractvectorialoptim
+simpl constructor set
+base abstract vectori optim baseabstractvectorialoptim func multivari vectori function multivariatevectorialfunct
+base implement optim multivari scalar function
+param func type object function optim
+version revis date

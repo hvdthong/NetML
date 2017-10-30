@@ -1,0 +1,13 @@
+author stephen colebourn
+read writabl date time readwritabledatetim readabl date time readabledatetim read writabl instant readwritableinst
+defin instant time queri modifi datetim field
+param milli millisofsecond milli
+paramet method manipul chang date simpl wai
+implement mutabl
+org joda time
+provid advanc method
+author brian neill o'neil
+method applic defin code read writabl date time readwritabledatetim code
+set milli
+illeg argument except illegalargumentexcept invalid
+set milli setmillisofsecond milli millisofsecond

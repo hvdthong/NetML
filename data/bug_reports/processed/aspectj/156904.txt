@@ -1,0 +1,18 @@
+incorrect warning advising private method private class
+eclipse ajdt give incorrect warning advise private method private class
+advise private method private class
+public class outer
+
+private class
+
+private void mymethod
+
+
+poincut
+poincut innerpointcut execution outer mymethod
+advice
+innerpointcut
+
+system println executing
+
+warning invalidabsolutetypename pointcut advice marker points private method

@@ -1,0 +1,31 @@
+pre
+code
+vector element wise perform oper ad scalar
+org apach common math except dimens mismatch except dimensionmismatchexcept
+interfac defin real valu vector basic algebra oper
+version creat vector hold result chang instanc
+vector element index base code entri getentri
+style
+code code map code map maptoself method oper
+org apach common math linear
+code map maptoself version instanc store
+return element vector
+real vector realvector result map add mapaddtoself map maptoself tan map maptoself power
+version
+code compon equal
+dimens getdimens
+param weight code
+appli function element turn code map
+real vector realvector
+vector return method fluent api
+entri getentri
+result instanc chang method case result
+code size vector
+updat code linear combin code
+param vector code linearli combin
+vector return method allow fluent api
+code code
+class defin real valu vector basic algebra oper
+check vector dimens checkvectordimens
+set entri setentri
+real vector realvector combin combinetoself real vector realvector

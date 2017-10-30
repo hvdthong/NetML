@@ -1,0 +1,17 @@
+org aspectj org eclips jdt core dom
+afterthrowingadvicedeclar dom ast node
+afteradvicedeclar
+option throw properti
+inherit properti descriptor advicedeclar
+add throw properti
+mix descript class properti list
+redefin
+'throwing' prefix distinguish defin advicedeclar
+work
+author ajh02
+throw advic declar afterthrowingadvicedeclar advic declar afteradvicedeclar
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+properti throw throw properti throwingthrow properti
+throw getthrow
+set throw setthrow singl variabl declar singlevariabledeclar child
+intern set child properti internalgetsetchildproperti properti child

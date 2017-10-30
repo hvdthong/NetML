@@ -1,0 +1,4 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+aspect annot hasaspectjannot
+advic annot hasadviceannot pointcut annot haspointcutannot advic annot hasadvicenameannot aspect annot hasaspectannot

@@ -1,0 +1,26 @@
+build arrai element
+org apach common math3 util
+arrai
+arrai code field row code work
+suppress warn suppresswarn uncheck field correct
+arrai arrai instanc newinst field runtim class getruntimeclass
+arrai fill field getzero
+build dimens arrai element
+arrai arrai instanc newinst field runtim class getruntimeclass length
+param field field arrai element belong
+arrai arrai instanc newinst dummi row dummyrow class getclass row
+dummi row dummyrow build arrai buildarrai field
+param row number row arrai
+version
+row
+param length arrai
+build arrai buildarrai field field row column
+build arrai buildarrai field field length
+math arrai matharrai
+param type field element
+suppress warn suppresswarn uncheck
+column
+arrai util
+row column
+arrai fill arrai field getzero
+param column number column neg build partial

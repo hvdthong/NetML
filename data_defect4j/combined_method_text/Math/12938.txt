@@ -1,0 +1,22 @@
+param type space
+hyperplan subhyperplan plusoutsid
+tree complement node
+node cut getcut
+boundari attribut boundaryattribut attribut boundari attribut boundaryattribut node attribut getattribut
+org apach common math3 geometri partit
+attribut boundari attribut boundaryattribut plusoutsid insid plusinsid
+recurs complement recursecompl node minu getminu
+bsp tree bsptree node cut getcut copi copyself
+recurs complement recursecompl node getplu
+version
+bsp tree bsptree boolean node attribut getattribut boolean fals boolean true
+attribut
+attribut getplusoutsid attribut getplusoutsid copi copyself
+hyperplan subhyperplan insid plusinsid
+bsp tree bsptree recurs complement recursecompl bsp tree bsptree node
+region factori regionfactori space
+attribut insid getplusinsid attribut insid getplusinsid copi copyself
+recurs build complement bsp tree
+factori link region
+suppress warn suppresswarn uncheck
+param node current node origin tree

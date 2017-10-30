@@ -1,0 +1,47 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+add class file jar
+list add jar file addjarfil file file infil file dir outdir directori canbedirectori
+system err println addjarfil infil outdir
+list ad class file addedclassfil arrai list arraylist
+reweav world needtoreweaveworld
+jar file jarfil jar injar
+directori
+file infil directori isdirectori directori canbedirectori
+ad class file addedclassfil add addal add directori content adddirectorycont file infil dir outdir
+jar injar jar file jarfil file infil
+add manifest addmanifest jar injar manifest getmanifest
+enumer entri jar injar entri
+entri element hasmoreel
+jar entri jarentri entri jar entri jarentri entri element nextel
+input stream inputstream stream instream jar injar input stream getinputstream entri
+byte file util fileutil read byte arrai readasbytearrai stream instream
+string filenam entri getnam
+system println addjarfil filenam filenam
+unwoven class file unwovenclassfil class file classfil unwoven class file unwovenclassfil file dir outdir filenam absolut path getabsolutepath byte
+filenam end endswith class
+add class file addclassfil class file classfil
+ad class file addedclassfil add class file classfil
+entri isdirectori
+bug copi meta data
+addresourc filenam classfil
+stream instream close
+jar injar close
+file found except filenotfoundexcept
+messag imessag messag messag
+find input jar file file infil path getpath ignor
+sourc locat sourceloc file infil
+world messag handler getmessagehandl handl messag handlemessag messag
+except ioexcept
+messag imessag messag messag
+read input jar file file infil path getpath messag getmessag
+sourc locat sourceloc file infil
+world messag handler getmessagehandl handl messag handlemessag messag
+jar injar
+jar injar close
+except ioexcept
+messag imessag messag messag
+close input jar file file infil path getpath messag getmessag
+sourc locat sourceloc file infil
+world messag handler getmessagehandl handl messag handlemessag messag
+ad class file addedclassfil

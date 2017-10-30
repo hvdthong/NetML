@@ -1,0 +1,21 @@
+linear constraint linear equat form
+linear constraint linear optim problem
+param relationship type equal constraint
+rh constant rhsconstant lh constant lhsconstant
+org apach common math3 optim linear
+linear constraint linearconstraint serializ
+param rh constant rhsconstant constant term linear express hand side constraint
+linear constraint linearconstraint real vector realvector lh coeffici lhscoeffici lh constant lhsconstant
+version
+cst
+coeffici constraint
+real vector realvector rh coeffici rhscoeffici rh constant rhsconstant
+param lh coeffici lhscoeffici coeffici linear express left hand side constraint
+deprec remov
+build constraint involv linear equat
+relationship relationship
+coeffici lh coeffici lhscoeffici subtract rh coeffici rhscoeffici
+param rh coeffici rhscoeffici coeffici linear express hand side constraint
+param lh constant lhsconstant constant term linear express left hand side constraint
+coordin current point constraint
+linear constraint form

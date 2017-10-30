@@ -1,0 +1,25 @@
+overrid
+pattern languag format
+author href mailto sbailliez apach org stephan bailliez
+year
+month
+second
+tabl border
+tabl
+millisecond
+string string tostr
+org apach common lang3 time
+repres token string
+version
+string util stringutil repeat string tostr count
+durat format util constant tabl describ token
+durat format util durationformatutil
+author apach softwar foundat
+dai
+author href mailto ggregori seagullsw gari gregori
+charact durat element
+author apach ant date util dateutil
+hour
+author href mailto stefan bodewig epost stefan bodewig
+minut
+string represent token

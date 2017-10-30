@@ -1,0 +1,37 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+handl messag handlemessag messag imessag messag abort except abortexcept
+kind messag kind messagekind messag kind getkind
+string messag text messagetext messag string tostr
+messag kind messagekind messag imessag abort
+logger error messag text messagetext
+messag kind messagekind messag imessag debug
+logger debug messag text messagetext
+messag kind messagekind messag imessag error
+logger error messag text messagetext
+messag kind messagekind messag imessag fail
+logger error messag text messagetext
+messag kind messagekind messag imessag info
+task level verbos tasklevelverbos
+logger info messag text messagetext
+logger verbos messag text messagetext
+messag kind messagekind messag imessag warn
+logger warn messag text messagetext
+messag kind messagekind messag imessag weaveinfo
+logger info messag text messagetext
+messag kind messagekind messag imessag tasktag
+ignor
+build except buildexcept unknown messag kind aspectj compil messag kind messagekind string tostr
+handl messag handledmessag

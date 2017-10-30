@@ -1,0 +1,7 @@
+org apach lucen index
+format post field writer formatpostingsfieldswrit format post field consum formatpostingsfieldsconsum
+call ad
+overrid
+finish except ioexcept
+term termsout close
+term writer termswrit close

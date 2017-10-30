@@ -1,0 +1,7 @@
+org aspectj ajd
+compil listen notifi structur model updat event
+xxx remov
+author mik kersten
+editor listen editorlisten event listen eventlisten
+param filepath full path current file edit
+current file chang currentfilechang string file path filepath

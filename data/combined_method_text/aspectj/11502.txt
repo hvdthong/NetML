@@ -1,0 +1,38 @@
+org aspectj ajdt intern compil lookup
+adaptor org eclips jdt intern compil lookup scope org aspectj weaver iscop
+author jim hugunin
+eclips scope eclipsescop scope iscop
+unresolv type unresolvedtyp lookup type lookuptyp string posit ihasposit locat
+split splitnam wild type pattern wildtypepattern split name splitnam
+type bind typebind scope type gettyp split splitnam split splitnam length
+fixm reason error handl
+valid bind isvalidbind
+resolv type resolvedtyp miss
+system err println bind
+bind token bit restrictiveflagmask
+world bind frombind
+computeimport
+system println lookup
+arrai aslist importedprefix
+resolvedtyp ret null
+string dotnam
+int importednam length
+string importednam importednam
+importednam endswith
+importednam length length
+importednam endswith dotnam
+resolvedtyp found resolvevis importednam
+found resolvedtyp miss continu
+ret null
+messag imessag error locat
+ambigu type refer ret getnam importednam
+return resolvedtyp miss
+ret found
+ret null return ret
+xxx handl ambigu refer
+int importedprefix length
+string importedprefix importedprefix
+resolvedtyp trytyp resolvevis importedprefix
+trytyp resolvedtyp miss
+return trytyp
+return resolvevis

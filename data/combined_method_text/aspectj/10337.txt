@@ -1,0 +1,6 @@
+org aspectj ajd core
+interfac handl compil output
+output folder sourc file
+output locat manag ioutputlocationmanag
+return list output locat handl outputlocationmanag
+list output locat getalloutputloc list file getalloutputloc

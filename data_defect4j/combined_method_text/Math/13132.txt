@@ -1,0 +1,7 @@
+row dimens getrowdimens
+row dimens rowdimens
+interfac defin basic matrix oper
+matrix anymatrix
+org apach common math3 linear
+version
+return number row matrix

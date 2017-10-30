@@ -1,0 +1,9 @@
+org apach common math3 analysi solver
+version
+solver
+abstract univari differenti solver abstractunivariatedifferentiablesolv
+provid implement function gener
+absolut accuraci absoluteaccuraci
+construct solver absolut accuraci
+param absolut accuraci absoluteaccuraci maximum absolut error
+abstract univari differenti solver abstractunivariatedifferentiablesolv absolut accuraci absoluteaccuraci

@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+annot pattern list annotationpatternlist pattern node patternnod
+annot pattern list annotationpatternlist resolv refer resolverefer int map intmap bind
+len type pattern typepattern length
+annot type pattern annotationtypepattern ret annot type pattern annotationtypepattern len
+len
+ret type pattern typepattern remap advic formal remapadviceform bind
+annot pattern list annotationpatternlist ret

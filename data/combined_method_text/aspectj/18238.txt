@@ -1,0 +1,15 @@
+org aspectj util
+lang util langutil
+shorthand null assign throw illegalargumentexcept
+param class check null ignor type check
+throw illegalargumentexcept null null
+throw iax assign throwiaxifnotassign object class string
+throw iax null throwiaxifnul
+string label input
+length
+string null label
+illeg argument except illegalargumentexcept
+class actual class actualclass class getclass
+assign isassignablefrom actual class actualclass
+string messag label assign getnam
+illeg argument except illegalargumentexcept messag

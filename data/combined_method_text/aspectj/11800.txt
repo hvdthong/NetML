@@ -1,0 +1,10 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+join map local map global
+iter iter global kei set keyset iter iter hasnext
+object kei iter
+overrid local kei overrid null local kei
+object global kei
+local put kei

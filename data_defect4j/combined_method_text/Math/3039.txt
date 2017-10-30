@@ -1,0 +1,12 @@
+split hyperplan splitsubhyperplan euclidean1 euclidean1d split hyperplan euclidean1 euclidean1d hyperplan
+hyperplan simpl point orient
+inherit doc inheritdoc
+global
+instanc guarante immut
+orient point suborientedpoint abstract hyperplan abstractsubhyperplan euclidean1 euclidean1d euclidean1 euclidean1d
+overrid
+version
+split hyperplan splitsubhyperplan euclidean1 euclidean1d
+repres hyperplan link orient point orientedpoint
+org apach common math geometri euclidean on
+global hyperplan offset getoffset orient point orientedpoint hyperplan gethyperplan locat getloc

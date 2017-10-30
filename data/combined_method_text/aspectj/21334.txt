@@ -1,0 +1,6 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+string suffix getsuffix
+class loader getclassloadernam

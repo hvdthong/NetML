@@ -1,0 +1,27 @@
+phase phi code co omega phi code
+org apach common math3 fit
+curr observ
+sort observ respect abscissa
+harmon fit simpl curv fit
+param unsort input observ
+weight observ point weightedobservedpoint sort observ sortobserv weight observ point weightedobservedpoint unsort
+input observ sort
+curr getx prec getx
+harmon fitter harmonicfitt curv fitter curvefitt harmon oscil harmonicoscil parametr
+class curv fit special sinusoid
+observ curr
+weight observ point weightedobservedpoint prec curr
+weight observ point weightedobservedpoint observ unsort clone
+method implement insert sort reorder
+weight observ point weightedobservedpoint curr observ
+sampl sort
+base integr
+element place insert sort effici
+observ length
+version harmon fitter harmonicfitt java 14z
+weight observ point weightedobservedpoint observ
+search squar estim initi rough guess
+curr getx getx
+current element insert closer begin
+estim coeffici amplitud pulsat omega
+observ

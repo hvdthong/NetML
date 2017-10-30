@@ -1,0 +1,9 @@
+default implement link process model processmodel link kalman filter kalmanfilt
+process nois cov matrix processnoisecovmatrix
+inherit doc inheritdoc
+default implement link process model processmodel
+default process model defaultprocessmodel process model processmodel
+real matrix realmatrix process nois getprocessnois
+org apach common math3 filter
+version
+link kalman filter kalmanfilt

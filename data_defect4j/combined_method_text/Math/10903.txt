@@ -1,0 +1,31 @@
+replac 'j' number format real
+code
+org apach common math3 complex
+data except nodataexcept code imaginari charact imaginarycharact
+creat instanc custom imaginari charact
+null argument except nullargumentexcept local format localizedformat real format
+null argument except nullargumentexcept code real format realformat code
+complex format complexformat string imaginari charact imaginarycharact
+null argument except nullargumentexcept code imaginari charact imaginarycharact
+imaginari format imaginaryformat
+param imaginari charact imaginarycharact custom imaginari charact
+null argument except nullargumentexcept data except nodataexcept
+imaginari charact imaginarycharact composit format compositeformat default number format getdefaultnumberformat
+real format realformat real format realformat
+empti string
+complex format complexformat number format numberformat real format realformat number format numberformat imaginari format imaginaryformat
+version
+imaginari charact imaginarycharact default imaginari charact
+real format realformat
+format complex number cartesian format 'i'
+param imaginari format imaginaryformat custom format imaginari part
+param real format realformat custom format real part
+custom number format imaginari part
+imaginari format imaginaryformat imaginari format imaginaryformat
+complex format complexformat
+null argument except nullargumentexcept local format localizedformat imaginari format
+number format real imaginari part
+creat instanc custom number format real part
+null argument except nullargumentexcept code imaginari format imaginaryformat code
+imaginari part configur
+null argument except nullargumentexcept

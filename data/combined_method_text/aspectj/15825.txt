@@ -1,0 +1,16 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+string long string tolongstr
+string buffer stringbuff buffer string buffer stringbuff
+hierarchi walker hierarchywalk walker hierarchi walker hierarchywalk
+depth
+pre process preprocess program element iprogramel node
+depth buffer append
+buffer append node string tostr
+buffer append
+depth
+post process postprocess program element iprogramel node
+depth
+walker process
+buffer string tostr

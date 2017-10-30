@@ -1,0 +1,14 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+string format entri formatentri phase phaseid object data
+string buffer stringbuff string buffer stringbuff
+phase phaseid compil weav context compilationandweavingcontext batch build batch build
+append batch build
+append increment build
+build config ajbuildconfig config build config ajbuildconfig data
+list classpath config classpath getclasspath
+append classpath
+iter iter classpath iter iter hasnext
+append iter string tostr
+append file path separ pathsepar
+string tostr

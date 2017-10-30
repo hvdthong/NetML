@@ -1,0 +1,20 @@
+pearson correl pearsonscorrel real matrix realmatrix covari matrix covariancematrix number observ numberofobserv
+code code code code code code
+column matrix
+code code argument gener correl matric
+constructor code real matrix realmatrix code
+comput pearson' product moment correl coeffici pair arrai
+pearson correl pearsonscorrel
+column input matric assum repres variabl valu
+param covari matrix covariancematrix covari matrix
+creat pearson correl pearsonscorrel covari matrix correl
+matrix comput scale covari matrix
+version
+code cor sigma code
+param number observ numberofobserv number observ dataset comput
+ob nob number observ numberofobserv
+correl formula
+correl matrix correlationmatrix covari correl covariancetocorrel covari matrix covariancematrix
+covari matrix
+code code valu standard deviat
+org apach common math3 stat correl

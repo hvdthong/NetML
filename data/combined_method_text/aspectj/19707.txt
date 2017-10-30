@@ -1,0 +1,8 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+visibl ismorevis
+modifi privat ispriv
+packag ispackag modifi privat ispriv
+modifi protect isprotect modifi privat ispriv packag ispackag modifi isprotect return privat packag modifi ispriv ispackag
+modifi public ispubl modifi public ispubl modifi ispubl return privat packag protect modifi ispubl
+runtim except runtimeexcept bad modifi

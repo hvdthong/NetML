@@ -1,0 +1,4 @@
+org aspectj weaver bcel
+bcel method bcelmethod resolv member impl resolvedmemberimpl
+shadow munger shadowmung shadow munger getassociatedshadowmung
+shadow munger associatedshadowmung

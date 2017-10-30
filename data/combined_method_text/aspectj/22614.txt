@@ -1,0 +1,31 @@
+org aspectj weaver pattern
+author colyer
+perform term rewrit pointcut express
+pointcut rewrit pointcutrewrit
+pointcut distribut distributenot pointcut
+isnot
+pointcut notpointcut npc pointcut notpointcut
+pointcut bodi notbodi distribut distributenot npc negat pointcut getnegatedpointcut
+isnot bodi notbodi
+pointcut notpointcut bodi notbodi negat pointcut getnegatedpointcut
+isand bodi notbodi
+pointcut andpointcut apc pointcut andpointcut bodi notbodi
+pointcut left newleft distribut distributenot pointcut notpointcut apc left getleft
+pointcut newright distribut distributenot pointcut notpointcut apc getright
+pointcut orpointcut left newleft newright
+isor bodi notbodi
+pointcut orpointcut opc pointcut orpointcut bodi notbodi
+pointcut left newleft distribut distributenot pointcut notpointcut opc left getleft
+pointcut newright distribut distributenot pointcut notpointcut opc getright
+pointcut andpointcut left newleft newright
+pointcut notpointcut bodi notbodi
+isand
+pointcut andpointcut apc pointcut andpointcut
+pointcut left distribut distributenot apc left getleft
+pointcut distribut distributenot apc getright
+pointcut andpointcut left
+isor
+pointcut orpointcut opc pointcut orpointcut
+pointcut left distribut distributenot opc left getleft
+pointcut distribut distributenot opc getright
+pointcut orpointcut left

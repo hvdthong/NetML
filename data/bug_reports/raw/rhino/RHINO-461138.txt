@@ -1,0 +1,16 @@
+Setter for a Scriptable on host object doesn't accept null value
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.3) Gecko/2008092510 Ubuntu/8.04 (hardy) Firefox/3.0.3
+Build Identifier: 
+
+When defining a setter on an host object for a field that implements Scriptable, Rhino throws EcmaError
+org.mozilla.javascript.EcmaError: TypeError: Cannot convert null to an object.
+when trying to assign null value.
+
+A workaround consists in changing the signature of the setter to accept java.lang.Object instead of the desired Scriptable, but it is not pleasant.
+
+Reproducible: Always
+
+Steps to Reproduce:
+1.
+2.
+3.

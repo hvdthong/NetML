@@ -1,0 +1,12 @@
+org aspectj weaver loadtim
+weav url class loader weavingurlclassload extens url class loader extensibleurlclassload weav class loader weavingclassload
+creat adaptor createadaptor
+default weav context defaultweavingcontext weav context weavingcontext default weav context defaultweavingcontext
+ensur consist ltw messag test
+string class loader getclassloadernam
+loader class getclass getnam
+class loader weav adaptor classloaderweavingadaptor clw adaptor clwadaptor class loader weav adaptor classloaderweavingadaptor
+initi adaptor initializingadaptor
+clw adaptor clwadaptor initi weav context weavingcontext
+initi adaptor initializingadaptor
+adaptor clw adaptor clwadaptor

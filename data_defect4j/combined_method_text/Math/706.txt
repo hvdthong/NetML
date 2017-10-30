@@ -1,0 +1,12 @@
+chapter
+function integr
+org apach common math analysi integr
+inherit doc inheritdoc
+deprec
+trapezoid rule integr real univari function
+version revis date
+max iter exceed except maxiterationsexceededexcept function evalu except functionevaluationexcept illeg argument except illegalargumentexcept
+refer introduct numer analysi isbn 038795452x
+integr min max
+implement href http mathworld wolfram trapezoid rule trapezoidalrul html
+trapezoid integr trapezoidintegr univari real integr impl univariaterealintegratorimpl

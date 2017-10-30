@@ -1,0 +1,10 @@
+org aspectj apach bcel classfil
+pars gener signatur attribut defin jvm spec
+gener signatur parser genericsignaturepars
+arrai type signatur arraytypesignatur pars arrai type signatur parsearraytypesignatur
+open eaten
+field type signatur fieldtypesignatur field type fieldtyp pars field type signatur parsefieldtypesignatur
+field type fieldtyp
+arrai type signatur arraytypesignatur field type fieldtyp
+basetyp arrai
+arrai type signatur arraytypesignatur base type signatur basetypesignatur eat identifi eatidentifi

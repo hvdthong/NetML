@@ -1,0 +1,37 @@
+org aspectj apach bcel gener annot
+element gen elementvaluegen
+element gen elementvaluegen read element readelementvalu data input stream datainputstream di constant pool gen constantpoolgen gen cpgen except ioexcept
+type di read unsign byte readunsignedbyt
+type
+case 'b' byte
+simpl element gen simpleelementvaluegen primit byte primit byte di read unsign short readunsignedshort gen cpgen
+case 'c' char
+simpl element gen simpleelementvaluegen primit char primit char di read unsign short readunsignedshort gen cpgen
+case 'd' doubl
+simpl element gen simpleelementvaluegen primit doubl primit doubl di read unsign short readunsignedshort gen cpgen
+case 'f' float
+simpl element gen simpleelementvaluegen primit float primit float di read unsign short readunsignedshort gen cpgen
+case 'i' int
+simpl element gen simpleelementvaluegen primit int primit int di read unsign short readunsignedshort gen cpgen
+case 'j' long
+simpl element gen simpleelementvaluegen primit long primit long di read unsign short readunsignedshort gen cpgen
+case 's' short
+simpl element gen simpleelementvaluegen primit short primit short di read unsign short readunsignedshort gen cpgen
+case 'z' boolean
+simpl element gen simpleelementvaluegen primit boolean primit boolean di read unsign short readunsignedshort gen cpgen
+case 's' string
+simpl element gen simpleelementvaluegen string di read unsign short readunsignedshort gen cpgen
+case 'e' enum constant
+enum element gen enumelementvaluegen di read unsign short readunsignedshort di read unsign short readunsignedshort gen cpgen
+case 'c' class
+class element gen classelementvaluegen di read unsign short readunsignedshort gen cpgen
+case annot
+return annotationelementvaluegen annot annot read di cpgen cpgen
+case arrai
+int numarrayv di readunsignedshort
+list arrayv arraylist
+elementvalu evalu elementvalu numarrayv
+int numarrayv
+evalu elementvalu readelementvalu di cpgen
+return arrayelementvalu arrai evalu cpgen
+runtim except runtimeexcept unexpect element kind annot type

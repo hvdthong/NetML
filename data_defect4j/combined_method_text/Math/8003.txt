@@ -1,0 +1,13 @@
+evalu getevalu
+param func type object function optim
+total evalu totalevalu
+inherit doc inheritdoc
+version
+turn start point order avoid trap
+multi start univari real optim multistartunivariaterealoptim func univari real function univariaterealfunct
+wrap classic optim time
+org apach common math optim univari
+special implement link univari real optim univariaterealoptim
+local extremum global
+version revis date
+ad multi start featur exist optim

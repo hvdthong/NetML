@@ -1,0 +1,19 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+add replac descend addorreplacedescendantsof resolv type resolvedtyp aspect type aspecttyp weav phase inweavephas
+system err println descend aspecttyp getnam
+set aspect knownaspect member kei set keyset
+set replac tobereplac hash set hashset
+iter aspect knownaspect iter hasnext
+resolv type resolvedtyp candid descend candidatedescend resolv type resolvedtyp
+candid descend candidatedescend aspect type aspecttyp aspect type aspecttyp assign isassignablefrom candid descend candidatedescend
+replac tobereplac add candid descend candidatedescend
+chang
+iter replac tobereplac iter hasnext
+resolv type resolvedtyp resolv type resolvedtyp
+chang thischang add replac aspect addorreplaceaspect weav phase inweavephas
+chang chang chang thischang
+chang

@@ -1,0 +1,9 @@
+param chromosom
+oper sourc pair chromosom
+org apach common math genet
+perform crossov oper chromosom
+pair chromosom result crossov
+crossov polici crossoverpolici
+version revis date
+polici creat pair chromosom perform crossov
+chromosom pair chromosomepair crossov chromosom chromosom

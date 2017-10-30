@@ -1,0 +1,37 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+annot type pattern annotationtypepattern resolv bind resolvebind scope iscop scope
+bind bind bind allowbind
+resolv
+resolv
+string simpl simplenam simpl maybegetsimplenam
+simpl simplenam
+formal bind formalbind formal bind formalbind scope lookup formal lookupform simpl simplenam
+formal bind formalbind
+bind
+scope messag messag imessag error negat bind
+bind allowbind
+scope messag messag imessag error
+bind allow pcd arg target
+formal formalnam simpl simplenam
+bind pattern bindingpattern
+verifi annot type verifyisannotationtyp formal bind formalbind type gettyp resolv scope world getworld scope
+bind annot type pattern bindingannotationtypepattern bind bind annot type pattern bindingannotationtypepattern formal bind formalbind
+bind copi locat copylocationfrom
+bind regist bind scope
+bind resolv bind resolvebind scope world getworld
+paramet annot match isforparameterannotationmatch bind set paramet annot match setforparameterannotationmatch
+bind
+bind case
+string cleannam annot type annotationtyp getnam
+annot type annotationtyp scope world getworld resolv annot type annotationtyp
+found packag let
+resolv type resolvedtyp miss ismiss annot type annotationtyp
+unresolv type unresolvedtyp type
+resolv type resolvedtyp miss ismiss type scope lookup type lookuptyp cleannam
+dot lastdot cleannam index lastindexof
+dot lastdot
+cleannam cleannam substr dot lastdot cleannam substr dot lastdot
+annot type annotationtyp scope world getworld resolv type
+verifi annot type verifyisannotationtyp resolv type resolvedtyp annot type annotationtyp scope

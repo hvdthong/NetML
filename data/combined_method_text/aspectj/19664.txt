@@ -1,0 +1,10 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return list method declar class declar superclass recurs declar
+superinterfac getmethod call work iter return method
+declar class start end debug problem creat altern
+list method iter getmethodswithoutiter includ includeitd miss allowmiss
+list method arrai list arraylist
+set knowninterfac hash set hashset
+add recurs addandrecurs knowninterfac method includ includeitd miss allowmiss
+method

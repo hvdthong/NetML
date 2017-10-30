@@ -1,0 +1,15 @@
+org aspectj weaver pattern
+creation type pattern wildtypepattern node bindingtyp exacttyp
+call resolvebind compil
+concret enclos pointcut call remapadviceform
+author erik hilsdal
+author jim hugunin
+type pattern typepattern pattern node patternnod
+match subtyp matchessubtyp resolv type resolvedtyp super type supertyp resolv type resolvedtyp annot type annotatedtyp
+system println match type
+match matchesexactli super type supertyp annot type annotatedtyp
+system println true
+fuzzyboolean ret fuzzyboolean
+iter super type supertyp direct supertyp getdirectsupertyp hasnext
+resolv type resolvedtyp super super type supersupertyp resolv type resolvedtyp
+match subtyp matchessubtyp super super type supersupertyp annot type annotatedtyp

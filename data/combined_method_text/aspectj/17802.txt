@@ -1,0 +1,166 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+read argument command line
+support compil adapt compilerarg subel
+param arg string argument read
+read argument readargu string arg public void readargu string arg xxx slow stupid unmaintain
+arg arg length
+string wrapper increment error report
+arg
+string arg
+index
+arg string arg
+arg arg arg arg null empti
+hasnext
+index arg length
+string
+string err
+hasnext
+err arg flag arg arg length
+string arg index
+err null
+trim
+trim length
+err
+err index arrai list aslist arg
+build except buildexcept err
+class arg
+arg arg arg
+string flag
+hasnext
+flag
+equal flag
+set complianc setcompli flag
+equal flag
+set complianc setcompli flag
+equal flag
+set complianc setcompli
+argfil equal flag
+set argfil setargfil path project
+aspectpath equal flag
+set aspectpath setaspectpath path project
+classpath equal flag
+set classpath setclasspath path project
+extdir equal flag
+set extdir setextdir path project
+xcopyinjar equal flag
+set copi injar setcopyinjar setcopyinjar true flag setter
+equal flag
+set debug setdebug
+flag start startswith
+set debug level setdebuglevel flag substr
+deprec equal flag
+set deprec setdeprec
+equal flag
+set destdir setdestdir file
+crossref equal flag
+set crossref setcrossref
+emacssym equal flag
+set emacssym setemacssym
+encod equal flag
+set encod setencod
+xfailonerror equal flag
+set failonerror setfailonerror
+fork equal flag
+set fork setfork
+forkclasspath equal flag
+set forkclasspath setforkclasspath path project
+equal flag
+set sethelp
+increment equal flag
+set increment setincrement
+injar equal flag
+set injar setinjar path project
+inpath equal flag
+set inpath setinpath path project
+xlistfilearg equal flag
+set list file arg setlistfilearg
+xmaxmem equal flag
+set maxmem setmaxmem
+xmessageholderclass equal flag
+set messag holder class setmessageholderclass
+noexit equal flag
+set exit setnoexit
+noimport equal flag
+set exit setnoexit
+noexit equal flag
+set exit setnoexit
+noimporterror equal flag
+set import error setnoimporterror
+nowarn equal flag
+set nowarn setnowarn
+noexit equal flag
+set exit setnoexit
+outjar equal flag
+set outjar setoutjar file
+outxml equal flag
+set outxml setoutxml
+outxmlfil equal flag
+set outxmlfil setoutxmlfil
+preserveallloc equal flag
+set preserv local setpreserveallloc
+proceedonerror equal flag
+set proce error setproceedonerror
+referenceinfo equal flag
+set refer info setreferenceinfo
+sourc equal flag
+set sourc setsourc
+xsourcerootcopyfilt equal flag
+set sourc root copi filter setsourcerootcopyfilt
+sourceroot equal flag
+set sourc root setsourceroot path project
+xsrcdir equal flag
+set src dir setsrcdir path project
+xtagfil equal flag
+set tag file settagfil file
+target equal flag
+set target settarget
+time equal flag
+set time settim
+time equal flag
+set time settim
+verbos equal flag
+set verbos setverbos
+showweaveinfo equal flag
+set show weav info setshowweaveinfo
+version equal flag
+set version setvers
+warn equal flag
+set warn setwarn
+flag start startswith warn
+set warn setwarn flag substr
+xlint equal flag
+set xlintwarn setxlintwarn
+flag start startswith xlint
+set xlint setxlint flag substr
+xlintfil equal flag
+set xlintfil setxlintfil file
+xterminateaftercompil equal flag
+set termin compil setxterminateaftercompil
+xreweav equal flag
+set reweav setxreweav
+xnotreweav equal flag
+set reweav setxnotreweav
+flag start startswith
+file file file flag substr
+file read canread
+set argfil setargfil path project file path getpath
+ignor flag
+file file file flag
+file file isfil
+file read canread
+file util fileutil sourc suffix hassourcesuffix file
+add file addfil file
+ignor flag

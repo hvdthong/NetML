@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+report warn
+param messag
+param locat
+report warn reportwarn string messag attribut struct ajattributestruct locat
+locat handler ignor isignor messag imessag warn
+locat handler handl messag handlemessag
+messag
+messag
+locat enclos type enclosingtyp sourc locat getsourceloc

@@ -1,0 +1,31 @@
+org aspectj ajdt intern compil problem
+extend problem report support compil side implement declar soft
+overrid error report implement abstract method
+account inter type declar pointcut declar
+job directli sourcetypebind classscop class
+author jim hugunin
+problem report ajproblemreport problem report problemreport
+disallow target annot disallowedtargetforannot annot annot
+annotation' recipi itd allow
+annot recipi method bind methodbind
+method bind methodbind bind method bind methodbind annot recipi
+string string bind selector
+start startswith ajc
+meta tag bit metatagbit annot resolv type resolvedtyp annot tag bit getannotationtagbit long metatagbit annot resolvedtyp getannotationtagbit forward refer
+index indexof interfield
+meta tag bit metatagbit tag bit tagbit annot field annotationforfield
+index indexof interconstructor
+meta tag bit metatagbit tag bit tagbit annot constructor annotationforconstructor
+index indexof intermethod
+meta tag bit metatagbit tag bit tagbit annot method annotationformethod
+index indexof declar declar annot declareannot type type
+meta tag bit metatagbit tag bit tagbit annot annot type annotationforannotationtyp
+meta tag bit metatagbit tag bit tagbit annot type annotationfortyp
+index indexof declar declar annot declareannot field field
+meta tag bit metatagbit tag bit tagbit annot field annotationforfield
+index indexof declar declar annot declareannot constructor constructor
+meta tag bit metatagbit tag bit tagbit annot constructor annotationforconstructor
+index indexof declar eow
+meta tag bit metatagbit tag bit tagbit annot field annotationforfield
+special case report problem
+disallow target annot disallowedtargetforannot annot

@@ -1,0 +1,5 @@
+org aspectj lang reflect
+author colyer
+type system ajtypesystem
+type ajtyp type getajtyp class class fromclass
+type impl ajtypeimpl class fromclass

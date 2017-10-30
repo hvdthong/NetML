@@ -1,0 +1,5 @@
+org apach lucen index
+segment term posit segmenttermposit
+overrid
+read doc freq
+unsupport oper except unsupportedoperationexcept termposit support process multipl document call termdoc

@@ -1,0 +1,18 @@
+org aspectj weaver
+abstract refer type deleg abstractreferencetypedeleg refer type deleg referencetypedeleg
+signatur formal type paramet formaltypeparamet formal type paramet outer class getformaltypeparametersfromouterclass
+list type paramet typeparamet arrai list arraylist
+refer type referencetyp outer refer type referencetyp outer class getouterclass
+refer type deleg referencetypedeleg outer deleg outerdeleg outer deleg getdeleg
+abstract refer type deleg abstractreferencetypedeleg outer object type outerobjecttyp abstract refer type deleg abstractreferencetypedeleg outer deleg outerdeleg
+outer object type outerobjecttyp nest isnest
+signatur formal type paramet formaltypeparamet parent param parentparam outer object type outerobjecttyp formal type paramet outer class getformaltypeparametersfromouterclass
+parent param parentparam length
+type paramet typeparamet add parent param parentparam
+signatur class signatur classsignatur outer sig outersig outer object type outerobjecttyp gener class type signatur getgenericclasstypesignatur
+outer sig outersig
+outer sig outersig formal type paramet formaltypeparamet length
+type paramet typeparamet add outer sig outersig formal type paramet formaltypeparamet
+signatur formal type paramet formaltypeparamet ret signatur formal type paramet formaltypeparamet type paramet typeparamet size
+type paramet typeparamet arrai toarrai ret
+ret

@@ -1,0 +1,43 @@
+author stephen colebourn
+set
+chronolog set intern utc time zone
+code month year getmonthofyear code
+calcul local date locald perform link chronolog
+method focu kei field
+local date locald minu increas month
+month
+add subtract
+local date locald subtract minu period month
+instant chronolog getchronolog month subtract local milli getlocalmilli month
+local date locald immut datetim repres date
+local date locald
+pre
+maximum minimum valu
+techniqu access method
+subtract month make dai month invalid adjust valid dai month
+field
+date field fact queri
+text
+local date locald subtract field ad withfieldad durat field type durationfieldtyp month
+time zone
+individu field queri wai
+numer
+local date locald instanc immut unaffect method call
+subtract chang year dai month unchang
+local date locald subtract minu month minusmonth
+local milli withlocalmilli instant
+year month year monthofyear dai month dayofmonth
+standard chronolog class suppli thread safe immut
+local date locald differ date midnight datemidnight
+local date locald link readabl partial readableparti
+local date locald thread safe immut provid chronolog
+subtract number month date
+time zone repres singl instant time
+param month amount month subtract neg
+line ident effect
+return copi date minu number month
+code month year monthofyear code
+calcul
+org joda time
+local date locald minu month minusmonth month
+round

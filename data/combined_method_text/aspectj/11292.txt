@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil ast
+pointcut design pointcutdesign ast node astnod
+string pointcut declar text getpointcutdeclarationtext
+string buffer stringbuff string buffer stringbuff
+pseudo token pseudotoken tok token token
+tok length
+append tok string getstr
+append
+string tostr

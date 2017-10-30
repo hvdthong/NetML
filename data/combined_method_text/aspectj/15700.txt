@@ -1,0 +1,10 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+program element iprogramel find element handl findelementforhandl program element iprogramel parent string handl
+iter parent children getchildren iter hasnext
+program element iprogramel node program element iprogramel
+handl equal node handl identifi gethandleidentifi
+node
+program element iprogramel child search childsearch find element handl findelementforhandl node handl
+child search childsearch child search childsearch

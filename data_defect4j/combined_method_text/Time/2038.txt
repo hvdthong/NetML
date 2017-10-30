@@ -1,0 +1,15 @@
+kind partial object referenc
+base local baseloc
+base local baseloc implement readabl partial readableparti
+access datetim field
+author stephen colebourn
+t00 01t00 fix specif time zone
+local millisecond intern represent
+method circust high perform
+link org joda time readabl partial readableparti
+base partial baseparti subclass mutabl thread safe
+org joda time base
+local milli getlocalmilli
+number millisecond t00 01t00
+local millisecond java epoch
+gener directli api user

@@ -1,0 +1,27 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+init string config file arg configfilesarg visibl
+java build option javabuildopt java build option javabuildopt
+prefer adapt preferencesadapt user prefer store userpreferencesstor
+top frame topfram top frame topfram
+basic editor basiceditor ajd editor ajdeeditor basic editor basiceditor
+editor manag editormanag editor manag editormanag ajd editor ajdeeditor
+browser messag handler browsermessagehandl messag handler messagehandl browser messag handler browsermessagehandl
+ajd default getdefault init
+browser compil configur browsercompilerconfigur prefer adapt preferencesadapt
+messag handler messagehandl
+browser build progress monitor browserbuildprogressmonitor messag handler messagehandl
+ajd editor ajdeeditor
+browser adapt browseruiadapt
+icon registri iconregistri
+top frame topfram
+browser runtim properti browserruntimeproperti prefer adapt preferencesadapt
+set top frame setuptopfram visibl
+add option panel addoptionspanel
+set config file setupconfigfil config file arg configfilesarg
+asm manag asmmanag default getdefault add listen addlisten view listen view listen
+throwabl
+print stack trace printstacktrac
+browser error handler browsererrorhandl handl error handleerror ajd fail initi

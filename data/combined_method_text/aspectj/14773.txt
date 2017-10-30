@@ -1,0 +1,24 @@
+org aspectj apach bcel util
+java interpret replac wrapper classload
+modifi gener class request templat
+applic
+call wrapper
+pre java org aspectj apach bcel util javawrapp real class argument pre
+class loader set bcel classload system properti
+default org aspectj apach bcel util classload
+pre java org aspectj apach bcel util javawrapp dbcel classload foo myload real class argument pre
+version javawrapp java aclement exp
+author href mailto marku dahm berlin dahm
+classload
+java wrapper javawrapp
+default main method wrapper expect fulli qualifi class
+real class argument
+main string argv except
+expect class argument argument pass
+argv length
+system println miss class
+string class argv
+string argv string argv length
+system arraycopi argv argv argv length
+java wrapper javawrapp wrapper java wrapper javawrapp
+wrapper run main runmain class argv

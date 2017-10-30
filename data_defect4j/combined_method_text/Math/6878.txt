@@ -1,0 +1,27 @@
+max kmax
+org apach common math od nonstiff
+inherit doc inheritdoc
+previou previousf read doubl readdoubl
+previou previoust max kmax
+set interpol time state
+od integr multistep integr
+deriv except derivativeexcept
+set interpol time setinterpolatedtim
+except ioexcept messag getmessag
+multistep step interpol multistepstepinterpol
+version revis date
+except ioexcept
+read base
+previou previousf max kmax
+multistep integr multistepintegr
+math runtim except mathruntimeexcept creat except createioexcept
+initi coeffici initializecoeffici
+previou previousf current state currentst length
+current state currentst length
+initi coeffici
+read base extern readbaseextern
+max kmax read int readint
+repres interpol step
+read extern readextern object input objectinput
+read local attribut
+previou previoust read doubl readdoubl

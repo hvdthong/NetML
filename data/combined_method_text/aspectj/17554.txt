@@ -1,0 +1,27 @@
+org aspectj tool ajbrows
+bare bone editor implement framework
+standalon
+author mik kersten
+basic editor basiceditor editor adapt editoradapt
+string read file readfil string file path filepath line number linenumb
+url url classload getsystemresourc filepath
+file file file file path filepath
+file exist
+error file file path filepath exist
+buffer reader bufferedread reader buffer reader bufferedread file reader fileread file
+string buffer stringbuff content string buffer stringbuff
+string line reader read line readlin
+num line numlin
+line
+num line numlin
+num line numlin line number linenumb
+curr highlight start currhighlightstart line length
+num line numlin line number linenumb
+curr highlight end currhighlightend curr highlight start currhighlightstart line length
+content append line
+content append
+line reader read line readlin
+reader close
+content string tostr
+except ioexcept ioe
+error read file file path filepath make mount project aop

@@ -1,0 +1,15 @@
+overrid
+scale getscal
+varianc
+shape getshap
+code gamma code gamma function
+weibul distribut impl weibulldistributionimpl abstract continu distribut abstractcontinuousdistribut
+numer getnumericalmean
+inherit doc inheritdoc
+calcul numer varianc calculatenumericalvari
+code scale gamma shape code
+link org apach common math distribut weibul distribut weibulldistribut
+version revis date
+default implement
+org apach common math distribut
+fast math fastmath exp gamma log gamma loggamma

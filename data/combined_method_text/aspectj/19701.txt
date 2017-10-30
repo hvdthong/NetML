@@ -1,0 +1,5 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+return true assign java lang except
+except isexcept
+world core type getcoretyp unresolv type unresolvedtyp java lang except java lang except assign isassignablefrom

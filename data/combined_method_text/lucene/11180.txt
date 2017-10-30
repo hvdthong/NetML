@@ -1,0 +1,12 @@
+org apach lucen index
+char block pool charblockpool
+buffer nextbuff
+buffer upto bufferupto buffer length
+buffer newbuff arrai util arrayutil overs buffer length
+num byte object ref num byte object ref
+system arraycopi buffer buffer newbuff buffer length
+buffer buffer newbuff
+buffer buffer buffer upto bufferupto doc writer docwrit char block getcharblock
+buffer upto bufferupto
+char upto charupto
+char offset charoffset document writer documentswrit char block size char block size

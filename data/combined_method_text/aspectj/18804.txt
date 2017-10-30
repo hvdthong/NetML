@@ -1,0 +1,12 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+println list list
+list list empti isempti println null empti null empti
+iter list iter hasnext
+object
+except
+println except
+println string tostr

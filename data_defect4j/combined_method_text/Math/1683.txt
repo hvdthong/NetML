@@ -1,0 +1,12 @@
+overrid
+param point densiti comput
+return probabl densiti point
+inherit doc inheritdoc
+densiti
+pdf point
+chi squar distribut impl chisquareddistributionimpl
+gamma densiti
+version
+version revis date
+implement link chi squar distribut chisquareddistribut
+org apach common math distribut

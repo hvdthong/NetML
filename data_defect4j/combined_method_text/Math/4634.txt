@@ -1,0 +1,18 @@
+creat field matrix fieldmatrix type instanc
+org apach common math except strictli posit except notstrictlypositiveexcept
+param row dimens rowdimens number row matrix
+param column dimens columndimens number column matrix
+interfac defin field valu matrix basic algebra oper
+org apach common math linear
+param type field element
+creat field matrix fieldmatrix type instanc suppli
+matrix element index base code entri getentri code
+row column dimens posit
+return element row column matrix
+field matrix fieldmatrix field element fieldel matrix anymatrix
+illeg argument except illegalargumentexcept row column dimens posit
+suppli row column dimens
+version revis date
+field matrix fieldmatrix creat matrix creatematrix row dimens rowdimens column dimens columndimens
+row column dimens
+matrix type instanc

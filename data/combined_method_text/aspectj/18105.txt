@@ -1,0 +1,18 @@
+org aspectj util
+file util fileutil
+normal path comparison render absolut
+clip basedir prefix
+trim chang
+param file file path normal
+param basedir file prefix file normal null
+return null normal path
+throw illegalargumentexcept basedir prefix file
+string normal path normalizedpath file file file basedir
+string file path filepath normal path normalizedpath file
+basedir
+string base path basepath normal path normalizedpath basedir
+file path filepath start startswith base path basepath
+file path filepath file path filepath substr base path basepath length
+file path filepath start startswith
+file path filepath file path filepath substr
+file path filepath

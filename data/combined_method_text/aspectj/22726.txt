@@ -1,0 +1,17 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+signatur pattern signaturepattern read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+member kind kind member kind read
+modifi pattern modifierspattern modifi modifi pattern modifierspattern read
+type pattern typepattern return type returntyp type pattern typepattern read context
+type pattern typepattern declar type declaringtyp type pattern typepattern read context
+pattern namepattern pattern namepattern read
+type pattern list typepatternlist paramet type parametertyp type pattern list typepatternlist read context
+throw pattern throwspattern throw pattern throwspattern throw pattern throwspattern read context
+annot type pattern annotationtypepattern annot pattern annotationpattern annot type pattern annotationtypepattern
+major version getmajorvers attribut ajattribut weaver version info weaverversioninfo weaver version major aj150 weaver version major aj150
+annot pattern annotationpattern annot type pattern annotationtypepattern read context
+signatur pattern signaturepattern ret signatur pattern signaturepattern kind modifi return type returntyp declar type declaringtyp
+paramet type parametertyp throw pattern throwspattern annot pattern annotationpattern
+ret read locat readloc context
+ret

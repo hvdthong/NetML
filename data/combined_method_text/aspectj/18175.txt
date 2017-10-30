@@ -1,0 +1,9 @@
+org aspectj util
+lang util langutil
+string command getcommand
+string copi tocopi command
+lang util langutil empti isempti copi tocopi
+string
+string result string copi tocopi length
+system arraycopi copi tocopi result result length
+result

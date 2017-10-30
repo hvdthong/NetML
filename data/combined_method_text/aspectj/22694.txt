@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+signatur pattern signaturepattern pattern node patternnod
+object visit exact type pattern exacttypepattern node object data
+exact annot type pattern exactannotationtypepattern eatp exact annot type pattern exactannotationtypepattern node exact type getexacttyp resolv scope world getworld
+eatp accept data
+data

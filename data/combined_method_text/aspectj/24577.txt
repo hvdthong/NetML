@@ -1,0 +1,6 @@
+org aspectj weaver
+lint
+return true messag noguardforlazytjp xlint
+messag fals
+guard lazi tjp isnoguardforlazytjp
+lint kind lintkind equal guard lazi tjp noguardforlazytjp

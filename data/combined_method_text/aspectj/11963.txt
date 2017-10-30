@@ -1,0 +1,37 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+record class file recordclassfil unwoven class file unwovenclassfil time thistim file time lasttim
+simpl string simplestr
+batch build
+record resolv type structur comparis futur increment
+record refer structur held memori
+world
+resolv type resolvedtyp type rtype world resolv time thistim class getclassnam
+type rtype miss ismiss
+class file reader classfileread reader class file reader classfileread time thistim byte getbyt
+resolv type structur build resolvedtypestructuresfromlastbuild put time thistim class getclassnam compact type structur represent compacttypestructurerepresent reader
+class format except classformatexcept cfe
+except bcexcept unexpect problem process class cfe
+compact type structur represent compacttypestructurerepresent exist structur existingstructur compact type structur represent compacttypestructurerepresent resolv type structur build resolvedtypestructuresfromlastbuild time thistim class getclassnam
+resolv type resolvedtyp resolv type newresolvedtyp world resolv time thistim class getclassnam
+resolv type newresolvedtyp miss ismiss
+class file reader classfileread reader class file reader classfileread time thistim byte getbyt
+resolv type structur build resolvedtypestructuresfromlastbuild put time thistim class getclassnam compact type structur represent compacttypestructurerepresent reader
+class format except classformatexcept cfe
+except bcexcept unexpect problem process class cfe
+time lasttim
+add depend adddependentsof time thistim class getclassnam
+resolv type newresolvedtyp miss ismiss
+world ensur advanc configur process ensureadvancedconfigurationprocess
+byte newbyt time thistim byte getbyt
+class file reader classfileread reader class file reader classfileread byte newbyt time lasttim absolut path getabsolutepath char arrai tochararrai
+ignor local type visibl insid singl method
+reader local isloc reader anonym isanonym
+structur hasstructuralchang reader exist structur existingstructur
+world debug structur code fordebug structuralchangescod
+system err println detect structur chang time thistim filenam getfilenam
+structur full build structuralchangessincelastfullbuild put time thistim filenam getfilenam long current build time currentbuildtim
+add depend adddependentsof string reader getnam replac
+class format except classformatexcept
+add depend adddependentsof time thistim class getclassnam

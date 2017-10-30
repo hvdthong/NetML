@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+proce visitor proceedvisitor ast visitor astvisitor
+visit messag send messagesend call block scope blockscop scope
+express receiv call receiv
+ref isref receiv join point dec thisjoinpointdec
+treat static cantreatasstat string call selector
+replac effect static ref replaceeffectivelystaticref
+replac effect static ref replaceeffectivelystaticref call
+system err println static reg
+effect static ref haseffectivelystaticref
+call argument
+argument length argumentslength call argument length
+argument length argumentslength
+call argument travers scope
+visit call scope

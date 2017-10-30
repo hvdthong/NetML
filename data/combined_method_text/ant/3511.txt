@@ -1,0 +1,27 @@
+org apach tool ant taskdef
+task import build file current project
+top level execut read ant file
+project
+import final rel file refer
+resolv deep complex build hierarchi
+import file import file absolut refer
+enhanc build file stabil import file
+exampl
+pre
+import file common target xml
+pre
+import target file parent directori
+pre
+import file deploi platform xml
+pre
+import project defin properti deploi platform
+author nicola ken barozzi nicolaken apach org
+author dominiqu devienn ddevienn lgc
+author costin manolach
+ant1
+ant task categori control
+import task importtask task
+string path getpath file file
+file canon path getcanonicalpath
+except ioexcept
+file absolut path getabsolutepath

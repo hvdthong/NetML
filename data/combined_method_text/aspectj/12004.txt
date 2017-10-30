@@ -1,0 +1,31 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+check comment ad model gener
+string gener javadoc comment generatejavadoccom ast node astnod ast node astnod
+build config buildconfig build config buildconfig gener javadoc model mode isgeneratejavadocsinmodelmod
+string buffer stringbuff string buffer stringbuff stringbuff stringbuff length
+complet
+start index startindex
+ast node astnod method declar methoddeclar
+start index startindex method declar methoddeclar ast node astnod declar sourc start declarationsourcestart
+ast node astnod field declar fielddeclar
+start index startindex field declar fielddeclar ast node astnod declar sourc start declarationsourcestart
+ast node astnod type declar typedeclar
+start index startindex type declar typedeclar ast node astnod declar sourc start declarationsourcestart
+start index startindex
+curr compil result currcompilationresult compil unit compilationunit content getcont start index startindex currcompilationresult compilationunit getcont startindex
+curr compil result currcompilationresult compil unit compilationunit content getcont start index startindex
+curr compil result currcompilationresult compil unit compilationunit content getcont start index startindex
+start index startindex ast node astnod sourc start sourcestart complet
+curr curr compil result currcompilationresult compil unit compilationunit content getcont
+curr length char charat length complet curr length charat length complet true found
+append curr compil result currcompilationresult compil unit compilationunit content getcont
+string tostr

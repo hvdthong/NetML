@@ -1,0 +1,10 @@
+creat number meta format numbermetaformat
+stock time meta format metaformat
+link extend messag format extendedmessageformat
+time meta format timemetaformat date meta format support datemetaformatsupport
+param local
+author matt benson
+org apach common lang text
+version
+time meta format timemetaformat local local
+local

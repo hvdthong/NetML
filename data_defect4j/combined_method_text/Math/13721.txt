@@ -1,0 +1,12 @@
+param dimens dimens ident matrix gener
+org apach common math3 linear
+dimens
+collect method oper matric
+ident matrix
+matrix util matrixutil
+version
+illeg argument except illegalargumentexcept dimens posit
+return code dimens dimens code ident matrix
+real matrix realmatrix creat real ident matrix createrealidentitymatrix dimens
+real matrix realmatrix creat real matrix createrealmatrix dimens dimens
+set entri setentri

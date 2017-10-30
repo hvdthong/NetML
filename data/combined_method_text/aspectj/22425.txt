@@ -1,0 +1,18 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars atom pointcut parseatomicpointcut
+eat maybeeat
+start po startpo token sourc tokensourc peek start getstart
+pointcut pointcut notpointcut pars atom pointcut parseatomicpointcut start po startpo
+eat maybeeat
+pointcut pars pointcut parsepointcut
+eat
+eat maybeeat
+start po startpo token sourc tokensourc peek start getstart
+pointcut pars annot pointcut parseannotationpointcut
+end po endpo token sourc tokensourc peek end getend
+set locat setloc sourc context sourcecontext start po startpo end po endpo
+start po startpo token sourc tokensourc peek start getstart
+pointcut pars singl pointcut parsesinglepointcut
+end po endpo token sourc tokensourc peek end getend
+set locat setloc sourc context sourcecontext start po startpo end po endpo

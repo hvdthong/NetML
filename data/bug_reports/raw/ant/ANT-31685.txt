@@ -1,0 +1,41 @@
+[PATCH] typedef doen't fail with resource could not be found
+I looked at the documentation from both the current cvs build and 1.6.2 and
+believe that the default behavior is for it to fail if it can't load a type or
+task.  I specifically specified for it to fail and it still won't.  I know how
+to solve this but would like my build files to fail when they can't load a type
+or a task.  Is it supposed to behave this way when it loads properties from a
+resource as opposed to name and class name?
+
+
+steves-Computer:~/ steve$ ant 
+Buildfile: build.xml
+  [typedef] Could not load definitions from resource
+net/sf/antcontrib/antcontrib.properties. It could not be found.
+
+setup:
+
+setup:
+     [echo] currently build.xml setup is empty
+     [echo] /Users/steve/build.xml setup worked
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+steves-Computer:~/ steve$ ant -version
+Apache Ant version 1.6.2 compiled on July 16 2004
+
+<project name="depend" basedir="." default="setup">
+
+
+    <typedef resource="net/sf/antcontrib/antcontrib.properties" onerror="fail"/>
+
+    <target name="setup">
+        <ant antfile="custom/build.xml"/>
+        <echo>${ant.file} setup worked</echo>
+    </target>
+
+    <target name="clean">
+        <ant antfile="custom/build.xml" target="clean"/>
+        <echo>${ant.file} clean worked</echo>
+    </target>
+
+</project>

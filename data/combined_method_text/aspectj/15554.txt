@@ -1,0 +1,15 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+set report setreport string filenam model dmodel rel drel delta process ddeltaprocess
+deletefil
+report
+dump model dumpmodel model dmodel
+dump relationship dumprelationship rel drel
+dump delta process dumpdeltaprocess delta process ddeltaprocess
+deletefil file filenam delet
+dump filenam dumpfilenam filenam

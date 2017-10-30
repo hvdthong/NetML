@@ -1,0 +1,237 @@
+performcompil performcompil
+initbcelworld
+ibinarysourceprovid
+processdelta processdelta processdelta
+isgeneratemodelmod isgeneratemodelmod isgeneratemodelmod isgeneratemodelmod isgeneratemodelmod isgeneratemodelmod
+outxml outxml
+isemacssymmod isemacssymmod isemacssymmod isemacssymmod isemacssymmod isemacssymmod
+hierarchi
+environ
+absolut
+binarysourcesforthenextcompil binarysourcesforthenextcompil binarysourcesforthenextcompil binarysourcesforthenextcompil binarysourcesforthenextcompil
+jar jar jar jar
+except except
+getoutputjar getoutputjar getoutputjar
+isgeneratecrossrefsmod
+init
+version version
+decis
+subsequ
+isreport isreport isreport
+structuremodelmanag
+sourc sourc sourc sourc sourc sourc sourc
+return
+string string
+util util
+listenerdefin listenerdefin listenerdefin
+canincrement canincrement canincrement
+bcel bcel bcel
+fall
+getfilestocompil getfilestocompil
+gethierarchi
+aspectj aspectj
+requir
+crossref crossref
+success
+contexttoken
+drop
+list
+icompileradapterfactori
+getdefault getdefault getdefault getdefault getdefault getdefault getdefault getdefault
+token
+mode mode mode mode mode mode mode mode mode
+recorddecis
+dealt
+println println println
+found found found
+messageutil messageutil
+record record record
+ajbuildmanag
+dir
+compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil compil
+reset
+set set set
+back back
+intern intern
+finish
+attemptincrementalmodelrepair attemptincrementalmodelrepair attemptincrementalmodelrepair
+pass
+fail fail fail fail
+close
+basehandl basehandl basehandl basehandl basehandl basehandl basehandl basehandl basehandl
+todo
+getoutxmlnam
+batchcompil
+awar awar awar awar
+getstructuremodel
+getweav getweav
+tidyup tidyup
+setupmodel
+ajsym
+ret ret ret
+delet delet
+state state state state state state state state state state state state state state state state state state state state state state state state
+retri
+leav leav leav leav leav leav leav leav
+adapt
+progress progress
+ref
+factori
+refer
+core core
+full full full
+isempti isempti isempti isempti isempti
+proxi proxi
+gener gener gener gener gener gener
+clearbinarysourcefil clearbinarysourcefil
+buildstart
+weav weav weav weav weav weav weav weav weav weav weav weav weav weav weav weav
+base base base base base base base base base
+recordinform recordinform
+getbcelworld getbcelworld
+asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag asmmanag
+releas
+org org
+throw
+buildfinish
+getlisten getlisten getlisten
+emacsstructuremodelmanag
+world world world world
+ioutputclassfilenameprovid
+progresslisten progresslisten
+manag manag manag manag manag manag manag manag manag manag manag manag manag manag manag manag
+lifecycl lifecycl lifecycl lifecycl
+weaver weaver
+context context context context context context context context context context context context context
+configfileproxi configfileproxi
+ajstat
+iscancelledrequest
+mik' mik'
+repair repair repair
+setcouldbesubsequentincrementalbuild
+openoutputstream
+firemodelupd
+copyresourcestodestin
+extern
+boolean boolean
+messag messag messag messag messag
+path
+cancel
+countingmessagehandl
+open
+duplic
+nest
+haserror haserror haserror haserror
+setbuildconfig
+getabsolutepath
+rebuild
+support support
+system system system
+empti empti empti empti empti empti
+compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext compilationandweavingcontext
+start start start
+handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler handler
+call call
+abortexcept abortexcept
+dobuild dobuild
+succeed
+weaveandgenerateclassfil weaveandgenerateclassfil
+deletedfil deletedfil deletedfil
+listen listen listen listen listen listen listen listen
+setup
+fire
+copi
+ioexcept
+getworld
+provid provid
+environmentsupportsincrementalcompil
+enteringphas
+delta delta
+line
+true
+bug bug
+checkrtjar
+count count
+ajbuildconfig
+imessagehandl
+err err err
+possibl
+default default default default default default default default
+remov
+leavingphas leavingphas leavingphas leavingphas leavingphas leavingphas leavingphas leavingphas
+batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch
+structur structur
+getfil getfil
+warn
+defin defin defin
+info info info
+error error error error error
+report report report report report report
+separ
+inform inform
+xxx xxx xxx
+clear
+loop loop
+zo
+ad ad
+stream stream
+makecountingmessagehandl
+process process
+getbinaryfilestocompil getbinaryfilestocompil getbinaryfilestocompil
+ajdt ajdt
+destin
+case
+abort
+file file file file file file file file file file file file file file file file file file file file file file file file file file file file file
+writestructuremodel
+null
+tidi tidi
+check check check check check check check check
+asm asm asm asm asm asm asm asm asm asm asm asm asm asm
+xxxx xxxx xxxx
+writeoutxmlfil
+output output output output output output output
+preparefornextbuild
+getaddedfil getaddedfil
+make
+cross
+write write
+binari binari binari binari binari binari binari binari binari binari
+need need
+instanc
+build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build build
+increment increment increment increment increment increment increment increment increment increment increment increment increment increment increment
+ilifecycleawar ilifecycleawar ilifecycleawar ilifecycleawar
+config config config config config config config config config config config config config config config config config config config config config config config config config config config config config
+prepar
+andi
+updat updat
+herewegoagain herewegoagain herewegoagain herewegoagain
+batchbuild batchbuild
+getoutputdir
+resourc
+emac emac emac emac emac
+bcelworld bcelworld bcelworld
+closeoutputstream
+enter
+hang
+sym sym sym sym
+externalizemodel
+phase phase phase phase phase phase phase phase phase phase phase
+requiresfullbatchbuild
+class
+buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig buildconfig
+successfulcompil
+attempt attempt attempt
+wasfullbuild
+builder builder
+request
+thought
+perform perform
+command
+runtim runtim runtim runtim runtim
+setmodel setmodel
+reportmodelinfo reportmodelinfo reportmodelinfo
+model model model model model model model model model model model model model model model model model model
+addedfil addedfil addedfil
+getdeletedfil getdeletedfil

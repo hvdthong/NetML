@@ -1,0 +1,11 @@
+org aspectj weaver
+author colyer
+client implement iclassfileprovid set class file
+control woven weaver call weav iclassfileprovid sourc method
+contract call getrequestor acceptresult provid result
+class file recent return getclassfileiter
+class file provid iclassfileprovid
+answer iter iter set unwovenclassfil
+woven weav method call multipl time
+return iter unwovenclassfil
+iter class file iter getclassfileiter

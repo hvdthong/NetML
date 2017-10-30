@@ -1,0 +1,15 @@
+org aspectj ajd swing
+set user configur option
+author mik kersten
+option frame optionsfram frame jframe
+option frame optionsfram icon registri iconregistri icon
+init jbinit
+set titl settitl ajd set
+set icon imag seticonimag imag icon imageicon icon browser option icon getbrowseroptionsicon imag getimag
+set size setsiz
+set locat setloc
+version label set text settext version version text
+built label set text settext built date version time gettim string tostr
+except
+messag msg messag open optionsfram messag imessag error
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag msg

@@ -1,0 +1,35 @@
+org aspectj ajdt intern compil lookup
+special method bind repres itd pretend
+member target type match purpos
+inter type method bind intertypemethodbind method bind methodbind
+canbeseenbi type bind typebind receiv type receivertyp invoc site invocationsit invoc site invocationsit scope scope
+scope compil unit scope compilationunitscop record type refer recordtyperefer declar class declaringclass
+public ispubl
+sourc type bind sourcetypebind invoc type invocationtyp scope invoc type invocationtyp
+system println receiv receivertyp invocationtyp
+invoc type invocationtyp declar class declaringclass
+invocationtyp isprivileg
+system println privileg access
+return true
+protect isprotect
+runtim except runtimeexcept unimpl
+xxx make walk correctli
+privat ispriv
+answer true receivertyp declaringclass
+invocationtyp declaringclass common enclosingtyp
+receivertyp declaringclass return fals
+invoc type invocationtyp declar class declaringclass
+refer bind referencebind outer invoc type outerinvocationtyp invoc type invocationtyp
+refer bind referencebind temp outer invoc type outerinvocationtyp enclos type enclosingtyp
+temp
+outer invoc type outerinvocationtyp temp
+temp temp enclos type enclosingtyp
+refer bind referencebind outer declar class outerdeclaringclass declar class declaringclass
+temp outer declar class outerdeclaringclass enclos type enclosingtyp
+temp
+outer declar class outerdeclaringclass temp
+temp temp enclos type enclosingtyp
+system err println outer dec
+outer invoc type outerinvocationtyp outer declar class outerdeclaringclass
+isdefault
+invoc type invocationtyp packag fpackag declar class declaringclass packag fpackag

@@ -1,0 +1,152 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+start greater end
+levenshtein distanc levenshteindist
+string util stringutil substr abc abc
+remov lead trail whitespac
+append suffix end string present
+neg start posit start end code
+safe substr extract
+check string text
+abbrevi string ellipsi
+code code string input
+index set string
+compar string report differ
+substr extract rel string
+return
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+code code safe
+neg start posit start code
+author arun mammen thoma
+charact end string
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+offset rel end string
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+code start code neg start end posit
+posit end code end code posit posit count
+code string util stringutil defin word relat
+default string defaultstr
+handl neg
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+start str length
+string substr string str start end
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+split join
+check length
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+string substr string str start
+start startswith
+code start strictli left code end
+empti string
+return substr start charact code start code
+handl neg mean charact
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+string util stringutil substr abc
+remov delet
+end str length end rememb end neg
+compar string safe
+code string util stringutil code
+symbol code input includ code
+org apach common lang3
+param start posit start neg mean
+string handl
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+neg start posit start end code code
+author holger krauth
+code input code
+code code
+code safe
+containsonli containsnon containsani
+side effect code code handl
+author href mailto gcoladonato yahoo greg coladonato
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+substr start posit code string input
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+posit end code end posit posit count
+code code code code return
+string util stringutil substr
+param str string substr
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+empti
+author chri hyzer
+start
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+str substr start end
+code string util stringutil code defin word relat
+start str length start rememb start neg
+author href mailto jon latchkei jon steven
+empti isempti blank isblank
+code code input code code
+start end
+code null pointer except nullpointerexcept code consid bug
+space space charact code
+code string code
+code start neg start end posit
+remov part string
+str
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+str substr start
+equal
+code null pointer except nullpointerexcept consid bug
+code string input
+substr start posit end posit
+code code return
+chomp chop
+author apach softwar foundat
+return substr start charact code start
+end
+string charact
+java lang string
+author gari gregori
+substr start posit end positon
+safe index check
+base start begin string
+count back end string charact
+code string util stringutil
+code start code strictli left code end code
+string util stringutil
+thread safe threadsaf
+check charact string
+end str length
+append miss appendifmiss
+prepend miss prependifmiss
+param end posit end exclus neg mean
+substr string avoid except
+symbol code code input includ code code

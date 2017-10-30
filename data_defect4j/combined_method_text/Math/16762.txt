@@ -1,0 +1,12 @@
+load sampl data overrid previou data
+param arrai repres sampl
+abstract multipl linear regress abstractmultiplelinearregress
+vector yvector arrai real vector arrayrealvector
+sampl data newysampledata
+length
+version
+data except nodataexcept empti
+org apach common math3 stat regress
+data except nodataexcept
+abstract base implement multipl linear regress multiplelinearregress
+null argument except nullargumentexcept

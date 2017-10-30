@@ -1,0 +1,18 @@
+org aspectj ajdt intern core builder
+author colyer
+builder class ajdt org eclips ajdt core
+plugin refer
+aspect builder aspectjbuild java builder javabuild compil adapt factori icompileradapterfactori
+init world weaver initworldandweav compil option ajcompileropt option
+manag cpmanag eclips class path manag eclipseclasspathmanag environ nameenviron
+bcel world mybcelworld bcel world bcelworld manag cpmanag unhandl messag handler unhandledmessagehandl project getproject mybcelworld bcelworld cpmanag unhandledmessagehandl getproject null xrefhandl
+bcel world mybcelworld set behav java5 setbehaveinjava5wai option behav java5 behaveinjava5wai
+bcel world mybcelworld set target aspectj runtim level settargetaspectjruntimelevel option target aspectj runtim level targetaspectjruntimelevel
+bcel world mybcelworld set xno inlin setxnoinlin option inlin xnoinlin
+bcel world mybcelworld set xlazi tjp setxlazytjp option lazi join point xlazythisjoinpoint
+bcel world mybcelworld set member support enabl setxhasmembersupporten option member xhasmemb
+bcel world mybcelworld set pinpoint mode setpinpointmod option xdev pinpoint xdevpinpoint
+set lint properti setlintproperti bcel world mybcelworld option
+weaver myweav bcel weaver bcelweav bcel world mybcelworld
+weaver myweav set reweav mode setreweavablemod option reweav xnotreweav
+todo deal injar inpath aspectpath

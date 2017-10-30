@@ -1,0 +1,27 @@
+org aspectj intern tool build
+gather sampl code delimit start end sampl
+sourc file base directori
+code author code info
+pre start sampl anchornam anchortext
+sampl code
+end sampl anchornam
+pre
+anchornam uniqu
+hierarch wrt genu speci individu
+sampl gather samplegather
+emit sampl gather input arg
+param arg string path file directori search
+throw ioexcept unabl read sourc file
+main string arg except ioexcept
+arg arg length
+string cname sampl gather samplegather getnam
+system err println java cname dir file
+sampl result sampl
+arg length
+result gather file arg result
+string buffer stringbuff html sampl render htmlsamplesrender render result
+file file doc dist doc sampl code html
+file output stream fileoutputstream fo file output stream fileoutputstream
+fo write string tostr byte getbyt
+fo close
+system println file

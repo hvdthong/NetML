@@ -1,0 +1,16 @@
+clear ieee statu flag
+dfp field dfpfield field dfp
+flag underflow
+set ieee flag bit setieeeflagsbit
+set ieee flag setieeeflag
+field decim float point instanc
+flag invalid
+flag inexact
+ieee flag getieeeflag
+ieee flag ieeeflag
+flag div
+version
+version revis date
+flag overflow
+clear ieee flag clearieeeflag
+org apach common math dfp

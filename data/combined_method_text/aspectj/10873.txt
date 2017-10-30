@@ -1,0 +1,11 @@
+org aspectj ajd swing
+edit build configur lst file graphic tree base
+represent
+author mik kersten
+tree view build config editor treeviewbuildconfigeditor panel jpanel build config editor buildconfigeditor
+config tree node configtreenod build tree buildtre build config node buildconfignod node
+config tree node configtreenod tree node treenod config tree node configtreenod node
+iter node children getchildren iter hasnext
+build config node buildconfignod child node childnod build config node buildconfignod
+tree node treenod add build tree buildtre child node childnod
+tree node treenod

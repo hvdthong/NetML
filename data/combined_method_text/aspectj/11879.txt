@@ -1,0 +1,12 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+aspectj lint option compil
+pass
+param forcompil
+popul compil option lint set populatecompileroptionsfromlintset org aspectj org eclips jdt intern compil compil compil forcompil
+bcel world bcelworld world state bcel world getbcelworld
+messag imessag kind swallow except kind swallowedexceptionkind world lint getlint swallow except catch block swallowedexceptionincatchblock kind getkind
+map option map optionsmap hash map hashmap
+option map optionsmap put compil option compileropt option report swallow except catch block option reportswallowedexceptionincatchblock
+swallow except kind swallowedexceptionkind ignor swallow except kind swallowedexceptionkind string tostr
+compil forcompil option set option map optionsmap

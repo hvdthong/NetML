@@ -1,0 +1,14 @@
+org apach lucen index
+store monoton increas set term terminfo pair
+directori terminfo written order
+term info writer terminfoswrit
+add fieldnumb termbyt terminfo pair set
+term lexicograph greater previou term ad
+terminfo pointer posit greater previou
+add field number fieldnumb term byte termbyt term byte length termbyteslength term info terminfo
+except ioexcept
+add lastfieldnumb lasttermbyt lasttermbyteslength lastti add index term
+writeterm fieldnumb termbyt termbyteslength write term
+output writevint docfreq write doc freq
+output writevlong freqpoint lastti freqpoint write pointer
+lastindexpoint output getfilepoint write pointer

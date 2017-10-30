@@ -1,0 +1,9 @@
+polyhedron set polyhedronsset space wholespac
+region instanc link
+repres plane dimension space
+polyhedron set polyhedronsset polyhedron set polyhedronsset instanc
+org apach common math3 geometri euclidean threed
+build region cover space
+plane hyperplan euclidean3 euclidean3d embed euclidean3 euclidean3d euclidean2 euclidean2d
+version
+polyhedron set polyhedronsset

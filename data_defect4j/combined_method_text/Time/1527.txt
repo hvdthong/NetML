@@ -1,0 +1,14 @@
+author stephen colebourn
+defin instant time queri datetim field
+paramet method read datetim perform
+valu dai week defin link date time constant datetimeconst
+dai week field
+implement mutabl immut
+access retriev data chang
+dai week getdayofweek
+org joda time
+method applic defin code readabl date time readabledatetim code
+advanc manipul
+author brian neill o'neil
+readabl date time readabledatetim readabl instant readableinst
+dai week

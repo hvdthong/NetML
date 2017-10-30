@@ -1,0 +1,8 @@
+org aspectj org eclips jdt core dom
+ast ajast ast
+creat unpar pertypewithin node own ast
+default declar pertypewithin
+return unpar pertypewithin node
+type pertypewithin type newpertypewithin
+type pertypewithin result type pertypewithin
+result

@@ -1,0 +1,37 @@
+incorrect error text with invalid "javac" task after a "presetdef"
+See below for the build.xml that was used and the faulty error message.
+
+Reproduction:
+
+1. I made a preset definition containing a javac task
+2. I made a normal target (not using the preset definition) containing a javac
+task with an illegal tag name
+3. When running ant, the error message says that the error is in the preset
+definition instead of the javac task.  (The line number in the message is good.)
+
+
+build.xml:
+-------------------------------------------------
+<project default="target">
+    <presetdef name="mytask">
+       <javac srcdir="whatever"/>
+    </presetdef>
+
+    <target name="target">
+        <javac srcdir="whatever" invalidtag="whatever"/>
+    </target>
+</project>
+-------------------------------------------------
+
+
+ant output:
+-------------------------------------------------
+Buildfile: build.xml
+
+target:
+
+BUILD FAILED
+/tmp/build.xml:7: The <mytask> type doesn't support the "invalidtag" attribute.
+
+Total time: 1 second
+-------------------------------------------------

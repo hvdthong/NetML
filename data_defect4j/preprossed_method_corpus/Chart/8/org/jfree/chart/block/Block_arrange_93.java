@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org jfree chart block
+
+
+
+
+
+
+
+
+block arbitrari item drawn java2 java2d space
+rectangular area prefer size arrang
+link arrang manag
+
+block drawabl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+arrang content block constraint
+return block size
+
+param graphic devic
+param constraint constraint code code permit
+
+block size java2 java2d unit code code
+
+size2 size2d arrang graphics2 graphics2d rectangl constraint rectangleconstraint constraint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

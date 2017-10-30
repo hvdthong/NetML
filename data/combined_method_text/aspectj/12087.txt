@@ -1,0 +1,16 @@
+org aspectj ajdt intern core builder
+author mik kersten
+emac structur model manag emacsstructuremodelmanag
+print decl printdecl program element iprogramel node
+print
+iter node children getchildren iter hasnext
+ignor relat compil unit
+object node object nodeobject
+throw runtimeexcept unimpl
+nodeobject instanceof iprogramel
+program element iprogramel child program element iprogramel node object nodeobject
+print decl printdecl child
+nodeobject instanceof linknod
+linknod child linknod nodeobject
+printdecl child getprogramelementnod fals
+print

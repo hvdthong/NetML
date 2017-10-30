@@ -1,0 +1,19 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+open file openfil string file path filepath
+file path filepath end endswith lst
+ajd default getdefault build config editor getbuildconfigeditor open file openfil file path filepath
+top frame topfram set editor panel seteditorpanel ajd default getdefault build config editor getbuildconfigeditor
+file util fileutil sourc suffix hassourcesuffix file path filepath
+editor manag editormanag show sourc line showsourcelin file path filepath
+browser error handler browsererrorhandl
+handl error handleerror file
+file path filepath
+open extens recoginz
+except ioexcept ioe
+browser error handler browsererrorhandl handl error handleerror open file
+file path filepath ioe
+invalid resourc except invalidresourceexcept ir
+browser error handler browsererrorhandl handl error handleerror invalid file file path filepath ir

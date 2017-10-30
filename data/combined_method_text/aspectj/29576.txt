@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+author colyer
+repres type variabl declar part type declar paramet declar
+type paramet specif
+genericmethod
+static extend foo staticgenericmethod
+foo extend bar amp igoo
+type variabl typevari pattern node patternnod
+object accept pattern node visitor patternnodevisitor visitor object data
+visitor visit data

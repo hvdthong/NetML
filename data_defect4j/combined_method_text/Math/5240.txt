@@ -1,0 +1,53 @@
+code decompos ludecompos code recomput decomposit
+solut invers
+col col col ncol col
+decompost perform need support oper
+decomposit support linear system
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+decomposit perform need support oper
+data modifi refer underli arrai obtain
+org apach common math linear
+col col ncol col col
+invers
+appli permut
+code code
+solut arrai
+version revis date
+discard explicitli invok
+col col col
+row row row nrow row
+base code entri getentri code
+method
+row nrow row dimens getrowdimens
+real matrix realmatrix matrix bmatrix real matrix impl realmatriximpl
+row nrow
+solv illeg argument except illegalargumentexcept invalid matrix except invalidmatrixexcept
+invalid matrix except invalidmatrixexcept matrix singular
+decomposit cach reus subsequ call
+return matrix column solut vector linear system
+length row nrow
+invalid matrix except invalidmatrixexcept matrix squar singular
+real matrix impl realmatriximpl real matrix realmatrix serializ
+link real matrix realmatrix matrix element index
+col col
+illeg argument except illegalargumentexcept row dimens rowdimens row dimens
+squar issquar
+solv
+col ncol column dimens getcolumndimens
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+solut real matrix impl realmatriximpl solv matrix bmatrix data ref getdataref
+return element row column matrix
+param arrai constant form rh linear system
+decompost support linear system
+href http www math gatech bourbaki math2601 web note 2num pdf
+coeffici matrix constant vector column
+col col ncol
+illeg argument except illegalargumentexcept constant vector wrong length
+row permut row
+row solut row
+col
+invalid matrix except invalidmatrixexcept coeffici matrix squar
+singular issingular side effect comput decomp

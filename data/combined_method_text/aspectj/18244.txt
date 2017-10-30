@@ -1,0 +1,18 @@
+org aspectj util
+linenumberread absorb comment blank line
+render file line
+line reader lineread line number reader linenumberread
+param file file open fileread
+param leadcom string start
+comment blank text line
+pass null signal
+param leadcom string start
+comment line pass null signal
+throw illegalargumentexcept string
+leadcom eolcom null
+line reader lineread file reader fileread reader file file
+string lead comment leadcom string eol comment eolcom
+reader
+file file
+eol comment eolcom normal eol comment eolcom
+lead comment leadcom normal lead comment leadcom

@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+match couldmatch
+bcel object type bcelobjecttyp bcel object type bcelobjecttyp
+pointcut pointcut
+bcel object type bcelobjecttyp interfac isinterfac

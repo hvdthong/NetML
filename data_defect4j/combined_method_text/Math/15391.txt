@@ -1,0 +1,19 @@
+deprec remov
+jacobian error estim
+version
+abstract squar optim abstractleastsquaresoptim
+row equal dimens
+org apach common math3 optim gener
+link org apach common math3 optim target target
+set cost setcost cost
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+construct jacobian matrix function argument method
+base implement squar optim
+function column iter paramet number
+handl boilerpl method threshold set
+cost cost
+set cost
+param cost cost
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+optim assum row matrix iter model

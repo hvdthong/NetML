@@ -1,0 +1,98 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+relationship model endpoint longer exist node
+point delet model delet relationship
+repair relationship repairrelationship writer
+hierarchi ihierarchi model asm manag asmmanag default getdefault hierarchi gethierarchi
+todo speed code make assumpt
+piec handl interest file work file granular
+file exist filemap handl insid file exist
+dump delta process dumpdeltaprocess write repair relationship map
+sort relationship map
+relationship map irelationshipmap irm asm manag asmmanag default getdefault relationship map getrelationshipmap
+set sourc remov sourcestoremov hash set hashset
+set exist handl nonexistinghandl hash set hashset set nonexistinghandl hashset cach handl invalid
+srchandlecount
+tgthandlecount
+iter sourc handl relationship map
+set keyset irm entri getentri set keyset irm getentri sourc handl
+iter keyit keyset iter keyit hasnext
+string hid string keyit
+srchandlecount
+handl point
+exist handl nonexistinghandl hid
+sourc remov sourcestoremov add hid
+check exist
+program element iprogramel exist element existingel model element getel hid
+dump delta process dumpdeltaprocess write handl hid model found exist element existingel
+find
+exist element existingel
+delet relationship
+sourc remov sourcestoremov add hid
+exist handl nonexistinghandl add hid nonexistinghandl add hid speed bit swine
+sourc valid target
+list relationship irm hid
+list relationship remov relationshipstoremov arrai list arraylist
+iter relationship sourc handl
+iter relit relationship iter relit hasnext
+relationship irelationship rel relationship irelationship relit
+list target rel target gettarget
+list target remov targetstoremov arrai list arraylist
+iter target relationship
+iter target iter targetit target iter target iter targetit hasnext
+string targethid string target iter targetit
+tgthandlecount
+exist
+exist handl nonexistinghandl targethid
+dump delta process dumpdeltaprocess write target handl targethid srchid hid rel rel getnam exist
+target remov targetstoremov add targethid
+check
+program element iprogramel exist target existingtarget model element getel targethid
+exist target existingtarget
+dump delta process dumpdeltaprocess write target handl targethid srchid hid rel rel getnam exist
+target remov targetstoremov add targethid
+exist handl nonexistinghandl add targethid
+target remov
+target remov targetstoremov size
+remov target relationship remov relationship
+target remov targetstoremov size target size
+dump delta process dumpdeltaprocess write target remain srchid hid rel rel getnam remov
+relationship remov relationshipstoremov add rel
+remov target longer valid
+iter targ iter targsit target remov targetstoremov iter targ iter targsit hasnext
+string togo string targ iter targsit
+target remov togo
+caught let doubl check
+target size
+dump delta process dumpdeltaprocess write target remain srchid hid rel rel getnam remov
+relationship remov relationshipstoremov add rel relationshipstoremov add rel todo remov relationship srchid
+relationship empti process remov sourc handl
+relationship remov relationshipstoremov size
+remov relationship sourc handl
+relationship remov relationshipstoremov size relationship size
+delet sourc handl
+sourc remov sourcestoremov add hid
+memori leak remov relationship
+relationship remov relationshipstoremov size
+relationship irelationship irel relationship irelationship relationship remov relationshipstoremov
+verifi assumpt verifyassumpt irm remov hid irel fail remov relationship irel getnam shid hid
+list rel irm hid
+rel rel size sourc remov sourcestoremov add hid
+remov sourc valid relationship
+iter srciter sourc remov sourcestoremov iter srciter hasnext
+string hid string srciter
+irm remov removeal hid
+program element iprogramel ip model element getel hid
+ip
+relationship hang 'code' node delet
+ip kind getkind equal program element iprogramel kind code
+system err println delet code node
+remov singl node removesinglenod ip
+except ioexcept ioe
+system err println fail repair relationship
+ioe print stack trace printstacktrac

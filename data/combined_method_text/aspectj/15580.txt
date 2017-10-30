@@ -1,0 +1,6 @@
+org aspectj asm
+author mik kersten
+hierarchi ihierarchi serializ
+param packagenam null default packag search
+param classnam null
+program element iprogramel find element type findelementfortyp string packag packagenam string type typenam

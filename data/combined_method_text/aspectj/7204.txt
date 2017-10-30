@@ -1,0 +1,29 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+class loader weav adaptor classloaderweavingadaptor class loader classload loader
+super null stage generatedclasshandl defin closur
+gener class handler generatedclasshandl gener class handler generatedclasshandl
+callback defin closur jvm
+param
+param byte
+accept class acceptclass string byte
+todo make dump configur
+dump byte
+throwabl throwabl
+throwabl print stack trace printstacktrac
+defin class defineclass loader byte defineclass loader byte lazili hook
+bcel world bcelworld bcel world bcelworld
+loader messag handler messagehandl cross refer handler icrossreferencehandl
+add cross refer addcrossrefer sourc locat isourceloc sourc locat isourceloc relationship irelationship kind kind runtim test runtimetest
+tool
+todo code call
+org aspectj apach bcel repositori setrepositori
+set static thing
+bogu bcel expect
+org aspectj apach bcel repositori setrepositori classloaderrepositori loader
+weaver bcel weaver bcelweav bcel world bcelworld
+regist definit
+regist definit registerdefinit weaver loader
+ad aspect
+weaver prepar weav prepareforweav

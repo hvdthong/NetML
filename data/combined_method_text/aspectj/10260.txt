@@ -1,0 +1,9 @@
+org aspectj ajd
+author mik kersten
+editor adapt editoradapt
+implement inlin annot support editor make null
+implement inlin annot support
+param filepath path file annot
+param linenumb line number annot
+param item list relat render annot
+show sourcelin annot showsourcelineannot string file path filepath line number linenumb list item

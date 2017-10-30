@@ -1,0 +1,52 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+execut process jdk
+base directori project xxx correct
+param arg
+return
+exec execinothervm string arg
+project project project getproject
+pump stream handler pumpstreamhandl handler log stream handler logstreamhandl
+verbos project msg verbos msg verbos project msg info msg info
+project msg warn msg warn
+replac line aid debug run unit test
+logstreamhandl handler logstreamhandl
+project msg info project msg warn
+bytearrayoutputstream bao bytearrayoutputstream
+javadoc
+org apach tool ant taskdef pumpstreamhandl createprocessoutputpump java inputstream java outputstream
+protect void createprocesserrorpump inputstream
+outputstream
+super createprocesserrorpump bao
+javadoc
+org apach tool ant taskdef logstreamhandl stop
+public void stop
+byte written bao tobytearrai
+system err print string written
+super stop
+execut ex execut handler
+ex set ant run setantrun project
+ex set work directori setworkingdirectori project base dir getbasedir
+ex set commandlin setcommandlin arg
+execut executinginothervm
+string run
+build except buildexcept locat
+execut executinginothervm
+ex execut
+execut executinginothervm
+ex exit getexitvalu
+except ioexcept
+string error execut command arrai list aslist arg
+build except buildexcept locat

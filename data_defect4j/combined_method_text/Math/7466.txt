@@ -1,0 +1,74 @@
+optim multivari real function multivariaterealfunct goal type goaltyp optim reus
+multivari real function multivariaterealfunct
+provid start point optim code optim
+compar real point pair realpointvaluepair compar
+configur unit hypercub call link
+dimens
+converg
+simplex base direct search optim
+deriv paper margaret wright
+simplex
+evalu simplex evaluatesimplex compar
+compar real point pair realpointvaluepair
+iter simplex iteratesimplex compar
+real point pair realpointvaluepair optim dooptim
+initi configur simplex set
+function unpredict discontinu difficult complex
+set start configur setstartconfigur unit
+chang start configur reset
+multi direct multidirect
+converg checker converg iter previou simplex
+nelder mead neldermead
+perform deriv class implement
+system arraycopi simplex previou simplex length
+build simplex buildsimplex start point startpoint
+direct search method object function valu
+converg checker convergencecheck real point pair realpointvaluepair checker converg checker getconvergencecheck
+unit start point startpoint length
+link simpl scalar checker simplescalarvaluecheck
+current start configur move vertex
+initi configur set simplex
+iter
+previou current simplex converg checker
+base perform boilerpl simplex
+build unit hypercub
+link set converg checker setconvergencecheck converg checker convergencecheck call
+inherit doc inheritdoc
+comput deriv imposs noisi
+converg check provid worst point
+set point dimens updat algorithm
+found optimum
+arrai fill unit
+real point pair realpointvaluepair
+object function valu vertic simplex
+direct search method
+optimum desir found case
+version revis date
+start point startpoint start point getstartpoint
+direct search optim directsearchoptim
+step
+initi search
+start configur startconfigur length start point startpoint length
+minim isminim doubl compar doubl compar
+function evalu except functionevaluationexcept
+multivari real optim multivariaterealoptim
+search
+optim attempt explicit call method
+step set trigger build
+algorithm
+minim isminim goal type getgoaltyp goal type goaltyp minim
+simplex base direct search method base comparison
+simplex length
+method call solv problem number paramet
+real point pair realpointvaluepair previou real point pair realpointvaluepair simplex length
+deriv comput approxim
+org apach common math optim direct
+initi handl simplex updat
+getvalu
+bad point desir case
+comput cost case optimum
+search method scorn respect
+start configur startconfigur
+link set start configur setstartconfigur link
+set start configur setstartconfigur method call
+href http bell lab doc direct

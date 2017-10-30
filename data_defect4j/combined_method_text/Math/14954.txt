@@ -1,0 +1,58 @@
+dimens
+current simplex move vertex
+param opt data optdata optim data addit document
+previou current simplex converg checker
+inherit doc inheritdoc
+pars optim data parseoptimizationdata opt data optdata
+simplex base direct search optim
+deriv comput approxim
+optim simpl bound optim
+link multivari optim multivariateoptim pars optim data parseoptimizationdata optim data optimizationdata
+function unpredict discontinu difficult complex
+simplex updat procedur link nelder mead simplex neldermeadsimplex
+link multi direct simplex multidirectionalsimplex pass
+provid start point optim
+multivari function penalti adapt multivariatefunctionpenaltyadapt
+overrid
+link abstract simplex abstractsimplex
+direct search method object function valu
+version
+link org apach common math3 optim max eval maxev
+multivari function map adapt multivariatefunctionmappingadapt
+multivari optim multivariateoptim method regist data
+number paramet chang simplex initi
+comput deriv imposs noisi
+converg check provid worst point
+set point dimens updat algorithm
+object function valu vertic simplex
+function wrap adapt
+direct search method
+optimum desir found case
+link org apach common math3 optim nonlinear scalar multivari function map adapt multivariatefunctionmappingadapt
+set base perform comput
+step
+param opt data optdata optim data
+code optim method
+link org apach common math3 optim nonlinear scalar multivari function penalti adapt multivariatefunctionpenaltyadapt
+call code optim start configur
+point pair pointvaluepair optim optim data optimizationdata opt data optdata
+data look
+call link optim optim data optimizationdata optim
+org apach common math3 optim nonlinear scalar noderiv
+link cmae optim cmaesoptim link bobyqa optim bobyqaoptim object
+simplex optim implement directli support constrain
+version simplex optim simplexoptim java 58z eran
+simplex base direct search method base comparison
+optim opt data optdata
+link org apach common math3 optim simpl bound simplebound
+deriv paper margaret wright
+link org apach common math3 optim initi guess initialguess
+retriev set
+bad point desir case
+dedic algorithm
+comput cost case optimum
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+search method scorn respect
+simplex optim simplexoptim multivari optim multivariateoptim
+code optim method call solv problem
+href http bell lab doc direct

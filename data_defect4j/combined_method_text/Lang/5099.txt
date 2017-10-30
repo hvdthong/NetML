@@ -1,0 +1,17 @@
+oper
+author apach ant date util dateutil
+author href mailto stefan bodewig epost stefan bodewig
+format perform thread safe
+author apach softwar foundat
+overrid previous call calendar clear call lang
+note jdk bug call calendar
+date format util dateformatutil instanc construct standard program
+org apach common lang3 time
+date time format util constant
+author href mailto ggregori seagullsw gari gregori
+author href mailto sbailliez apach org stephan bailliez
+version
+format perform
+date format util dateformatutil
+constructor permit tool requir java bean javabean instanc
+link org apach common lang3 time fast date format fastdateformat

@@ -1,0 +1,11 @@
+binari chromosom binarychromosom list integ represent
+version
+valid chromosom
+represent
+org apach common math genet
+version revis date
+binari chromosom binarychromosom abstract list chromosom abstractlistchromosom integ
+param represent list valu repres chromosom
+constructor
+invalid represent except invalidrepresentationexcept iff code represent code repres
+chromosom repres vector

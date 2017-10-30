@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+bind
+bind copi
+int len bind length
+boolean boolean len
+system arraycopi bind len
+bind bind pattern bindingpattern bind clone

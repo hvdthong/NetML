@@ -1,0 +1,22 @@
+org aspectj weaver
+refer type repres 'real' type primit arrai
+real type java util list referencetyp deleg
+underli artifact eclips artifact
+bcel artifact type repres raw type
+gener form generictyp field set point
+gener type parameter type gener type
+set point gener form
+refer type referencetyp resolv type resolvedtyp
+coerceabl iscoerceablefrom resolv type resolvedtyp
+resolv type resolvedtyp resolv world
+assign isassignablefrom assign isassignablefrom
+parameter type isparameterizedtyp parameter type isparameterizedtyp
+coerceabl parameter type iscoerceablefromparameterizedtyp
+interfac isinterfac interfac isinterfac
+final isfin final isfin
+method declar method jl unclear
+resolv member resolvedmemb declar method getdeclaredmethod
+resolv member resolvedmemb declar method getdeclaredmethod resolvedmemb getdeclaredmethod cast safe
+alen length alen
+blen length blen
+compat iscompatiblewith

@@ -1,0 +1,19 @@
+author stephen colebourn
+return charact match
+version
+str matcher strmatcher
+portion match
+overrid
+param buffer end bufferend end index activ buffer valid buffer
+number match charact match
+param po start posit match valid buffer
+param buffer start bufferstart activ index buffer valid buffer
+org apach common lang text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+match ismatch buffer po buffer start bufferstart buffer end bufferend
+param buffer text content match chang
+complet constant factori method
+return charatc match
+arrai binari search binarysearch char buffer po
+complet factori method

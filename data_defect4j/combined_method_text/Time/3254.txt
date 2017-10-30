@@ -1,0 +1,8 @@
+unit milli getunitmilli
+precis datetim field precis unit durat field
+unit milli iunitmilli
+org joda time field
+subclass
+precis durat date time field precisedurationdatetimefield base date time field basedatetimefield
+author brian neill o'neil
+precis durat date time field precisedurationdatetimefield thread safe immut

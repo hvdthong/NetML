@@ -1,0 +1,5 @@
+org apach common math linear
+pivot decomposit pivotingqrdecomposit
+author gregsterijevski
+solver diag rdiag permut rank
+decomposit solver decompositionsolv solver getsolv

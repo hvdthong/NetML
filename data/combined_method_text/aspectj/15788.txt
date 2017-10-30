@@ -1,0 +1,12 @@
+org aspectj asm intern
+author mik kersten
+program element programel program element iprogramel
+list paramet type getparametertyp
+list paramet signatur getparametersignatur
+empti isempti
+collect empti list empti list
+list param arrai list arraylist
+iter iter iter iter hasnext
+param iter
+param add convertor nameconvertor convert signatur convertfromsignatur param
+param

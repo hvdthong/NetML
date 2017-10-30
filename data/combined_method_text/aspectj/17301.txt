@@ -1,0 +1,4 @@
+org aspectj runtim intern
+flow stack cflowstack
+push object obj
+thread stack getthreadstack push obj

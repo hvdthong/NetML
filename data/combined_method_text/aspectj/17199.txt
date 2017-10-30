@@ -1,0 +1,12 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+pointcutdesign call 'body'
+author ajh02
+object perobject pointcut design pointcutdesign
+ast node astnod clone0 ast target
+object perobject result object perobject target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set bodi setbodi pointcut design pointcutdesign bodi getbodi clone target
+result set setisthi isthi
+result

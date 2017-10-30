@@ -1,0 +1,12 @@
+Base64Converter not properly handling bytes with MSB set (not masking byte to int conversion)
+Created attachment 29875
+svn diff against trunk.
+
+Base64Converter not properly bytes with MSB set (not masking byte to int conversion).
+
+Every 3rd byte taken for conversion (least significant in triplet is not being masked with added to integer, if the msb is set this leads to a signed extension which overwrites the previous two bytes with all ones.
+
+bits24 |= octetString[i++];
+
+Should be:
+bits24 |= octetString[i++] & BYTE_MASK;

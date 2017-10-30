@@ -1,0 +1,14 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+set lint properti parser
+resourc classpath
+param resourcepath path file aspectj
+lint properti
+set lint properti setlintproperti string resourc path resourcepath except ioexcept
+url url class loader classload resourc getresourc resourc path resourcepath
+input stream inputstream url open stream openstream
+properti properti
+load
+set lint properti setlintproperti

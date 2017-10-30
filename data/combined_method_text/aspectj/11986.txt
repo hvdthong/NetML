@@ -1,0 +1,25 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+param left
+param pointcut accumul name pointcut
+add name addallnam pointcut pointcut list pointcut
+pointcut
+pointcut refer pointcut referencepointcut
+refer pointcut referencepointcut refer pointcut referencepointcut pointcut
+pointcut add
+pointcut pointcut andpointcut
+pointcut andpointcut pointcut andpointcut pointcut
+add name addallnam left getleft pointcut
+add name addallnam getright pointcut
+pointcut pointcut orpointcut
+pointcut orpointcut pointcut orpointcut pointcut
+add name addallnam left getleft pointcut
+add name addallnam getright pointcut

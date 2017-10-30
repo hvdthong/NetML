@@ -1,0 +1,21 @@
+author stephen colebourn
+implement code readabl date time readabledatetim code
+link readabl date time readabledatetim
+abstract date time abstractdatetim common behaviour datetim class
+param type field type obtain date time field type datetimefieldtyp
+kind date time object referenc
+org joda time base
+author brian neill o'neil
+abstract date time abstractdatetim subclass mutabl thread safe
+field
+type
+extend
+illeg argument except illegalargumentexcept field type
+gener directli api user
+abstract date time abstractdatetim
+essenti gener call method
+field datetim
+method chronolog datetim obtain
+type field getfield chronolog getchronolog milli getmilli
+date time field type datetimefieldtyp type
+illeg argument except illegalargumentexcept date time field type datetimefieldtyp

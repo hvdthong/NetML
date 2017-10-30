@@ -1,0 +1,13 @@
+Some equals methods do not check for null argument
+ The equals methods in the following classes do not check for a null argument and thus would incorrectly fail with a null pointer exception if passed null: 
+
+<ul class="alternate" type="square">
+	<li>org.apache.lucene.index.SegmentInfo</li>
+	<li>org.apache.lucene.search.function.CustomScoreQuery</li>
+	<li>org.apache.lucene.search.function.OrdFieldSource</li>
+	<li>org.apache.lucene.search.function.ReverseOrdFieldSource</li>
+	<li>org.apache.lucene.search.function.ValueSourceQuery</li>
+</ul>
+
+
+ If a null parameter is passed to equals() then false should be returned. 

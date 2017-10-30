@@ -1,0 +1,74 @@
+aspectj declarepar declar parent equival
+ad setter moodi make clear annot style declarepar result behavior classic declar parent style
+call setter declar parent advis object behav expect call setter declarepar advis object effect call setter call immedi call getter find chang exampl packag moodi illustr
+public enum mood happi jolli
+classic style
+
+public aspect classicmoodind
+public interfac moodi
+mood getmood
+void setmood mood mood
+
+privat mood moodi mood mood happi
+public mood moodi getmood return mood
+public void moodi setmood mood mood mood mood
+declar parent moodi classicmoodimplementor implement moodi
+
+public class classicmoodimplementor
+annot style
+
+import org aspectj lang annot aspect
+import org aspectj lang annot declarepar
+aspect
+public class annotationmoodind
+public interfac moodi
+mood getmood
+void setmood mood mood
+
+public static class moodyimpl implement moodi
+privat mood mood mood happi
+public mood getmood return mood
+public void setmood mood mood mood mood
+
+declarepar moodi annotationmoodimplementor defaultimpl moodyimpl class
+privat moodi implementedinterfac
+
+public class annotationmoodimplementor
+junit testcas
+
+import junit framework testcas
+public class moodtest extend testcas
+public moodtest string super
+public void testclass
+classicmoodimplementor cmi0 classicmoodimplementor
+classicmoodimplementor cmi1 classicmoodimplementor
+assertequ cmi0 happi mood happi cmi0 getmood
+cmi1 setmood mood jolli
+assertequ cmi1 jolli mood jolli cmi1 getmood
+assertequ cmi0 happi mood happi cmi0 getmood
+
+public void testannot
+annotationmoodimplementor ami0 annotationmoodimplementor
+annotationmoodimplementor ami1 annotationmoodimplementor
+assertequ ami0 happi mood happi annotationmoodind moodi ami0 getmood
+annotationmoodind moodi ami1 setmood mood jolli
+assertequ ami1 jolli mood jolli annotationmoodind moodi ami1 getmood
+assertequ ami0 happi mood happi annotationmoodind moodi ami0 getmood
+
+
+result
+
+test run
+
+time
+failur
+testannot moodi moodtest junit framework assertionfailederror ami1 jolli expect jolli happi
+moodi moodtest testannot moodtest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+moodi moodtest main moodtest java
+failur
+test run failur error
+classic cmi1 setmood success cmi0 cmi1 decoupl call setmood cmi1 impact cmi0 annot style fail ami1 setmood appear result ami1 jolli ami0 happi includ assert ami0 ami1 end jolli rc1
+current behavior make declarepar unus retain field state retain state method invoc creat discard back object method invoc

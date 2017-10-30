@@ -1,0 +1,48 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+build dir tree builddirtre build config node buildconfignod node string root path rootpath list import file importedfil string config file configfilenam
+file dir file node resourc path getresourcepath list file listfil dir filter dir filter
+dir
+dir length
+build config node buildconfignod dir build config node buildconfignod dir getnam build config node buildconfignod kind directori dir path getpath
+file file dir list file listfil sourc file filter sourc file filter
+file length
+file file null file getnam endswith lst
+string file path filepath file updat fileupdat relativ path relativizepath file path getpath root path rootpath
+build config node buildconfignod kind kind build config node buildconfignod kind file java file java
+file getnam end endswith lst
+kind buildconfignod kind file lst
+build config node buildconfignod file build config node buildconfignod file getnam kind file path filepath
+file set activ setact
+dir add child addchild file
+node add child addchild dir
+boolean foundmatch fals
+iter import file importedfil iter hasnext
+file import file importedfil file
+import file importedfil parent file getparentfil absolut path getabsolutepath equal dir absolut path getabsolutepath
+foundmatch true
+build config node buildconfignod import file node importedfilenod build config node buildconfignod
+import file importedfil getnam
+build config node buildconfignod kind file lst file lst
+file updat fileupdat relativ path relativizepath import file importedfil path getpath root path rootpath
+import file node importedfilenod set activ setact
+dir getchildren clear
+found
+iter it2 dir children getchildren iter it2 hasnext
+build config node buildconfignod it2 getnam equal import file importedfil getnam
+found
+found dir add child addchild import file node importedfilenod
+foundmatch
+build dir tree builddirtre dir root path rootpath import file importedfil config file configfilenam
+node getnam end endswith lst
+file file file root path rootpath list file listfil sourc file filter sourc file filter
+file
+file length
+file file getnam equal config file configfilenam file null file getnam equal configfilenam file getnam endswith lst
+build config node buildconfignod kind kind build config node buildconfignod kind file java file java
+file getnam end endswith lst
+kind build config node buildconfignod kind file lst file lst
+build config node buildconfignod file build config node buildconfignod file getnam kind file getnam
+file set activ setact
+node add child addchild file

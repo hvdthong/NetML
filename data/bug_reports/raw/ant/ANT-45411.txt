@@ -1,0 +1,63 @@
+JUnit prints portions of internal logging junk
+I'm getting junk output from the JUnit task when there are test failures.  It seems that the internal logging facility assumes all logged output will be a single line, but doesn't guarantee that this is the case.
+
+I'm using Ant 1.7.0 (the standard distribution for Mac OS X), and (I believe) JUnit 3.8.1.
+
+$ -> ant -version
+Apache Ant version 1.7.0 compiled on February 29 2008
+
+Here's some example output:
+
+simple-test:
+    [junit] messed up)
+    [junit] crashed)
+    [junit] Test SimpleTest FAILED
+
+Those first two [junit] lines should not appear.
+
+To reproduce, here's the target source:
+
+  <target name="simple-test">
+    <junit fork="yes">
+      <classpath>
+        <pathelement location="classes/test" />
+      </classpath>
+      <test name="SimpleTest" />
+    </junit>
+  </target>
+
+And here is the SimpleTest class's source:
+
+public class SimpleTest extends junit.framework.TestCase {
+  public void testFoo() { assertTrue("testFoo \nmessed up", false); }
+  public void testBar() { assertTrue("testBar \ndidn't work", true); }
+  public void testFee() { assertTrue("testFee \ncrashed", false); }
+  public void testFie() { assertTrue("testFie \nbroke", true); }
+}
+
+I can avoid the junk output by turning off forking or removing the "\n" characters from the assertion failure messages.
+
+My workaround (because I need forking and multi-line failures) is to use reflection to turn off logging:
+
+    private void turnOffLogging(TestResult result) {
+      try {
+        java.lang.reflect.Field listenersF = result.getClass().getDeclaredField("fListeners");
+        listenersF.setAccessible(true);
+        for (Object listener : (Iterable<?>) listenersF.get(result)) {
+          Object antRunner = listener; // by default, the listener is the runner
+          try {
+            java.lang.reflect.Field antRunnerF = listener.getClass().getDeclaredField("this$0");
+            antRunnerF.setAccessible(true);
+            antRunner = antRunnerF.get(listener);
+          }
+          catch (Throwable t) { /* not an anonymous class */ }
+          try {
+            java.lang.reflect.Field logFlagF = antRunner.getClass().getDeclaredField("logTestListenerEvents");
+            logFlagF.setAccessible(true);
+            logFlagF.setBoolean(antRunner, false);
+          }
+          catch (Throwable t) { /* not an Ant test runner */ }
+        }
+      }
+      catch (Throwable t) { /* not a standard JUnit TestResult */ }
+    }

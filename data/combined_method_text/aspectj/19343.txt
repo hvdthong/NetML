@@ -1,0 +1,25 @@
+org aspectj weaver
+refer type repres 'real' type primit arrai
+real type java util list referencetyp deleg
+underli artifact eclips artifact
+bcel artifact type repres raw type
+gener form generictyp field set point
+gener type parameter type gener type
+set point gener form
+refer type referencetyp resolv type resolvedtyp
+collect declar getdeclar
+parameter declar parameterizeddeclar parameter declar parameterizeddeclar
+collect declar
+member parameter ajmembersneedparameter
+collect gener declar genericdeclar deleg declar getdeclar
+parameter declar parameterizeddeclar arrai list arraylist
+map parameter map parameterizationmap member parameter map getajmemberparameterizationmap
+iter iter gener declar genericdeclar iter iter hasnext
+declar declar statement declarestat declar iter
+parameter declar parameterizeddeclar add declar statement declarestat parameter parameterizewith parameter map parameterizationmap world
+declar parameter declar parameterizeddeclar
+declar deleg declar getdeclar
+iter iter declar iter iter hasnext
+declar declar iter
+set declar type setdeclaringtyp
+declar

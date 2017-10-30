@@ -1,0 +1,10 @@
+org apach common math linear
+build solver decompos matrix
+diag rdiag diag rdiag
+perm perm
+pivot decomposit pivotingqrdecomposit
+rank rank
+author gregsterijevski
+solver diag rdiag perm rank
+param diag rdiag diagon element
+param qrt pack transpos represent decomposit

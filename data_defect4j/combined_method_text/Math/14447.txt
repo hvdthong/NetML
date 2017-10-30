@@ -1,0 +1,23 @@
+step interpol classic fourth
+theta belong
+order rung kutta integr
+step comput interpol equat consist
+interpol comput dens output insid
+classic rung kutta step interpol classicalrungekuttastepinterpol classic rung kutta step interpol classicalrungekuttastepinterpol interpol
+refer point step end
+copi arrai separ origin arrai
+theta theta theta
+evalu deriv comput
+version
+param interpol interpol copi copi deep
+theta
+refer point step start
+integr scheme
+org apach common math3 od nonstiff
+step
+copi constructor
+classic rung kutta step interpol classicalrungekuttastepinterpol
+theta theta
+instanc
+interpol
+classic rung kutta integr classicalrungekuttaintegr

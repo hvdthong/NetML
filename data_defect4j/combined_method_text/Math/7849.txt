@@ -1,0 +1,25 @@
+pre
+param restrict neg restricttononneg restrict variabl neg valu
+param constraint linear constraint
+optim except optimizationexcept
+repres optim algorithm linear problem
+org apach common math optim linear
+optim algorithm find input point set link goal type goaltyp
+maxim minim object function linear form
+goal type goaltyp goal type goaltyp restrict neg restricttononneg
+param linear object function
+constraint coordin current point
+function restrict
+version revis date
+point pair give optim object function
+cst
+coeffici
+optim object function
+linear optim linearoptim
+real point pair realpointvaluepair optim linear object function linearobjectivefunct collect linear constraint linearconstraint constraint
+constraint
+except optim except optimizationexcept solut fulfil constraint
+param goal type goaltyp type optim goal link goal type goaltyp maxim
+found allow number iter
+linear constraint form
+link goal type goaltyp minim

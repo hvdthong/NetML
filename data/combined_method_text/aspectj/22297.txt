@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+pointcut typepattern visitor
+author href mailto alex gnilux dot alexandr vasseur
+pattern node visitor patternnodevisitor
+object visit type pattern nottypepattern node object data
+append
+node negat pattern getnegatedpattern accept data
+append

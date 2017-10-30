@@ -1,0 +1,17 @@
+org aspectj ajd core
+class tool drive build ajcompil creat
+uniqu absolut pathnam project
+lst file implement icompilerconfigur
+ibuildprogressmonitor ibuildmessagehandl tool call
+build buildfresh ajcompil
+ajcompil
+creat project lst file
+respons tool manag lifecycl ajcompiler'
+compil ajcompil
+ensur compil null
+null send abort messag messagehandl
+valid hasvalidid
+compil compilerid
+messag msg messag compil
+messag imessag abort
+handler handl messag handlemessag msg

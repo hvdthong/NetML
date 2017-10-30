@@ -1,0 +1,5 @@
+org mozilla javascript tool shell
+simpl shell consol simpleshellconsol shell consol shellconsol
+overrid
+println string except ioexcept
+println

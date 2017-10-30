@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+target annot pointcut thisortargetannotationpointcut bind pointcut namebindingpointcut
+equal object obj
+obj target annot pointcut thisortargetannotationpointcut
+target annot pointcut thisortargetannotationpointcut target annot pointcut thisortargetannotationpointcut obj
+annot type pattern annotationtypepattern equal annot type pattern annotationtypepattern
+isthi isthi

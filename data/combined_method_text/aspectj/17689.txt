@@ -1,0 +1,7 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+set dumpstack setdumpstack dumpstack public void setdumpstack boolean dumpstack ajc
+ignor dumpstack
+setif dumpstack dumpstack

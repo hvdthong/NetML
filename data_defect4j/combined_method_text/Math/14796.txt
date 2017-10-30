@@ -1,0 +1,11 @@
+overrid
+store point pair pointvaluepair optimum
+version
+inherit doc inheritdoc
+wrap optim order time
+multi start multivari optim multistartmultivariateoptim
+turn start point avoid trap
+multi start optim
+org apach common math3 optim nonlinear scalar
+local extremum global
+optima add optimum

@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+list bind type pattern getbindingtypepattern
+list arrai list arraylist
+type pattern typepattern pat argument type pattern gettypepattern
+pat length
+pat bind type pattern bindingtypepattern
+add pat

@@ -1,0 +1,14 @@
+org aspectj apach bcel verifi structur
+class repres control flow graph method
+version controlflowgraph java aclement exp
+author href http www inf berlin ehaas enver haas
+control flow graph controlflowgraph
+return clone outgo frame situat respect executionchain
+frame frame getoutfram arrai list arraylist exec chain execchain
+execut predecessor executionpredecessor exec chain execchain
+frame org
+instruct context instructioncontext jsr execut jsr lastexecutionjsr
+org frame frame outfram jsr
+org
+assert violat except assertionviolatedexcept outfram set nexecutionchain execut chain getexecutionchain noutfram frame outfram
+org clone getclon

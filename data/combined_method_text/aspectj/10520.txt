@@ -1,0 +1,7 @@
+org aspectj ajd
+author mik kersten
+structur view node factori structureviewnodefactori
+show code element type show initi
+accept node acceptnod program element iprogramel parent program element iprogramel child
+parent kind getkind program element iprogramel kind class
+child kind getkind program element iprogramel kind code

@@ -1,0 +1,33 @@
+overrid
+param opt data optdata optim data addit document
+inherit doc inheritdoc
+support fletcher reev polak ribièr
+version linear conjug gradient optim nonlinearconjugategradientoptim java 14z
+support option precondit
+linear conjug gradient optim nonlinearconjugategradientoptim
+pars optim data parseoptimizationdata opt data optdata
+link org apach common math3 optim initi guess initialguess
+link bracket step bracketingstep
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+retriev set
+link org apach common math3 optim nonlinear scalar object function objectivefunct
+link optim optim data optimizationdata optim
+version
+org apach common math3 optim nonlinear scalar gradient
+evalu except toomanyevaluationsexcept maxim number
+link org apach common math3 optim nonlinear scalar object function gradient objectivefunctiongradi
+gradient multivari optim gradientmultivariateoptim method regist data
+link gradient multivari optim gradientmultivariateoptim pars optim data parseoptimizationdata optim data optimizationdata
+link org apach common math3 optim max eval maxev
+set base perform comput
+param opt data optdata optim data
+point pair pointvaluepair optim optim data optimizationdata opt data optdata
+link org apach common math3 optim nonlinear scalar goal type goaltyp
+data look
+linear conjug gradient optim
+optim opt data optdata
+link org apach common math3 optim simpl bound simplebound
+constraint support call
+evalu object function exceed
+updat formula conjug search direct
+evalu except toomanyevaluationsexcept

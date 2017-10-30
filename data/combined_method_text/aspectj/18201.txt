@@ -1,0 +1,28 @@
+org aspectj util
+lang util langutil
+select input string base suffix match
+param input string input null
+param suffix string suffix selector null
+param ignorecas true ignor case
+return string input end input
+string end endswith string input string suffix ignor case ignorecas
+lang util langutil empti isempti input lang util langutil empti isempti suffix
+string
+ignor case ignorecas
+string temp string suffix length
+temp length
+string suff suffix
+temp suff suff lower case tolowercas
+suffix temp
+arrai list arraylist result arrai list arraylist
+input length
+string input input
+input
+ignor case ignorecas
+input input lower case tolowercas
+suffix length
+string suffix suffix
+suffix
+input end endswith suffix
+result add input
+string result arrai toarrai string

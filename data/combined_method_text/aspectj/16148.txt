@@ -1,0 +1,21 @@
+org aspectj intern tool ant taskdef
+push ajpush condit task conditionaltask
+add releas info addreleaseinfo file file file prop file propfil except ioexcept
+properti prop properti
+prop file propfil read canread
+prop load file input stream fileinputstream prop file propfil
+file creat file createnewfil file createnewfil creat
+byte file length
+decim format decimalformat decim format decimalformat
+set group size setgroupings
+string byte string bytesstr format byte
+prop put releas kei size byte byte string bytesstr
+prop put releas kei date project properti getproperti build date
+prop put releas kei filenam file getnam
+prop put releas date project properti getproperti build date
+prop put releas version project properti getproperti build version short
+prop put releas versionnam project properti getproperti build version long
+string user usernam system properti getproperti user
+user usernam
+prop put releas kei usernam user usernam
+prop store file output stream fileoutputstream prop file propfil

@@ -1,0 +1,48 @@
+fast math fastmath ab line offset getoffset vertex locat getloc hyperplan thick hyperplanethick
+line line start locat getloc end locat getloc
+region left side path exterior
+vector2 vector2d vertic
+tree
+bsp tree input vertic
+belong hyperplan slab
+arrai varrai vertex vertic
+param hyperplan thick hyperplanethick toler point
+line line start share line sharedlinewith end
+line support edg take care recreat
+case simpl constructor appli expect
+build vertic
+tree repres space
+repres vertic simpl loop interior part
+insert edg insertedg hyperplan thick hyperplanethick tree edg
+vertex vertex arrai varrai
+vertex start vertex end
+form disconnect path polygon hole
+build bsp tree polygon set simpl list vertic
+current
+check vertex line
+bsp tree bsptree euclidean2 euclidean2d vertic tree verticestotre hyperplan thick hyperplanethick
+version
+numer robust link polygon set polygonsset collect gener
+boundari provid list point
+build edg
+creat earlier due edg align
+repres region set polygon
+creat edg store
+constructor link hyperplan subhyperplan subhyperplan
+vertic length
+edg add edg start end line
+constructor handl polygon boundari
+line
+vertex start arrai varrai
+org apach common math3 geometri euclidean twod
+endpoint edg
+vertex bind bindwith line
+list edg edg arrai list arraylist edg
+bsp tree bsptree euclidean2 euclidean2d boolean true
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+vertex end arrai varrai
+build tree top
+bsp tree bsptree euclidean2 euclidean2d tree bsp tree bsptree euclidean2 euclidean2d
+vertex arrai varrai vertex
+side
+param vertic vertic simpl loop boundari

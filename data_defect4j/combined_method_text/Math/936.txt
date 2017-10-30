@@ -1,0 +1,22 @@
+org apach common math analysi polynomi
+param coeffici list comput coeffici store
+param gener recurr coeffici gener
+max degre maxdegre math floor math sqrt coeffici size
+coeffici arrai degre
+coeffici arrai
+arrai list arraylist fraction coeffici
+degre max degre maxdegre
+collect method oper polynomi
+version revis date
+coeffici start doublevalu
+polynomi function polynomialfunct
+build polynomi
+start degre degre
+comput degre computeuptodegre degre max degre maxdegre gener coeffici
+param degre degre polynomi
+recurr coeffici gener recurrencecoefficientsgener gener
+polynomi util polynomialsutil
+coeffici polynomi
+degre
+coeffici polynomi degre
+polynomi function polynomialfunct build polynomi buildpolynomi degre

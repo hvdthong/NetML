@@ -1,0 +1,20 @@
+org aspectj weaver pattern
+match annot type
+exact annot type pattern exactannotationtypepattern annot type pattern annotationtypepattern
+write data output stream dataoutputstream except ioexcept
+write byte writebyt annot type pattern annotationtypepattern exact
+write byte writebyt version
+write boolean writeboolean bind pattern bindingpattern
+bind pattern bindingpattern
+write utf writeutf formal formalnam
+annot type annotationtyp write
+write locat writeloc
+write boolean writeboolean paramet annot match isforparameterannotationmatch
+annot valu annotationvalu
+write int writeint
+write int writeint annot valu annotationvalu size
+set kei annot valu annotationvalu kei set keyset
+iter kei kei iter kei hasnext
+string string kei
+write utf writeutf
+write utf writeutf string annot valu annotationvalu

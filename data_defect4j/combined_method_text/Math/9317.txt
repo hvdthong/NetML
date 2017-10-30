@@ -1,0 +1,31 @@
+variabl model estim intercept term
+version
+matrix includ initi column ident equal solv normal equat
+ol assum covari matrix error diagon
+matrix link decomposit impl qrdecompositionimpl detail
+code code matrix link decomposit qrdecomposit detail
+residu dot product dotproduct residu
+org apach common math stat regress
+return sum squar residu
+code code code code equat solv back substitut
+decomposit algorithm
+equat solv back substitut
+version revis date
+multipl linear regress model
+implement ordinari squar ol estim paramet
+solv normal equat implement decomposit
+pre code code pre
+equal varianc
+regress coeffici code code satisfi normal equat
+real vector realvector residu calcul residu calculateresidu
+row sampl observ column independ
+ol multipl linear regress olsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress
+code pre
+residu sum squar
+link intercept isnointercept intercept isnointercept code code
+pre code
+calcul residu sum squar calculateresidualsumofsquar
+code code matrix link decomposit impl qrdecompositionimpl detail
+decomposit algorithm code code matrix design matrix
+sigma
+regress coeffici satisfi normal equat

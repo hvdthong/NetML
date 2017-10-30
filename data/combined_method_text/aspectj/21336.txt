@@ -1,0 +1,10 @@
+org aspectj weaver loadtim
+class add support aspectj osgi environ
+author david knibb
+weav context iweavingcontext
+osgi environ determin bundl url origin
+osgi environ implementor return code null code
+param url
+return
+deprec getfil getclassloadernam
+string bundl url getbundleidfromurl url url

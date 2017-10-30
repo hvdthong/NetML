@@ -1,0 +1,8 @@
+org apach lucen index
+class write byte stream slice share
+byte documentswrit hold
+post list term ram
+byte slice writer byteslicewrit
+write int writevint
+write byte writebyt
+write byte writebyt

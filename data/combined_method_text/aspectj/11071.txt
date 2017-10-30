@@ -1,0 +1,14 @@
+org aspectj ajdt intern compil ast
+aspect clinit aspectclinit clinit
+gener synthet code generatesyntheticcod
+class scope classscop class scope classscop
+code stream codestream code stream codestream
+init failur field initfailurefield
+handler label handlerlabel except label exceptionlabel code stream codestream class scope classscop java lang throwabl getjavalangthrow
+handler label handlerlabel place start placestart
+pre haspr
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron class scope classscop
+code stream codestream invokestat world make method bind call makemethodbindingforcal
+ajc member maker ajcmembermak ajc pre clinit method ajcpreclinitmethod
+world bind frombind class scope classscop refer context referencecontext bind
+gener synthet code generatesyntheticcod class scope classscop code stream codestream

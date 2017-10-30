@@ -1,0 +1,20 @@
+org apach common math analysi function gaussian parametr gaussian function
+pre
+org apach common math optim fit
+observ length
+version
+construct instanc observ point
+gaussian fitter gaussianfitt curv fitter curvefitt
+observ observ clone
+fit point link
+usag
+paramet fitter fit
+param observ observ point base guess
+paramet guesser parameterguess weight observ point weightedobservedpoint observ
+number small except numberistoosmallexcept observ length
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+observ
+null argument except nullargumentexcept local format localizedformat input arrai
+version revis date
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint

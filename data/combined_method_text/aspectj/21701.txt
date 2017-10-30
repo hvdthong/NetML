@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+bind
+string string tostr
+string buffer stringbuff buf string buffer stringbuff bind
+len bind length len
+buf append
+buf append bind
+buf append
+buf string tostr

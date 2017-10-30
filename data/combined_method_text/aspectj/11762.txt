@@ -1,0 +1,7 @@
+org aspectj ajdt intern core builder
+configur inform need run aspectj compil
+compil option oppos path inform held ajcompileropt instanc
+build config ajbuildconfig
+includ bootclasspath includ extdir classpath
+list classpath getclasspath public list getclasspath xxx setter respect javadoc contract
+classpath

@@ -1,0 +1,16 @@
+overrid
+org apach common math3 analysi integr gauss
+integr univari function univariatefunct
+version
+max imax
+inherit doc inheritdoc
+reduc numer error
+symmetr gauss integr symmetricgaussintegr gauss integr gaussintegr
+rule length rulelength number point getnumberofpoint
+method assum integr symmetr
+weight getweight max imax
+class' link integr univari function univariatefunct integr
+rule length rulelength
+weight getweight
+max imax rule length rulelength
+point getpoint

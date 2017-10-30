@@ -1,0 +1,11 @@
+field vector3 fieldvector3d extend field element extendedfieldel serializ
+azimuth vector
+param type field element
+org apach common math3 geometri euclidean threed
+implement link vector3 vector3d link extend field element extendedfieldel
+azimuth alpha vector
+instanc guarante immut
+atan2
+version
+alpha getalpha
+vector3 vector3d

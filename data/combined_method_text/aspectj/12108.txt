@@ -1,0 +1,24 @@
+org aspectj ajdt intern core builder
+state environ statefulnameenviron environ inameenviron
+environ answer nameenvironmentansw find type findtyp string
+pr133532 state type
+binari type ibinarytyp previou build seenonpreviousbuild state check previou build checkpreviousbuild
+previou build seenonpreviousbuild
+environ answer nameenvironmentansw previou build seenonpreviousbuild
+inflat class file cach inflatedclassfilescach kei containskei
+environ answer nameenvironmentansw inflat class file cach inflatedclassfilescach
+file file disk fileondisk file class classesfromnam
+system err println find found
+file disk fileondisk
+system println cach
+byte file util fileutil read byte arrai readasbytearrai file disk fileondisk
+environ answer nameenvironmentansw ret
+environ answer nameenvironmentansw
+class file reader classfileread byte file disk fileondisk absolut path getabsolutepath char arrai tochararrai
+null access restrict
+inflat class file cach inflatedclassfilescach put ret
+ret
+class format except classformatexcept
+return null match filesystem behavior
+except ioexcept
+return null

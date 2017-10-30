@@ -1,0 +1,21 @@
+org apach lucen index
+implement skip list reader default post list format
+store posit payload
+default skip list reader defaultskiplistread multi level skip list reader multilevelskiplistread
+overrid
+read skip data readskipdata level index input indexinput skip stream skipstream except ioexcept
+delta
+current field store payload currentfieldstorespayload
+current field store payload
+doc delta odd
+read current payload length
+differ length
+previou payload
+delta skip stream skipstream read int readvint
+delta
+payload length payloadlength level skip stream skipstream read int readvint
+delta
+delta skip stream skipstream read int readvint
+freq pointer freqpoint level skip stream skipstream read int readvint
+prox pointer proxpoint level skip stream skipstream read int readvint
+delta

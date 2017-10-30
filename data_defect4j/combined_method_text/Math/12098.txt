@@ -1,0 +1,8 @@
+org apach common math3 fraction
+serializ
+inherit doc inheritdoc
+represent ration number
+version
+fraction field fractionfield instanc getinst
+fraction
+fraction field fractionfield field getfield

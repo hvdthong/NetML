@@ -1,0 +1,12 @@
+org aspectj util
+config parser configpars
+add file pattern addfileorpattern file sourc file sourcefil
+sourc file sourcefil getnam equal java
+add file addfil sourc file sourcefil parent file getparentfil file filter filefilt
+accept file
+getnam end endswith java
+sourc file sourcefil getnam equal
+add file addfil sourc file sourcefil parent file getparentfil file filter filefilt
+accept file
+getnam end endswith
+add file addfil sourc file sourcefil

@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+visit type declar typedeclar member type declar membertypedeclar class scope classscop scope
+type stack typestack push member type declar membertypedeclar
+annot ajannot aspect annot aspectjannot member type declar membertypedeclar annot
+check type declar checktypedeclar member type declar membertypedeclar

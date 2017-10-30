@@ -1,0 +1,68 @@
+pre
+start remov len removelen
+token quot text untouch
+author stephen colebourn
+support quot charact concept
+remov len removelen
+input string split number token
+handl reach end
+read quot readwithquot char start len work area workarea token
+remov len removelen math max
+similar job link java util string token stringtoken string token stringtoken
+read charact charact string token
+quot len quotelen
+tabl
+ignor empti token ignoreemptytoken
+quot len quotelen quot matcher getquotematch match ismatch char start start len
+skip lead whitespac
+quot matcher specifi quot charact
+str token strtoken list iter listiter string cloneabl
+delim len delimlen
+handl empti token
+matcher specifi charact remov
+ignor matcher nonematch
+author matthew inger
+properti type default
+trimmer matcher specifi charact
+author gari gregori
+handl found token
+org apach common lang text
+quot matcher getquotematch match ismatch char start start len
+version
+start posit field charact
+add token addtoken token
+split string smaller string aim
+token string base base delimit separ
+delimit charact
+usag trim whitespac charact
+trimmer matcher gettrimmermatch match ismatch char start start len
+start len
+param char charact arrai token
+code string token stringtoken code
+quot matcher nonematch
+param start charact field
+delim char set matcher charsetmatch
+field delimit quot charact
+token delimit potenti charact trim
+code list iter listiter code set
+token properti option
+offer control flexibl includ implement
+delim len delimlen delimit matcher getdelimitermatch match ismatch char start start len
+empti token null emptytokenasnul
+immedi delimit end string found
+quot escap quot section duplic
+start delim len delimlen
+read token readnexttoken char start len str builder strbuilder work area workarea list string token
+point quot potenti invalid charact
+usag remov line charact
+read quot readwithquot char start quot len quotelen len work area workarea token start quot len quotelen
+token separ string delimit
+matcher getignoredmatch match ismatch char start start len
+param len length charact arrai token
+param token list pars token
+token comma delimit
+token csv process trim whitespac
+delimit matcher getdelimitermatch match ismatch char start start len
+param work area workarea temporari work area
+token surround quot
+empti token remov return

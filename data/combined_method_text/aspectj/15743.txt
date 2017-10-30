@@ -1,0 +1,12 @@
+org aspectj asm intern
+creat jdt handl
+method string argument tjp demo java demo main qstring
+method gener argument pkg myclass java myclass mymethod qlist qstring
+aspect pkg
+advic integ arg pkg afterreturn qinteg
+method call pkg a10 method call void pkg
+jdt handl provid jdtlikehandleprovid element handl provid ielementhandleprovid
+string creat handl identifi createhandleidentifi sourc locat isourceloc locat
+program element iprogramel node asm manag asmmanag default getdefault hierarchi gethierarchi find element sourc line findelementforsourcelin locat
+node
+creat handl identifi createhandleidentifi node

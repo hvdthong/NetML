@@ -1,0 +1,158 @@
+radix
+smallest number repres
+dividend mant length
+dfp extend field element extendedfieldel dfp
+nsqd mant length
+trial trial quotient digit
+remaind remaind
+multipli divisor store remaind
+result dotrap dfp field dfpfield flag div divid trap divisor result
+quotient divisor
+partial fill
+decim digit base digit
+result instanc newinst getzero
+decim
+min div msb divmsb divisor mant mant length
+field round mode getroundingmod dfp field dfpfield round mode roundingmod round nsqd mant length
+great digit
+quotient mant length extra digit need overflow round
+realiz ad addit round step ensur
+copi mantissa dividend initi
+digit
+design goal
+sign time mant time radix exp
+minadj remaind mant length radix remaind mant length
+result mant mant length result set exp
+max trial
+settabl precis mix number set
+portabl code portabl
+param divisor divisor
+pre
+result dotrap dfp field dfpfield flag invalid divid trap divisor result
+divisor isnan
+dfp field element fieldel dfp
+compli ieee
+trial big neg remaind
+dfp field dfpfield
+dividend current statu dividend
+signific digit left remain digit
+mode
+current quotient digit work
+trial nsqd
+result exp exp divisor exp mant length
+divisor mant remaind
+field set ieee flag bit setieeeflagsbit dfp field dfpfield flag invalid
+rais underflow flag number expon
+quotient mant length
+dividend remaind
+isnan
+result sign sign divisor sign
+trade off
+repres number perform
+field set ieee flag bit setieeeflagsbit dfp field dfpfield flag div
+nan infinit divisor nan finit
+trialgood flag good trail digit
+result exp
+dfp real field element realfieldel dfp
+number decim digit repres constant
+requir met
+exp rang
+version
+result nan qnan
+divisor mant mant length
+radix point fine
+system encod radix system
+digit bigger round greater loss
+number repres form
+remaind mant length extra digit need
+div msb divmsb dividend mant length radix dividend mant length
+find remaind tell
+trial min max
+result nan infinit
+make mix number precis
+carri aid subtract
+min trial
+ieee specifi exist normal number
+divisor
+min exp digit digit min exp
+entiti signific radix
+radix remaind dividend
+mant signific digit
+trial
+exp min expmin flush expon reach min exp digit
+mant length
+dotrap dfp field dfpfield flag invalid divid trap divisor result
+quotient
+ieee standard specif leav intern data encod
+nsqd number signific quotient digit
+detail matter definit side effect
+memori foot print memori
+copi digit result
+dividend
+nan finit divisor nan finit
+ieee requir radix radix
+digit includ signific signific digit
+divisor nan infinit nan finit
+minadj
+number opinion behav radix
+good divisor
+float point built radix
+find sig digit
+excp result round
+quotient trial
+handl special case
+remaind
+excp
+sig digit result
+outer loop quotient digit
+result dotrap excp divid trap divisor result
+min trial minadj updat minimum
+let analyz
+excp result round quotient mant length
+minadj minimum adjust
+result mant mant length quotient
+determin outer limit quotient digit
+trialgood assum
+radix chosen faster oper
+initi signific digit
+move remaind dividend left shift
+accuraci result ulp basic
+ieee note
+dfp divid dfp divisor
+subtract remaind dividend
+result instanc newinst
+result
+decim math close
+good check basic
+fixup expon
+ieee defin impli radix point li
+excp except
+subclass made make behav radix
+dividend mant
+render invis subclass
+field radix digit getradixdigit divisor field radix digit getradixdigit
+max div msb divmsb divisor mant mant length
+divid divisor
+sign plusmn mantissa repres fraction number
+perform
+sig digit dividend
+test divid
+nsqd
+decim float point librari java
+trialgood
+ieee note differ
+number requir met
+divisor nan infinit nan infinit
+implement put impli radix point left
+digit support gradual underflow
+remaind mant length
+dfp result instanc newinst getzero
+quotient quotient
+minadj minadj divisor mant mant length
+dividend mant length extra digit need
+org apach common math3 dfp
+decim digit time radix behavior
+algebra oper
+reason conclud subclass radix
+remaind radix
+mant length divisor mant

@@ -1,0 +1,14 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+string gen sourc signatur gensourcesignatur type declar typedeclar type declar typedeclar
+string buffer stringbuff output string buffer stringbuff
+type declar typedeclar print header printhead output
+output string tostr

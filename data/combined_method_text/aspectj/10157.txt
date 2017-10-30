@@ -1,0 +1,6 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+set bootclasspathref setbootclasspathref refer bootclasspathref public void setbootclasspathref refer bootclasspathref todo unsupport
+creat bootclasspath createbootclasspath set refid setrefid bootclasspathref

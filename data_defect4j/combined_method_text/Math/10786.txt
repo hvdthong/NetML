@@ -1,0 +1,19 @@
+org apach common math3 analysi solver
+evalu except toomanyevaluationsexcept
+method link comput object computeobjectivevalu call method intern
+param func type function solv
+version
+base abstract univari solver baseabstractunivariatesolv func univari function univariatefunct
+solver
+increment evalu count
+max count exceed except maxcountexceededexcept
+evalu increment count incrementcount
+link abstract univari differenti solver abstractunivariatedifferentiablesolv
+evalu except toomanyevaluationsexcept max getmax
+evalu except toomanyevaluationsexcept allow number function
+provid implement function gener
+evalu exhaust
+increment evalu count incrementevaluationcount
+code comput object computeobjectivevalu solv function
+link abstract differenti univari solver abstractdifferentiableunivariatesolv
+provid subclass exclus

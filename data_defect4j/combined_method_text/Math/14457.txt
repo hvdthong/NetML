@@ -1,0 +1,35 @@
+overrid
+eta theta
+step final need interpol
+dot3 ydot3 dot ydotk
+inherit doc inheritdoc
+dot3 theta theta
+previou state previousst theta eta theta eta
+od integr dormand princ integr
+dot5 ydot5 dot ydotk
+interpol state interpolatedst length
+dot0 ydot0
+dot2 ydot2 dot ydotk
+comput interpol vector time step
+interpol state interpolatedst
+dormand prince54 step interpol dormandprince54stepinterpol
+dot2 theta twotheta
+previou state previousst theta
+version
+dot4 theta twotheta theta theta twotheta
+a70 dot0 ydot0 a72 dot2 ydot2 a73 dot3 ydot3 a74 dot4 ydot4 a75 dot5 ydot5
+dot0 ydot0 dot ydotk
+current state currentst minu theta oneminusthetah theta theta eta
+interpol deriv interpolatedderiv dot2 dot3 dot4
+dot4 ydot4 dot ydotk
+org apach common math3 od nonstiff
+vector initi vectorsiniti
+comput interpol state deriv computeinterpolatedstateandderiv theta
+dot6 ydot6
+dot6 ydot6 dot ydotk
+dot0 ydot0 dot2 ydot2 dot3 ydot3 dot4 ydot4 dot5 ydot5 dot6 ydot6
+repres interpol step
+theta twotheta theta
+interpol
+dormand prince54 integr dormandprince54integr
+minu theta oneminusthetah

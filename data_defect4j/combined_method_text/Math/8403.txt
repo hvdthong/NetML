@@ -1,0 +1,9 @@
+centroid collect point
+centroid centroidof collect
+org apach common math stat cluster
+cluster
+param type point cluster
+interfac point cluster
+version revis date
+return centroid collect point
+param collect point comput centroid

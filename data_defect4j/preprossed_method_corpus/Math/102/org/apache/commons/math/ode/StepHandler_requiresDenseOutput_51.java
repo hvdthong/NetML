@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math od
+
+
+repres handler call
+success step
+
+od integr comput evolut state vector
+grid point depend intern algorithm
+found grid point possibl comput
+evalu deriv intermedi point
+provid object implement object
+typic ignor intermedi step wait
+store point ephemeri forward
+special process output method
+
+order integr firstorderintegr
+order integr secondorderintegr
+step interpol stepinterpol
+
+version step handler stephandl java 39z luc
+
+
+
+step handler stephandl
+
+determin handler dens output
+method integr avoid perform extra
+comput handler dens output
+method return integr call link
+handl step handlestep method link dummi step interpol dummystepinterpol
+custom interpol
+handler dens output
+
+requir dens output requiresdenseoutput
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

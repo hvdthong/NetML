@@ -1,0 +1,25 @@
+pre
+precis equal entri max ulp maxulp
+integ basic row getbasicrow col
+extra decis variabl neg valu
+check column basic
+param col index column check
+row
+phase object function
+entri entri getentri col
+version
+amp decis variabl
+row variabl basic column basic
+version simplex tableau simplextableau java 14z
+rh hand side
+rh
+artifici variabl
+height getheight
+simplex tableau simplextableau serializ
+phase object
+amp slack surplu variabl
+constraint
+integ row
+tableau simplex method
+org apach common math3 optim linear
+precis equal entri max ulp maxulp row

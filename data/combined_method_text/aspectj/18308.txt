@@ -1,0 +1,17 @@
+org aspectj util
+write convert text written output stream
+string deprec stringwrit
+pre
+stringwrit stringwrit
+printwrit printwrit true
+write
+string result getbuff tostr
+pre
+deprec stringwrit construct printwrit
+author mik kersten
+stream print writer streamprintwrit print writer printwrit
+write
+string writer stringwrit writer string writer stringwrit
+string string
+writer write char arrai tochararrai
+content writer buffer getbuff string tostr

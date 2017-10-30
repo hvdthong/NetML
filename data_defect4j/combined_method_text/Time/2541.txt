@@ -1,0 +1,6 @@
+org joda time chrono
+local symbol gjlocalesymbol
+max month length imaxmonthlength
+author brian neill o'neil
+month max text length getmonthmaxtextlength
+util date time field gjdatetimefield

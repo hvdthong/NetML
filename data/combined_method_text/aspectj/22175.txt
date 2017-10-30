@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+pointcut notpointcut pointcut
+equal object
+pointcut notpointcut
+pointcut notpointcut pointcut notpointcut
+bodi equal bodi

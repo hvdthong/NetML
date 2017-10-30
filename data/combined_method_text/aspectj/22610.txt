@@ -1,0 +1,24 @@
+org aspectj weaver pattern
+author colyer
+perform term rewrit pointcut express
+pointcut rewrit pointcutrewrit
+check pointcut debug
+variant check context lost
+npe happen report messag pr162657
+finish help locat problem
+check checkpc pointcut
+isnot
+pointcut notpointcut npc pointcut notpointcut
+check checkpc npc negat pointcut getnegatedpointcut
+npc sourc context getsourcecontext runtim except runtimeexcept lost context
+isor
+pointcut orpointcut opc pointcut orpointcut
+check checkpc opc left getleft
+check checkpc opc getright
+opc sourc context getsourcecontext runtim except runtimeexcept lost context
+isand
+pointcut andpointcut apc pointcut andpointcut
+check checkpc apc left getleft
+check checkpc apc getright
+apc sourc context getsourcecontext runtim except runtimeexcept lost context
+sourc context getsourcecontext runtim except runtimeexcept lost context

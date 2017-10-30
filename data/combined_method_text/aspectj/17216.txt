@@ -1,0 +1,9 @@
+org aspectj org eclips jdt core dom
+orpointcut dom ast node
+pointcutdesign
+note
+typepattern put
+author ajh02
+type pertypewithin pointcut design pointcutdesign
+tree size treesiz
+mem size memsiz memsiz stub

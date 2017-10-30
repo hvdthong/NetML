@@ -1,0 +1,11 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+dump exit shoulddumponexit messag holder imessagehold messag holder messagehold
+trace trace enabl istraceen trace enter shoulddumponexit messag holder messagehold
+trace trace enabl istraceen trace event shoulddumponexit condit kind conditionkind
+result messag holder messagehold messag holder messagehold messag hasanymessag condit kind conditionkind
+trace trace enabl istraceen trace exit shoulddumponexit result
+result

@@ -1,0 +1,25 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+add path element sourc path return result
+element ad exist
+param sourc path add null
+param toadd path add null
+return null path result
+path path incpath path sourc path add toadd
+sourc
+sourc path project
+add toadd
+sourc append add toadd
+sourc

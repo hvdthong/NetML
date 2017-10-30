@@ -1,0 +1,41 @@
+org aspectj ajdt ajc
+icommand adapt aspectj compil
+thread safe
+ajdt command ajdtcommand command icommand
+deleg runcommand repeatcommand
+invok argument parser time
+repeat
+parser detect error signal
+abort usag messag return fals
+param handler imessagehandl sink messag
+param repeat true increment build batch build
+return fals handler error command fail
+command docommand messag handler imessagehandl handler repeat
+handler messag holder imessagehold
+dump save messag holder savemessagehold messag holder imessagehold handler
+buildmanag setmessagehandl handler
+count messag handler countingmessagehandl counter count messag handler countingmessagehandl handler
+counter error haserror
+regener configur world chang
+build config ajbuildconfig config gen build config genbuildconfig save arg savedarg counter
+config proce shouldproce
+config sourc hassourc
+messag util messageutil error counter sourc
+counter error haserror counter haserror print usag config error
+string usag build arg parser buildargpars usag getusag
+messag util messageutil abort handler usag
+system err println err counter haserror
+result repeat
+build manag buildmanag increment build incrementalbuild config handler
+build manag buildmanag batch build batchbuild config handler
+counter error haserror
+dump dump exit dumponexit
+result
+abort except abortexcept
+silent issil
+messag util messageutil abort handler abort messag abort messag
+miss sourc file except missingsourcefileexcept
+messag util messageutil error handler messag getmessag
+throwabl
+messag util messageutil abort handler abort messag abort messag
+dump dump except dumpwithexcept

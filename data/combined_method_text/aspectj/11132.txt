@@ -1,0 +1,9 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+refer namerefer make refer makenamerefer type bind typebind bind
+bind sourc sourcenam
+dummi posit dummyposit length
+qualifi refer qualifiednamerefer ref
+qualifi refer qualifiednamerefer dummi posit dummyposit
+ref bind bind ref constant constant constant notaconst
+ref

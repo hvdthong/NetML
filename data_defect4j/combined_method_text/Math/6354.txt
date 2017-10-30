@@ -1,0 +1,28 @@
+arrai dimens arraydimens expect
+order comput jacobian matric respect paramet
+param expect expect dimens
+jacobian matric jacobianmatric
+dimens mismatch except dimensionmismatchexcept arrai dimens match expect
+org apach common math od
+check dimens checkdimens expect object arrai
+defin set link secondari equat secondaryequ secondari equat
+link paramet jacobian provid parameterjacobianprovid
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+link order differenti equat firstorderdifferentialequ
+version
+parameter od parameterizedod
+param arrai expect
+link parameter od parameterizedod
+dimens mismatch except dimensionmismatchexcept arrai dimens arraydimens expect
+dimens mismatch except dimensionmismatchexcept
+primari od set paramet jacobian provid set
+arrai dimens arraydimens arrai arrai length getlength arrai
+comput jacobian matric respect initi state vector
+intend pack link expand state od expandablestatefulod
+check arrai dimens
+conjunct primari set od
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+link main state jacobian provid mainstatejacobianprovid
+order differenti equat firstorderdifferentialequ

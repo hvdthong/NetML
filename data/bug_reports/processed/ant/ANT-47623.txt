@@ -1,0 +1,11 @@
+task log throwable int throws nullpointerexception messageless exceptions
+creating custom task found logging throwable message nullpointerexception caused task log throwable int forwards error message project log task string throwable int support null messages
+reproduce
+public class extends task
+override
+public final void execute throws buildexception
+final throwable exception
+log project msg err
+
+
+suggested behavior modify api throw illegalargumentexception messageless throwable preferably modify error message mangling support nulls

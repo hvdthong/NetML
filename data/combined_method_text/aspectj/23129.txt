@@ -1,0 +1,19 @@
+org aspectj weaver reflect
+subtyp resolvedmemberimpl reflect world
+annot java lang reflect member
+reflect base resolv member impl reflectionbasedresolvedmemberimpl resolv member impl resolvedmemberimpl
+param kind
+param declaringtyp
+param modifi
+param returntyp
+param
+param parametertyp
+param checkedexcept
+reflect base resolv member impl reflectionbasedresolvedmemberimpl kind kind
+unresolv type unresolvedtyp declar type declaringtyp modifi
+unresolv type unresolvedtyp return type returntyp string
+unresolv type unresolvedtyp paramet type parametertyp unresolv type unresolvedtyp check except checkedexcept
+member reflect member reflectmemb
+kind declar type declaringtyp modifi return type returntyp paramet type parametertyp
+check except checkedexcept
+reflect member reflectmemb reflect member reflectmemb

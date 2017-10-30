@@ -1,0 +1,10 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+string filter slash filterslash string str
+str
+str
+replac
+replac
+replac file separ char separatorchar

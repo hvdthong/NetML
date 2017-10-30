@@ -1,0 +1,14 @@
+org aspectj weaver pattern
+annot type pattern annotationtypepattern pattern node patternnod
+annot type pattern annotationtypepattern read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+kei read byte readbyt
+kei
+exact exact annot type pattern exactannotationtypepattern read context
+bind bind annot type pattern bindingannotationtypepattern read context
+annot type pattern notannotationtypepattern read context
+annot type pattern orannotationtypepattern read context
+annot type pattern andannotationtypepattern read context
+wild wild annot type pattern wildannotationtypepattern read context
+ellipsi kei ellipsi kei ellipsi
+kei kei
+except bcexcept unknown typepattern kind kei

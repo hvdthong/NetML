@@ -1,0 +1,23 @@
+org aspectj weaver bcel
+util
+instruct creat invok createinvok
+instruct factori instructionfactori fact
+bcel world bcelworld world
+member signatur
+kind
+signatur interfac isinterfac
+kind constant invokeinterfac
+signatur static isstat
+kind constant invokestat
+signatur privat ispriv signatur getnam equal init
+kind constant invokespeci
+kind constant invokevirtu
+unresolv type unresolvedtyp target type targettyp signatur declar type getdeclaringtyp
+target type targettyp parameter type isparameterizedtyp
+target type targettyp target type targettyp resolv world gener type getgenerictyp
+fact creat invok createinvok
+target type targettyp getnam
+signatur getnam
+bcel world bcelworld make bcel type makebceltyp signatur return type getreturntyp
+bcel world bcelworld make bcel type makebceltyp signatur paramet type getparametertyp
+kind

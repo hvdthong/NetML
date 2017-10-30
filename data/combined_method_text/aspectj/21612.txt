@@ -1,0 +1,47 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+arg annot pointcut argsannotationpointcut bind pointcut namebindingpointcut
+test find residu intern findresidueintern shadow shadow expos state exposedst state
+len shadow arg count getargcount
+quick length test
+num arg match ellipsi numargsmatchedbyellipsi len argument ellipsi count ellipsiscount argument size
+num arg match ellipsi numargsmatchedbyellipsi liter fals numargsmatchedbyellipsi return liter fals happen
+num arg match ellipsi numargsmatchedbyellipsi argument ellipsi count ellipsiscount
+liter fals return liter fals happen
+work arg pattern skip ellipsi
+test ret liter true
+arg index argsindex
+argument size
+argument annot type pattern annotationtypepattern ellipsi
+match ellipsismatchcount arg
+arg index argsindex num arg match ellipsi numargsmatchedbyellipsi
+argument annot type pattern annotationtypepattern
+arg index argsindex
+match argument type argsindex exactannotationtypepattern
+exact allow arg
+exact annot type pattern exactannotationtypepattern exact annot type pattern exactannotationtypepattern argument
+unresolv type unresolvedtyp arg type argtyp shadow arg type getargtyp arg index argsindex
+resolv type resolvedtyp arg type rargtyp arg type argtyp resolv shadow world getiworld
+arg type rargtyp miss ismiss
+shadow world getiworld lint getlint find type cantfindtyp signal
+string weaver messag weavermessag format weaver messag weavermessag find type arg type find type arg type arg type argtyp getnam
+shadow sourc locat getsourceloc
+sourc locat isourceloc sourc locat getsourceloc
+imessag msg messag
+weavermessag format weavermessag find type arg type argtyp getnam
+imessag error shadow getsourceloc null isourceloc getsourceloc
+resolv type resolvedtyp ann type ranntyp annot type getannotationtyp resolv shadow world getiworld
+bind annot type pattern bindingannotationtypepattern
+bind annot type pattern bindingannotationtypepattern btp bind annot type pattern bindingannotationtypepattern
+var annvar shadow arg annot var getargannotationvar arg index argsindex ann type ranntyp
+state set btp formal index getformalindex annvar
+match arg type rargtyp true alwaystru
+test
+ret test make makeand ret
+test make annot makehasannot
+shadow arg var getargvar arg index argsindex
+ann type ranntyp
+arg index argsindex
+ret

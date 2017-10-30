@@ -1,0 +1,8 @@
+org apach common math3 fit leastsquar
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+abstract squar optim abstractleastsquaresoptim
+default constructor
+version
+param optim concret optim
+base implement squar optim
+method error estim

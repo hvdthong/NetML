@@ -1,0 +1,9 @@
+real vector realvector initi state estim getinitialstateestim
+initi state estim vector
+return initi state estim vector
+org apach common math3 filter
+version
+state estim vector
+defin process dynam model link kalman filter kalmanfilt
+process model processmodel
+note kalman filter initi

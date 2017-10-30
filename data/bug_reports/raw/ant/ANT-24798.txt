@@ -1,0 +1,9 @@
+BZip2: faster, less memory
+I have a patch here to speed up the BZip2 task (50-90%). At the same time this 
+patch achieves lower memory usage (35%). 
+It's well tested. 
+ 
+Please note this is the first time I'm trying to contribute a patch to 
+apache...hoping I can create an attachment on the next page. 
+If not, I will send the patch to Keiron Liddle (keiron@aftexsw.com), the 
+author of the current version.

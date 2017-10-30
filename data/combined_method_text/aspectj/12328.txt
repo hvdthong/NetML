@@ -1,0 +1,31 @@
+org aspectj apach bcel classfil
+class repres constant pool tabl constant
+pars classfil null refer due jvm
+specif skip entri byte constant doubl
+long entri interest gener constant pool
+programat href gener constantpoolgen html
+constantpoolgen
+version constantpool java aclement exp
+constant
+org aspectj apach bcel gener constantpoolgen
+author href mailto marku dahm berlin dahm
+constant pool constantpool cloneabl node serializ
+read constant file stream
+param file input stream
+throw ioexcept
+throw classformatexcept
+constant pool constantpool data input stream datainputstream file except ioexcept class format except classformatexcept
+tag
+constant pool count file read unsign short readunsignedshort
+constant pool constant constant pool count
+constant pool unus compil freeli
+implement
+constant pool count
+constant pool constant read constant readconst file
+quot jvm specif
+byte constant spot constant pool
+n'th byte constant pool item
+number
+increment index counter
+tag constant pool tag gettag
+tag constant constant doubl constant doubl tag constant constant long constant long

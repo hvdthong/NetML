@@ -1,0 +1,30 @@
+org apach lucen spatial geohash
+font color red note api
+flux chang incompat wai
+releas font
+geo hash distanc filter geohashdistancefilt distanc filter distancefilt
+overrid
+doc set docidset doc set getdocidset reader context readercontext context except ioexcept
+doc term docterm geo hash valu geohashvalu field cach fieldcach default term getterm context reader geo hash field geohashfield
+byte ref bytesref byte ref bytesref
+doc base docbas doc base nextdocbas
+doc base nextdocbas context reader max doc maxdoc
+filter doc set filtereddocidset start filter startingfilt doc set getdocidset context
+overrid
+match doc
+todo cutov bytesref
+make string
+string geo hash geohash geo hash valu geohashvalu term getterm doc utf8 string utf8tostr
+coord geo hash util geohashutil decod geo hash geohash
+coord
+coord
+round lat long
+distancehandl getprecis precis
+distancehandl getprecis precis
+doubl cach distanc cacheddist distanc lookup cach distancelookupcach geo hash geohash
+cach distanc cacheddist
+cach distanc cacheddist doubl doublevalu
+distanc util distanceutil distanc getdistancemi lat lng
+distanc lookup cach distancelookupcach put geo hash geohash
+distanc
+distanc put doc doc base docbas

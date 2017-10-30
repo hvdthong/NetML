@@ -1,0 +1,14 @@
+org aspectj org eclips jdt core dom
+declareattypedeclar dom ast node
+declaredeclar
+unsupport jls2
+declar type declar declareattypedeclar declar annot declar declareannotationdeclar
+ast node astnod clone0 ast target
+declar type declar declareattypedeclar result declar type declar declareattypedeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+result set pattern node setpatternnod pattern node patternnod ast node astnod copi subtre copysubtre target
+pattern node getpatternnod
+result set annot setannotationnam simpl simplenam ast node astnod copi subtre copysubtre target
+annot getannotationnam
+result

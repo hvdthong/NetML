@@ -1,0 +1,32 @@
+org aspectj asm intern
+author mik kersten
+aspect element hierarchi aspectjelementhierarchi hierarchi ihierarchi
+param packagenam null default packag search
+param classnam null
+program element iprogramel find element type findelementfortyp string packag packagenam string type typenam
+string buffer stringbuff keyb packag packagenam string buffer stringbuff
+string buffer stringbuff packag packagenam
+keyb append
+keyb append type typenam
+string kei keyb string tostr
+program element iprogramel ret program element iprogramel type map typemap kei
+ret
+program element iprogramel packag node packagenod
+packag packagenam
+packag node packagenod root
+root
+list kid root children getchildren
+kid
+iter kid iter hasnext
+program element iprogramel node program element iprogramel
+packag packagenam equal node getnam
+packag node packagenod node
+packag node packagenod
+search file class
+iter packag node packagenod children getchildren iter hasnext
+program element iprogramel file node filenod program element iprogramel
+program element iprogramel node cnode find class node findclassinnod file node filenod children getchildren type typenam type typenam
+node cnode
+ret node cnode
+type map typemap put kei ret
+ret

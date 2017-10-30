@@ -1,0 +1,27 @@
+overrid
+scan list requir option optim data
+character problem
+base regist data
+function univari object function univariateobjectivefunct data object function getobjectivefunct
+pars optim data parseoptimizationdata opt data optdata
+provid argument list
+start interv start getstartvalu
+univari optim univariateoptim
+version
+data univari object function univariateobjectivefunct
+optim data optimizationdata data opt data optdata
+link goal type goaltyp
+base univari scalar function optim
+goal goal type goaltyp data
+data search interv searchinterv
+org apach common math3 optim univari
+param opt data optdata optim data
+pars optim data parseoptimizationdata optim data optimizationdata opt data optdata
+data look
+max interv max getmax
+link search interv searchinterv
+data goal type goaltyp
+search interv searchinterv interv search interv searchinterv data
+min interv min getmin
+link univari object function univariateobjectivefunct
+exist valu set previou call reus

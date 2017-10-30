@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+return null java constructor
+weav
+instruct handl instructionhandl find super call findsuperorthiscal lazi method gen lazymethodgen
+depth
+instruct handl instructionhandl start bodi getbodi start getstart
+start
+instruct inst start instruct getinstruct
+inst invokespeci
+invokespeci inst getnam cpg equal init
+depth
+depth start
+inst
+depth
+start start getnext

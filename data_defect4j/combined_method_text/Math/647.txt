@@ -1,0 +1,7 @@
+version
+org apach common math analysi integr
+inherit doc inheritdoc
+base abstract univari integr baseabstractunivariateintegr univari integr univariateintegr
+iter getiter
+provid implement gener function
+iter count getcount

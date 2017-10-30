@@ -1,0 +1,6 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+list make effect signatur attribut makeeffectivesignatureattribut resolv member resolvedmemb sig shadow kind kind weav bodi weavebodi
+list arrai list arraylist
+add eclips attribut adapt eclipseattributeadapt
+attribut ajattribut effect signatur attribut effectivesignatureattribut sig kind weav bodi weavebodi

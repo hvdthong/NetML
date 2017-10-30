@@ -1,0 +1,51 @@
+org aspectj ajdt intern compil ast
+repres advic aspect
+gener method bodi advic
+attribut includ addit inform
+author jim hugunin
+advic declar advicedeclar method declar ajmethoddeclar
+gener proce method generateproceedmethod class scope classscop class scope classscop class file classfil class file classfil
+method bind methodbind bind method bind methodbind proce method bind proceedmethodbind
+class file classfil gener method info header generatemethodinfohead bind
+method attribut offset methodattributeoffset class file classfil content offset contentsoffset
+attribut number attributenumb class file classfil gener method info attribut generatemethodinfoattribut bind ast util astutil synthet attribut getajsyntheticattribut
+code attribut offset codeattributeoffset class file classfil content offset contentsoffset
+class file classfil gener code attribut header generatecodeattributehead
+code stream codestream code stream codestream class file classfil code stream codestream
+code stream codestream reset class file classfil
+push closur
+narg bind paramet length
+closur index closureindex
+narg
+closur index closureindex ast util astutil slot need slotsneed bind paramet
+code stream codestream aload closur index closureindex
+build object
+code stream codestream gener inlin generateinlinedvalu narg
+code stream codestream arrai newarrai
+arrai bind arraybind
+class scope classscop type gettyp type constant typeconst java lang object java lang object
+type constant typeconst java lang object java lang object length
+class scope classscop environ
+index
+narg
+type bind typebind type bind paramet
+code stream codestream dup
+code stream codestream gener inlin generateinlinedvalu
+code stream codestream load type index
+index ast util astutil slot need slotsneed type
+type base type isbasetyp
+code stream codestream invokestat type constant ajtypeconst convers method object getconversionmethodtoobject class scope classscop type
+code stream codestream aastor
+call run
+refer bind referencebind closur type closuretyp refer bind referencebind bind paramet narg
+method bind methodbind run method runmethod closur type closuretyp method getmethod run char arrai tochararrai
+code stream codestream invokevirtu run method runmethod
+type bind typebind return type returntyp bind return type returntyp
+return type returntyp base type isbasetyp
+code stream codestream invokestat type constant ajtypeconst convers method object getconversionmethodfromobject class scope classscop return type returntyp
+code stream codestream checkcast return type returntyp
+ast util astutil gener return generatereturn return type returntyp code stream codestream
+code stream codestream record posit recordpositionsfrom
+class file classfil complet code attribut completecodeattribut code attribut offset codeattributeoffset
+attribut number attributenumb
+class file classfil complet method info completemethodinfo method attribut offset methodattributeoffset attribut number attributenumb

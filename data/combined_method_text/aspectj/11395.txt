@@ -1,0 +1,22 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+call discov weav intertyp declar type
+exist 'weaverstateinfo' object typic previous woven type
+pass inpath
+sourcetyp ontyp 'same type' 'eclipse' version
+'weaver' version
+process type munger exist weaver state processtypemungersfromexistingweaverst sourc type bind sourcetypebind sourc type sourcetyp resolv type resolvedtyp type ontyp
+collect previous appli munger previouslyappliedmung type ontyp weaver state getweaverst type munger gettypemung type ontyp
+iter previous appli munger previouslyappliedmung iter hasnext
+concret type munger concretetypemung concret type munger concretetypemung
+eclips type munger eclipsetypemung munger factori make eclips type munger makeeclipsetypemung
+munger mung sourc type sourcetyp type ontyp
+type ontyp interfac isinterfac munger munger getmung access topmost implementor needsaccesstotopmostimplementor
+type ontyp world getworld crosscut member set getcrosscuttingmembersset aspect containsaspect munger aspect type getaspecttyp
+danger interfac dangerousinterfac put type ontyp implementor type ontyp woven munger aspect type getaspecttyp

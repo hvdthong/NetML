@@ -1,0 +1,8 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+type pattern list typepatternlist resolv refer resolverefer int map intmap bind
+len type pattern typepattern length
+type pattern typepattern ret type pattern typepattern len
+len
+ret type pattern typepattern remap advic formal remapadviceform bind
+type pattern list typepatternlist ret

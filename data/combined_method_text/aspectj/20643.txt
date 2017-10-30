@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+return foo form bind return paramet
+shadow return void bind null
+param advic
+return
+bcel var bcelvar insert advic instruct bind return paramet insertadviceinstructionsforbindingreturningparamet instruct list instructionlist advic
+bcel var bcelvar temp var tempvar
+unresolv type unresolvedtyp temp var type tempvartyp return type getreturntyp
+temp var type tempvartyp equal resolv type resolvedtyp void
+temp var tempvar gen temp var gentempvar unresolv type unresolvedtyp object
+advic append instruct constant instructionconst aconst null aconst null
+temp var tempvar append store appendstor advic factori getfactori
+temp var tempvar gen temp var gentempvar temp var type tempvartyp
+advic append instruct factori instructionfactori creat dup createdup temp var type tempvartyp size getsiz
+temp var tempvar append store appendstor advic factori getfactori
+temp var tempvar

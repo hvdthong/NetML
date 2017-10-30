@@ -1,0 +1,6 @@
+real matrix realmatrix invers getinvers
+org apach common math linear
+inherit doc inheritdoc
+pivot decomposit pivotingqrdecomposit
+author gregsterijevski
+solv matrix util matrixutil creat real ident matrix createrealidentitymatrix diag rdiag length

@@ -1,0 +1,19 @@
+org aspectj org eclips jdt core dom
+pointcutdeclar dom ast node
+option pointcut design call 'designator'
+singlevariabledeclar list call 'parameters'
+javadoc
+modifi
+note
+properti paramet list
+methoddeclar
+author ajh02
+pointcut declar pointcutdeclar bodi declar bodydeclar
+simpl simplenam getnam
+pointcut pointcutnam
+lazi init thread safe reader
+pointcut pointcutnam
+pre lazi init prelazyinit
+pointcut pointcutnam simpl simplenam ast
+post lazi init postlazyinit pointcut pointcutnam properti properti
+pointcut pointcutnam

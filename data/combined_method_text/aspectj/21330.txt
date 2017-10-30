@@ -1,0 +1,12 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+simpli call weav adaptor back pars aop xml
+param weaver
+param loader
+list definit getdefinit class loader classload loader weav adaptor weavingadaptor adaptor
+trace trace enabl istraceen trace enter getdefinit object loader adaptor
+list definit class loader weav adaptor classloaderweavingadaptor adaptor pars definit parsedefinit loader
+trace trace enabl istraceen trace exit getdefinit definit
+definit

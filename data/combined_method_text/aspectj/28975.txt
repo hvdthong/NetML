@@ -1,0 +1,79 @@
+set
+modifierspattern
+tokensourc tokensourc tokensourc tokensourc tokensourc
+signatur signatur signatur signatur
+string string string
+maybegetsimplenam
+argument
+parseargumentspattern
+annot annot annot annot
+annotationpattern annotationpattern
+sourc sourc sourc sourc sourc sourc
+declaringtyp declaringtyp declaringtyp declaringtyp declaringtyp declaringtyp declaringtyp declaringtyp
+org
+kind kind kind kind kind
+maybeeatnew
+extract
+check check
+paramet paramet
+signaturepattern signaturepattern signaturepattern
+'new'
+setloc
+typepatternlist
+pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern
+startpo startpo
+except except
+ret ret ret
+eat eat
+member member member
+start start start
+add
+namepattern namepattern
+constructor constructor constructor
+simplenam simplenam simplenam
+maybeeat
+simpl simpl simpl simpl
+method method method
+parseoptionalthrowspattern
+peek peek peek peek peek
+parser parser parser
+return return return return return return return
+option
+type type type type type type type type type type type type type type type type type type type type type type type type type type
+xxx
+typepattern typepattern typepattern typepattern typepattern
+annotationtypepattern
+weaver
+maybeparseannotationpattern
+pars pars pars pars pars pars pars pars
+itoken
+parserexcept parserexcept
+parsemethodorconstructorsignaturepattern
+locat
+end end end
+sourcecontext
+modifi modifi modifi modifi
+getend
+aspectj
+patternpars
+throwspattern throwspattern throwspattern
+throw throw throw throw
+endpo endpo
+keyword
+java
+getstart
+nametoken nametoken nametoken
+list
+equal equal
+po po po po
+parsemodifierspattern
+length
+declar declar declar declar declar declar declar declar
+returntyp returntyp returntyp returntyp returntyp returntyp
+trytoextractnam
+context
+tostr tostr
+parametertyp parametertyp
+parsenamepattern
+parsetypepattern parsetypepattern
+token token token token token token token token token

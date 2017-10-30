@@ -1,0 +1,14 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+shadow munger shadowmung parameter parameterizewith resolv type resolvedtyp declar type declaringtyp map type variabl map typevariablemap
+pointcut pointcut getpointcut parameter parameterizewith type variabl map typevariablemap declar type declaringtyp world getworld
+bcel advic bceladvic ret
+member advic signatur advicesignatur signatur
+advic return type variabl pr115250
+signatur resolv member resolvedmemb signatur declar type getdeclaringtyp gener type isgenerictyp
+advic signatur advicesignatur resolv member resolvedmemb signatur parameter parameterizedwith declar type declaringtyp type paramet gettypeparamet declar type declaringtyp declar type declaringtyp parameter type isparameterizedtyp
+ret bcel advic bceladvic attribut advic signatur advicesignatur concret aspect concreteaspect
+ret

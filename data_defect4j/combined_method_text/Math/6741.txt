@@ -1,0 +1,61 @@
+pre
+org apach common math od nonstiff
+rel tol reltol compon
+filter step filterstep forward accept small acceptsmal
+integr except integratorexcept
+main set part state vector stepsiz control complet
+adapt stepsiz integr adaptivestepsizeintegr
+algorithm perform integr stepsiz control
+step reject attempt made
+step gener except
+main set dimens step accept
+doubl valueof math ab
+state vector
+link expand state od expandablestatefulod primari state getprimaryst primari part
+silent increas small
+bound integr step bound reach bound
+object
+filter integr step
+number small except numberistoosmallexcept local format localizedformat minim stepsiz reach integr
+param sign step
+extend od link
+min step minstep fast math fastmath ab
+state vector stepsiz control complet state vector
+math illeg argument except mathillegalargumentexcept
+except integr except integratorexcept step small accept small acceptsmal
+version
+compon user scalar valu ab tol abstol
+version revis date
+doubl valueof min step minstep
+number small except numberistoosmallexcept
+integr except integratorexcept minim step size reach
+sqrt sum err est errest threshold
+accept small acceptsmal
+state vector rel tol reltol rel toler
+min step minstep math ab
+filter filteredh
+threshold ab tol abstol rel tol reltol max ab ab
+state vector dimens step accept
+org apach common math od order differenti equat firstorderdifferentialequ basic od
+toler error error threshold comput
+extend od link order differenti equat firstorderdifferentialequ basic od
+stepsiz integr ordinari differenti equat
+ab tol abstol absolut toler compon
+mean user integr step
+hold common part adapt
+math ab min step minstep
+param forward forward integr indic
+except number small except numberistoosmallexcept step small accept small acceptsmal
+ordinari differenti equat link expand state od expandablestatefulod
+minim step size number e00 00e00 reach integr number e00 00e00
+fast math fastmath ab min step minstep
+estim error
+filter filteredh max step maxstep
+minim step size reach integr
+param accept small acceptsmal step smaller minim
+stepsiz
+integr
+local format localizedformat minim stepsiz reach integr
+filter filteredh forward min step minstep min step minstep
+link extend order differenti equat extendedfirstorderdifferentialequ main set dimens getmainsetdimens
+ordinari differenti equat link extend order differenti equat extendedfirstorderdifferentialequ

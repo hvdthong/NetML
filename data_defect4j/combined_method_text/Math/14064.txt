@@ -1,0 +1,22 @@
+dimens
+param column dimens columndimens number column matrix
+row dimens rowdimens column dimens columndimens
+remov version
+spars field matrix sparsefieldmatrix field field
+org apach common math3 except strictli posit except notstrictlypositiveexcept
+field row dimens rowdimens column dimens columndimens
+entri open int field hash map openinttofieldhashmap field
+row column dimens posit
+href http issu apach org jira brows math ticket
+version
+deprec version deprec reason expos
+spars field matrix sparsefieldmatrix field element fieldel abstract field matrix abstractfieldmatrix
+param type field element
+row row dimens rowdimens
+spars matrix implement base open address map
+jira
+column column dimens columndimens
+param row dimens rowdimens number row matrix
+org apach common math3 linear
+param field field element belong
+creat spars field matrix sparsefieldmatrix suppli row column

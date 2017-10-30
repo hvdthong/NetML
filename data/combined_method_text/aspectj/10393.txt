@@ -1,0 +1,7 @@
+org aspectj ajd intern
+author mik kersten
+lst build config file parser lstbuildconfigfilepars config parser configpars
+pars import config file parseimportedconfigfil string rel file path relativefilepath
+import file importedfil add make file makefil rel file path relativefilepath
+file add file rel file path relativefilepath
+pars import config file parseimportedconfigfil rel file path relativefilepath

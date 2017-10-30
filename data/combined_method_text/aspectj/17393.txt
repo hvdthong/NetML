@@ -1,0 +1,7 @@
+org aspectj runtim reflect
+factori
+lock signatur locksignatur make lock sig makelocksig
+class declar type class declaringtypeclass make class makeclass ljava lang object lookup class loader lookupclassload
+lock signatur impl locksignatureimpl ret lock signatur impl locksignatureimpl declar type class declaringtypeclass
+ret set lookup class loader setlookupclassload lookup class loader lookupclassload
+ret

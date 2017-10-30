@@ -1,0 +1,51 @@
+pre
+param maxim step maximalstep maxim step posit backward
+org apach common math od nonstiff
+rel tol reltol compon
+absolut toler absolutetoler
+main set part state vector stepsiz control complet
+adapt stepsiz integr adaptivestepsizeintegr
+algorithm perform integr stepsiz control
+step reject attempt made
+step automat comput integr
+main set dimens step accept
+scal absolut toler scalabsolutetoler
+state vector
+link expand state od expandablestatefulod primari state getprimaryst primari part
+set step size control setstepsizecontrol minim step minimalstep maxim step maximalstep
+link set initi step size setinitialsteps set initi step size setinitialsteps
+side effect method reset initi
+call user
+rel toler relativetoler
+integr step smaller
+state vector stepsiz control complet state vector
+vec rel toler vecrelativetoler rel toler relativetoler clone
+version
+compon user scalar valu ab tol abstol
+version revis date
+sqrt sum err est errest threshold
+state vector rel tol reltol rel toler
+min step minstep fast math fastmath ab minim step minimalstep
+threshold ab tol abstol rel tol reltol max ab ab
+org apach common math od order differenti equat firstorderdifferentialequ basic od
+set adapt step size control paramet
+toler error error threshold comput
+extend od link order differenti equat firstorderdifferentialequ basic od
+stepsiz integr ordinari differenti equat
+ab tol abstol absolut toler compon
+mean user integr step
+hold common part adapt
+extend od link
+initi step initialstep
+ordinari differenti equat link expand state od expandablestatefulod
+param minim step minimalstep minim step posit backward
+max step maxstep fast math fastmath ab maxim step maximalstep
+estim error
+stepsiz
+integr
+param absolut toler absolutetoler allow absolut error
+param rel toler relativetoler allow rel error
+vec absolut toler vecabsolutetoler absolut toler absolutetoler clone
+link extend order differenti equat extendedfirstorderdifferentialequ main set dimens getmainsetdimens
+ordinari differenti equat link extend order differenti equat extendedfirstorderdifferentialequ
+scal rel toler scalrelativetoler

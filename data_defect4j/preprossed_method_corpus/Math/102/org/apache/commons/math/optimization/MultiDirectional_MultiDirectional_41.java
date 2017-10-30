@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math optim
+
+multi direct direct search method
+
+version multi direct multidirect java 39z luc
+nelder mead neldermead
+
+multi direct multidirect
+
+
+
+
+
+
+
+
+
+
+
+build multi direct optim coeffici
+param khi expans coeffici
+param gamma contract coeffici
+
+multi direct multidirect khi gamma
+
+khi khi
+gamma gamma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

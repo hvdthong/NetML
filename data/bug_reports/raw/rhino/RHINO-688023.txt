@@ -1,0 +1,2 @@
+Calling toSource on a parsed script containing if without braces not indented - sample attached
+Pull request at https://github.com/mozilla/rhino/pull/64

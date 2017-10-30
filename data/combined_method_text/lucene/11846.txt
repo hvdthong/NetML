@@ -1,0 +1,5 @@
+org apach lucen index
+freq prox term writer field freqproxtermswriterperfield term hash consum field termshashconsumerperfield compar freq prox term writer field freqproxtermswriterperfield
+overrid
+byte post bytesperpost
+parallel post arrai parallelpostingsarrai byte post byte post document writer documentswrit int num byte int num byte

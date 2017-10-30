@@ -1,0 +1,13 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+reset static state primit type
+reset primit resetprimit
+byte world
+char world
+doubl world
+float world
+int world
+long world
+short world
+void world
+boolean world

@@ -1,0 +1,18 @@
+overrid
+repres hyperplan link line
+direct fast math fastmath sin line thislin angl getangl line otherlin angl getangl
+line line thislin line hyperplan gethyperplan
+global line otherlin offset getoffset line thislin
+inherit doc inheritdoc
+cross
+vector2 vector2d cross line thislin intersect line otherlin
+line intersect
+version
+remain region getremainingregion side orient point orientedpoint direct
+side side hyperplan euclidean2 euclidean2d hyperplan
+line line otherlin line hyperplan
+global side minu global side side hyper
+vector1 vector1d line thislin space tosubspac cross
+line sublin abstract hyperplan abstractsubhyperplan euclidean2 euclidean2d euclidean1 euclidean1d
+line parallel
+org apach common math3 geometri euclidean twod

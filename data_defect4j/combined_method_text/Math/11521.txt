@@ -1,0 +1,14 @@
+code sampl size samples posit
+distribut function requir
+sampl sampl size samples strictli posit except notstrictlypositiveexcept
+arrai repres random sampl
+multivari real distribut multivariaterealdistribut
+gener list random vector distribut
+version
+sampl
+base multivari distribut real
+org apach common math3 except strictli posit except notstrictlypositiveexcept
+org apach common math3 distribut
+difficult comput multivari distribut
+base larg real distribut realdistribut cumul
+param sampl size samples number random vector gener

@@ -1,0 +1,5 @@
+org aspectj ajd swing
+author mik kersten
+build progress panel buildprogresspanel panel jpanel
+set progress text setprogresstext string text
+progress label set text settext text

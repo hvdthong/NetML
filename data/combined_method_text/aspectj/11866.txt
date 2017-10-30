@@ -1,0 +1,15 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+string output class file getoutputclassfilenam eclips class file eclipseclassfilenam compil result compilationresult result
+string filenam string eclips class file eclipseclassfilenam
+filenam filenam replac file separ char separatorchar class
+file destin path destinationpath build config buildconfig output dir getoutputdir
+build config buildconfig compil result destin manag getcompilationresultdestinationmanag
+file file string result file getfilenam
+destin path destinationpath build config buildconfig compil result destin manag getcompilationresultdestinationmanag output locat class getoutputlocationforclass
+string file outfil
+destin path destinationpath
+file outfil file filenam getnam
+file outfil file extract destin path sourc file extractdestinationpathfromsourcefil result file outfil path getpath
+file outfil file destin path destinationpath filenam path getpath
+file outfil

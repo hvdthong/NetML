@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+copi field copyallfield method declar methoddeclar method declar methoddeclar
+annot annot
+argument argument
+bind bind
+bit bit
+bodi end bodyend bodi end bodyend
+bodi start bodystart bodi start bodystart
+declar sourc end declarationsourceend declar sourc end declarationsourceend
+declar sourc start declarationsourcestart declar sourc start declarationsourcestart
+explicit declar explicitdeclar explicit declar explicitdeclar
+ignor investig ignorefurtherinvestig ignor investig ignorefurtherinvestig
+javadoc javadoc
+modifi modifi
+modifi sourc start modifierssourcestart modifi sourc start modifierssourcestart
+return type returntyp return type returntyp
+scope scope
+selector selector
+sourc end sourceend sourc end sourceend
+sourc start sourcestart sourc start sourcestart
+statement statement
+thrown except thrownexcept thrown except thrownexcept
+type paramet typeparamet type paramet typeparamet

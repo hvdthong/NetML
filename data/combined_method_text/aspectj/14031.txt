@@ -1,0 +1,18 @@
+org aspectj apach bcel gener
+lookupswitch switch unord set valu
+version lookupswitch java aclement exp
+author href mailto marku dahm berlin dahm
+switch
+lookupswitch select
+read need data index file
+init file initfromfil byte sequenc bytesequ byte wide except ioexcept
+init file initfromfil byte wide super initfromfil byte wide read pad
+match length byte read int readint
+fix length match length
+length fix length pad
+match match length
+indic match length
+target instruct handl instructionhandl match length
+match length
+match byte read int readint
+indic byte read int readint

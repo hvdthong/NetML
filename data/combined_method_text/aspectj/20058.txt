@@ -1,0 +1,5 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+list declar annot field getdeclareannotationonfield
+crosscut member set crosscuttingmembersset declar annot field getdeclareannotationonfield

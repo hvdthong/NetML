@@ -1,0 +1,18 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+dumptre writer program element iprogramel node indent except ioexcept
+indent write
+string loc
+node
+node sourc locat getsourceloc
+loc node sourc locat getsourceloc string tostr
+model filter modelfilt loc model filter modelfilt process fileloc processfileloc loc
+write node node null node kind getkind string tostr loc
+node
+iter node children getchildren iter hasnext
+dumptre program element iprogramel indent

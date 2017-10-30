@@ -1,0 +1,21 @@
+org aspectj weaver bcel
+bcel world bcelworld world repositori
+member make join point signatur method makejoinpointsignaturefrommethod lazi method gen lazymethodgen member impl memberimpl kind kind
+member ret member view getmemberview
+ret
+mod access flag getaccessflag
+enclos class getenclosingclass interfac isinterfac
+mod modifi interfac
+kind
+getnam equal init
+kind member constructor
+getnam equal clinit
+kind member static initi static initi
+kind member method
+resolv member impl resolvedmemberimpl kind
+unresolv type unresolvedtyp fornam class getclassnam
+mod
+bcel frombcel return type getreturntyp
+getnam
+bcel frombcel argument type getargumenttyp
+ret

@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math optim
+
+
+
+
+
+
+
+
+interfac univari real optim algorithm
+
+version revis date
+
+
+univari real optim univariaterealoptim converg algorithm convergingalgorithm
+
+
+
+
+
+
+
+
+
+
+
+number evalu object function
+
+number evalu correspond call
+link optim univari real function univariaterealfunct goal type goaltyp optim
+method method call
+
+number evalu object function
+
+evalu getevalu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

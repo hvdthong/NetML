@@ -1,0 +1,20 @@
+org aspectj apach bcel verifi static
+util class hold inform
+type local variabl
+slot index inform
+byte code offset
+version localvariableinfo java aclement exp
+author href http www inf berlin ehaas enver haas
+local variabl info localvariableinfo
+add inform type offset
+throw localvariableinfoinconsistentexcept inform conflict
+gather inform
+add offset string type local variabl info inconsist except localvariableinfoinconsistentexcept
+getnam offset
+getnam offset equal
+local variabl info inconsist except localvariableinfoinconsistentexcept bytecod offset offset local variabl name getnam offset
+type gettyp offset
+type gettyp offset equal
+local variabl info inconsist except localvariableinfoinconsistentexcept bytecod offset offset local variabl type type gettyp offset
+set setnam offset
+set type settyp offset

@@ -1,0 +1,6 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+close
+close
+except ioexcept
+print stack trace printstacktrac

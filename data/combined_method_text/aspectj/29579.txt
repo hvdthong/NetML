@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+author colyer
+repres type variabl declar part type declar paramet declar
+type paramet specif
+genericmethod
+static extend foo staticgenericmethod
+foo extend bar amp igoo
+type variabl typevari pattern node patternnod
+string extend claus getextendsclaus
+upper bound upperbound exact type pattern exacttypepattern
+exact type pattern exacttypepattern bound exact type pattern exacttypepattern upper bound upperbound
+bound type type typex object
+extend upper bound upperbound string tostr

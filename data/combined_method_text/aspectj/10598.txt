@@ -1,0 +1,31 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+todo rid instanceof test
+build view buildview structur view structureview view hierarchi ihierarchi model
+structureviewproperti properti view getviewproperti
+program element iprogramel model root modelroot
+boolean nostructur fals
+file view isfileview view
+file structur view filestructureview file view fileview file structur view filestructureview view
+file view fileview sourc file getsourcefil
+model root modelroot hierarchi ihierarchi structur structur
+nostructur true
+model root modelroot model find element sourc file findelementforsourcefil file view fileview sourc file getsourcefil
+model root modelroot model root getroot
+structur view node istructureviewnod view root viewroot
+file view isfileview view
+structur view properti structureviewproperti hierarchi hierarchi
+global structur view globalstructureview view global view properti getglobalviewproperti hierarchi gethierarchi
+hierarchi equal structur view properti structureviewproperti hierarchi crosscut
+hierarchi equal structur view properti structureviewproperti hierarchi inherit
+view root viewroot build custom tree buildcustomtre global structur view globalstructureview view model
+view root viewroot
+view root viewroot creat view node createviewnod model root modelroot view view properti getviewproperti viewroot createviewnod modelroot view getviewproperti modelroot
+view view properti getviewproperti sort getsort structur view properti structureviewproperti sort alphabet
+file view isfileview view
+global structur view globalstructureview view global view properti getglobalviewproperti hierarchi gethierarchi equal structur view properti structureviewproperti hierarchi declar
+sort view sortview view root viewroot alphabet compar alphabet compar
+sort view sortview view root viewroot declar compar declar compar
+add packag node addpackagenod view view root viewroot
+view set root node setrootnod view root viewroot

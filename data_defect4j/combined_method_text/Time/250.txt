@@ -1,0 +1,17 @@
+design extens extract field
+round millisecond
+date time field datetimefield
+ceil function behav round ceil roundceil
+singl field month year monthofyear minut secondofminut
+defin set method manipul millisecond datetim
+author stephen colebourn
+round nearest unit field millisecond
+round half floor roundhalffloor instant
+author gui allard
+defin calcul engin date time field
+behav round floor roundfloor millisecond closer
+org joda time
+closer floor halfwai function
+author brian neill o'neil
+param instant millisecond t00 01t00 00z round
+millisecond number standard implement provid assist

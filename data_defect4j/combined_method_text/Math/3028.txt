@@ -1,0 +1,10 @@
+hyperplan simpl point orient
+locat
+orient point orientedpoint hyperplan euclidean1 euclidean1d
+vector1 vector1d locat getloc
+hyperplan locat
+instanc guarante immut
+version
+repres orient hyperplan
+org apach common math geometri euclidean on
+hyperplan locat real line

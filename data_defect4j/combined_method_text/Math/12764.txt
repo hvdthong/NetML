@@ -1,0 +1,12 @@
+repres region set polygon
+param max xmax high bound direct
+param min xmin low bound direct
+min ymin max ymax
+box boundari boxboundari min xmin max xmax min ymin max ymax
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+param max ymax high bound direct
+version
+param min ymin low bound direct
+polygon set polygonsset min xmin max xmax
+build parallellepiped box
+org apach common math3 geometri euclidean twod

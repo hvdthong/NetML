@@ -1,0 +1,31 @@
+param column dimens columndimens number column matrix
+method implement link entri getentri access
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept invalid column dimens
+object column dimens columndimens
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+abstract real matrix abstractrealmatrix
+row dimens rowdimens
+creat matrix data
+org apach common math linear
+creat real matrix realmatrix suppli row column dimens
+object row dimens rowdimens
+version
+version revis date
+strictli posit except notstrictlypositiveexcept column dimens columndimens
+abstract real matrix abstractrealmatrix row dimens rowdimens column dimens columndimens
+strictli posit except notstrictlypositiveexcept row column dimens posit
+column dimens columndimens
+illeg argument except illegalargumentexcept row column dimens posit
+invalid column dimens posit
+local format localizedformat insuffici dimens row dimens rowdimens
+param row dimens rowdimens number row matrix
+invalid row dimens posit
+abstract real matrix abstractrealmatrix real matrix realmatrix
+matrix element deriv provid faster implement
+strictli posit except notstrictlypositiveexcept row dimens rowdimens
+local format localizedformat insuffici dimens column dimens columndimens
+abstract real matrix abstractrealmatrix real matrix realmatrix serializ
+basic implement real matrix realmatrix method underli storag
+posit
+illeg argument except illegalargumentexcept
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept invalid row dimens

@@ -1,0 +1,59 @@
+sampl underli distribut
+check neg checknonneg observ
+dimens mismatch except dimensionmismatchexcept expect length observ length
+posit except notpositiveexcept code observ code neg entri
+chi squar test chisquaretest
+rescal
+common length
+ratio sum observ sumobserv sum expect sumexpect
+expect count posit
+sum sumsq
+statist perform chi squar test evalu
+dimens mismatch except dimensionmismatchexcept arrai length
+implement chi squar test statist
+posit except notpositiveexcept strictli posit except notstrictlypositiveexcept
+code expect code arrai ensur sum
+ratio
+sum expect sumexpect
+strong precondit strong
+hypothesi observ count follow expect distribut
+expect length
+sampl test distribut unknown priori
+dimens mismatch except dimensionmismatchexcept expect length
+version
+strictli posit
+observ count
+observ expect arrai length
+org apach common math3 stat infer
+math arrai matharrai check neg checknonneg observ
+param expect arrai expect frequenc count
+posit except notpositiveexcept element code expect code
+dev observ expect
+precondit met
+strictli posit except notstrictlypositiveexcept code expect code entri
+expect observ count equal
+check posit checkposit expect
+sum sumsq dev dev expect
+frequenc count
+math arrai matharrai check posit checkposit expect
+dimens mismatch except dimensionmismatchexcept
+expect length observ length
+observ length
+provid sampl compar sampl
+param observ arrai observ frequenc count
+sum sumsq dev dev ratio expect
+strong note strong implement rescal
+strictli posit except notstrictlypositiveexcept element code observ code
+sum expect sumexpect expect
+code illeg argument except illegalargumentexcept code thrown
+implement handl unknown distribut
+dev observ ratio expect
+chi squar statist compar code observ code code expect code
+chi squar chisquar test statist
+sum observ sumobserv observ
+sum observ sumobserv
+posit
+fast math fastmath ab sum expect sumexpect sum observ sumobserv 10e
+provid sampl hypothesi test
+comput href http www itl nist gov div898 handbook eda section3 eda35f htm
+chi squar chisquar expect observ

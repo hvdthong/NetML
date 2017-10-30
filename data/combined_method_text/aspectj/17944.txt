@@ -1,0 +1,6 @@
+org aspectj tool ant taskdef
+task run ajdoc tool
+author jeff palm
+ajdoc match task matchingtask
+set internalclasspathref setinternalclasspathref refer internalclasspathref
+creat internalclasspath createinternalclasspath set refid setrefid internalclasspathref

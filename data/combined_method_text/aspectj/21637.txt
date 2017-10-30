@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+fuzzi boolean fuzzyboolean match intern matchintern shadow shadow
+resolv type resolvedtyp argument match argumentstomatchagainst argument match getargumentstomatchagainst shadow
+fuzzi boolean fuzzyboolean ret
+argument match argument match argumentstomatchagainst type pattern typepattern dynam
+ret

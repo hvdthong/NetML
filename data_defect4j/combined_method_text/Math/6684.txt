@@ -1,0 +1,19 @@
+pre
+write extern writeextern
+org apach common math od nonstiff
+interpol adam bashforth multipl step
+inherit doc inheritdoc
+theta theta
+step comput interpol equat consist
+write doubl writedoubl truncat end nontruncatedend
+except ioexcept
+overrid
+theta belong interpol polynomi base
+integr step end interpol date
+interpol comput dens output insid
+adam bashforth integr adamsbashforthintegr
+deriv previou step
+integr scheme base kind rollback
+write extern writeextern object output objectoutput
+version revis date
+adam bashforth step interpol adamsbashforthstepinterpol multistep step interpol multistepstepinterpol

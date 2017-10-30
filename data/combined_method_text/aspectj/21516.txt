@@ -1,0 +1,20 @@
+org aspectj weaver pattern
+left
+bind formal explicitli forbidden composit languag
+author erik hilsdal
+author jim hugunin
+type pattern andtypepattern type pattern typepattern
+string string tostr
+string buffer stringbuff buff string buffer stringbuff
+annot pattern annotationpattern annot type pattern annotationtypepattern
+buff append
+buff append annot pattern annotationpattern string tostr
+buff append
+buff append
+buff append left string tostr
+buff append
+buff append string tostr
+buff append
+annot pattern annotationpattern annot type pattern annotationtypepattern
+buff append
+buff string tostr

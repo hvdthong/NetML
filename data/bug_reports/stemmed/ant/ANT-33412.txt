@@ -1,0 +1,66 @@
+jar archiv updat exclud defaultexclud fail
+troubl creat updat archiv defaultexclud
+guess directori structur
+domain somegeneralfil
+domain project build xml
+domain project packag somesourcefil
+domain project packag somesourcefil backup file
+ant build file target creat project archiv
+subsequ updat gener file domain
+step work fine defaultexclud attribut
+backup file somesourcefil includ run step
+updat archiv backup file lost remov
+includ origin fileset impact
+global defaultexclud task ant make work
+question bug work intend design
+defaultexclud task help
+comment line sampl document
+output
+creat jar
+jar build jar myarchiv jar
+jar ad directori meta inf
+jar ad entri meta inf manifest
+jar ad entri build xml
+jar ad directori packag
+jar ad entri packag somesourcefil
+jar ad entri packag somesourcefil
+updat jar
+jar project ad project exist
+jar somegeneralfil ad somegeneralfil exist
+jar updat jar myarchiv jar
+jar ad directori meta inf
+jar ad entri meta inf manifest
+jar ad directori project
+jar ad entri somegeneralfil
+jar ad directori packag
+jar ad entri build xml
+jar ad entri packag somesourcefil
+
+xml version encod utf standalon
+project antbuildtest
+
+target creat jar
+jar destfil myarchiv jar
+fileset dir domain project
+includ
+defaultexclud
+jar
+target
+
+target updat jar
+set reset global defaultexclud make work
+defaultexclud remov
+jar destfil myarchiv jar
+updat true
+defaultexclud
+fileset dir domain
+includ
+defaultexclud
+includ origin fileset impact
+fileset dir domain project
+includ
+defaultexclud
+jar
+defaultexclud default true
+target
+project

@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+arg argument
+author erik hilsdal
+author jim hugunin
+arg pointcut argspointcut bind pointcut namebindingpointcut
+find put suppressajwarn uncheckedargu
+annot piec advic
+pointcut find
+return
+uncheck argument warn suppress isuncheckedargumentwarningsuppress

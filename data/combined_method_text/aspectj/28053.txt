@@ -1,0 +1,7 @@
+org aspectj weaver pattern
+bind type pattern bindingtypepattern exact type pattern exacttypepattern bind pattern bindingpattern
+type pattern typepattern parameter parameterizewith map type variabl map typevariablemap world
+exact type pattern exacttypepattern super parameter superparameter exact type pattern exacttypepattern parameter parameterizewith type variabl map typevariablemap
+bind type pattern bindingtypepattern ret bind type pattern bindingtypepattern super parameter superparameter exact type getexacttyp formal index formalindex var arg isvararg
+ret copi locat copylocationfrom
+ret

@@ -1,0 +1,22 @@
+org aspectj ajd javaopt
+option panel displai charact encod java
+compil option user add ajd getoptionsfram
+java option panel javaotheroptionspanel option panel optionspanel
+creat content createothercont
+panel jpanel panel panel jpanel
+panel set layout setlayout border layout borderlayout
+label jlabel label label jlabel
+label set font setfont java awt font dialog
+label set text settext charact encod default platform encod
+panel add label border layout borderlayout west
+charact encod characterencod text field jtextfield
+charact encod characterencod set font setfont java awt font sansserif
+charact encod characterencod set minimum size setminimums dimens
+charact encod characterencod set prefer size setpreferreds dimens
+panel add charact encod characterencod border layout borderlayout east
+string option string java build option javabuildopt java build option map getjavabuildoptionsmap
+java option javaopt charact encod charact encod
+option
+charact encod characterencod set text settext option
+box otherbox add panel
+panel otherpanel add box otherbox

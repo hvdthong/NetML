@@ -1,0 +1,13 @@
+org aspectj weaver bcel
+util class assist unpack constitu part
+gener signatur attribut return equival
+unresolvedtyp world
+bcel gener signatur type convert bcelgenericsignaturetotypexconvert
+fix circular depend fixupcirculardepend resolv type resolvedtyp type atypex map type variabl resolut typevariableresolut
+type atypex refer type referencetyp
+refer type referencetyp refer type referencetyp type atypex
+type variabl typevari type var typevar type variabl gettypevari
+type var typevar length
+type var typevar upper bound getupperbound ftp holder ftpholder
+signatur formal type paramet formaltypeparamet kei ftp holder ftpholder type var typevar upper bound getupperbound ftp substitut ftptobesubstitut
+type var typevar set upper bound setupperbound unresolv type unresolvedtyp type variabl resolut typevariableresolut kei

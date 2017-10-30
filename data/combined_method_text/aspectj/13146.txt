@@ -1,0 +1,11 @@
+org aspectj apach bcel gener
+checkcast check object type
+pre stack objectref objectref pre
+version checkcast java aclement exp
+author href mailto marku dahm berlin dahm
+checkcast instruct cpinstruct
+object type objecttyp load class type getloadclasstyp constant pool gen constantpoolgen cpg
+type type gettyp cpg
+arrai type arraytyp
+arrai type arraytyp basic type getbasictyp
+object type objecttyp object type objecttyp

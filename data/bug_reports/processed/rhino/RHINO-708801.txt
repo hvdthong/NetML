@@ -1,0 +1,19 @@
+boolean converted number optimising
+user agent mozilla windows wow64 applewebkit khtml gecko chrome safari
+steps reproduce
+function
+
+var
+bar
+
+foo
+print foo bar print
+typeof foo bar boolean
+print boolean
+
+print number
+
+actual results
+rhino called usr bin rhino opt converts number expression copied bar fine
+expected results
+boolean

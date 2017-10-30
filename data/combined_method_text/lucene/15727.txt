@@ -1,0 +1,22 @@
+org apach lucen search
+implement search singl indexread
+applic call inherit
+link search queri int
+link search queri filter int method perform reason
+recommend open indexsearch search
+thread safeti note code link
+indexsearch code instanc complet
+thread safe mean multipl thread call
+method concurr applic requir
+extern synchron
+synchron code indexsearch code instanc
+lucen object
+index searcher indexsearch
+multi searcher callabl sort multisearchercallablenosort lock lock index searcher indexsearch searchabl weight weight
+filter filter doc ndoc hit queue hitqueu doc base docbas
+lock lock
+searchabl searchabl
+weight weight
+filter filter
+doc ndoc doc ndoc
+doc base docbas doc base docbas

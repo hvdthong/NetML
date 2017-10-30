@@ -1,0 +1,19 @@
+org aspectj weaver pattern
+author colyer
+repres type variabl declar part type declar paramet declar
+type paramet specif
+genericmethod
+static extend foo staticgenericmethod
+foo extend bar amp igoo
+type variabl typevari pattern node patternnod
+write data output stream dataoutputstream except ioexcept
+write utf writeutf
+upper bound upperbound write
+interfac bound interfacebound
+write int writeint
+write int writeint interfac bound interfacebound length
+interfac bound interfacebound length
+interfac bound interfacebound write
+write boolean writeboolean lower bound haslowerbound
+lower bound haslowerbound lower bound lowerbound write
+write locat writeloc

@@ -1,0 +1,13 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+match member member
+check name
+equal name equalnam getnam equal getnam
+equal name equalnam
+check signatur
+equal signatur equalsignatur signatur getsignatur equal signatur getsignatur
+equal signatur equalsignatur
+covari sig lcar
+subsig lfastcar fastcar subclass car
+equal covari signatur equalcovariantsignatur paramet signatur getparametersignatur equal paramet signatur getparametersignatur
+equal covari signatur equalcovariantsignatur

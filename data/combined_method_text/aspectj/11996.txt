@@ -1,0 +1,15 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+program element iprogramel find enclos class findenclosingclass stack stack
+stack size
+program element iprogramel program element iprogramel stack
+kind getkind program element iprogramel kind class
+program element iprogramel stack peek

@@ -1,0 +1,59 @@
+patch regression pass composite path reference scripts
+potentially regression introduced beta
+final release caused
+
+revision
+date author peterreilly state exp lines
+addreference remove calling tostring references added
+tostring expensive operation
+massive slowdown conjuction antcall
+
+effect script defines path object including path
+object pass script ant error results
+xml form references definition final
+passed bad breaks encapsulation scripts
+default ant inheritrefs false meaning
+child script references parent
+create reference explicitly passed
+attached log script1 xml calls script2 xml passing path
+consist foo jar bar jar scenario make things
+interesting passed reference purpose
+foo jar component script1 xml script2 xml care
+scenario fresh reference chosen scenario
+script2 xml accepts passed reference
+scenario works fine ant fact ant beta
+ant final release development head error script2 xml
+scenario confuses usages reference path1
+thinks circularity error thinks path component
+undefined script2 xml path1
+note passing verbose show original stack trace
+exception thrown information lost run child
+build separate bug projecthelper attach patch
+head build space src ant dist shown log includes patch
+exception thrown
+back abovementioned project java patch build
+works
+note make things work buggy project scenario
+choose fresh reference passed path add inheritrefs true
+ant script2 xml path1 evaluate path2 path3
+undesirable breaks encapsulation script2 xml
+accept random references script1 xml
+btw encountered bug scripts broken
+master script module javac path ref cp target test
+builds ref source cp src calls child script unit
+tests accept reference path compile tests setup
+worked ant release
+behavior accidental potentially
+covered unit tests intentional imho undesirable breaks
+users intuitive model passing child script inconsistent
+string properties work incompatible change mentioned
+whatsnew
+fix backing peters optimization fine
+pass lazy path object constructed demand
+transparent references looked context project
+defined path project
+btw disturbing thing bug calling tostring
+path mutates modifies behavior guessing
+dieoncircularreference calls setchecked nice
+run ant debugger calls tostring objects call stack
+purposes inspection

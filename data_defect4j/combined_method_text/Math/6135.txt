@@ -1,0 +1,37 @@
+pre
+rel tol reltol compon
+algorithm perform integr stepsiz control
+step reject attempt made
+org apach common math od
+method store intern state variabl made
+param equat differenti equat integr
+param target time integr
+compon user scalar valu ab tol abstol
+state vector dimens step accept
+method solv initi problem ivp
+deriv except derivativeexcept integr except integratorexcept
+current sign stepsiz getcurrentsignedsteps thread safe
+sqrt sum err est errest threshold
+underli user function trigger
+state vector rel tol reltol rel toler
+threshold ab tol abstol rel tol reltol max ab ab
+version revis date
+deriv except derivativeexcept except propag caller
+toler error error threshold comput
+stepsiz integr ordinari differenti equat
+param initi state vector
+version adapt stepsiz integr adaptivestepsizeintegr java 39z luc
+adapt stepsiz integr adaptivestepsizeintegr
+hold common part adapt
+integr order differenti equat firstorderdifferentialequ equat
+integr except integratorexcept integr perform integr
+mean user integr step
+set smaller code code backward integr
+estim error
+param initi time
+integr link
+step end integr object
+stepsiz
+integr differenti equat time
+param placehold put state vector success
+ab tol abstol absolut toler compon

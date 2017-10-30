@@ -1,0 +1,20 @@
+org apach lucen index
+segmentmerg class combin segment repres indexread link add
+singl segment ad reader call merg method combin
+segment
+compoundfil flag set segment merg compound file
+merg
+add
+segment merger segmentmerg
+process post multipl segment posit
+term write merg entri freqoutput
+proxoutput stream
+param smi arrai segment
+param number cell arrai occupi
+return number document segment term found
+throw corruptindexexcept index corrupt
+throw ioexcept low level error
+append post appendpost format post term consum formatpostingstermsconsum term consum termsconsum segment merg info segmentmergeinfo smi
+corrupt index except corruptindexexcept except ioexcept
+doc docmap doc map delet
+doc base convert merg space

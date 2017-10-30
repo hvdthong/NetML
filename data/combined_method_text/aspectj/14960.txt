@@ -1,0 +1,28 @@
+org aspectj apach bcel verifi static
+passverifi verifi class file
+pass java virtual machin
+specif 2nd edit
+detail inform found verifi
+method' document
+version pass2verifi java aclement exp
+author href http www inf berlin ehaas enver haas
+verifi
+pass2 verifi pass2verifi pass verifi passverifi constant
+visit constant fieldref visitconstantfieldref constant fieldref constantfieldref obj
+obj tag gettag constant constant fieldref constant fieldref
+class constraint except classconstraintexcept constantfieldref tostr obj wrong tag
+type index obj type index getnameandtypeindex
+constant type constantnameandtyp cnat constant type constantnameandtyp constant getconst type index
+string constant utf8 constantutf8 constant getconst cnat index getnameindex byte getbyt string constantutf8 getconst cnat getnameindex getbyt field method
+valid field validfieldnam
+class constraint except classconstraintexcept invalid field referenc tostr obj
+class index obj class index getclassindex
+constant class constantclass constant class constantclass constant getconst class index
+string class classnam constant utf8 constantutf8 constant getconst index getnameindex byte getbyt string classnam constantutf8 getconst getnameindex getbyt class intern form
+valid class validclassnam class classnam
+class constraint except classconstraintexcept illeg class class classnam tostr obj
+string sig constant utf8 constantutf8 constant getconst cnat signatur index getsignatureindex byte getbyt string sig constantutf8 getconst cnat getsignatureindex getbyt field method signatur descriptor
+type type gettyp sig type gettyp sig return
+class format error classformaterror cfe
+bcel harsh describ except situat
+class constraint except classconstraintexcept illeg descriptor signatur sig tostr obj

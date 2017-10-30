@@ -1,0 +1,18 @@
+param upper upper endpoint
+endpoint interv
+object lower upper
+solver
+univari real solver impl univariaterealsolverimpl
+link abstract univari real solver abstractunivariaterealsolv
+param lower lower endpoint
+univari real solver impl univariaterealsolverimpl converg algorithm impl convergingalgorithmimpl
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+verifi interv verifyinterv lower upper
+provid implement function gener
+verifi endpoint interv
+version revis date
+lower upper
+deprec remov
+local format localizedformat endpoint interv
+org apach common math analysi solver
+illeg argument except illegalargumentexcept

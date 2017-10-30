@@ -1,0 +1,20 @@
+org aspectj apach bcel util
+java interpret replac wrapper classload
+modifi gener class request templat
+applic
+call wrapper
+pre java org aspectj apach bcel util javawrapp real class argument pre
+class loader set bcel classload system properti
+default org aspectj apach bcel util classload
+pre java org aspectj apach bcel util javawrapp dbcel classload foo myload real class argument pre
+version javawrapp java aclement exp
+author href mailto marku dahm berlin dahm
+classload
+java wrapper javawrapp
+java lang class loader classload class loader getclassload
+string system properti getproperti bcel classload
+equal
+org aspectj apach bcel util classload
+java lang class loader classload class fornam instanc newinst
+except
+runtim except runtimeexcept string tostr

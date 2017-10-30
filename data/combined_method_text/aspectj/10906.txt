@@ -1,0 +1,4 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+string option usag getxoptionusag
+bind xoption usag string bind compil string

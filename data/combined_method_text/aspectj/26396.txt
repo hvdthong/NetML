@@ -1,0 +1,7 @@
+org aspectj weaver ast
+repres string constant instruct
+aspectof exist aspect class pre process aspect
+author href mailto alex gnilux dot alexandr vasseur
+string const expr stringconstexpr expr
+resolv type resolvedtypex type gettyp
+runtim except runtimeexcept support

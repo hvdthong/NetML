@@ -1,0 +1,17 @@
+author stephen colebourn
+pre
+char util charutil ascii printabl isasciiprint
+char util charutil ascii printabl isasciiprint '3'
+oper primit charact object
+char util charutil ascii printabl isasciiprint copi
+handl code code input gracefulli
+char util charutil ascii printabl isasciiprint 'a'
+version
+ascii printabl isasciiprint
+except thrown code code input
+char util charutil
+inclus
+param charact check
+check charact ascii bit printabl
+method document behaviour detail
+org apach common lang

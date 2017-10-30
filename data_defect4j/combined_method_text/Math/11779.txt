@@ -1,0 +1,14 @@
+construct except
+number larg except numberistoolargeexcept number wrong
+version
+org apach common math3 except
+bound allow boundisallow
+number max
+number larg except numberistoolargeexcept math illeg number except mathillegalnumberexcept
+except thrown number larg
+param wrong larger maximum
+param max maximum
+local format localizedformat number larg bound exclud
+wrong max bound allow boundisallow
+local format localizedformat number larg
+param bound allow boundisallow maximum includ allow rang

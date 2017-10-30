@@ -1,0 +1,22 @@
+org aspectj util
+file util fileutil
+line base search liter text sourc file
+return file line found
+param sought string text seek file
+param sourc list string path sourc file
+param listal fals list match file
+param errorsink printstream print error line
+null silent ignor error
+return list string form file line found entri
+null empti
+list line seek lineseek string sought list sourc list listal
+print stream printstream error sink errorsink
+lang util langutil empti isempti sought lang util langutil empti isempti sourc
+collect empti list empti list
+arrai list arraylist result arrai list arraylist
+iter iter sourc iter iter hasnext
+string path string iter
+string error line seek lineseek sought path list listal result
+error error sink errorsink
+error sink errorsink println error
+result

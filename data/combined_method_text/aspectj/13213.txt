@@ -1,0 +1,7 @@
+org aspectj apach bcel gener
+implement interfac interest classgen object
+regist addobserv
+version classobserv java aclement exp
+author href mailto marku dahm berlin dahm
+class observ classobserv
+notifi class gen classgen clazz

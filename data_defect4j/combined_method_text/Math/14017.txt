@@ -1,0 +1,36 @@
+pre
+vector element wise perform oper ad scalar
+real vector realvector subtract real vector realvector
+param vector subtract
+version creat vector hold result chang instanc
+result
+vector element index base code entri getentri
+style
+code code map code map maptoself method oper
+code map maptoself version instanc store
+index index getindex
+return element vector
+code vector
+real vector realvector result map add mapaddtoself map maptoself tan map maptoself power
+version
+return vector chang instanc data
+result set entri setentri index getvalu result entri getentri index
+real vector realvector result map multipli mapmultipli
+real vector realvector subtract real vector realvector dimens mismatch except dimensionmismatchexcept
+appli function element turn code map
+hasnext
+iter entri iter
+real vector realvector
+iter entri spars iter sparseiter
+result instanc chang method case result
+code size vector
+subtract code vector
+org apach common math3 linear
+entri
+org apach common math3 except dimens mismatch except dimensionmismatchexcept
+vector return method allow fluent api
+dimens mismatch except dimensionmismatchexcept code size
+real vector realvector result copi
+code code
+class defin real valu vector basic algebra oper
+check vector dimens checkvectordimens

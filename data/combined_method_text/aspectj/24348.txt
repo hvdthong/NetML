@@ -1,0 +1,18 @@
+org aspectj weaver
+author websterm
+chang templat gener type comment
+window prefer java code gener code comment
+dump
+string dump exit dumponexit messag holder imessagehold messag holder messagehold reset
+trace trace enabl istraceen trace enter dumponexit messag holder messagehold
+string file filenam unknown filenam unknown filenam
+dump exit shoulddumponexit messag holder messagehold
+file filenam dump exclud dump exclud
+dump dump
+dump dump condit kind conditionkind string tostr
+file filenam dump file getfilenam
+dump dump default dumpdefault messag holder messagehold
+dump dump close
+reset messag holder messagehold clear messag clearmessag
+trace trace enabl istraceen trace exit dumponexit file filenam
+file filenam

@@ -1,0 +1,74 @@
+set
+annotatedel
+ifac ifac ifac ifac ifac ifac ifac ifac ifac ifac
+getsignatur getsignatur
+unresolvedtyp
+newparenttypemung newparenttypemung
+skip skip skip skip
+arrai arrai
+back
+equal equal equal
+getdeclaredinterfac getdeclaredinterfac
+superclass
+annot
+addandrecurs addandrecurs addandrecurs addandrecurs
+null null
+miss miss miss miss miss miss miss miss miss
+rtx rtx rtx rtx rtx rtx rtx rtx rtx rtx
+dont
+knowninterfac knowninterfac knowninterfac knowninterfac knowninterfac knowninterfac knowninterfac
+getmung getmung getmung getmung
+ismiss ismiss
+unresolv
+missingresolvedtypewithknownsignatur missingresolvedtypewithknownsignatur
+collector collector collector collector collector collector collector
+top
+munger munger munger munger munger munger munger munger munger munger munger munger munger munger munger munger munger munger munger munger
+find
+member member
+pr171953
+add add add add add add add add
+concret concret concret concret
+interfac interfac interfac interfac interfac interfac interfac interfac interfac
+includ includ includ includ
+getdeclaredmethod getdeclaredmethod
+size
+type type type type type type type type type type type type type type type type type type type type type type type type type type
+method method method
+aslist aslist
+addal addal
+signatur signatur signatur signatur signatur
+itd
+parent parent parent parent parent
+includeitd includeitd includeitd includeitd includeitd
+object
+resolvedtyp resolvedtyp resolvedtyp resolvedtyp resolvedtyp resolvedtyp resolvedtyp
+kind kind
+getkind
+intertypemung intertypemung intertypemung intertypemung
+rais
+getnewpar getnewpar
+org
+resolvedtypemung
+recurs recurs recurs recurs
+aspectj
+warn
+super super super super
+hasnext
+whilst
+shouldskip shouldskip shouldskip shouldskip
+resolvedmemb
+list list
+resolv resolv resolv resolv resolv resolv resolv resolv resolv resolv
+iter iter
+element
+precis
+length
+declar declar declar
+supertyp supertyp supertyp supertyp supertyp
+allowmiss allowmiss allowmiss allowmiss allowmiss
+getsuperclass
+weaver
+inter inter inter inter inter
+concretetypemung concretetypemung concretetypemung concretetypemung
+raisewarningonmissinginterfacewhilstfindingmethod

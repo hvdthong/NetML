@@ -1,0 +1,15 @@
+author stephen colebourn
+chronolog getchronolog milli millisofsecond milli getmilli
+extend
+implement code readabl date time readabledatetim code
+link readabl date time readabledatetim
+abstract date time abstractdatetim
+milli field
+abstract date time abstractdatetim common behaviour datetim class
+abstract date time abstractdatetim subclass mutabl thread safe
+kind date time object referenc
+org joda time base
+milli
+author brian neill o'neil
+gener directli api user
+milli getmillisofsecond

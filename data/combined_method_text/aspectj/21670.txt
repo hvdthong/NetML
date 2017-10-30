@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+bind annot type pattern bindingannotationtypepattern exact annot type pattern exactannotationtypepattern bind pattern bindingpattern
+equal object obj
+obj bind annot type pattern bindingannotationtypepattern
+bind annot type pattern bindingannotationtypepattern btp bind annot type pattern bindingannotationtypepattern obj
+equal btp btp formal index formalindex formal index formalindex

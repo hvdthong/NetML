@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+pattern parser patternpars
+declar annot declareannot pars declar method parsedeclareatmethod method ismethod
+signatur pattern signaturepattern pars method constructor signatur pattern parsemethodorconstructorsignaturepattern
+constructor pattern isconstructorpattern kind getkind member constructor
+method ismethod constructor pattern isconstructorpattern
+parser except parserexcept method signatur pattern token sourc tokensourc peek
+method ismethod constructor pattern isconstructorpattern
+parser except parserexcept constructor signatur pattern token sourc tokensourc peek
+constructor pattern isconstructorpattern declar annot declareannot declar annot declareannot constructor constructor
+declar annot declareannot declar annot declareannot method method

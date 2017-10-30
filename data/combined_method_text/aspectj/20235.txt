@@ -1,0 +1,69 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read afterreturn
+param runtimeannot
+param struct
+return true found
+handl return annot handleafterreturningannot
+runtim annot runtimeannot runtim annot runtimeannot
+attribut method struct ajattributemethodstruct struct
+resolv pointcut definit resolvedpointcutdefinit pre resolv pointcut preresolvedpointcut
+bcel method bcelmethod own method owningmethod
+return formal declar advic signatur except returningformalnotdeclaredinadvicesignatureexcept
+annot annot getannot runtim annot runtimeannot ajc member maker ajcmembermak afterreturn annot afterreturn annot
+element pair elementnamevaluepair ann annvalu annot element getannotationel
+element pair elementnamevaluepair ann pointcut annpointcut annot element getannotationel pointcut
+element pair elementnamevaluepair ann return annreturn annot element getannotationel return
+extract pointcut return type bind check
+string pointcut
+string return
+ann annvalu ann pointcut annpointcut ann annvalu ann pointcut annpointcut
+report error reporterror afterreturn 'value' 'poincut' provid struct
+ann annvalu
+pointcut ann annvalu getvalu stringifi stringifyvalu
+pointcut ann pointcut annpointcut getvalu stringifi stringifyvalu
+null empti isnullorempti pointcut
+report error reporterror afterreturn 'value' 'poincut' provid struct
+ann return annreturn
+return ann return annreturn getvalu stringifi stringifyvalu
+null empti isnullorempti return
+return
+check thrownform exist paramet advic
+string name pname own method owningmethod paramet name getparameternam
+name pname name pname length arrai list aslist name pname return
+return formal declar advic signatur except returningformalnotdeclaredinadvicesignatureexcept return
+string argument name argumentnam arg name getargnamesvalu
+argument name argumentnam
+struct unpars argument name unparsedargumentnam argument name argumentnam
+target arg bind
+exclud return bind pointcut bind extraarg bind
+formal bind formalbind bind org aspectj weaver pattern formal bind formalbind
+bind return extract bind extractbind struct extract bind extractbind struct return
+unread debug info except unreadabledebuginfoexcept unread debug info except unreadabledebuginfoexcept
+scope iscop bind bind scope bindingscop
+struct enclos type enclosingtyp
+struct context
+bind
+joinpoint staticjoinpoint bind
+extra argument extraargu extract extra argument extractextraargu struct method
+return bind
+return
+extra argument extraargu advic extra argument extraargu
+pointcut
+pre resolv pointcut preresolvedpointcut
+pre resolv pointcut preresolvedpointcut pointcut getpointcut
+pars pointcut parsepointcut pointcut struct
+null return fals pars error
+resolv bind
+set ignor unbound bind name setignoreunboundbindingnam bind
+sourc locat isourceloc struct context make sourc locat makesourceloc struct method bmethod declar line number getdeclarationlinenumb struct method bmethod declar offset getdeclarationoffset
+struct attribut ajattribut add
+attribut ajattribut advic attribut adviceattribut
+advic kind advicekind return afterreturn
+extra argument extraargu
+offset getoffset
+offset getoffset getoffset fixm avasm
+struct context

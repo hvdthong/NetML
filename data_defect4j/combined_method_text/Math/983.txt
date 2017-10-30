@@ -1,0 +1,15 @@
+param upper upper endpoint
+param func type function solv
+version
+solver
+upper
+param lower lower endpoint
+point
+check function take opposit sign endpoint
+provid implement function gener
+bracket isbracket lower
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct
+univari real solver util univariaterealsolverutil bracket isbracket function lower upper
+org apach common math analysi solver
+version revis date wed nov
+code function valu opposit sign

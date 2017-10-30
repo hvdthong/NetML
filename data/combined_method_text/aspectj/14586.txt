@@ -1,0 +1,24 @@
+org aspectj apach bcel gener annot
+element gen elementvaluegen
+creat modifi elementvaluegen copi immut elementvalu constant pool assum correct
+element gen elementvaluegen copi element elementvalu constant pool gen constantpoolgen cpool copi pool entri copypoolentri
+element type getelementvaluetyp
+case 'b' byte
+case 'c' char
+case 'd' doubl
+case 'f' float
+case 'i' int
+case 'j' long
+case 's' short
+case 'z' boolean
+case 's' string
+simpl element gen simpleelementvaluegen simpl element simpleelementvalu cpool copi pool entri copypoolentri
+case 'e' enum constant
+enum element gen enumelementvaluegen enum element enumelementvalu cpool copi pool entri copypoolentri
+case annot
+annot element gen annotationelementvaluegen annot element annotationelementvalu cpool copi pool entri copypoolentri
+case arrai
+arrai element gen arrayelementvaluegen arrai element arrayelementvalu cpool copi pool entri copypoolentri
+case 'c' class
+class element gen classelementvaluegen class element classelementvalu cpool copi pool entri copypoolentri
+runtim except runtimeexcept implement element type getelementvaluetyp

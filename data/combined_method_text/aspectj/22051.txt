@@ -1,0 +1,13 @@
+org aspectj weaver pattern
+pointcut ifpointcut pointcut
+pointcut concretize1
+resolv type resolvedtyp aspect inaspect
+resolv type resolvedtyp declar type declaringtyp
+int map intmap bind
+declar isdeclar bind enclos advic getenclosingadvic
+enforc rule design support declar
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag declar declar
+bind enclos advic getenclosingadvic sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+make fals pointcut makeiffalsepointcut state

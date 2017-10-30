@@ -1,0 +1,52 @@
+<zipfileset src="some.zip"/> copies the wrong file permission
+Ant apparently uses the "external file attributes" field of the zip file entry
+(more specifically it's top 16 bits) for file permission. I couldn't confirm
+this in the PKZIP specification at http://www.info-zip.org/pub/infozip/doc/, but
+from what I can see from various other unzip implementations (most notably
+solaris /bin/unzip), this seems to be a standard practice.
+
+However, apparently not all zip program creates zip files by using these
+attributes. I couldn't confirm which program created this one zip file, but I
+got one where external file attributes is set to 0. The platform bit is also set
+to 0, which indicates that the file permission is not stored in the zip file.
+
+When I use such a zip file as a source of the <zipfileset> to re-zip it into
+another zip file, such as:
+
+<zip destfile="foo.zip">
+  <zipfileset src="bar.zip"/>
+</zip>
+
+in an attempt to copy all entries, Ant internally call into
+ZipResource.setEntry(), which does the following:
+
+    private void setEntry(ZipEntry e) {
+        if (e == null) {
+            setExists(false);
+            return;
+        }
+        setName(e.getName());
+        setExists(true);
+        setLastModified(e.getTime());
+        setDirectory(e.isDirectory());
+        setSize(e.getSize());
+        setMode(e.getUnixMode());
+    }
+
+The problematic bit is the last "setMode(e.getUnixMode())". As I wrote above, my
+zip file declares the platform=0, so the unix mode is really not set at all, and
+the getUnixMode returns 0. But Ant calls the setMode() method anyway, assuming
+that this 0 value is the explicitly set value, which causes:
+
+    public void setMode(int mode) {
+        checkAttributesAllowed();
+        this.mode = mode;
+        modeSet = true;
+    }
+
+This eventually causes entries in the created foo.zip to have 000 permission.
+
+I believe the code needs to be changed to:
+
+    if(e.getPlatform()==3) // if platform is UNIX
+        setMode(e.getUnixMode());

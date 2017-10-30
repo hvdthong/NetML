@@ -1,0 +1,49 @@
+org aspectj weaver bcel
+advic implement bcel
+author erik hilsdal
+author jim hugunin
+bcel advic bceladvic advic
+instruct list simpl version advic
+broken
+advic block method call
+param shadow instruct eventu live
+param extraargvar var hold return thrown except
+afterx advic
+param ifnoadvic instructionhandl jump dynam
+test munger fail
+instruct list instructionlist advic instruct getadviceinstruct
+bcel shadow bcelshadow
+bcel var bcelvar extra arg var extraargvar
+instruct handl instructionhandl advic ifnoadvic
+bcel shadow bcelshadow shadow bcel shadow bcelshadow
+instruct factori instructionfactori fact shadow factori getfactori
+bcel world bcelworld world shadow world getworld
+instruct list instructionlist instruct list instructionlist
+test kind thing
+throw except mechan
+extra paramet hasextraparamet kind getkind advic kind advicekind return afterreturn
+unresolv type unresolvedtyp extra paramet type extraparametertyp extra paramet type getextraparametertyp
+extra paramet type extraparametertyp equal unresolv type unresolvedtyp object
+extra paramet type extraparametertyp primit type isprimitivetyp
+append
+bcel render bcelrender render test rendertest
+fact
+world
+test make instanceof makeinstanceof
+extra arg var extraargvar extra paramet type getextraparametertyp resolv world
+advic ifnoadvic
+append advic arg setup getadviceargsetup shadow extra arg var extraargvar
+append test advic instruct getnontestadviceinstruct shadow
+instruct handl instructionhandl advic ifyesadvic start getstart
+insert test instruct gettestinstruct shadow advic ifyesadvic advic ifnoadvic advic ifyesadvic
+insert instruct start method nice line number entri
+stack trace
+shadow kind getkind shadow method execut methodexecut kind getkind advic kind advicekind
+line number linenumb
+uncom code method decl line number exist
+advis join point class built aspectj declar line number
+boolean shadow getenclosingmethod getmemberview hasdeclarationlinenumberinfo
+linenumb shadow getenclosingmethod getmemberview getdeclarationlinenumb
+line number instruct method
+line number linenumb shadow enclos method getenclosingmethod member view getmemberview line number instruct getlinenumberoffirstinstruct
+line number linenumb start getstart add target addtarget line number tag linenumbertag line number linenumb

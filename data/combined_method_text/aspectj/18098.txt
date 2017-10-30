@@ -1,0 +1,9 @@
+org aspectj util
+file util fileutil
+recurs list file srcdir
+return arraylist string path file srcdir rel srcdir
+file list file listfil file src dir srcdir file filter filefilt file filter filefilt
+arrai list arraylist result arrai list arraylist
+src dir srcdir src dir srcdir read canread
+list file listfil src dir srcdir result file filter filefilt
+file result arrai toarrai file result size

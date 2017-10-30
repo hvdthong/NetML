@@ -1,0 +1,5 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+set target aspectj runtim level settargetaspectjruntimelevel string
+target aspectj runtim level targetaspectjruntimelevel

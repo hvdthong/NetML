@@ -1,0 +1,34 @@
+org aspectj ajd intern
+author mik kersten
+lst build config manag lstbuildconfigmanag build config manag buildconfigmanag
+build config model buildconfigmodel build model buildmodel string config file path configfilepath
+file config file configfil file config file path configfilepath
+string root path rootpath config file configfil parent getpar
+string config file configfilenam config file configfil getnam
+build config model buildconfigmodel model build config model buildconfigmodel config file path configfilepath
+list config file configfil arrai list arraylist
+list import file importedfil arrai list arraylist
+list bad entri badentri
+lst build config file parser lstbuildconfigfilepars config parser configpars lst build config file parser lstbuildconfigfilepars config file path configfilepath
+config parser configpars pars config file parseconfigfil file config file path configfilepath
+config file configfil config parser configpars file getfil
+import file importedfil config parser configpars import file getimportedfil
+bad entri badentri config parser configpars problem entri getproblementri
+config parser configpars pars except parseexcept
+string filepath unknown
+getfil null filepath getfil getabsolutepath
+messag imessag messag messag
+messag getmessag
+messag imessag error
+sourc locat sourceloc file getfil line getlin
+ajd default getdefault messag handler getmessagehandl handl messag handlemessag messag
+list rel path relativepath relativ file path relativizefilepath config file configfil root path rootpath
+build config node buildconfignod root build config node buildconfignod config file configfilenam build config node buildconfignod kind file lst file lst root path rootpath
+build dir tree builddirtre root root path rootpath import file importedfil config file configfilenam
+model set root setroot root
+add file dir tree addfilestodirtre model rel path relativepath bad entri badentri
+prune empti dir pruneemptydir root
+sort model sortmodel build config node buildconfignod model root getroot alphabet compar alphabet compar
+addimportedfilestodirtre model importedfil
+add problem entri addproblementri root bad entri badentri
+model

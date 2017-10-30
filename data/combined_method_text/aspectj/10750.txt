@@ -1,0 +1,22 @@
+org aspectj ajd swing
+creat popup menu displai lst file
+select run full build file select lst file
+separ thread
+build config popup menu buildconfigpopupmenu popup menu jpopupmenu
+build config popup menu buildconfigpopupmenu abstract action abstractact action
+list config file configfil ajd default getdefault build config manag getbuildconfigmanag build config file getallbuildconfigfil
+iter config file configfil iter hasnext
+string build config buildconfig string
+menu item jmenuitem build item builditem menu item jmenuitem build config buildconfig
+build item builditem set font setfont ajd widget style ajdewidgetstyl default label font default label font
+build item builditem add action listen addactionlisten
+action listen actionlisten
+action perform actionperform action event actionev
+ajd default getdefault build config manag getbuildconfigmanag set activ config file setactiveconfigfil build config buildconfig
+separ thread requir buildprogresssmonitor
+monitor build thread
+build swing thread issu
+ajd default getdefault run build thread runbuildindifferentthread build config buildconfig
+action action perform actionperform
+build item builditem set icon seticon icon ajd default getdefault icon registri geticonregistri icon geticon program element iprogramel kind file lst file lst icon resourc geticonresourc
+add build item builditem

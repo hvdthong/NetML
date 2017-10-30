@@ -1,0 +1,21 @@
+rel accuraci solver contract rel
+configur solver code return root
+rel accuraci
+differenti univari real solver differentiableunivariaterealsolv
+interfac univari real rootfind algorithm
+rel absolut error rho rel accuraci
+implement search interv
+rel accuraci getrelativeaccuraci
+polynomi solver polynomialsolv
+version
+link univari real solver univariaterealsolv link polynomi solver polynomialsolv link
+function exist interv
+version revis date
+intend apach common math
+accuraci link absolut accuraci getabsoluteaccuraci
+code rho code code rho code
+base univari real solver baseunivariaterealsolv func univari real function univariaterealfunct
+param func type function solv
+librari regular user reli specif interfac
+univari real solver univariaterealsolv
+org apach common math analysi solver

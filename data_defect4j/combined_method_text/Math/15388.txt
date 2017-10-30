@@ -1,0 +1,54 @@
+overrid
+cost doubl posit infin
+inherit doc inheritdoc
+org apach common math3 optim gener
+deprec
+link org apach common math3 optim initi guess initialguess initi guess initialguess
+number column equal dimens
+jacobian evalu jacobianevalu
+optim intern optimizeintern max eval maxev target weight start point startpoint
+handl boilerpl method threshold set
+link base abstract multivari vector optim baseabstractmultivariatevectoroptim optim multivari vector function multivariatevectorfunct optim data optimizationdata
+target weight
+jacobian error estim
+link optim differenti multivari vector function differentiablemultivariatevectorfunct
+optim intern optimizeintern max eval maxev
+function util functionutil multivari differenti vector function tomultivariatedifferentiablevectorfunct
+optim max eval maxev target weight start point startpoint
+weight weight
+link optim multivari differenti vector function multivariatedifferentiablevectorfunct
+point vector pair pointvectorvaluepair optim max eval maxev
+version
+construct jacobian matrix function argument method
+jacobian
+function argument method
+optim assum matrix return
+deprec replac link optim
+row equal dimens
+weight residu jacobian weightedresidualjacobian row col
+link multivari matrix function multivariatematrixfunct method row
+store squar problem characterist
+target target
+abstract squar optim abstractleastsquaresoptim
+link jacobian function jacobianfunct method row
+number column equal length code start point startpoint arrai
+arrai share method
+reset counter
+initi guess initialguess start point startpoint
+row target length
+link org apach common math3 optim target target
+multivari differenti vector function multivariatedifferentiablevectorfunct
+link jacobian function jacobianfunct jacobian function argument method
+deprec remov
+iter model function column iter paramet
+point start point startpoint clone
+differenti multivari vector function differentiablemultivariatevectorfunct
+link differenti multivari vector function differentiablemultivariatevectorfunct jacobian
+optim multivari differenti vector function multivariatedifferentiablevectorfunct optim data optimizationdata
+number row equal length code target arrai
+optim assum row matrix iter model
+start point startpoint
+base implement squar optim
+function column iter paramet number
+col point length
+weight residu weightedresidu row

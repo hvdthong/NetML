@@ -1,0 +1,28 @@
+pre
+org apach common math3 fit
+boundary2
+isbetween
+boundary2 boundary1
+determin valu
+code boundary2 inclus code
+ob add
+optim valu return order
+org apach common math3 analysi function gaussian parametr gaussian
+fit point link
+code boundary2
+boundary1
+weight observ point weightedobservedpoint ob weight observ point weightedobservedpoint
+version
+param test code boundary1
+function
+normal
+usag
+code code code boundary1
+param boundary1 end rang
+boundary1 boundary2
+link start point withstartpoint initi guess valu pass
+gaussian curv fitter gaussiancurvefitt abstract curv fitter abstractcurvefitt levenberg marquardt optim levenbergmarquardtoptim
+paramet gaussian curv fitter gaussiancurvefitt creat fit ob
+param boundary2 end rang
+sigma
+order

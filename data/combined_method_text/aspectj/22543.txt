@@ -1,0 +1,19 @@
+org aspectj weaver pattern
+singleton persingleton claus perclaus
+claus perclaus concret resolv type resolvedtyp aspect inaspect
+singleton persingleton ret singleton persingleton
+ret copi locat copylocationfrom
+ret aspect inaspect aspect inaspect
+ataj add munger add aspectof aspect
+aspect inaspect annot style aspect isannotationstyleaspect aspect inaspect abstract isabstract
+todo chang add serializ aspect
+dig serializ cloneabl xserializableaspect
+kind getkind singleton getkind singleton pr149560
+aspect inaspect crosscut member crosscuttingmemb add type munger addtypemung
+aspect inaspect world getworld make claus aspect makeperclauseaspect aspect inaspect kind getkind
+aspect inaspect crosscut member crosscuttingmemb add late type munger addlatetypemung
+aspect inaspect world getworld make claus aspect makeperclauseaspect aspect inaspect kind getkind
+ataj inlin advic support
+aspect inaspect annot style aspect isannotationstyleaspect aspect inaspect world getworld xno inlin isxnoinlin
+aspect inaspect crosscut member crosscuttingmemb add type munger addtypemung bcel access inlin munger bcelaccessforinlinemung aspect inaspect
+ret

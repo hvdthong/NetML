@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil lookup
+declar soft
+compil time match case
+target pcd behav correctli
+case
+eclips shadow eclipseshadow shadow
+unresolv type unresolvedtyp enclos type getenclosingtyp
+context type declar typedeclar
+world bind frombind type declar typedeclar context bind
+context abstract method declar abstractmethoddeclar
+world bind frombind abstract method declar abstractmethoddeclar context bind declar class declaringclass
+resolv type resolvedtyp miss

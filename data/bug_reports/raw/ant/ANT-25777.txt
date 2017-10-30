@@ -1,0 +1,70 @@
+[PATCH] [REGRESSION] Cannot pass composite path reference between scripts
+A potentially serious regression seems to have been introduced between 1.6 beta
+3 and the final release, I believe caused by
+
+----------------------------
+revision 1.155
+date: 2003/12/11 12:11:36;  author: peterreilly;  state: Exp;  lines: +2 -12
+In addReference, remove calling tostring on the references being added.
+The tostring can be a very expensive operation, and causes
+massive slowdown when used in conjuction with antcall.
+----------------------------
+
+The effect is that if one script defines a path object including another path
+object, it cannot pass it to another script with <ant>; an error results. It is
+as if the XML form of the reference's definition, rather than its final value,
+is being passed. This is very bad because it breaks encapsulation of the scripts
+- and anyway the default for <ant> is inheritrefs="false", meaning that the
+child script is not getting all the references the parent might have used to
+create the reference it explicitly passed.
+
+See the attached log. Here script1.xml calls script2.xml, passing it a path
+which should consist of foo.jar:bar.jar. In scenario A, to make things
+interesting, the passed reference name is actually used for another purpose (the
+foo.jar component) in script1.xml, but script2.xml should not know or care about
+this. In scenario B, a fresh reference name is chosen. In either scenario,
+script2.xml accepts the passed-in reference and tries to use it.
+
+Either scenario works fine in Ant 1.5.3, and in fact in Ant 1.6 beta 3. In the
+Ant 1.6 final release, or the development HEAD, you get an error in script2.xml:
+in scenario A, it confuses the two usages of the reference name "path1" and
+thinks there is a circularity error; in B, it just thinks that a path component
+is undefined (because script2.xml cannot see "path1").
+
+(Note that passing -verbose does not show you the original stack trace of the
+exception that was thrown; this information is lost when you run the child
+build. This is a separate bug in ProjectHelper for which I will attach a patch.
+The HEAD build in /space/src/ant/dist shown in the log includes this patch so
+you can see where the exception is being thrown from.)
+
+When I back out the abovementioned Project.java patch and try again, the build
+works as it did before.
+
+Note that you can make things work with the buggy Project if you use scenario B
+(choose a fresh reference name for the passed path) and add inheritrefs="true"
+to <ant>, so that script2.xml can see path1 and evaluate path2 ~ path3 using it.
+As I say, this is undesirable because it breaks encapsulation: script2.xml has
+to accept random references from script1.xml.
+
+BTW I encountered this bug because my own scripts were broken by it; I have a
+master script for a module with a javac path with ref 'cp', and a target 'test'
+builds a ref 'source.cp' ~ ${cp}:src and then calls a child script with unit
+tests, which accept a reference to path to compile tests against. This setup
+worked until the Ant 1.6 release.
+
+If the new behavior is accidental, it is potentially serious and should be
+covered by unit tests. If it is intentional, it is IMHO undesirable (breaks
+user's intuitive model of passing a value to a child script, inconsistent with
+how string properties work), and also an incompatible change not mentioned in
+WHATSNEW.
+
+Not sure how to fix except by backing out Peter's optimization. It would be fine
+to pass a lazy Path object, constructed on demand, *if* this were really
+transparent, so that references were looked up in the context of the project
+which defined the path, rather than the project which is using it.
+
+BTW a disturbing thing about this bug is that it seems that calling toString()
+on Path mutates it and modifies its behavior (I am guessing because
+dieOnCircularReference calls setChecked). Not very nice for someone trying to
+run Ant in a debugger which calls toString() on objects in the call stack for
+purposes of inspection.

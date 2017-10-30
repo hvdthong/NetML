@@ -1,0 +1,26 @@
+interv fix millisecond durat
+author stephen colebourn
+interv
+repres differ start end point term field
+string format link iso date time format isodatetimeformat date time parser datetimepars
+author brian neill o'neil
+interv convert link readabl period readableperiod
+author sean geoghegan
+interv inclus start instant exclus end
+result interv compar
+link iso period format isoperiodformat standard 'datetim datetime'
+'datetim period' 'period datetime'
+durat repres separ link readabl durat readabledur
+interv thread safe immut
+compar length interv compar durat
+interv pars string str
+author julen parra
+pars code interv string
+time interv repres period time instant
+interv str
+year dai
+param str string pars
+differ start end instant
+end instant greater equal start instant
+org joda time
+interv standard implement immut time interv

@@ -1,0 +1,8 @@
+org apach common math filter
+real matrix realmatrix state transit matrix getstatetransitionmatrix
+inherit doc inheritdoc
+default implement link process model processmodel
+default process model defaultprocessmodel process model processmodel
+version
+state transit matrix statetransitionmatrix
+link kalman filter kalmanfilt

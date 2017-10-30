@@ -1,0 +1,7 @@
+org apach lucen index
+freq prox term writer field freqproxtermswriterperfield term hash consum field termshashconsumerperfield compar freq prox term writer field freqproxtermswriterperfield
+overrid
+parallel post arrai parallelpostingsarrai resiz size newsiz
+freq prox post arrai freqproxpostingsarrai arrai newarrai freq prox post arrai freqproxpostingsarrai size newsiz
+copi arrai newarrai
+arrai newarrai

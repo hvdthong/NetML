@@ -1,0 +1,24 @@
+org aspectj ajdt intern compil ast
+valid aspect annot visitor validateataspectjannotationsvisitor ast visitor astvisitor
+check type declar checktypedeclar type declar typedeclar type decl typedecl
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext valid aspectj annot valid aspectj annot type decl typedecl
+type decl typedecl aspect declar aspectdeclar
+annot ajannot aspect annot hasaspectannot
+valid aspect declar validateaspectdeclar type decl typedecl
+check class extend aspect
+type refer typerefer parent ref parentref type decl typedecl superclass
+parent ref parentref
+type bind typebind parent bind parentbind parent ref parentref resolv type resolvedtyp
+parent bind parentbind sourc type bind sourcetypebind
+sourc type bind sourcetypebind parent stb parentstb sourc type bind sourcetypebind parent bind parentbind
+parent stb parentstb scope
+type declar typedeclar parent decl parentdecl parent stb parentstb scope refer context referencecontext
+aspect isaspect parent decl parentdecl
+type decl typedecl scope problem report problemreport signal error signalerror type decl typedecl sourc start sourcestart type decl typedecl sourc end sourceend class extend aspect
+check aspect aspect annot ad
+annot ajannot multipl aspect annot hasmultipleaspectannot
+type decl typedecl scope problem report problemreport signal error signalerror
+type decl typedecl sourc start sourcestart
+type decl typedecl sourc end sourceend
+aspect aspect annot
+compil weav context compilationandweavingcontext leav phase leavingphas tok

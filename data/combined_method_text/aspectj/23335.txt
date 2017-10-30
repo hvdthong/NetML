@@ -1,0 +1,21 @@
+org aspectj weaver tool
+pointcutpars build pointcutexpress
+user defin subset aspectj' pointcut languag
+pointcut parser pointcutpars
+string build user messag parser except buildusermessagefromparserexcept string parser except parserexcept
+string buffer stringbuff msg string buffer stringbuff
+msg append pointcut form expect
+msg append messag getmessag
+msg append
+posit ihasposit locat locat getloc
+msg append charact posit
+msg append locat start getstart
+msg append
+msg append
+msg append
+locat start getstart
+msg append
+locat start getstart locat end getend
+msg append
+msg append
+msg string tostr

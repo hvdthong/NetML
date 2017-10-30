@@ -1,0 +1,9 @@
+org aspectj weaver pattern
+pattern namepattern pattern node patternnod
+equal object
+pattern namepattern
+pattern namepattern pat otherpat pattern namepattern
+pat otherpat star count starcount star count starcount
+pat otherpat pattern length pattern length
+pattern length
+pattern pat otherpat pattern

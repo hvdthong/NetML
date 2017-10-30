@@ -1,0 +1,103 @@
+org aspectj apach bcel util
+convert found attribut html file
+version attributehtml java aclement exp
+author href mailto marku dahm berlin dahm
+attribut html attributehtml org aspectj apach bcel constant
+write attribut writeattribut attribut attribut string anchor method number except ioexcept
+tag attribut tag gettag
+index
+tag attr unknown attr unknown tag attr unknown
+attr count attr count increment number attribut found
+attr count
+file print bgcolor c0c0c0
+file print bgcolor a0a0a0
+file println anchor attr count attribut name attribut name tag
+handl attribut
+tag
+attr code attr code
+code code attribut
+directli printabl valu
+file print maximum stack size max stack getmaxstack
+number local variabl
+max local getmaxloc href class
+code html method method number target code byte code
+handl except list
+code except codeexcept except tabl getexceptiont
+len length
+len
+file print except handl
+len
+catch type catch type getcatchtyp int catch type getcatchtyp index constant pool
+file print
+catch type
+file print constant html refer constant referenceconst catch type file print constant html referenceconst catch type creat link html
+file print except
+file print rang line code link codelink start getstartpc method number
+code link codelink end getendpc method number handl line
+code link codelink handler gethandlerpc method number
+file print
+attr constant attr constant
+index constant constantvalu attribut constant index getconstantvalueindex
+refer html
+file print href class html index
+target constantpool constant index index
+attr sourc file attr sourc file
+index sourc file sourcefil attribut sourc file index getsourcefileindex
+refer html
+file print href class html index
+target constantpool sourc file index index
+attr except attr except
+list thrown except
+indic except tabl exceptiont attribut except index tabl getexceptionindext
+file print
+indic length
+file print href class html indic
+target constantpool except class index indic
+file print
+attr line number tabl attr line number tabl
+line number linenumb line number line number tabl linenumbert attribut line number tabl getlinenumbert
+list line number pair
+file print
+line number length
+file print line number start getstartpc nbsp line number line number getlinenumb
+line number length
+file print file print breakabl
+attr local variabl tabl attr local variabl tabl
+local variabl localvari var local variabl tabl localvariablet attribut local variabl tabl getlocalvariablet
+list rang type
+file print
+var length
+index var signatur index getsignatureindex
+string signatur constant utf8 constantutf8 constant pool constant getconst index constant utf8 constant utf8 byte getbyt
+signatur util signatur string signaturetostr signatur
+start var start getstartpc
+end start var length getlength
+file println class2 html class2html refer type referencetyp signatur
+nbsp var getnam slot var index getindex
+valid line
+href class code html code method number start target code
+start
+href class code html code method number end target code
+end
+file print
+attr class attr class
+class innerclass class class innerclass attribut class getinnerclass
+list class
+file print
+class length
+string access
+index class index getinnernameindex
+index
+constant utf8 constantutf8 constant pool constant getconst index constant utf8 constant utf8 byte getbyt
+anonym
+access util access string accesstostr class access flag getinneraccessflag
+file print font color ff0000 access font
+constant html refer constant referenceconst class class index getinnerclassindex
+nbsp class
+constant html refer constant referenceconst class outer class index getouterclassindex
+name
+file print
+default unknown attribut deprec
+file print attribut string tostr
+file println
+file flush

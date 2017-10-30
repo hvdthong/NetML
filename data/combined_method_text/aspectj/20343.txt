@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+subset type munger defin aspect
+list itd subset getitdsubset lazi class gen lazyclassgen clazz resolv type munger resolvedtypemung kind want kind wantedkind
+list subset arrai list arraylist
+collect clazz bcel object type getbcelobjecttyp type munger gettypemung
+iter iter iter iter hasnext
+bcel type munger bceltypemung type munger typemung bcel type munger bceltypemung iter
+type munger typemung munger getmung kind getkind want kind wantedkind
+subset add type munger typemung
+subset

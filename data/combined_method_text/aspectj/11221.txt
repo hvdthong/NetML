@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+list make effect signatur attribut makeeffectivesignatureattribut
+resolv member resolvedmemb sig
+shadow kind kind
+weav bodi weavebodi
+list arrai list arraylist
+add eclips attribut adapt eclipseattributeadapt
+attribut ajattribut effect signatur attribut effectivesignatureattribut sig kind weav bodi weavebodi

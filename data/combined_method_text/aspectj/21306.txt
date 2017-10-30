@@ -1,0 +1,18 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+regist definit registerdefinit bcel weaver bcelweav weaver class loader classload loader list definit
+trace trace enabl istraceen trace enter registerdefinit definit
+success
+regist option registeropt weaver loader definit
+regist aspect exclud registeraspectexclud weaver loader definit
+regist aspect includ registeraspectinclud weaver loader definit
+success regist aspect registeraspect weaver loader definit
+regist includ exclud registerincludeexclud weaver loader definit
+regist dump registerdump weaver loader definit
+except
+trace error regist definit fail
+success
+warn regist definit fail abort except abortexcept
+trace trace enabl istraceen trace exit registerdefinit success
+success

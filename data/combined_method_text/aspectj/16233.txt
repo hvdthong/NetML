@@ -1,0 +1,9 @@
+org aspectj intern tool ant taskdef
+condit task conditionaltask task
+isok string prop strict isstrict
+strict isstrict
+prop prop equal equal getequ
+isok prop
+prop fals isfals equal getequ
+true istru equal getequ true istru prop
+fals isfals equal getequ fals isfals prop

@@ -1,0 +1,33 @@
+org aspectj apach bcel classfil
+util function belong class
+version util java aclement exp
+author href mailto marku dahm berlin dahm
+modifi andi clement mar remov unnecessari static optim
+util
+disassembl byte arrai jvm byte code start code line
+'index' return disassembl string represent decod
+'num' opcod includ operand
+decompil
+param code byte code arrai
+param constant pool arrai constant
+param index offset code' arrai
+number opcod byte
+param length number opcod decompil
+param verbos verbos print constant pool index
+return string represent byte code
+string code string codetostr code
+constant pool constantpool constant pool
+index length verbos
+string buffer stringbuff buf string buffer stringbuff code length stringbuff buf stringbuff code length suffici
+byte sequenc bytesequ stream byte sequenc bytesequ code
+index int index skip index' line code
+code string codetostr stream constant pool verbos
+stream
+length length
+string indic fillup stream index getindex
+buf append indic code string codetostr stream constant pool verbos
+except ioexcept
+system println buf string tostr
+print stack trace printstacktrac
+class format except classformatexcept byte code error
+buf string tostr

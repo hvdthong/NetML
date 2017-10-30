@@ -1,0 +1,49 @@
+declareparents fqns exceptions declared throws clauses leading noclassdeffounderror
+code
+aspect
+public class testbeanadvice
+public static class applicationcontextawareimpl implements applicationcontextaware
+public void setapplicationcontext applicationcontext applicationcontext throws beansexception
+
+
+declareparents org springframework beans testbean defaultimpl testbeanadvice applicationcontextawareimpl class
+private applicationcontextaware implementationinterface
+
+advice load time weaver exception
+org springframework beans factory beancreationexception error creating bean 'testbean' defined class path resource org springframework context support testbean context xml instantiation bean failed nested exception java lang noclassdeffounderror beansexception
+caused java lang noclassdeffounderror beansexception
+java lang class getdeclaredmethods0 native method
+java lang class privategetdeclaredmethods class java
+java lang class getdeclaredmethods class java
+java beans introspector run introspector java
+java security accesscontroller doprivileged native method
+java beans introspector getpublicdeclaredmethods introspector java
+java beans introspector gettargetmethodinfo introspector java
+java beans introspector getbeaninfo introspector java
+java beans introspector getbeaninfo introspector java
+org springframework beans cachedintrospectionresults init cachedintrospectionresults java
+org springframework beans cachedintrospectionresults forclass cachedintrospectionresults java
+org springframework beans beanwrapperimpl setintrospectionclass beanwrapperimpl java
+org springframework beans beanwrapperimpl setwrappedinstance beanwrapperimpl java
+org springframework beans beanwrapperimpl setwrappedinstance beanwrapperimpl java
+org springframework beans beanwrapperimpl init beanwrapperimpl java
+org springframework beans factory support abstractautowirecapablebeanfactory instantiatebean abstractautowirecapablebeanfactory java
+org springframework beans factory support abstractautowirecapablebeanfactory createbean abstractautowirecapablebeanfactory java
+org springframework beans factory support abstractbeanfactory getbean abstractbeanfactory java
+org springframework beans factory support abstractbeanfactory getbean abstractbeanfactory java
+org springframework beans factory support defaultlistablebeanfactory preinstantiatesingletons defaultlistablebeanfactory java
+org springframework context support abstractapplicationcontext refresh abstractapplicationcontext java
+org springframework context support aspectjclassloaderwithgenericapplicationcontexttests testcreateapplicationcontextwithbeanfactoryandaspectjclassloader aspectjclassloaderwithgenericapplicationcontexttests java
+sun reflect nativemethodaccessorimpl invoke0 native method
+sun reflect nativemethodaccessorimpl invoke nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invoke delegatingmethodaccessorimpl java
+intellij execution junit2 junitstarter main junitstarter java
+sun reflect nativemethodaccessorimpl invoke0 native method
+sun reflect nativemethodaccessorimpl invoke nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invoke delegatingmethodaccessorimpl java
+intellij execution application appmain main appmain java
+wrapped spring exception container
+debugging found exception appears loading dependencies testbean class guess problem parent declared bytecode testbean
+find testbean class
+http fisheye1 cenqua browse raw springframework spring test org springframework beans testbean java
+steven

@@ -1,0 +1,74 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+call compil start resolv element declar method
+add intertypescop methodscop classscop element type target
+itd resolv type variabl refer ontyp itd
+resolv ontyp aspect itd
+ensur scope setup ensurescopesetup
+scope setup scopesetup scopesetup return
+method scope methodscop scope scope
+type refer typerefer type ontyp
+refer bind referencebind
+parameter qualifi type refer parameterizedqualifiedtyperefer instanceof parameterizedqualifiedtyperefer pr132349
+parameter qualifi type refer parameterizedqualifiedtyperefer pref parameter qualifi type refer parameterizedqualifiedtyperefer
+pref type argument typeargu pref type argument typeargu length
+type variabl itd usingnontypevariableinitd
+check type variabl
+pref type argument typeargu length
+type refer typerefer ref pref type argument typeargu
+ref ref length
+type bind typebind ref type bind public gettypebindingpubl scope parent
+type variabl istypevari problem refer bind problemreferencebind
+type variabl itd usingnontypevariableinitd
+type variabl itd usingnontypevariableinitd
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+make inter type declar parameter type
+prevent disgust cascad error problem let null lead pr105038
+argument
+return type returntyp singl type refer singletyperefer type refer typerefer void
+ignor investig ignorefurtherinvestig
+refer bind referencebind closest match closestmatch
+problem refer bind problemreferencebind parameter type getparameterizedtypenam closest match closestmatch
+type ontyp
+work real base type
+parameter singl type refer parameterizedsingletyperefer
+parameter singl type refer parameterizedsingletyperefer pref parameter singl type refer parameterizedsingletyperefer
+po pref sourc start sourcestart pref sourc end sourceend
+singl type refer singletyperefer pref token po
+parameter qualifi type refer parameterizedqualifiedtyperefer
+parameter qualifi type refer parameterizedqualifiedtyperefer pref parameter qualifi type refer parameterizedqualifiedtyperefer
+po pref sourc start sourcestart pref sourc end sourceend
+qualifi type refer qualifiedtyperefer pref token po qualifiedtyperefer pref token long po singletyperefer pref quatoken po
+resolv
+refer bind referencebind type bind public gettypebindingpubl scope parent
+pr203646 end raw type back underli gener
+raw type israwtyp member type ismembertyp
+real target type type variabl alia switch thing gener type
+raw type bind rawtypebind type
+type variabl bind typevariablebind
+scope problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+make inter type declar type variabl interfac declar parent
+prevent disgust cascad error problem let null lead pr105038
+argument
+return type returntyp singl type refer singletyperefer type refer typerefer void
+ignor investig ignorefurtherinvestig
+refer bind referencebind closest match closestmatch
+type variabl bind typevariablebind bound firstbound
+closest match closestmatch type variabl bind typevariablebind bound firstbound enclos type enclosingtyp
+problem refer bind problemreferencebind compound compoundnam closest match closestmatch
+resolut fail give report error
+problem refer bind problemreferencebind
+inter type scope intertypescop inter type scope intertypescop scope parent type variabl alias typevariablealias
+fixm asc verifi choic line
+version line
+trick jdt variabl process code complain
+refer type variabl static itd problem caught
+ajdt code put nicer messag
+scope static isstat type variabl alias typevariablealias modifi static isstat declar modifi declaredmodifi
+origin version case trick jdt grief reinstat variant
+chang expect messag output gener itd test
+scope isstat modifi isstat declaredmodifi
+scope parent inter type scope intertypescop
+scope setup scopesetup

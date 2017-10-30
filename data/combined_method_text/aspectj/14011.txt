@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+ldc push item constant pool
+pre stack item pre
+version ldc java aclement exp
+author href mailto marku dahm berlin dahm
+ldc instruct cpinstruct
+class except getexcept
+org aspectj apach bcel except constant exceptionconst exc string resolut exc string resolut

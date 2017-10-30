@@ -1,0 +1,15 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+implement lazi method gen lazymethodgen
+list shadow match shadow matchedshadow
+shadow
+depend partial order shadow earlier list
+outer shadow fine order preserv
+prece iff getstart getstart
+iter shadow iter hasnext
+bcel shadow bcelshadow shadow bcel shadow bcelshadow
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext implement shadow implement shadow shadow
+shadow implement
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+max local getmaxloc
+match shadow matchedshadow

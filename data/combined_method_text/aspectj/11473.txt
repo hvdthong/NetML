@@ -1,0 +1,20 @@
+org aspectj ajdt intern compil lookup
+author jim hugunin
+eclips factori eclipsefactori
+type bind typebind make type bind maketypebind unresolv type unresolvedtyp type typex
+type bind typebind ret
+type variabl troubl
+type typex type variabl refer istypevariablerefer parameter type variabl isparameterizedwithtypevari type typex
+type typex raw type israwtyp
+ret type bind typebind raw type bind rawtypextobind type typex
+ret type bind typebind typex bind typextobind type typex
+ret
+ret make type binding1 maketypebinding1 type typex
+type typex bound refer type boundedreferencetyp
+type typex unresolv type variabl refer type unresolvedtypevariablereferencetyp
+type typex raw type israwtyp
+raw type bind rawtypextobind put type typex ret
+typex bind typextobind put type typex ret
+ret
+system println find type typex
+ret

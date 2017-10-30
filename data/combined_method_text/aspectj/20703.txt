@@ -1,0 +1,24 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+rule narrow visibl method overrid
+enforc decp rule3 visibl enforcedecprule3 visibilitychang bcel class weaver bcelclassweav weaver resolv type resolvedtyp parent newpar resolv member resolvedmemb super method supermethod lazi method gen lazymethodgen method submethod
+cont
+super method supermethod public ispubl
+method submethod protect isprotect method submethod default isdefault method submethod privat ispriv
+weaver world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+reduc visibl inherit method super method supermethod parent newpar getnam
+super method supermethod sourc locat getsourceloc
+cont
+super method supermethod protect isprotect
+method submethod default isdefault method submethod privat ispriv
+weaver world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+reduc visibl inherit method super method supermethod parent newpar getnam
+super method supermethod sourc locat getsourceloc
+cont
+super method supermethod default isdefault
+method submethod privat ispriv
+weaver world getworld messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+reduc visibl inherit method super method supermethod parent newpar getnam
+super method supermethod sourc locat getsourceloc
+cont
+cont

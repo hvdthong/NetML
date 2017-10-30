@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math3 distribut
+
+
+
+
+
+
+base multivari probabl distribut
+
+version
+
+
+abstract multivari real distribut abstractmultivariaterealdistribut
+
+
+
+
+
+
+
+param rng random number gener
+param number dimens
+
+abstract multivari real distribut abstractmultivariaterealdistribut random gener randomgener rng
+
+random rng
+dimens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

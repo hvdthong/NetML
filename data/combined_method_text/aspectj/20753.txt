@@ -1,0 +1,18 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+list add aspect jar file addaspectsfromjarfil file file infil file found except filenotfoundexcept except ioexcept
+zip input stream zipinputstream stream instream zip input stream zipinputstream file input stream fileinputstream file infil zipinputstream instream zipinputstream fileinputstream infil buffer
+list ad aspect addedaspect arrai list arraylist
+zip entri zipentri entri stream instream entri getnextentri
+entri
+entri directori isdirectori entri getnam end endswith class
+fixm asc perform altern soln
+class parser classpars parser class parser classpars byte arrai input stream bytearrayinputstream file util fileutil read byte arrai readasbytearrai stream instream entri getnam
+java class javaclass parser pars
+stream instream close entri closeentri
+resolv type resolvedtyp type world add sourc object type addsourceobjecttyp resolv type getresolvedtypex
+type set binari path setbinarypath file infil absolut path getabsolutepath
+type aspect isaspect
+ad aspect addedaspect add type
+stream instream close
+ad aspect addedaspect

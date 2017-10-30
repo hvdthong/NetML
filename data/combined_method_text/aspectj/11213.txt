@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil ast
+base type inter type declar includ method field constructor
+author jim hugunin
+inter type declar intertypedeclar method declar ajmethoddeclar
+gener info attribut generateinfoattribut class file classfil class file classfil
+list
+shadow kind kind shadow kind bodi getshadowkindforbodi
+kind
+make effect signatur attribut makeeffectivesignatureattribut munger signatur getsignatur kind
+arrai list arraylist
+add declar start line attribut adddeclarationstartlineattribut class file classfil
+class file classfil gener method info attribut generatemethodinfoattribut bind

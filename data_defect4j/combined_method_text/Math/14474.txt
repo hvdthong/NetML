@@ -1,0 +1,51 @@
+pre
+smaller
+a21
+common part embed rung kutta
+arrai
+set safeti setsafeti
+comput directli error comput estim
+method embed explicit rung kutta method
+fsal fsal
+scal absolut toler scalabsolutetoler
+step reject error estim phase
+integr direct forward backward step
+min step minstep max step maxstep scal absolut toler scalabsolutetoler scal rel toler scalrelativetoler
+rung kutta step interpol rungekuttastepinterpol prototyp
+embed rung kutta integr embeddedrungekuttaintegr
+compar
+set coeffici allow estim error butcher
+set valu algorithm control paramet
+build rung kutta integr butcher arrai
+version
+a31 a32
+param time step butcher arrai
+embed rung kutta integr embeddedrungekuttaintegr string fsal
+param method
+as1 as2 ass
+exp order getord
+integr ordinari differenti equat
+min step minstep max step maxstep
+fact arrai defin b'j
+method evalu method
+org apach common math3 od nonstiff
+prototyp prototyp
+param prototyp prototyp step interpol
+set max growth setmaxgrowth
+asi
+param min step minstep minim step sign irrelev
+b'1 b'2 b' b'
+param scal absolut toler scalabsolutetoler allow absolut error
+stage behaviour success step
+evalu save fsal method
+evalu reus step cost
+param intern weight butcher arrai empti row
+method qualifi fsal
+param max step maxstep maxim step sign irrelev
+param propag weight high order method butcher arrai
+step step
+set min reduct setminreduct
+param fsal method fsal
+param scal rel toler scalrelativetoler allow rel error
+method mean evalu deriv
+scal rel toler scalrelativetoler

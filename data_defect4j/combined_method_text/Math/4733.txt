@@ -1,0 +1,12 @@
+set entri setentri data multipli
+field vector impl fieldvectorimpl field element fieldel field vector fieldvector serializ
+link field vector fieldvector link field element fieldel arrai
+org apach common math linear
+param type field element
+inherit doc inheritdoc
+data length
+check vector dimens checkvectordimens length
+version revis date
+field matrix fieldmatrix field matrix impl fieldmatriximpl field
+illeg argument except illegalargumentexcept
+field matrix fieldmatrix outer product outerproduct

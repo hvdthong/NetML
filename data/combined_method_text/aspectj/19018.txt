@@ -1,0 +1,8 @@
+org aspectj weaver
+lint
+messag imessag kind messag kind getmessagekind string
+equal ignor
+equal warn messag imessag warn
+equal error messag imessag error
+messag util messageutil error world messag handler getmessagehandl
+weaver messag weavermessag format weaver messag weavermessag xlint error xlint error

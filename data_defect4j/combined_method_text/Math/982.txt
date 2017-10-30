@@ -1,0 +1,16 @@
+method link comput object computeobjectivevalu call method intern
+code comput object computeobjectivevalu solv function
+param func type function solv
+version
+link abstract differenti univari real solver abstractdifferentiableunivariaterealsolv
+solver
+increment evalu count
+provid subclass exclus
+evalu increment count incrementcount
+max count exceed except maxcountexceededexcept
+provid implement function gener
+version revis date wed nov
+increment evalu count incrementevaluationcount
+evalu except toomanyevaluationsexcept max getmax
+org apach common math analysi solver
+base abstract univari real solver baseabstractunivariaterealsolv func univari real function univariaterealfunct

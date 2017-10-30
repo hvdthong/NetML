@@ -1,0 +1,17 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+info info year iyear year
+year info yearinfo info year info cach iyearinfocach year cach mask
+org joda time chrono
+info year info yearinfo year calcul dai year milli calculatefirstdayofyearmilli year
+year info yearinfo year info getyearinfo year
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+info
+year info cach iyearinfocach year cach mask info
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+reflect intent defin

@@ -1,0 +1,21 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+member impl memberimpl
+kind kind
+unresolv type unresolvedtyp declar type declaringtyp
+modifi
+string
+string signatur
+kind kind
+declar type declaringtyp declar type declaringtyp
+modifi modifi
+signatur signatur
+kind field
+return type returntyp unresolv type unresolvedtyp signatur forsignatur signatur
+paramet type parametertyp unresolv type unresolvedtyp
+object return param returnandparam signatur type signaturetotyp signatur
+return type returntyp unresolv type unresolvedtyp return param returnandparam
+paramet type parametertyp unresolv type unresolvedtyp return param returnandparam
+safe
+string oldsig string signatur
+signatur typestosignatur returntyp parametertyp true

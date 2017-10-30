@@ -1,0 +1,13 @@
+open map real vector openmaprealvector abstract real vector abstractrealvector spars real vector sparserealvector serializ
+open map real vector openmaprealvector spars real vector sparserealvector
+open map real vector openmaprealvector abstract real vector abstractrealvector
+org apach common math linear
+inherit doc inheritdoc
+link open int doubl hash map openinttodoublehashmap back store
+java util iter entri spars iter sparseiter
+open map spars iter openmapsparseiter
+link real vector realvector
+overrid
+version
+link real vector realvector link open int doubl hash map openinttodoublehashmap back store
+version revis date

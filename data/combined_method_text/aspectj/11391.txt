@@ -1,0 +1,17 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+supertyp dosupertypesfirst refer bind referencebind collect process yettoprocess
+sourc type bind sourcetypebind
+process yettoprocess
+collect declar collectallitdsanddeclar sourc type bind sourcetypebind process yettoprocess
+parameter type bind parameterizedtypebind
+ptb pull sourcetypebind
+parameter type bind parameterizedtypebind ptb parameter type bind parameterizedtypebind
+ptb type sourc type bind sourcetypebind process yettoprocess ptb type
+collect declar collectallitdsanddeclar sourc type bind sourcetypebind ptb type process yettoprocess

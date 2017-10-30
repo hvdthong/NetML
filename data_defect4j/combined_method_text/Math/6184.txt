@@ -1,0 +1,37 @@
+version dormand prince853 step interpol dormandprince853stepinterpol java 39z luc
+eta theta
+current time
+interpol state interpolatedst
+dot ydotk dot ydotk dot ydotk
+eta minu theta oneminusthetah
+final step finalizestep
+theta previou time step current time step
+dot ydotk
+org apach common math od
+od integr dormand princ integr
+interpol state interpolatedst length
+deriv except derivativeexcept
+comput interpol vector time step
+deriv class perform interpol
+dot ydotk dot ydotk
+version revis date
+theta
+current state currentst eta theta
+comput interpol state computeinterpolatedst theta
+underli user function trigger
+main process method implement
+deriv except derivativeexcept except propag caller
+theta eta theta
+param theta normal interpol abscissa step
+vector initi vectorsiniti
+comput state interpol time
+dormand prince853 step interpol dormandprince853stepinterpol
+dormand prince853 integr dormandprince853integr
+perform evalu
+eta
+repres interpol step
+length
+param minu theta oneminusthetah time gap interpol time
+minu theta oneminusthetah
+dot ydotklast
+interpol state interpolatedst current state currentst

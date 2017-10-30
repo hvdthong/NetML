@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+param
+param userpointcut
+rais unbound formal error raiseunboundformalerror string pointcut user pointcut userpointcut
+world show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag unbound formal unbound formal user pointcut userpointcut sourc locat getsourceloc

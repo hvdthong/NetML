@@ -1,0 +1,7 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+assign isassignablefrom resolv type resolvedtyp
+primit type isprimitivetyp
+world java5 mode isinjava5mod
+valid box validbox signatur getsignatur signatur getsignatur
+assign tabl assignt primit index index

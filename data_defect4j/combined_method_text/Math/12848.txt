@@ -1,0 +1,20 @@
+org apach common math3 geometri partit
+region locat insid insid link region locat
+point interior cell check attribut
+param point point check
+locat code pluscod check point checkpoint cell getplu point
+link region locat boundari boundari
+param type space
+boolean cell attribut getattribut locat insid locat
+abstract region abstractregion space space region
+point cut hyperplan boundari
+version
+param node root node region
+abstract region independ geometri type dimens
+locat minu code minuscod check point checkpoint cell minu getminu point
+minu code minuscod code pluscod minu code minuscod locat boundari
+locat check point checkpoint bsp tree bsptree node vector point
+bsp tree bsptree cell node cell getcel point
+code repres point statu link
+check point respect region start node
+cell cut getcut

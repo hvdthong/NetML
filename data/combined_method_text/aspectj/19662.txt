@@ -1,0 +1,7 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+list inter type parent munger getintertypeparentmung
+list arrai list arraylist
+iter iter inter type munger intertypemung iter iter hasnext
+concret type munger concretetypemung element concret type munger concretetypemung iter
+element munger getmung parent type munger newparenttypemung add element

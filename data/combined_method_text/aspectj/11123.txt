@@ -1,0 +1,12 @@
+org aspectj ajdt intern compil ast
+ast util astutil
+argument insert
+argument
+argument rest
+rest
+argument
+len rest length
+argument ret argument len
+ret
+system arraycopi rest ret len
+ret

@@ -1,0 +1,6 @@
+org aspectj util
+file util fileutil
+throw illegalargumentexcept file readabl directori
+throw iax write file throwiaxunlesscanwritefil file file string label
+write file canwritefil file
+illeg argument except illegalargumentexcept label writabl file file

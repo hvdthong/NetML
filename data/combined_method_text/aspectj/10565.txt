@@ -1,0 +1,10 @@
+org aspectj ajd
+view render notifi structur view updat event
+updat displai structur view
+author mik kersten
+structur view render structureviewrender event listen eventlisten
+behavior code setactivenod structureviewnod code
+highlight line span node
+param lineoffset number line begin
+end line code structurenod code
+set activ node setactivenod structur view node istructureviewnod activ node activenod line offset lineoffset

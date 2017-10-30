@@ -1,0 +1,7 @@
+org aspectj apach bcel gener
+implement interfac interest instructionlist object
+regist addobserv
+version instructionlistobserv java aclement exp
+author href mailto marku dahm berlin dahm
+instruct list observ instructionlistobserv
+notifi instruct list instructionlist list

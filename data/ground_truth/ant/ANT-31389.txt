@@ -1,0 +1,8 @@
+src/main/org/apache/tools/ant/IntrospectionHelper_getAttributeMethod-String_Method
+src/main/org/apache/tools/ant/IntrospectionHelper_getAttributeType-String_Class
+src/main/org/apache/tools/ant/IntrospectionHelper_getElementMethod-String_Method
+src/main/org/apache/tools/ant/IntrospectionHelper_getElementType-String_Class
+src/main/org/apache/tools/ant/IntrospectionHelper_setAttribute-Project-Object-String-String_void
+src/main/org/apache/tools/ant/IntrospectionHelper_throwNotSupported-Project-Object-String_void
+src/main/org/apache/tools/ant/RuntimeConfigurable_maybeConfigure-Project-boolean_void
+src/main/org/apache/tools/ant/UnknownElement_handleChildren-Object-RuntimeConfigurable_void

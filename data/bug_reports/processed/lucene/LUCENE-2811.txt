@@ -1,0 +1,18 @@
+segmentinfo explicitly track segment wrote term vectors
+today segmentinfo vectors means files method check files exist
+leads subtle bugs files caches files fail invalidate term vectors files created
+leads sloppy code termvectorsreader gracefully handles opened files exist opened exist
+fixes intermittent failures
+div class preformatted panel style border width 1px div class preformattedcontent panelcontent
+pre junit framework assertionfailederror indexfiledeleter file tvx
+org apache lucene util lucenetestcase lucenetestcaserunner runchild lucenetestcase java
+org apache lucene util lucenetestcase lucenetestcaserunner runchild lucenetestcase java
+org apache lucene index indexwriter filesexist indexwriter java
+org apache lucene index indexwriter startcommit indexwriter java
+org apache lucene index indexwriter preparecommit indexwriter java
+org apache lucene index indexwriter commitinternal indexwriter java
+org apache lucene index indexwriter commit indexwriter java
+org apache lucene index indexwriter commit indexwriter java
+org apache lucene index testindexwriterexceptions testrandomexceptionsthreads testindexwriterexceptions java
+pre
+div div

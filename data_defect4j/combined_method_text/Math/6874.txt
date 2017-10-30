@@ -1,0 +1,72 @@
+stop time stoptim
+org apach common math od nonstiff
+param manag discret event manag
+bdf integr bdfintegr
+underli starter integr ensur return step
+combin event manag combinedeventsmanag manag
+belong smooth rang
+integr step ensur intermedi reset occur
+store step handler storingstephandl store store step handler storingstephandl
+clear configur
+end start phase
+start integr
+arrai fill previou previoust doubl nan
+starter add event handler addeventhandl reset check wrapper resetcheckingwrapp state event handler geteventhandl
+method comput step multistep method
+configur event handler
+add specif step handler store step
+side effect smooth od trigger
+param sign step size step
+underli user function trigger
+period regular reset remain start phase
+state max check interv getmaxcheckinterv
+order differenti equat firstorderdifferentialequ equat
+time end start phase
+start phase end prematur trigger event
+event state eventst state manag event state geteventsst
+time latest previou step set
+step end step
+clear step
+param state vector initi state vector
+start
+larg
+code doubl nan code
+version revis date
+adam bashforth integr adamsbashforthintegr
+add user defin step handler filter islast indic
+deriv except derivativeexcept integr except integratorexcept
+restart state deriv reset trigger
+configur step handler
+store restart
+integr rang step size number step store
+starter clear event handler cleareventhandl
+differenti equat
+store final state getfinalst
+reset time resettim doubl nan
+param initi time
+deriv except derivativeexcept except propag caller
+starter clear step handler clearstephandl
+step method step size equal event
+integr differenti equat
+base multistep integr ordinari
+system arraycopi store final state getfinalst length
+step handler stephandl handler step handler stephandl
+param number step store
+integr except integratorexcept integr perform integr
+doubl isnan reset time resettim
+overshoot step end make miss point
+order ensur smooth start phase automat
+starter add step handler addstephandl step normal stepnorm store
+stop time stoptim starter integr equat
+multistep integr multistepintegr abstract integr abstractintegr
+put state vector success step
+starter add step handler addstephandl filter wrapper filteringwrapp handler
+state converg getconverg state max iter count getmaxiterationcount
+arrai fill previou previousf
+param equat differenti equat integr
+intermedi reset restart
+reset state start phase end
+adam moulton integr adamsmoultonintegr
+stop time stoptim doubl nan
+reset time resettim
+regist event handler start phase complet

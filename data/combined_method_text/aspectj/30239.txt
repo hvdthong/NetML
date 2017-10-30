@@ -1,0 +1,22 @@
+org aspectj weaver tool
+adaptor aspectj compil embed exist
+system facilit load time weav interfac
+weav class loader provid classpath woven set
+aspect callback suppli class loader defin class
+gener compil weav process
+weav class loader creat code weavingadaptor code
+class defin typic construct set aspect
+pass adaptor fix lifetim adaptor
+classpath augment system properti set verbos
+weav messag written consol
+weav adaptor weavingadaptor messag context imessagecontext
+flush messag flushmessag
+save messag savedmessag
+save messag savedmessag arrai list arraylist
+save messag savedmessag add addal unmodifi list view getunmodifiablelistview
+clear messag clearmessag
+iter iter save messag savedmessag iter iter hasnext
+messag imessag messag messag imessag iter
+deleg handl messag handlemessag messag
+accumul fals
+messag clear

@@ -1,0 +1,11 @@
+org aspectj weaver bcel
+class path manag classpathmanag
+class file classfil find unresolv type unresolvedtyp type
+string type getnam
+iter entri iter hasnext
+entri entri entri
+class file classfil ret entri find
+ret ret
+except ioexcept ioe
+error valid miss classpath entri
+remov

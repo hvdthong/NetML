@@ -1,0 +1,15 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+dai month max getdaysinmonthmax month
+org joda time chrono
+author gui allard
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+maximum dai month
+param month month
+basic chronolog basicchronolog thread safe immut subclass
+util method requir subclass
+dai month year leap year leapyear model
+max dai
+reflect intent defin

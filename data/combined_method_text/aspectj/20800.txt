@@ -1,0 +1,19 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+check target annot found ensur annot
+attach target type match
+verifi target verifytargetisok declar annot declareannot dec deca resolv type resolvedtyp type ontyp annot annotationx anno annox output problem outputproblem
+problem report problemreport
+anno annox specifi target specifiestarget
+type ontyp annot isannot anno annox allow annot type allowedonannotationtyp
+anno annox allow regular type allowedonregulartyp
+output problem outputproblem
+dec deca exact pattern isexactpattern
+world messag handler getmessagehandl handl messag handlemessag messag util messageutil error
+weaver messag weavermessag format weaver messag weavermessag incorrect target declar annot incorrect target declar annot
+type ontyp getnam anno annox stringifi anno annox valid target getvalidtarget dec deca sourc locat getsourceloc
+world lint getlint invalid target annot invalidtargetforannot enabl isen
+world lint getlint invalid target annot invalidtargetforannot signal
+string type ontyp getnam anno annox stringifi anno annox valid target getvalidtarget dec deca sourc locat getsourceloc sourc locat isourceloc type ontyp sourc locat getsourceloc
+problem report problemreport
+problem report problemreport

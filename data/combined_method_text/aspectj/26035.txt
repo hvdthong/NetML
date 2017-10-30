@@ -1,0 +1,9 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+collect type collecttyp map map list result privat void collecttyp map map list resolvedtyp result
+iter iter map kei set keyset iter iter hasnext
+string kei string iter
+resolv type resolvedtyp type string kei
+type result add type
+system err println null kei

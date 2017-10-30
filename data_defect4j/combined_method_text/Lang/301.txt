@@ -1,0 +1,20 @@
+author stephen colebourn
+pre
+defaultvalu
+convert charact integ repres throw
+param charact convert
+param defaultvalu charact numer
+oper primit charact object
+char util charutil int tointvalu '3'
+charact
+handl code code input gracefulli
+except charact numer
+version
+char util charutil int tointvalu 'a'
+method covert '1'
+except thrown code code input
+char util charutil
+int tointvalu defaultvalu
+ascii numer isasciinumer
+method document behaviour detail
+org apach common lang

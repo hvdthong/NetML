@@ -1,0 +1,13 @@
+org aspectj weaver
+type munger aspectj itd declar parent interfac implement
+aspect field public static interfac fieldi impl
+weav interface' method deleg aspect public static field fieldi
+note munger handl interfac addit target class regular parent kind munger
+ad coordin
+method deleg type munger methoddelegatetypemung resolv type munger resolvedtypemung
+write data output stream dataoutputstream except ioexcept
+kind write
+signatur write
+aspect write
+write utf writeutf impl class implclassnam
+type pattern typepattern write

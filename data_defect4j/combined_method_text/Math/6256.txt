@@ -1,0 +1,19 @@
+adapt stepsiz integr
+version revis date mer nov
+vec absolut toler vecabsolutetoler vec rel toler vecrelativetoler
+factori buid link dormand prince54 integr dormandprince54integr
+dormand prince54 integr dormandprince54integr min step minstep max step maxstep
+integr step smaller
+creat link adapt stepsiz integr adaptivestepsizeintegr
+max step maxstep vec absolut toler vecabsolutetoler
+vec rel toler vecrelativetoler
+provid implement function gener
+integr
+adapt stepsiz integr adaptivestepsizeintegr dormand prince54 integr newdormandprince54integr min step minstep
+param vec absolut toler vecabsolutetoler allow absolut error
+org apach common math od
+order integr factori impl firstorderintegratorfactoryimpl
+dormand princ integr
+param min step minstep minim step posit backward
+param vec rel toler vecrelativetoler allow rel error
+param max step maxstep maxim step posit backward

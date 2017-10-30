@@ -1,0 +1,10 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+pointcut pointcut getpointcut
+lazi pointcut lazypointcut
+lazi pointcut lazypointcut pointcut unresolv pointcutunresolv resolv bind
+lazi pointcut lazypointcut copi locat copylocationfrom pointcut unresolv pointcutunresolv
+lazi pointcut lazypointcut

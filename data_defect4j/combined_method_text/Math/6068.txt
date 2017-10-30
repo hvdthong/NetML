@@ -1,0 +1,81 @@
+param state vector step end time reset event
+throwabl getcaus
+remain step accept stepaccept event eventt event eventi
+initi event state need
+param interpol step interpol
+step islaststep current event currentev stop
+trigger event
+inherit doc inheritdoc
+occur event occuringev add current event currentev
+state reiniti begin reinitializebegin interpol
+handl chronolog event
+step islaststep step islaststep math util mathutil equal current currentt end tend
+step islaststep step islaststep state stop
+system arraycopi event eventi length
+ask reset event stop integr step
+occur event occuringev empti isempti
+org apach common math od
+iter event state eventst iter occur event occuringev iter
+except math illeg state except mathillegalstateexcept event state evalu
+search event occur step
+accept step acceptstep abstract step interpol abstractstepinterpol interpol
+occur event occuringev add state
+check event occur remain part step
+event state eventst current event currentev iter
+dot ydot end tend
+interpol set soft current time setsoftcurrenttim current currentt
+handl remain part step event
+math user except mathuserexcept
+event ask stop integr
+event occur current step
+interpol set interpol time setinterpolatedtim event eventt
+current event currentev reset event eventt event eventi
+interpol set soft previou time setsoftprevioustim previou previoust
+handler handl step handlestep interpol step islaststep
+integr except integratorexcept
+abstract integr abstractintegr order integr firstorderintegr
+version
+event handler trigger
+state initi statesiniti
+compar event state eventst es0 event state eventst es1
+event eventt
+current currentt interpol global current time getglobalcurrenttim
+accept step trigger event step handler
+interpol set soft current time setsoftcurrenttim event eventt
+event state eventst remain occur event occuringev
+iter remov
+sort set sortedset event state eventst occur event occuringev tree set treeset event state eventst compar event state eventst
+time end step
+event eventt current event currentev event time geteventtim
+previou previoust event eventt
+event state eventst state event state eventsst
+order sign orderingsign interpol forward isforward
+prepar handl remain part step
+step islaststep step islaststep precis equal current currentt end tend
+interpol set soft previou time setsoftprevioustim event eventt
+event eventi interpol interpol state getinterpolatedst clone
+order sign orderingsign doubl compar es0 event time geteventtim es1 event time geteventtim
+converg except convergenceexcept
+current event currentev step accept stepaccept event eventt event eventi
+step handler stephandl handler step handler stephandl
+state step accept stepaccept current currentt current currenti
+version revis date
+event eventi interpol interpol state getinterpolatedst
+restrict interpol part step event
+math illeg state except mathillegalstateexcept
+invalid deriv recomput
+param dot ydot placehold arrai put time deriv state vector
+previou previoust interpol global previou time getglobalprevioustim
+base manag common boilerpl integr
+interpol set interpol time setinterpolatedtim current currentt
+comput deriv computederiv event eventt dot ydot
+except integr except integratorexcept event state evalu
+reset occur resetoccur
+event except eventexcept
+state evalu step evaluatestep interpol
+param end tend integr time
+current currentt
+handl part step event
+step islaststep
+current event currentev evalu step evaluatestep interpol
+current currenti interpol interpol state getinterpolatedst

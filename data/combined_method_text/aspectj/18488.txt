@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb itd declar parent field itdatdeclareparentsfield resolv type resolvedtyp target type targettyp unresolv type unresolvedtyp itd type itdtyp unresolv type unresolvedtyp aspect type aspecttyp
+resolv member impl resolvedmemberimpl
+member field
+target type targettyp
+modifi privat
+itd type itdtyp
+mangler namemangl itd declar parent field itdatdeclareparentsfield aspect type aspecttyp itd type itdtyp

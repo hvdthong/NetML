@@ -1,0 +1,14 @@
+org aspectj intern tool ant taskdef
+check includ java file licens copyright string
+mpl default apach cpl
+list true list licens variant licens copyrighthold
+todo reimplement regexp jdiff filelin util
+checklic match task matchingtask
+replac header replacehead
+year visitor yearvisitor file visitor filevisitor
+visit file file
+header info headerinfo info header check file checkfil file
+header replac header replacehead file info
+build except buildexcept fail replac header file
+info
+visit visital year visitor yearvisitor

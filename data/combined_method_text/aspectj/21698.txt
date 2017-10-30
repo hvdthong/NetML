@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+bind
+merg mergein bind scope iscop scope
+len bind length len
+bind
+regist bind scope

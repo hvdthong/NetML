@@ -1,0 +1,5 @@
+org aspectj weaver tool
+default trace defaulttrac abstract trace abstracttrac
+event string method methodnam
+trace enabl traceen
+println format messag formatmessag trace class tracedclass getnam method methodnam

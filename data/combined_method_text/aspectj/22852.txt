@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+creation type pattern wildtypepattern node bindingtyp exacttyp
+call resolvebind compil
+concret enclos pointcut call remapadviceform
+author erik hilsdal
+author jim hugunin
+type pattern typepattern pattern node patternnod
+fuzzi boolean fuzzyboolean match resolv type resolvedtyp type match kind matchkind kind
+fuzzi boolean fuzzyboolean type match typematch
+part gracefulli handl miss refer
+type miss ismiss fuzzi boolean fuzzyboolean
+kind static
+typematch fuzzyboolean fromboolean matchesstat type
+return typematch annotationpattern match type
+fuzzi boolean fuzzyboolean boolean fromboolean match static matchesstat type
+kind dynam
+system err println match type
+typematch matchesinstanceof type
+system err println ret
+return typematch annotationpattern match type
+match instanceof matchesinstanceof type
+illeg argument except illegalargumentexcept kind dynam static

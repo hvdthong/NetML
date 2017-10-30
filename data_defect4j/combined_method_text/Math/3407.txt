@@ -1,0 +1,8 @@
+abstract region independ geometri type dimens
+hyperplan subhyperplan intersect hyperplan subhyperplan
+recurs intersect recurseintersect tree
+inherit doc inheritdoc
+param type space
+abstract region abstractregion space space region
+version
+org apach common math geometri partit

@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+add aspectof hasaspect annot defin aspect
+author href mailto alex gnilux dot alexandr vasseur
+bcel claus aspect adder bcelperclauseaspectadd bcel type munger bceltypemung
+match resolv type resolvedtyp type ontyp
+return ontyp equal aspecttyp
+eagerli creat nest ajcmighhaveaspect interfac ltw
+return aspecttyp equal ontyp

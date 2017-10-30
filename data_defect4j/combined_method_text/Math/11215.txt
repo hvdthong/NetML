@@ -1,0 +1,9 @@
+dimens
+param rng random number gener
+param number dimens
+version
+base multivari probabl distribut
+abstract multivari real distribut abstractmultivariaterealdistribut
+org apach common math3 distribut
+abstract multivari real distribut abstractmultivariaterealdistribut random gener randomgener rng
+random rng

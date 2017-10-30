@@ -1,0 +1,59 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+method static
+extra argument target
+argsonstack target
+argsonfram share target
+rewrit arrai mung
+lazi method gen lazymethodgen creat method gen createmethodgen string method newmethodnam visibl modifi visibilitymodifi
+type paramet type parametertyp bcel world bcelworld make bcel type makebceltyp arg type getargtyp
+modifi modifi final visibl modifi visibilitymodifi
+xxx bug
+isexpressionkind getsignatur isstrict world
+modifi modifi strict
+modifi modifi static
+target var targetvar target var targetvar var thisvar
+unresolv type unresolvedtyp target type targettyp target type gettargettyp
+target type targettyp ensur target type correct ensuretargettypeiscorrect target type targettyp
+pr109728 fix case declar class sometyp 'x' getfield
+bytecod refer subtyp 'x' make type origin
+mention fieldget instruct method paramet type
+field declar instruct extract bodi
+refer subtyp
+kind getkind field fieldget actual target type getactualtargettyp
+actual target type getactualtargettyp equal target type targettyp getnam
+target type targettyp unresolv type unresolvedtyp fornam actual target type getactualtargettyp resolv world
+resolv member resolvedmemb resolv member resolvedmemb signatur getsignatur resolv world
+resolv member resolvedmemb modifi protect isprotect resolv member resolvedmemb modifi getmodifi
+packag samepackag target type targettyp packag getpackagenam enclos type getenclosingtyp packag getpackagenam
+resolv member resolvedmemb getnam equal clone
+target type targettyp resolv world assign isassignablefrom type getthistyp resolv world
+except bcexcept bad bytecod
+target type targettyp type getthistyp
+paramet type parametertyp add type addtyp bcel world bcelworld make bcel type makebceltyp target type targettyp paramet type parametertyp
+var thisvar
+unresolv type unresolvedtyp type thistyp type getthistyp
+paramet type parametertyp add type addtyp bcel world bcelworld make bcel type makebceltyp type thistyp paramet type parametertyp
+pass thisjoinpoint case woven
+advic singl piec advic
+join point unnecessari accept pass tjp
+join point var thisjoinpointvar
+paramet type parametertyp add type end addtypetoend lazi class gen lazyclassgen tjp type tjptype paramet type parametertyp
+fixm alex
+parametertyp addtypetoend lazyclassgen proceedingtjptyp parametertyp
+unresolv type unresolvedtyp return type returntyp
+kind getkind pre initi preiniti
+return type returntyp unresolv type unresolvedtyp objectarrai
+kind getkind constructor call constructorcal return type returntyp signatur getsignatur declar type getdeclaringtyp
+kind getkind field set fieldset return type returntyp resolv type resolvedtyp void
+return type returntyp signatur getsignatur return type getreturntyp resolv world
+returntyp getreturntyp line pr137496
+lazi method gen lazymethodgen
+modifi
+bcel world bcelworld make bcel type makebceltyp return type returntyp
+method newmethodnam
+paramet type parametertyp
+string
+xxx method
+unresolvedtyp getnam getsignatur getexcept world
+enclos class getenclosingclass

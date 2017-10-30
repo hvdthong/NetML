@@ -1,0 +1,18 @@
+org apach lucen index
+segment term doc segmenttermdoc term doc termdoc
+optim implement
+skip skipto target except ioexcept
+skip interv skipinterv skipinterv optim case
+skip list reader skiplistread
+skip list reader skiplistread default skip list reader defaultskiplistread index input indexinput freq stream freqstream clone max skip level maxskiplevel skip interv skipinterv skiplistread defaultskiplistread indexinput freqstream clone maxskiplevel skipinterv lazili clone
+skip haveskip haveskip lazili initi skip stream
+skip list reader skiplistread init skip pointer skippoint freq base pointer freqbasepoint prox base pointer proxbasepoint current field store payload currentfieldstorespayload
+skip haveskip
+count newcount skip list reader skiplistread skip skipto target
+count newcount count
+freq stream freqstream seek skip list reader skiplistread freq pointer getfreqpoint
+skip prox skipprox skip list reader skiplistread prox pointer getproxpoint skip list reader skiplistread payload length getpayloadlength
+doc skip list reader skiplistread doc getdoc
+count count newcount
+skip scan
+target doc

@@ -1,0 +1,12 @@
+org aspectj tool ant taskdef
+ant task aspectj compil ajc
+list lst file pass includ
+task develop href http aspectj org aspectj project
+author href mailto palm parc xerox jeffrei palm
+org aspectj tool ant taskdef compil ajccompil
+ajc2 javac
+set workingdir
+param workingdir workingdir
+ajc2 workingdir
+set workingdir setworkingdir file workingdir
+workingdir workingdir

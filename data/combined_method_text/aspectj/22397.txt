@@ -1,0 +1,10 @@
+org aspectj weaver pattern
+pattern parser patternpars
+check legal checklegalnam string token itoken tok
+char charat
+charact java identifi start isjavaidentifierstart
+parser except parserexcept illeg identifi start tok
+len length len
+char charat
+charact java identifi part isjavaidentifierpart
+parser except parserexcept illeg identifi charact tok

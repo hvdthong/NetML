@@ -1,0 +1,7 @@
+org aspectj apach bcel gener annot
+simpl element gen simpleelementvaluegen element gen elementvaluegen
+int getvalueint
+type primit int primit int
+runtim except runtimeexcept dont call getvaluestr string elementvalu
+constant integ constantinteg constant integ constantinteg gen cpgen constant getconst idx
+byte getbyt

@@ -1,0 +1,7 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+set synchron pointcut setsynchronizationpointcutsinus
+trace trace enabl istraceen trace enter setsynchronizationpointcutsinus
+synchron pointcut synchronizationpointcutsinus
+trace trace enabl istraceen trace exit setsynchronizationpointcutsinus

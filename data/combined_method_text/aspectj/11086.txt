@@ -1,0 +1,34 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener method generatemethod class file classfil class file classfil method bind methodbind method bind methodbind list addit attribut additionalattribut bodi gener bodygener gen privat void generatemethod classfil classfil methodbind methodbind list additionalattribut resolvedmemb realmemb bodygener gen
+eclipsefactori world eclipsefactori fromscopelookupenviron scope
+class file classfil gener method info header generatemethodinfohead method bind methodbind
+method attribut offset methodattributeoffset class file classfil content offset contentsoffset
+attribut number attributenumb
+addit attribut additionalattribut additionalattribut null mini optim
+list attr arrai list arraylist
+attr add addal ast util astutil synthet attribut getajsyntheticattribut
+attr add addal addit attribut additionalattribut
+attribut number attributenumb class file classfil gener method info attribut generatemethodinfoattribut method bind methodbind attr
+attribut number attributenumb class file classfil gener method info attribut generatemethodinfoattribut method bind methodbind ast util astutil synthet attribut getajsyntheticattribut
+code attribut offset codeattributeoffset class file classfil content offset contentsoffset
+class file classfil gener code attribut header generatecodeattributehead
+code stream codestream code stream codestream class file classfil code stream codestream
+reset init
+xxx scope reset happi initializerscop work
+codestream init classfil
+codestream initializemaxloc methodbind
+method declar methoddeclar ast util astutil make method declar makemethoddeclar method bind methodbind
+scope initi scope initializerscop
+code stream codestream reset class file classfil
+bodi start
+gen gener code stream codestream
+bodi end
+code stream codestream sourc map size pctosourcemaps code stream codestream record posit recordpositionsfrom
+code stream codestream gener attribut generateattribut class file constant classfileconst attr var attr var boolean codestream generateattribut classfileconst attr var true fals pr148693
+code stream codestream max local maxloc
+code stream codestream gener attribut generateattribut class file constant classfileconst attr var attr var
+class file classfil complet code attribut completecodeattribut code attribut offset codeattributeoffset
+code stream codestream gener attribut generateattribut class file constant classfileconst attr var attr var
+attribut number attributenumb
+class file classfil complet method info completemethodinfo method attribut offset methodattributeoffset attribut number attributenumb

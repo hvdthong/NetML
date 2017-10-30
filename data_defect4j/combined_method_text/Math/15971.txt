@@ -1,0 +1,16 @@
+sum differ sumdiffer sample1 sample2 sample1 length
+stat util statutil method comput statist base data
+pair differ
+data except nodataexcept sampl arrai empti
+version
+dimens mismatch except dimensionmismatchexcept arrai
+posit length
+return sign differ element
+stat util statutil
+store arrai
+input arrai sum sample1 sample2 sample1 length
+org apach common math3 stat
+param sample1 arrai
+dimens mismatch except dimensionmismatchexcept data except nodataexcept
+param sample2 arrai
+differ meandiffer sample1 sample2

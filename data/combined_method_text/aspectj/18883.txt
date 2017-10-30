@@ -1,0 +1,15 @@
+org aspectj weaver
+int map intmap
+string string tostr
+string buffer stringbuff buf string buffer stringbuff
+seenfirst
+len map length len
+map miss
+seenfirst
+buf append
+seenfirst
+buf append
+buf append
+buf append map
+buf append
+buf string tostr

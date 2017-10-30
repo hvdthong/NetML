@@ -1,0 +1,16 @@
+org aspectj apach bcel classfil
+class repres collect local variabl
+method attribut contain code attribut
+version localvariablet java aclement exp
+author href mailto marku dahm berlin dahm
+code
+localvari
+updat andi 14feb06 made unpack data lazi depend
+local variabl tabl localvariablet attribut
+call object travers node tree implicit
+defin content java class hierarchi method
+field attribut spawn tree object
+param visitor object
+accept visitor
+unpack
+visit local variabl tabl visitlocalvariablet

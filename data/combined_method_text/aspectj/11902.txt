@@ -1,0 +1,76 @@
+org aspectj ajdt intern core builder
+compil option eclips integr ajdt
+compil option ajcompileropt compil option compileropt
+set map option map optionsmap
+set option map optionsmap
+object option optionvalu
+option optionvalu option map optionsmap option report invalid absolut type option reportinvalidabsolutetypenam updat sever updatesever invalid absolut type invalidabsolutetypenam option optionvalu
+option optionvalu option map optionsmap option report invalid wildcard type option reportinvalidwildcardtypenam updat sever updatesever invalid wild card type invalidwildcardtypenam option optionvalu
+option optionvalu option map optionsmap option report unresolv member option reportunresolvablememb updat sever updatesever unresolv member unresolvablememb option optionvalu
+option optionvalu option map optionsmap option report type expos weaver option reporttypenotexposedtoweav updat sever updatesever type expos weaver typenotexposedtoweav option optionvalu
+option optionvalu option map optionsmap option report shadow structur option reportshadownotinstructur updat sever updatesever shadow structur shadownotinstructur option optionvalu
+option optionvalu option map optionsmap option report unmatch super type call option reportunmatchedsupertypeincal updat sever updatesever unmatch super type call unmatchedsupertypeincal option optionvalu
+option optionvalu option map optionsmap option report implement lazi tjp option reportcannotimplementlazytjp updat sever updatesever implement lazi tjp cannotimplementlazytjp option optionvalu
+option optionvalu option map optionsmap option report serial version uid field option reportneedserialversionuidfield updat sever updatesever serial version uid field needserialversionuidfield option optionvalu
+option optionvalu option map optionsmap option report incompat serial version option reportincompatibleserialvers updat sever updatesever incompat serial version incompatibleserialvers option optionvalu
+option optionvalu option map optionsmap compil option compileropt option report swallow except catch block option reportswallowedexceptionincatchblock updat sever updatesever compil option compileropt swallow except catch block swallowedexceptionincatchblock option optionvalu
+option optionvalu option map optionsmap option termin compil option terminateaftercompil
+enabl equal option optionvalu
+termin compil terminateaftercompil
+disabl equal option optionvalu
+termin compil terminateaftercompil
+option optionvalu option map optionsmap option serializ aspect option xserializableaspect
+enabl equal option optionvalu
+serializ aspect xserializableaspect
+disabl equal option optionvalu
+serializ aspect xserializableaspect
+option optionvalu option map optionsmap option lazi join point option xlazythisjoinpoint
+enabl equal option optionvalu
+lazi join point xlazythisjoinpoint
+disabl equal option optionvalu
+lazi join point xlazythisjoinpoint
+option optionvalu option map optionsmap option inlin option xnoinlin
+enabl equal option optionvalu
+inlin xnoinlin
+disabl equal option optionvalu
+inlin xnoinlin
+option optionvalu option map optionsmap option reweav option xnotreweav
+enabl equal option optionvalu
+reweav xnotreweav
+disabl equal option optionvalu
+reweav xnotreweav
+optionvalu optionsmap option xreweavablecompress null
+enabl equal optionvalu
+xreweavablecompress true
+disabl equal optionvalu
+xreweavablecompress fals
+option optionvalu option map optionsmap option member option xhasmemb
+enabl equal option optionvalu
+member xhasmemb
+disabl equal option optionvalu
+member xhasmemb
+option optionvalu option map optionsmap option xdev pinpoint option xdevpinpoint
+enabl equal option optionvalu
+xdev pinpoint xdevpinpoint
+disabl equal option optionvalu
+xdev pinpoint xdevpinpoint
+option optionvalu option map optionsmap option gener model option generatemodel
+enabl equal option optionvalu
+gener model generatemodel
+disabl equal option optionvalu
+gener model generatemodel
+option optionvalu option map optionsmap option gener java doc model option generatejavadocsinmodel
+enabl equal option optionvalu
+gener java doc model generatejavadocsinmodel
+disabl equal option optionvalu
+gener java doc model generatejavadocsinmodel
+option optionvalu option map optionsmap option emacssym option emacssym
+enabl equal option optionvalu
+gener emac sym file generateemacssymfil
+disabl equal option optionvalu
+gener emac sym file generateemacssymfil
+option optionvalu option map optionsmap option dev aspect process option xdevnoataspectjprocess
+enabl equal option optionvalu
+aspect process noataspectjprocess
+disabl equal option optionvalu
+aspect process noataspectjprocess

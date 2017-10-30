@@ -1,0 +1,5 @@
+org aspectj weaver loadtim
+author href mailto alex gnilux dot alexandr vasseur
+class loader weav adaptor classloaderweavingadaptor weav adaptor weavingadaptor
+string class loader getclassloadernam class loader classload loader
+weav context weavingcontext class loader getclassloadernam

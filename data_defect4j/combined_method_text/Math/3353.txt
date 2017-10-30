@@ -1,0 +1,12 @@
+simpl constructor
+vector2 vector2d
+version
+repres vector
+param abscissa
+vector2 vector2d vector euclidean2 euclidean2d
+build vector coordin
+instanc guarante immut
+getx
+geti
+org apach common math geometri euclidean twod
+param ordin

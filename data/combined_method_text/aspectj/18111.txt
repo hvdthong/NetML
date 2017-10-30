@@ -1,0 +1,11 @@
+org aspectj util
+file util fileutil
+return content stream string
+string read string readasstr input stream inputstream except ioexcept
+buffer reader bufferedread buffer reader bufferedread input stream reader inputstreamread
+string buffer stringbuff string buffer stringbuff
+read
+append
+close
+close
+string tostr

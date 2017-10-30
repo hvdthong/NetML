@@ -1,0 +1,11 @@
+org apach lucen index
+filenam filter accept filenam extens creat lucen
+lucen intern
+index file filter indexfilenamefilt filenam filter filenamefilt
+index file filter indexfilenamefilt
+extens hash set hashset string
+string ext index file name indexfilenam index extens index extens
+extens add ext
+extens cf extensionsincf hash set hashset string
+string ext index file name indexfilenam index extens compound file index extens compound file
+extens cf extensionsincf add ext

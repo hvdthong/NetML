@@ -1,0 +1,7 @@
+org aspectj weaver
+shadow
+unresolv type unresolvedtyp return type getreturntyp
+kind constructor call constructorcal signatur getsignatur declar type getdeclaringtyp
+kind field set fieldset resolv type resolvedtyp void
+kind synchron lock synchronizationlock kind synchron unlock synchronizationunlock resolv type resolvedtyp void
+resolv signatur getresolvedsignatur gener return type getgenericreturntyp

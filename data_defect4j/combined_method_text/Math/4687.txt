@@ -1,0 +1,17 @@
+field data field getfield
+data build arrai buildarrai length length
+field vector impl fieldvectorimpl field element fieldel field vector fieldvector serializ
+link field vector fieldvector link field element fieldel arrai
+org apach common math linear
+param type field element
+vector element
+system arraycopi data length
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+param vector put back vector
+arrai index bound except arrayindexoutofboundsexcept
+construct vector append vector vector
+param vector put front vector
+field vector impl fieldvectorimpl
+system arraycopi data length length
+version revis date
+except illeg argument except illegalargumentexcept vector empti

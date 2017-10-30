@@ -1,0 +1,27 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+append numitem
+numitem label numitem
+prefix sink content
+append label appendnlabel string buffer stringbuff sink string label num item numitem
+num item numitem
+sink length
+sink append
+sink append num item numitem
+lang util langutil empti isempti label
+sink append label
+num item numitem
+sink append

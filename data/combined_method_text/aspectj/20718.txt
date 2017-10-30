@@ -1,0 +1,73 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+mung bcel class weaver bcelclassweav weaver
+context token contexttoken tok compil weav context compilationandweavingcontext enter phase enteringphas compil weav context compilationandweavingcontext mung mung
+chang
+worth report worthreport
+munger kind getkind resolv type munger resolvedtypemung field
+chang mung field mungenewfield weaver field type munger newfieldtypemung munger
+munger kind getkind resolv type munger resolvedtypemung method
+chang mung method mungenewmethod weaver method type munger newmethodtypemung munger
+munger kind getkind resolv type munger resolvedtypemung method deleg methoddeleg
+chang mung method deleg mungemethoddeleg weaver method deleg type munger methoddelegatetypemung munger
+munger kind getkind resolv type munger resolvedtypemung field host fieldhost
+chang mung field host mungefieldhost weaver method deleg type munger methoddelegatetypemung field host type munger fieldhosttypemung munger
+munger kind getkind resolv type munger resolvedtypemung object interfac perobjectinterfac
+chang mung object interfac mungeperobjectinterfac weaver object interfac type munger perobjectinterfacetypemung munger
+worth report worthreport
+munger kind getkind resolv type munger resolvedtypemung type interfac pertypewithininterfac
+ptwimpl transform target type add aspect instanc field
+chang mung type transform mungepertypewithintransform weaver
+worth report worthreport
+munger kind getkind resolv type munger resolvedtypemung privileg access privilegedaccess
+chang mung privileg access mungeprivilegedaccess weaver privileg access munger privilegedaccessmung munger
+worth report worthreport
+munger kind getkind resolv type munger resolvedtypemung constructor
+chang mung constructor mungenewconstructor weaver constructor type munger newconstructortypemung munger
+munger kind getkind resolv type munger resolvedtypemung parent
+chang mung parent mungenewpar weaver parent type munger newparenttypemung munger
+munger kind getkind resolv type munger resolvedtypemung annot type annotationontyp
+chang mung annot type mungenewannotationontyp weaver annot type munger annotationontypemung munger
+worth report worthreport
+runtim except runtimeexcept unimpl
+chang munger public signatur changespublicsignatur
+weaver state info weaverstateinfo info
+weaver lazi class gen getlazyclassgen creat weaver state info getorcreateweaverstateinfo bcel class weaver bcelclassweav reweav mode getreweavablemod
+info add concret munger addconcretemung
+chang worth report worthreport
+munger kind getkind equal resolv type munger resolvedtypemung parent
+asm relationship provid asmrelationshipprovid default getdefault add relationship addrelationship weaver lazi class gen getlazyclassgen type gettyp munger aspect type getaspecttyp
+asm relationship provid asmrelationshipprovid default getdefault add relationship addrelationship weaver lazi class gen getlazyclassgen type gettyp munger aspect type getaspecttyp
+tag weavingmessag
+chang worth report worthreport munger weaver world getworld messag handler getmessagehandl ignor isignor messag imessag weaveinfo
+string tname weaver lazi class gen getlazyclassgen type gettyp sourc locat getsourceloc sourc file getsourcefil getnam
+tname index indexof debug info tname debug info
+tname shortnam getshortnam weaver lazi class gen getlazyclassgen type gettyp sourc locat getsourceloc sourc file getsourcefil path getpath
+string fname shortnam getshortnam aspect type getaspecttyp sourc locat getsourceloc sourc file getsourcefil path getpath
+munger kind getkind equal resolv type munger resolvedtypemung parent
+messag ajlookupenviron addpar parent
+mung compil time
+parent type munger newparenttypemung parent parenttm parent type munger newparenttypemung munger
+parent parenttm parent getnewpar interfac isinterfac
+weaver world getworld messag handler getmessagehandl handl messag handlemessag weav messag weavemessag construct weav messag constructweavingmessag weav messag weavemessag weavemessag declareparentsimpl weavemessag declareparentsimpl
+string weaver lazi class gen getlazyclassgen type gettyp getnam
+tname parent parenttm parent getnewpar getnam fname
+weaver lazi class gen getlazyclassgen class getclassnam aspect type getaspecttyp getnam
+weaver world getworld messag handler getmessagehandl handl messag handlemessag
+weav messag weavemessag construct weav messag constructweavingmessag weav messag weavemessag weavemessag declareparentsextend weavemessag declareparentsextend
+string weaver lazi class gen getlazyclassgen type gettyp getnam
+tname parent parenttm parent getnewpar getnam fname
+tag weavingmessag declar parent extend
+reportdeclareparentsmessag weavemessag weavemessag declareparentsextend sourcetyp parent
+munger kind getkind equal resolv type munger resolvedtypemung field host fieldhost
+hidden
+resolv member resolvedmemb declar sig declaredsig munger signatur getsignatur
+declaredsig null declaredsig munger getsignatur
+weaver world getworld messag handler getmessagehandl handl messag handlemessag weav messag weavemessag construct weav messag constructweavingmessag weav messag weavemessag weavemessag itd weavemessag itd
+string weaver lazi class gen getlazyclassgen type gettyp getnam
+tname munger kind getkind string tostr lower case tolowercas
+aspect type getaspecttyp getnam
+fname declar sig declaredsig
+weaver lazi class gen getlazyclassgen class getclassnam aspect type getaspecttyp getnam
+compil weav context compilationandweavingcontext leav phase leavingphas tok
+chang

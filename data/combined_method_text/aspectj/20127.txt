@@ -1,0 +1,15 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+conveneni method creat issu messag messag handler
+suppli locat messag
+show messag showmessag
+kind kind
+string messag
+sourc locat isourceloc loc1
+sourc locat isourceloc loc2
+loc1
+messag handler messagehandl handl messag handlemessag messag messag kind loc1
+loc2
+messag handler messagehandl handl messag handlemessag messag messag kind loc2
+messag handler messagehandl handl messag handlemessag messag messag kind loc2

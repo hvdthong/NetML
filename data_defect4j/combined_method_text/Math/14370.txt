@@ -1,0 +1,25 @@
+case user integr problem specif equat
+org apach common math3 od
+user add equat primari set link
+param primari arrai current primari state vector
+param secondari arrai current secondari state vector
+except max count exceed except maxcountexceededexcept number function evalu exceed
+param primari dot primarydot arrai deriv primari state vector
+param secondari dot secondarydot placehold arrai put deriv secondari state vector
+version
+expand state od expandablestatefulod add secondari equat addsecondaryequ secondari equat secondaryequ
+method
+primari set differenti equat optim control
+comput deriv relat secondari state paramet
+link
+except dimens mismatch except dimensionmismatchexcept arrai dimens match equat set
+adjoin paramet link minim hamiltonian integr
+order differenti equat firstorderdifferentialequ order differenti equat
+secondari secondari dot secondarydot
+comput deriv computederiv primari primari dot primarydot
+set differenti equat
+max count exceed except maxcountexceededexcept dimens mismatch except dimensionmismatchexcept
+user add secondari differenti equat primari
+secondari equat secondaryequ
+param current independ time variabl
+expand state od expandablestatefulod

@@ -1,0 +1,30 @@
+org aspectj weaver
+abstract method field introduct chop
+handl inter type declar thing
+eclips side serial concretetypemung
+resolv type munger resolvedtypemung
+sourc locat isourceloc read sourc locat readsourceloc version data input stream versioneddatainputstream except ioexcept
+locat persist type munger ad ship
+major version getmajorvers attribut ajattribut weaver version info weaverversioninfo weaver version major aj150 weaver version major aj150
+sourc locat sourceloc ret
+object input stream objectinputstream oi
+logic cope locat miss attribut eofexcept
+occur line ignor
+oi object input stream objectinputstream
+boolean valid locat validloc boolean oi read object readobject
+valid locat validloc boolean booleanvalu
+file file oi read object readobject
+integ integ oi read object readobject
+integ offset integ oi read object readobject
+ret sourc locat sourceloc int intvalu
+ret set offset setoffset offset int intvalu
+eof except eofexcept eof
+return null except occur process 'old style' file
+type munger attribut includ sourc locat
+except ioexcept ioe
+wrong 'old style' file doesnt attach locat munger
+thought eofexcept
+ioe print stack trace printstacktrac
+class found except classnotfoundexcept
+oi oi close
+ret

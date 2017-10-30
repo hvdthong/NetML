@@ -1,0 +1,26 @@
+org aspectj apach bcel gener
+class repres except handler specifi region
+handler activ instruct actual handl
+pool paramet oppos jvm specif end handl
+region set inclus instruct start end
+protect includ start end instruct handl
+end region automat map exclus call
+getcodeexcept differ semant
+version codeexceptiongen java aclement exp
+author href mailto marku dahm berlin dahm
+methodgen
+codeexcept
+instructionhandl
+code except gen codeexceptiongen
+add except handler region handler activ
+instruct actual handl
+param start start handl region inclus
+param end end handl region inclus
+param handler handl
+param catch type except handl null
+code except gen codeexceptiongen instruct handl instructionhandl start instruct handl instructionhandl end
+instruct handl instructionhandl handler object type objecttyp catch type
+set start setstartpc start
+set end setendpc end
+set handler sethandlerpc handler
+catch type catch type

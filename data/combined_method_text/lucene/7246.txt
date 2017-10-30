@@ -1,0 +1,44 @@
+overrid
+fieldnam fieldnam fieldnam fieldnam fieldnam fieldnam fieldnam fieldnam fieldnam fieldnam
+set set set set set set set set set set set set set set set set
+fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt fieldopt
+instanti instanti
+getfieldset
+sync
+storepayload
+fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset fieldset
+payload payload payload
+string string string
+index index index index index index index index index index index index index index index index index index index index index index
+getfieldnam
+apach
+field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field field
+add add add add add add add add add add
+storepositionwithtermvector storepositionwithtermvector storepositionwithtermvector storepositionwithtermvector
+reader reader reader reader reader reader reader reader reader reader reader reader
+indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread indexread
+store store store store store store store store store store store store store store store store
+complet
+hash
+option option option option option option option option option option option option option option option option option option option option option option
+hashset
+time
+storeoffsetwithtermvector storeoffsetwithtermvector storeoffsetwithtermvector storeoffsetwithtermvector
+offset offset offset offset offset offset offset offset
+org
+valu
+term term term term term term term term term term term
+unindex
+name
+storetermvector storetermvector storetermvector
+termvector termvector termvector termvector termvector termvector termvector termvector termvector termvector termvector
+immut
+instantiatedindexread instantiatedindexread
+instantiatedindex
+vector vector vector vector vector vector vector vector vector vector vector
+lucen
+collect
+posit posit posit posit posit posit posit posit
+commit
+snapshot
+latest

@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+invokestat invok class static method
+pre stack arg1 arg2 pre
+version invokestat java aclement exp
+author href mailto marku dahm berlin dahm
+invokestat invok instruct invokeinstruct
+invokestat index
+constant invokestat index

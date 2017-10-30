@@ -1,0 +1,11 @@
+org aspectj ajdt intern compil lookup
+eclips sourc locat eclipsesourceloc sourc locat isourceloc
+string context getcontext
+context
+compil unit icompilationunit compil unit compilationunit result compil unit compilationunit
+problem iproblem problem result problem
+compil unit compilationunit problem
+problem length problem length problem
+context context context
+context eclips adapt util eclipseadapterutil make locat context makelocationcontext compil unit compilationunit problem
+context context context context

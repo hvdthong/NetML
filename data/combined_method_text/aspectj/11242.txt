@@ -1,0 +1,92 @@
+org aspectj ajdt intern compil ast
+inter type field declar
+returntyp encod type field
+selector encod
+statement null resolut fill initi
+author jim hugunin
+inter type field declar intertypefielddeclar inter type declar intertypedeclar
+resolv class scope classscop upper scope upperscop
+munger ignor investig ignorefurtherinvestig
+ignor investig ignorefurtherinvestig
+eclips factori eclipsefactori world eclips factori eclipsefactori scope lookup environ fromscopelookupenviron upper scope upperscop
+resolv member resolvedmemb sig munger signatur getsignatur
+unresolv type unresolvedtyp aspect type aspecttyp world bind frombind upper scope upperscop refer context referencecontext bind
+sig return type getreturntyp resolv type resolvedtyp void
+sig return type getreturntyp arrai isarrai sig return type getreturntyp compon type getcomponenttyp resolv type resolvedtyp void
+upper scope upperscop problem report problemreport signal error signalerror sourc start sourcestart sourc end sourceend
+field type void
+system err println sig sig
+system err println field world makefieldbind
+ajcmembermak interfieldclassfield sig aspecttyp
+initi initi arrai initi arrayiniti
+system err println initi initi
+arrai alloc express arrayallocationexpress aae arrai alloc express arrayallocationexpress
+aae initi arrai initi arrayiniti initi
+arrai bind arraybind arrai type arraytyp arrai bind arraybind world make type bind maketypebind sig return type getreturntyp
+aae type ast util astutil make type refer maketyperefer arrai type arraytyp leaf compon type leafcomponenttyp
+aae sourc start sourcestart initi sourc start sourcestart
+aae sourc end sourceend initi sourc end sourceend
+aae dimens express arrai type arraytyp dimens
+initi aae
+initi null
+methodscop initializationscop scope
+typebind fieldtyp realfieldtyp
+typebind initializationtyp
+initi setexpectedtyp fieldtyp need case gener method invoc
+initi instanceof arrayiniti
+initializationtyp initi resolvetypeexpect initializationscop fieldtyp null
+arrayiniti initi bind arraybind initializationtyp
+initi computeconvers initializationscop fieldtyp initializationtyp
+system err println initi
+system err println sasuag initi resolvedtyp
+initializationtyp initi resolvetyp initializationscop
+system err println scope initializationscop
+initializationtyp initi resolvetyp initializationscop null
+fieldtyp initializationtyp call computeconvers typemismatcherror
+initializationscop compilationunitscop recordtypeconvers fieldtyp initializationtyp
+initi isconstantvalueoftypeassignabletotyp initializationtyp fieldtyp
+fieldtyp isbasetyp basetypebind iswiden fieldtyp initializationtyp
+initializationtyp iscompatiblewith fieldtyp
+initi computeconvers initializationscop fieldtyp initializationtyp
+initializationtyp needsuncheckedconvers fieldtyp
+initializationscop problemreport unsafetypeconvers initi initializationtyp fieldtyp
+initializationscop isboxingcompatiblewith initializationtyp fieldtyp
+initializationtyp isbasetyp narrow box
+initializationscop compileropt sourcelevel jdk1 autobox
+fieldtyp isbasetyp
+initi isconstantvalueoftypeassignabletotyp initializationtyp initializationscop environ computeboxingtyp fieldtyp
+initi computeconvers initializationscop fieldtyp initializationtyp
+initializationscop problemreport typemismatcherror initializationtyp fieldtyp
+bind isfin cast constant actual type variabl type
+bind setconst initi constant castto bind returntyp initi constant typeid
+bind setconst notaconst
+initi
+statement statement
+return statement returnstat
+type bind ontypebind interfac isinterfac
+method bind methodbind write method writemethod world make method bind makemethodbind
+ajc member maker ajcmembermak inter field set dispatch interfieldsetdispatch sig aspect type aspecttyp munger type variabl alias gettypevariablealias
+bodi intertyp field init gener call inter field set dispatch
+method cast shadow field set join point
+modifi static isstat declar modifi declaredmodifi
+statement statement
+messag send knownmessagesend write method writemethod
+ast util astutil make refer makenamerefer write method writemethod declar class declaringclass
+express initi
+statement statement
+messag send knownmessagesend write method writemethod
+ast util astutil make refer makenamerefer write method writemethod declar class declaringclass
+express ast util astutil make local variabl refer makelocalvariablerefer argument bind initi
+xxx broken logic write static interfac field
+method bind methodbind write method writemethod world make method bind makemethodbind
+ajc member maker ajcmembermak inter field interfac setter interfieldinterfacesett sig sig declar type getdeclaringtyp resolv world world getworld aspect type aspecttyp munger type variabl alias gettypevariablealias
+modifi static isstat declar modifi declaredmodifi
+statement statement
+messag send knownmessagesend write method writemethod
+ast util astutil make refer makenamerefer write method writemethod declar class declaringclass
+express initi
+statement statement
+messag send knownmessagesend write method writemethod
+ast util astutil make local variabl refer makelocalvariablerefer argument bind
+express initi
+resolv upper scope upperscop

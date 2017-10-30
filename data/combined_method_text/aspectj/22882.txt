@@ -1,0 +1,23 @@
+org aspectj weaver pattern
+author colyer
+repres type variabl declar part type declar paramet declar
+type paramet specif
+genericmethod
+static extend foo staticgenericmethod
+foo extend bar amp igoo
+type variabl pattern typevariablepattern pattern node patternnod
+equal object obj
+obj type variabl pattern typevariablepattern
+type variabl pattern typevariablepattern type variabl pattern typevariablepattern obj
+equal
+upper bound upperbound equal upper bound upperbound
+lower bound lowerbound
+lower bound lowerbound
+lower bound lowerbound equal lower bound lowerbound
+lower bound lowerbound
+interfac bound interfacebound
+interfac bound interfacebound
+interfac bound interfacebound length interfac bound interfacebound length
+interfac bound interfacebound length
+interfac bound interfacebound equal interfac bound interfacebound
+interfac bound interfacebound

@@ -1,0 +1,181 @@
+ldc ldc ldc
+bastor
+impdep1
+impdep2
+code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code
+aload aload aload aload aload
+lookupswitch
+fsub
+ddiv
+lxor
+ldiv
+writer
+except
+bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod bytecod
+iushr
+fadd
+opcodecount opcodecount
+aastor
+d2l
+ladd
+return return
+icmpn icmpn
+dup2 dup2 dup2 dup2 dup2
+dstore dstore dstore dstore dstore
+dneg
+lconst lconst
+classfil
+imul
+pop2
+arraylength
+lsub
+lastor
+nop
+astor astor astor astor astor
+newarrai
+instanceof
+isub
+dload dload dload dload dload
+fstore fstore fstore fstore fstore
+aconst aconst
+iinc
+bad
+ifg
+roger
+ifl
+ifn
+d2f
+ixor
+l2d
+fastor
+l2i
+invokestat
+lstore lstore lstore lstore lstore
+aaload
+illegalargumentexcept
+operand operand
+opcodelength
+faload
+athrow
+ishr
+invokeinterfac
+ret
+fdiv
+ishl
+method method method
+dreturn
+goto goto goto
+frem
+caload
+iaload
+monitorexit
+drem
+fcmpl
+org
+byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte byte
+fcmpg
+saload
+fconst fconst fconst
+dastor
+f2i
+count count
+lushr
+dcmpg
+logic
+dcmpl
+tableswitch
+lrem
+ldc2 ldc2
+iand
+sipush
+checkcast
+lawrenc
+pop
+lshl
+fmul
+lshr
+instruct
+dconst dconst
+invokevirtu
+opcod opcod opcod opcod opcod opcod
+fload fload fload fload fload
+size
+ifgt
+icmplt icmplt
+java java
+creat
+l2f
+ineg
+class class
+lor
+dup dup dup dup dup
+swap
+daload
+areturn
+mozilla
+acmpn acmpn
+classfilewrit classfilewrit classfilewrit
+illeg
+laload
+icmpeq icmpeq
+case case
+wide wide wide wide
+ifnonnul
+bipush
+provid
+f2d
+fneg
+ifnul
+iconst iconst iconst iconst iconst iconst iconst iconst
+lcmp
+lmul
+iastor
+iflt
+getfield
+dmul
+argument
+anewarrai
+file file
+lneg
+f2l
+iadd
+ifeq
+castor
+baload
+author
+length
+idiv
+d2i
+field
+freturn
+icmpl icmpl
+dsub
+putstat
+invokespeci
+i2l
+iload iload iload iload iload
+icmpg icmpg
+monitorent
+acmpeq acmpeq
+i2
+null null
+ior
+lload lload lload lload lload
+irem
+jsr jsr jsr
+breakpoint
+icmpgt icmpgt
+getstat
+land
+ireturn
+putfield
+dadd
+multianewarrai
+write write
+sastor
+istor istor istor istor istor
+lreturn
+i2b
+i2c
+i2d
+i2f

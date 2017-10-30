@@ -1,0 +1,27 @@
+org aspectj intern tool ant taskdef
+copi inlin stylesheet copyandinlinestylesheet task
+execut build except buildexcept
+todir
+build except buildexcept set 'todir' attribut
+file
+build except buildexcept set 'file' attribut
+log copi html file todir absolut path getabsolutepath
+file file tofil file todir file getnam
+mkdir mkdir mkdir project creat task createtask mkdir
+mkdir set dir setdir todir
+mkdir execut
+buffer reader bufferedread buffer reader bufferedread file reader fileread file
+print stream printstream print stream printstream file output stream fileoutputstream file tofil
+outer
+string line read line readlin
+line
+style sheet isstylesheet line
+style sheet dostylesheet line file
+string line2 read line readlin
+line2 outer
+println line2
+println line
+close
+close
+except ioexcept
+build except buildexcept messag getmessag

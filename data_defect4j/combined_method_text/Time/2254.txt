@@ -1,0 +1,20 @@
+author stephen colebourn
+basic chronolog basicchronolog assembl chronolog assembledchronolog
+param month month
+year month dai milli getyearmonthdaymilli year month dai month dayofmonth
+org joda time chrono
+milli total milli year month gettotalmillisbyyearmonth year month
+milli dai month dayofmonth date time constant datetimeconst milli dai
+author gui allard
+milli year milli getyearmilli year
+abstract implement calendar system typic
+renam base chronolog basegjchronolog
+author brian neill o'neil
+millisecond date
+basic chronolog basicchronolog thread safe immut subclass
+milli t00 01t00 00z
+util method requir subclass
+dai month year leap year leapyear model
+param dai month dayofmonth dai month
+param year year
+reflect intent defin

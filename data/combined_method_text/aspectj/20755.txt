@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+addorreplac
+add class file addclassfil unwoven class file unwovenclassfil class file classfil
+ad class addedclass add class file classfil
+null sourcejavaclass put classfil getclassnam classfil
+throw runtimeexcept classfil getclassnam
+world add sourc object type addsourceobjecttyp class file classfil java class getjavaclass

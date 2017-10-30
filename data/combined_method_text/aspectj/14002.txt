@@ -1,0 +1,12 @@
+org aspectj apach bcel gener
+ldc2 push long doubl constant pool
+pre stack item word1 item word2 pre
+version ldc2 java aclement exp
+author href mailto marku dahm berlin dahm
+ldc2 ldc2 instruct cpinstruct
+type type gettyp constant pool gen constantpoolgen cpg
+cpg constant pool getconstantpool constant getconst index tag gettag
+org aspectj apach bcel constant constant long constant long type long
+org aspectj apach bcel constant constant doubl constant doubl type doubl
+default reach
+runtim except runtimeexcept unknown constant type opcod

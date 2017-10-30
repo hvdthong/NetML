@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+refer pointcut referencepointcut pointcut
+refer pointcut referencepointcut type pattern typepattern type symbol ontypesymbol string type pattern list typepatternlist argument
+type symbol ontypesymbol type symbol ontypesymbol
+argument argument
+pointcut kind pointcutkind refer

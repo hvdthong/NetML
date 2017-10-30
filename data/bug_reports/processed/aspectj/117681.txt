@@ -1,0 +1,45 @@
+verifyerror annotations define inter type annotation
+sun jdk1
+audit java
+public interface audit
+public string getlastupdatedby
+public void setlastupdatedby string
+
+auditimpl java
+public class auditimpl implements audit
+private string lastupdatedby
+public string getlastupdatedby
+return lastupdatedby
+
+public void setlastupdatedby string
+lastupdatedby
+
+
+testaspect java
+import org aspectj lang annotation
+test java
+aspect
+public class testaspect
+declareparents test
+public static audit introduced auditimpl
+
+public class test
+public static void main string args
+test test
+audit audit
+setlastupdatedby username
+system println username getlastupdatedby
+
+
+files lst
+audit java
+auditimpl java
+testaspect java
+test java
+compiled command
+aspectj1 bin ajc classpath aspectj1 lib aspectjrt jar argfi
+files lst
+aspectj1 bin aj5 test
+exception thread main java lang verifyerror class test method setlastupdatedby signature ljava lang string incompatible argument function
+aspectj1 bin aj5 noverify test
+username

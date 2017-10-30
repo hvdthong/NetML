@@ -1,0 +1,15 @@
+org aspectj apach bcel gener
+invokespeci invok instanc method special handl superclass privat
+instanc initi method invoc
+pre stack objectref arg1 arg2 pre
+version invokespeci java aclement exp
+author href mailto marku dahm berlin dahm
+invokespeci invok instruct invokeinstruct
+class except getexcept
+class class except constant exceptionconst exc field method resolut exc field method resolut length
+system arraycopi except constant exceptionconst exc field method resolut exc field method resolut
+except constant exceptionconst exc field method resolut exc field method resolut length
+except constant exceptionconst exc field method resolut exc field method resolut length except constant exceptionconst unsatisfi link error unsatisfi link error
+except constant exceptionconst exc field method resolut exc field method resolut length except constant exceptionconst abstract method error abstract method error
+except constant exceptionconst exc field method resolut exc field method resolut length except constant exceptionconst incompat class chang error incompat class chang error
+except constant exceptionconst exc field method resolut exc field method resolut length except constant exceptionconst null pointer except null pointer except

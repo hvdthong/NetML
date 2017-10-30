@@ -1,0 +1,18 @@
+org aspectj ajdt intern compil ast
+walk bodi advic
+make member access public member
+convert access method need ensur
+make simpler modular inlin bodi
+constructor handl requir access
+target type org eclips jdt intern compil ast allocationexpress
+requir fix issu
+author jim hugunin
+access inlin visitor accessforinlinevisitor ast visitor astvisitor
+method bind methodbind super access method getsuperaccessmethod method bind methodbind bind
+resolv member resolvedmemb world make resolv member makeresolvedmemb bind
+resolv member resolvedmemb super access member superaccessmemb ajc member maker ajcmembermak super access method superaccessmethod aspect inaspect type typex
+aspect inaspect super access inlin superaccessforinlin kei containskei super access member superaccessmemb
+super access method pair superaccessmethodpair aspect inaspect super access inlin superaccessforinlin super access member superaccessmemb access method accessmethod
+method bind methodbind ret world make method bind makemethodbind super access member superaccessmemb
+aspect inaspect super access inlin superaccessforinlin put super access member superaccessmemb super access method pair superaccessmethodpair ret
+ret

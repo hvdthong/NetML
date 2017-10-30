@@ -1,0 +1,4 @@
+contrib/highlighter/src/java/org/apache/lucene/search/vectorhighlight/BaseFragmentsBuilder_getFragmentSource-StringBuilder-int[]-String[]-int-int_String
+contrib/highlighter/src/java/org/apache/lucene/search/vectorhighlight/BaseFragmentsBuilder_getFragmentSource-StringBuilder-int[]-Field[]-int-int_String
+src/java/org/apache/lucene/index/DocInverterPerField_processFields-Fieldable[]-int_void
+src/test/org/apache/lucene/analysis/MockAnalyzer_reusableTokenStream-String-Reader_TokenStream

@@ -1,0 +1,11 @@
+order integr firstorderintegr euler integr neweulerintegr step
+creat fix stepsiz link order integr firstorderintegr
+fix step integr
+euler integr eulerintegr step
+version revis date mer nov
+factori buid link euler integr eulerintegr euler integr
+provid implement function gener
+param step fix stepsiz
+integr
+org apach common math od
+order integr factori impl firstorderintegratorfactoryimpl

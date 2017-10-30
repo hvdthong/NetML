@@ -1,0 +1,9 @@
+scale durat field durationfield unit milli larger
+org joda time field
+wrap field getwrappedfield getvalu durat instant scalar iscalar
+getvalu durat instant
+magnitud
+scale durat field scaleddurationfield thread safe immut
+scale durat field scaleddurationfield decor durat field decorateddurationfield
+author brian neill o'neil
+precis durat field precisedurationfield

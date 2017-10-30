@@ -1,0 +1,27 @@
+org aspectj apach bcel util
+convert method field html file
+version methodhtml java aclement exp
+author href mailto marku dahm berlin dahm
+method html methodhtml org aspectj apach bcel constant
+print field class
+param field field print
+except java ioexcept
+write field writefield field field except ioexcept
+string type util signatur string signaturetostr field signatur getsignatur
+string field getnam
+string access util access string accesstostr field access flag getaccessflag
+attribut attribut
+access util replac access nbsp
+file print font color ff0000 access font
+class2 html class2html refer type referencetyp type field
+attribut field attribut getattribut
+write attribut html file anchor
+attribut length
+attribut html write attribut writeattribut attribut
+attribut length
+attribut tag gettag attr constant attr constant attribut gettag attr constant default
+string str constant constantvalu attribut string tostr
+refer attribut attribut html
+file print href class attribut html
+target attribut str
+file println

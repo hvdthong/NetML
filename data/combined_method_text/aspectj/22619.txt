@@ -1,0 +1,15 @@
+org aspectj weaver pattern
+author colyer
+perform term rewrit pointcut express
+pointcut rewrit pointcutrewrit
+helper function determin dnfness record cross point allow or
+dnf helper isdnfhelp pointcut or canstillhaveor
+isand
+pointcut andpointcut pointcut andpointcut
+dnf helper isdnfhelp left getleft dnf helper isdnfhelp getright
+isor
+or canstillhaveor
+pointcut orpointcut pointcut orpointcut
+dnf helper isdnfhelp left getleft dnf helper isdnfhelp getright
+isnot
+dnf helper isdnfhelp pointcut notpointcut negat pointcut getnegatedpointcut or canstillhaveor

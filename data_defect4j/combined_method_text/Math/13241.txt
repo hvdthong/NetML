@@ -1,0 +1,15 @@
+field vector fieldvector vector getsubvector index
+link field vector fieldvector link field element fieldel arrai
+org apach common math3 linear
+param type field element
+inherit doc inheritdoc
+system arraycopi data index data
+rang except outofrangeexcept posit except notpositiveexcept
+arrai field vector arrayfieldvector field element fieldel field vector fieldvector serializ
+rang except outofrangeexcept index valid
+arrai field vector arrayfieldvector arrai field vector arrayfieldvector field
+posit except notpositiveexcept number element posit
+version
+check index checkindex index
+index bound except indexoutofboundsexcept
+posit except notpositiveexcept local format localizedformat number element posit

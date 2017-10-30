@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+util
+bcel var bcelvar push return arrai var pushandreturnarrayofvar
+resolv type resolvedtyp proce param type proceedparamtyp
+instruct list instructionlist
+instruct factori instructionfactori fact
+lazi method gen lazymethodgen enclos method enclosingmethod
+len proce param type proceedparamtyp length
+bcel var bcelvar ret bcel var bcelvar len
+len
+resolv type resolvedtyp type typex proce param type proceedparamtyp
+type type bcel world bcelworld make bcel type makebceltyp type typex
+local enclos method enclosingmethod alloc local allocateloc type
+append instruct factori instructionfactori creat store createstor type local
+ret bcel var bcelvar type typex local
+ret

@@ -1,0 +1,12 @@
+implement href http mathworld wolfram bisect html
+param rel accuraci relativeaccuraci rel accuraci
+bisect algorithm find zero univari real function
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+bisect solver bisectionsolv rel accuraci relativeaccuraci
+bisect solver bisectionsolv abstract univari real solver abstractunivariaterealsolv
+function continu necessarili smooth
+absolut accuraci absoluteaccuraci
+version revis date
+param absolut accuraci absoluteaccuraci absolut accuraci
+construct solver
+org apach common math analysi solver

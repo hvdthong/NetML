@@ -1,0 +1,9 @@
+org aspectj ajd core
+interfac configur requir
+compil perform build
+compil configur icompilerconfigur
+return set aspect jar file compil
+return null empti set disabl option set member
+type java file
+aspectpath
+set aspect path getaspectpath public set java file getaspectpath

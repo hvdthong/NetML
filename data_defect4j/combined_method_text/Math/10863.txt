@@ -1,0 +1,16 @@
+org apach common math3 analysi solver
+version
+inherit doc inheritdoc
+deprec replac link newton raphson solver newtonraphsonsolv
+solv dosolv
+absolut accuraci absoluteaccuraci absolut accuraci getabsoluteaccuraci
+comput object computeobjectivevalu comput deriv object computederivativeobjectivevalu
+overrid
+implement href http mathworld wolfram newton method newtonsmethod html
+fast math fastmath ab absolut accuraci absoluteaccuraci
+newton' method find zero real univari function
+start startvalu start getstartvalu
+newton solver newtonsolv abstract differenti univari solver abstractdifferentiableunivariatesolv
+function continu necessarili smooth
+evalu except toomanyevaluationsexcept
+start startvalu

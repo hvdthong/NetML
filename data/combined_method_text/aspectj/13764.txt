@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+invokevirtu invok instanc method dispatch base class
+pre stack objectref arg1 arg2 pre
+version invokevirtu java aclement exp
+author href mailto marku dahm berlin dahm
+invokevirtu invok instruct invokeinstruct
+empti constructor need class newinst statement
+instruct readinstruct
+invokevirtu

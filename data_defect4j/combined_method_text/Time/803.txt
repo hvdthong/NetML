@@ -1,0 +1,53 @@
+author stephen colebourn
+problem readabl partial readableparti defin
+set
+chronolog set intern utc time zone
+code month year getmonthofyear code
+object partial instanc field type
+partial local date locald
+calcul local date locald perform link chronolog
+method focu kei field
+field type match
+add subtract
+param partial object check
+method accept instanc readabl partial readableparti input
+indic order
+local date locald immut datetim repres date
+exist extend abstract partial abstractparti
+local date locald
+compar compareto readabl partial readableparti partial
+chronolog ichronolog equal chronolog ichronolog
+maximum minimum valu
+null pointer except nullpointerexcept partial
+techniqu access method
+compar partial return integ
+field
+note implement violat compar contract
+date field fact queri
+field compar order largest smallest
+text
+partial
+local milli ilocalmilli local milli ilocalmilli
+class cast except classcastexcept partial wrong
+time zone
+individu field queri wai
+compar compareto partial
+neg equal posit greater
+numer
+local date locald local date locald partial
+field equal determin result
+match partial
+year month year monthofyear dai month dayofmonth
+standard chronolog class suppli thread safe immut
+compar compareto method chang
+class cast except classcastexcept compar opposit direct
+local date locald differ date midnight datemidnight
+local date locald link readabl partial readableparti
+local date locald thread safe immut provid chronolog
+time zone repres singl instant time
+implement readabl partial readableparti
+overrid perform faster
+code month year monthofyear code
+calcul
+org joda time
+round

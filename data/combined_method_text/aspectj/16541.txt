@@ -1,0 +1,12 @@
+org aspectj lang
+wrapper check except match 'declar soft'
+soften check except join point
+form code declar soft typepattern pointcut code
+join point except thrown match
+typepattern wrap code softexcept code
+rethrown origin except
+code getwrappedthrow code
+code getcaus code
+soft except softexcept runtim except runtimeexcept
+print stack trace printstacktrac
+print stack trace printstacktrac system err

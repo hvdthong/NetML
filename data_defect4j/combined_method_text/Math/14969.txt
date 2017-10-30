@@ -1,0 +1,7 @@
+param checker converg checker
+org apach common math3 optim nonlinear vector
+multivari vector optim multivariatevectoroptim converg checker convergencecheck point vector pair pointvectorvaluepair checker
+checker
+version
+multivari vector optim multivariatevectoroptim
+base multivari vector function optim

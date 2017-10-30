@@ -1,0 +1,48 @@
+cbzip2inputstream cbzip2outputstream produce strange exceptions data
+create cbzip2outputstream immediately close
+arithmeticexception
+create cbzip2inputstream input
+nullpointerexception gzipinputstream throws eofexception makes
+sense
+
+import org apache tools bzip2
+import java
+public class antbug
+public static void main string args
+
+cbzip2inputstream
+cbzip2inputstream bytearrayinputstream byte
+close
+catch exception
+printstacktrace
+
+
+cbzip2outputstream
+cbzip2outputstream bytearrayoutputstream
+close
+catch exception
+printstacktrace
+
+
+
+produces
+java lang nullpointerexception
+org apache tools bzip2 cbzip2inputstream bsr
+cbzip2inputstream java
+org apache tools bzip2 cbzip2inputstream bsgetuchar
+cbzip2inputstream java
+org apache tools bzip2 cbzip2inputstream initblock
+cbzip2inputstream java
+org apache tools bzip2 cbzip2inputstream init
+cbzip2inputstream java
+antbug main antbug java
+java lang arithmeticexception
+org apache tools bzip2 cbzip2outputstream mainsort
+cbzip2outputstream java
+org apache tools bzip2 cbzip2outputstream doreversibletransformation
+cbzip2outputstream java
+org apache tools bzip2 cbzip2outputstream endblock
+cbzip2outputstream java
+org apache tools bzip2 cbzip2outputstream close
+cbzip2outputstream java
+antbug main antbug java

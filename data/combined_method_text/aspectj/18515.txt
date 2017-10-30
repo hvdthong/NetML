@@ -1,0 +1,13 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb post introduc constructor postintroducedconstructor
+unresolv type unresolvedtyp aspect type aspecttyp
+unresolv type unresolvedtyp target type targettyp
+unresolv type unresolvedtyp param type paramtyp
+resolv member impl resolvedmemberimpl
+member method
+aspect type aspecttyp
+public static final public static final
+resolv type resolvedtyp void
+mangler namemangl post introduc constructor postintroducedconstructor aspect type aspecttyp target type targettyp
+unresolv type unresolvedtyp insert target type targettyp param type paramtyp

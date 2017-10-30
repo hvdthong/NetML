@@ -1,0 +1,11 @@
+author stephen colebourn
+version
+str matcher strmatcher
+portion match
+trim matcher trimmatch
+construct instanc code trim matcher trimmatch code
+org apach common lang text
+suffic subclass implement matcher
+matcher queri determin charact arrai
+complet constant factori method
+complet factori method

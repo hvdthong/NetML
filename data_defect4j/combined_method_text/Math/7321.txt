@@ -1,0 +1,141 @@
+function valu coordin displac
+powell' bobyqa algorithm implement translat
+interpol point interpolationpoint set entri setentri
+num eval numev
+fbeg
+argument npt rhobeg iprint maxfun
+link cmae optim cmaesoptim succe bobyqa
+npt number interpol point numberofinterpolationpoint
+matrix zmatrix set entri setentri ipt nfxm recip
+upper differ upperdiffer entri getentri nfxm
+gopt gradient quadrat model xopt xbase
+tmp interpol point interpolationpoint entri getentri nfm ipt interpol point interpolationpoint entri getentri nfm jpt
+bmat zmat iter maintain valu
+initi quadrat model
+kopt vector chang prelim
+subroutin prelim set element xbase xpt fval gopt
+object objectivevalu comput object computeobjectivevalu current currentbest arrai toarrai
+ndim matrix bmatrix row dimens getrowdimens
+set bobyqa
+matrix bmatrix set entri setentri nfm nfxm half interpol point interpolationpoint entri getentri nfm nfxm
+matrix zmatrix set entri setentri nfxm math sqrt stepa stepb
+stepb
+stepa
+initi interpol point xbase set xpt
+nfm
+interpol point interpolationpoint set entri setentri nfm nfxm stepa
+interpol point interpolationpoint set entri setentri nfm nfxm stepb
+index requir
+href http plato asu ftp softwar bobyqa zip
+matrix bmatrix set entri setentri nfm nfxm
+current currentbest set entri setentri lower bound lowerbound
+model deriv valu modelsecondderivativesvalu set entri setentri fbeg interpol point fatinterpolationpoint entri getentri ipt interpol point fatinterpolationpoint entri getentri jpt tmp
+path explor except pathisexploredexcept xxx
+model deriv paramet modelsecondderivativesparamet set entri setentri
+upper bound upperbound
+href http www optim onlin org html html
+recip rhosq
+stepa initi trust region radiu initialtrustregionradiu
+matrix bmatrix set entri setentri nfm nfmm step oneoverstepa
+step oneoverstepa stepa
+matrix zmatrix entri getentri nfxm matrix zmatrix entri getentri nfm nfxm
+evalu getevalu npt
+npt num eval numev
+model deriv valu modelsecondderivativesvalu set entri setentri tmp gradient trust region center gradientattrustregioncent entri getentri nfxm diff
+stepa interpol point interpolationpoint entri getentri nfx nfxm
+version
+kopt calcul
+matrix zmatrix set entri setentri nfm nfxm math sqrt half rhosq
+ipt jpt tmp1
+origin shift originshift entri getentri interpol point interpolationpoint entri getentri nfm
+xopt nonzero bobyqb chang usual
+current currentbest dimens getdimens
+nfmm nfm
+interpol point interpolationpoint set entri setentri nfm jpt interpol point interpolationpoint entri getentri jpt jpt
+paper introduct
+interpol point interpolationpoint entri getentri nfm lower differ lowerdiffer entri getentri
+tmp2 jpt
+matrix bmatrix set entri setentri
+model deriv valu modelsecondderivativesvalu set entri setentri
+interpol point switch
+set nonzero initi element bmat quadrat model
+ndim
+trust region center interpol point index trustregioncenterinterpolationpointindex nfm
+deriv base optim deriv approxim
+element xpt bmat zmat
+set xbase initi vector variabl set initi
+minim isminim object objectivevalu object objectivevalu
+matrix bmatrix set entri setentri npt nfmm nfmm half rhosq
+ipt
+matrix zmatrix set entri setentri jpt nfxm recip
+interpol point interpolationpoint set entri setentri nfm nfmm stepa
+interpol point interpolationpoint set entri setentri nfm ipt interpol point interpolationpoint entri getentri ipt ipt
+rhosq initi trust region radiu initialtrustregionradiu initi trust region radiu initialtrustregionradiu
+matrix zmatrix set entri setentri nfm nfxm
+ipt ipt jpt
+current currentbest set entri setentri upper bound upperbound
+stepa stepb
+stepa stepa
+argument bobyqb element
+set diagon deriv lagrang function
+argument subroutin bobyqa
+order function contribut
+lower differ lowerdiffer entri getentri nfxm
+origin shift originshift set entri setentri current currentbest entri getentri
+tmp1 nfm
+tmp fbeg stepb
+gradient trust region center gradientattrustregioncent set entri setentri nfmm fbeg stepa
+current currentbest set entri setentri math min math max lower bound lowerbound
+max max
+bobyqa optim bobyqaoptim
+diff stepb stepa
+matrix zmatrix set entri setentri
+adapt fortran version
+interpol point fatinterpolationpoint set entri setentri nfm interpol point fatinterpolationpoint entri getentri nfm
+finit differ
+stepb initi trust region radiu initialtrustregionradiu
+set prelim gradient quadrat model xbase
+maintan number call calfun
+ipt tmp2
+matrix zmatrix set entri setentri nfm nfxm recip
+param lower bound lowerbound lower bound
+bobyqa suit high dimension problem
+point xpt kopt xbase space variabl
+matrix bmatrix set entri setentri nfmm step oneoverstepa
+calcul function
+interpol point fatinterpolationpoint entri getentri trust region center interpol point index trustregioncenterinterpolationpointindex
+case exce posit
+print method printmethod xxx
+nfx nfx
+link powel optim powelloptim significantli stochast algorithm
+nfx nfm
+fbeg doubl nan
+jpt
+interpol point fatinterpolationpoint set entri setentri nfm
+matrix bmatrix entri getentri nfxm matrix bmatrix entri getentri nfm nfxm
+argument xbase xpt fval bmat zmat ndim
+matrix zmatrix set entri setentri nfxm recip
+jpt nfm tmp1
+matrix zmatrix set entri setentri nfm nfxm math sqrt half recip xxx test acklei testacklei test diff pow testdiffpow fail
+expens bobyqa consid replac
+prelim lower bound lowerbound
+nfxm nfx
+param upper bound upperbound upper bound
+prelim
+nfm evalu getevalu
+gradient trust region center gradientattrustregioncent set entri setentri nfxm gradient trust region center gradientattrustregioncent entri getentri nfxm stepb tmp stepa diff
+stepb math min initi trust region radiu initialtrustregionradiu upper differ upperdiffer entri getentri nfxm
+upper differ upperdiffer entri getentri nfmm
+diagon deriv term initi quadrat model
+matrix bmatrix set entri setentri nfxm stepa stepb stepa stepb
+max npt max
+deriv case outperform
+interpol point fatinterpolationpoint entri getentri nfm
+npt
+jpt ipt
+stepb math max initi trust region radiu initialtrustregionradiu lower differ lowerdiffer entri getentri nfxm
+trust region center interpol point index trustregioncenterinterpolationpointindex
+org apach common math optim direct
+interpol point interpolationpoint entri getentri nfm upper differ upperdiffer entri getentri
+num eval numev evalu getevalu nfm
+begin initi procedur number

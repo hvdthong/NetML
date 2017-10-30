@@ -1,0 +1,48 @@
+Assignments to a property that has a getter but not a setter should throw a TypeError
+Norris Boyd has pointed in a mail exchange that currently SM silently ignores the assignments to a property that has a getter but no setter. This should be considered a bug as ES 3.1 draft requires to throw TypeError.
+
+From mail exchange:
+
+[From Norris Boyd]
+
+SpiderMonkey has the following behavior:
+
+js> var o = { get p() { return "a"; } };
+js>  o.p = "b";
+b
+js> o.p
+a
+
+Yet gets an error below:
+
+js> o = { get p() { return "a"; } };
+[object Object]
+js> o.p
+a
+js> T = function () {}
+function () {
+}
+js> T.prototype = o
+[object Object]
+js> y = new T()
+[object Object]
+js> y.p
+a
+js> o.p
+a
+js> y.p = "b"
+typein:8: TypeError: setting a property that has only a getter
+
+The error makes more sense to me than the ignored/shadowed assignment in the first example. Is there a bug here? I'm trying to get Rhino to do the right thing, but it's not clear what that is in this case :-)
+
+[From Brendan Eich]
+
+Best to check the latest ES3.1 draft:
+
+http://wiki.ecmascript.org/doku.php?id=es3.1:es3.1_proposal_working_draft
+
+You'll have to plow thru a lot of LongWindedMetaMethod names and control flow...
+
+[From Norris Boyd]
+
+Thanks. It looks like the answer is that assignments to a property that has a getter but not a setter should throw a TypeError. I'll implement that in Rhino for the next release.

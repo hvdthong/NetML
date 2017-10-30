@@ -1,0 +1,6 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ResolvedType$Array_Array-String-World-ResolvedType_<init>
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ResolvedType_makeArray-ResolvedType-int_ResolvedType
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ReferenceType_isAssignableFrom-ResolvedType-boolean_boolean
+org.aspectj/modules/weaver/src/org/aspectj/weaver/World_resolveToReferenceType-UnresolvedType_ResolvedType
+org.aspectj/modules/weaver/src/org/aspectj/weaver/World_resolve-UnresolvedType-boolean_ResolvedType
+org.aspectj/modules/weaver/src/org/aspectj/weaver/TypeFactory_createTypeFromSignature-String_UnresolvedType

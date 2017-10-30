@@ -1,0 +1,24 @@
+author stephen colebourn
+iso chronolog isochronolog assembl chronolog assembledchronolog
+field centuri era centuryofera divid date time field divideddatetimefield
+field weekyear centuri weekyearofcenturi remaind date time field remainderdatetimefield
+centuri base year centuri determin
+author brian neill o'neil
+drop digit year ignor sign year centuri
+iso year era date time field isoyearoferadatetimefield instanc date time field type datetimefieldtyp centuri era centuryofera
+except centuri relat field iso chronolog isochronolog
+includ
+divid date time field divideddatetimefield field centuri era centuryofera date time field type datetimefieldtyp weekyear centuri weekyearofcenturi
+field centuri field centuri era centuryofera durat field getdurationfield
+iso chronolog isochronolog thread safe immut
+base getbas zone getzon date time zone datetimezon utc
+year digit
+org joda time chrono
+divid date time field divideddatetimefield field centuri era centuryofera date time field type datetimefieldtyp year centuri yearofcenturi
+base centuri year centuri
+field year centuri yearofcenturi remaind date time field remainderdatetimefield
+iso defin field determin
+compat gregorian modern date
+implement chronolog rule iso8601 standard
+link gregorian chronolog gregorianchronolog chronolog centuri year
+assembl field field

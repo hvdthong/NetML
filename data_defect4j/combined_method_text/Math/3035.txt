@@ -1,0 +1,12 @@
+simpl constructor
+hyperplan simpl point orient
+region euclidean1 euclidean1d remain region remainingregion
+orient point suborientedpoint hyperplan euclidean1 euclidean1d hyperplan
+instanc guarante immut
+orient point suborientedpoint abstract hyperplan abstractsubhyperplan euclidean1 euclidean1d euclidean1 euclidean1d
+version
+repres hyperplan link orient point orientedpoint
+org apach common math geometri euclidean on
+param remain region remainingregion remain region hyperplan
+hyperplan remain region remainingregion
+param hyperplan underli hyperplan

@@ -1,0 +1,25 @@
+precondition
+link abstract scalar differenti optim abstractscalardifferentiableoptim default max iter
+converg check set link simpl vectori checker simplevectorialvaluecheck
+maxim number iter set
+simpl constructor set
+support fletcher reev polak ribi egrav
+linear conjug gradient optim nonlinearconjugategradientoptim
+link updat formula updateformula fletcher reev link
+param updat formula updateformula formula updat beta paramet
+linear conjug gradient optim nonlinearconjugategradientoptim conjug gradient formula conjugategradientformula updat formula updateformula
+org apach common math optim gener
+version revis date
+option precondit
+link abstract linear optim abstractlinearoptim default max evalu
+link conjug gradient formula conjugategradientformula fletcher reev link
+conjug gradient formula conjugategradientformula polak ribier
+maxim number evalu set
+initi step initialstep
+linear conjug gradient optim
+org apach common math optim simpl vectori checker simplevectorialvaluecheck
+solver
+updat formula updateformula updat formula updateformula
+converg check set link
+updat formula conjug search direct support
+updat formula updateformula polak ribier

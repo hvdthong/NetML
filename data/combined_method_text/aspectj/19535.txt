@@ -1,0 +1,4 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+sourc context isourcecontext sourc context getsourcecontext
+resolv compon type getresolvedcomponenttyp sourc context getsourcecontext

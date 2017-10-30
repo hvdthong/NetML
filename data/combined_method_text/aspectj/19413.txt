@@ -1,0 +1,15 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+string paramet sig erasur getparametersigerasur
+paramet signatur erasur myparametersignatureerasur paramet signatur erasur myparametersignatureerasur
+string buffer stringbuff sig string buffer stringbuff
+unresolv type unresolvedtyp paramet type myparametertyp paramet type getparametertyp
+paramet type myparametertyp length
+unresolv type unresolvedtyp paramet thisparamet paramet type myparametertyp
+paramet thisparamet type variabl refer istypevariablerefer
+sig append paramet thisparamet upper bound getupperbound signatur getsignatur
+sig append paramet thisparamet signatur getsignatur
+paramet signatur erasur myparametersignatureerasur sig string tostr
+paramet signatur erasur myparametersignatureerasur

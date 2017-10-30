@@ -1,0 +1,33 @@
+org apach lucen search
+queri match document sequenc term
+phrasequeri built querypars input code york code
+queri combin term queri link booleanqueri
+phrase queri phrasequeri queri
+overrid
+scorer scorer reader context readercontext context score doc order scoredocsinord top scorer topscor except ioexcept
+term size term size optim term case
+index reader indexread reader context reader
+post freq postingsandfreq post freq postingsfreq post freq postingsandfreq term size
+bit del doc deldoc reader delet doc getdeleteddoc
+term size
+term term
+doc posit enum docsandpositionsenum post enum postingsenum reader term posit enum termpositionsenum del doc deldoc
+field
+byte
+phrasequeri field index
+posit
+post enum postingsenum
+reader term doc enum termdocsenum del doc deldoc field byte
+term exist posit
+illeg state except illegalstateexcept field field index field omittermfreqandposit true run phrasequeri term text
+term exist
+post freq postingsfreq post freq postingsandfreq post enum postingsenum reader doc freq docfreq field byte posit int intvalu
+sort increas docfreq order
+slop
+arrai util arrayutil quick sort quicksort post freq postingsfreq
+slop slop optim exact case
+exact phrase scorer exactphrasescor exact phrase scorer exactphrasescor post freq postingsfreq similar
+reader norm field
+doc nodoc
+sloppi phrase scorer sloppyphrasescor post freq postingsfreq similar slop
+reader norm field

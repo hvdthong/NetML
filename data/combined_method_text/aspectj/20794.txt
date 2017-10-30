@@ -1,0 +1,25 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+pointcut share entri map shareentriesfrommap pointcut map map pcmap
+thing share
+bind pointcut namebindingpointcut
+pointcut ifpointcut
+concret cflow pointcut concretecflowpointcut
+pointcut andpointcut
+pointcut andpointcut apc pointcut andpointcut
+pointcut left share entri map shareentriesfrommap apc left getleft map pcmap
+pointcut share entri map shareentriesfrommap apc getright map pcmap
+pointcut andpointcut left
+pointcut orpointcut
+pointcut orpointcut opc pointcut orpointcut
+pointcut left share entri map shareentriesfrommap opc left getleft map pcmap
+pointcut share entri map shareentriesfrommap opc getright map pcmap
+pointcut orpointcut left
+pointcut notpointcut
+pointcut notpointcut npc pointcut notpointcut
+pointcut share entri map shareentriesfrommap npc negat pointcut getnegatedpointcut map pcmap
+pointcut notpointcut
+primit pcd
+map pcmap kei containskei pcmap containskei base equal
+pointcut map pcmap return pointcut pcmap instanc ident
+map pcmap put

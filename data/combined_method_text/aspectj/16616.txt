@@ -1,0 +1,38 @@
+org aspectj org eclips jdt core dom
+intern class convert intern compil ast public ast
+ast convert ajastconvert ast convert astconvert
+express convert org aspectj org eclips jdt intern compil ast field refer fieldrefer refer
+refer receiv super issup
+super field access superfieldaccess super field access superfieldaccess super field access superfieldaccess ast
+resolv bind resolvebind
+record node recordnod super field access superfieldaccess refer
+refer receiv org aspectj org eclips jdt intern compil ast qualifi super refer qualifiedsuperrefer
+qualifi convert org aspectj org eclips jdt intern compil ast qualifi super refer qualifiedsuperrefer refer receiv
+super field access superfieldaccess set qualifi setqualifi qualifi
+resolv bind resolvebind
+record node recordnod qualifi refer receiv
+simpl simplenam simpl simplenam simpl simplenam ast
+simpl simplenam intern set identifi internalsetidentifi string refer token
+sourc start sourcestart refer sourc posit namesourceposit
+length refer sourc posit namesourceposit sourc start sourcestart
+simpl simplenam set sourc rang setsourcerang sourc start sourcestart length
+super field access superfieldaccess set setnam simpl simplenam
+resolv bind resolvebind
+record node recordnod simpl simplenam refer
+super field access superfieldaccess set sourc rang setsourcerang refer receiv sourc start sourcestart refer sourc end sourceend refer receiv sourc start sourcestart
+super field access superfieldaccess
+field access fieldaccess field access fieldaccess field access fieldaccess ast
+resolv bind resolvebind
+record node recordnod field access fieldaccess refer
+express receiv convert refer receiv
+field access fieldaccess set express setexpress receiv
+simpl simplenam simpl simplenam simpl simplenam ast
+simpl simplenam intern set identifi internalsetidentifi string refer token
+sourc start sourcestart refer sourc posit namesourceposit
+length refer sourc posit namesourceposit sourc start sourcestart
+simpl simplenam set sourc rang setsourcerang sourc start sourcestart length
+field access fieldaccess set setnam simpl simplenam
+resolv bind resolvebind
+record node recordnod simpl simplenam refer
+field access fieldaccess set sourc rang setsourcerang receiv start posit getstartposit refer sourc end sourceend receiv start posit getstartposit
+field access fieldaccess

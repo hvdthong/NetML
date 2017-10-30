@@ -1,0 +1,6 @@
+src/main/org/apache/tools/ant/filters/LineContainsRegExp_chain-Reader_Reader
+src/main/org/apache/tools/ant/filters/LineContainsRegExp_initialize_void
+src/main/org/apache/tools/ant/filters/LineContainsRegExp_read_int
+src/main/org/apache/tools/ant/filters/LineContains_chain-Reader_Reader
+src/main/org/apache/tools/ant/filters/LineContains_initialize_void
+src/main/org/apache/tools/ant/filters/LineContains_read_int

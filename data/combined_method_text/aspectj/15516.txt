@@ -1,0 +1,13 @@
+org aspectj asm
+abstract structur model asm repres contain hierarchi crossccut
+structur map aspectj program id view document outlin
+tool ajdoc show aspectj declar crosscut link
+advic affect join point shadow
+author mik kersten
+asm manag asmmanag
+creat asm createnewasm
+hierarchi aspect element hierarchi aspectjelementhierarchi
+mapper relationship map relationshipmap hierarchi
+call initi handleprovid creat asm
+give handleprovid chanc reset state
+handl provid handleprovid initi

@@ -1,0 +1,27 @@
+org aspectj tool ant taskdef
+run aspectj compil
+support command line option
+ajc copi resourc input jar
+copi resourc sourc directori
+sourcerootcopyfilt
+fork thing copi need
+iter compil
+fork thing copi
+complet success compil
+develop environ guid
+usag document
+aspectj ant
+ajc task ajctask match task matchingtask
+setup custom messag handl
+param classnam string fulli qualifi class
+reachabl object' class loader
+implement imessagehold
+public argument constructor
+throw buildexcept unabl creat instanc classnam
+set messag holder class setmessageholderclass string class classnam
+class mclass class fornam class classnam
+messag holder imessagehold holder messag holder imessagehold mclass instanc newinst
+set messag holder setmessagehold holder
+throwabl
+string unabl instanti messag holder class classnam
+build except buildexcept

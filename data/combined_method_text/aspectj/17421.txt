@@ -1,0 +1,9 @@
+org aspectj runtim reflect
+join point impl joinpointimpl proceed join point proceedingjoinpoint
+string string tostr string maker stringmak
+string buffer stringbuff buf string buffer stringbuff
+buf append make kind makekindnam kind getkind
+buf append
+buf append signatur impl signatureimpl signatur getsignatur string tostr
+buf append
+buf string tostr

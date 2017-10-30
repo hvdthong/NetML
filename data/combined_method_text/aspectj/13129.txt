@@ -1,0 +1,18 @@
+org aspectj apach bcel gener
+abstract super class branch instruct goto ifeq
+branch instruct variabl length goto jsr
+lookupswitch tableswitch
+instructionlist
+version branchinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+branch instruct branchinstruct instruct instruct target instructiontarget
+param target branch target
+return offset target' rel instruct
+target offset gettargetoffset instruct handl instructionhandl target
+target
+class gen except classgenexcept target string tostr
+invalid null handl
+target posit getposit
+class gen except classgenexcept invalid branch target posit offset
+string tostr target
+posit

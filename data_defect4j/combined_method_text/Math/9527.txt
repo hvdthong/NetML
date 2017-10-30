@@ -1,0 +1,21 @@
+param pattern pattern thrown except
+long min
+code
+check neg overflow
+add integ check overflow
+check posit overflow
+math arithmet except matharithmeticexcept result repres
+link math
+ret
+version
+long max
+symmetri reduc boundari case
+math arithmet except matharithmeticexcept pattern
+ret add check addandcheck pattern
+arithmet util arithmeticutil
+add check addandcheck localiz pattern
+org apach common math util
+arithmet relat addit built function
+sum code
+opposit sign addit safe
+param addend

@@ -1,0 +1,6 @@
+org aspectj weaver
+shadow
+shadow shadow
+directli method
+enclos kind isenclosingkind
+bit enclos kind flag isenclosingkindflag

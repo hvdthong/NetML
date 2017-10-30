@@ -1,0 +1,9 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb cflow field percflowfield unresolv type unresolvedtyp declar type declaringtyp
+resolv member impl resolvedmemberimpl
+member field
+declar type declaringtyp
+public static final public static final
+mangler namemangl percflow field percflow field
+cflow stack type cflow stack type signatur getsignatur

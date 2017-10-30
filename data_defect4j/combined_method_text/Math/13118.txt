@@ -1,0 +1,15 @@
+overrid
+method implement link entri getentri access
+org apach common math3 linear
+walk optim order walkinoptimizedord default real matrix preserv visitor defaultrealmatrixpreservingvisitor
+matrix element deriv provid faster implement
+inherit doc inheritdoc
+version
+abstract real matrix abstractrealmatrix
+basic implement real matrix realmatrix method underli storag
+visit row column
+set entri setentri column row
+col ncol column dimens getcolumndimens
+real matrix realmatrix transpos
+row nrow row dimens getrowdimens
+real matrix realmatrix creat matrix creatematrix col ncol row nrow

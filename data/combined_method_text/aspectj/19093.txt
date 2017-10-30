@@ -1,0 +1,5 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+member pointcut unresolv type unresolvedtyp declar string string signatur
+object pair signatur type signaturetotyp signatur
+pointcut declar unresolv type unresolvedtyp pair unresolv type unresolvedtyp pair

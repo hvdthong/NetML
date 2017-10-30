@@ -1,0 +1,4 @@
+org aspectj weaver ast
+expr ast node astnod
+field fieldget make field makefieldget member field myfield resolv type resolvedtyp aspect inaspect
+field fieldget field myfield aspect inaspect

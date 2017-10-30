@@ -1,0 +1,26 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+string dumpthem map
+string buffer stringbuff string buffer stringbuff
+type othertyp
+bcel del bceldel
+ref del refdel
+iter iter entri set entryset iter iter hasnext
+map entri entri map entri iter
+object val entri getvalu
+val weak refer weakrefer
+val weak refer weakrefer val
+val soft refer softrefer
+val soft refer softrefer val
+append entri kei getkei val append
+val refer type referencetyp
+refer type referencetyp ref type reftyp refer type referencetyp val
+ref type reftyp deleg getdeleg bcel object type bcelobjecttyp
+bcel del bceldel
+ref type reftyp deleg getdeleg reflect base refer type deleg reflectionbasedreferencetypedeleg
+ref del refdel
+type othertyp
+type othertyp
+append bcel bcel del bceldel ref ref del refdel type othertyp
+string tostr

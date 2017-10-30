@@ -1,0 +1,11 @@
+version
+abstract univari real optim abstractunivariaterealoptim
+optim
+inherit doc inheritdoc
+org apach common math optim univari
+min max
+provid implement function gener
+univari real point pair univariaterealpointvaluepair optim max eval maxev
+optim max eval maxev goal type goaltyp min max min max min
+univari real function univariaterealfunct
+goal type goaltyp goal type goaltyp

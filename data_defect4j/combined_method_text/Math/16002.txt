@@ -1,0 +1,11 @@
+deprec remov
+org apach common math3 stat cluster
+distanc point
+distanc distancefrom
+param point comput distanc
+link org apach common math3 cluster cluster
+cluster
+version
+param type point cluster
+interfac point cluster
+return distanc point

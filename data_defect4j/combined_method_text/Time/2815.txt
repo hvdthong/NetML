@@ -1,0 +1,12 @@
+author stephen colebourn
+extract chronolog object convertor' type
+abstract convert abstractconvert convert
+param object object convert
+implement return chronolog
+date time util datetimeutil chronolog getchronolog chrono
+iso chronolog zone pass
+chronolog
+param chrono chronolog mean iso
+abstract convert abstractconvert simplifi process implement convert
+chronolog chronolog getchronolog object object chronolog chrono
+org joda time convert

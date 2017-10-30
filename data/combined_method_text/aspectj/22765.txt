@@ -1,0 +1,11 @@
+org aspectj weaver pattern
+author colyer
+todo chang templat gener type comment
+window prefer java code style code templat
+target annot pointcut thisortargetannotationpointcut bind pointcut namebindingpointcut
+pointcut read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+isthi read boolean readboolean
+annot type pattern annotationtypepattern type annot type pattern annotationtypepattern read context
+target annot pointcut thisortargetannotationpointcut ret target annot pointcut thisortargetannotationpointcut isthi exact annot type pattern exactannotationtypepattern type
+ret read locat readloc context
+ret

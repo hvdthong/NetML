@@ -1,0 +1,6 @@
+org apach lucen index
+lucen experiment
+format post term consum formatpostingstermsconsum
+add term field term end ffff
+char
+format post doc consum formatpostingsdocsconsum add term addterm text start except ioexcept

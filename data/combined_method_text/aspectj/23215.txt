@@ -1,0 +1,11 @@
+org aspectj weaver reflect
+author colyer
+implement shadowmatch reflect base world
+shadow match impl shadowmatchimpl shadow match shadowmatch
+visit instanceof
+reflect var reflectionvar reflect var reflectionvar var getvar
+object bind join point getbindingatjoinpoint object thisobject target object targetobject arg
+world world type gettyp world getworld
+resolv type resolvedtyp desir type desiredtyp type gettyp resolv world
+resolv type resolvedtyp actual type actualtyp world resolv class getclass getnam
+match desir type desiredtyp assign isassignablefrom actual type actualtyp

@@ -1,0 +1,23 @@
+org aspectj weaver pattern
+author colyer
+repres type variabl declar part type declar paramet declar
+type paramet specif
+genericmethod
+static extend foo staticgenericmethod
+foo extend bar amp igoo
+type variabl pattern typevariablepattern pattern node patternnod
+type variabl pattern typevariablepattern read version data input stream versioneddatainputstream sourc context isourcecontext context except ioexcept
+type variabl pattern typevariablepattern
+string read utf readutf
+type pattern typepattern upper bound upperbound type pattern typepattern read context
+type pattern typepattern addit interfac bound additionalinterfacebound
+num interfac bound numinterfacebound read int readint
+num interfac bound numinterfacebound
+addit interfac bound additionalinterfacebound type pattern typepattern num interfac bound numinterfacebound
+addit interfac bound additionalinterfacebound length
+addit interfac bound additionalinterfacebound type pattern typepattern read context
+lower bound haslowerbound read boolean readboolean
+type pattern typepattern lower bound lowerbound
+lower bound haslowerbound lower bound lowerbound type pattern typepattern read context
+type variabl pattern typevariablepattern upper bound upperbound addit interfac bound additionalinterfacebound lower bound lowerbound
+read locat readloc context

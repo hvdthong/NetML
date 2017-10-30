@@ -1,0 +1,8 @@
+org aspectj ajd core
+interfac handl messag compil
+implement defin messag log
+handler abort process
+build messag handler ibuildmessagehandl
+fine grain configur initi
+param kind
+dont ignor dontignor messag imessag kind kind

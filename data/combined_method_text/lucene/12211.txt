@@ -1,0 +1,101 @@
+org apach lucen index
+code indexwrit code creat maintain index
+code creat code argument link
+indexwrit directori indexwriterconfig constructor determin
+index creat exist index
+open note open index code creat true code
+reader index reader
+continu search point time snapshot open
+newli creat index open
+link indexwrit directori indexwriterconfig constructor
+code creat code argument creat index
+index provid path
+open exist index
+case document ad link adddocu document
+adddocu remov link deletedocu term link
+deletedocu queri document updat link
+updatedocu term document updatedocu delet
+add entir document finish ad delet
+updat document link close close call
+flush
+buffer memori period
+flush link directori method
+call flush trigger
+buffer delet link indexwriterconfig setmaxbuffereddeleteterm
+ad document flush whichev
+sooner ad document flush trigger
+ram usag document link
+indexwriterconfig setrambuffersizemb number ad document
+default flush ram usag hit
+index speed flush ram usag
+larg ram buffer note flush move
+intern buffer state indexwrit index
+visibl indexread
+link commit link close call flush
+trigger segment merg default
+run background thread block
+adddocu call href mergepolici
+chang link mergeschedul
+index document ad optim search
+perform desir full link optim optim
+method partial link optim int method
+call index close
+open code indexwrit code creat lock file directori open
+code indexwrit code directori lead
+link lockobtainfailedexcept link lockobtainfailedexcept
+thrown indexread directori delet document
+index
+deletionpolici
+expert code indexwrit code option
+link indexdeletionpolici implement
+control prior commit
+delet index default polici link
+keeponlylastcommitdeletionpolici remov prior
+commit commit match
+behavior creat polici
+explicitli previou point time commit
+aliv index time reader
+refresh commit commit
+delet
+filesystem nf support delet
+close semant lucen point time search
+reli
+mergepolici expert
+code indexwrit code separ chang
+link mergepolici link mergeschedul
+link mergepolici invok
+segment index role
+select merg return link
+mergepolici mergespecif describ merg
+select merg optim default
+link logbytesizemergepolici link
+mergeschedul invok request merg
+decid run merg default
+link concurrentmergeschedul
+oom note hit
+outofmemoryerror indexwrit quietli record
+fact block futur segment commit
+defens measur case intern state buffer
+document delet corrupt subsequ
+call link commit throw
+illegalstateexcept action
+call link close intern call link
+rollback undo index
+commit call link rollback
+directli
+thread safeti note link
+indexwrit instanc complet thread
+safe mean multipl thread call
+method concurr applic requir
+extern synchron
+synchron code indexwrit code instanc
+deadlock lucen object
+note call
+code thread interrupt code thread
+indexwrit indexwrit catch
+wait thread sleep throw
+uncheck except link threadinterruptedexcept
+clear interrupt statu thread
+index writer indexwrit closeabl
+collect index reader indexread reader finish listen readerfinishedlisten reader finish listen getreaderfinishedlisten except ioexcept
+reader finish listen readerfinishedlisten

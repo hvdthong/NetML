@@ -1,0 +1,26 @@
+org aspectj ajd swing
+browser structur view tool panel browserstructureviewtoolpanel panel jpanel
+action perform actionperform action event actionev
+sourc getsourc check box select menu button checkboxselectionmenubutton
+check box select menu button checkboxselectionmenubutton check menu checkmenu check box select menu button checkboxselectionmenubutton sourc getsourc
+access
+check menu checkmenu select isselect
+current view currentview view properti getviewproperti add filter member access addfilteredmemberaccess access
+current view currentview view properti getviewproperti remov filter member access removefilteredmemberaccess access
+kind
+check menu checkmenu select isselect
+current view currentview view properti getviewproperti add filter member kind addfilteredmemberkind kind
+current view currentview view properti getviewproperti remov filter member kind removefilteredmemberkind kind
+modifi
+check menu checkmenu select isselect
+current view currentview view properti getviewproperti add filter member modifi addfilteredmembermodifi modifi
+current view currentview view properti getviewproperti remov filter member modifi removefilteredmembermodifi modifi
+sort
+check menu checkmenu select isselect
+current view currentview view properti getviewproperti set sort setsort sort
+current view currentview view properti getviewproperti set sort setsort structur view properti structureviewproperti sort declar
+relat
+check menu checkmenu select isselect
+current view currentview view properti getviewproperti remov relat removerel relat
+current view currentview view properti getviewproperti add relat addrel relat
+ajd default getdefault structur view manag getstructureviewmanag refresh view refreshview current view currentview

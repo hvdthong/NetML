@@ -1,0 +1,17 @@
+deprec remov
+link org apach common math3 optim multivari differenti optim multivariatedifferentiableoptim
+common math user api advis base code
+converg checker convergencecheck pair converg checker getconvergencecheck
+object check converg
+base optim baseoptim pair
+link org apach common math3 optim univari univari optim univariateoptim
+link org apach common math3 optim multivari differenti vector optim multivariatedifferentiablevectoroptim
+org apach common math3 optim
+version
+interfac
+link org apach common math3 optim differenti multivari optim differentiablemultivariateoptim
+link org apach common math3 optim differenti multivari vector optim differentiablemultivariatevectoroptim
+converg checker
+param pair type point object pair
+intend enforc intern coher
+link org apach common math3 optim multivari optim multivariateoptim

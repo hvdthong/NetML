@@ -1,0 +1,10 @@
+org aspectj weaver
+ajc member maker ajcmembermak
+resolv member resolvedmemb super access method superaccessmethod unresolv type unresolvedtyp base type basetyp resolv member resolvedmemb method
+resolv member impl resolvedmemberimpl member method
+base type basetyp
+modifi public
+method return type getreturntyp
+mangler namemangl super dispatch method superdispatchmethod base type basetyp method getnam
+method paramet type getparametertyp
+method except getexcept

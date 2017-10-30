@@ -1,0 +1,17 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+string stringifi member stringifymemb resolv member resolvedmemb member
+string buffer stringbuff buf string buffer stringbuff
+buf append member return type getreturntyp getnam
+buf append
+buf append member getnam
+member kind getkind member field
+buf append
+unresolv type unresolvedtyp param member paramet type getparametertyp
+param length
+buf append param
+len param length len
+buf append
+buf append param getnam
+buf append
+buf string tostr

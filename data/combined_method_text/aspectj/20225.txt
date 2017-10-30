@@ -1,0 +1,24 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+formal bind formalbind extract bind extractbind attribut method struct ajattributemethodstruct struct string exclud formal excludeform
+unread debug info except unreadabledebuginfoexcept
+formal bind formalbind bind extract bind extractbind struct
+exclud index excludeindex
+bind length
+formal bind formalbind bind bind
+bind getnam equal exclud formal excludeform
+exclud index excludeindex
+bind formal bind formalbind implicit formal bind implicitformalbind
+bind type gettyp bind getnam bind index getindex
+bind
+excludeindex
+formalbind bindingsfilt formalbind bind length
+int
+int bind length
+excludeindex
+bindingsfilt formalbind bind gettyp bind getnam
+return bindingsfilt
+return bind

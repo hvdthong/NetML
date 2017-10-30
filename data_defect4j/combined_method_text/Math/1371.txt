@@ -1,0 +1,62 @@
+mant lsd lsb lsbthreshold lsbthreshold
+lsd
+cmaxdigit
+dfp field dfpfield flag underflow
+mant mant length
+dfp dec dfpdec dfp
+mant lsd
+inherit doc inheritdoc
+dfp field dfpfield flag inexact
+mant radix
+lsd mant length
+field getfield set ieee flag bit setieeeflagsbit dfp field dfpfield flag overflow
+overrid
+radix
+check except case rais signal
+increment
+round ceil
+dfp field dfpfield flag overflow
+discard lsb lsbthreshold round half odd
+overflow
+special
+org apach common math dfp
+discard mant discard bit
+exp min exp
+digit decim digit getdecimaldigit
+give outward appear decim number digit
+sign discard round floor
+discard round
+field getfield set ieee flag bit setieeeflagsbit dfp field dfpfield flag inexact
+lsb mant lsd
+lsd lsbshift
+discard mant lsd
+digit round
+version revis date
+sign discard round ceil
+msb
+round floor
+lsbshift
+gradual underflow
+cmaxdigit mant length
+lsbthreshold digit mant length
+inexact
+decim digit subclass arbitrari number
+round half
+field getfield round mode getroundingmod
+decim digit digit
+mant
+round half odd
+subclass link dfp hide radix artifact superclass
+lsb lsbthreshold
+discard lsb lsbthreshold round half
+field getfield set ieee flag bit setieeeflagsbit dfp field dfpfield flag underflow
+lsbthreshold
+exp max exp
+lsbthreshold msb
+discard lsb lsbthreshold
+discard point
+lsbshift cmaxdigit digit
+discard
+msb mant mant length
+round
+shift shiftright

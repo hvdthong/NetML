@@ -1,0 +1,28 @@
+<apply>: Filelist's behaving like filesets - Require files to be present in order to be included.
+Filelists are supposed to be list of files which may or maynot exist as apposed 
+to filesets which compose of files which must exist. When I pass a filelist to 
+a apply task it skips the files if they dont exist. The target definition is as 
+follows...
+
+<target name="test">
+	<apply dir="." executable="something.exe">
+		<arg value="param1"/>
+		<srcfile/>
+		<filelist id="test.me" dir="." files="test2.tst test1.tst"/>
+	</apply>
+</target>
+
+The problem seems to reside in this section of the code in 
+org.apache.tools.ant.taskdefs ...
+
+File f = new File(base, names[j]);
+if ((f.isFile() && !"dir".equals(type))
+    || (f.isDirectory() && !"file".equals(type))) {
+
+     if (f.isFile()) {
+        totalFiles++;
+     } else {
+         totalDirs++;
+     }
+     
+When I comment out this code the files are added as desired.

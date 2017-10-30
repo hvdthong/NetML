@@ -1,0 +1,42 @@
+org aspectj weaver bcel
+lazymethodgen treat methodgen abstract
+low level method object convert link methodgen creat
+serial
+rate wai creat lazymethodgen
+method
+work methodgen correct thing
+creation complet empti
+lazymethodgen construct code scratch
+stai target rangei thing shadow except
+lazi method gen lazymethodgen traceabl
+string short string toshortstr
+string access org aspectj apach bcel classfil util access string accesstostr access flag getaccessflag
+string buffer stringbuff buf string buffer stringbuff
+access equal
+buf append access
+buf append
+buf append
+org aspectj apach bcel classfil util signatur string signaturetostr
+return type getreturntyp signatur getsignatur
+buf append
+buf append getnam
+buf append
+len argument type argumenttyp length
+len
+buf append
+org aspectj apach bcel classfil util signatur string signaturetostr
+argument type argumenttyp signatur getsignatur
+argument type argumenttyp length
+buf append
+buf append
+org aspectj apach bcel classfil util signatur string signaturetostr
+argument type argumenttyp signatur getsignatur
+buf append
+len declar except declaredexcept declar except declaredexcept length
+len
+buf append throw
+buf append declar except declaredexcept
+declar except declaredexcept length
+buf append
+buf append declar except declaredexcept
+buf string tostr

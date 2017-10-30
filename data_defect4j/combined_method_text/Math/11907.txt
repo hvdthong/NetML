@@ -1,0 +1,18 @@
+org apach common math3 except converg except convergenceexcept
+polynomi fit simpl link curv fitter curvefitt curv fit
+fit max eval maxev guess
+link fit fit method
+increas order polynomial' degre
+param max eval maxev maximum number evalu polynomi
+param guess guess coeffici sort
+coeffici polynomi fit observ point
+org apach common math3 fit
+estim coeffici polynomi coeffici
+coeffici polynomi fit weight data point
+version polynomi fitter polynomialfitt java 14z
+fit max eval maxev polynomi function polynomialfunct parametr guess
+algorithm fail converg
+polynomi fitter polynomialfitt curv fitter curvefitt polynomi function polynomialfunct parametr
+number evalu exce code max eval maxev
+org apach common math3 except evalu except toomanyevaluationsexcept
+degre fit polynomi code guess length

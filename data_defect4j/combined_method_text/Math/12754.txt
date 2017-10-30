@@ -1,0 +1,8 @@
+repres region set polygon
+bind line consid vertex
+param line line bind vertex
+bind bindwith line line
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+line add line
+org apach common math3 geometri euclidean twod

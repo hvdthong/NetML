@@ -1,0 +1,17 @@
+org apach common math3 geometri partit
+abstract hyperplan abstractsubhyperplan reunit hyperplan subhyperplan
+hyperplan cut hyperplan closer tree root
+region factori regionfactori union remain region remainingregion remain region remainingregion
+dimens independ part link hyperplan subhyperplan
+inherit doc inheritdoc
+abstract hyperplan abstractsubhyperplan space space
+link bsp tree bsptree bsp tree intersect cut
+hyperplan hyperplan chop hyperplan
+intersect remain part convex region object
+hyperplan obtain part link
+version
+param type embed space
+suppress warn suppresswarn uncheck
+hyperplan convex region split chop
+build buildnew hyperplan
+abstract hyperplan abstractsubhyperplan abstract hyperplan abstractsubhyperplan

@@ -1,0 +1,8 @@
+org aspectj tool ant taskdef
+main taskdef class aspectj compil code ajc code
+readm exampl build xml inform
+ajc10 match task matchingtask
+set usejavac setusejavac input public void setusejavac boolean input ajc eajc docdon
+input
+ignor usejavac
+setif input usejavac

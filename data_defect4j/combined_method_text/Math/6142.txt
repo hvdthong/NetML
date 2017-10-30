@@ -1,0 +1,23 @@
+pre
+step interpol classic fourth
+theta belong
+order rung kutta integr
+step comput interpol equat consist
+interpol comput dens output insid
+org apach common math od
+classic rung kutta step interpol classicalrungekuttastepinterpol classic rung kutta step interpol classicalrungekuttastepinterpol interpol
+copi arrai separ origin arrai
+theta theta theta
+evalu deriv comput
+param interpol interpol copi copi deep
+theta
+classic rung kutta step interpol classicalrungekuttastepinterpol
+version revis date
+integr scheme
+copi constructor
+step
+theta theta
+instanc
+interpol
+classic rung kutta integr classicalrungekuttaintegr
+version classic rung kutta step interpol classicalrungekuttastepinterpol java 39z luc

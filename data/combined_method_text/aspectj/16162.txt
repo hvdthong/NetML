@@ -1,0 +1,14 @@
+org aspectj intern tool ant taskdef
+implement builder ant
+ant builder antbuild builder
+copi file option filter
+filter set project
+param fromfil readabl file sourc copi
+param tofil writabl file destin file
+param boolean filter true enabl filter
+org aspectj intern tool build builder copyfil file file boolean
+copi file copyfil file file fromfil file file tofil filter
+copi copi make copi task makecopytask filter
+copi set file setfil file fromfil
+copi set tofil settofil file tofil
+execut task executetask copi

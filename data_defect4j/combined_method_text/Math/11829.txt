@@ -1,0 +1,41 @@
+default implement link process model processmodel link kalman filter kalmanfilt
+control matrix
+control
+param initi state estim initialstateestim initi state estim vector
+param state transit statetransit state transit matrix
+initi error covari matrix
+initi state estim initialstateestim
+process nois processnois
+default process model defaultprocessmodel state transit statetransit
+creat link process model processmodel take arrai input
+link kalman filter kalmanfilt
+paramet
+null argument except nullargumentexcept data except nodataexcept dimens mismatch except dimensionmismatchexcept
+array2 row real matrix array2drowrealmatrix state transit statetransit
+input matric rectangular
+state transit matrix
+default implement link process model processmodel
+input arrai code
+param initi error covari initialerrorcovari
+version
+creat link process model processmodel take arrai input paramet
+dimens mismatch except dimensionmismatchexcept
+process nois matrix
+arrai real vector arrayrealvector initi state estim initialstateestim
+array2 row real matrix array2drowrealmatrix control
+array2 row real matrix array2drowrealmatrix initi error covari initialerrorcovari
+default process model defaultprocessmodel process model processmodel
+param control control matrix
+param process nois processnois
+org apach common math3 filter
+row column dimens input matric
+param control
+initi state estim vector
+param initi error covari initialerrorcovari initi error covari matrix
+array2 row real matrix array2drowrealmatrix process nois processnois
+param state transit statetransit
+initi error covari initialerrorcovari
+param initi state estim initialstateestim
+data except nodataexcept
+param process nois processnois process nois matrix
+null argument except nullargumentexcept

@@ -1,0 +1,10 @@
+org aspectj ajd javaopt
+option panel displai charact encod java
+compil option user add ajd getoptionsfram
+java option panel javaotheroptionspanel option panel optionspanel
+add border panel addborderstopanel
+parent panel parentpanel panel jpanel
+parent panel parentpanel set layout setlayout border layout borderlayout
+panel otherpanel panel jpanel
+panel otherpanel set border setbord compound border othercompoundbord
+parent panel parentpanel add panel otherpanel border layout borderlayout center

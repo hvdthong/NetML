@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+write zip entri writezipentri string byte except ioexcept
+zip entri zipentri entri newentri zip entri zipentri zipentri newentri zipentri compress scheme
+zip output stream zipoutputstream put entri putnextentri entri newentri
+zip output stream zipoutputstream write byte
+zip output stream zipoutputstream close entri closeentri

@@ -1,0 +1,25 @@
+pre
+distanc data point cluster center
+algorithm minim object function
+initi cluster center
+number cluster
+algorithm requir paramet
+membership matrix membershipmatrix random doubl nextdoubl
+version
+param type point cluster
+org apach common math3 cluster
+max iter maxiter maximum number iter
+initi membership matrix random valu
+fuzzi mean algorithm variat classic mean algorithm
+major differ singl data point uniqu assign singl cluster
+fuzzi variant mean algorithm robust regard select
+membership matrix membershipmatrix math arrai matharrai normal arrai normalizearrai membership matrix membershipmatrix
+point size
+initi membership matrix initializemembershipmatrix
+epsilon converg criteria
+addit option paramet
+fuzzi determin level cluster fuzzi larger valu lead fuzzier cluster
+cluster
+fuzzi mean cluster fuzzykmeanscluster cluster cluster
+point set weight degre membership
+fuzzi mean cluster algorithm

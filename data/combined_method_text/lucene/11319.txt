@@ -1,0 +1,25 @@
+org apach lucen index
+indexread read index multipl segment
+directori reader directoryread index reader indexread cloneabl
+constructor link reopen
+directori reader directoryread directori directori segment info segmentinfo info segment reader segmentread reader oldread start oldstart
+read readonli clone doclon term info index divisor terminfosindexdivisor codec provid codecprovid codec
+collect reader finish listen readerfinishedlisten reader finish listen readerfinishedlisten except ioexcept
+put segmentread map
+lookup reader segment
+creat map segmentnam segmentread
+rememb reader share open
+directoryread incref reader
+find segmentread segment
+segment segmentread reus
+reader segment reopen
+total segment clone
+reader case hit except close safe
+reader share
+incref
+subread
+close
+subread reader
+close decref
+clean
+initi reader calcul maxdoc reus normscach

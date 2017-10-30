@@ -1,0 +1,71 @@
+col ncol length
+code decompos ludecompos code recomput decomposit
+solut invers
+creat real matrix realmatrix input arrai underli
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept matrix row
+null pointer except nullpointerexcept code code
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept
+array2 row real matrix array2drowrealmatrix
+input arrai copi referenc constructor
+decomposit support linear system
+argument set code code
+copi copyin
+strong usag note strong
+implement real matrix realmatrix arrai store entri
+param copi arrai copyarrai input arrai copi
+data modifi refer underli arrai obtain
+dimens mismatch except dimensionmismatchexcept code rectangular
+creat code real matrix realmatrix input arrai underli
+org apach common math linear
+param data matrix
+illeg argument except illegalargumentexcept null pointer except nullpointerexcept
+array2 row real matrix array2drowrealmatrix row dimens rowdimens column dimens columndimens
+invers
+data except nodataexcept code row colum dimens
+data arrai
+version
+version revis date
+discard explicitli invok
+base code entri getentri code
+method
+null pointer except nullpointerexcept
+math runtim except mathruntimeexcept creat illeg argument except createillegalargumentexcept matrix column
+row dimens rowdimens column dimens columndimens
+store entri
+decomposit perform need support oper
+referenc
+row nrow length
+data row dimens rowdimens column dimens columndimens
+decomposit cach reus subsequ call
+row length empti
+perform arrai built data copi
+link real matrix realmatrix matrix element index
+array2 row real matrix array2drowrealmatrix abstract real matrix abstractrealmatrix serializ
+set code code prevent copi improv
+col ncol
+row length length
+solv
+argument set code
+null argument except nullargumentexcept code code
+data
+implement link real matrix realmatrix code arrai
+param column dimens columndimens number column matrix
+param row dimens rowdimens number row matrix
+effect call link array2 row real matrix array2drowrealmatrix
+determin getdetermin
+singular issingular
+code data ref getdataref code store decomposit
+length col ncol
+arrai built special order embed
+return element row column matrix
+real matrix realmatrix directli code copi arrai copyarrai code
+illeg argument except illegalargumentexcept code code rectangular
+href http www math gatech bourbaki math2601 web note 2num pdf
+illeg argument except illegalargumentexcept row column dimens
+dimens mismatch except dimensionmismatchexcept data except nodataexcept null argument except nullargumentexcept
+row nrow
+creat real matrix realmatrix suppli row column dimens
+posit
+array2 row real matrix array2drowrealmatrix copi arrai copyarrai
+copi arrai copyarrai
+illeg argument except illegalargumentexcept

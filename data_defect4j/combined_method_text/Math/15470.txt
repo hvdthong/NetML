@@ -1,0 +1,8 @@
+deprec remov
+solv linear problem phase simplex method
+version
+org apach common math3 optim linear
+default epsilon default ulp
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+build simplex solver set
+simplex solver simplexsolv

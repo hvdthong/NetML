@@ -1,0 +1,21 @@
+author stephen colebourn
+defin instant time queri modifi datetim field
+paramet method manipul chang date simpl wai
+set date time setdatetim
+author brian neill o'neil
+param month year monthofyear month year
+read writabl date time readwritabledatetim readabl date time readabledatetim read writabl instant readwritableinst
+param year year
+set date time field
+method applic defin code read writabl date time readwritabledatetim code
+param milli millisofsecond millisecond
+param hour dai hourofdai hour dai
+provid advanc method
+param minut hour minuteofhour minut hour
+year month year monthofyear dai month dayofmonth
+hour dai hourofdai minut hour minuteofhour minut secondofminut milli millisofsecond
+implement mutabl
+org joda time
+param minut secondofminut minut
+illeg argument except illegalargumentexcept invalid
+param dai month dayofmonth dai month

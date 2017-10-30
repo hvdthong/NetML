@@ -1,0 +1,94 @@
+org aspectj intern tool build
+templat class build eclips modul weakli product includ
+requir modul build modul assum
+modul base modul directori
+modul directori base workspac directori
+target modul jar modulenam jar
+modul directori code classpath code file
+line parseabl entri eclips xml convent
+code builder resourc pattern code identifi resourc copi
+output
+safe trim test relat code
+sourc directori name testsrc
+librari name junit jar
+requir modul name start test
+file code moduledir modulenam properti code properti
+file possibl entri defin requir merg
+output jar deprec mechan assembleal product
+control compil assembl process
+client harvest code moduledir bin code directori
+result eclips compil
+build product assum
+instal resourc directori peer product directori
+parent product directori
+dist jar product base modul directori set
+product distribut consist file
+dist directori product directori
+file dist directori empti end jar
+repres modul build name alias
+assembl distribut binari file
+filter
+product instal
+aspectj productnam version jar productnam base
+product directori
+run main string relev ant librari properti
+defin
+written compil standalon refactor util bridg
+builder
+build product discov modul build build
+assembl product distribut option creat instal
+return true success
+build product buildproduct build spec buildspec build spec buildspec
+build except buildexcept
+util iax null iaxifnul build spec buildspec buildspec
+build spec buildspec trim test trimtest
+build spec buildspec trim test trimtest
+handler log test trim build spec buildspec
+util iax read dir iaxifnotcanreaddir build spec buildspec product dir productdir productdir
+util iax read dir iaxifnotcanreaddir build spec buildspec base dir basedir basedir
+util iax write dir iaxifnotcanwritedir build spec buildspec dist dir distdir distdir
+discov modul build build
+modul modul modul build spec buildspec base dir basedir build spec buildspec jar dir jardir
+handler
+product modul productmodul product modul productmodul discov modul discovermodul build spec buildspec product dir productdir
+modul
+product modul productmodul length
+build spec buildspec verbos
+handler log build product modul product modul productmodul
+build product modul buildproductmodul product modul productmodul
+build spec buildspec verbos
+handler log assembl product modul build spec buildspec
+assembl product distribut
+string product productnam build spec buildspec product dir productdir getnam
+file targ dir targdir file build spec buildspec dist dir distdir product productnam
+string targ dir path targdirpath targ dir targdir path getpath
+targ dir targdir write canwrit
+util delet content deletecont targ dir targdir
+targ dir targdir write canwrit targ dir targdir mkdir
+build spec buildspec verbos
+handler log buildproduct unabl creat targ dir targdir
+copi binari filter
+file dist dir distdir file build spec buildspec product dir productdir dist
+copi binari copynonbinari build spec buildspec dist dir distdir targ dir targdir
+copi binari modul flag file
+string exclud
+string buffer stringbuff buf string buffer stringbuff
+product modul productmodul length
+buf length
+buf append
+buf append product modul productmodul rel path relativepath
+buf length
+exclud buf string tostr
+copi binari copybinari build spec buildspec dist dir distdir targ dir targdir exclud
+copi binari modul flag file
+product modul productmodul length
+product modul productmodul product product modul productmodul
+kind kind result kind result normal product assembl assembleal
+result result product modul result getresult kind
+string targ path targpath util path targ dir path targdirpath product rel path relativepath
+file jar file jarfil result output file getoutputfil
+copi file copyfil jar file jarfil file targ path targpath filter filter
+handler log creat product targ dir targdir
+creat instal
+build spec buildspec creat instal createinstal
+build instal buildinstal build spec buildspec targ dir path targdirpath

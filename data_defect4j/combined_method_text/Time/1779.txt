@@ -1,0 +1,35 @@
+author stephen colebourn
+code local date locald code remov restrict
+code month year getmonthofyear code
+year month dai yearmonthdai immut partial support year month year monthofyear
+text code month year monthofyear text getastext code
+year month dai yearmonthdai ad period month
+year month dai yearmonthdai ad month plusmonth
+calcul year month dai yearmonthdai perform link chronolog
+maximum minimum valu code month year monthofyear maximum getmaximumvalu code
+param month amount month add neg
+year month dai yearmonthdai month plusmonth month
+techniqu access method
+return copi date number month
+field
+text code month year monthofyear short text getasshorttext code
+note support field list
+numer code month year monthofyear code
+add subtract code month year monthofyear add copi addtocopi code
+individu field queri wai
+date instanc immut unaffect method call
+year month dai yearmonthdai thread safe immut provid chronolog
+deprec local date locald intern implement
+standard chronolog class suppli thread safe immut
+date increas month
+pre
+year month dai yearmonthdai ad field ad withfieldad durat field type durationfieldtyp month
+year month dai yearmonthdai
+line ident effect
+set code month year monthofyear set copi setcopi code
+queri dai week dayofweek centuri era centuryofera field
+code month year monthofyear code
+chronolog set utc time zone calcul
+field ad withfieldad durat field type durationfieldtyp month month
+org joda time
+dai month dayofmonth field

@@ -1,0 +1,10 @@
+org apach common math3 random
+rand rand
+random gener randomgener rand
+dimens dimens
+unit sphere random vector gener unitsphererandomvectorgener
+unit sphere random vector gener unitsphererandomvectorgener dimens
+version
+gener random vector isotrop locat surfac sphere
+param dimens space dimens
+param rand rng individu compon vector

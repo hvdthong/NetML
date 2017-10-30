@@ -1,0 +1,40 @@
+org aspectj tool ant taskdef
+adapt ajc javac command
+note srcdir set javac pass ajc
+list sourc file gener pass ajc
+javac prune sourc file list base timestamp
+class file wrong ajc
+requir file time work
+set global properti clean build compil clean delet
+class file destin directori compil
+warn
+clean work destin directori
+javac task
+rfe find kill class file sourc dir
+clean make stepwis build process fail
+depend result prior compil
+directori delet strong strong
+class file
+file date adapt call
+gain control clean destin dir
+author we isberg
+aspectj ant
+ajc11 compil adapt ajc11compileradapt compil adapt compileradapt
+destdir exist properti clean set
+clean dest dir class file
+return true signal recurs call
+return true destdir clean
+clean dir aftercleaningdir
+string clean javac project getproject properti getproperti clean
+clean
+file dest dir destdir javac destdir getdestdir
+dest dir destdir
+javac log
+clean dest dir clean
+project msg warn msg warn
+javac log
+clean clean class file dest dir destdir
+project msg verbos msg verbos
+file util fileutil delet content deletecont
+dest dir destdir
+file util fileutil dir writabl class dir writabl class

@@ -1,0 +1,27 @@
+org aspectj ajdt intern compil lookup
+overrid default eclips lookupenviron purpos
+provid addit phase code completetypebind code
+weav declar parent inter type declar correct time
+intercept load binari type ensur
+declar parent inter type declar woven
+author jim hugunin
+lookup environ ajlookupenviron lookup environ lookupenviron anonym class creation listen anonymousclasscreationlisten
+string stringifi target stringifytarget bit
+bit tag bit tagbit annot target mask annotationtargetmask
+set hash set hashset
+bit tag bit tagbit annot annot type annotationforannotationtyp add annot type
+bit tag bit tagbit annot constructor annotationforconstructor add constructor
+bit tag bit tagbit annot field annotationforfield add field
+bit tag bit tagbit annot local variabl annotationforlocalvari add local variabl
+bit tag bit tagbit annot method annotationformethod add method
+bit tag bit tagbit annot packag annotationforpackag add packag
+bit tag bit tagbit annot paramet annotationforparamet add paramet
+bit tag bit tagbit annot type annotationfortyp add type
+string buffer stringbuff string buffer stringbuff
+append
+iter iter iter iter hasnext
+string element string iter
+append element
+iter hasnext append
+append
+string tostr

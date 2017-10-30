@@ -1,0 +1,8 @@
+org aspectj weaver tool
+author colyer
+repres paramet pointcut express
+pointcut string pointcutparamet
+type string
+pointcut paramet pointcutparamet
+match join point paramet bind
+object bind getbind

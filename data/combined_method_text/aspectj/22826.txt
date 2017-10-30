@@ -1,0 +1,6 @@
+org aspectj weaver pattern
+type pattern list typepatternlist pattern node patternnod
+type pattern list typepatternlist resolv bind resolvebind scope iscop scope bind bind bind allowbind requir exact type requireexacttyp
+type pattern typepattern length
+type pattern typepattern type pattern typepattern
+type pattern typepattern type pattern typepattern resolv bind resolvebind scope bind bind allowbind requir exact type requireexacttyp

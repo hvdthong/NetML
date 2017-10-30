@@ -1,0 +1,40 @@
+org aspectj ajdt intern core builder
+iter code processcompilationunit code declar
+compil unit ad hierarchi pass paramet
+client extend class ensur overrid exist
+behavior structur model built properli tool id
+structur view ajdoc fail
+note class consid public api overrid
+method subject chang
+author mik kersten
+asm hierarchi builder asmhierarchybuild ast visitor astvisitor
+string gen sourc signatur gensourcesignatur field declar fielddeclar field declar fielddeclar
+string buffer stringbuff output string buffer stringbuff
+field declar fielddeclar type fielddeclar type null enum
+output append field declar fielddeclar output append fielddeclar put sourcesignatur
+output string tostr
+field declar fielddeclar print modifi printmodifi field declar fielddeclar modifi output
+field declar fielddeclar type print output append append field declar fielddeclar
+field declar fielddeclar initi
+field declar fielddeclar initi qualifi alloc express qualifiedallocationexpress
+output append output append nl
+field declar fielddeclar initi extend string liter extendedstringliter
+output append extend string liter
+field declar fielddeclar initi print express printexpress output
+field declar fielddeclar initi qualifi alloc express qualifiedallocationexpress
+output append output append nl
+qualifi alloc express qualifiedallocationexpress qae qualifi alloc express qualifiedallocationexpress field declar fielddeclar initi
+string buffer stringbuff string buffer stringbuff
+qae print express printexpress
+sourc form 'static call
+printexpress qae return
+super
+remov super call assum
+entri express find
+posit bug
+string tostr index indexof
+output append substr
+string tostr index indexof
+output append substr
+output append
+output string tostr

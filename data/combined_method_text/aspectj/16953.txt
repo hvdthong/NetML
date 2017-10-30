@@ -1,0 +1,25 @@
+org aspectj org eclips jdt core dom
+aroundadvicedeclar dom ast node
+advicedeclar
+return type return type mark2
+inherit properti descriptor advicedeclar
+add return type
+mix descript class properti list
+redefin
+'around' prefix distinguish defin advicedeclar
+work
+author ajh02
+advic declar aroundadvicedeclar advic declar advicedeclar
+ast node astnod clone0 ast target
+advic declar aroundadvicedeclar result advic declar aroundadvicedeclar target
+result set sourc rang setsourcerang start posit getstartposit length getlength
+result set javadoc setjavadoc
+javadoc ast node astnod copi subtre copysubtre target javadoc getjavadoc
+result paramet add addal
+ast node astnod copi subtre copysubtre target paramet
+result thrown except thrownexcept add addal
+ast node astnod copi subtre copysubtre target thrown except thrownexcept
+result set pointcut setpointcut pointcut getpointcut
+result set bodi setbodi
+block ast node astnod copi subtre copysubtre target bodi getbodi
+result

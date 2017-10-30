@@ -1,0 +1,11 @@
+interfac fluent api advert capabl optim
+org apach common math3 fit leastsquar
+param checker converg checker
+instanc argument
+optim instanc field ident
+param pair parametr type link converg checker convergencecheck
+creat instanc paramet
+version
+converg checker withconvergencecheck converg checker convergencecheck pair checker
+param concret optim implement
+converg checker withconvergencecheck pair

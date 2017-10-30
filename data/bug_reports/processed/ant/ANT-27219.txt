@@ -1,0 +1,7 @@
+fail imported macro outputs wrong
+write macro macrodef add file import run
+expected fail message
+nesting information
+build xml error occured executing line
+common xml unit tests failed
+

@@ -1,0 +1,29 @@
+param coeffici list comput coeffici append
+coeffici add multipli subtract ckm1 multipli
+list big fraction bigfract coeffici
+start km1 startkm1 start startk
+start startk
+param gener recurr coeffici gener
+big fraction bigfract ckm1 coeffici start km1 startkm1
+coeffici add multipli add prev ckprev multipli subtract ckm1 multipli
+org apach common math3 analysi polynomi
+version
+collect method oper polynomi
+coeffici add multipli add prev ckprev multipli
+coeffici start startk
+degre degre coeffici
+big fraction bigfract prev ckprev
+degre coeffici
+param max degre maxdegre current maxim degre
+start indic previou polynomi
+coeffici add multipli
+big fraction bigfract gener gener
+big fraction bigfract coeffici start startk
+param degre maxim degre
+recurr coeffici gener recurrencecoefficientsgener gener
+polynomi util polynomialsutil
+comput polynomi coeffici degre
+start startk max degre maxdegre max degre maxdegre
+ckm1 coeffici start km1 startkm1
+comput degre computeuptodegre degre max degre maxdegre
+max degre maxdegre degre

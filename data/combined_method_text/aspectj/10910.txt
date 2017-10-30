@@ -1,0 +1,12 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+set debug option setdebugopt
+option put
+compil option compileropt option local variabl attribut option localvariableattribut
+compil option compileropt gener
+option put
+compil option compileropt option line number attribut option linenumberattribut
+compil option compileropt gener
+option put
+compil option compileropt option sourc file attribut option sourcefileattribut
+compil option compileropt gener

@@ -1,0 +1,9 @@
+deprec remov
+param start point startpoint initi guess
+start point guess optim procedur
+initi guess initialguess optim data optimizationdata
+org apach common math3 optim
+version
+initi guess initialguess start point startpoint
+immut
+init start point startpoint clone

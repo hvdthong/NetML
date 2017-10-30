@@ -1,0 +1,18 @@
+org aspectj ajdt intern core builder
+hold state need increment compil
+state ajstat
+note result noteresult interim compil result interimcompilationresult result
+increment maybeincrement
+file sourc file sourcefil file result file filenam
+compil result compilationresult result result
+result
+refer put sourc file sourcefil refer collect referencecollect qualifi refer qualifiedrefer simpl refer simplenamerefer
+unwoven class file unwovenclassfil unwoven class file unwovenclassfil result unwoven class file unwovenclassfil
+unwoven class file unwovenclassfil length
+file time round lasttimeround file class classesfromnam unwoven class file unwovenclassfil class getclassnam
+record class file recordclassfil unwoven class file unwovenclassfil time round lasttimeround
+class classesfromnam put unwoven class file unwovenclassfil class getclassnam file unwoven class file unwovenclassfil filenam getfilenam
+type delet world
+record compil unit defin aspect recordwhethercompilationunitdefinedaspect sourc file sourcefil
+delet type compil unit time round delet increment deletetypesthatwereinthiscompilationunitlasttimeroundbuthavebeendeletedinthisincr sourc file sourcefil unwoven class file unwovenclassfil
+record result compil unit recordfqnsresultingfromcompilationunit sourc file sourcefil result

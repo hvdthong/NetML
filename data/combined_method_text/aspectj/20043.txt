@@ -1,0 +1,6 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+signatur org aspectj util partialord partialcompar compareto
+compar preced comparebypreced resolv type resolvedtyp aspect1 resolv type resolvedtyp aspect2
+preced calcul precedencecalcul compar preced comparebypreced aspect1 aspect2

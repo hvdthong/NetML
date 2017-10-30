@@ -1,0 +1,10 @@
+org apach lucen index
+store monoton increas set term terminfo pair
+directori pair access term ordin posit
+set
+term info reader terminfosread
+close except ioexcept
+orig enum origenum
+orig enum origenum close
+thread resourc threadresourc close
+term cach termscach close

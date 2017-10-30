@@ -1,0 +1,27 @@
+hyperplan subhyperplan appli hyperplan subhyperplan hyperplan origin hyperplan transform
+hyperplan dimens hyperplan
+appli
+defin transform hyperplan transform
+defin origin hyperplan transform
+transform space space
+org apach common math3 geometri partit
+hyperplan dimens space
+version
+param transform hyperplan hyperplan
+transform appli dimens
+link appli hyperplan method
+invers affin transform includ scale
+method
+translat rotat
+transform defin dimens
+transform dimens specif consist rule
+transform appli point
+transform hyperplan embed hyperplan
+dimens space link appli vector
+object repres transform hyperplan
+param origin hyperplan hyperplan
+param hyperplan transform
+repres invers affin transform space
+param type embed space
+code appli method
+link appli hyperplan subhyperplan hyperplan hyperplan

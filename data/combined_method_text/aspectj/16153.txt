@@ -1,0 +1,40 @@
+org aspectj intern tool ant taskdef
+implement builder ant
+ant builder antbuild builder
+wrap aspectj compil task
+work javac sourc compil
+srcdir
+written reflect compil build modul
+depend tree
+param javac javac specif
+param toolsjar path aspectjtool jar
+param runtimejar path aspectjrt jar
+return javac task invok aspectj compil
+task aspect task aspectjtask javac javac path tool jar toolsjar path runtim jar runtimejar
+object task
+string url
+url file tool jar toolsjar string tostr replac
+url url url url
+class loader classload parent task class loader getclassload
+class loader classload loader url class loader urlclassload parent
+class loader load class loadclass ajctask
+task instanc newinst
+westodo project project javac getproject
+method method getmethod setupajc class javac
+invok task object javac
+method getmethod setfork class
+invok task object boolean true
+method getmethod setforkclasspath class path
+invok task object tool jar toolsjar
+method getmethod setsourceroot class path
+invok task object javac srcdir getsrcdir
+runtim jar runtimejar
+method getmethod setclasspath class path
+invok task object runtim jar runtimejar
+build except buildexcept
+throwabl
+string buffer stringbuff string buffer stringbuff
+append classpath
+append url
+build except buildexcept string tostr
+task task

@@ -1,0 +1,6 @@
+org aspectj weaver loadtim
+osgi environ
+author david knibb
+default weav context defaultweavingcontext weav context iweavingcontext
+return null osgi environ bundl
+string bundl url getbundleidfromurl url url

@@ -1,0 +1,57 @@
+org aspectj weaver bcel
+bcel shadow bcelshadow shadow
+initi kind annot var initializekindedannotationvar
+kind annot var kindedannotationvar
+kind annot var kindedannotationvar hash map hashmap
+determin kind shadow find
+annot element method field constructor type
+creat bcelvar entri map annot kei
+annot type unresolvedtyp
+fixm asc refactor code duplic
+resolv type resolvedtyp annot
+member relev member relevantmemb signatur getsignatur
+resolv type resolvedtyp relev type relevanttyp relev member relevantmemb declar type getdeclaringtyp resolv world
+relev type relevanttyp raw type israwtyp relev type relevanttyp parameter type isparameterizedtyp relev type relevanttyp relev type relevanttyp gener type getgenerictyp
+kind getkind shadow static initi staticiniti
+annot relev type relevanttyp resolv world annot type getannotationtyp
+kind getkind shadow method call methodcal kind getkind shadow constructor call constructorcal
+member found member foundmemb find method2 findmethod2 relev type relevanttyp resolv world declar method getdeclaredmethod signatur getsignatur
+annot annot getannot found member foundmemb relev member relevantmemb relev type relevanttyp
+relev member relevantmemb relev member getrelevantmemb found member foundmemb relev member relevantmemb relev type relevanttyp
+relev type relevanttyp relev member relevantmemb declar type getdeclaringtyp resolv world
+kind getkind shadow field set fieldset kind getkind shadow field fieldget
+relev member relevantmemb find field findfield relev type relevanttyp declar field getdeclaredfield signatur getsignatur
+relev member relevantmemb
+check itd'd dooberri
+list munger relev type relevanttyp resolv world inter type munger getintertypemung
+iter iter munger iter iter hasnext
+bcel type munger bceltypemung type munger typemung bcel type munger bceltypemung iter
+type munger typemung munger getmung field type munger newfieldtypemung
+resolv member resolvedmemb fakerm type munger typemung signatur getsignatur
+fakerm hasannot
+resolv member resolvedmemb ajc method ajcmethod ajc member maker ajcmembermak inter field initi interfieldiniti fakerm type munger typemung aspect type getaspecttyp
+resolv member resolvedmemb rmm find method findmethod type munger typemung aspect type getaspecttyp ajc method ajcmethod
+fakerm equal signatur getsignatur
+relev type relevanttyp type munger typemung aspect type getaspecttyp
+relev member relevantmemb rmm
+annot relev member relevantmemb annot type getannotationtyp
+kind getkind shadow method execut methodexecut kind getkind shadow constructor execut constructorexecut
+kind getkind shadow advic execut adviceexecut
+resolvedmemb relevanttyp getdeclaredmethod
+member found member foundmemb find method2 findmethod2 relev type relevanttyp declar method getdeclaredmethod signatur getsignatur
+annot annot getannot found member foundmemb relev member relevantmemb relev type relevanttyp
+relev member relevantmemb found member foundmemb
+relev member relevantmemb relev member getrelevantmemb found member foundmemb relev member relevantmemb relev type relevanttyp
+kind getkind shadow except handler exceptionhandl
+relev type relevanttyp signatur getsignatur paramet type getparametertyp resolv world
+annot relev type relevanttyp annot type getannotationtyp
+kind getkind shadow pre initi preiniti kind getkind shadow initi
+resolv member resolvedmemb found find method2 findmethod2 relev type relevanttyp declar method getdeclaredmethod signatur getsignatur
+annot found annot type getannotationtyp
+annot
+recogn shadow blow safe side
+except bcexcept discov annot shadow kind getkind
+annot length
+resolv type resolvedtyp atx annot
+kind annot access var kindedannotationaccessvar kaav kind annot access var kindedannotationaccessvar kind getkind atx resolv world relev type relevanttyp relev member relevantmemb
+kind annot var kindedannotationvar put atx kaav

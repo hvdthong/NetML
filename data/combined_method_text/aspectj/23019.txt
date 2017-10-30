@@ -1,0 +1,4 @@
+org aspectj weaver pattern
+pointcut withinpointcut pointcut
+post read postread resolv type resolvedtyp enclos type enclosingtyp
+type pattern typepattern post read postread enclos type enclosingtyp

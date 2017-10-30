@@ -1,0 +1,16 @@
+org aspectj weaver
+resolv type resolvedtyp unresolv type unresolvedtyp annot element annotatedel
+resolv member resolvedmemb lookup member includ interfac lookupmemberincludingitdsoninterfac member member resolv type resolvedtyp type ontyp
+resolv member resolvedmemb ret type ontyp lookup member super lookupmembernosup member
+ret
+ret
+resolv type resolvedtyp super type supertyp type ontyp superclass getsuperclass
+super type supertyp
+ret lookup member includ interfac lookupmemberincludingitdsoninterfac member super type supertyp
+ret
+interfac itd
+resolv type resolvedtyp super interfac superinterfac type ontyp declar interfac getdeclaredinterfac
+super interfac superinterfac length
+ret super interfac superinterfac lookup method lookupmethodinitd member
+ret ret
+ret

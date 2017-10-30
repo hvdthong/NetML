@@ -1,0 +1,8 @@
+org aspectj weaver bcel
+bcel weaver bcelweav weaver iweav
+set reweav mode setreweavablemod reweav xnotreweav
+trace trace enabl istraceen trace enter setreweavablemod reweav xnotreweav
+reweav mode inreweavablemod reweav xnotreweav
+weaver state info weaverstateinfo set reweav mode default setreweavablemodedefault reweav xnotreweav
+bcel class weaver bcelclassweav set reweav mode setreweavablemod reweav xnotreweav
+trace trace enabl istraceen trace exit setreweavablemod

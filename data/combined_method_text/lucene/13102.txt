@@ -1,0 +1,6 @@
+org apach lucen index
+segment term posit segmenttermposit
+overrid
+close except ioexcept
+close
+prox stream proxstream prox stream proxstream close

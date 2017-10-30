@@ -1,0 +1,5 @@
+org aspectj weaver pattern
+author colyer
+usag hasmembertypepatternfind pattern hasmembertypepattern
+member type pattern finder hasmembertypepatternfind abstract pattern node visitor abstractpatternnodevisitor
+member type pattern hasmembertypepattern member type pattern hasmembertypepattern

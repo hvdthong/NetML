@@ -1,0 +1,12 @@
+overrid
+row dimens rowdimens
+version
+store memori
+col dimens coldimens
+storeless covari storelesscovari covari
+real matrix realmatrix matrix array2 row real matrix array2drowrealmatrix row dimens rowdimens col dimens coldimens
+covari implement requir input data
+matrix set entri setentri cov matrix covmatrix result getresult
+real matrix realmatrix covari matrix getcovariancematrix illeg argument except illegalargumentexcept
+org apach common math stat correl
+matrix

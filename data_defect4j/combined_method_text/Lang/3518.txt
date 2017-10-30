@@ -1,0 +1,127 @@
+author href mailto hp intermeta hen schmiedehausen
+code
+oper link java lang string
+author href mailto apach org korthof
+pad string origin string pad
+levenshtein distanc levenshteindist
+remov lead trail whitespac
+append suffix end string present
+safe substr extract
+check string text
+abbrevi string ellipsi
+code code string input
+index set string
+compar string report differ
+substr extract rel string
+code null pointer except nullpointerexcept code consid bug
+string
+alpha isalpha numer isnumer whitespac iswhitespac ascii printabl isasciiprint
+author href mailto fredrik westermarck fredrik westermarck
+search string replac string
+string util stringutil pad rightpad bat 'z' batzz
+author arun mammen thoma
+index indexofani index lastindexofani index indexofanybut index lastindexofanybut
+author href http jakarta apach org turbin apach jakarta turbin
+check string end suffix safe
+param size size pad
+default string defaultstr
+author href mailto gcoladonato yahoo greg coladonato
+pad rightpad str size string valueof pad char padchar
+whitespac charact defin link charact whitespac iswhitespac
+empti length string code code
+author phil steitz
+replac overlai
+code string util stringutil code handl code code input string quietli
+empti length string code
+pad string
+split join
+upper case uppercas lower case lowercas swap case swapcas capit uncapit
+count number occurr string
+pad size str length
+start startswith
+str concat pad pad pad char padchar
+abbrevi
+version
+method give sampl code explain oper
+trim strip
+remov delet
+compar string safe
+code string util stringutil code
+symbol code input includ code
+org apach common lang3
+param pad char padchar charact pad
+index indexof index lastindexof
+split string arrai substr vice versa
+author href mailto alex purpletech alexand dai chaffe
+protect input string
+author holger krauth
+pad pad limit
+code input code
+code string util stringutil defin word relat
+code code
+code safe
+str return origin string
+code code safe
+containsonli containsnon containsani
+side effect code code handl
+param str string pad
+revers revers delimit reversedelimit
+author scott johnson
+detail vari method
+number need chang string
+prepend prefix start string present
+substr substringbefor substr substringaft substr substringbetween
+space space charact code code
+revers string
+end endswith
+author daniel rall
+code code code code return
+code string util stringutil handl code input string quietli
+differ
+levenstein distanc levensteindist
+side effect code handl
+count match countmatch
+author chri hyzer
+author href mailto rand mcneeli yahoo rand neeli mcneeli
+check string start prefix safe
+author reuben sivan
+author chou
+code string util stringutil code defin word relat
+string handl
+author href mailto jon latchkei jon steven
+empti isempti blank isblank
+code code input code code
+string pad size code size
+space space charact code
+remov part string
+str
+trim charact link string trim
+left pad leftpad pad rightpad center repeat
+pre
+author michael davei
+substr left mid
+string util stringutil pad rightpad bat 'z' bat
+equal
+code null pointer except nullpointerexcept consid bug
+code string input
+string pad rightpad string str size pad char padchar
+code code return
+chomp chop
+author apach softwar foundat
+string charact
+java lang string
+author gari gregori
+safe index check
+pad
+code string util stringutil
+string util stringutil
+string util stringutil pad rightpad
+thread safe threadsaf
+str concat repeat pad char padchar pad
+string util stringutil pad rightpad 'z' zzz
+string pad size code size code
+check charact string
+append miss appendifmiss
+prepend miss prependifmiss
+pad string charact
+symbol code code input includ code code

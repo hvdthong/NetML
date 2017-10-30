@@ -1,0 +1,7 @@
+org aspectj apach bcel gener annot
+simpl element gen simpleelementvaluegen element gen elementvaluegen
+protect ctor deseri put entri constant pool
+assum suppli index correct
+simpl element gen simpleelementvaluegen type idx constant pool gen constantpoolgen gen cpgen
+type gen cpgen
+idx idx

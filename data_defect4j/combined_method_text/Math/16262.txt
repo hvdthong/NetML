@@ -1,0 +1,69 @@
+dest sum impl sumimpl sourc sum impl sumimpl copi
+copi sourc dest
+link set varianc impl setvarianceimpl storeless univari statist storelessunivariatestatist actual paramet
+dest sum log sumlog sum log sumoflog dest sum log impl sumlogimpl
+dest varianc impl varianceimpl sourc varianc impl varianceimpl copi
+sourc sum log sumlog sourc sum log impl sumlogimpl
+state comput statist configur setter
+implement varianc overridden call
+sourc geo geomean sourc geo impl geomeanimpl
+dest impl meanimpl dest moment secondmo
+sourc sumsq sourc sumsq impl sumsqimpl
+param sourc summari statist summarystatist copi
+dest impl meanimpl sourc impl meanimpl copi
+geometr geometricmean copi sourc geo geomean dest geo geomean
+method implement link storeless univari statist storelessunivariatestatist
+varianc copi sourc varianc dest varianc
+sourc varianc impl getvarianceimpl varianc
+sum copi sourc sum dest sum
+dest varianc impl varianceimpl varianc dest moment secondmo
+stream
+math util mathutil check null checknotnul sourc
+sourc varianc sourc varianc impl varianceimpl
+sourc geo impl getgeomeanimpl geometr geometricmean
+dest min impl minimpl sourc min impl minimpl copi
+dest max max dest max impl maximpl
+version
+sourc impl meanimpl
+dest sum log impl sumlogimpl sourc sum log impl sumlogimpl copi
+dest sumsq impl sumsqimpl sourc sumsq impl sumsqimpl copi
+param dest summari statist summarystatist copi
+note thread safe
+make stat stat impl statimpl sourc
+dest geo geomean geometr geometricmean dest geo impl geomeanimpl
+dest geo impl geomeanimpl geometr geometricmean sum log sumoflog dest sum log impl sumlogimpl
+sourc dest
+sum log sumoflog copi sourc sum log sumlog dest sum log sumlog
+memori comput statist larg data
+provid implement
+sourc sourc impl meanimpl
+summari statist summarystatist statist summari statisticalsummari serializ
+link storeless univari statist storelessunivariatestatist instanc maintain summari
+org apach common math3 stat descript
+sourc max sourc max impl maximpl
+sourc sum sourc sum impl sumimpl
+null argument except nullargumentexcept sourc dest
+common math suppli statist embed moment synch
+call configur common math
+dest geo impl geomeanimpl sourc geo impl geomeanimpl copi
+math util mathutil check null checknotnul dest
+dest sourc
+link add addvalu add addvalu method data valu store
+dest varianc varianc dest varianc impl varianceimpl
+dest dest impl meanimpl
+dest moment secondmo sourc moment secondmo copi
+sum squar sumofsquar copi sourc sumsq dest sumsq
+configur complet code add addvalu code
+comput summari statist stream data valu ad
+dest max impl maximpl sourc max impl maximpl copi
+sourc min sourc min impl minimpl
+dest sum sum dest sum impl sumimpl
+dest sumsq sum squar sumofsquar dest sumsq impl sumsqimpl
+min copi sourc min dest min
+dest min min dest min impl minimpl
+link synchron summari statist synchronizedsummarystatist concurr access multipl
+hold dest copi stat
+copi summari statist summarystatist sourc summari statist summarystatist dest
+null argument except nullargumentexcept
+max copi sourc max dest max
+thread requir

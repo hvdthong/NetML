@@ -1,0 +1,19 @@
+link extend messag format extendedmessageformat
+decim format decimalformat decim format decimalformat obj
+stock number meta format metaformat
+string buffer stringbuff format object obj string buffer stringbuff append toappendto
+inherit doc inheritdoc
+illeg argument except illegalargumentexcept
+obj decim format decimalformat
+initi
+author matt benson
+org apach common lang text
+subformat
+version
+string subformat string revers subformat reversesubformat obj
+append toappendto append pattern topattern
+field posit fieldposit po
+decim format symbol getdecimalformatsymbol equal decim format symbol decimalformatsymbol
+number meta format numbermetaformat meta format support metaformatsupport
+extend messag format extendedmessageformat
+append toappendto append subformat

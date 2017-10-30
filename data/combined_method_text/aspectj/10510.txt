@@ -1,0 +1,8 @@
+org aspectj ajd
+author mik kersten
+structur view manag structureviewmanag
+fire navig forward action firenavigateforwardact structur view structureview view
+program element iprogramel forward node forwardnod histori model historymodel navig forward navigateforward
+forward node forwardnod
+ajd default getdefault id adapt getideuiadapt displai statu inform displaystatusinform node navig forward histori
+navig action navigationact forward node forwardnod

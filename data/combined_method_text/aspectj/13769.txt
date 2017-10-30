@@ -1,0 +1,9 @@
+org aspectj apach bcel gener
+irem remaind int
+pre stack value1 value2 result pre
+version irem java aclement exp
+author href mailto marku dahm berlin dahm
+irem arithmet instruct arithmeticinstruct except thrower exceptionthrow
+remaind int
+irem
+org aspectj apach bcel constant irem

@@ -1,0 +1,8 @@
+abstract region independ geometri type dimens
+param type space
+tree bsp tree bsptree boolean true
+abstract region abstractregion space space region
+abstract region abstractregion
+version
+org apach common math geometri partit
+build region repres space

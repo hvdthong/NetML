@@ -1,0 +1,14 @@
+org apach lucen index
+segmentmerg class combin segment repres indexread link add
+singl segment ad reader call merg method combin
+segment
+compoundfil flag set segment merg compound file
+merg
+add
+segment merger segmentmerg
+merg term info mergeterminfo format post field consum formatpostingsfieldsconsum consum corrupt index except corruptindexexcept except ioexcept
+queue add smi initi queue
+int matchsiz pop match term
+int appendpost termsconsum match matchsiz add terminfo
+queue add smi restor queue
+smi close segment

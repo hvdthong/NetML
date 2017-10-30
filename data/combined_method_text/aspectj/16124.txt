@@ -1,0 +1,18 @@
+org aspectj bridg context
+author colyer
+facad imessagehandl
+extend messag detail compil weaver
+time xdev pinpoint option turn facil
+pinpoint messag handler pinpointingmessagehandl messag handler imessagehandl
+handl messag handlemessag messag imessag messag abort except abortexcept
+ignor isignor messag kind getkind
+messag issu messageissu messag issu messageissu
+fill stack trace fillinstacktrac
+string writer stringwrit string writer stringwrit
+print stack trace printstacktrac print writer printwrit
+string buffer stringbuff string buffer stringbuff
+append compil weav context compilationandweavingcontext current context getcurrentcontext
+append string tostr
+messag imessag pinpoint messag pinpointedmessag pinpoint messag pinpointedmessag messag string tostr
+deleg handl messag handlemessag pinpoint messag pinpointedmessag
+deleg handl messag handlemessag messag

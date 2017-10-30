@@ -1,0 +1,15 @@
+org aspectj apach bcel gener
+super class invokeinstruct fieldinstruct
+method common
+version fieldormethod java aclement exp
+author href mailto marku dahm berlin dahm
+field method fieldormethod instruct cpinstruct load class loadclass
+return signatur referenc method field
+string signatur getsignatur constant pool gen constantpoolgen cpg
+dont signatur dontknowsignatur
+constant pool constantpool cpg constant pool getconstantpool
+constant constantcp cmr constant constantcp constant getconst index
+constant type constantnameandtyp cnat constant type constantnameandtyp constant getconst cmr type index getnameandtypeindex
+signatur constant utf8 constantutf8 constant getconst cnat signatur index getsignatureindex byte getbyt
+dont signatur dontknowsignatur
+signatur

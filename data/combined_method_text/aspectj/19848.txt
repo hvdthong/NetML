@@ -1,0 +1,83 @@
+org aspectj weaver
+author colyer
+type factori typefactori
+unresolvedtyp read creat type full signatur
+param signatur
+return
+unresolv type unresolvedtyp creat type signatur createtypefromsignatur string signatur
+signatur equal resolv type resolvedtyp miss miss resolv type resolvedtyp miss
+char firstchar signatur char charat
+char firstchar
+parameter type calcul signatur erasur type paramet
+pr122458 parameter type type paramet visibl signatur
+type parameter type simpli inherit type paramet
+parent case parameter signatur
+start param startofparam signatur index indexof
+start param startofparam
+type parameter type assert signatur
+string signatur erasur signatureerasur signatur substr
+unresolv type unresolvedtyp type param typeparam unresolv type unresolvedtyp
+unresolv type unresolvedtyp signatur signatur erasur signatureerasur type param typeparam
+end param endofparam locat match end bracket locatematchingendbracket signatur start param startofparam int endofparam locatematchingendbracket signatur startofparam signatur lastindexof
+string buffer stringbuff erasur sig erasuresig string buffer stringbuff signatur
+start param startofparam
+erasur sig erasuresig delet start param startofparam end param endofparam
+start param startofparam locat bracket locatefirstbracket erasur sig erasuresig
+start param startofparam end param endofparam locat match end bracket locatematchingendbracket erasur sig erasuresig start param startofparam
+string signatur erasur signatureerasur erasur sig erasuresig string tostr substr
+type paramet interest appli 'last type' signatur
+signatur 'pmyinterfac string myothertyp
+string type lasttyp
+nest type posit nestedtypeposit signatur index indexof end param endofparam int nestedtypeposit signatur indexof endofparam insid paramet
+nest type posit nestedtypeposit type lasttyp signatur substr nest type posit nestedtypeposit
+type lasttyp string signatur
+start param startofparam type lasttyp index indexof
+end param endofparam locat match end bracket locatematchingendbracket type lasttyp start param startofparam
+unresolv type unresolvedtyp type param typeparam unresolv type unresolvedtyp
+start param startofparam
+type param typeparam creat type param createtypeparam type lasttyp substr start param startofparam end param endofparam
+unresolv type unresolvedtyp signatur signatur erasur signatureerasur type param typeparam
+replac convertsigtotyp lead stackoverflow
+signatur equal
+unresolv type unresolvedtyp ret unresolv type unresolvedtyp
+ret type kind typekind type kind typekind wildcard
+ret
+char firstchar
+extend
+unresolv type unresolvedtyp ret unresolv type unresolvedtyp signatur
+ret type kind typekind type kind typekind wildcard
+unresolvedtyp bound1 unresolvedtyp forsignatur signatur substr
+unresolvedtyp bound2 convertsigtotyp signatur substr
+ret set upper bound setupperbound convert sig type convertsigtotyp signatur substr
+ret
+char firstchar
+super
+unresolvedtyp bound unresolvedtyp forsignatur signatur substr
+unresolvedtyp bound2 convertsigtotyp signatur substr
+unresolv type unresolvedtyp ret unresolv type unresolvedtyp signatur
+ret type kind typekind type kind typekind wildcard
+ret set lower bound setlowerbound convert sig type convertsigtotyp signatur substr
+ret
+char firstchar
+string type variabl typevariablenam signatur substr
+type variabl typevariablenam end endswith
+type variabl typevariablenam type variabl typevariablenam substr type variabl typevariablenam length
+unresolv type variabl refer type unresolvedtypevariablereferencetyp type variabl typevari type variabl typevariablenam
+char firstchar
+dim
+signatur char charat dim dim
+unresolv type unresolvedtyp compon type componenttyp creat type signatur createtypefromsignatur signatur substr dim
+unresolv type unresolvedtyp signatur
+signatur substr dim compon type componenttyp erasur signatur geterasuresignatur
+signatur length signatur length primit
+char firstchar
+resolv type resolvedtyp void
+resolv type resolvedtyp boolean
+resolv type resolvedtyp byte
+resolv type resolvedtyp char
+resolv type resolvedtyp doubl
+resolv type resolvedtyp float
+resolv type resolvedtyp int
+resolv type resolvedtyp long
+resolv type resolvedtyp short
+unresolv type unresolvedtyp signatur

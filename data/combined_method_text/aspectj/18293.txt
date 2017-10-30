@@ -1,0 +1,35 @@
+org aspectj util
+reflect
+run main runmaininsamevm
+string classpath
+string class classnam
+string arg
+secur except securityexcept method except nosuchmethodexcept
+illeg argument except illegalargumentexcept illeg access except illegalaccessexcept
+invoc target except invocationtargetexcept class found except classnotfoundexcept
+lang util langutil throw iax null throwiaxifnul class classnam class
+lang util langutil empti isempti classpath
+class main class mainclass class fornam class classnam
+run main runmaininsamevm main class mainclass arg
+arrai list arraylist dir arrai list arraylist
+arrai list arraylist lib arrai list arraylist
+arrai list arraylist url arrai list arraylist
+string entri lang util langutil split classpath splitclasspath classpath
+entri length
+string entri entri
+url url make url makeurl entri
+url
+url add url
+file file file entri
+toler bad entri bootclasspath
+file canread
+throw illegalargumentexcept read file
+file util fileutil zip file iszipfil file
+lib add file
+file directori isdirectori
+dir add file
+url zip dir unsur
+file dir dirra file dir arrai toarrai file
+file lib libra file lib arrai toarrai file
+url url urlra url url arrai toarrai url
+run main runmaininsamevm url urlra lib libra dir dirra class classnam arg

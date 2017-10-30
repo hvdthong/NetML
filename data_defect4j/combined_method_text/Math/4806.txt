@@ -1,0 +1,25 @@
+inconsist code
+version
+middot residu defin
+defin iter solver linear system
+set
+param linear oper system
+real vector realvector solv real linear oper reallinearoper real vector realvector
+org apach common math linear
+vector solut
+construct
+custom link max count exceed callback maxcountexceededcallback callback set
+dimens mismatch except dimensionmismatchexcept code dimens
+max count exceed except maxcountexceededexcept exhaust iter count
+iter linear solver iterativelinearsolv
+real vector realvector arrai real vector arrayrealvector column dimens getcolumndimens
+squar oper except nonsquareoperatorexcept code squar
+math util mathutil check null checknotnul
+dimens mismatch except dimensionmismatchexcept max count exceed except maxcountexceededexcept
+middot linear oper linear system
+solv place solveinplac
+param hand side vector
+null argument except nullargumentexcept squar oper except nonsquareoperatorexcept
+null argument except nullargumentexcept paramet code
+return estim solut linear system middot
+hand side vector current estim solut

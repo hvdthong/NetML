@@ -1,0 +1,10 @@
+maximum number fraction digit set
+org apach common math3 util
+number format
+link number format numberformat instanc getinst custom
+version
+default number format getdefaultnumberformat local default getdefault
+base formatt composit object complex number vector
+composit format compositeformat
+creat number format number format base
+number format numberformat default number format getdefaultnumberformat

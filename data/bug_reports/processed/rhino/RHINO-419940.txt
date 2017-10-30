@@ -1,0 +1,16 @@
+incorrect javaadapter generation base class overrides abstract method
+define class
+public abstract class basefoo
+public abstract string dosomething
+
+public class foo extends basefoo
+public string dosomething
+return world
+
+
+rhino
+var afoo javaadapter packages google foo
+return
+afoo dosomething
+answer string undefined
+world

@@ -1,0 +1,8 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+target aspect runtime12 istargettingaspectjruntime12
+boolean fals pr116679
+java5 mode isinjava5mod
+target aspectj runtim level gettargetaspectjruntimelevel equal org aspectj weaver constant runtim level runtim level
+system err println ask target runtim return

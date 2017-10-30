@@ -1,0 +1,35 @@
+org aspectj apach bcel verifi
+nativeverifi class implement main string arg method
+roughli compat verifi class
+jvm' intern verifi class file verif
+comparison run jvm intern verifi
+justic
+version nativeverifi java aclement exp
+author href http www inf berlin ehaas enver haas
+nativ verifi nativeverifi
+work argument
+main string arg
+arg length
+system println verifi front end argument
+system exit
+dotclasspo arg index lastindexof class
+dotclasspo arg arg substr dotclasspo
+arg arg replac
+system println arg
+class fornam arg
+except initi error exceptionininitializererror eiie catch exceptionininitializererror eiie subclass linkageerror
+system println nativeverifi exceptionininitializererror encount arg
+system println eiie
+system exit
+linkag error linkageerror
+system println nativeverifi linkageerror encount arg
+system println
+system exit
+class found except classnotfoundexcept cnfe
+system println nativeverifi file found arg
+system exit
+throwabl
+system println nativeverifi unspecifi verif error on' arg
+system exit
+system println nativeverifi class file arg
+system exit

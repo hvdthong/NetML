@@ -1,0 +1,9 @@
+parallel task hides fail task's property status
+Created attachment 30807
+Ant example to check error
+
+In some cases fail task does not return exit code indicated in status property. 
+
+I have attached an example to check the error.
++ Using target "testok" return code is 3. Its ok!
++ Using target "test" return code should be either 4 or 5, but result code was 1.

@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math geometri euclidean on
+
+
+repres interv
+interv set intervalsset
+version
+
+
+interv
+
+
+
+
+
+
+
+simpl constructor
+param lower lower bound interv
+param upper upper bound interv
+
+interv lower upper
+lower lower
+upper upper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

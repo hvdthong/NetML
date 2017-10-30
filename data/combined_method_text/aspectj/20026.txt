@@ -1,0 +1,9 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+compar preced hierarchi comparebyprecedenceandhierarchi resolv type resolvedtyp aspect firstaspect resolv type resolvedtyp aspect secondaspect
+aspect firstaspect equal aspect secondaspect
+ret compar preced comparebypreced aspect firstaspect aspect secondaspect
+ret ret
+aspect firstaspect assign isassignablefrom aspect secondaspect
+aspect secondaspect assign isassignablefrom aspect firstaspect

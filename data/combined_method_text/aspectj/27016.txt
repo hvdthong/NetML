@@ -1,0 +1,9 @@
+org aspectj weaver bcel
+bcel type munger bceltypemung concret type munger concretetypemung
+resolv member resolvedmemb real member itd aspect getrealmemberforitdfromaspect resolv type resolvedtypex aspect type aspecttyp resolv member resolvedmemb dispatch method dispatchmethod
+resolv member resolvedmemb aspect method aspectmethod aspect type aspecttyp declar method getdeclaredmethod
+resolv member resolvedmemb real member realmemb
+real member realmemb aspect method aspectmethod length
+resolv member resolvedmemb member aspect method aspectmethod
+member getnam equal dispatch method dispatchmethod getnam real member realmemb member
+real member realmemb

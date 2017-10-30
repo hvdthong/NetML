@@ -1,0 +1,14 @@
+org aspectj tool ajbrows
+id manag standalon ajd applic
+author mik kersten
+browser manag browsermanag
+find creat set build configur file
+param configfilesarg
+set config file setupconfigfil string config file arg configfilesarg
+config file configfil config file list getconfigfileslist config file arg configfilesarg
+config file configfil size
+browser error handler browsererrorhandl
+handl warn handlewarn build configur select
+select lst build configur file order compil navig structur
+ajd default getdefault build config manag getbuildconfigmanag set activ config file setactiveconfigfil
+string config file configfil

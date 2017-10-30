@@ -1,0 +1,19 @@
+org aspectj apach bcel classfil
+repres java class data structur constant pool
+field method command contain java class file
+href ftp java sun doc spec jvm
+specif detail
+intent class repres pars exist
+class file interest programat gener class
+href gener classgen html classgen class
+version javaclass java acoly exp
+org aspectj apach bcel gener classgen
+author href mailto marku dahm berlin dahm
+java class javaclass access flag accessflag cloneabl node
+return superclass javaclass object null
+java lang object
+java class javaclass super class getsuperclass
+java lang object equal class getclassnam
+repositori getrepositori load class loadclass superclass getsuperclassnam
+class found except classnotfoundexcept
+system err println

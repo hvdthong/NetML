@@ -1,0 +1,13 @@
+deprec remov
+deprec link org apach common math3 optim simpl checker simplevaluecheck simpl checker simplevaluecheck
+converg check set
+link org apach common math3 optim simpl checker simplevaluecheck
+org apach common math3 optim gener
+boiler plate code deal gradient evalu
+simpl constructor set
+deprec
+version
+abstract scalar differenti optim abstractscalardifferentiableoptim
+simpl checker simplevaluecheck
+differenti function
+base implement optim multivari scalar

@@ -1,0 +1,36 @@
+author stephen colebourn
+set
+chronolog set intern utc time zone
+code month year getmonthofyear code
+calcul local date locald perform link chronolog
+method focu kei field
+add subtract
+return local date locald field set maximum
+local date locald immut datetim repres date
+set copi setcopi maximum getmaximumvalu
+local date locald
+pre
+month month length vari
+maximum minimum valu
+techniqu access method
+field
+date field fact queri
+text
+oper obtain local date locald dai
+time zone
+individu field queri wai
+numer
+local date locald attach properti unchang call
+local date locald maximum withmaximumvalu
+copi local date locald field set maximum
+year month year monthofyear dai month dayofmonth
+standard chronolog class suppli thread safe immut
+local date locald differ date midnight datemidnight
+local date locald link readabl partial readableparti
+local date locald thread safe immut provid chronolog
+time zone repres singl instant time
+code month year monthofyear code
+calcul
+org joda time
+local date locald dai month lastdayofmonth dai month dayofmonth maximum withmaximumvalu
+round

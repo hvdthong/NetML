@@ -1,0 +1,78 @@
+pre
+euler integr eulerintegr
+org apach common math od nonstiff
+nextislast forward nextt nextt
+set equat setequ equat
+step start stepstart accept step acceptstep interpol dot tmp ydottmp
+arrai
+step handler stephandl handler step handler stephandl
+equat complet state getcompletest
+interpol store time storetim step start stepstart step size stepsiz
+overrid
+equat primari mapper getprimarymapp equat secondari mapper getsecondarymapp
+stepsiz control step
+gill integr gillintegr
+estim state end step
+equat set complet state setcompletest
+nextislast
+dot ydotk stage
+midpoint integr midpointintegr
+sum dot ydotk
+integr expand state od expandablestatefulod equat
+set state initi setstateiniti
+stop time stoptim step start stepstart
+step size stepsiz doubl nan
+method explicit rung kutta method butcher
+equat set time settim step start stepstart
+system arraycopi length
+step start stepstart
+set integr control object
+nextt step start stepstart step size stepsiz
+version
+a31 a32
+stop time stoptim
+math user except mathuserexcept integr except integratorexcept
+forward equat time gettim
+forward
+dot ydotk length
+comput deriv computederiv step start stepstart step size stepsiz tmp ytmp dot ydotk
+interpol store time storetim step start stepstart
+inherit doc inheritdoc
+as1 as2 ass
+system arraycopi tmp ytmp length
+saniti check sanitycheck equat
+tmp ytmp clone
+integr ordinari differenti equat
+step size stepsiz forward step step
+creat intern work arrai
+math illeg state except mathillegalstateexcept math illeg argument except mathillegalargumentexcept
+clone
+tmp ytmp step size stepsiz sum
+reset evalu resetevalu
+set interpol share integr arrai
+prepar step
+a21
+system arraycopi dot ydotk stage dot tmp ydottmp length
+tmp ytmp length
+common part fix step rung kutta
+rung kutta step interpol rungekuttastepinterpol interpol rung kutta step interpol rungekuttastepinterpol prototyp copi
+integr order differenti equat firstorderdifferentialequ equat
+step start stepstart equat time gettim
+dispatch result
+interpol reiniti tmp ytmp dot ydotk forward
+stage
+rung kutta integr rungekuttaintegr abstract integr abstractintegr
+handler reset
+discret event handl
+step start stepstart doubl nan
+interpol store time storetim
+step islaststep
+main integr loop
+step size stepsiz step start stepstart
+length
+dot tmp ydottmp length
+stage length
+classic rung kutta integr classicalrungekuttaintegr
+interpol store time storetim equat time gettim
+comput deriv computederiv step start stepstart dot ydotk
+interpol shift

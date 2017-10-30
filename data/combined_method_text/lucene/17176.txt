@@ -1,0 +1,49 @@
+org apach lucen search span
+expert public weight implement
+span weight spanweight weight
+overrid
+explan explain reader context readercontext context doc
+except ioexcept
+complex explan complexexplan result complex explan complexexplan
+result set descript setdescript weight queri getqueri doc product
+string field span queri spanqueri queri getqueri field getfield
+explan idf expl idfexpl
+explan idf idf field idf exp idfexp explain
+explain queri weight
+explan queri expl queryexpl explan
+queri expl queryexpl set descript setdescript queryweight queri getqueri product
+explan boost expl boostexpl explan queri getqueri boost getboost boost
+queri getqueri boost getboost
+queri expl queryexpl add detail adddetail boost expl boostexpl
+queri expl queryexpl add detail adddetail idf expl idfexpl
+explan queri norm expl querynormexpl explan queri norm querynorm querynorm
+queri expl queryexpl add detail adddetail queri norm expl querynormexpl
+queri expl queryexpl set setvalu boost expl boostexpl getvalu
+idf expl idfexpl getvalu
+queri norm expl querynormexpl getvalu
+result add detail adddetail queri expl queryexpl
+explain field weight
+complex explan complexexplan field expl fieldexpl complex explan complexexplan
+field expl fieldexpl set descript setdescript fieldweight field queri string tostr field
+doc product
+explan expl tfexpl span scorer spanscor scorer context explain doc
+field expl fieldexpl add detail adddetail expl tfexpl
+field expl fieldexpl add detail adddetail idf expl idfexpl
+explan field norm expl fieldnormexpl explan
+field norm fieldnorm context reader norm field
+field norm fieldnorm
+field norm fieldnorm similar decod norm decodenormvalu field norm fieldnorm doc
+field norm expl fieldnormexpl set setvalu field norm fieldnorm
+field norm expl fieldnormexpl set descript setdescript fieldnorm field field doc doc
+field expl fieldexpl add detail adddetail field norm expl fieldnormexpl
+field expl fieldexpl set match setmatch boolean valueof expl tfexpl match ismatch
+field expl fieldexpl set setvalu expl tfexpl getvalu
+idf expl idfexpl getvalu
+field norm expl fieldnormexpl getvalu
+result add detail adddetail field expl fieldexpl
+result set match setmatch field expl fieldexpl match getmatch
+combin
+result set setvalu queri expl queryexpl getvalu field expl fieldexpl getvalu
+queri expl queryexpl getvalu
+field expl fieldexpl
+result

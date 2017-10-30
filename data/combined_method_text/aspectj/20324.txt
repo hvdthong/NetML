@@ -1,0 +1,7 @@
+org aspectj weaver bcel
+bcel class weaver bcelclassweav class weaver iclassweav
+add super initi addsuperiniti resolv type resolvedtyp type ontyp
+type ontyp raw type israwtyp type ontyp parameter type isparameterizedtyp type ontyp type ontyp gener type getgenerictyp
+ifac init list ifaceinitlist ifac init list ifaceinitlist ad super initi addedsuperiniti type ontyp
+ifac init list ifaceinitlist type ontyp
+ad super initi addedsuperiniti put type ontyp

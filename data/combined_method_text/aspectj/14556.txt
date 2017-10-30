@@ -1,0 +1,11 @@
+org aspectj apach bcel gener annot
+annot gen annotationgen
+annot gen annotationgen read data input stream datainputstream di constant pool gen constantpoolgen cpool except ioexcept
+annot gen annotationgen annot gen annotationgen cpool
+type index typeindex di read unsign short readunsignedshort
+elem pair count elemvaluepaircount di read unsign short readunsignedshort
+elem pair count elemvaluepaircount
+nidx di read unsign short readunsignedshort
+add element pair addelementnamevaluepair
+element pair gen elementnamevaluepairgen nidx element gen elementvaluegen read element readelementvalu di cpool cpool
+runtim visibl isruntimevis

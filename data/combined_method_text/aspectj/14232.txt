@@ -1,0 +1,8 @@
+org aspectj apach bcel gener
+pop pop top operand stack word
+pre stack word pre
+version pop java aclement exp
+author href mailto marku dahm berlin dahm
+pop stack instruct stackinstruct pop instruct popinstruct
+pop
+org aspectj apach bcel constant pop

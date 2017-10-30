@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+pattern parser patternpars
+type pattern typepattern pars atom type pattern parseatomictypepattern insid type paramet insidetypeparamet paramet annot parameterannotationsposs
+annot type pattern annotationtypepattern pars annot pattern maybeparseannotationpattern annotationtypepattern maybeparseannotationpattern paramet annot pattern type annot pattern
+eat maybeeat
+int startpo tokensourc peek getstart
+lose sourc locat true start type
+type pattern typepattern type pattern nottypepattern pars atom type pattern parseatomictypepattern insid type paramet insidetypeparamet paramet annot parameterannotationsposs
+set annot pattern type pattern setannotationpatternfortypepattern
+eat maybeeat
+type pattern typepattern pars type pattern parsetypepattern insid type paramet insidetypeparamet
+set annot pattern type pattern setannotationpatternfortypepattern paramet annot parameterannotationsposs
+eat
+var arg isvararg eat maybeeat
+var arg isvararg set var arg setisvararg var arg isvararg
+includ subtyp isincludesubtyp eat maybeeat
+includ subtyp isincludesubtyp includ subtyp includesubtyp isincludesubtyp includesubtyp true test set subtyp fals
+start po startpo token sourc tokensourc peek start getstart
+type pattern typepattern pars singl type pattern parsesingletypepattern insid type paramet insidetypeparamet
+end po endpo token sourc tokensourc peek end getend
+set annot pattern type pattern setannotationpatternfortypepattern
+set locat setloc sourc context sourcecontext start po startpo end po endpo

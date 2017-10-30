@@ -1,0 +1,7 @@
+repres region set polygon
+segment builder segmentsbuild
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+version
+simpl constructor
+sort avl tree avltre compar segment comparableseg
+org apach common math3 geometri euclidean twod

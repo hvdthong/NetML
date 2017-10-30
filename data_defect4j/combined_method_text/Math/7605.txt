@@ -1,0 +1,21 @@
+pre
+org apach common math optim fit
+gaussian function gaussianfunct fit function fitfunct fitter fit
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+fitter add observ point addobservedpoint weight
+parametr gaussian function parametricgaussianfunct
+weight code weight code
+param abscissa
+param point
+param weight weight assign point
+fit point gaussian function link gaussian function gaussianfunct
+param ordin
+version revis date
+weight code weight
+fitter add observ point addobservedpoint
+usag
+add point code code code code list observ point
+levenberg marquardt optim levenbergmarquardtoptim
+add observ point addobservedpoint weight
+gaussian fitter gaussianfitt
+add point code code list observ point

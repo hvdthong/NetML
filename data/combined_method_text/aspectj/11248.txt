@@ -1,0 +1,50 @@
+org aspectj ajdt intern compil ast
+inter type method declar
+author jim hugunin
+inter type method declar intertypemethoddeclar inter type declar intertypedeclar
+check set modifi method checkandsetmodifiersformethod
+report problem user declar selector
+real selector realselector selector
+selector declar selector declaredselector
+refer bind referencebind declar class declaringclass bind declar class declaringclass
+declar modifi declaredmodifi extra compil modifi extracompilermodifi acc altern modifi problem accalternatemodifierproblem
+scope problem report problemreport duplic modifi method duplicatemodifierformethod type bind ontypebind
+point test bit reserv
+real modifi realmodifi declar modifi declaredmodifi extra compil modifi extracompilermodifi acc flag accjustflag
+check abnorm modifi
+unexpect modifi unexpectedmodifi class file constant classfileconst acc public accpubl class file constant classfileconst acc privat accpriv class file constant classfileconst acc protect accprotect
+class file constant classfileconst acc abstract accabstract class file constant classfileconst acc static accstat class file constant classfileconst acc final accfin class file constant classfileconst acc synchron accsynchron class file constant classfileconst acc nativ accn class file constant classfileconst acc strictfp accstrictfp
+real modifi realmodifi unexpect modifi unexpectedmodifi
+scope problem report problemreport illeg modifi method illegalmodifierformethod
+declar modifi declaredmodifi extra compil modifi extracompilermodifi acc flag accjustflag unexpect modifi unexpectedmodifi
+check incompat modifi visibl bit isol visibl bit
+accessor bit accessorbit real modifi realmodifi class file constant classfileconst acc public accpubl class file constant classfileconst acc protect accprotect class file constant classfileconst acc privat accpriv
+accessor bit accessorbit accessor bit accessorbit
+scope problem report problemreport illeg visibl modifi combin method illegalvisibilitymodifiercombinationformethod type bind ontypebind
+restrict disabl protect privat
+accessor bit accessorbit class file constant classfileconst acc public accpubl
+accessor bit accessorbit class file constant classfileconst acc protect accprotect
+declar modifi declaredmodifi class file constant classfileconst acc protect accprotect
+accessor bit accessorbit class file constant classfileconst acc privat accpriv
+declar modifi declaredmodifi class file constant classfileconst acc privat accpriv
+accessor bit accessorbit class file constant classfileconst acc protect accprotect accessor bit accessorbit class file constant classfileconst acc privat accpriv
+declar modifi declaredmodifi class file constant classfileconst acc privat accpriv
+check modifi incompat abstract modifi
+declar modifi declaredmodifi class file constant classfileconst acc abstract accabstract
+incompat abstract incompatiblewithabstract class file constant classfileconst acc static accstat class file constant classfileconst acc final accfin class file constant classfileconst acc synchron accsynchron class file constant classfileconst acc nativ accn class file constant classfileconst acc strictfp accstrictfp
+declar modifi declaredmodifi incompat abstract incompatiblewithabstract
+scope problem report problemreport illeg abstract modifi combin method illegalabstractmodifiercombinationformethod type bind ontypebind
+type bind ontypebind abstract isabstract
+scope problem report problemreport abstract method abstract class abstractmethodinabstractclass sourc type bind sourcetypebind type bind ontypebind
+disabl backward compat javac enabl mark privat method final
+method final class final
+methodbind declaringclass isfin
+modifi accfin
+nativ method tag strictfp
+declar modifi declaredmodifi class file constant classfileconst acc nativ accn declar modifi declaredmodifi class file constant classfileconst acc strictfp accstrictfp
+scope problem report problemreport nativ method strictfp nativemethodscannotbestrictfp type bind ontypebind
+static member author static member top level type
+real modifi realmodifi class file constant classfileconst acc static accstat declar class declaringclass nest type isnestedtyp declar class declaringclass static isstat
+scope problem report problemreport unexpect static modifi method unexpectedstaticmodifierformethod type bind ontypebind
+restor true selector problem report
+selector real selector realselector

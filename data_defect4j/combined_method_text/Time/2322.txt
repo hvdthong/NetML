@@ -1,0 +1,10 @@
+author stephen colebourn
+date time field type datetimefieldtyp era
+org joda time chrono
+refactor coptic era date time field copticeradatetimefield
+era text ieratext text
+restrict constructor
+author brian neill o'neil
+basic singl era date time field basicsingleeradatetimefield string text
+time calcul coptic era compon time
+basic singl era date time field basicsingleeradatetimefield base date time field basedatetimefield

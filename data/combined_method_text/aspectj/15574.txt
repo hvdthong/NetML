@@ -1,0 +1,11 @@
+org aspectj asm
+author mik kersten
+hierarchi ihierarchi serializ
+return match
+param parent
+param kind null
+return null found
+program element iprogramel find element label findelementforlabel
+program element iprogramel parent
+program element iprogramel kind kind
+string label

@@ -1,0 +1,17 @@
+optim algorithm inherit
+param type object function optim
+set iter evalu count
+set max evalu setmaxevalu max evalu maxevalu
+link abstract scalar optim abstractscalaroptim
+org apach common math optim gener
+common math
+base handl boiler plate method threshold
+evalu set maxim count setmaximalcount max evalu maxevalu
+base implement optim multivari scalar function
+max evalu maxevalu max evalu maxevalu
+base abstract scalar optim baseabstractscalaroptim multivari real function multivariaterealfunct
+version revis date
+common fast math fastmath
+link abstract scalar differenti optim abstractscalardifferentiableoptim
+intend enforc intern coher
+inherit doc inheritdoc

@@ -1,0 +1,43 @@
+org apach common math3 analysi function gaussian parametr gaussian function
+point pointa geti
+point pointa getx
+paramet fitter fit
+rang except outofrangeexcept code
+gaussian fitter gaussianfitt fitter gaussian fitter gaussianfitt
+getx geti getx getx
+weight observ point weightedobservedpoint point pointb point twopoint
+param determin
+rang except outofrangeexcept
+point pointb geti
+fit point link
+getx
+version
+gaussian fitter gaussianfitt curv fitter curvefitt
+levenberg marquardt optim levenbergmarquardtoptim
+fitter add observ point addobservedpoint
+param point point interpol
+point pointb geti point pointa geti
+geti
+interpol bound point
+usag
+except zeroexcept code idx step idxstep
+param idx step idxstep index step search interpol bound point
+param start idx startidx index point start search
+interpol interpolatexati weight observ point weightedobservedpoint point
+gaussian fitter gaussianfitt curv fitter curvefitt gaussian parametr
+idx step idxstep
+deprec remov
+except zeroexcept
+pre
+point pointb getx
+weight observ point weightedobservedpoint point twopoint
+weight observ point weightedobservedpoint point twopoint interpol point getinterpolationpointsfori point start idx startidx idx step idxstep
+interpol point determin
+geti geti
+rang code point
+point pointa geti point pointb getx point pointa getx
+start idx startidx idx step idxstep
+org apach common math3 optim fit
+weight observ point weightedobservedpoint point pointa point twopoint
+start idx startidx
+interpol point getinterpolationpointsfori point start idx startidx idx step idxstep

@@ -1,0 +1,15 @@
+org aspectj util
+file util fileutil
+creat file resolv path special
+param dir file parent directori file
+param path path parent directori filenam
+return file file
+file file newfil file dir string path
+equal path
+dir
+equal path
+file parent dir parentdir dir parent file getparentfil
+parent dir parentdir
+parent dir parentdir
+file dir
+file dir path

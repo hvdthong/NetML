@@ -1,0 +1,54 @@
+org aspectj weaver bcel
+annot defin aspect reader
+read java annot turn ajattribut
+author href mailto alex gnilux dot alexandr vasseur
+attribut atajattribut
+read afterthrow
+param runtimeannot
+param struct
+return true found
+handl throw annot handleafterthrowingannot runtim annot runtimeannot runtim annot runtimeannot attribut method struct ajattributemethodstruct struct resolv pointcut definit resolvedpointcutdefinit pre resolv pointcut preresolvedpointcut
+annot annot getannot runtim annot runtimeannot ajc member maker ajcmembermak afterthrow annot afterthrow annot
+element pair elementnamevaluepair ann annvalu annot element getannotationel
+element pair elementnamevaluepair ann pointcut annpointcut annot element getannotationel pointcut
+element pair elementnamevaluepair ann thrown annthrown annot element getannotationel throw
+extract pointcut thrown type bind check
+string pointcut
+string thrown
+ann annvalu ann pointcut annpointcut ann annvalu ann pointcut annpointcut
+report error reporterror afterthrow 'value' 'poincut' provid struct
+ann annvalu
+pointcut ann annvalu getvalu stringifi stringifyvalu
+pointcut ann pointcut annpointcut getvalu stringifi stringifyvalu
+null empti isnullorempti pointcut
+report error reporterror afterthrow 'value' 'poincut' provid struct
+ann thrown annthrown
+thrown ann thrown annthrown getvalu stringifi stringifyvalu
+null empti isnullorempti thrown
+thrown
+target arg bind
+exclud thrown bind pointcut bind extraarg bind
+formal bind formalbind bind org aspectj weaver pattern formal bind formalbind
+bind thrown extract bind extractbind struct extract bind extractbind struct thrown
+unread debug info except unreadabledebuginfoexcept unread debug info except unreadabledebuginfoexcept
+scope iscop bind bind scope bindingscop
+struct enclos type enclosingtyp
+struct context
+bind
+joinpoint staticjoinpoint bind
+extra argument extraargu extract extra argument extractextraargu struct method
+return bind
+thrown
+extra argument extraargu advic extra argument extraargu
+pointcut
+pre resolv pointcut preresolvedpointcut
+pre resolv pointcut preresolvedpointcut pointcut getpointcut
+pars pointcut parsepointcut pointcut struct
+null return fals pars error
+resolv bind
+set ignor unbound bind name setignoreunboundbindingnam bind
+struct attribut ajattribut add
+attribut ajattribut advic attribut adviceattribut
+advic kind advicekind throw afterthrow
+extra argument extraargu
+struct context

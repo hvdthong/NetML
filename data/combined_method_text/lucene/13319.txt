@@ -1,0 +1,62 @@
+set
+comput
+tvx tvx tvx tvx tvx tvx tvx tvx
+scan
+int int int
+readvlong readvlong
+number number number number number number number number
+except
+num num num num
+file file file file
+getfilepoint
+tvd tvd tvd tvd tvd tvd tvd tvd
+tvf tvf
+seek seek seek seek
+termvectorsread
+size
+index
+tvdposit tvdposit
+docnum docnum docnum
+readvint readvint readvint
+version2 version2
+fieldnumb fieldnumb fieldnumb
+found found found found found found
+pointer pointer pointer
+apach
+system system system system
+long long long long
+field field field field field field field field field field field field field
+written
+valid
+version version
+reader
+seektvx
+setdocumentnumb
+document document document
+opt
+info
+full
+string
+format format format format format format format
+read read read read read read read read read
+fieldcount fieldcount fieldcount
+term term term
+readlong readlong
+ioexcept
+println println println println
+fieldinfo
+org
+termvectormapp
+segment
+requir
+count count
+mapper mapper mapper mapper
+account
+doc doc doc
+fieldabl
+vector vector vector
+lucen
+cloneabl
+posit posit posit posit posit posit posit posit
+readtermvector
+order

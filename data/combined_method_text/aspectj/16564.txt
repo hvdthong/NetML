@@ -1,0 +1,19 @@
+org aspectj org eclips jdt core dom
+advicedeclar dom ast node
+sourc code fork methoddeclar
+abstract advicedeclar methoddeclar
+return type
+author ajh02
+advic declar advicedeclar bodi declar bodydeclar
+ast node astnod intern set child properti internalgetsetchildproperti child properti descriptor childpropertydescriptor properti ast node astnod child
+properti javadoc properti javadoc properti
+javadoc getjavadoc
+set javadoc setjavadoc javadoc child
+properti pointcut properti pointcut properti
+pointcut getpointcut
+set pointcut setpointcut pointcut design pointcutdesign child
+properti bodi properti bodi properti
+bodi getbodi
+set bodi setbodi block child
+default implement flag error
+intern set child properti internalgetsetchildproperti properti child

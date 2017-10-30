@@ -1,0 +1,37 @@
+org aspectj weaver
+type typex annot element annotatedel
+parameter signatur ljava langstr ljava util list ljava lang string
+routin return arrai typex repres top level type paramet
+type paramet parameter recurs
+type typex process parameter processparameter string param sig paramsig startpo endpo
+debug
+debug
+string buffer stringbuff string buffer stringbuff
+append param sig paramsig append
+param sig paramsig length
+startpo endpo append
+startpo endpo append
+append
+append
+system err println string tostr
+posn startpo
+list paramet type parametertyp arrai list arraylist
+posn endpo param sig paramsig char charat posn
+angli nextangli param sig paramsig index indexof posn
+semi nextsemi param sig paramsig index indexof posn
+angli nextangli semi nextsemi angli nextangli nextangli nextsemi nextangli type parameter
+simpl type
+paramet type parametertyp add type typex signatur forsignatur param sig paramsig substr posn semi nextsemi
+posn semi nextsemi posn nextsemi jump type
+angli nextangli semi nextsemi angli nextangli nextangli nextsemi nextangli parameter type ljava util set ljava util string
+count
+po angli nextangli
+count po
+param sig paramsig char charat po
+count
+count
+string param sig paramsig substr posn po
+paramet type parametertyp add type typex signatur forsignatur
+posn po
+except bcexcept hell param sig paramsig substr posn
+type typex paramet type parametertyp arrai toarrai type typex

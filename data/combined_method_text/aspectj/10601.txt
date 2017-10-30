@@ -1,0 +1,20 @@
+org aspectj ajd intern
+author mik kersten
+tree structur view builder treestructureviewbuild
+structur view node istructureviewnod inherit children getinheritancechildren program element iprogramel node list associ
+istructureviewnod treenod nodefactori createnod node
+structureviewnod treenod structureviewnodeadapt node
+list relat iprogramel node getrel
+runtim except runtimeexcept unimpl
+relat null
+iter relat iter hasnext
+irelationship relat irelationship
+relat getnam equal inherit
+iter it2 relat gettarget iter it2 hasnext
+iprogramel pnode linknod it2 getprogramelementnod
+structureviewnod newnod getinheritancechildren pnode associ
+structureviewnod typechildren buildtre newnod getstructurenod associ
+int typechildren getchildren size
+newnod add structureviewnod typechildren getchildren
+treenod add newnod
+return treenod

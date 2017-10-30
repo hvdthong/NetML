@@ -1,0 +1,6 @@
+org apach lucen index
+segment term doc segmenttermdoc term doc termdoc
+close except ioexcept
+freq stream freqstream close
+skip list reader skiplistread
+skip list reader skiplistread close

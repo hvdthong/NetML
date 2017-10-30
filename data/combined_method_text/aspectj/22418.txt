@@ -1,0 +1,23 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pointcut pars annot pointcut parseannotationpointcut
+start token sourc tokensourc index getindex
+token itoken token sourc tokensourc peek
+string kind pars identifi parseidentifi
+token itoken type variabl token possibletypevariabletoken token sourc tokensourc peek
+string type variabl typevari pars simpl type variabl list maybeparsesimpletypevariablelist
+type variabl typevari
+string messag
+assert type variabl assertnotypevari type variabl typevari messag type variabl token possibletypevariabletoken
+token sourc tokensourc set index setindex start
+kind equal annot
+pars annot pointcut parseatannotationpointcut
+kind equal arg
+pars arg annot pointcut parseargsannotationpointcut
+kind equal kind equal target
+pars target annot pointcut parsethisortargetannotationpointcut
+kind equal
+pars annot pointcut parsewithinannotationpointcut
+kind equal withincod
+pars code annot pointcut parsewithincodeannotationpointcut
+parser except parserexcept pointcut

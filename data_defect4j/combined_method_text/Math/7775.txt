@@ -1,0 +1,244 @@
+solv squar problem levenberg marquardt algorithm
+coeff1 work1 work1
+dir der dirder coeff1 coeff2
+weight residu jacobian weightedresidualjacobian diag diagr
+inherit doc inheritdoc
+infring assum legal liabil
+math ab act red actr 2204e pre red prere 2204e ratio
+scale point norm column
+initi step bound delta
+test success iter
+delta norm xnorm
+row
+diag point
+oldx col
+ratio
+tmp vec tmpvec object
+org apach common math optim gener
+updat jacobian updatejacobian
+ortho toler orthotoler
+solv col solvedcol math min row col
+vectori point pair vectorialpointvaluepair optim dooptim math user except mathuserexcept
+href http www netlib org minpack disclaim conveni
+tmp vec tmpvec residu
+converg checker convergencecheck vectori point pair vectorialpointvaluepair checker converg checker getconvergencecheck
+coeff1
+unit state unit state depart energi
+levenberg marquardt optim levenbergmarquardtoptim abstract squar optim abstractleastsquaresoptim
+merchant fit purpos titl
+modif permit provid condit
+determin levenberg marquardt paramet
+includ determin resolut
+correct strong
+levenberg marquardt optim levenbergmarquardtoptim abstract squar optim abstractleastsquaresoptim serializ
+chicago oper argonn nation laboratori code
+test termin stringent toler
+possibl loss damag strong
+initi jacobian
+sum jacobian residu
+max cosin maxcosin math max max cosin maxcosin math ab sum cost
+author jorg origin fortran
+vectori point pair vectorialpointvaluepair optim dooptim
+kenneth hillstrom
+work1 jacobian dir dirj
+jac norm jacnorm
+iter
+obj oldobj row
+norm xnorm
+work1 col
+employe disclaim warranti express
+diag math max diag jac norm jacnorm
+updat step bound
+energi employe liabl indirect
+beta col
+2204e machin epsilon ieee754
+point oldx
+diag fast math fastmath max diag jac norm jacnorm
+copyright notic list condit
+argonn nation laboratori minpack project march
+converg except convergenceexcept local format localizedformat small orthogon toler
+cost
+fast math fastmath ab act red actr cost rel toler costrelativetoler
+appliqu eacut agrav l'art l'ing eacut nieur masson
+solv ignor point smallest impact
+burton garbow
+notic list condit disclaim
+tmp
+oldx point
+math ab act red actr cost rel toler costrelativetoler
+dir lmdir dir lmdir
+author burton garbow origin fortran
+liabil assert basi contract tort
+diag
+sum
+strong limit liabil event copyright
+increment iter counter incrementiterationscount
+work3 col
+current
+act red actr
+version
+local point
+version revis date
+cost rel toler costrelativetoler
+reproduc
+max cosin maxcosin ortho toler orthotoler
+function evalu except functionevaluationexcept
+norm lmnorm fast math fastmath sqrt norm lmnorm
+author origin fortran version
+fail iter reset previou valu
+optim except optimizationexcept local format localizedformat small orthogon toler
+current vectori point pair vectorialpointvaluepair point object
+delta math min delta norm lmnorm
+parti acknowledg
+rewritten algorithm
+met
+solv col solvedcol
+incident consequenti special punit damag
+permut col
+updat residu cost updateresidualsandcost
+approxim solut
+checker converg iter getiter previou current
+jorg
+solv col solvedcol fast math fastmath min row col
+tabl border width cellpad align center bgcolor e0e0e0
+redistribut sourc binari form
+anymor
+solut orthogon jacobian
+tmp vec tmpvec weight residu weightedresidu
+re oldr tmp vec tmpvec
+par rel toler parrelativetoler
+par lmpar
+levenberg marquardt specif converg paramet
+cost previou cost previouscost
+residu re oldr
+max cosin maxcosin
+jacobian column norm rank matrix loop bound
+kind natur includ limit loss
+us softwar repres
+work2 col
+col
+par lmpar tmp
+reduct
+default converg criteria
+work1 weight residu jacobian weightedresidualjacobian dir dirj
+point
+rescal
+delta norm xnorm initi step bound factor initialstepboundfactor initi step bound factor initialstepboundfactor norm xnorm
+delta tmp fast math fastmath min delta norm lmnorm
+author argonn nation laboratori minpack project march origin fortran
+redistribut sourc code retain copyright
+disclaim document materi provid
+permut
+chang implement
+pc2 previou cost previouscost previou cost previouscost
+check orthogon function vector jacobian column
+delta 2204e norm xnorm
+holder unit state unit state depart
+qtf weight residu weightedresidu
+cost previou cost previouscost tmp
+jacobian matrix diagon element
+code product includ softwar develop univers
+jac norm jacnorm col
+norm xnorm math sqrt norm xnorm
+checker
+act red actr dir der dirder dir der dirder act red actr
+previou cost previouscost cost
+outer loop
+vectori point pair vectorialpointvaluepair previou current
+point oldx dir lmdir
+max cosin maxcosin 2204e
+save state
+diag diagr col
+includ acknowledg
+comput point norm evolut direct
+ratio ratio
+arrai share method
+includ neglig strict liabil
+uninterrupt error free error
+delta
+norm lmnorm math sqrt norm lmnorm
+delta tmp math min delta norm lmnorm
+optim except optimizationexcept orthogon toler small
+obj oldobj tmp vec tmpvec
+comput scale predict reduct
+iter adjust initi step bound
+comput scale actual reduct
+fast math fastmath ab act red actr 2204e pre red prere 2204e ratio
+iter firstiter
+converg reach
+vectori converg checker
+par lmpar ratio
+determin paramet determinelmparamet re oldr delta diag work1 work2 work3
+qty qtf
+author kenneth hillstrom origin fortran
+norm lmnorm
+impli includ limit impli warranti
+optim except optimizationexcept local format localizedformat small paramet rel toler
+loop
+warrant softwar function
+overrid
+implement work determin system
+parti warn
+qty residu
+test converg
+redistribut binari form reproduc
+delta norm lmnorm
+checker converg iter previou current
+system point equat determin system
+sum weight residu jacobian weightedresidualjacobian qtf
+ratio pre red prere act red actr pre red prere
+tabl
+href http www netlib org minpack lmder lmder routin minor
+optim except optimizationexcept cost rel toler small
+lascaux theodor book analys num eacut riqu matriciel
+decomposit rewritten algorithm
+diag col
+work1
+redistribut polici minpack
+diag dir lmdir
+softwar infring privat own right
+resolut engin simpl translat minpack
+respons accuraci complet
+dir lmdir col
+vectori point pair vectorialpointvaluepair current vectori point pair vectorialpointvaluepair point object
+determin paramet determinelmparamet qtf delta diag work1 work2 work3
+comput decomposit jacobian matrix
+sum squar
+minpack copyright notic univers chicago
+function evalu except functionevaluationexcept optim except optimizationexcept illeg argument except illegalargumentexcept
+pre red prere coeff1 coeff2
+end user document includ redistribut
+distribut
+pre red prere cost rel toler costrelativetoler
+scale direct deriv
+optim except optimizationexcept local format localizedformat small cost rel toler
+inherit converg checker decomposit
+altern acknowledg softwar
+coeff2 par lmpar norm lmnorm norm lmnorm pc2
+object obj oldobj
+dir dirj dir lmdir
+decomposit qrdecomposit
+right reserv
+improv
+success iter updat norm
+weight residu weightedresidu re oldr
+ratio actual predict reduct
+warranti kind copyright holder
+max cosin maxcosin fast math fastmath max max cosin maxcosin fast math fastmath ab sum cost
+optim except optimizationexcept paramet rel toler small
+profit loss data reason whatsoev
+evalu function calcul norm
+jacobian diag diagr
+delta fast math fastmath min delta norm lmnorm
+comput re
+re oldr row
+converg except convergenceexcept local format localizedformat small cost rel toler
+vectori point pair vectorialpointvaluepair point object
+converg except convergenceexcept local format localizedformat small paramet rel toler
+evalu function start point calcul norm
+strong warranti disclaim softwar suppli
+delta par rel toler parrelativetoler norm xnorm
+coeff1 coeff1 pc2
+norm xnorm fast math fastmath sqrt norm xnorm
+qtf row
+vectori point pair vectorialpointvaluepair optim dooptim function evalu except functionevaluationexcept

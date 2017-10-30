@@ -1,0 +1,10 @@
+org apach common math3 analysi solver
+min max start startvalu
+polynomi function polynomialfunct
+inherit doc inheritdoc
+base solver
+abstract polynomi solver abstractpolynomialsolv
+overrid
+version
+setup max eval maxev polynomi function polynomialfunct
+setup max eval maxev min max start startvalu

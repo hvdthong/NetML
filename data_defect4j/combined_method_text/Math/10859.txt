@@ -1,0 +1,20 @@
+org apach common math3 analysi solver
+solv max eval maxev univari solver util univariatesolverutil midpoint min max
+param min lower bound interv
+version
+min max
+function
+evalu except toomanyevaluationsexcept
+find midpoint code min code max
+code min max
+maximum evalu count exceed
+solv max eval maxev univari differenti function univariatedifferentiablefunct
+newton' method find zero real univari differenti
+overrid
+implement href http mathworld wolfram newton method newtonsmethod html
+param max eval maxev maximum number evalu
+newton raphson solver newtonraphsonsolv abstract univari differenti solver abstractunivariatedifferentiablesolv
+param function solv
+param max upper bound interv
+org apach common math3 except evalu except toomanyevaluationsexcept
+org apach common math3 except number larg except numberistoolargeexcept

@@ -1,0 +1,21 @@
+dot product dotproduct
+current point search direct
+shift point shiftedpoint current point currentpoint clone
+inherit doc inheritdoc
+support fletcher reev polak ribièr
+support option precondit
+linear conjug gradient optim nonlinearconjugategradientoptim
+link math unsupport oper except mathunsupportedoperationexcept bound pass
+link optim optim data optimizationdata optim
+version
+org apach common math3 optim nonlinear scalar gradient
+gradient length
+dot product search direct
+shift point shiftedpoint length
+linear conjug gradient optim
+shift point shiftedpoint search direct searchdirect
+constraint support call
+updat formula conjug search direct
+gradient comput object gradient computeobjectivegradi shift point shiftedpoint
+gradient object function
+dot product dotproduct gradient search direct searchdirect

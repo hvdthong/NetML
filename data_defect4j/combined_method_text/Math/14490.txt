@@ -1,0 +1,17 @@
+pre
+euler integr eulerintegr
+gill fourth order rung kutta
+integr ordinari differenti equat
+param step integr step
+gill static static static gill step interpol gillstepinterpol step
+sqrt
+org apach common math3 od nonstiff
+method explicit rung kutta method butcher arrai
+version
+simpl constructor
+eighth integr threeeighthesintegr
+classic rung kutta integr classicalrungekuttaintegr
+gill integr gillintegr rung kutta integr rungekuttaintegr
+build fourth order gill integr step
+midpoint integr midpointintegr
+gill integr gillintegr step

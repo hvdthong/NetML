@@ -1,0 +1,14 @@
+org aspectj ajdt ajc
+build arg parser buildargpars main
+messag dump handler printwrit
+param flush true empti error
+return null string
+buildargpars
+string messag getothermessag flush
+error sink errorsink
+string result error sink errorsink string tostr trim
+result length
+result
+flush
+error sink errorsink set length setlength
+result

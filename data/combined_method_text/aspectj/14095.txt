@@ -1,0 +1,21 @@
+org aspectj apach bcel gener
+abstract super class instruct deal local variabl
+version localvariableinstruct java aclement exp
+author href mailto marku dahm berlin dahm
+local variabl instruct localvariableinstruct instruct
+read need data index file
+pre iload tag aload istor tag astor
+init file initfromfil byte sequenc bytesequ byte wide
+except ioexcept
+wide
+byte read unsign short readunsignedshort
+opcod constant iload
+opcod constant aload
+opcod constant istor
+opcod constant astor
+byte read unsign byte readunsignedbyt
+opcod constant aload opcod constant aload compact load instruct iload
+opcod constant iload
+assert istor tag astor
+opcod constant istor
+work length workoutlength

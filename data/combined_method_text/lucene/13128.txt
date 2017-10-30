@@ -1,0 +1,12 @@
+org apach lucen index
+segment write state segmentwritest
+segment write state segmentwritest document writer documentswrit doc writer docwrit directori directori string segment segmentnam string doc store segment docstoresegmentnam num doc numdoc
+num doc store numdocsinstor term index interv termindexinterv
+doc writer docwrit doc writer docwrit
+directori directori
+segment segmentnam segment segmentnam
+doc store segment docstoresegmentnam doc store segment docstoresegmentnam
+num doc numdoc num doc numdoc
+num doc store numdocsinstor num doc store numdocsinstor
+term index interv termindexinterv term index interv termindexinterv
+flush file flushedfil hash set hashset string

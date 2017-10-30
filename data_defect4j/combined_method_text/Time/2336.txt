@@ -1,0 +1,11 @@
+author stephen colebourn
+instant
+set instant string text local local
+org joda time chrono
+refactor coptic era date time field copticeradatetimefield
+illeg field except illegalfieldvalueexcept date time field type datetimefieldtyp era text
+era text ieratext equal text equal text
+inherit doc inheritdoc
+author brian neill o'neil
+time calcul coptic era compon time
+basic singl era date time field basicsingleeradatetimefield base date time field basedatetimefield

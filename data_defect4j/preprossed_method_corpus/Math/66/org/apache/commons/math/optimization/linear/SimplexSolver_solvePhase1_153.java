@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math optim linear
+
+
+
+
+
+
+
+
+
+
+solv linear problem phase simplex method
+version revis date
+
+
+simplex solver simplexsolv abstract linear optim abstractlinearoptim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+solv phase simplex method
+param tableau simpl tableau problem
+except optim except optimizationexcept maxim number iter
+exceed problem found bound solut
+feasibl solut
+
+solv phase1 solvephase1 simplex tableau simplextableau tableau optim except optimizationexcept
+
+make phase
+tableau num artifici variabl getnumartificialvari
+
+
+
+tableau optim isoptim
+iter doiter tableau
+
+
+feasibl solut
+math util mathutil equal tableau entri getentri tableau rh offset getrhsoffset epsilon
+feasibl solut except nofeasiblesolutionexcept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

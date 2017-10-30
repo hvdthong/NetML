@@ -1,0 +1,23 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+reset state resetst
+java class javaclass
+store classnam reload
+point reli world evict reweav multipl time
+except bcexcept weav evict type
+bitflag
+annot type annotationtyp
+annot
+interfac signatur interfacesignatur
+superclass signatur superclasssignatur
+superclass superclassnam
+field
+method
+pointcut
+claus perclaus
+weaver state weaverst
+lazi class gen lazyclassgen
+woven hasbeenwoven
+object isobject java class javaclass superclass index getsuperclassnameindex
+annot style aspect isannotationstyleaspect
+ensur aspect attribut unpack ensureaspectjattributesunpack

@@ -1,0 +1,2 @@
+Implement java.util.List interface in NativeArray
+As proposed by Attila, JavaScript Arrays should implement the java.util.List interface like ScriptableObject implements java.util.Map (see bug 448816). This would make exchange of list-like date between JavaScript and Java in Rhino a breeze.

@@ -1,0 +1,11 @@
+org apach common math3 fit leastsquar
+abstract squar optim abstractleastsquaresoptim optim abstract squar optim abstractleastsquaresoptim optim
+jacobian point
+jacobian param
+param param point jacobian evalu
+comput jacobian matrix
+version
+param optim concret optim
+base implement squar optim
+method error estim
+comput jacobian computejacobian param

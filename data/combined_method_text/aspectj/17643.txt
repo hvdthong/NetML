@@ -1,0 +1,67 @@
+org aspectj tool ajc
+programmat command line interfac aspectj compil
+compil icommand obtain reflect
+thread safe
+default messag print emit
+info messag output stream
+warn error error stream
+client handl messag regist holder
+pre main main main
+imessagehold holder messagehandl
+main sethold holder pre
+client control command complet
+instal runnabl
+pre main setcompletionrunn runnabl pre
+main
+render messag differ
+abort prefix stack trace feedback request
+actual messag empti tostr
+prefix messag part file line
+context suffix messag context
+param messag imessag render
+return string render imessag null
+string render messag imessag messag
+imessag kind kind messag getkind
+string buffer stringbuff string buffer stringbuff
+string text messag messag getmessag
+text equal abort except abortexcept messag text messag text
+text
+string tostr lang util langutil empti isempti text
+string tostr
+text messag string tostr
+sourc locat isourceloc loc messag sourc locat getsourceloc
+string context
+loc
+file file loc sourc file getsourcefil
+file
+string file getnam
+string tostr text index indexof
+append file util fileutil path getbestpath file
+loc line getlin
+append loc line getlin
+col loc column getcolumn
+col
+append col
+append
+context loc context getcontext
+wes' suggest dev
+messag kind getkind messag imessag error
+append error
+messag kind getkind messag imessag warn
+append warn
+append text
+context
+append lang util langutil eol
+append context
+string detail messag detail getdetail
+detail
+append lang util langutil eol
+append
+append detail
+throwabl thrown messag thrown getthrown
+thrown
+append lang util langutil eol
+append main render except user renderexceptionforus thrown
+messag extra sourc locat getextrasourceloc empti isempti
+string tostr
+messag util messageutil add extra sourc locat addextrasourceloc messag string tostr

@@ -1,0 +1,5 @@
+add level property jar zip tasks
+jar zip tasks lack compression level settings important
+building jars j2me platform size matters changed
+code sources locally hardcoded level deflater compression
+change helpful developers

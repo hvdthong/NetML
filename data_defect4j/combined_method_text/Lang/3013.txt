@@ -1,0 +1,20 @@
+oper link java lang char sequenc charsequ
+region match
+param start index start code substr char sequenc charsequ
+version
+param ignor case ignorecas insensit
+region match regionmatch char sequenc charsequ ignor case ignorecas start thisstart
+param start thisstart index start code char sequenc charsequ
+param length charact length region
+todo implement convert string
+param substr code char sequenc charsequ look
+char sequenc util charsequenceutil
+string tostr region match regionmatch ignor case ignorecas start thisstart substr string tostr start length
+param code char sequenc charsequ process
+green implement region match regionmatch
+java lang char sequenc charsequ
+code safe
+char sequenc charsequ substr start length
+org apach common lang3
+string region match regionmatch ignor case ignorecas start thisstart string substr start length
+string substr string

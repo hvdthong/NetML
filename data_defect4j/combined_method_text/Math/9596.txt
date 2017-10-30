@@ -1,0 +1,14 @@
+author apach softwar foundat
+org apach common math util
+base formatt composit object complex number vector
+hold index whitespac charact
+pars ignor whitespac parseandignorewhitespac string sourc
+param po input ouput pars paramet output code po code
+pars posit parseposit po
+pars code sourc code whitespac charact found
+version revis date
+composit format compositeformat format
+pars charact parsenextcharact sourc po
+composit format compositeformat
+po set index setindex po index getindex
+param sourc string pars

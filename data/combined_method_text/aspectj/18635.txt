@@ -1,0 +1,26 @@
+org aspectj weaver
+util method gener detail iprogramel
+creat model sourc asmelementformatt visit
+fill model binari aspect asmrelationshipprovid
+bug
+asm relationship util asmrelationshiputil
+gener pointcut detail pointcut
+anonym pointcut return anonym pointcut
+name pointcut call return
+string gen pointcut detail genpointcutdetail pointcut pcd
+string buffer stringbuff detail string buffer stringbuff
+pcd refer pointcut referencepointcut
+refer pointcut referencepointcut refer pointcut referencepointcut pcd
+detail append append doubl dot doubl dot
+pcd pointcut andpointcut
+pointcut andpointcut pointcut andpointcut pcd
+left getleft refer pointcut referencepointcut
+detail append left getleft string tostr append doubl dot doubl dot
+detail append pointcut anonym pointcut anonym append doubl dot doubl dot
+pcd pointcut orpointcut
+pointcut orpointcut pointcut orpointcut pcd
+left getleft refer pointcut referencepointcut
+detail append left getleft string tostr append doubl dot doubl dot
+detail append pointcut anonym pointcut anonym append doubl dot doubl dot
+detail append pointcut anonym pointcut anonym
+detail string tostr

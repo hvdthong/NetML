@@ -1,0 +1,9 @@
+org aspectj util
+lang util langutil
+return true input infix
+accept string acceptstr string input
+result
+lang util langutil empti isempti input
+result infix length
+result input index indexof infix
+result

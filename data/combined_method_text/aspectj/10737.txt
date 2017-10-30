@@ -1,0 +1,5 @@
+org aspectj ajd swing
+author mik kersten
+browser view browserview panel jpanel
+string select config getselectedconfig
+string config combo box config combobox select item getselecteditem

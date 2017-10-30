@@ -1,0 +1,20 @@
+org aspectj apach bcel gener
+instanc class gener type
+version instruct main purpos
+byte code gener backend compil subclass
+add creat method
+version instructionfactori java aclement exp
+author href mailto marku dahm berlin dahm
+constant
+instruct factori instructionfactori
+creat call popular system println method
+param string print
+instruct list instructionlist creat println createprintln string
+instruct list instructionlist instruct list instructionlist
+add fieldref addfieldref java lang system
+ljava printstream
+println add methodref addmethodref java printstream println
+ljava lang string
+append getstat
+append push
+append invokevirtu println

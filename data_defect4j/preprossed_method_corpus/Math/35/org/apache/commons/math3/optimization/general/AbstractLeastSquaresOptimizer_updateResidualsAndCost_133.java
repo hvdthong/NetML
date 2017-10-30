@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math3 optim gener
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+base implement squar optim
+handl boilerpl method threshold set
+jacobian error estim
+
+link differenti multivari vector function differentiablemultivariatevectorfunct jacobian
+function argument method
+link optim differenti multivari vector function differentiablemultivariatevectorfunct
+optim assum matrix return
+link multivari matrix function multivariatematrixfunct method row
+iter model function column iter paramet
+number row equal length code target arrai
+number column equal length code start point startpoint arrai
+
+version
+
+
+abstract squar optim abstractleastsquaresoptim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+updat residu arrai cost function
+dimens mismatch except dimensionmismatchexcept dimens match
+problem dimens
+org apach common math3 except evalu except toomanyevaluationsexcept
+maxim number evalu exceed
+
+updat residu cost updateresidualsandcost
+object comput object computeobjectivevalu point
+object length row
+dimens mismatch except dimensionmismatchexcept object length row
+
+
+target valu targetvalu target ref gettargetref
+residu weight residualsweight weight ref getweightref
+
+cost
+row
+residu target valu targetvalu object
+weight residu weightedresidu residu fast math fastmath sqrt residu weight residualsweight
+cost residu weight residualsweight residu residu
+
+cost fast math fastmath sqrt cost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

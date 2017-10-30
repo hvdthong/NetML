@@ -1,0 +1,18 @@
+org aspectj weaver pattern
+pattern parser patternpars
+pars type variabl declar gener method start signatur pointcut identifi
+type variabl name gener type
+param includeparameterizedtyp
+return
+type variabl pattern list typevariablepatternlist pars type variabl list maybeparsetypevariablelist
+eat maybeeat
+list type var typevar arrai list arraylist
+type variabl pattern typevariablepattern pars type variabl parsetypevari
+type var typevar add
+eat maybeeat
+type variabl pattern typevariablepattern nextt pars type variabl parsetypevari
+type var typevar add nextt
+eat
+type variabl pattern typevariablepattern tv type variabl pattern typevariablepattern type var typevar size
+type var typevar arrai toarrai tv
+type variabl pattern list typevariablepatternlist tv

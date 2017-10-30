@@ -1,0 +1,8 @@
+org aspectj apach bcel gener annot
+annot gen annotationgen
+retriev immut version annotationgen
+annot annot getannot
+annot annot type index typeindex cpool constant pool getconstantpool runtim visibl isruntimevis
+iter iter ev iter iter hasnext
+element pair gen elementnamevaluepairgen element element pair gen elementnamevaluepairgen iter
+add element pair addelementnamevaluepair element element pair getelementnamevaluepair

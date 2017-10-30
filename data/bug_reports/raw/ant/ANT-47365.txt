@@ -1,0 +1,19 @@
+Allow prefix for command line arguments
+Command line arguments for many applications consist of an option, which is a fixed string, immediately followed by a file name or path, which should follow platform conventions.
+
+Examples:
+'-I/my/include/dir' for gcc
+'--exclude-from=/path/to/excl.lst' for rsync
+'--filter=.- /path/to/excl.lst' for rsync is still a single option
+
+It is tedious to formulate this kind of command line arguments for e.g. exec, as one has to use pathconvert together with properties in order to ensure proper syntax for the file name and still include the prefix.
+
+I suggest the introduction of an attribute called prefix for the <arg> nested element, i.e. for the Commandline.Argument class. I guess there should also be a postfix attribute for consistency, though I believe it would be used much less often than the prefix. The above arguments could then be written as
+<arg prefix="-I" file="include/dir"/>
+<arg prefix="--exclude-from" file="excl.lst"/>
+<arg prefix="--filter=.- " file="excl.lst"/>
+
+I would suggest the prefix to be placed in front of every part of an argument, if it is specified using the line parameter and thus broken into parts. This might be useful e.g. to turn line="EL r" into the arguments '-Wl,EL' '-Wl,r' for gcc, while some other prefix would be appropriate for a different compiler.
+<arg prefix="${linker.option.prefix}" line="${linker.options.list}"/>
+
+I will write a patch and attach it here shortly.

@@ -1,0 +1,27 @@
+method implement link entri getentri access
+inherit doc inheritdoc
+destin
+copi matrix copysubmatrix select row selectedrow select column selectedcolumn
+abstract real matrix abstractrealmatrix
+col ncol select column selectedcolumn length
+matrix dimens mismatch except matrixdimensionmismatchexcept
+copi entri
+rang except outofrangeexcept null argument except nullargumentexcept data except nodataexcept
+select row selectedrow length select column selectedcolumn length
+destin length select column selectedcolumn length
+version
+destin length col ncol
+safeti check
+matrix dimens mismatch except matrixdimensionmismatchexcept destin length destin length
+matrix util matrixutil check matrix index checksubmatrixindex select row selectedrow select column selectedcolumn
+copi matrix copysubmatrix select row selectedrow select column selectedcolumn destin
+basic implement real matrix realmatrix method underli storag
+select column selectedcolumn length
+matrix dimens mismatch except matrixdimensionmismatchexcept destin length destin destinationi length
+destin destinationi length col ncol
+select row selectedrow length
+org apach common math3 linear
+matrix element deriv provid faster implement
+destin destinationi entri getentri select row selectedrow select column selectedcolumn
+destin destinationi destin
+destin length select row selectedrow length

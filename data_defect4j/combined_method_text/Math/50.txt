@@ -1,0 +1,12 @@
+hold
+field
+param type field element
+addit ident field
+org apach common math
+interfac repres href http mathworld wolfram field html field
+class implement singleton
+version revis date
+addit ident element field
+element field equal
+getzero
+field element fieldel

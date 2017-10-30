@@ -1,0 +1,13 @@
+org aspectj ajdt intern core builder
+build manag ajbuildmanag output class file provid ioutputclassfilenameprovid binari sourc provid ibinarysourceprovid compil adapt factori icompileradapterfactori
+file system filesystem librari access getlibraryaccess string classpath string filenam
+string default encod defaultencod build config buildconfig option getopt default encod defaultencod
+equal default encod defaultencod equal defaultencod nl
+default encod defaultencod defaultencod null nl
+bug arrai long number element classpath
+element classpath directori ensur element arrai set
+binari make classpath element directori build
+classpathdirectori object attempt sourc find binari
+int classpathmod int classpath length
+int classpath length classpathmod classpathdirectori binari
+file system filesystem classpath filenam default encod defaultencod classpath locat classpathloc binari

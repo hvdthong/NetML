@@ -1,0 +1,15 @@
+invalid empty zip file created with manifest
+with this project file
+<project name="blub" default="build" basedir=".">
+    <target name="build">
+        <jar jarfile="api.jar" manifest="MANIFEST.MF" duplicate="preserve">
+            <fileset dir="com">
+                <include name="**/*.class"/>
+            </fileset>
+        </jar>
+    </target>
+</project>
+I am getting a totally empty jar file which cannot be opened with
+java.util.Zip.ZipFile if the directory com is empty.
+
+This is similar to bug 31530.

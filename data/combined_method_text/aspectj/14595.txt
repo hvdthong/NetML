@@ -1,0 +1,10 @@
+org aspectj apach bcel gener annot
+enum element gen enumelementvaluegen element gen elementvaluegen
+ctor assum constant pool type
+typeidx valueidx ctor deseri
+enum element gen enumelementvaluegen type idx typeidx idx valueidx constant pool gen constantpoolgen cpool
+element gen elementvaluegen enum constant enum constant cpool
+type enum constant enum constant
+runtim except runtimeexcept element valu type enum built ctor
+type idx typeidx type idx typeidx
+idx valueidx idx valueidx

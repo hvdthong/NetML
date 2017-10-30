@@ -1,0 +1,35 @@
+org apach lucen search
+abstract link queri match document
+subset term provid link
+filteredtermsenum enumer
+queri directli subclass
+defin link gettermsenum provid link
+filteredtermsenum iter term
+match
+note link setrewritemethod
+link constant score boolean queri rewrit link
+score boolean queri rewrit encount
+link booleanqueri toomanyclaus except
+search number term
+search exce link
+booleanqueri getmaxclausecount set link
+setrewritemethod link constant score filter rewrit
+prevent
+recommend rewrit method link
+constant score auto rewrit default spend cpu
+comput unhelp score pick
+perform rewrit method queri
+score link fuzzyqueri
+link toptermsscoringbooleanqueryrewrit
+prioriti queue collect competit term
+hit limit
+note link querypars produc
+multitermqueri link
+constant score auto rewrit default default
+multi term queri multitermqueri queri
+collect term enum termsenum term enum termsenum byte ref bytesref byte boost except ioexcept
+term count termcount
+term count termcount term count limit termcountlimit doc visit count docvisitcount doc count cutoff doccountcutoff
+cut hascutoff
+pend term pendingterm copi length prefix copyusinglengthprefix byte
+doc visit count docvisitcount term enum termsenum doc freq docfreq

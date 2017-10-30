@@ -1,0 +1,44 @@
+set set set set set
+tokensourc tokensourc tokensourc
+int
+parser
+arg arg arg
+locat locat
+pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern pattern
+startpo startpo startpo
+eat eat eat eat
+start start start start
+parseatomictypepattern parseatomictypepattern
+var var var
+nottypepattern
+maybeeat maybeeat maybeeat
+type type type type type type type type type type type type type type
+po po po po
+singl
+peek peek peek
+sourc sourc sourc sourc
+org
+typepattern typepattern typepattern typepattern
+annotationtypepattern
+setannotationpatternfortypepattern setannotationpatternfortypepattern setannotationpatternfortypepattern
+maybeparseannotationpattern
+pars pars pars pars pars
+atom atom
+end end end
+true
+aspectj
+patternpars
+isvararg isvararg
+setisvararg
+parsesingletypepattern
+endpo endpo
+getend
+getstart getstart
+sourcecontext
+annot annot annot annot annot
+token token
+setloc
+context
+lose
+weaver
+parsetypepattern

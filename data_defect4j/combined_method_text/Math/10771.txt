@@ -1,0 +1,10 @@
+org apach common math3 analysi solver
+abstract univari solver abstractunivariatesolv rel accuraci relativeaccuraci
+base solver
+construct solver accuraci
+version
+abstract univari solver abstractunivariatesolv
+absolut accuraci absoluteaccuraci
+rel accuraci relativeaccuraci absolut accuraci absoluteaccuraci
+param absolut accuraci absoluteaccuraci maximum absolut error
+param rel accuraci relativeaccuraci maximum rel error

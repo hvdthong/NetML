@@ -1,0 +1,9 @@
+org aspectj weaver
+iter
+creat iter base base iter return
+element return return
+empti simpli return empti simpli return
+hasnext idempot
+iter append iter iter
+hasnext
+append1

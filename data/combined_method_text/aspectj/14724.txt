@@ -1,0 +1,11 @@
+org aspectj apach bcel util
+respons load class file classpath inspir
+sun tool classpath
+version classpath java aclement exp
+author href mailto marku dahm berlin dahm
+class path classpath serializ
+param file search java lang string
+param suffix file suffix java
+return full canon path file exist
+string path getpath string string suffix except ioexcept
+class file getclassfil suffix path getpath

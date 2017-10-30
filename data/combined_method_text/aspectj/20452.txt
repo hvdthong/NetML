@@ -1,0 +1,16 @@
+org aspectj weaver bcel
+bcel object type bcelobjecttyp abstract refer type deleg abstractreferencetypedeleg
+bcel object type bcelobjecttyp refer type referencetyp resolv type resolvedtypex java class javaclass java class javaclass expos weaver exposedtoweav
+resolv type resolvedtypex expos weaver exposedtoweav
+java class javaclass java class javaclass
+initi javaclass initializefromjavaclass
+ataj set deleg pointcut late lookup
+ref annot class hierarchi
+resolv type resolvedtypex set deleg setdeleg
+resolv type resolvedtypex sourc context getsourcecontext sourc context impl sourcecontextimpl unknown sourc context unknown sourc context
+set sourc context setsourcecontext sourc context impl sourcecontextimpl
+java lang object
+class java superclass
+object isobject java class javaclass superclass index getsuperclassnameindex
+ensur aspect attribut unpack ensureaspectjattributesunpack
+set sourcefilenam setsourcefilenam java class javaclass sourc file getsourcefilenam

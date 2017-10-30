@@ -1,0 +1,7 @@
+org aspectj ajd core
+class current custom java option
+java option javaopt
+return true option javaopt ignor
+javaopt warn fals
+ignor warn isignoreorwarn string option
+ignor equal option warn equal option

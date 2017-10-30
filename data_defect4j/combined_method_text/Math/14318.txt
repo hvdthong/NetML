@@ -1,0 +1,59 @@
+pre
+multistep integr nordsieck represent highli sensit
+primari insert equat data insertequationdata interpol interpol deriv getinterpolatedderiv dot ydot count
+nordsieck vector higher degre scale deriv
+org apach common math3 od nonstiff adam bashforth integr adamsbashforthintegr
+inherit doc inheritdoc
+scale dot ydot clone
+store previou step separ implement
+nordsieck initi high order deriv initializehighorderderiv step size stepsiz dot ydot
+equat mapper equationsmapp secondari expand secondari mapper getsecondarymapp
+step need comput deriv
+count length
+store end step
+count count length
+factor set low order
+step size stepsiz length length
+prev interpol previou time getprevioustim
+initi complet marker except initializationcompletedmarkerexcept
+scale deriv
+interpol set interpol time setinterpolatedtim curr
+y''' deriv
+secondari insert equat data insertequationdata interpol interpol secondari state getinterpolatedsecondaryst index count
+defin scale deriv step
+step start stepstart
+version
+org apach common math3 od
+prev
+system arraycopi interpol interpol state getinterpolatedst
+dot ydot dot ydot length
+dot ydot count dot ydot count length
+scale step size stepsiz
+deriv
+index
+differenti equat
+y'' deriv
+step store begin step
+omit index notat clariti
+larg step step multipli factor
+curr interpol current time getcurrenttim
+interpol set interpol time setinterpolatedtim prev
+handl step handlestep step interpol stepinterpol interpol islast
+system arraycopi interpol interpol deriv getinterpolatedderiv
+compon accur max growth
+stop integr need step handl
+count
+org apach common math3 od nonstiff adam moulton integr adamsmoultonintegr
+base multistep integr ordinari
+step defin
+max count exceed except maxcountexceededexcept
+higher order deriv
+compon nordsieck vector multipli
+secondari insert equat data insertequationdata interpol interpol secondari deriv getinterpolatedsecondaryderiv index dot ydot count
+length
+count curr
+primari insert equat data insertequationdata interpol interpol state getinterpolatedst count
+multistep integr multistepintegr adapt stepsiz integr adaptivestepsizeintegr
+scale length
+equat mapper equationsmapp primari expand primari mapper getprimarymapp
+expand state od expandablestatefulod expand expand getexpand

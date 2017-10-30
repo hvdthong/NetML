@@ -1,0 +1,9 @@
+creat copi code sourc arrai
+math arrai matharrai
+copi arrai
+org apach common math3 util
+arrai util
+copi copyof sourc
+param sourc arrai copi
+version
+copi copyof sourc sourc length

@@ -1,0 +1,44 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+super fixer visitor superfixervisitor ast visitor astvisitor
+end visit endvisit messag send messagesend call block scope blockscop scope
+system println endvisit call
+error occur
+call codegen bind codegenbind
+method bind methodbind super bind superbind call codegen bind codegenbind
+super bind superbind problem method bind problemmethodbind
+intertypemethodbind static bound
+treat super call special
+super bind superbind inter type method bind intertypemethodbind
+intertypemethodbind intertypemethodbind superbind
+postdispatchmethod null
+call bind postdispatchmethod
+return
+eclips factori eclipsefactori factori lookup environ ajlookupenviron method scope environ factori
+access accessnam
+call super access issuperaccess call bind static isstat
+call receiv refer thisrefer call receiv sourc start sourcestart call receiv sourc end sourceend
+access accessnam
+mangler namemangl super dispatch method superdispatchmethod factori bind frombind target class targetclass
+string super bind superbind selector char arrai tochararrai
+call receiv isthi call bind protect isprotect call bind static isstat
+xxx hack violat binari compat rule
+super bind superbind declar class declaringclass equal target class targetclass
+access accessnam
+mangler namemangl protect dispatch method protecteddispatchmethod factori bind frombind target class targetclass
+string super bind superbind selector char arrai tochararrai
+access accessnam
+mangler namemangl super dispatch method superdispatchmethod factori bind frombind target class targetclass
+string super bind superbind selector char arrai tochararrai
+uniqu
+method bind methodbind super access bind superaccessbind
+method bind methodbind class file constant classfileconst acc public accpubl access accessnam
+super bind superbind return type returntyp super bind superbind paramet super bind superbind thrown except thrownexcept
+target class targetclass
+ast util astutil replac method bind replacemethodbind call super access bind superaccessbind
+resolv member resolvedmemb target member targetmemb
+super bind superbind declar class declaringclass parameter type isparameterizedtyp superbind declaringclass isparameterizedtyp pr206911
+target member targetmemb factori make resolv member makeresolvedmemb super bind superbind parameter type bind parameterizedtypebind super bind superbind declar class declaringclass gener type generictyp
+target member targetmemb factori make resolv member makeresolvedmemb super bind superbind
+super method call supermethodscal add target member targetmemb

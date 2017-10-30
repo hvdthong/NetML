@@ -1,0 +1,13 @@
+org aspectj ajdt intern compil ast
+aspect declar aspectdeclar type declar typedeclar
+gener super access method generatesuperaccessmethod class file classfil class file classfil method bind methodbind access method accessmethod resolv member resolvedmemb method
+gener method generatemethod class file classfil access method accessmethod
+bodi gener bodygener
+gener code stream codestream code stream codestream
+bodi start
+code stream codestream aload
+ast util astutil gener paramet load generateparameterload access method accessmethod paramet code stream codestream
+code stream codestream invokespeci
+factori make method bind makemethodbind method
+ast util astutil gener return generatereturn access method accessmethod return type returntyp code stream codestream
+bodi end

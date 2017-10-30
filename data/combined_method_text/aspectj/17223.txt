@@ -1,0 +1,18 @@
+org aspectj org eclips jdt core dom
+pointcutdeclar dom ast node
+option pointcut design call 'designator'
+singlevariabledeclar list call 'parameters'
+javadoc
+modifi
+note
+properti paramet list
+methoddeclar
+author ajh02
+pointcut declar pointcutdeclar bodi declar bodydeclar
+list intern child list properti internalgetchildlistproperti child list properti descriptor childlistpropertydescriptor properti
+properti modifiers2 properti modifiers2 properti
+modifi
+properti paramet properti paramet properti
+paramet
+default implement flag error
+intern child list properti internalgetchildlistproperti properti

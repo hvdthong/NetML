@@ -1,0 +1,13 @@
+org aspectj weaver
+member impl memberimpl compar annot element annotatedel member
+rais xlint cantfindtyp messag declar type
+found xlint unresolvablememb messag
+type found bug
+report didnt find member reportdidntfindmemb world world
+report find declar type reportedcantfinddeclaringtyp report unresolv member reportedunresolvablememb
+resolv type resolvedtyp type rtype declar type getdeclaringtyp resolv world
+type rtype miss ismiss
+world lint getlint find type cantfindtyp signal weaver messag weavermessag format weaver messag weavermessag find type find type type rtype getnam
+report find declar type reportedcantfinddeclaringtyp
+world lint getlint unresolv member unresolvablememb signal getnam
+report unresolv member reportedunresolvablememb

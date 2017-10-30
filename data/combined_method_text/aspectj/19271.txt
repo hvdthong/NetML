@@ -1,0 +1,8 @@
+org aspectj weaver
+type target type munger pertypewithintargettypemung resolv type munger resolvedtypemung
+fuzzi boolean fuzzyboolean type iswithintyp resolv type resolvedtyp type
+type
+test pointcut testpointcut type pattern gettypepattern match static matchesstat type
+fuzzi boolean fuzzyboolean
+type type declar type getdeclaringtyp
+fuzzi boolean fuzzyboolean

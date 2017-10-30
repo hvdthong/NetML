@@ -1,0 +1,4 @@
+src/java/org/apache/lucene/index/DirectoryReader_acquireWriteLock_void
+src/java/org/apache/lucene/index/DirectoryReader_doCommit-Map<String,String>_void
+src/java/org/apache/lucene/index/DirectoryReader_initialize-SegmentReader[]_void
+src/java/org/apache/lucene/index/IndexFileDeleter_IndexFileDeleter-Directory-IndexDeletionPolicy-SegmentInfos-PrintStream-DocumentsWriter-CodecProvider_<init>

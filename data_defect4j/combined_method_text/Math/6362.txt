@@ -1,0 +1,12 @@
+comput main state jacobian computemainstatejacobian dot ydot dfdy
+interfac expand link order differenti equat firstorderdifferentialequ order
+param dfdy placehold arrai put jacobian matrix od main state vector
+differenti equat order comput main state jacobian
+comput jacobian matrix od respect main state
+param dot ydot arrai current time deriv main state vector
+version
+matrix link jacobian matric jacobianmatric partial deriv equat
+org apach common math od
+main state jacobian provid mainstatejacobianprovid order differenti equat firstorderdifferentialequ
+param arrai current main state vector
+param current independ time variabl

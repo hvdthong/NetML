@@ -1,0 +1,8 @@
+repres region set polygon
+version
+polygon set polygonsset build buildnew bsp tree bsptree euclidean2 euclidean2d tree
+inherit doc inheritdoc
+polygon set polygonsset tree
+polygon set polygonsset abstract region abstractregion euclidean2 euclidean2d euclidean1 euclidean1d
+overrid
+org apach common math geometri euclidean twod

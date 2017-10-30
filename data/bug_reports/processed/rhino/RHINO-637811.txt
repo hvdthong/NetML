@@ -1,0 +1,19 @@
+labeled loops generate side effects warning
+user agent mozilla windows windows gecko firefox net clr
+build identifier rhino1 7r3pre
+labeled loop generates warning code side effects loop obvious side effects matter loop makes label break continue
+
+bar
+
+warning code side effects line
+tested language version tested optimizer levels
+reproducible
+steps reproduce
+details
+
+
+actual results
+warning code side effects
+expected results
+warning
+bug existed rhino1 7r3pre built months ago built today

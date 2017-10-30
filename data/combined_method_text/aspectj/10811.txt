@@ -1,0 +1,87 @@
+org aspectj ajd swing
+simpl structur view tool panel simplestructureviewtoolpanel panel jpanel
+init jbinit except
+border1 border factori borderfactori creat bevel border createbevelbord bevel border bevelbord lower color white color white color color
+border2 border factori borderfactori creat empti border createemptybord
+separ button set prefer size setpreferreds dimens
+separ button set minimum size setminimums dimens
+separ button set enabl seten
+separ button set border setbord ajd widget style ajdewidgetstyl default border default border
+separ button set maximum size setmaximums dimens
+structur view button structureview button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+structur view button action perform structureview button actionperform
+structur view button structureview button set icon seticon ajd default getdefault icon registri geticonregistri structur view icon getstructureviewicon
+structur view button structureview button set border setbord border2
+structur view button structureview button set tool tip text settooltiptext navig back
+structur view button structureview button set prefer size setpreferreds dimens
+structur view button structureview button set minimum size setminimums dimens
+structur view button structureview button set maximum size setmaximums dimens
+curr config field currconfig field set background setbackground system color systemcolor control
+curr config field currconfig field set font setfont java awt font sansserif
+curr config field currconfig field set border setbord ajd widget style ajdewidgetstyl default border default border
+currconfig field setedit fals
+curr config field currconfig field set text settext
+forward button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+forward button action perform forward button actionperform
+forward button set icon seticon ajd default getdefault icon registri geticonregistri forward icon getforwardicon
+forward button set tool tip text settooltiptext navig forward
+forward button set prefer size setpreferreds dimens
+forward button set minimum size setminimums dimens
+forward button set maximum size setmaximums dimens
+forward button set border setbord ajd widget style ajdewidgetstyl default border default border
+navig panel set layout setlayout border layout1 borderlayout1
+back button set maximum size setmaximums dimens
+back button set minimum size setminimums dimens
+back button set prefer size setpreferreds dimens
+back button set tool tip text settooltiptext navig back
+back button set icon seticon ajd default getdefault icon registri geticonregistri back icon getbackicon
+back button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+back button action perform back button actionperform
+back button set border setbord ajd widget style ajdewidgetstyl default border default border
+set layout setlayout border layout2 borderlayout2
+button panel set layout setlayout border layout3 borderlayout3
+label panel set layout setlayout border layout4 borderlayout4
+hide button hidenonaj button set border setbord ajd widget style ajdewidgetstyl default border default border
+hide button hidenonaj button set maximum size setmaximums dimens
+hide button hidenonaj button set minimum size setminimums dimens
+hide button hidenonaj button set prefer size setpreferreds dimens
+hide button hidenonaj button set tool tip text settooltiptext hide aspectj member
+hide button hidenonaj button set icon seticon ajd default getdefault icon registri geticonregistri hide icon gethidenonajicon
+hide button hidenonaj button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+hide button action perform hidenonaj button actionperform
+navig panel1 set layout setlayout border layout5 borderlayout5
+hide associ button hideassoci button set maximum size setmaximums dimens
+hide associ button hideassoci button set minimum size setminimums dimens
+hide associ button hideassoci button set prefer size setpreferreds dimens
+hide associ button hideassoci button set tool tip text settooltiptext hide associ
+hide associ button hideassoci button set icon seticon ajd default getdefault icon registri geticonregistri hide associ icon gethideassociationsicon
+hide associ button hideassoci button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+hide associ button action perform hideassoci button actionperform
+hide associ button hideassoci button set border setbord ajd widget style ajdewidgetstyl default border default border
+sort button set border setbord ajd widget style ajdewidgetstyl default border default border
+sort button add action listen addactionlisten java awt event action listen actionlisten
+action perform actionperform action event actionev
+sort button action perform sort button actionperform
+sort button set icon seticon ajd default getdefault icon registri geticonregistri order icon getordericon
+sort button set tool tip text settooltiptext sort member
+sort button set prefer size setpreferreds dimens
+sort button set minimum size setminimums dimens
+sort button set maximum size setmaximums dimens
+label panel add curr config field currconfig field border layout borderlayout center
+label panel add structureview button borderlayout west
+add spacer panel border layout borderlayout center
+add button panel border layout borderlayout east
+button panel add navig panel border layout borderlayout center
+navig panel add back button border layout borderlayout center
+navig panel add forward button border layout borderlayout east
+navig panel add panel2 jpanel2 border layout borderlayout west
+button panel add navig panel1 border layout borderlayout west
+navig panel1 add hide associ button hideassoci button border layout borderlayout east
+navig panel1 add hide button hidenonaj button border layout borderlayout center
+navig panel1 add sort button border layout borderlayout west
+add label panel border layout borderlayout west

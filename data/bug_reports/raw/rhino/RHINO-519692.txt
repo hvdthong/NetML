@@ -1,0 +1,13 @@
+Failed to decompile expressions like "new Date()"
+User-Agent:       Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+Build Identifier: 
+
+Compile following to a script
+  var x = new Date().getTime()
+
+then decompile it and you will get
+  var x = new Date.getTime()
+
+what is wrong!
+
+Reproducible: Always

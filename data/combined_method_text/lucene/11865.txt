@@ -1,0 +1,20 @@
+org apach lucen index
+freq prox term writer freqproxtermswrit term hash consum termshashconsum
+append post appendpost freq prox term writer field freqproxtermswriterperfield field
+format post field consum formatpostingsfieldsconsum consum
+corrupt index except corruptindexexcept except ioexcept
+true
+term merg
+termstat numtomerg fieldmergest
+share term
+interleav docid stream
+carefulli copi prox payload info
+chang format match lucen segment
+format
+omittermfreqandposit fals write posit
+payload
+posit payload
+end
+remov termstat
+advanc state term
+term remov mergest

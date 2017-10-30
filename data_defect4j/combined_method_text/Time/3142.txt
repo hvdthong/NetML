@@ -1,0 +1,16 @@
+author stephen colebourn
+wrap field getwrappedfield add instant amount divisor idivisor
+param amount amount scale unit add neg
+fix divisor field' unit durat scale
+remaind date time field remainderdatetimefield
+org joda time field
+param instant time instant milli updat
+add amount scale unit time
+divid date time field divideddatetimefield decor date time field decorateddatetimefield
+updat time instant
+author brian neill o'neil
+divid date time field divideddatetimefield thread safe immut
+divid date time field datetimefield retriev valu reduc
+add instant amount
+rang durat unchang
+instant amount ad neg

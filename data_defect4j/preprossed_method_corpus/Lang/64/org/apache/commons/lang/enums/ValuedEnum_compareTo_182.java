@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common lang enum
+
+
+
+
+
+
+
+
+
+abstract superclass type safe enum integ valu suitabl
+code code statement
+
+note due java class loader classload work compar
+code enum code object equal method
+code code equal method code code
+case effect
+
+subclass
+
+pre
+java version enum javaversionenum valu enum valuedenum
+standard enum version jvm
+java1
+java1
+java1
+java1
+java version enum javaversionenum java1 java version enum javaversionenum java java1
+java version enum javaversionenum java1 java version enum javaversionenum java java1
+java version enum javaversionenum java1 java version enum javaversionenum java java1
+java version enum javaversionenum java1 java version enum javaversionenum java java1
+
+java version enum javaversionenum string
+
+
+
+java version enum javaversionenum enum getenum string java version javavers
+java version enum javaversionenum enum getenum java version enum javaversionenum java version javavers
+
+
+java version enum javaversionenum enum getenum java version javavers
+java version enum javaversionenum enum getenum java version enum javaversionenum java version javavers
+
+
+map enum map getenummap
+enum map getenummap java version enum javaversionenum
+
+
+list enum list getenumlist
+enum list getenumlist java version enum javaversionenum
+
+
+iter iter
+iter java version enum javaversionenum
+
+
+pre
+
+note declar code code compil
+inlin code ensur recompil
+
+
+
+pre
+dosometh java version javavers ver
+ver getvalu
+java1
+
+
+java1
+
+
+
+
+
+pre
+
+shown access
+code getnam code code getvalu code
+
+code enum getenum code code iter code method recommend
+java restrict requir code shown subclass
+altern choic link enum util enumutil
+
+author apach avalon project
+author stephen colebourn
+exist
+version
+
+valu enum valuedenum enum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test order
+
+order numer
+overridden subclass
+
+note enum type
+paramet loader instanc
+reflect compar valu
+
+java lang compar compar compareto object
+param object compar
+object greater
+code code equal
+class cast except classcastexcept code enum code
+null pointer except nullpointerexcept code code
+
+compar compareto object
+ivalu valu enum valuedenum ivalu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

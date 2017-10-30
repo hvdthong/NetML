@@ -1,0 +1,9 @@
+overrid
+link iter linear solver event iterativelinearsolverev
+org apach common math linear
+inherit doc inheritdoc
+version
+default iter linear solver event defaultiterativelinearsolverev iter linear solver event iterativelinearsolverev
+norm residu getnormofresidu
+rnorm
+concret implement

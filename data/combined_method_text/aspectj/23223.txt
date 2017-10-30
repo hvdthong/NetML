@@ -1,0 +1,9 @@
+org aspectj weaver reflect
+author colyer
+implement shadowmatch reflect base world
+shadow match impl shadowmatchimpl shadow match shadowmatch
+join point match joinpointmatch match join point matchesjoinpoint object object thisobject object target object targetobject object arg
+match nevermatch join point match impl joinpointmatchimpl match match
+runtim test evalu runtimetestevalu residu test residualtest object thisobject target object targetobject arg match context matchcontext match
+join point match impl joinpointmatchimpl pointcut paramet getpointcutparamet object thisobject target object targetobject arg
+join point match impl joinpointmatchimpl match match

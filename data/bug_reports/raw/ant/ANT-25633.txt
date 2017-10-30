@@ -1,0 +1,18 @@
+macrodef should support default element node
+Currently I have to put macro subnodes into additional argument node in order to make them work with macrodef. It would be much better to have an ability to use all macrodef instance subnodes directly. For example:
+
+  <macrodef name="jython">
+    <attribute name="script"/>
+    <element name=""/>
+    <sequential>
+      <java classname="org.python.util.launcher" failonerror="true">
+        <arg file="@{script}"/>
+        <elements/>
+      </java>
+    </sequential>
+  </macrodef>
+
+  <jython script="script.jy">
+    <arg value="${package}"/>
+    <arg file="${outpath}"/>
+  </jython>

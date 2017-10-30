@@ -1,0 +1,12 @@
+org aspectj weaver
+declar member correspond
+actual method declar
+resolv member impl resolvedmemberimpl member impl memberimpl posit ihasposit annot element annotatedel type variabl declar element typevariabledeclaringel resolv member resolvedmemb
+build list type subtyp supertyp inclus
+accumul type accumulatetypesinbetween resolv type resolvedtyp type subtyp resolv type resolvedtyp super type supertyp list type
+type add type subtyp
+type subtyp super type supertyp
+iter iter type subtyp direct supertyp getdirectsupertyp iter hasnext
+resolv type resolvedtyp parent resolv type resolvedtyp iter
+super type supertyp assign isassignablefrom parent
+accumul type accumulatetypesinbetween parent super type supertyp type

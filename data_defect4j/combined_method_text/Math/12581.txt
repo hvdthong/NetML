@@ -1,0 +1,10 @@
+version
+translat region amount
+instanc modifi instanc creat
+org apach common math3 geometri euclidean threed
+polyhedron set polyhedronsset appli transform applytransform translat transform translationtransform translat
+instanc repres translat region
+polyhedron set polyhedronsset abstract region abstractregion euclidean3 euclidean3d euclidean2 euclidean2d
+repres region set polyhedron
+param translat translat appli
+polyhedron set polyhedronsset translat vector3 vector3d translat

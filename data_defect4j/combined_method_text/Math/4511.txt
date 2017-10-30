@@ -1,0 +1,52 @@
+osni marqu lbnl nersc usa
+ratio eim1
+author jim demmel univers california berkelei usa fortran version
+link solv real matrix realmatrix link solv real vector realvector link solv real vector impl realvectorimpl
+author christof voemel univers california berkelei usa fortran version
+dlasq2 dlazq3 dlazq4 dlasq5 dlasq6
+christof voemel univers california berkelei usa
+link getv link getvt link invers getinvers link solv
+comput real real eigenvalu realeigenvalu impli matrix return
+link getd diagon imaginari valu return link
+href http www utexa user inderjit paper thesi pdf
+ratio
+algorithm symmetr tridiagon eigenvalu eigenvector
+org apach common math linear
+find eigenvector
+eim1 secondari
+support strong symmetr strong matric
+imag eigenvalu getimageigenvalu link imag eigenvalu getimageigenvalu
+method call
+inderjit dhillon univers texa austin usa
+version revis date
+eigen decomposit impl eigendecompositionimpl eigen decomposit eigendecomposit
+real eigenvalu realeigenvalu real eigenvalu realeigenvalu real eigenvalu realeigenvalu
+href http www netlib org lapack lawnspdf lawn155 pdf implement
+eigenvector real vector impl realvectorimpl
+matric
+eigenvector arrai real vector arrayrealvector
+author origin fortran version
+avoid divid indefinit matrix
+main length
+eigen decomposit matrix set matric
+calcul eigen decomposit strong symmetr strong matrix
+dqd algorithm posit case lapack routin dlarr
+perform initi shift ldlt decomposit
+author beresford parlett univers california berkelei usa fortran version
+comput requir link eigenvector geteigenvector
+eigenvector find eigenvector findeigenvector real eigenvalu realeigenvalu
+comput eigenvector
+problem beresford parlett osni marqu paper
+jim demmel univers california berkelei usa
+main
+find eigen vector findeigenvector
+call link real matrix realmatrix argument implement
+link getv link getvt link solver getsolv method call
+author osni marqu lbnl nersc usa fortran version
+eigenvalu comput matrix decompos eigenvector
+main eim1 ratio
+author inderjit dhillon univers texa austin usa fortran version
+upper part matrix part diagon access
+time
+beresford parlett univers california berkelei usa
+implement base inderjit singh dhillon thesi

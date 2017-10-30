@@ -1,0 +1,10 @@
+org aspectj ajd core
+interfac handl compil output
+output folder sourc file
+output locat manag ioutputlocationmanag
+copi resourc sourc folder output locat return
+root directori resourc copi
+param resourc resourc copi
+return file object repres root directori resourc
+copi
+file output locat resourc getoutputlocationforresourc file resourc

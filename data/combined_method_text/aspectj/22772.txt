@@ -1,0 +1,22 @@
+org aspectj weaver pattern
+correspond target pcd
+type initi wildtypepattern stai foo
+type deal
+resolvebind method convert bindingtypepattern
+case foo type deal
+author erik hilsdal
+author jim hugunin
+target pointcut thisortargetpointcut bind pointcut namebindingpointcut
+pointcut concretize1 resolv type resolvedtyp aspect inaspect resolv type resolvedtyp declar type declaringtyp int map intmap bind
+declar isdeclar bind enclos advic getenclosingadvic
+enforc rule design support declar
+aspect inaspect world getworld show messag showmessag messag imessag error
+weaver messag weavermessag format weaver messag weavermessag target declar target declar isthi target
+bind enclos advic getenclosingadvic sourc locat getsourceloc
+pointcut make match makematchesnoth pointcut concret
+type pattern typepattern type newtyp type remap advic formal remapadviceform bind
+aspect inaspect crosscut member crosscuttingmemb
+aspect inaspect crosscut member crosscuttingmemb expos type exposetyp type newtyp exact type getexacttyp
+pointcut ret target pointcut thisortargetpointcut isthi type newtyp
+ret copi locat copylocationfrom
+ret

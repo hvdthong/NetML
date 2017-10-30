@@ -1,0 +1,10 @@
+org aspectj ajdt intern compil ast
+take method extra paramet
+thisjoinpointstaticpart thisjoinpoint thisenclosingjoinpointstaticpart
+join point visitor thisjoinpointvisitor ast visitor astvisitor
+type bind typebind remov paramet removeparamet index type bind typebind bind
+len bind length
+type bind typebind ret type bind typebind len
+system arraycopi bind ret index
+system arraycopi bind index ret index len index
+ret

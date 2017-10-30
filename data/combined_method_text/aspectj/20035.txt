@@ -1,0 +1,51 @@
+org aspectj weaver
+world collect type crosscut member
+world dump node inod
+add type map kei type signatur
+type map involv
+member type variabl reason
+signatur type variabl
+guarante type variabl
+previous work similarli
+name type variabl map
+typevariablereferencetyp
+parameterizedtyp member type variabl involv
+boundedreferencetyp bound type variabl
+definit member type variabl tvar declar gener
+method ctor oppos declar gener type
+resolv type resolvedtyp put string kei resolv type resolvedtyp type
+type parameter type isparameterizedtyp type parameter member type variabl isparameterizedwithamembertypevari
+debug
+system err println put parameter type utilis member declar type variabl typemap kei kei type type
+type
+type type variabl refer istypevariablerefer
+debug
+system err println put type variabl refer type typemap kei kei type type
+type
+test improv avoid put
+bound member type variabl
+type bound refer type boundedreferencetyp
+debug
+system err println put bound refer type typemap kei kei type type
+type
+type miss resolv type signatur missingresolvedtypewithknownsignatur
+debug
+system err println put miss type typemap kei kei type type
+type
+type refer type referencetyp refer type referencetyp type deleg getdeleg expend isexpend type
+debug
+system err println put expend ref type null deleg typemap kei kei type type
+type
+expend isexpend type
+dont refer queue track profil
+polici weak ref weak ref
+memori profil memoryprofil expend map expendablemap put kei weak refer weakrefer type
+expend map expendablemap put kei weak refer weakrefer type
+polici soft ref soft ref
+memori profil memoryprofil expend map expendablemap put kei soft refer softrefer type
+expend map expendablemap put kei soft refer softrefer type
+expend map expendablemap put kei type
+memori profil memoryprofil expend map expendablemap size max expend map size maxexpendablemaps
+max expend map size maxexpendablemaps expend map expendablemap size
+type
+resolv type resolvedtyp map tmap put kei type

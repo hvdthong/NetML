@@ -1,0 +1,40 @@
+org apach common math3 od
+jacobian matric jacobianmatric
+index efod add secondari equat addsecondaryequ jacobian secondari equat jacobianssecondaryequ
+except mismatch equat mismatchedequ primari set expand set
+defin set link secondari equat secondaryequ secondari equat
+dimens mismatch except dimensionmismatchexcept dimens partial state
+efod set secondari state setsecondaryst index matric data matricesdata
+link paramet jacobian provid parameterjacobianprovid
+jode
+paramet primari od set
+main state jacobian provid mainstatejacobianprovid
+link order differenti equat firstorderdifferentialequ
+match build instanc
+order differenti equat firstorderdifferentialequ od jode main state jacobian wrapper mainstatejacobianwrapp
+except math illeg argument except mathillegalargumentexcept primari set expand set
+math illeg argument except mathillegalargumentexcept
+version
+parameter od parameterizedod
+main state jacobian wrapper mainstatejacobianwrapp jode od
+order comput jacobian matric respect paramet
+link parameter od parameterizedod
+safeti check
+dimens mismatch except dimensionmismatchexcept mismatch equat mismatchedequ
+mismatch equat mismatchedequ
+expand primari getprimari od
+match select equat set dimens
+primari od set paramet jacobian provid set
+math illeg argument except mathillegalargumentexcept local format localizedformat unmatch od expand set
+efod expand
+regist variat equat registervariationalequ expand state od expandablestatefulod expand
+regist variat equat jacobian matric expand set
+comput jacobian matric respect initi state vector
+param expand expand set variat equat regist
+intend pack link expand state od expandablestatefulod
+conjunct primari set od
+paramet jacobian provid parameterjacobianprovid
+expand state od expandablestatefulod
+link main state jacobian provid mainstatejacobianprovid
+expand state od expandablestatefulod add secondari equat addsecondaryequ secondari equat secondaryequ
+order differenti equat firstorderdifferentialequ

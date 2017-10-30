@@ -1,0 +1,13 @@
+org aspectj weaver
+hold crosscuttingmemb world handl
+manag chang
+author jim hugunin
+crosscut member set crosscuttingmembersset
+list declar soft getdeclaresoft
+declar soft declaresoft
+set ret hash set hashset
+iter member valu iter hasnext
+ret add addal crosscut member crosscuttingmemb declar soft getdeclaresoft
+declar soft declaresoft arrai list arraylist
+declar soft declaresoft add addal ret
+declar soft declaresoft

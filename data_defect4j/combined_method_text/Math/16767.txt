@@ -1,0 +1,20 @@
+pre
+real vector realvector calcul beta calculatebeta
+overrid
+gl assum gener covari matrix omega error
+real matrix realmatrix invers decomposit ludecomposit xtoix solver getsolv invers getinvers
+estim gl
+gl implement multipl linear regress
+real matrix realmatrix omega invers getomegainvers
+real matrix realmatrix getx transpos
+var omega
+invers multipli multipli oper geti
+real matrix realmatrix xtoix multipli multipli getx
+beta
+omega omega 1x'omega
+version
+org apach common math3 stat regress
+varianc
+omega
+calcul beta gl
+gl multipl linear regress glsmultiplelinearregress abstract multipl linear regress abstractmultiplelinearregress

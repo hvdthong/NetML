@@ -1,0 +1,16 @@
+org aspectj org eclips jdt core dom
+pointcutdeclar dom ast node
+option pointcut design call 'designator'
+singlevariabledeclar list call 'parameters'
+javadoc
+modifi
+note
+properti paramet list
+methoddeclar
+author ajh02
+pointcut declar pointcutdeclar bodi declar bodydeclar
+set design setdesign pointcut design pointcutdesign pointcut design pointcutdesign
+ast node astnod child oldchild pointcut design pointcutdesign
+pre replac child prereplacechild child oldchild pointcut design pointcutdesign design properti design properti
+pointcut design pointcutdesign pointcut design pointcutdesign
+post replac child postreplacechild child oldchild pointcut design pointcutdesign design properti design properti

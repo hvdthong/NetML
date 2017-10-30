@@ -1,0 +1,7 @@
+gener bicub interpol function
+polynomi fit
+org apach common math3 analysi interpol
+prior gener interpol function input smooth
+version
+default constructor degre fit polynomi set
+smooth polynomi bicub spline interpol smoothingpolynomialbicubicsplineinterpol

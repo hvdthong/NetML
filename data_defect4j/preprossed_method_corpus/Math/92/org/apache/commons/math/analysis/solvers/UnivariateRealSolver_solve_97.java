@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+org apach common math analysi solver
+
+
+
+
+
+
+
+
+interfac univari real rootfind algorithm
+
+implement search interv
+
+version revis date
+
+univari real solver univariaterealsolv converg algorithm convergingalgorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+solv root interv
+solver requir interv bracket singl root
+
+param function solv
+param min lower bound interv
+param max upper bound interv
+function
+converg except convergenceexcept maximum iter count exceed
+solver detect converg problem
+function evalu except functionevaluationexcept error occur evalu
+function
+illeg argument except illegalargumentexcept min max endpoint
+satisfi requir solver
+
+
+solv univari real function univariaterealfunct min max
+converg except convergenceexcept
+function evalu except functionevaluationexcept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

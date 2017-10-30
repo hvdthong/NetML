@@ -1,0 +1,17 @@
+design extens extract field
+param instant millisecond t00 01t00 00z subtract
+singl field month second
+param subtract unit field
+author stephen colebourn
+subtract durat neg instant
+updat millisecond
+long min
+millisecond durat number standard implement provid assist
+add instant
+defin calcul engin durat field
+arithmet except arithmeticexcept long min negat
+defin set method manipul millisecond durat
+durat field durationfield compar durat field durationfield
+subtract instant
+author brian neill o'neil
+org joda time
