@@ -23,7 +23,7 @@ Dataset details
 Example running 
 ----------------
 
-* Please run test_NetML.py to get used to NetML model. 
+* Please run test_NetML.py to get used to NetML model. We see that the loss value descrease which means that our loss function converges. 
 
 Input data
 ----------------
@@ -57,6 +57,11 @@ Simply run this command to train the network:
 	
 Note that in this case, nfolds=10, iters=30, alpha=0.1, beta=0.01, and kNN=10
 
+Example output: 
+----------------
+
+$ kNN 10 Alpha 0.1 Beta 0.01 Time 41.380628 MAP 0.
+
 Train and test the model
 ----------------
 
@@ -71,50 +76,4 @@ After training, we can test the model easily by running:
 Example output
 --------------
 
-The classification task was to classify 6 different kinds of data structures
-and argorithms. The original dataset is divided 7/3 for training/testing
-
-### After training
-
-    ('Accuracy:', 0.9924924924924925)
-                precision    recall  f1-score   support
-
-      mergesort       1.00      1.00      1.00       413
-     linkedlist       1.00      1.00      1.00       368
-      quicksort       1.00      1.00      1.00       401
-            bfs       0.95      1.00      0.98       313
-     bubblesort       1.00      1.00      1.00       185
-       knapsack       1.00      0.95      0.98       318
-
-    avg / total       0.99      0.99      0.99      1998
-
-    [[413   0   0   0   0   0]
-     [  0 368   0   0   0   0]
-     [  0   0 401   0   0   0]
-     [  0   0   0 313   0   0]
-     [  0   0   0   0 185   0]
-     [  0   0   0  15   0 303]]
-
-
-### After testing
-
-    ('Accuracy:', 0.99300699300699302)
-                precision    recall  f1-score   support
-
-      mergesort       1.00      1.00      1.00       154
-     linkedlist       1.00      1.00      1.00       157
-      quicksort       1.00      1.00      1.00       166
-            bfs       0.96      1.00      0.98       128
-     bubblesort       1.00      1.00      1.00       109
-       knapsack       1.00      0.96      0.98       144
-
-    avg / total       0.99      0.99      0.99       858
-
-    [[154   0   0   0   0   0]
-     [  0 157   0   0   0   0]
-     [  0   0 166   0   0   0]
-     [  0   0   0 128   0   0]
-     [  0   0   0   0 109   0]
-     [  0   0   0   6   0 138]]
-	
-
+![Propose model for the siamese tbcnn](../figure/propose_model.png)
