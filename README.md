@@ -1,5 +1,6 @@
 # Network-clustered Multi-modal Bug Localization.
 Building the NetML algorithm, the figure belows illustrate our proposed model:
+![Propose model for the siamese tbcnn](../figure/propose_model.png)
 
 First time setup
 ----------------
