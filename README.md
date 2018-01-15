@@ -34,6 +34,7 @@ Input data
 * Label data
 
 * Please take a look at folder ./data_example to see the input of our framework: 
+
 ** bug_list.txt: all the bug reports 
 ** 
 
