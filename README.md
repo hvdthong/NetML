@@ -36,11 +36,26 @@ Input data
 * Please take a look at folder ./data_example to see the input of our framework: 
 
 	* bug_list.txt: all the bug reports 
-	** 
+	* method_list.txt: all the methods 
+	* features.txt: features for each pair of bug-method
+	* groundtruth.txt: label data
+	
+Parameters:
+----------------
+We have five different parameters:
+
+* nfolds: number of folds to do cross-validation
+* iters: number of iterations for training NetML
+* alpha and beta: control the strength of ridge and Network lasso regularization, respectively. 
+* kNN: number of nearest of neighbors 
 
 Running the model
 ----------------
+Simply run this command to train the network: 
 
+	$ python run_NetML.py ./data_example/bug_list.txt ./data_example/method_list.txt ./data_example/features.txt ./data_example/groundtruth.txt 10 30 0.1 0.01 10
+	
+Note that in this case, nfolds=10, iters=30, alpha=0.1, beta=0.01, and kNN=10
 
 Train and test the model
 ----------------
