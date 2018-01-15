@@ -1,7 +1,7 @@
 # Network-clustered Multi-modal Bug Localization.
 Building the NetML algorithm, the figure belows illustrate our proposed model:
 
-![Propose model for the NetML](./doc/framework.jpg)
+![Propose model for the NetML](../doc/framework.jpg)
 
 First time setup
 ----------------
