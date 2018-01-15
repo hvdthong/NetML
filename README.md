@@ -25,7 +25,15 @@ Example running
 
 Input data
 ----------------
-* 
+
+* All the bug reports for each project.
+* All the methods for each project.
+* Features for each pair of bug report-method, the features mention whether a relationship between the bug report and method. 
+* Label data
+
+Running the model
+----------------
+
 
 Train and test the model
 ----------------
