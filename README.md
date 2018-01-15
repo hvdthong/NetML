@@ -12,7 +12,7 @@ Please install the neccessary libraries before running our NetML model:
 - scikit-learn 0.19.0
 
 
-To do list
+Dataset details
 ----------------
 
 * Building the first version of siamese neural network (SNN), each side of the SNN is a TBCNN, input of each side is the AST presentation of code in different languages. 
