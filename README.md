@@ -1,7 +1,7 @@
 # Network-clustered Multi-modal Bug Localization.
 Building the NetML algorithm, the figure belows illustrate our proposed model:
 
-![Propose model for the siamese tbcnn](../figure/propose_model.png)
+![Propose model for the NetML](./doc/framework.jpg)
 
 First time setup
 ----------------
@@ -60,20 +60,4 @@ Note that in this case, nfolds=10, iters=30, alpha=0.1, beta=0.01, and kNN=10
 Example output: 
 ----------------
 
-$ kNN 10 Alpha 0.1 Beta 0.01 Time 41.380628 MAP 0.
-
-Train and test the model
-----------------
-
-Simply run this command to train the network, the data to train is in data/algorithm_trees.pkl, the pretrained_vectors is in data/pretrained_vectors:
-
-    $ python train.py
-    
-After training, we can test the model easily by running:
-
-    $ python test.py
-    
-Example output
---------------
-
-![Propose model for the siamese tbcnn](../figure/propose_model.png)
+![Output](./doc/output.jpg)

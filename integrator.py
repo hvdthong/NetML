@@ -192,6 +192,70 @@ class NLIntegrator(Integrator):
                 print "- Iteration %d: Loss=%.6f Eta=%.4f Time=%.6f" % (n, curr_loss, eta, time() - t0)
         return self
 
+    def fit_advanced(self, X, y, B, M, test_folds, qidx, top_k):
+        nbugs, nmethods, nfeatures = X.shape
+
+        self.U = np.zeros((nbugs, nfeatures), dtype=np.float64)  # initialize parameters
+        self.V = np.zeros((nmethods, nfeatures), dtype=np.float64)
+
+        # self.U = np.random.random((nbugs, nfeatures))
+        # self.V = np.random.random((nmethods, nfeatures))
+
+        B_sum = B.sum(axis=1)  # Precompute constant terms
+        M_sum = M.sum(axis=1)
+
+        w = self.sample_weight(y)  # Compute sample weight given class distribution
+
+        eta = 1.0
+        t0 = time()
+
+        for n in xrange(1, self.niters + 1):
+            sigma = self.predict_proba(X)  # Step 1: compute all prediction
+            grad = w * (sigma - y)
+            hess = w * sigma * (1.0 - sigma)
+            prev_loss = self.loss(sigma, y, w=w)
+
+            for j in xrange(nfeatures):
+                X_j, U_j, V_j = X[:, :, j], self.U[:, j], self.V[:, j]
+                G = grad * X_j
+                H = hess * X_j * X_j
+
+                # Step 2a: Update U
+                numer = np.sum(G, axis=1) + self.beta * (U_j * B_sum - B.dot(U_j)) + self.alpha * U_j
+                denom = np.sum(H, axis=1) + self.beta * B_sum + self.alpha
+                self.U[:, j] = U_j - eta * (numer / denom)
+
+                # Step 2b: Update V
+                numer = np.sum(G, axis=0) + self.beta * (V_j * M_sum - M.dot(V_j)) + self.alpha * V_j
+                denom = np.sum(H, axis=0) + self.beta * M_sum + self.alpha
+                self.V[:, j] = V_j - eta * (numer / denom)
+
+            if self.nonnegative:
+                self.U = self.U.clip(min=0.0)
+                self.V = self.V.clip(min=0.0)
+
+            curr_loss = self.loss(self.predict_proba(X), y, w=w)
+            self.trace.append(curr_loss)
+
+            if abs(curr_loss - prev_loss) < EPSILON:
+                break
+
+            # Adaptive learning rate: Half (double) the rate if the loss increases (decreases)
+            eta = (0.5 * eta) if curr_loss > prev_loss else min(1.0, 2 * eta)
+
+            if self.verbose:
+                y_pred = self.predict_proba(X)
+                y_test_pred, y_test_true = y_pred[test_folds], y[test_folds]
+                map_score = mean_avg_prec(y_test_true, y_test_pred, qidx, top_k)
+                hit1 = hit_rate(y_test_true, y_test_pred, qidx, top_k=1)
+                hit5 = hit_rate(y_test_true, y_test_pred, qidx, top_k=5)
+                hit10 = hit_rate(y_test_true, y_test_pred, qidx, top_k=10)
+
+                self.iters_trace.append(
+                    "- Iteration %d: Loss=%.6f Eta=%.4f Time=%.6f MAP=%.3f Hit1=%i Hit5=%i Hit10=%i" %
+                    (n, curr_loss, eta, time() - t0, map_score, hit1, hit5, hit10))
+        return self
+
     def fit_transductive(self, X, y, B, M, train_folds, test_folds, qidx, top_k):
         nbugs, nmethods, nfeatures = X.shape
 
@@ -286,6 +350,37 @@ class NLIntegrator(Integrator):
 
 
 if __name__ == '__main__':
+    # Example code for Integrator components
+    # X = csr_matrix([[1, 2, 3, 4], [2, 3, 4, 5], [-4, -3, -2, -1], [1, 2, 3, 4], [2, 3, 4, 5]])
+    # y = np.array(["richard", "thong", "duy", "richard", "thong"])
+    # y_bin = LabelBinarizer().fit_transform(y)
+    #
+    # m = SGDIntegrator(niters=1000)
+    # t0 = time()
+    # print m.fit(X, y).coef()
+    # print "SGDIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % (m.loss(m.predict_proba(X), y_bin), time() - t0,
+    #     accuracy_score(m.predict(X), y))
+    #
+    # m = ScikitIntegrator(solver="sgd", niters=1000)
+    # t0 = time()
+    # print m.fit(X, y).coef()
+    # print "ScikitSGDIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % (m.loss(m.predict_proba(X), y_bin), time() - t0,
+    #     accuracy_score(m.predict(X), y))
+    #
+    # m = ScikitIntegrator(solver="lbfgs", niters=1000)
+    # t0 = time()
+    # print m.fit(X, y).coef()
+    # print "ScikitLBFGSIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % (m.loss(m.predict_proba(X), y_bin), time() - t0,
+    #     accuracy_score(m.predict(X), y))
+
+    # m = NetworkIntegrator(niters=1000, verbose=False)
+    # t0 = time()
+    # U, V = m.fit(X, y, B, M)
+    # w = m.sample_weight(y)
+    # print U, V
+    # print "NetworkIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % (m.loss(m.predict_proba(X, U, V), y, w=w), time() - t0,
+    #     accuracy_score(m.predict(X, U, V).ravel(), y.ravel()))
+
     X = np.array([[[1.0, 1.0], [1.0, 0.0]], [[0.0, 0.0], [0.0, 1.0]], [[0.0, 1.0], [0.0, 1.0]]])
     y = np.array([[1.0, 1.0], [0.0, 0.0], [0.0, 1.0]])
     B = np.array([[0.0, 0.5, 1.0], [0.5, 0.0, 0.8], [1.0, 0.8, 0.0]])
@@ -299,3 +394,46 @@ if __name__ == '__main__':
     print U.shape, V.shape
     print "NLIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % \
           (m.loss(m.predict_proba(X), y, w=w), time() - t0, accuracy_score(m.predict(X).ravel(), y.ravel()))
+
+    # # Code for running Network Lasso
+    # project = "rhino"  # "aspectj"  # "ant"  # "rhino"
+    # X = read_X(project)
+    # y = read_Y(project)
+    # B = graph_bug(project).toarray()
+    # M = graph_method(project).toarray()
+    # print X.shape, y.shape, B.shape, M.shape
+    #
+    # k = [m for b in y for m in b if int(m) == 1]
+    # print k
+    # print len(k)
+    #
+    # m = NLIntegrator(verbose=True, niters=5, alpha=0)
+    # t0 = time()
+    # U, V = m.fit(X, y, B, M).coef()
+    # w = m.sample_weight(y)
+    # # print U, V
+    # print "NLIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % \
+    #       (m.loss(m.predict_proba(X), y, w=w), time() - t0, accuracy_score(m.predict(X).ravel(), y.ravel()))
+    # print csr_matrix(y).nnz, csr_matrix(m.predict(X)).nnz
+
+    # m = NetworkIntegrator(verbose=True, niters=5, alpha=0)
+    # t0 = time()
+    # U, V = m.fit(X, y, B, M)
+    # w = m.sample_weight(y)
+    # print U.shape, V.shape
+    # print "NetworkIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % \
+    #       (m.loss(m.predict_proba(X, U, V), y, w=w), time() - t0, accuracy_score(m.predict(X, U, V).ravel(), y.ravel()))
+    # print csr_matrix(y).nnz, csr_matrix(m.predict(X, U, V)).nnz
+
+
+    # X_new = np.vstack([xij for xi in X for xij in xi])
+    # y_new = np.vstack([yij for yi in y for yij in yi]).ravel()
+    # print X_new.shape, y_new.shape
+    # #
+    # m = ScikitIntegrator(niters=30)
+    # t0 = time()
+    # print m.fit(X_new, y_new).coef()
+    # print "SGDIntegrator: Loss=%.6f Time=%.6f  Accuracy=%.4f" % (m.loss(m.predict_proba(X_new), y_new), time() - t0,
+    #     accuracy_score(m.predict(X_new), y_new))
+    #
+    # print csr_matrix(y_new).nnz, csr_matrix(m.predict(X_new)).nnz
