@@ -33,6 +33,9 @@ Input data
 * Features for each pair of bug report-method, the features mention whether a relationship between the bug report and method. 
 * Label data
 
+* Please take a look at folder ./data_example to see the input of our framework: 
+-
+
 Running the model
 ----------------
 
