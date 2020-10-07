@@ -61,3 +61,7 @@ Example output:
 ----------------
 
 ![Output](./doc/output.png)
+
+Contact: 
+----------------
+If you have any questions, please send the email to: vdthoang.2016@smu.edu.sg
